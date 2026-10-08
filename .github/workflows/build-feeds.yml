@@ -23,7 +23,7 @@ jobs:
         env:
           ALERT_FEEDS: ${{ secrets.ALERT_FEEDS }}
           PUBLISH_START: ${{ vars.PUBLISH_START }}
-          PAGES_BASE: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+          PAGES_BASE: https://jonahlopin.github.io/alert-feeds
         run: python3 build.py
 
       - name: Commit changes
