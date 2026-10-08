@@ -19,21 +19,29 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build feeds
+      - name: Build and publish feeds
         env:
           ALERT_FEEDS: ${{ secrets.ALERT_FEEDS }}
           PUBLISH_START: ${{ vars.PUBLISH_START }}
           PAGES_BASE: https://jonahlopin.github.io/alert-feeds
-        run: python3 build.py
-
-      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A docs state.json
-          if git diff --cached --quiet; then
-            echo "No changes"
-            exit 0
-          fi
-          git commit -m "Update feeds"
-          git push
+          # A run that started on an older commit gets its push rejected; rebuild on the
+          # latest main so state.json (the first-seen times) is never rolled back.
+          for attempt in 1 2 3; do
+            python3 build.py
+            git add -A docs state.json
+            if git diff --cached --quiet; then
+              echo "No changes"
+              exit 0
+            fi
+            git commit -q -m "Update feeds"
+            if git push -q; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt); rebuilding on the latest main"
+            git fetch -q origin main
+            git reset -q --hard origin/main
+          done
+          exit 1
