@@ -113,7 +113,58 @@ def write_feed(slug, cfg, seen, now, start):
             ET.SubElement(node, "summary").text = entry["summary"]
     ET.indent(feed)
     ET.ElementTree(feed).write(os.path.join(OUT_DIR, slug + ".xml"), encoding="utf-8", xml_declaration=True)
-    return len(items)
+    return len(items), (items[0][0] if items else None)
+
+
+INDEX_STYLE = """
+:root { color-scheme: light dark; --bg: #fff; --fg: #1a1a1a; --muted: #666; --line: #e3e3e3; --link: #0b57d0; }
+@media (prefers-color-scheme: dark) { :root { --bg: #121212; --fg: #e8e8e8; --muted: #9a9a9a; --line: #2c2c2c; --link: #8ab4f8; } }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+main { max-width: 1040px; margin: 0 auto; padding: 24px 16px; }
+h1 { font-size: 20px; margin: 0 0 4px; }
+p { color: var(--muted); margin: 0 0 16px; }
+.wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; }
+th, td { text-align: left; padding: 8px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 600; color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; }
+td.n { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+td.when { white-space: nowrap; color: var(--muted); }
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+"""
+
+
+def write_index(feeds, state, results, start):
+    """docs/index.html: one row per feed with its published and waiting entry counts.
+
+    Built only from entry dates, never the build time, so it changes only when a feed does.
+    """
+    esc = html.escape
+    rows, published_total, waiting_total = [], 0, 0
+    for slug, cfg in sorted(feeds.items(), key=lambda kv: (kv[1].get("title") or kv[0]).lower()):
+        published, latest = results.get(slug, (0, None))
+        waiting = len(state.get(slug, {})) - published
+        published_total += published
+        waiting_total += waiting
+        count = str(published) + (" (+%d waiting)" % waiting if waiting > 0 else "")
+        rows.append(
+            '<tr><td><a href="feeds/%s.xml">%s</a></td><td>%s</td><td class="n">%s</td><td class="when">%s</td></tr>'
+            % (esc(slug), esc(slug), esc(cfg.get("title") or slug), esc(count), esc(latest.strftime("%Y-%m-%d %H:%M UTC") if latest else "-"))
+        )
+    note = "%d feeds, %d entries published" % (len(feeds), published_total)
+    if waiting_total:
+        note += ", %d waiting until %s" % (waiting_total, start.strftime("%Y-%m-%d %H:%M UTC"))
+    page = (
+        '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
+        '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
+        "<title>Alert Feeds</title>\n<style>%s</style>\n</head>\n<body>\n<main>\n"
+        "<h1>Alert feeds</h1>\n"
+        "<p>Google Alerts feeds republished with real entry dates (Google stamps every entry 1970-01-01). %s.</p>\n"
+        '<div class="wrap"><table>\n<thead><tr><th>Feed</th><th>Alert</th><th class="n">Entries</th><th>Latest entry</th></tr></thead>\n'
+        "<tbody>\n%s\n</tbody>\n</table></div>\n</main>\n</body>\n</html>\n"
+    ) % (INDEX_STYLE, esc(note), "\n".join(rows))
+    with open(os.path.join(ROOT, "docs", "index.html"), "w") as fh:
+        fh.write(page)
 
 
 def main():
@@ -127,7 +178,7 @@ def main():
     cutoff = now - dt.timedelta(days=KEEP_DAYS)
     os.makedirs(OUT_DIR, exist_ok=True)
 
-    failures, new_total, published_total = [], 0, 0
+    failures, new_total, results = [], 0, {}
     for slug, cfg in sorted(feeds.items()):
         seen = state.setdefault(slug, {})
         try:
@@ -149,7 +200,7 @@ def main():
             failures.append("%s: %s" % (slug, exc))
         for eid in [k for k, v in seen.items() if parse_iso(v["first_seen"]) < cutoff]:
             del seen[eid]
-        published_total += write_feed(slug, cfg, seen, now, start)
+        results[slug] = write_feed(slug, cfg, seen, now, start)
         time.sleep(2)
 
     for slug in [s for s in state if s not in feeds]:
@@ -157,7 +208,9 @@ def main():
     with open(STATE_PATH, "w") as fh:
         json.dump(state, fh, indent=1, sort_keys=True)
         fh.write("\n")
+    write_index(feeds, state, results, start)
 
+    published_total = sum(n for n, _ in results.values())
     print("feeds=%d new_entries=%d published_entries=%d failures=%d" % (len(feeds), new_total, published_total, len(failures)))
     for line in failures:
         print("FAILED " + line)
