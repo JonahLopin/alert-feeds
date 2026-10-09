@@ -23,18 +23,24 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
+import compare
+
 ATOM_NS = "http://www.w3.org/2005/Atom"
 ATOM = "{%s}" % ATOM_NS
 ROOT = os.path.dirname(os.path.abspath(__file__))
 CONFIG_PATH = os.path.join(ROOT, "config.json")
 STATE_PATH = os.path.join(ROOT, "state.json")
 OUT_DIR = os.path.join(ROOT, "docs", "feeds")
+# serper_build.py records the Serper side here; this script turns it into docs/serper/<slug>.xml.
+SERPER_STATE_PATH = os.path.join(ROOT, "serper_state.json")
+SERPER_OUT_DIR = os.path.join(ROOT, "docs", "serper")
 KEEP_DAYS = 60
 MAX_ENTRIES = 100
 PAGES_BASE = os.environ.get("PAGES_BASE", "").rstrip("/")
 # No entry is dated before this moment. A reader that registers a feed while it is
 # still empty then sees the backlog arrive as new items once this time passes.
 PUBLISH_START = os.environ.get("PUBLISH_START") or "1970-01-01T00:00:00Z"
+SERPER_PUBLISH_START = os.environ.get("SERPER_PUBLISH_START") or "1970-01-01T00:00:00Z"
 TAG = re.compile(r"<[^>]+>")
 CATEGORY_ORDER = {"help": 0, "press": 1, "blog": 2}
 
@@ -90,7 +96,7 @@ def fetch(url, tries=4):
     raise last
 
 
-def write_feed(slug, feed_cfg, seen, now, start):
+def write_feed(slug, feed_cfg, seen, now, start, out_dir=OUT_DIR, path="feeds", urn="alert-feeds", source=""):
     # An entry's date is when it was first seen, but never before PUBLISH_START; entries
     # whose date is still in the future stay out of the feed until it arrives.
     items = []
@@ -102,12 +108,12 @@ def write_feed(slug, feed_cfg, seen, now, start):
     items = items[:MAX_ENTRIES]
 
     feed = ET.Element("feed", {"xmlns": ATOM_NS})
-    ET.SubElement(feed, "id").text = "urn:alert-feeds:%s" % slug
-    ET.SubElement(feed, "title").text = feed_title(feed_cfg)
+    ET.SubElement(feed, "id").text = "urn:%s:%s" % (urn, slug)
+    ET.SubElement(feed, "title").text = feed_title(feed_cfg) + source
     # Latest entry date rather than build time, so an unchanged feed writes identical bytes.
     ET.SubElement(feed, "updated").text = iso(items[0][0]) if items else iso(start)
     if PAGES_BASE:
-        ET.SubElement(feed, "link", {"rel": "self", "href": "%s/feeds/%s.xml" % (PAGES_BASE, slug)})
+        ET.SubElement(feed, "link", {"rel": "self", "href": "%s/%s/%s.xml" % (PAGES_BASE, path, slug)})
     for when, eid, entry in items:
         node = ET.SubElement(feed, "entry")
         ET.SubElement(node, "id").text = eid
@@ -118,7 +124,7 @@ def write_feed(slug, feed_cfg, seen, now, start):
         if entry.get("summary"):
             ET.SubElement(node, "summary").text = entry["summary"]
     ET.indent(feed)
-    ET.ElementTree(feed).write(os.path.join(OUT_DIR, slug + ".xml"), encoding="utf-8", xml_declaration=True)
+    ET.ElementTree(feed).write(os.path.join(out_dir, slug + ".xml"), encoding="utf-8", xml_declaration=True)
     return len(items), (items[0][0] if items else None)
 
 
@@ -198,24 +204,42 @@ def fmt_when(t):
     return t.strftime("%b %-d, %H:%M UTC")
 
 
-def write_index(config, state, results, start):
+SOURCES = {
+    # source -> (feed key holding its Crayon wiring, label, folder its feeds are served from)
+    "google": ("crayon", "Google Alerts", "feeds"),
+    "serper": ("serper_crayon", "Serper", "serper"),
+}
+
+
+def write_index(config, state, results, start, serper_state, serper_results, serper_start):
     """docs/index.html: each Crayon portal with a chip for how many feeds are wired into it,
-    expanding to one row per feed. Built only from entry dates, never the build time, so
-    the page changes only when a feed does."""
+    expanding to one row per feed. A portal's "source" ("google", the default, or "serper")
+    says which version of the feeds it reads. Built only from entry dates and run records,
+    never the build time, so the page changes only when a feed does."""
     esc = html.escape
     feeds = config["feeds"]
+    s_feeds = serper_state.get("feeds") or {}
+    s_meta = serper_state.get("_meta") or {}
+    tbs = (config.get("serper") or {}).get("tbs") or "qdr:w"
 
-    def counts(slugs):
-        published = sum(results.get(s, (0, None))[0] for s in slugs)
-        seen = sum(len(state.get(s, {})) for s in slugs)
-        return published, seen - published
-
-    def row(slug):
-        f = feeds[slug]
-        crayon = f.get("crayon") or {}
+    def tally(slug, source):
+        """(published, waiting, latest, baseline) for one feed in one source."""
+        if source == "serper":
+            entries = s_feeds.get(slug) or {}
+            published, latest = serper_results.get(slug, (0, None))
+            live = sum(1 for v in entries.values() if not v.get("baseline"))
+            return published, live - published, latest, len(entries) - live
         published, latest = results.get(slug, (0, None))
-        waiting = len(state.get(slug, {})) - published
-        view_alert = "https://www.google.com/alerts?q=%s&hl=en" % urllib.parse.quote(f["query"], safe="")
+        return published, len(state.get(slug, {})) - published, latest, 0
+
+    def counts(slugs, source):
+        rows = [tally(s, source) for s in slugs]
+        return sum(r[0] for r in rows), sum(r[1] for r in rows)
+
+    def row(slug, source):
+        f = feeds[slug]
+        crayon = f.get(SOURCES[source][0]) or {}
+        published, waiting, latest, baseline = tally(slug, source)
         competitor_sub = esc(f["category"])
         if crayon.get("competitor"):
             admin = "https://app.crayon.co/admin-console/dashboards/%s/competitor/%s/rss" % (crayon["portal"], crayon["competitor_id"])
@@ -225,35 +249,48 @@ def write_index(config, state, results, start):
         if waiting > 0:
             entries += '<div class="waiting">+%d waiting</div>' % waiting
         entries += '<div class="sub">%s</div>' % (esc("Latest " + fmt_when(latest)) if latest else "No entries yet")
+        if baseline:
+            entries += '<div class="sub" title="Results of the first search, recorded so they never count as new">%d in first search</div>' % baseline
         tag = '<span class="tag %s"><span class="type">%s &rsaquo;</span>%s</span>' % (
             TYPE_CLASS.get(f.get("insight_type"), "t-other"), esc(f.get("insight_type") or "Insight"), esc(f.get("insight_subtype") or "-"))
+        if source == "serper":
+            search = "https://www.google.com/search?q=%s&tbs=%s" % (urllib.parse.quote(f["query"], safe=""), urllib.parse.quote(tbs, safe=""))
+            alert_link = '<a href="%s">Run the search &#8599;</a>' % esc(search)
+            feed_links = '<a href="serper/%s.xml">Our feed</a><span class="sep">&middot;</span><a href="feeds/%s.xml">Alerts version</a>' % (esc(slug), esc(slug))
+        else:
+            view_alert = "https://www.google.com/alerts?q=%s&hl=en" % urllib.parse.quote(f["query"], safe="")
+            alert_link = '<a href="%s">View alert &#8599;</a>' % esc(view_alert)
+            feed_links = '<a href="feeds/%s.xml">Our feed</a><span class="sep">&middot;</span><a href="%s">Google feed</a>' % (esc(slug), esc(f["google_feed"]))
         return (
             "<tr>"
             '<td><div class="name">%s</div><div class="sub">%s</div></td>'
-            '<td><code>%s</code><div class="sub"><a href="%s">View alert &#8599;</a></div></td>'
-            '<td class="feeds"><a href="feeds/%s.xml">Our feed</a><span class="sep">&middot;</span><a href="%s">Google feed</a></td>'
+            '<td><code>%s</code><div class="sub">%s</div></td>'
+            '<td class="feeds">%s</td>'
             '<td class="num">%s</td>'
             "<td>%s</td>"
             "</tr>"
-        ) % (esc(f["competitor"]), competitor_sub, esc(f["query"]), esc(view_alert), esc(slug), esc(f["google_feed"]), entries, tag)
+        ) % (esc(f["competitor"]), competitor_sub, esc(f["query"]), alert_link, feed_links, entries, tag)
 
-    def table(slugs):
+    def table(slugs, source):
         slugs = sorted(slugs, key=lambda s: (feeds[s]["competitor"].lower(), CATEGORY_ORDER.get(feeds[s]["category"], 9), s))
-        head = ('<thead><tr><th class="c-comp">Competitor</th><th class="c-alert">Alert</th><th class="c-feeds">Feeds</th>'
-                '<th class="c-num">Entries</th><th class="c-wired" title="Insight type and subtype in Crayon">Wired to</th></tr></thead>')
-        return '<div class="table-wrap"><table>%s<tbody>%s</tbody></table></div>' % (head, "".join(row(s) for s in slugs))
+        head = ('<thead><tr><th class="c-comp">Competitor</th><th class="c-alert">%s</th><th class="c-feeds">Feeds</th>'
+                '<th class="c-num">Entries</th><th class="c-wired" title="Insight type and subtype in Crayon">Wired to</th></tr></thead>'
+                % ("Search" if source == "serper" else "Alert"))
+        return '<div class="table-wrap"><table>%s<tbody>%s</tbody></table></div>' % (head, "".join(row(s, source) for s in slugs))
 
     sections = []
-    wired = set()
+    wired = {source: set() for source in SOURCES}
     for portal in config.get("portals", []):
-        slugs = [s for s, f in feeds.items() if (f.get("crayon") or {}).get("portal") == portal["id"]]
-        wired.update(slugs)
-        published, waiting = counts(slugs)
-        competitors = len({(feeds[s].get("crayon") or {}).get("competitor_id") for s in slugs})
+        source = portal.get("source") or "google"
+        key, label, _ = SOURCES[source]
+        slugs = [s for s, f in feeds.items() if (f.get(key) or {}).get("portal") == portal["id"]]
+        wired[source].update(slugs)
+        published, waiting = counts(slugs, source)
+        competitors = len({(feeds[s].get(key) or {}).get("competitor_id") for s in slugs})
         sections.append(
             '<section class="portal">'
             '<div class="portal-head"><div>'
-            '<div class="eyebrow">Crayon portal &middot; %d</div>'
+            '<div class="eyebrow">Crayon portal &middot; %d &middot; %s feeds</div>'
             '<h2><a href="%s">%s</a></h2>'
             '<div class="links"><a href="%s">Open portal &#8599;</a><span class="sep">&middot;</span><a href="%s">Admin console &#8599;</a></div>'
             "</div>"
@@ -261,21 +298,32 @@ def write_index(config, state, results, start):
             "</div>"
             "<details><summary><span class=\"chip\">This portal has %d feed%s wired into it</span><span class=\"toggle\"></span></summary>%s</details>"
             "</section>"
-            % (portal["id"], esc(portal["url"]), esc(portal["name"]), esc(portal["url"]), esc(portal.get("admin_url") or portal["url"]),
+            % (portal["id"], esc(label), esc(portal["url"]), esc(portal["name"]), esc(portal["url"]), esc(portal.get("admin_url") or portal["url"]),
                competitors, published, ('<span><b>%d</b> waiting</span>' % waiting) if waiting else "",
-               len(slugs), "" if len(slugs) == 1 else "s", table(slugs))
+               len(slugs), "" if len(slugs) == 1 else "s", table(slugs, source))
         )
-    loose = [s for s in feeds if s not in wired]
-    if loose:
-        sections.append(
-            '<section class="portal"><div class="portal-head"><div><div class="eyebrow">Not wired into a portal</div>'
-            "<h2>Other feeds</h2></div></div>"
-            "<details><summary><span class=\"chip\">%d feed%s</span><span class=\"toggle\"></span></summary>%s</details></section>"
-            % (len(loose), "" if len(loose) == 1 else "s", table(loose))
-        )
+    for source in SOURCES:
+        if source == "serper" and "serper" not in config:
+            continue
+        loose = [s for s in feeds if s not in wired[source]]
+        if loose:
+            sections.append(
+                '<section class="portal"><div class="portal-head"><div><div class="eyebrow">Not wired into a portal yet</div>'
+                "<h2>%s feeds</h2></div></div>"
+                "<details><summary><span class=\"chip\">%d feed%s</span><span class=\"toggle\"></span></summary>%s</details></section>"
+                % (esc(SOURCES[source][1]), len(loose), "" if len(loose) == 1 else "s", table(loose, source))
+            )
 
-    published, waiting = counts(list(feeds))
+    published, waiting = counts(list(feeds), "google")
     waiting_stat = ('<div class="stat"><b>%d</b><span>waiting until %s</span></div>' % (waiting, esc(fmt_when(start)))) if waiting else ""
+    serper_stat = ""
+    if "serper" in config:
+        s_published, s_waiting = counts(list(feeds), "serper")
+        serper_stat = '<div class="stat"><b>%d</b><span>Serper entries published%s</span></div>' % (
+            s_published, esc(", %d waiting until %s" % (s_waiting, fmt_when(serper_start))) if s_waiting else "")
+        if s_meta.get("last_run"):
+            serper_stat += '<div class="stat"><b>%s</b><span>last Serper search &middot; %d credits used</span></div>' % (
+                esc(fmt_when(parse_iso(s_meta["last_run"]))), s_meta.get("credits_used", 0))
     page = (
         '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
         '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
@@ -285,17 +333,17 @@ def write_index(config, state, results, start):
         '<div class="eyebrow">Alert feeds</div>'
         "<h1>Google Alerts, republished for Crayon</h1>"
         '<p class="lede">Google stamps every alert entry 1970-01-01, so Crayon skips them. Each feed here is the same alert '
-        "with the date it was first seen and the real article link, checked every 20 minutes.</p>"
+        "with the date it was first seen and the real article link, checked every 20 minutes. The Serper feeds run the same "
+        'site: queries as searches and publish each URL the first time it appears. <a href="compare.html">Compare Alerts and Serper &rarr;</a></p>'
         '<div class="stats"><div class="stat"><b>%d</b><span>feeds</span></div>'
-        '<div class="stat"><b>%d</b><span>entries published</span></div>%s</div>'
+        '<div class="stat"><b>%d</b><span>Alerts entries published</span></div>%s%s</div>'
         "</div></header>\n"
         '<main class="container">%s</main>\n'
         '<footer class="container">Built by <a href="https://github.com/JonahLopin/alert-feeds">github.com/JonahLopin/alert-feeds</a>.</footer>\n'
         "</body>\n</html>\n"
-    ) % (INDEX_STYLE, len(feeds), published, waiting_stat, "".join(sections))
+    ) % (INDEX_STYLE, len(feeds), published, waiting_stat, serper_stat, "".join(sections))
     with open(os.path.join(ROOT, "docs", "index.html"), "w") as fh:
         fh.write(page)
-
 
 def main():
     with open(CONFIG_PATH) as fh:
@@ -340,7 +388,25 @@ def main():
     with open(STATE_PATH, "w") as fh:
         json.dump(state, fh, indent=1, sort_keys=True)
         fh.write("\n")
-    write_index(config, state, results, start)
+
+    # The Serper side: serper_build.py records what each search found; publish everything
+    # but the baseline (first-search) results, keyed by the result's own URL. Every feed gets
+    # a file, empty or not, so a feed can be registered before Serper has searched for it.
+    serper_state = {}
+    if os.path.exists(SERPER_STATE_PATH):
+        with open(SERPER_STATE_PATH) as fh:
+            serper_state = json.load(fh)
+    serper_start = parse_iso(SERPER_PUBLISH_START)
+    serper_results = {}
+    if "serper" in config:
+        os.makedirs(SERPER_OUT_DIR, exist_ok=True)
+        for slug, feed_cfg in feeds.items():
+            seen = (serper_state.get("feeds") or {}).get(slug) or {}
+            live = {v["link"]: v for v in seen.values() if not v.get("baseline")}
+            serper_results[slug] = write_feed(slug, feed_cfg, live, now, serper_start, out_dir=SERPER_OUT_DIR,
+                                              path="serper", urn="serper-feeds", source=" via Serper")
+    write_index(config, state, results, start, serper_state, serper_results, serper_start)
+    compare.write_compare(config, state, serper_state, ROOT, parse_iso, fmt_when, INDEX_STYLE, CATEGORY_ORDER)
 
     published_total = sum(n for n, _ in results.values())
     print("feeds=%d new_entries=%d published_entries=%d failures=%d" % (len(feeds), new_total, published_total, len(failures)))

@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "*/20 * * * *"
   workflow_dispatch:
+    inputs:
+      serper_force:
+        description: "Run the Serper searches even if they ran within the last hour"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -22,15 +27,23 @@ jobs:
       - name: Build and publish feeds
         env:
           PUBLISH_START: ${{ vars.PUBLISH_START }}
+          SERPER_PUBLISH_START: ${{ vars.SERPER_PUBLISH_START }}
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          SERPER_FORCE: ${{ inputs.serper_force && '1' || '' }}
           PAGES_BASE: https://jonahlopin.github.io/alert-feeds
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # A run that started on an older commit gets its push rejected; rebuild on the
-          # latest main so state.json (the first-seen times) is never rolled back.
+          # latest main so state.json (the first-seen times) is never rolled back. Serper only
+          # searches on the first attempt, so a retry never pays for the same searches twice.
           for attempt in 1 2 3; do
+            if [ "$attempt" = 1 ]; then
+              python3 serper_build.py || echo "::warning::Serper search failed; publishing the Alerts feeds anyway"
+            fi
             python3 build.py
             git add -A docs state.json
+            if [ -f serper_state.json ]; then git add serper_state.json; fi
             if git diff --cached --quiet; then
               echo "No changes"
               exit 0
