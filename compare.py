@@ -5,27 +5,53 @@ so the head-to-head counts start when Serper started (its first run, T0):
   - both: a page each source found, with which one saw it first;
   - only Alerts / only Serper: a page the other never returned.
 Pages the alerts found before T0 are checked against Serper's baseline separately, as a
-read on whether Serper's search would have caught them too. Standard library only; build.py
+read on whether Serper's search would have caught them too. Listing and archive pages
+(is_listing) are left out on both sides. Standard library only; build.py
 passes in its helpers and styles so this module never imports it.
 """
 
 import html
 import os
+import re
 import statistics
 import urllib.parse
 
 
-def norm(url):
-    """Matching key for a URL: no scheme, www. or trailing slash, utm_ params dropped."""
+# Query parameters that only track a click, never change the page. Google adds srsltid to
+# result links and it differs between searches, so the same page would look new each time.
+TRACKING = re.compile(r"^(utm_.*|srsltid|gclid|fbclid|mc_cid|mc_eid|_hsenc|_hsmi)$", re.I)
+# Listing and archive pages rather than articles: /page/3, /tag/x, /category/x, /author/x,
+# ?page=2, or a bare section such as /news or /blog.
+ARCHIVE_PATH = re.compile(r"(^|/)(page/\d+|tag/[^/]+|category/[^/]+|author/[^/]+)/?$", re.I)
+SECTION_ONLY = {"", "news", "blog", "blogs", "newsroom", "press", "press-releases", "press-room", "media",
+                "articles", "insights", "resources", "company-news", "updates"}
+
+
+def clean_link(url):
+    """The link with click-tracking parameters removed."""
     parts = urllib.parse.urlsplit((url or "").strip())
+    query = urllib.parse.urlencode(
+        [(k, v) for k, v in urllib.parse.parse_qsl(parts.query, keep_blank_values=True) if not TRACKING.match(k)]
+    )
+    return urllib.parse.urlunsplit((parts.scheme, parts.netloc, parts.path, query, parts.fragment))
+
+
+def norm(url):
+    """Matching key for a URL: no scheme, www., trailing slash or tracking parameters."""
+    parts = urllib.parse.urlsplit(clean_link(url))
     host = parts.netloc.lower()
     if host.startswith("www."):
         host = host[4:]
     path = parts.path.rstrip("/") or "/"
-    query = urllib.parse.urlencode(
-        [(k, v) for k, v in urllib.parse.parse_qsl(parts.query, keep_blank_values=True) if not k.lower().startswith("utm_")]
-    )
-    return host + path + ("?" + query if query else "")
+    return host + path + ("?" + parts.query if parts.query else "")
+
+
+def is_listing(url):
+    """True for a listing or archive page rather than an article (see ARCHIVE_PATH)."""
+    parts = urllib.parse.urlsplit(url or "")
+    if parts.path.strip("/").lower() in SECTION_ONLY or ARCHIVE_PATH.search(parts.path):
+        return True
+    return any(k.lower() in ("page", "paged") for k, _ in urllib.parse.parse_qsl(parts.query))
 
 
 COMPARE_STYLE = """
@@ -67,10 +93,12 @@ def analyze(config, google_state, serper_state, parse_iso):
     for slug, feed in config["feeds"].items():
         g = {}
         for entry in (google_state.get(slug) or {}).values():
+            if is_listing(entry["link"]):
+                continue
             k, t = norm(entry["link"]), parse_iso(entry["first_seen"])
             if k not in g or t < g[k][0]:
                 g[k] = (t, entry)
-        s = {k: (parse_iso(v["first_seen"]), v) for k, v in (s_feeds.get(slug) or {}).items()}
+        s = {k: (parse_iso(v["first_seen"]), v) for k, v in (s_feeds.get(slug) or {}).items() if not is_listing(v["link"])}
         g_new = {k for k, (t, _) in g.items() if t >= t0}
         s_new = {k for k, (_, v) in s.items() if not v.get("baseline")}
         both, only_a, only_s = [], [], []
@@ -164,7 +192,8 @@ def write_compare(config, google_state, serper_state, root, parse_iso, fmt_when,
             '<section class="portal"><div class="portal-head"><div>'
             '<div class="eyebrow">Since Serper started &middot; %s</div><h2>Per alert</h2>'
             '<p class="note">Alerts are checked every 20 minutes and Serper every %d, so "earlier" is only that precise. '
-            "Serper searches the past %s for each query%s; its first search is a baseline and isn't counted.%s "
+            "Serper searches the past %s for each query%s; its first search is a baseline and isn't counted. "
+            "Listing and archive pages (/news, /page/3, /tag/...) are left out on both sides.%s "
             "Serper has run %d times and used %d credits%s.</p>"
             "</div></div>"
             '<div class="table-wrap"><table class="cmp"><thead><tr><th class="c-comp">Competitor</th><th class="c-q">Query</th>'

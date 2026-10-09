@@ -24,7 +24,7 @@ import urllib.error
 import urllib.request
 
 import build
-from compare import norm
+from compare import clean_link, is_listing, norm
 
 SERPER_URL = "https://google.serper.dev/search"
 STATE_PATH = build.SERPER_STATE_PATH
@@ -79,6 +79,14 @@ def main():
 
     cutoff = now - dt.timedelta(days=build.KEEP_DAYS)
     feeds = state.setdefault("feeds", {})
+    for slug, seen in feeds.items():
+        merged = {}
+        for entry in sorted(seen.values(), key=lambda e: e["first_seen"]):
+            if is_listing(entry["link"]):
+                continue
+            entry["link"] = clean_link(entry["link"])
+            merged.setdefault(norm(entry["link"]), entry)
+        feeds[slug] = merged
     credits = queries = new_total = 0
     failures, fatal = [], None
     paged = meta.setdefault("paged", [])
@@ -101,10 +109,12 @@ def main():
                 credits += answer.get("credits") or 1
                 queries += 1
                 organic = [o for o in answer.get("organic") or [] if o.get("link")]
+                full_page = len(organic) >= 10
+                organic = [o for o in organic if not is_listing(o["link"])]
                 fresh = [o for o in organic if norm(o["link"]) not in run_links]
                 run_links.update(norm(o["link"]) for o in fresh)
                 results.extend((page, o) for o in fresh)
-                if len(organic) < 10 or not fresh:
+                if not full_page or not fresh:
                     break
         except Fatal as exc:
             fatal = str(exc)
@@ -120,7 +130,7 @@ def main():
             paged.append(slug)
         feed_tbs[slug] = this_tbs
         for page, result in results:
-            link = result["link"]
+            link = clean_link(result["link"])
             k = norm(link)
             if k in seen:
                 continue
