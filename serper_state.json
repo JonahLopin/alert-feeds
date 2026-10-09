@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 323,
+  "credits_used": 370,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-09T20:11:09Z",
+  "last_run": "2026-10-09T21:09:40Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 7
+  "runs": 8
  },
  "feeds": {
   "adp-help": {},
@@ -179,6 +179,33 @@
     "link": "https://mediacenter.adp.com/video-insights?o=72",
     "summary": "For media inquiries, connect with our media relations team for press materials, interviews and expert commentary or reach out directly to a member of our team.",
     "title": "Video Insights"
+   },
+   "mediacenter.adp.com/workforce-data-releases?l=27": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-09T21:09:40Z",
+    "link": "https://mediacenter.adp.com/workforce-data-releases?l=27",
+    "page": 1,
+    "summary": "U.S. private employers added an average of 23,750 jobs per week, U.S. private employers added an average of 16,250 jobs per week,",
+    "title": "Workforce Data Releases"
+   },
+   "mediacenter.adp.com/workforce-data-releases?o=18": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-09T21:09:40Z",
+    "link": "https://mediacenter.adp.com/workforce-data-releases?o=18",
+    "page": 2,
+    "summary": "ROSELAND, N.J., April 1, 2026 /PRNewswire/ -- Private sector employment increased by 62,000 jobs in March and pay was up 4.5 percent year-over-year according to ...",
+    "title": "Workforce Data Releases"
+   },
+   "mediacenter.adp.com/workforce-data-releases?o=9": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-09T21:09:40Z",
+    "link": "https://mediacenter.adp.com/workforce-data-releases?o=9",
+    "page": 2,
+    "summary": "ROSELAND, N.J. \u2013 May 19, 2026 \u2013 For the four weeks ending May 2, 2026, U.S. private employers added an average of 42,250 jobs per week, according to the NER ...",
+    "title": "Workforce Data Releases"
    }
   },
   "basware-press": {
@@ -200,6 +227,15 @@
     "page": 2,
     "summary": "Federal regulators fined American Express Co. $350 million for failing to catch and report money laundering in its system.",
     "title": "Amex Fined $350 Million for Lapses in Money-Laundering ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/ancestry-com-dodges-right-of-publicity-suit-over-student-photos": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-09T21:09:40Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ancestry-com-dodges-right-of-publicity-suit-over-student-photos",
+    "page": 2,
+    "summary": "A consumer dropped her proposed class action alleging Ancestry.com illegally used names and likenesses of students and teachers who had no connection to the ...",
+    "title": "Ancestry.com Dodges Right of Publicity Suit Over Student ..."
    },
    "news.bloomberglaw.com/business-and-practice/appeals-court-vacates-manatee-harm-decision-after-rule-change": {
     "baseline": true,
@@ -226,6 +262,15 @@
     "page": 2,
     "summary": "A federal appeals court declined to resurrect a Black FedEx employee's claims she was denied a promotion because she complained about harassment.",
     "title": "Black FedEx Worker Loses Appeal to Revive Retaliation ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/cnn-blasts-azerbaijans-dangerous-lawsuit-over-iran-reporting": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-09T21:09:40Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cnn-blasts-azerbaijans-dangerous-lawsuit-over-iran-reporting",
+    "page": 1,
+    "summary": "CNN moved to shut down an unusual defamation case over its reporting on the Iran war, saying Azerbaijan is trying to export its own censorship policies. CNN ...",
+    "title": "CNN Blasts Azerbaijan's 'Dangerous' Lawsuit Over Iran ..."
    },
    "news.bloomberglaw.com/business-and-practice/core-scientific-patent-owner-resolve-cryptography-tech-dispute": {
     "baseline": true,
@@ -418,6 +463,15 @@
     "summary": "Moderna Inc. and three top executives batted away investor allegations of overstating the efficacy level of its vaccine candidate for respiratory syncytial ...",
     "title": "Moderna Sheds Investor Lawsuit Over RSV Vaccine ..."
    },
+   "news.bloomberglaw.com/business-and-practice/pentagon-plans-for-public-execution-questioned-by-legal-experts": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-09T21:09:40Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/pentagon-plans-for-public-execution-questioned-by-legal-experts",
+    "page": 2,
+    "summary": "The Trump administration's plans to livestream the first public execution in nearly a century lacks legal precedent and invokes an approach most commonly ...",
+    "title": "Pentagon Plans for Public Execution Questioned by Legal ..."
+   },
    "news.bloomberglaw.com/business-and-practice/plan-to-broadcast-fort-hood-killers-execution-spurs-criticism": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -496,6 +550,15 @@
     "page": 1,
     "summary": "A cascade of cyberattacks has hit Japanese companies over the past few weeks, prompting the government to call for security checks as AI tools lower",
     "title": "Wave of Cyberattacks Prompts Japan to Urge Security ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/weil-adds-london-private-equity-partner-after-string-of-exits": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-09T21:09:40Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/weil-adds-london-private-equity-partner-after-string-of-exits",
+    "page": 2,
+    "summary": "Weil, Gotshal & Manges is adding private equity partner Rebecca Ward to its London office after she spent more than four years at Freshfields.",
+    "title": "Weil Adds London Private Equity Partner After String of Exits"
    }
   },
   "chowbus-blog": {
@@ -1549,6 +1612,15 @@
     "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-brings-ai-powered-drafting-directly-into-the-libra-legal-workspace",
     "summary": "Drafting enables legal professionals to create, edit, review, and collaborate on Word documents directly within the workspace, reducing the need",
     "title": "Wolters Kluwer brings AI-powered drafting directly into the ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-celebrates-a-decade-of-bringing-virtual-nursing-education-and-innovation-to-students": {
+    "baseline": false,
+    "date_hint": "21 hours ago",
+    "first_seen": "2026-10-09T21:09:40Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-celebrates-a-decade-of-bringing-virtual-nursing-education-and-innovation-to-students",
+    "page": 1,
+    "summary": "The use and adoption of virtual simulation in nursing education has come a long way in the past ten years. Not only has this technology become a mainstay in ...",
+    "title": "Wolters Kluwer celebrates a decade of bringing virtual ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-expands-professional-services-for-teammate-expert-solutions-with-protiviti-in-europe": {
     "baseline": true,
