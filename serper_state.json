@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 370,
+  "credits_used": 417,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-09T21:09:40Z",
+  "last_run": "2026-10-09T22:10:25Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 8
+  "runs": 9
  },
  "feeds": {
   "adp-help": {},
@@ -180,11 +180,38 @@
     "summary": "For media inquiries, connect with our media relations team for press materials, interviews and expert commentary or reach out directly to a member of our team.",
     "title": "Video Insights"
    },
+   "mediacenter.adp.com/workforce-data-releases?l=18": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-09T22:10:25Z",
+    "link": "https://mediacenter.adp.com/workforce-data-releases?l=18",
+    "page": 1,
+    "summary": "U.S. private employers added an average of 23,750 jobs per week, private employers added an average of 16,250 jobs per week, an average of 16,500 jobs per week,",
+    "title": "Workforce Data Releases"
+   },
    "mediacenter.adp.com/workforce-data-releases?l=27": {
     "baseline": false,
     "date_hint": "4 days ago",
     "first_seen": "2026-10-09T21:09:40Z",
     "link": "https://mediacenter.adp.com/workforce-data-releases?l=27",
+    "page": 1,
+    "summary": "U.S. private employers added an average of 23,750 jobs per week, U.S. private employers added an average of 16,250 jobs per week,",
+    "title": "Workforce Data Releases"
+   },
+   "mediacenter.adp.com/workforce-data-releases?l=36": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-09T22:10:25Z",
+    "link": "https://mediacenter.adp.com/workforce-data-releases?l=36",
+    "page": 1,
+    "summary": "U.S. private employers added an average of 23,750 jobs per week, U.S. private employers added an average of 16,250 jobs per week,",
+    "title": "Workforce Data Releases"
+   },
+   "mediacenter.adp.com/workforce-data-releases?l=45": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-09T22:10:25Z",
+    "link": "https://mediacenter.adp.com/workforce-data-releases?l=45",
     "page": 1,
     "summary": "U.S. private employers added an average of 23,750 jobs per week, U.S. private employers added an average of 16,250 jobs per week,",
     "title": "Workforce Data Releases"
@@ -237,6 +264,15 @@
     "summary": "A consumer dropped her proposed class action alleging Ancestry.com illegally used names and likenesses of students and teachers who had no connection to the ...",
     "title": "Ancestry.com Dodges Right of Publicity Suit Over Student ..."
    },
+   "news.bloomberglaw.com/business-and-practice/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-10-09T22:10:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value",
+    "page": 2,
+    "summary": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value ... TypeSafe AI, the startup behind Jev, a new artificial intelligence model that went viral after it ...",
+    "title": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value"
+   },
    "news.bloomberglaw.com/business-and-practice/appeals-court-vacates-manatee-harm-decision-after-rule-change": {
     "baseline": true,
     "date_hint": "18 hours ago",
@@ -279,6 +315,15 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/core-scientific-patent-owner-resolve-cryptography-tech-dispute",
     "summary": "Core Scientific Inc. and Malikie Innovations Ltd. resolved their patent dispute concerning methods for cryptography.",
     "title": "Core Scientific, Patent Owner Resolve Cryptography Tech ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/crypto-fraudster-fund-owe-cftc-penalty-over-249-million-scheme": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-09T22:10:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/crypto-fraudster-fund-owe-cftc-penalty-over-249-million-scheme",
+    "page": 3,
+    "summary": "A convicted cryptocurrency fraudster and his fund were ordered to pay a more than $45.1 million penalty to the US Commodity Futures Trading Commission over ...",
+    "title": "Crypto Fraudster, Fund Owe CFTC Penalty Over $249 ..."
    },
    "news.bloomberglaw.com/business-and-practice/crypto-hardware-wallets-hit-in-estimated-70-million-attack": {
     "baseline": false,
@@ -341,6 +386,15 @@
     "summary": "Enroll Confidently Inc. will pay $990,000 to settle a class action alleging it negligently failed to protect the personal information of more than 63,000 people",
     "title": "Enroll Confidently Settles Data Breach Lawsuit for $990000"
    },
+   "news.bloomberglaw.com/business-and-practice/epa-redo-of-biden-era-pfas-biosolids-analysis-spurs-sharp-divide": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-09T22:10:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/epa-redo-of-biden-era-pfas-biosolids-analysis-spurs-sharp-divide",
+    "page": 3,
+    "summary": "The nine-page memo offered voluntary recommendations to reduce risk from two per- and polyfluoroalkyl substances (PFAS) found in biosolids, which are semisolid, ...",
+    "title": "EPA Redo of Biden-era PFAS Biosolids Analysis Spurs ..."
+   },
    "news.bloomberglaw.com/business-and-practice/federal-watchdog-will-investigate-cftc-job-cuts-and-enforcement": {
     "baseline": true,
     "date_hint": "18 hours ago",
@@ -366,6 +420,15 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/fired-michigan-gay-wedding-officiant-seeks-discrimination-shield",
     "summary": "a Christian university professor fired for officiating a same-sex wedding, was interested in the limits of the state antidiscrimination statute's application",
     "title": "Fired Michigan Gay Wedding Officiant Seeks ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/firmus-is-said-to-explore-raising-3-billion-after-shelving-ipo": {
+    "baseline": false,
+    "date_hint": "14 hours ago",
+    "first_seen": "2026-10-09T22:10:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/firmus-is-said-to-explore-raising-3-billion-after-shelving-ipo",
+    "page": 3,
+    "summary": "Nvidia Corp. -backed Firmus and its advisers are in talks with existing investors to help raise $2 billion to $3 billion in a private round, the people said, ...",
+    "title": "Firmus Is Said to Explore Raising $3 Billion After Shelving ..."
    },
    "news.bloomberglaw.com/business-and-practice/florida-bar-exam-fees-for-veteran-lawyers-ruled-constitutional": {
     "baseline": false,
@@ -410,6 +473,15 @@
     "summary": "Humana Inc. shares surged as the company improved its performance on crucial Medicare Advantage quality ratings linked to payment.",
     "title": "Humana Surges on Medicare Quality Ratings Improvement"
    },
+   "news.bloomberglaw.com/business-and-practice/iec-group-privacy-suit-over-spreadsheet-leak-revived-on-appeal": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-09T22:10:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/iec-group-privacy-suit-over-spreadsheet-leak-revived-on-appeal",
+    "page": 2,
+    "summary": "The plaintiffs sued after an IEC Group employee emailed a spreadsheet containing their health information to other plan members, according to the complaint. The ...",
+    "title": "IEC Group Privacy Suit Over Spreadsheet Leak Revived on ..."
+   },
    "news.bloomberglaw.com/business-and-practice/insults-punctuate-el-sayed-rogers-fiery-michigan-senate-debate": {
     "baseline": true,
     "date_hint": "14 hours ago",
@@ -428,6 +500,15 @@
     "summary": "Japan's financial regulator ordered Prudential Financial Inc.'s local units to suspend sales of new policies after repeated misconduct by employees led to ...",
     "title": "Japan Orders Prudential Units to Halt Sales After ..."
    },
+   "news.bloomberglaw.com/business-and-practice/jim-justice-owes-insurer-25-million-in-coal-surety-bond-case": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-09T22:10:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/jim-justice-owes-insurer-25-million-in-coal-surety-bond-case",
+    "page": 3,
+    "summary": "Sen. Jim Justice (R-W.Va.) is liable to Lexon Insurance Co. for more than $25 million to cover a surety bond issued to coal companies the senator and his ...",
+    "title": "Jim Justice Owes Insurer $25 Million in Coal Surety Bond ..."
+   },
    "news.bloomberglaw.com/business-and-practice/judge-sides-with-importers-to-expand-trump-tariff-refund-fight": {
     "baseline": false,
     "date_hint": "23 hours ago",
@@ -437,6 +518,15 @@
     "summary": "A US trade judge approved class-action status for a legal fight over refunds for President Donald Trump's global tariffs, siding with importers who contend ...",
     "title": "Judge Sides With Importers to Expand Trump Tariff Refund ..."
    },
+   "news.bloomberglaw.com/business-and-practice/kirkland-hides-riches-as-big-law-clients-scrutinize-rising-costs": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-09T22:10:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kirkland-hides-riches-as-big-law-clients-scrutinize-rising-costs",
+    "page": 3,
+    "summary": "Kirkland & Ellis' decision to stop disclosing its financial performance shows law firms are hesitant to reveal profits as clients experience spiraling legal ...",
+    "title": "Kirkland Hides Riches as Big Law Clients Scrutinize Rising ..."
+   },
    "news.bloomberglaw.com/business-and-practice/los-angeles-judge-stumbles-through-awkward-discipline-hearing": {
     "baseline": true,
     "date_hint": "2 days ago",
@@ -444,6 +534,15 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/los-angeles-judge-stumbles-through-awkward-discipline-hearing",
     "summary": "A Los Angeles Superior Court judge facing allegations of inappropriate sexual and racial comments stammered his way through a sometimes awkward judicial ...",
     "title": "Los Angeles Judge Stumbles Through Awkward Discipline ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/mastercard-ceo-sees-cross-border-payments-as-top-stablecoin-use": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-10-09T22:10:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/mastercard-ceo-sees-cross-border-payments-as-top-stablecoin-use",
+    "page": 3,
+    "summary": "Cross-border payments are currently the clearest use case for stablecoins and are where Mastercard Inc. is seeing the most traction for the new form of ...",
+    "title": "Mastercard CEO Sees Cross-Border Payments as Top ..."
    },
    "news.bloomberglaw.com/business-and-practice/matt-levines-money-stuff-pre-ipo-perpetual-futures-swap-etf": {
     "baseline": false,
@@ -462,6 +561,24 @@
     "page": 2,
     "summary": "Moderna Inc. and three top executives batted away investor allegations of overstating the efficacy level of its vaccine candidate for respiratory syncytial ...",
     "title": "Moderna Sheds Investor Lawsuit Over RSV Vaccine ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/nasa-seeks-proposals-for-commercial-space-stations": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-09T22:10:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/nasa-seeks-proposals-for-commercial-space-stations",
+    "page": 1,
+    "summary": "NASA released its final request for proposals for plans for the next generation of commercial space stations, according to a news release.",
+    "title": "NASA Seeks Proposals for Commercial Space Stations"
+   },
+   "news.bloomberglaw.com/business-and-practice/netflix-is-planning-to-cut-about-5-of-employees-puck-reports": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-09T22:10:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/netflix-is-planning-to-cut-about-5-of-employees-puck-reports",
+    "page": 3,
+    "summary": "Netflix Inc. is making plans to cut about 5% of its staff as early as next week, the newsletter Puck reported.",
+    "title": "Netflix Is Planning to Cut About 5% of Employees, Puck ..."
    },
    "news.bloomberglaw.com/business-and-practice/pentagon-plans-for-public-execution-questioned-by-legal-experts": {
     "baseline": false,
@@ -524,6 +641,15 @@
     "summary": "Sullivan & Cromwell is bringing on a pair of litigators to lead its Supreme Court and appellate practice. The firm is one of the most profitable in the nation ...",
     "title": "Sullivan & Cromwell Nabs Ashurst, McGuireWoods ..."
    },
+   "news.bloomberglaw.com/business-and-practice/trump-to-direct-agencies-to-counter-states-blocking-energy-plans": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-09T22:10:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-to-direct-agencies-to-counter-states-blocking-energy-plans",
+    "page": 3,
+    "summary": "President Donald Trump is set to direct the federal government to seek ways to overcome state obstacles to energy projects, following efforts threatening ...",
+    "title": "Trump to Direct Agencies to Counter States Blocking ..."
+   },
    "news.bloomberglaw.com/business-and-practice/trumps-proposed-triumphal-arch-draws-suit-by-virginia-county": {
     "baseline": true,
     "date_hint": "5 hours ago",
@@ -559,6 +685,15 @@
     "page": 2,
     "summary": "Weil, Gotshal & Manges is adding private equity partner Rebecca Ward to its London office after she spent more than four years at Freshfields.",
     "title": "Weil Adds London Private Equity Partner After String of Exits"
+   },
+   "news.bloomberglaw.com/business-and-practice/whole-foods-ex-worker-lacks-evidence-for-bias-retaliation-case": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-09T22:10:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/whole-foods-ex-worker-lacks-evidence-for-bias-retaliation-case",
+    "page": 2,
+    "summary": "A former Whole Foods Market Inc. employee failed to support his allegations that the organic grocer fired him because he's Black and took leave to care for ...",
+    "title": "Whole Foods Ex-Worker Lacks Evidence for Bias, ..."
    }
   },
   "chowbus-blog": {
