@@ -1,10 +1,92 @@
 {
  "_meta": {
-  "credits_used": 90,
+  "credits_used": 136,
+  "feed_tbs": {
+   "adp-help": "qdr:w",
+   "adp-press": "qdr:w",
+   "basware-press": "qdr:w",
+   "bloomberg-law-press": "qdr:d",
+   "chowbus-blog": "qdr:w",
+   "chownow-blog": "qdr:w",
+   "csc-blog": "qdr:w",
+   "doordash-blog": "qdr:w",
+   "doordash-press": "qdr:w",
+   "edicom-blog": "qdr:w",
+   "edicom-press": "qdr:w",
+   "grubhub-blog": "qdr:w",
+   "grubhub-help": "qdr:w",
+   "grubhub-press": "qdr:w",
+   "gusto-press": "qdr:w",
+   "igen-blog": "qdr:w",
+   "intuit-quickbooks-help": "qdr:w",
+   "kintsugi-blog": "qdr:w",
+   "lightspeed-hq-blog": "qdr:w",
+   "lightspeed-hq-press": "qdr:w",
+   "ncr-voyix-press": "qdr:w",
+   "ryan-press": "qdr:w",
+   "sap-financial-management-press": "qdr:d",
+   "shift4-dine-blog": "qdr:w",
+   "shift4-dine-help": "qdr:w",
+   "shopify-blog": "qdr:w",
+   "sovos-blog": "qdr:w",
+   "sovos-help": "qdr:w",
+   "spoton-help": "qdr:w",
+   "square-help": "qdr:w",
+   "stripe-help": "qdr:w",
+   "taxcloud-blog": "qdr:w",
+   "taxcloud-help": "qdr:w",
+   "taxjar-help": "qdr:w",
+   "thomson-reuters-tax-blog": "qdr:w",
+   "touchbistro-blog": "qdr:w",
+   "vertex-press": "qdr:w",
+   "wolters-kluwer-tax-press": "qdr:w",
+   "zamp-help": "qdr:w"
+  },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-09T15:30:23Z",
-  "runs": 2
+  "last_run": "2026-10-09T15:36:47Z",
+  "paged": [
+   "adp-help",
+   "adp-press",
+   "basware-press",
+   "bloomberg-law-press",
+   "chowbus-blog",
+   "chownow-blog",
+   "csc-blog",
+   "doordash-blog",
+   "doordash-press",
+   "edicom-blog",
+   "edicom-press",
+   "grubhub-blog",
+   "grubhub-help",
+   "grubhub-press",
+   "gusto-press",
+   "igen-blog",
+   "intuit-quickbooks-help",
+   "kintsugi-blog",
+   "lightspeed-hq-blog",
+   "lightspeed-hq-press",
+   "ncr-voyix-press",
+   "ryan-press",
+   "sap-financial-management-press",
+   "shift4-dine-blog",
+   "shift4-dine-help",
+   "shopify-blog",
+   "sovos-blog",
+   "sovos-help",
+   "spoton-help",
+   "square-help",
+   "stripe-help",
+   "taxcloud-blog",
+   "taxcloud-help",
+   "taxjar-help",
+   "thomson-reuters-tax-blog",
+   "touchbistro-blog",
+   "vertex-press",
+   "wolters-kluwer-tax-press",
+   "zamp-help"
+  ],
+  "runs": 3
  },
  "feeds": {
   "adp-help": {},
@@ -16,6 +98,24 @@
     "link": "https://mediacenter.adp.com/2026-10-06-ADP-National-Employment-Report-Preliminary-Estimate-for-September-19,-2026",
     "summary": "The NER Pulse is an estimate of the week-over-week change in employment based on a four-week moving average. These estimates are based on ADP's finely tuned, ...",
     "title": "ADP National Employment Report Preliminary Estimate for ..."
+   },
+   "mediacenter.adp.com/2026-10-06-ADP-National-Employment-Report-Preliminary-Estimate-for-September-19,-2026?asPDF=": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://mediacenter.adp.com/2026-10-06-ADP-National-Employment-Report-Preliminary-Estimate-for-September-19,-2026?asPDF",
+    "page": 2,
+    "summary": "The NER Pulse is an estimate of the week-over-week change in employment based on a four-week moving average. These estimates are based on ADP's finely tuned ...",
+    "title": "ADP National Employment Report Preliminary Estimate for ..."
+   },
+   "mediacenter.adp.com/news": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://mediacenter.adp.com/news",
+    "page": 1,
+    "summary": "Private-sector employment increased by 90,000 jobs in September, according to the ADP National Employment Report\u00ae produced by ADP Research in collaboration with ...",
+    "title": "News"
    },
    "mediacenter.adp.com/news-briefs?l=27": {
     "baseline": true,
@@ -101,6 +201,15 @@
    }
   },
   "bloomberg-law-press": {
+   "news.bloomberglaw.com/business-and-practice/appeals-court-vacates-manatee-harm-decision-after-rule-change": {
+    "baseline": true,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/appeals-court-vacates-manatee-harm-decision-after-rule-change",
+    "page": 2,
+    "summary": "The US Court of Appeals for the Eleventh District vacated a lower court's judgment in a lawsuit brought by Bear Warriors United Inc. against the Florida ...",
+    "title": "Appeals Court Vacates Manatee Harm Decision After Rule ..."
+   },
    "news.bloomberglaw.com/business-and-practice/baker-mckenzie-hire-formalizes-congressional-investigations-work": {
     "baseline": true,
     "date_hint": "4 days ago",
@@ -108,6 +217,15 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/baker-mckenzie-hire-formalizes-congressional-investigations-work",
     "summary": "Kirkland & Ellis partner Allison Murphy is joining Baker McKenzie to co-head the congressional investigations practice, weeks before the midterm elections ...",
     "title": "Baker McKenzie Hire Formalizes Congressional ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/black-fedex-worker-loses-appeal-to-revive-retaliation-claims": {
+    "baseline": true,
+    "date_hint": "21 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/black-fedex-worker-loses-appeal-to-revive-retaliation-claims",
+    "page": 2,
+    "summary": "A federal appeals court declined to resurrect a Black FedEx employee's claims she was denied a promotion because she complained about harassment.",
+    "title": "Black FedEx Worker Loses Appeal to Revive Retaliation ..."
    },
    "news.bloomberglaw.com/business-and-practice/core-scientific-patent-owner-resolve-cryptography-tech-dispute": {
     "baseline": true,
@@ -125,6 +243,15 @@
     "summary": "Debevoise Reenan and Bushner advise private equity firms and their portfolio companies on complex domestic and cross-border transactions,",
     "title": "Debevoise Picks Up Freshfields' Private Capital Group ..."
    },
+   "news.bloomberglaw.com/business-and-practice/disney-pitches-paramount-universal-on-imax-big-screen-rival": {
+    "baseline": true,
+    "date_hint": "21 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/disney-pitches-paramount-universal-on-imax-big-screen-rival",
+    "page": 2,
+    "summary": "Walt Disney Co. has held talks with other studios about using its new brand for large-screen movie formats, often described as a competitor to Imax Corp.",
+    "title": "Disney Pitches Paramount, Universal on Imax Big-Screen ..."
+   },
    "news.bloomberglaw.com/business-and-practice/dojs-transgender-care-subpoena-appeal-confronts-doubtful-judges": {
     "baseline": true,
     "date_hint": "2 days ago",
@@ -132,6 +259,33 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/dojs-transgender-care-subpoena-appeal-confronts-doubtful-judges",
     "summary": "The First Circuit on Wednesday heard the government's appeals of rulings that quashed sweeping subpoenas into the provision of care for transgender minors at ...",
     "title": "DOJ's Transgender Care Subpoena Appeal Confronts ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/enroll-confidently-settles-data-breach-lawsuit-for-990-000": {
+    "baseline": true,
+    "date_hint": "19 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/enroll-confidently-settles-data-breach-lawsuit-for-990-000",
+    "page": 1,
+    "summary": "Enroll Confidently Inc. will pay $990,000 to settle a class action alleging it negligently failed to protect the personal information of more than 63,000 people",
+    "title": "Enroll Confidently Settles Data Breach Lawsuit for $990000"
+   },
+   "news.bloomberglaw.com/business-and-practice/federal-watchdog-will-investigate-cftc-job-cuts-and-enforcement": {
+    "baseline": true,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/federal-watchdog-will-investigate-cftc-job-cuts-and-enforcement",
+    "page": 1,
+    "summary": "The GAO will investigate whether staff cuts at the Commodity Futures Trading Commission is affecting its ability to function, following a request by Senate",
+    "title": "Federal Watchdog Will Investigate CFTC Job Cuts and ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/financial-services-chairmans-race-downgraded-to-likely-gop": {
+    "baseline": true,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/financial-services-chairmans-race-downgraded-to-likely-gop",
+    "page": 1,
+    "summary": "French Hill's race is getting tighter, widening with less than 30 days until the election, \u201clikely Republican\u201d Friday.",
+    "title": "Financial Services Chairman's Race Downgraded to 'Likely ..."
    },
    "news.bloomberglaw.com/business-and-practice/fired-michigan-gay-wedding-officiant-seeks-discrimination-shield": {
     "baseline": true,
@@ -157,6 +311,24 @@
     "summary": "Humana Inc. shares surged as the company improved its performance on crucial Medicare Advantage quality ratings linked to payment.",
     "title": "Humana Surges on Medicare Quality Ratings Improvement"
    },
+   "news.bloomberglaw.com/business-and-practice/insults-punctuate-el-sayed-rogers-fiery-michigan-senate-debate": {
+    "baseline": true,
+    "date_hint": "14 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/insults-punctuate-el-sayed-rogers-fiery-michigan-senate-debate",
+    "page": 1,
+    "summary": "A debate Thursday night in the closely watched Michigan Senate race quickly turned acrimonious, with Democrat Abdul El-Sayed and former Republican ...",
+    "title": "Insults Punctuate El-Sayed, Rogers Fiery Michigan Senate ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/japan-orders-sales-halt-for-prudential-units-after-misconduct": {
+    "baseline": true,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/japan-orders-sales-halt-for-prudential-units-after-misconduct",
+    "page": 2,
+    "summary": "Japan's financial regulator ordered Prudential Financial Inc.'s local units to suspend sales of new policies after repeated misconduct by employees led to ...",
+    "title": "Japan Orders Prudential Units to Halt Sales After ..."
+   },
    "news.bloomberglaw.com/business-and-practice/los-angeles-judge-stumbles-through-awkward-discipline-hearing": {
     "baseline": true,
     "date_hint": "2 days ago",
@@ -164,6 +336,42 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/los-angeles-judge-stumbles-through-awkward-discipline-hearing",
     "summary": "A Los Angeles Superior Court judge facing allegations of inappropriate sexual and racial comments stammered his way through a sometimes awkward judicial ...",
     "title": "Los Angeles Judge Stumbles Through Awkward Discipline ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/moderna-sheds-investor-lawsuit-over-rsv-vaccine-efficacy-figure": {
+    "baseline": true,
+    "date_hint": "20 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/moderna-sheds-investor-lawsuit-over-rsv-vaccine-efficacy-figure",
+    "page": 2,
+    "summary": "Moderna Inc. and three top executives batted away investor allegations of overstating the efficacy level of its vaccine candidate for respiratory syncytial ...",
+    "title": "Moderna Sheds Investor Lawsuit Over RSV Vaccine ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/regenxbio-penn-end-revived-sarepta-gene-therapy-patent-fight": {
+    "baseline": true,
+    "date_hint": "23 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/regenxbio-penn-end-revived-sarepta-gene-therapy-patent-fight",
+    "page": 2,
+    "summary": "Regenxbio Inc. and the University of Pennsylvania agreed to end their gene-therapy patent dispute with Sarepta Therapeutics Inc. nearly eight months after ...",
+    "title": "Regenxbio, Penn End Revived Sarepta Gene-Therapy ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/retailers-brace-for-surveillance-pricing-bills-lawsuits-to-rise": {
+    "baseline": true,
+    "date_hint": "16 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/retailers-brace-for-surveillance-pricing-bills-lawsuits-to-rise",
+    "page": 2,
+    "summary": "More than a hundred bills were already introduced in states and in Congress to restrict, or ban, how companies use personal information about consumers.",
+    "title": "Retailers Brace for Surveillance Pricing Bills, Lawsuits to ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/revolut-ceo-storonsky-says-hes-targeting-us-primary-listing": {
+    "baseline": true,
+    "date_hint": "23 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/revolut-ceo-storonsky-says-hes-targeting-us-primary-listing",
+    "page": 2,
+    "summary": "Chief Executive Officer Nik Storonsky said he wants the digital bank to hold a primary listing in the US, if it chooses to pursue a public offering in the ...",
+    "title": "Revolut CEO Storonsky Says He's Targeting US Primary ..."
    },
    "news.bloomberglaw.com/business-and-practice/starbucks-unlawfully-limited-facial-piercings-nlrb-judge-finds": {
     "baseline": true,
@@ -180,6 +388,33 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/sullivan-cromwell-nabs-ashurst-mcguirewoods-appellate-chairs",
     "summary": "Sullivan & Cromwell is bringing on a pair of litigators to lead its Supreme Court and appellate practice. The firm is one of the most profitable in the nation ...",
     "title": "Sullivan & Cromwell Nabs Ashurst, McGuireWoods ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trumps-proposed-triumphal-arch-draws-suit-by-virginia-county": {
+    "baseline": true,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trumps-proposed-triumphal-arch-draws-suit-by-virginia-county",
+    "page": 1,
+    "summary": "The county of Arlington, Va., has sued the Trump administration over its proposed \u201cTriumphal Arch.\u201d The 250-foot arch that would be located on the District ...",
+    "title": "Trump's Proposed 'Triumphal Arch' Draws Suit by Virginia ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/usa-today-news-outlets-join-openai-copyright-infringement-fight": {
+    "baseline": true,
+    "date_hint": "22 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/usa-today-news-outlets-join-openai-copyright-infringement-fight",
+    "page": 2,
+    "summary": "OpenAI illicitly accessed the copyrighted material to train consumer products like ChatGPT, and company internal communications from the tech company confirm ...",
+    "title": "USA Today, News Outlets Join OpenAI Copyright ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews": {
+    "baseline": true,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews",
+    "page": 1,
+    "summary": "A cascade of cyberattacks has hit Japanese companies over the past few weeks, prompting the government to call for security checks as AI tools lower",
+    "title": "Wave of Cyberattacks Prompts Japan to Urge Security ..."
    }
   },
   "chowbus-blog": {
@@ -257,6 +492,78 @@
   },
   "igen-blog": {},
   "intuit-quickbooks-help": {
+   "quickbooks.intuit.com/learn-support/en-us/help-article/access-permissions/user-roles-access-rights-quickbooks-online/L66POfRrI_US_en_US": {
+    "baseline": true,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/access-permissions/user-roles-access-rights-quickbooks-online/L66POfRrI_US_en_US",
+    "page": 4,
+    "summary": "Assign roles to people on your QuickBooks Online plan roles to define what they can see and do with to your company data. Each email address on your plan is ...",
+    "title": "User roles and access rights - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/connect-email-quickbooks-desktop/L00d2EZek_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/account-management/connect-email-quickbooks-desktop/L00d2EZek_US_en_US",
+    "page": 2,
+    "summary": "Here's how to connect your email to QuickBooks Desktop \u2014 and save hours on bookkeeping. Follow our step-by-step guide.",
+    "title": "Connect your email to QuickBooks Desktop - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/contact-quickbooks-products-services-support/L7lDnkKLB_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/account-management/contact-quickbooks-products-services-support/L7lDnkKLB_US_en_US",
+    "page": 4,
+    "summary": "QuickBooks Capital expert service hours are Monday\u2013Friday, 6 AM\u20133 PM PT, closed on weekends. Sign in to QuickBooks Capital. Choose how you ...",
+    "title": "Get help with QuickBooks products and services - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/create-apply-accounting-policy-templates/L9Vd5fUo0_US_en_US": {
+    "baseline": true,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/account-management/create-apply-accounting-policy-templates/L9Vd5fUo0_US_en_US",
+    "page": 3,
+    "summary": "Create an accounting policy template. Set up the specific rules that tell Intuit Intelligence exactly how to categorize and manage transactions for a type of ...",
+    "title": "Create and apply accounting policy templates - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/use-ready-post-quickbooks-online/L9jzjf8Xe_US_en_US": {
+    "baseline": true,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/account-management/use-ready-post-quickbooks-online/L9jzjf8Xe_US_en_US",
+    "page": 4,
+    "summary": "Learn how to review and post transactions that QuickBooks Online marks as Ready to post, and how to set your Ready to post criteria through your Transaction ...",
+    "title": "Use Ready to post in QuickBooks Online - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/add-foreign-currency-account/L7n7mw1uA_US_en_US": {
+    "baseline": true,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/add-foreign-currency-account/L7n7mw1uA_US_en_US",
+    "page": 2,
+    "summary": "How to add a foreign currency account, explained clearly \u2014 minus the accounting jargon. The short, useful version.",
+    "title": "How to add a foreign currency account - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/ai-agents/pre-file-check-works/L1dN5PLUo_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/ai-agents/pre-file-check-works/L1dN5PLUo_US_en_US",
+    "page": 2,
+    "summary": "How the pre-file check works explained \u2014 so you can make the right call. Everything you need to know.",
+    "title": "How to reconcile your sales numbers on QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/bank-deposits/change-direct-deposit-paycheck-regular-paycheck/L9Yhp9n9v_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/bank-deposits/change-direct-deposit-paycheck-regular-paycheck/L9Yhp9n9v_US_en_US",
+    "page": 4,
+    "summary": "Here's how to change a direct deposit paycheck to a paper paycheck in QuickBooks Workforce \u2014 and avoid common mistakes. Set it up with confidence.",
+    "title": "Change a direct deposit paycheck to a paper ... - QuickBooks"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/bank-transactions/accounting-agent-features/L6pl9rv94_US_en_US": {
     "baseline": true,
     "date_hint": "18 hours ago",
@@ -265,6 +572,15 @@
     "summary": "When you view your reports, QuickBooks gives you insights on new or unusual trends it sees. Your Accounting AI can review and analyze the trends for potential ...",
     "title": "Learn about Accounting AI features - QuickBooks"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/bank-transactions/use-automatic-matching-quickbooks-online/L3uACzdrF_US_en_US": {
+    "baseline": true,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/bank-transactions/use-automatic-matching-quickbooks-online/L3uACzdrF_US_en_US",
+    "page": 4,
+    "summary": "Video transcript. [0:00] Let's go over how automatic matching works in QuickBooks Online. When you download bank transactions, new ones normally need to be ...",
+    "title": "How to use automatic matching in QuickBooks Online - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/billing-solutions/virtual-card-faq/L4IXxyPga_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -272,6 +588,33 @@
     "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/billing-solutions/virtual-card-faq/L4IXxyPga_US_en_US",
     "summary": "Learn how to receive payments with a Single-Use Virtual Card when your customer pays through QuickBooks Bill Pay. You can receive eligible payments without ...",
     "title": "Receive payments with Single-Use Virtual Cards - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/budget-forecast-reports/create-manage-forecasts-quickbooks-online/L7SlFsgsy_US_en_US": {
+    "baseline": true,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/budget-forecast-reports/create-manage-forecasts-quickbooks-online/L7SlFsgsy_US_en_US",
+    "page": 4,
+    "summary": "Searching forecasting as a planning tool? Follow this quick guide in QuickBooks Online \u2014 and save hours on bookkeeping. Easier than you'd expect.",
+    "title": "Create and manage forecasts in QuickBooks Online Advanced"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/business-automation/automate-tasks-custom-automations/L6qv3odlt_US_en_US": {
+    "baseline": true,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/business-automation/automate-tasks-custom-automations/L6qv3odlt_US_en_US",
+    "page": 2,
+    "summary": "Automate QuickBooks Online tasks with Custom Automations -- describe what you want in plain English and Intuit Intelligence builds it.",
+    "title": "Automate tasks with Custom Automations - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/compare-products/get-done-quickbooks-mobile-app-web/L9YN5gwQw_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/compare-products/get-done-quickbooks-mobile-app-web/L9YN5gwQw_US_en_US",
+    "page": 5,
+    "summary": "Use QuickBooks Checking features such as apply, check status, create envelopes, and view transactions. Ask questions using in-product help, like QB Assistant or ...",
+    "title": "Get more done with QuickBooks mobile app and web"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/currency/enter-use-exchange-rates/L5cZfINVo_US_en_US": {
     "baseline": true,
@@ -289,6 +632,114 @@
     "summary": "Note: QuickBooks downloads and uses exchange rates from IHS Markit. If you need to, you can enter and use your own rates. How QuickBooks uses exchange ...",
     "title": "Learn about exchange rates - QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/electronic-filing/pay-file-payroll-taxes-forms-online-payroll/L8JqxhbaE_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/electronic-filing/pay-file-payroll-taxes-forms-online-payroll/L8JqxhbaE_US_en_US",
+    "page": 5,
+    "summary": "With Intuit QuickBooks Workforce, QuickBooks handles your payroll taxes and filings for you. Prerequisites. Before QuickBooks can e-pay or e-file your payroll ...",
+    "title": "Pay and file payroll taxes and forms electronically in ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/employee-management/resend-cancel-invitation-quickbooks-workforce/L21nJb68Z_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/employee-management/resend-cancel-invitation-quickbooks-workforce/L21nJb68Z_US_en_US",
+    "page": 3,
+    "summary": "If you invited your employee to use Workforce to view their pay stubs and W-2s and it didn't work, here's how to resend it. Select what you'd like to do:.",
+    "title": "Resend an invitation to \u200bWorkforce\u200b to access pay stubs and ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/form-w-2/view-print-w-2s-quickbooks-workforce/L0fCqetxm_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/form-w-2/view-print-w-2s-quickbooks-workforce/L0fCqetxm_US_en_US",
+    "page": 5,
+    "summary": "Once your employer has invited you to Workforce, and you've set up your account, you can view and print your own W-2s. You can also view other documents your ...",
+    "title": "View and print your W-2s and other documents in \u200bWorkforce\u200b"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/import-transactions/connect-amazon-seller-central-quickbooks/L7EyuwWEn_US_en_US": {
+    "baseline": true,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/import-transactions/connect-amazon-seller-central-quickbooks/L7EyuwWEn_US_en_US",
+    "page": 3,
+    "summary": "Learn how to connect Amazon Seller Central to QuickBooks \u2014 the right way, the first time. Get it done in minutes.",
+    "title": "Connect Amazon Seller Central to QuickBooks Online - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/insurance-medical-benefits/third-party-sick-pay/L2m2My5bR_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/insurance-medical-benefits/third-party-sick-pay/L2m2My5bR_US_en_US",
+    "page": 4,
+    "summary": "Searching third party sick pay taxable? Follow this quick guide \u2014 the right way, the first time. Easier than you'd expect.",
+    "title": "Report third-party sick pay in QuickBooks Online Payroll and ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-subscriptions/understand-subscription-rates-charges/L35oYqzmR_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/intuit-subscriptions/understand-subscription-rates-charges/L35oYqzmR_US_en_US",
+    "page": 2,
+    "summary": "How to understand your subscription rates and charges, explained clearly \u2014 and what it means for your business. Clear answers, no jargon.",
+    "title": "Understand your subscription rates and charges - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/invoicing/send-invoice-reminders-automatically-manually/L84cQjpxo_US_en_US": {
+    "baseline": true,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/invoicing/send-invoice-reminders-automatically-manually/L84cQjpxo_US_en_US",
+    "page": 2,
+    "summary": "Learn how to automatically or manually send reminders to customers when your invoices are, or soon to be, overdue. There's an easy way to gently remind ...",
+    "title": "Send invoice reminders automatically or manually in ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/manage-client/e-file-tax-returns-clients/L7KiE5BlY_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-client/e-file-tax-returns-clients/L7KiE5BlY_US_en_US",
+    "page": 3,
+    "summary": "E-file payroll tax forms. Here's how you e-file your client's federal tax returns with QuickBooks. You can also e-file their state tax forms in QuickBooks.",
+    "title": "E-file payroll tax forms for clients in \u200bQuickBooks Desktop ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/mobile-apps/capture-signatures-using-quickbooks-online-app/L9M3lRB8F_US_en_US": {
+    "baseline": true,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/mobile-apps/capture-signatures-using-quickbooks-online-app/L9M3lRB8F_US_en_US",
+    "page": 5,
+    "summary": "Your guide to capture signatures using the QuickBooks mobile app \u2014 the right way, the first time. Set it up with confidence.",
+    "title": "Capture signatures using the QuickBooks mobile app - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/multi-factor-authentication/download-recent-bank-credit-card-transactions/L86TTVI3Y_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/multi-factor-authentication/download-recent-bank-credit-card-transactions/L86TTVI3Y_US_en_US",
+    "page": 5,
+    "summary": "Learn how to download the most recent bank and credit card transactions \u2014 so your books stay accurate. See exactly how below.",
+    "title": "Download the most recent bank and credit card transactions in ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/multicurrency/assign-foreign-currency-customer-quickbooks-online/L2LWZUIHv_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/multicurrency/assign-foreign-currency-customer-quickbooks-online/L2LWZUIHv_US_en_US",
+    "page": 3,
+    "summary": "Step-by-step: assign a foreign currency to a customer in QuickBooks Online \u2014 and save hours on bookkeeping. Set it up with confidence.",
+    "title": "Assign a foreign currency to a customer - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/multicurrency/enter-home-currency-adjustments-foreign-balances/L40cB0sr4_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/multicurrency/enter-home-currency-adjustments-foreign-balances/L40cB0sr4_US_en_US",
+    "page": 4,
+    "summary": "Step-by-step: enter home currency adjustments for your foreign balances \u2014 and avoid common mistakes. Easier than you'd expect.",
+    "title": "Enter home currency adjustments for your foreign balances"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/multicurrency/learn-multicurrency-quickbooks-online/L5krkKQi8_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -305,6 +756,15 @@
     "summary": "Learn how to pay a bill in one company using another company's bank account in Intuit Enterprise Suite, with the intercompany journal entries recorded for ...",
     "title": "Pay bills across companies in Intuit Enterprise Suite"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/pay-bills/pay-bills-vendor-direct-payment-method/L8WVnsuuY_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/pay-bills/pay-bills-vendor-direct-payment-method/L8WVnsuuY_US_en_US",
+    "page": 5,
+    "summary": "Step-by-step: pay bills with the vendor direct payment method \u2014 and save hours on bookkeeping. A quick, simple walkthrough.",
+    "title": "Pay bills with the vendor direct payment method - QuickBooks"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/pay-commissions/pay-employees-commission/L4Sz47WWY_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -312,6 +772,24 @@
     "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/pay-commissions/pay-employees-commission/L4Sz47WWY_US_en_US",
     "summary": "Learn how to set up, pay, and track employees' commission in Intuit QuickBooks Workforce and QuickBooks Desktop Payroll. You can pay commission to your ...",
     "title": "Pay employees a commission - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/pay-sales-taxes/employee-payroll-tax-exemptions/L4AntPAy3_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/pay-sales-taxes/employee-payroll-tax-exemptions/L4AntPAy3_US_en_US",
+    "page": 3,
+    "summary": "Am i exempt from tax withholding in QuickBooks Payroll: here's how, step by step \u2014 and save hours on bookkeeping. Get it done in minutes.",
+    "title": "Exempt your employee from federal or state withholding"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/paycheck-forms/troubleshoot-missing-pay-stubs-quickbooks/L6R8a2vGW_US_en_US": {
+    "baseline": true,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/paycheck-forms/troubleshoot-missing-pay-stubs-quickbooks/L6R8a2vGW_US_en_US",
+    "page": 3,
+    "summary": "Hit a snag? Here's how to fix missing pay stubs \u2014 without the guesswork. Back to business in no time.",
+    "title": "Troubleshoot missing pay stubs in \u200bWorkforce\u200b - QuickBooks"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/payment-methods/affirm-payments/L1ZN1k9W7_US_en_US": {
     "baseline": true,
@@ -321,6 +799,15 @@
     "summary": "QuickBooks Online offers Affirm as a payment method, allowing your customers to pay over time while you get paid up front through QuickBooks Payments.",
     "title": "Learn about Affirm payments - QuickBooks"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/payroll-compliance/payroll-tax-compliance-links/L0H0Syx14_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll-compliance/payroll-tax-compliance-links/L0H0Syx14_US_en_US",
+    "page": 2,
+    "summary": "Tax forms and filing. Withholding information. Unemployment and other taxes. General state and agency information.",
+    "title": "Access state agency websites for payroll - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/payroll-processes/create-paycheck-employee/L5JFzGwNu_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -328,6 +815,87 @@
     "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll-processes/create-paycheck-employee/L5JFzGwNu_US_en_US",
     "summary": "You can create and run payroll for your employees in Intuit QuickBooks Workforce. This process involves entering employee hours, reviewing pay details, ...",
     "title": "Run payroll in QuickBooks Online Payroll - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/payroll-setup/add-ein-existing-payroll-subscription/L0ZHJ1AUU_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll-setup/add-ein-existing-payroll-subscription/L0ZHJ1AUU_US_en_US",
+    "page": 3,
+    "summary": "Learn what to do in Intuit QuickBooks Workforce and QuickBooks Desktop Payroll when you have a new company file. If you have a new company you need payroll ...",
+    "title": "Add a new company to your payroll subscription - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/payroll/tracking-payroll-expenses-class-department/L7kjT9SYZ_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll/tracking-payroll-expenses-class-department/L7kjT9SYZ_US_en_US",
+    "page": 2,
+    "summary": "Here's how to set up and track payroll expenses by class in QuickBooks Payroll \u2014 so your books stay accurate. Do it in just a few clicks.",
+    "title": "Set up and track payroll expenses by class - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/personal-profile/get-started-contract-builder-quickbooks-online/L0LenCa69_US_en_US": {
+    "baseline": true,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/personal-profile/get-started-contract-builder-quickbooks-online/L0LenCa69_US_en_US",
+    "page": 5,
+    "summary": "Learn how to get started with contract builder in QuickBooks Online \u2014 so your books stay accurate. A quick, simple walkthrough.",
+    "title": "Get started with contract builder - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/process-e-invoices/use-quickbooks-cash-account/L2dKdWFm9_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/process-e-invoices/use-quickbooks-cash-account/L2dKdWFm9_US_en_US",
+    "page": 4,
+    "summary": "Learn checking accounting \u2014 without the usual headaches. Set it up with confidence.",
+    "title": "Use your QuickBooks Checking account - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/product-setup/customize-home-page-quickbooks-online/L0ryPsyjD_US_en_US": {
+    "baseline": true,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/product-setup/customize-home-page-quickbooks-online/L0ryPsyjD_US_en_US",
+    "page": 3,
+    "summary": "Your Home page in QuickBooks Online gives you a central view of your business, what needs attention, how things are performing, and quick access to your ...",
+    "title": "Customize your Home page in QuickBooks Online - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/product-setup/get-started-new-quickbooks-online-accountant/L86IyeoWN_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/product-setup/get-started-new-quickbooks-online-accountant/L86IyeoWN_US_en_US",
+    "page": 4,
+    "summary": "Intuit Accountant Suite (IAS) brings your firm, clients, and team together in one AI-powered platform designed to improve efficiency, streamline workflows, and ...",
+    "title": "Learn about Intuit Accountant Suite - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/report-management/view-edit-management-reports-quickbooks-online/L90RAh2XZ_US_en_US": {
+    "baseline": true,
+    "date_hint": "22 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/report-management/view-edit-management-reports-quickbooks-online/L90RAh2XZ_US_en_US",
+    "page": 5,
+    "summary": "Management reports allow you to create branded, presentation-ready reporting packages that combine financials, KPIs, and charts. These tools enable you to ...",
+    "title": "Create, view, or edit a Management report in QuickBooks ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/revenue/get-started-quickbooks-proadvisor-preferred-share/L2bztsPQB_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/revenue/get-started-quickbooks-proadvisor-preferred-share/L2bztsPQB_US_en_US",
+    "page": 2,
+    "summary": "For QuickBooks Online, QuickBooks Time, Intuit QuickBooks Workforce or QuickBooks Desktop Payroll, and Intuit Enterprise Suite \u00b7 Sign in as the primary admin in ...",
+    "title": "Get started with QuickBooks ProAdvisor Preferred Pricing ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/t4-slips/view-paychecks-w-2s-quickbooks-workforce/L3TCwUJtD_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/t4-slips/view-paychecks-w-2s-quickbooks-workforce/L3TCwUJtD_US_en_US",
+    "page": 5,
+    "summary": "View my paycheck in QuickBooks Workforce: here's how, step by step \u2014 so your books stay accurate. Do it in just a few clicks.",
+    "title": "View your pay stubs, time off, and year-to-date ... - QuickBooks"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/tax-notifications/receive-tax-notice/L4nRS6kHu_US_en_US": {
     "baseline": true,
@@ -337,6 +905,24 @@
     "summary": "Learn what to do if you receive an IRS or state tax notice of discrepancy. If you have Intuit QuickBooks Workforce or QuickBooks Desktop Payroll Assisted ...",
     "title": "Send in your payroll tax notice - QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/taxation/payroll-tax-wage-bases-limits/L9fKBHRxY_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/taxation/payroll-tax-wage-bases-limits/L9fKBHRxY_US_en_US",
+    "page": 2,
+    "summary": "Understand annual wage base limits. A wage base limit is a per-employee cap on the earnings that are taxable. Once an employee reaches the cap, taxes may stop ...",
+    "title": "Understand payroll tax wage bases and limits - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/time-tracking/override-employee-salary-online-payroll/L6DPVk80p_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/time-tracking/override-employee-salary-online-payroll/L6DPVk80p_US_en_US",
+    "page": 3,
+    "summary": "Learn how to adjust or prorate an employee's fixed salary in Intuit QuickBooks Workforce and QuickBooks Desktop Payroll. Salaried employees have a fixed ...",
+    "title": "Override an employee's salary - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/update-products/error-15222/L5eWIDaBC_US_en_US": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -344,6 +930,15 @@
     "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/update-products/error-15222/L5eWIDaBC_US_en_US",
     "summary": "Running into trouble? Here's how to fix error message 15XXX when downloading payroll updates in QuickBooks Workforce. Get unstuck in minutes.",
     "title": "Fix error message 15XXX when downloading payroll updates ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/vendor-list/add-vendor-foreign-currency-quickbooks-online/L2vFi09Uh_US_en_US": {
+    "baseline": true,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/vendor-list/add-vendor-foreign-currency-quickbooks-online/L2vFi09Uh_US_en_US",
+    "page": 5,
+    "summary": "Add a vendor with a foreign currency in QuickBooks Online \u2014 and avoid common mistakes. Follow our step-by-step guide.",
+    "title": "Add a vendor with a foreign currency - QuickBooks - Intuit"
    }
   },
   "kintsugi-blog": {
@@ -407,6 +1002,15 @@
     "link": "https://www.ncrvoyix.com/newsroom/truage-age-verification-solution-integrated-across-ncr-voyix-point-of-sale-portfolio-for-convenience-and-fuel-retailers?srsltid=AU7gw4W6r7uZUJ5ad0ynvpYT6L5uEbp-I01ujNvrdmwmyvtksytiGwkH",
     "summary": "Integration delivers instantaneous age assurance at checkout to reduce customer friction and support responsible sales practices.",
     "title": "TruAge\u00ae Age-Verification Solution integrated across NCR ..."
+   },
+   "ncrvoyix.com/newsroom/truage-age-verification-solution-integrated-across-ncr-voyix-point-of-sale-portfolio-for-convenience-and-fuel-retailers?srsltid=AU7gw4WCZLdPLyKwypCf-uJWLCtrNyYf84eClsMTYo6QwamHV5AW6WUi": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://www.ncrvoyix.com/newsroom/truage-age-verification-solution-integrated-across-ncr-voyix-point-of-sale-portfolio-for-convenience-and-fuel-retailers?srsltid=AU7gw4WCZLdPLyKwypCf-uJWLCtrNyYf84eClsMTYo6QwamHV5AW6WUi",
+    "page": 1,
+    "summary": "TruAge allows retailers to verify age, identify fake or expired IDs and check purchase limits by scanning a physical or digital driver's license.",
+    "title": "TruAge\u00ae Age-Verification Solution integrated across NCR ..."
    }
   },
   "ryan-press": {
@@ -427,6 +1031,15 @@
     "link": "https://news.sap.com/",
     "summary": "News & press releases from SAP: Read in-depth feature articles on current business and technology trends, customer stories & videos on SAP TV.",
     "title": "SAP News Center | Company & Customer Stories | Press Room"
+   },
+   "news.sap.com/germany/2026/10/sap-praesentiert-das-autonome-unternehmen-im-praxiseinsatz": {
+    "baseline": true,
+    "date_hint": "24 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.sap.com/germany/2026/10/sap-praesentiert-das-autonome-unternehmen-im-praxiseinsatz/",
+    "page": 1,
+    "summary": "Erfahren Sie, wie SAP Unternehmen auf dem Weg zu KI-gesteuerten, autonomen L\u00f6sungen unterst\u00fctzt und beeindruckende Ergebnisse zeigt.",
+    "title": "SAP zeigt Erfolgsgeschichten autonomer Unternehmen"
    },
    "news.sap.com/netherlands": {
     "baseline": true,
@@ -499,6 +1112,15 @@
     "link": "https://news.sap.com/uk/",
     "summary": "London Fire Brigade Launches New Finance and Procurement Platform with SAP and excelerated. London Fire Brigade (LFB), SAP and excelerated today announce ...",
     "title": "News about SAP UK"
+   },
+   "news.sap.com/uk/press-room": {
+    "baseline": true,
+    "date_hint": "21 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://news.sap.com/uk/press-room/",
+    "page": 1,
+    "summary": "New Finance and Procurement Platform with SAP. Get started today with relevant, reliable, responsible AI Company. Find SAP events News and press Blogs and ...",
+    "title": "Press Room - SAP UK News Center"
    }
   },
   "shift4-dine-blog": {},
@@ -534,6 +1156,15 @@
     "link": "https://shift4.zendesk.com/hc/en-us/articles/55778122896403-Process-Como-Loyalty-Transactions-in-Shift4-Dine",
     "summary": "Description: Learn how to look up Como Loyalty members, add members to orders, enroll new members, apply rewards, and process refunds and voids in Shift4 ...",
     "title": "Process Como Loyalty Transactions in Shift4 Dine"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/55778150852627-Process-AppFront-Loyalty-Transactions-in-Shift4-Dine": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/55778150852627-Process-AppFront-Loyalty-Transactions-in-Shift4-Dine",
+    "page": 1,
+    "summary": "Learn how to look up AppFront Loyalty members, add members to orders, enroll new members, apply rewards, and process refunds and voids in Shift4 Dine.",
+    "title": "Process AppFront Loyalty Transactions in Shift4 Dine"
    },
    "shift4.zendesk.com/hc/en-us/articles/56160976837907": {
     "baseline": false,
@@ -809,6 +1440,15 @@
     "summary": "Wolters Kluwer has introduced powerful new functionality that allows businesses to electronically file Form 5330 with the Internal Revenue Service (IRS) ...",
     "title": "Wolters Kluwer's ftwilliam.com launches new Form 5330 e- ..."
    },
+   "wolterskluwer.com/en/news/is-hip-replacement-safe-for-people-in-their-90s-risks-depend-on-patients-health-as-well-as-age": {
+    "baseline": true,
+    "date_hint": "23 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://www.wolterskluwer.com/en/news/is-hip-replacement-safe-for-people-in-their-90s-risks-depend-on-patients-health-as-well-as-age",
+    "page": 2,
+    "summary": "Hip arthroplasty can be 'appropriately considered' for nonagenarians, reports Journal of Bone & Joint Surgery.",
+    "title": "Is hip replacement safe for people in their 90s? Risks ..."
+   },
    "wolterskluwer.com/en/news/new-medication-for-stress-urinary-incontinence-investigational-drug-shows-promise": {
     "baseline": true,
     "date_hint": "17 hours ago",
@@ -825,6 +1465,15 @@
     "summary": "With embedded Expert AI at its core, CCH Tagetik transforms finance data into intelligence, automating processes, improving accuracy, and proactively ...",
     "title": "Wolters Kluwer named 3x Leader for CCH Tagetik in 2026 ..."
    },
+   "wolterskluwer.com/en/news/pr-2026-wolters-kluwer-and-dentsu-soken-deliver-cch-tagetik-for-daihatsu-motor-budget-management": {
+    "baseline": true,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://www.wolterskluwer.com/en/news/pr-2026-wolters-kluwer-and-dentsu-soken-deliver-cch-tagetik-for-daihatsu-motor-budget-management",
+    "page": 2,
+    "summary": "Centralizing performance management for departmental and prototype development costs, with a next-generation platform designed for future expansion.",
+    "title": "Wolters Kluwer and Dentsu Soken Deliver CCH Tagetik for ..."
+   },
    "wolterskluwer.com/en/news/radiofrequency-heating-plus-electromagnetic-stimulation-reduces-belly-fat-and-increases-muscle": {
     "baseline": true,
     "date_hint": "15 hours ago",
@@ -840,6 +1489,15 @@
     "link": "https://www.wolterskluwer.com/en/news/suki-ask-clinical-decision-support-uptodate-expert-ai",
     "summary": "Ask allows clinicians to use spoken natural language or typed questions to quickly surface information such as medications, allergies, vitals, lab results,",
     "title": "Suki Launches Ask with UpToDate Expert AI Clinical Support"
+   },
+   "wolterskluwer.com/en/news/treatment-for-diverticulitis-updated-ascrs-guidelines-published-in-diseases-of-the-colon-and-rectum": {
+    "baseline": true,
+    "date_hint": "20 hours ago",
+    "first_seen": "2026-10-09T15:36:47Z",
+    "link": "https://www.wolterskluwer.com/en/news/treatment-for-diverticulitis-updated-ascrs-guidelines-published-in-diseases-of-the-colon-and-rectum",
+    "page": 2,
+    "summary": "Diverticulitis occurs when small sacs or pouches in the colon wall (diverticula) become inflamed, causing symptoms such as abdominal pain or tenderness and ...",
+    "title": "Treatment for Diverticulitis \u2013 Updated ASCRS Guidelines"
    },
    "wolterskluwer.com/en/news/wolters-kluwer-and-suki-to-integrate-uptodates-trusted-physicianauthored-content-into-suki-assistant": {
     "baseline": true,
