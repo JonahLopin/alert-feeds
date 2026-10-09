@@ -5,11 +5,11 @@ Google Alerts feeds stamp every entry 1970-01-01, so feed readers that go by dat
 (Crayon's RSSeymour among them) skip everything. This fetches each alert feed,
 records when each entry was first seen, and writes one clean Atom feed per alert to
 docs/feeds/<slug>.xml, dated by that first-seen time. Links are unwrapped from
-Google's redirect to the real article URL.
+Google's redirect to the real article URL. docs/index.html lists the feeds under
+the Crayon portal each one is wired into.
 
-Config is the ALERT_FEEDS env var, JSON {slug: {"url": ..., "title": ...}}, kept in
-a repository secret so the Google feed URLs (which carry the account's user id)
-aren't published. Standard library only.
+config.json holds the portals and, per feed, the Google feed URL, the alert query,
+the competitor and the insight type and subtype it is wired to. Standard library only.
 """
 
 import datetime as dt
@@ -26,6 +26,7 @@ import xml.etree.ElementTree as ET
 ATOM_NS = "http://www.w3.org/2005/Atom"
 ATOM = "{%s}" % ATOM_NS
 ROOT = os.path.dirname(os.path.abspath(__file__))
+CONFIG_PATH = os.path.join(ROOT, "config.json")
 STATE_PATH = os.path.join(ROOT, "state.json")
 OUT_DIR = os.path.join(ROOT, "docs", "feeds")
 KEEP_DAYS = 60
@@ -35,6 +36,7 @@ PAGES_BASE = os.environ.get("PAGES_BASE", "").rstrip("/")
 # still empty then sees the backlog arrive as new items once this time passes.
 PUBLISH_START = os.environ.get("PUBLISH_START") or "1970-01-01T00:00:00Z"
 TAG = re.compile(r"<[^>]+>")
+CATEGORY_ORDER = {"help": 0, "press": 1, "blog": 2}
 
 
 def utcnow():
@@ -68,6 +70,10 @@ def unwrap(link):
     return link
 
 
+def feed_title(feed):
+    return "%s %s (%s)" % (feed["competitor"], feed["category"], feed["query"])
+
+
 def fetch(url, tries=4):
     last = None
     for attempt in range(tries):
@@ -84,7 +90,7 @@ def fetch(url, tries=4):
     raise last
 
 
-def write_feed(slug, cfg, seen, now, start):
+def write_feed(slug, feed_cfg, seen, now, start):
     # An entry's date is when it was first seen, but never before PUBLISH_START; entries
     # whose date is still in the future stay out of the feed until it arrives.
     items = []
@@ -97,7 +103,7 @@ def write_feed(slug, cfg, seen, now, start):
 
     feed = ET.Element("feed", {"xmlns": ATOM_NS})
     ET.SubElement(feed, "id").text = "urn:alert-feeds:%s" % slug
-    ET.SubElement(feed, "title").text = cfg.get("title") or slug
+    ET.SubElement(feed, "title").text = feed_title(feed_cfg)
     # Latest entry date rather than build time, so an unchanged feed writes identical bytes.
     ET.SubElement(feed, "updated").text = iso(items[0][0]) if items else iso(start)
     if PAGES_BASE:
@@ -116,59 +122,185 @@ def write_feed(slug, cfg, seen, now, start):
     return len(items), (items[0][0] if items else None)
 
 
+# Crayon @crayon/box tokens (product palette, Calibre type, 16px rhythm).
 INDEX_STYLE = """
-:root { color-scheme: light dark; --bg: #fff; --fg: #1a1a1a; --muted: #666; --line: #e3e3e3; --link: #0b57d0; }
-@media (prefers-color-scheme: dark) { :root { --bg: #121212; --fg: #e8e8e8; --muted: #9a9a9a; --line: #2c2c2c; --link: #8ab4f8; } }
-body { margin: 0; background: var(--bg); color: var(--fg); font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-main { max-width: 1040px; margin: 0 auto; padding: 24px 16px; }
-h1 { font-size: 20px; margin: 0 0 4px; }
-p { color: var(--muted); margin: 0 0 16px; }
-.wrap { overflow-x: auto; }
-table { width: 100%; border-collapse: collapse; }
-th, td { text-align: left; padding: 8px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
-th { font-weight: 600; color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; }
-td.n { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
-td.when { white-space: nowrap; color: var(--muted); }
-a { color: var(--link); text-decoration: none; }
-a:hover { text-decoration: underline; }
+:root {
+  color-scheme: light;
+  --ff-base: Calibre, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+  --ff-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  --white: #FFFFFF; --onyx25: #F6F7F7; --onyx50: #ECEEEF; --onyx100: #E3E6E8; --onyx300: #A2ACB1;
+  --onyx500: #606E75; --onyx700: #363D41; --onyx800: #1F2325; --onyx900: #101213;
+  --blue25: #E6EFFA; --blue35: #CDE0F6; --blue400: #0363D1; --blue500: #024FA7;
+  --blurple25: #F5F6FE; --blurple100: #B9C2F6; --blurple600: #1731BB;
+  --purple1: #f9f0ff; --purple3: #d3adf7; --purple6: #722ed1;
+  --gold500: #C6900A;
+  --shadow-card: 0 1px 2px rgba(0, 10, 21, 0.04);
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--onyx25); color: var(--onyx700); }
+body { font: 400 16px/24px var(--ff-base); -webkit-font-smoothing: antialiased; }
+a { color: var(--blue400); text-decoration: none; }
+a:hover { color: var(--blue500); text-decoration: underline; }
+.container { max-width: 1240px; margin: 0 auto; padding: 0 24px; }
+.top { background: var(--white); border-bottom: 1px solid var(--onyx100); padding: 40px 0 32px; }
+.eyebrow { font-size: 12px; line-height: 18px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; color: var(--onyx500); }
+h1 { margin: 4px 0 8px; font-size: 26px; line-height: 40px; font-weight: 600; color: var(--onyx900); }
+.lede { margin: 0; max-width: 760px; font-size: 16px; line-height: 24px; color: var(--onyx500); }
+.stats { display: flex; flex-wrap: wrap; gap: 32px; margin-top: 24px; }
+.stat b { display: block; font-size: 28px; line-height: 42px; font-weight: 700; color: var(--blue500); font-variant-numeric: tabular-nums; }
+.stat span { font-size: 14px; line-height: 22px; color: var(--onyx500); }
+main { padding: 32px 0 40px; }
+.portal { background: var(--white); border: 1px solid var(--onyx100); border-radius: 8px; box-shadow: var(--shadow-card); margin-bottom: 24px; }
+.portal-head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 16px; padding: 24px; }
+.portal h2 { margin: 4px 0 4px; font-size: 22px; line-height: 32px; font-weight: 600; color: var(--onyx900); }
+.portal h2 a { color: inherit; }
+.links { font-size: 14px; line-height: 22px; color: var(--onyx300); }
+.links a { font-weight: 500; }
+.portal-stats { display: flex; gap: 24px; font-size: 14px; line-height: 22px; color: var(--onyx500); }
+.portal-stats b { color: var(--onyx800); font-weight: 600; font-variant-numeric: tabular-nums; }
+details { border-top: 1px solid var(--onyx100); }
+summary { list-style: none; cursor: pointer; padding: 16px 24px; display: flex; align-items: center; gap: 12px; }
+summary::-webkit-details-marker { display: none; }
+summary:focus-visible { outline: none; box-shadow: inset 0 0 0 3px var(--blue35); }
+.chip { display: inline-flex; align-items: center; gap: 8px; padding: 4px 12px; border-radius: 999px; background: var(--blue25); border: 1px solid var(--blue35); color: var(--blue500); font-size: 14px; line-height: 22px; font-weight: 500; }
+.chip::before { content: ""; width: 6px; height: 6px; border-radius: 999px; background: var(--blue400); }
+.toggle { font-size: 14px; line-height: 22px; color: var(--onyx500); }
+.toggle::after { content: "Show feeds \\25BE"; }
+details[open] .toggle::after { content: "Hide feeds \\25B4"; }
+.table-wrap { overflow-x: auto; border-top: 1px solid var(--onyx100); }
+table { width: 100%; min-width: 1040px; border-collapse: collapse; table-layout: fixed; }
+th { background: var(--onyx25); text-align: left; padding: 8px 16px; font-size: 12px; line-height: 18px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; color: var(--onyx500); border-bottom: 1px solid var(--onyx100); }
+td { padding: 12px 16px; border-bottom: 1px solid var(--onyx100); vertical-align: top; font-size: 14px; line-height: 22px; }
+tr:last-child td { border-bottom: 0; }
+tbody tr:hover td { background: var(--onyx25); }
+.name { font-size: 16px; line-height: 24px; font-weight: 600; color: var(--onyx800); }
+.sub { color: var(--onyx500); }
+.sep { color: var(--onyx300); padding: 0 8px; }
+code { font-family: var(--ff-mono); font-size: 13px; line-height: 20px; color: var(--onyx800); overflow-wrap: anywhere; }
+td.num { text-align: right; white-space: nowrap; }
+td.feeds { white-space: nowrap; }
+th.c-comp { width: 18%; } th.c-alert { width: 34%; } th.c-feeds { width: 14%; } th.c-num { width: 12%; text-align: right; } th.c-wired { width: 22%; }
+.count { font-size: 18px; line-height: 28px; font-weight: 600; color: var(--onyx900); font-variant-numeric: tabular-nums; }
+.waiting { color: var(--gold500); font-weight: 500; }
+.tag { display: inline-flex; align-items: center; gap: 4px; padding: 2px 10px; border-radius: 999px; font-size: 12px; line-height: 18px; font-weight: 500; white-space: nowrap; }
+.tag .type { opacity: 0.75; }
+.t-product { background: var(--blue25); border: 1px solid var(--blue35); color: var(--blue500); }
+.t-content { background: var(--blurple25); border: 1px solid var(--blurple100); color: var(--blurple600); }
+.t-news { background: var(--purple1); border: 1px solid var(--purple3); color: var(--purple6); }
+.t-other { background: var(--onyx25); border: 1px solid var(--onyx100); color: var(--onyx700); }
+footer { padding: 0 0 40px; font-size: 14px; line-height: 22px; color: var(--onyx500); }
+@media (min-width: 769px) { .container { padding: 0 40px; } }
 """
+TYPE_CLASS = {"Product": "t-product", "Content Marketing": "t-content", "News & PR": "t-news"}
 
 
-def write_index(feeds, state, results, start):
-    """docs/index.html: one row per feed with its published and waiting entry counts.
+def fmt_when(t):
+    return t.strftime("%b %-d, %H:%M UTC")
 
-    Built only from entry dates, never the build time, so it changes only when a feed does.
-    """
+
+def write_index(config, state, results, start):
+    """docs/index.html: each Crayon portal with a chip for how many feeds are wired into it,
+    expanding to one row per feed. Built only from entry dates, never the build time, so
+    the page changes only when a feed does."""
     esc = html.escape
-    rows, published_total, waiting_total = [], 0, 0
-    for slug, cfg in sorted(feeds.items(), key=lambda kv: (kv[1].get("title") or kv[0]).lower()):
+    feeds = config["feeds"]
+
+    def counts(slugs):
+        published = sum(results.get(s, (0, None))[0] for s in slugs)
+        seen = sum(len(state.get(s, {})) for s in slugs)
+        return published, seen - published
+
+    def row(slug):
+        f = feeds[slug]
+        crayon = f.get("crayon") or {}
         published, latest = results.get(slug, (0, None))
         waiting = len(state.get(slug, {})) - published
-        published_total += published
-        waiting_total += waiting
-        count = str(published) + (" (+%d waiting)" % waiting if waiting > 0 else "")
-        rows.append(
-            '<tr><td><a href="feeds/%s.xml">%s</a></td><td>%s</td><td class="n">%s</td><td class="when">%s</td></tr>'
-            % (esc(slug), esc(slug), esc(cfg.get("title") or slug), esc(count), esc(latest.strftime("%Y-%m-%d %H:%M UTC") if latest else "-"))
+        view_alert = "https://www.google.com/alerts?q=%s&hl=en" % urllib.parse.quote(f["query"], safe="")
+        competitor_sub = esc(f["category"])
+        if crayon.get("competitor"):
+            admin = "https://app.crayon.co/admin-console/dashboards/%s/competitor/%s/rss" % (crayon["portal"], crayon["competitor_id"])
+            competitor_sub = '<a href="%s" title="RSS feeds for this competitor in the admin console">%s</a><span class="sep">&middot;</span>%s' % (
+                esc(admin), esc(crayon["competitor"]), competitor_sub)
+        entries = '<div class="count">%d</div>' % published
+        if waiting > 0:
+            entries += '<div class="waiting">+%d waiting</div>' % waiting
+        entries += '<div class="sub">%s</div>' % (esc("Latest " + fmt_when(latest)) if latest else "No entries yet")
+        tag = '<span class="tag %s"><span class="type">%s &rsaquo;</span>%s</span>' % (
+            TYPE_CLASS.get(f.get("insight_type"), "t-other"), esc(f.get("insight_type") or "Insight"), esc(f.get("insight_subtype") or "-"))
+        return (
+            "<tr>"
+            '<td><div class="name">%s</div><div class="sub">%s</div></td>'
+            '<td><code>%s</code><div class="sub"><a href="%s">View alert &#8599;</a></div></td>'
+            '<td class="feeds"><a href="feeds/%s.xml">Our feed</a><span class="sep">&middot;</span><a href="%s">Google feed</a></td>'
+            '<td class="num">%s</td>'
+            "<td>%s</td>"
+            "</tr>"
+        ) % (esc(f["competitor"]), competitor_sub, esc(f["query"]), esc(view_alert), esc(slug), esc(f["google_feed"]), entries, tag)
+
+    def table(slugs):
+        slugs = sorted(slugs, key=lambda s: (feeds[s]["competitor"].lower(), CATEGORY_ORDER.get(feeds[s]["category"], 9), s))
+        head = ('<thead><tr><th class="c-comp">Competitor</th><th class="c-alert">Alert</th><th class="c-feeds">Feeds</th>'
+                '<th class="c-num">Entries</th><th class="c-wired" title="Insight type and subtype in Crayon">Wired to</th></tr></thead>')
+        return '<div class="table-wrap"><table>%s<tbody>%s</tbody></table></div>' % (head, "".join(row(s) for s in slugs))
+
+    sections = []
+    wired = set()
+    for portal in config.get("portals", []):
+        slugs = [s for s, f in feeds.items() if (f.get("crayon") or {}).get("portal") == portal["id"]]
+        wired.update(slugs)
+        published, waiting = counts(slugs)
+        competitors = len({(feeds[s].get("crayon") or {}).get("competitor_id") for s in slugs})
+        sections.append(
+            '<section class="portal">'
+            '<div class="portal-head"><div>'
+            '<div class="eyebrow">Crayon portal &middot; %d</div>'
+            '<h2><a href="%s">%s</a></h2>'
+            '<div class="links"><a href="%s">Open portal &#8599;</a><span class="sep">&middot;</span><a href="%s">Admin console &#8599;</a></div>'
+            "</div>"
+            '<div class="portal-stats"><span><b>%d</b> competitors</span><span><b>%d</b> entries published</span>%s</div>'
+            "</div>"
+            "<details><summary><span class=\"chip\">This portal has %d feed%s wired into it</span><span class=\"toggle\"></span></summary>%s</details>"
+            "</section>"
+            % (portal["id"], esc(portal["url"]), esc(portal["name"]), esc(portal["url"]), esc(portal.get("admin_url") or portal["url"]),
+               competitors, published, ('<span><b>%d</b> waiting</span>' % waiting) if waiting else "",
+               len(slugs), "" if len(slugs) == 1 else "s", table(slugs))
         )
-    note = "%d feeds, %d entries published" % (len(feeds), published_total)
-    if waiting_total:
-        note += ", %d waiting until %s" % (waiting_total, start.strftime("%Y-%m-%d %H:%M UTC"))
+    loose = [s for s in feeds if s not in wired]
+    if loose:
+        sections.append(
+            '<section class="portal"><div class="portal-head"><div><div class="eyebrow">Not wired into a portal</div>'
+            "<h2>Other feeds</h2></div></div>"
+            "<details><summary><span class=\"chip\">%d feed%s</span><span class=\"toggle\"></span></summary>%s</details></section>"
+            % (len(loose), "" if len(loose) == 1 else "s", table(loose))
+        )
+
+    published, waiting = counts(list(feeds))
+    waiting_stat = ('<div class="stat"><b>%d</b><span>waiting until %s</span></div>' % (waiting, esc(fmt_when(start)))) if waiting else ""
     page = (
         '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
         '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
-        "<title>Alert Feeds</title>\n<style>%s</style>\n</head>\n<body>\n<main>\n"
-        "<h1>Alert feeds</h1>\n"
-        "<p>Google Alerts feeds republished with real entry dates (Google stamps every entry 1970-01-01). %s.</p>\n"
-        '<div class="wrap"><table>\n<thead><tr><th>Feed</th><th>Alert</th><th class="n">Entries</th><th>Latest entry</th></tr></thead>\n'
-        "<tbody>\n%s\n</tbody>\n</table></div>\n</main>\n</body>\n</html>\n"
-    ) % (INDEX_STYLE, esc(note), "\n".join(rows))
+        '<meta name="robots" content="noindex, nofollow">\n'
+        "<title>Alert Feeds</title>\n<style>%s</style>\n</head>\n<body>\n"
+        '<header class="top"><div class="container">'
+        '<div class="eyebrow">Alert feeds</div>'
+        "<h1>Google Alerts, republished for Crayon</h1>"
+        '<p class="lede">Google stamps every alert entry 1970-01-01, so Crayon skips them. Each feed here is the same alert '
+        "with the date it was first seen and the real article link, checked every 20 minutes.</p>"
+        '<div class="stats"><div class="stat"><b>%d</b><span>feeds</span></div>'
+        '<div class="stat"><b>%d</b><span>entries published</span></div>%s</div>'
+        "</div></header>\n"
+        '<main class="container">%s</main>\n'
+        '<footer class="container">Built by <a href="https://github.com/JonahLopin/alert-feeds">github.com/JonahLopin/alert-feeds</a>.</footer>\n'
+        "</body>\n</html>\n"
+    ) % (INDEX_STYLE, len(feeds), published, waiting_stat, "".join(sections))
     with open(os.path.join(ROOT, "docs", "index.html"), "w") as fh:
         fh.write(page)
 
 
 def main():
-    feeds = json.loads(os.environ["ALERT_FEEDS"])
+    with open(CONFIG_PATH) as fh:
+        config = json.load(fh)
+    feeds = config["feeds"]
     state = {}
     if os.path.exists(STATE_PATH):
         with open(STATE_PATH) as fh:
@@ -179,10 +311,10 @@ def main():
     os.makedirs(OUT_DIR, exist_ok=True)
 
     failures, new_total, results = [], 0, {}
-    for slug, cfg in sorted(feeds.items()):
+    for slug, feed_cfg in sorted(feeds.items()):
         seen = state.setdefault(slug, {})
         try:
-            root = fetch(cfg["url"])
+            root = fetch(feed_cfg["google_feed"])
             for entry in root.findall(ATOM + "entry"):
                 eid = (entry.findtext(ATOM + "id") or "").strip()
                 link_el = entry.find(ATOM + "link")
@@ -200,7 +332,7 @@ def main():
             failures.append("%s: %s" % (slug, exc))
         for eid in [k for k, v in seen.items() if parse_iso(v["first_seen"]) < cutoff]:
             del seen[eid]
-        results[slug] = write_feed(slug, cfg, seen, now, start)
+        results[slug] = write_feed(slug, feed_cfg, seen, now, start)
         time.sleep(2)
 
     for slug in [s for s in state if s not in feeds]:
@@ -208,7 +340,7 @@ def main():
     with open(STATE_PATH, "w") as fh:
         json.dump(state, fh, indent=1, sort_keys=True)
         fh.write("\n")
-    write_index(feeds, state, results, start)
+    write_index(config, state, results, start)
 
     published_total = sum(n for n, _ in results.values())
     print("feeds=%d new_entries=%d published_entries=%d failures=%d" % (len(feeds), new_total, published_total, len(failures)))

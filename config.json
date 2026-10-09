@@ -1,0 +1,558 @@
+{
+  "portals": [
+    {
+      "id": 7272,
+      "name": "toast-avalara-test-3",
+      "url": "https://app.crayon.co/intel/toast-avalara-test-3/search/",
+      "admin_url": "https://app.crayon.co/admin-console/dashboards/7272/"
+    }
+  ],
+  "feeds": {
+    "adp-help": {
+      "competitor": "ADP",
+      "category": "help",
+      "query": "site:adp.com/about-adp/data-security/alerts/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/12956141123878599776",
+      "insight_type": "Product",
+      "insight_subtype": "Support & Help Content",
+      "insight_subtype_id": 1,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-adp",
+        "competitor_id": 40578
+      }
+    },
+    "adp-press": {
+      "competitor": "ADP",
+      "category": "press",
+      "query": "site:mediacenter.adp.com",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/13563492014322682925",
+      "insight_type": "News & PR",
+      "insight_subtype": "Press Release",
+      "insight_subtype_id": 15,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-adp",
+        "competitor_id": 40578
+      }
+    },
+    "basware-press": {
+      "competitor": "Basware",
+      "category": "press",
+      "query": "site:news.basware.com",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/326882656018852169",
+      "insight_type": "News & PR",
+      "insight_subtype": "Press Release",
+      "insight_subtype_id": 15,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-basware",
+        "competitor_id": 40593
+      }
+    },
+    "bloomberg-law-press": {
+      "competitor": "Bloomberg Law",
+      "category": "press",
+      "query": "site:news.bloomberglaw.com/business-and-practice/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/10671797989314020378",
+      "insight_type": "News & PR",
+      "insight_subtype": "Press Release",
+      "insight_subtype_id": 15,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-bloomberg-law",
+        "competitor_id": 40598
+      }
+    },
+    "chowbus-blog": {
+      "competitor": "Chowbus",
+      "category": "blog",
+      "query": "site:chowbus.com/blog/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/11067060075023746155",
+      "insight_type": "Content Marketing",
+      "insight_subtype": "Blog Post",
+      "insight_subtype_id": 11,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-chowbus",
+        "competitor_id": 40588
+      }
+    },
+    "chownow-blog": {
+      "competitor": "ChowNow",
+      "category": "blog",
+      "query": "site:get.chownow.com/blog/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/797712712133201930",
+      "insight_type": "Content Marketing",
+      "insight_subtype": "Blog Post",
+      "insight_subtype_id": 11,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-chownow",
+        "competitor_id": 40586
+      }
+    },
+    "csc-blog": {
+      "competitor": "CSC",
+      "category": "blog",
+      "query": "site:blog.cscglobal.com",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/17612044970159029819",
+      "insight_type": "Content Marketing",
+      "insight_subtype": "Blog Post",
+      "insight_subtype_id": 11,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-csc",
+        "competitor_id": 40600
+      }
+    },
+    "doordash-blog": {
+      "competitor": "DoorDash",
+      "category": "blog",
+      "query": "site:merchants.doordash.com/en-us/blog/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/5155100021416509960",
+      "insight_type": "Content Marketing",
+      "insight_subtype": "Blog Post",
+      "insight_subtype_id": 11,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-doordash",
+        "competitor_id": 40583
+      }
+    },
+    "doordash-press": {
+      "competitor": "DoorDash",
+      "category": "press",
+      "query": "site:about.doordash.com/en-us/news/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/2569043842666490165",
+      "insight_type": "News & PR",
+      "insight_subtype": "Press Release",
+      "insight_subtype_id": 15,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-doordash",
+        "competitor_id": 40583
+      }
+    },
+    "edicom-blog": {
+      "competitor": "EDICOM",
+      "category": "blog",
+      "query": "site:edicomgroup.com/blog/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/16101703770583010038",
+      "insight_type": "Content Marketing",
+      "insight_subtype": "Blog Post",
+      "insight_subtype_id": 11,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-edicom",
+        "competitor_id": 40594
+      }
+    },
+    "edicom-press": {
+      "competitor": "EDICOM",
+      "category": "press",
+      "query": "site:careers.edicomgroup.com/news/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/12521269397800201219",
+      "insight_type": "News & PR",
+      "insight_subtype": "Press Release",
+      "insight_subtype_id": 15,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-edicom",
+        "competitor_id": 40594
+      }
+    },
+    "grubhub-blog": {
+      "competitor": "GrubHub",
+      "category": "blog",
+      "query": "site:get.grubhub.com/blog/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/10495684736709172651",
+      "insight_type": "Content Marketing",
+      "insight_subtype": "Blog Post",
+      "insight_subtype_id": 11,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-grubhub",
+        "competitor_id": 40580
+      }
+    },
+    "grubhub-help": {
+      "competitor": "GrubHub",
+      "category": "help",
+      "query": "site:grubhub.com/answers/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/13839718508483540336",
+      "insight_type": "Product",
+      "insight_subtype": "Support & Help Content",
+      "insight_subtype_id": 1,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-grubhub",
+        "competitor_id": 40580
+      }
+    },
+    "grubhub-press": {
+      "competitor": "GrubHub",
+      "category": "press",
+      "query": "site:about.grubhub.com/news/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/988064388387145044",
+      "insight_type": "News & PR",
+      "insight_subtype": "Press Release",
+      "insight_subtype_id": 15,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-grubhub",
+        "competitor_id": 40580
+      }
+    },
+    "gusto-press": {
+      "competitor": "Gusto",
+      "category": "press",
+      "query": "site:gusto.com/company-news/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/1652384500017754536",
+      "insight_type": "News & PR",
+      "insight_subtype": "Press Release",
+      "insight_subtype_id": 15,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-gusto",
+        "competitor_id": 40582
+      }
+    },
+    "igen-blog": {
+      "competitor": "IGEN",
+      "category": "blog",
+      "query": "site:igentax.com/blog/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/281247444503927014",
+      "insight_type": "Content Marketing",
+      "insight_subtype": "Blog Post",
+      "insight_subtype_id": 11,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-igen",
+        "competitor_id": 40601
+      }
+    },
+    "intuit-quickbooks-help": {
+      "competitor": "Intuit QuickBooks",
+      "category": "help",
+      "query": "site:quickbooks.intuit.com/learn-support/en-us/help-article/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/10742280538903265309",
+      "insight_type": "Product",
+      "insight_subtype": "Support & Help Content",
+      "insight_subtype_id": 1,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-intuit-quickbooks",
+        "competitor_id": 40576
+      }
+    },
+    "kintsugi-blog": {
+      "competitor": "Kintsugi",
+      "category": "blog",
+      "query": "site:trykintsugi.com/blog/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/6591743372196824070",
+      "insight_type": "Content Marketing",
+      "insight_subtype": "Blog Post",
+      "insight_subtype_id": 11,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-kintsugi",
+        "competitor_id": 40602
+      }
+    },
+    "lightspeed-hq-blog": {
+      "competitor": "Lightspeed HQ",
+      "category": "blog",
+      "query": "site:lightspeedhq.com/blog/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/18442352180770469791",
+      "insight_type": "Content Marketing",
+      "insight_subtype": "Blog Post",
+      "insight_subtype_id": 11,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-lightspeed-hq",
+        "competitor_id": 40584
+      }
+    },
+    "lightspeed-hq-press": {
+      "competitor": "Lightspeed HQ",
+      "category": "press",
+      "query": "site:lightspeedhq.com/news/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/3485955296274018475",
+      "insight_type": "News & PR",
+      "insight_subtype": "Press Release",
+      "insight_subtype_id": 15,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-lightspeed-hq",
+        "competitor_id": 40584
+      }
+    },
+    "ncr-voyix-press": {
+      "competitor": "NCR Voyix",
+      "category": "press",
+      "query": "site:ncrvoyix.com/newsroom/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/18215814096300168598",
+      "insight_type": "News & PR",
+      "insight_subtype": "Press Release",
+      "insight_subtype_id": 15,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-ncr-voyix",
+        "competitor_id": 40581
+      }
+    },
+    "ryan-press": {
+      "competitor": "Ryan",
+      "category": "press",
+      "query": "site:ryan.com/insights/press-room/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/7625447933102742140",
+      "insight_type": "News & PR",
+      "insight_subtype": "Press Release",
+      "insight_subtype_id": 15,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-ryan",
+        "competitor_id": 40599
+      }
+    },
+    "sap-financial-management-press": {
+      "competitor": "SAP Financial Management",
+      "category": "press",
+      "query": "site:news.sap.com",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/6655387021096972128",
+      "insight_type": "News & PR",
+      "insight_subtype": "Press Release",
+      "insight_subtype_id": 15,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-sap-financial-management",
+        "competitor_id": 40595
+      }
+    },
+    "shift4-dine-blog": {
+      "competitor": "Shift4 Dine",
+      "category": "blog",
+      "query": "site:shift4.com/blog/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/17973648241808704622",
+      "insight_type": "Content Marketing",
+      "insight_subtype": "Blog Post",
+      "insight_subtype_id": 11,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-shift4-dine",
+        "competitor_id": 40579
+      }
+    },
+    "shift4-dine-help": {
+      "competitor": "Shift4 Dine",
+      "category": "help",
+      "query": "site:shift4.zendesk.com/hc/en-us/articles/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/15685300464027399253",
+      "insight_type": "Product",
+      "insight_subtype": "Support & Help Content",
+      "insight_subtype_id": 1,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-shift4-dine",
+        "competitor_id": 40579
+      }
+    },
+    "shopify-blog": {
+      "competitor": "Shopify",
+      "category": "blog",
+      "query": "site:shopify.com/blog/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/14866204497635496131",
+      "insight_type": "Content Marketing",
+      "insight_subtype": "Blog Post",
+      "insight_subtype_id": 11,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-shopify",
+        "competitor_id": 40585
+      }
+    },
+    "sovos-blog": {
+      "competitor": "Sovos",
+      "category": "blog",
+      "query": "site:sovos.com/blog/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/17148029045552773545",
+      "insight_type": "Content Marketing",
+      "insight_subtype": "Blog Post",
+      "insight_subtype_id": 11,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-sovos",
+        "competitor_id": 40574
+      }
+    },
+    "sovos-help": {
+      "competitor": "Sovos",
+      "category": "help",
+      "query": "site:docs.sovos.com",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/18326101630199238042",
+      "insight_type": "Product",
+      "insight_subtype": "Support & Help Content",
+      "insight_subtype_id": 1,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-sovos",
+        "competitor_id": 40574
+      }
+    },
+    "spoton-help": {
+      "competitor": "SpotOn",
+      "category": "help",
+      "query": "site:help.spoton.com",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/15706297485571885531",
+      "insight_type": "Product",
+      "insight_subtype": "Support & Help Content",
+      "insight_subtype_id": 1,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-spoton",
+        "competitor_id": 40577
+      }
+    },
+    "square-help": {
+      "competitor": "Square",
+      "category": "help",
+      "query": "site:squareup.com/help/us/en/article/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/17182713628448452067",
+      "insight_type": "Product",
+      "insight_subtype": "Support & Help Content",
+      "insight_subtype_id": 1,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-square",
+        "competitor_id": 40575
+      }
+    },
+    "stripe-help": {
+      "competitor": "Stripe",
+      "category": "help",
+      "query": "site:docs.stripe.com",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/3554839116841884683",
+      "insight_type": "Product",
+      "insight_subtype": "Support & Help Content",
+      "insight_subtype_id": 1,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-stripe",
+        "competitor_id": 40590
+      }
+    },
+    "taxcloud-blog": {
+      "competitor": "TaxCloud",
+      "category": "blog",
+      "query": "site:taxcloud.com/blog/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/12286930619926695460",
+      "insight_type": "Content Marketing",
+      "insight_subtype": "Blog Post",
+      "insight_subtype_id": 11,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-taxcloud",
+        "competitor_id": 40592
+      }
+    },
+    "taxcloud-help": {
+      "competitor": "TaxCloud",
+      "category": "help",
+      "query": "site:support.taxcloud.com/article/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/13277768137103978911",
+      "insight_type": "Product",
+      "insight_subtype": "Support & Help Content",
+      "insight_subtype_id": 1,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-taxcloud",
+        "competitor_id": 40592
+      }
+    },
+    "taxjar-help": {
+      "competitor": "TaxJar",
+      "category": "help",
+      "query": "site:support.taxjar.com/article/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/16351852341223899881",
+      "insight_type": "Product",
+      "insight_subtype": "Support & Help Content",
+      "insight_subtype_id": 1,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-taxjar",
+        "competitor_id": 40589
+      }
+    },
+    "thomson-reuters-tax-blog": {
+      "competitor": "Thomson Reuters Tax",
+      "category": "blog",
+      "query": "site:tax.thomsonreuters.com/blog/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/8198699885372147019",
+      "insight_type": "Content Marketing",
+      "insight_subtype": "Blog Post",
+      "insight_subtype_id": 11,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-thomson-reuters-tax",
+        "competitor_id": 40603
+      }
+    },
+    "touchbistro-blog": {
+      "competitor": "TouchBistro",
+      "category": "blog",
+      "query": "site:touchbistro.com/blog/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/78344677690204342",
+      "insight_type": "Content Marketing",
+      "insight_subtype": "Blog Post",
+      "insight_subtype_id": 11,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-touchbistro",
+        "competitor_id": 40587
+      }
+    },
+    "vertex-press": {
+      "competitor": "Vertex Inc.",
+      "category": "press",
+      "query": "site:vertexinc.com/company/news/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/14993376732440143760",
+      "insight_type": "News & PR",
+      "insight_subtype": "Press Release",
+      "insight_subtype_id": 15,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-vertex",
+        "competitor_id": 40596
+      }
+    },
+    "wolters-kluwer-tax-press": {
+      "competitor": "Wolters Kluwer Tax",
+      "category": "press",
+      "query": "site:wolterskluwer.com/en/news/",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/12973160230642495717",
+      "insight_type": "News & PR",
+      "insight_subtype": "Press Release",
+      "insight_subtype_id": 15,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-wolters-kluwer-tax",
+        "competitor_id": 40597
+      }
+    },
+    "zamp-help": {
+      "competitor": "Zamp",
+      "category": "help",
+      "query": "site:developer.zamp.com",
+      "google_feed": "https://www.google.com/alerts/feeds/12141450845975603123/10401736553852787279",
+      "insight_type": "Product",
+      "insight_subtype": "Support & Help Content",
+      "insight_subtype_id": 1,
+      "crayon": {
+        "portal": 7272,
+        "competitor": "fake-zamp",
+        "competitor_id": 40591
+      }
+    }
+  }
+}

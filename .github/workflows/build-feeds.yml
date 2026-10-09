@@ -21,7 +21,6 @@ jobs:
 
       - name: Build and publish feeds
         env:
-          ALERT_FEEDS: ${{ secrets.ALERT_FEEDS }}
           PUBLISH_START: ${{ vars.PUBLISH_START }}
           PAGES_BASE: https://jonahlopin.github.io/alert-feeds
         run: |
