@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 417,
+  "credits_used": 463,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-09T22:10:25Z",
+  "last_run": "2026-10-09T23:09:38Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 9
+  "runs": 10
  },
  "feeds": {
   "adp-help": {},
@@ -289,6 +289,15 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/baker-mckenzie-hire-formalizes-congressional-investigations-work",
     "summary": "Kirkland & Ellis partner Allison Murphy is joining Baker McKenzie to co-head the congressional investigations practice, weeks before the midterm elections ...",
     "title": "Baker McKenzie Hire Formalizes Congressional ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/black-box-revenue-from-anthropic-and-openai-stumps-traders": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-09T23:09:38Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/black-box-revenue-from-anthropic-and-openai-stumps-traders",
+    "page": 1,
+    "summary": "OpenAI is expecting to reach or exceed $70 billion in annualized revenue by the end of the year, Bloomberg News has reported, an increasingly common metric that ...",
+    "title": "'Black Box' Revenue From Anthropic and OpenAI Stumps ..."
    },
    "news.bloomberglaw.com/business-and-practice/black-fedex-worker-loses-appeal-to-revive-retaliation-claims": {
     "baseline": true,
@@ -526,6 +535,15 @@
     "page": 3,
     "summary": "Kirkland & Ellis' decision to stop disclosing its financial performance shows law firms are hesitant to reveal profits as clients experience spiraling legal ...",
     "title": "Kirkland Hides Riches as Big Law Clients Scrutinize Rising ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/lockheed-unveils-new-patriot-for-us-army-air-defense-contest": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-09T23:09:38Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/lockheed-unveils-new-patriot-for-us-army-air-defense-contest",
+    "page": 2,
+    "summary": "Lockheed Martin Corp. unveiled a new missile interceptor designed to outperform its most capable Patriot variant, as the US Army seeks to expand its air ...",
+    "title": "Lockheed Unveils New Patriot For US Army Air Defense ..."
    },
    "news.bloomberglaw.com/business-and-practice/los-angeles-judge-stumbles-through-awkward-discipline-hearing": {
     "baseline": true,
