@@ -132,7 +132,14 @@
   }
  },
  "chowbus-blog": {},
- "chownow-blog": {},
+ "chownow-blog": {
+  "tag:google.com,2013:googlealerts/feed:10522548215063398848": {
+   "first_seen": "2026-10-09T11:10:19Z",
+   "link": "https://get.chownow.com/blog/category/restaurant-marketing/acquiring-new-diners/page/2/",
+   "summary": "Explore restaurant marketing content focused on acquiring new diners, with tips strategies and ideas to attract guests and increase orders and ...",
+   "title": "Restaurant Marketing Tips for Acquiring New Diners - ChowNow"
+  }
+ },
  "csc-blog": {},
  "doordash-blog": {},
  "doordash-press": {},
@@ -245,11 +252,35 @@
  "spoton-help": {},
  "square-help": {},
  "stripe-help": {
+  "tag:google.com,2013:googlealerts/feed:12263656120145640542": {
+   "first_seen": "2026-10-09T11:10:19Z",
+   "link": "https://docs.stripe.com/agentic-commerce/protocols/ucp",
+   "summary": "Stripe payment handlers for UCP. UCP payment handlers define how payment instruments are acquired, exchanged, and processed between all participants ...",
+   "title": "Universal Commerce Protocol - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:3860128045443675112": {
+   "first_seen": "2026-10-09T11:10:19Z",
+   "link": "https://docs.stripe.com/events/set-up-events",
+   "summary": "Follow a step-by-step guide to create a webhook endpoint, test it locally with the Stripe CLI, verify event signatures, and deploy to production.",
+   "title": "Set up events - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:5075244174158080457": {
+   "first_seen": "2026-10-09T11:10:19Z",
+   "link": "https://docs.stripe.com/tax/file-with-stripe-outside-us",
+   "summary": "Canada Simplified GST/HST: Simplified goods and services tax and harmonized sales tax (GST/HST) for eligible non-resident businesses. EU Non-Union OSS ...",
+   "title": "File taxes outside the US | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:5231195890762614563": {
    "first_seen": "2026-10-08T13:53:23Z",
    "link": "https://docs.stripe.com/events/how-events-work",
    "summary": "You can register a maximum of 16 event destinations per livemode or sandbox account. When registering a snapshot event destination with a version ...",
    "title": "How events work | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:8295351546662826994": {
+   "first_seen": "2026-10-09T11:10:19Z",
+   "link": "https://docs.stripe.com/event-destinations/overview",
+   "summary": "Learn how Stripe events work, set up event destinations, and manage your integration. Direct events to webhook endpoints, Amazon EventBridge, ...",
+   "title": "Events | Stripe Documentation"
   }
  },
  "taxcloud-blog": {},

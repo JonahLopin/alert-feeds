@@ -2,8 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-08T15:27:00Z</updated>
+  <updated>2026-10-09T11:10:19Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8295351546662826994</id>
+    <title>Events | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/event-destinations/overview" />
+    <published>2026-10-09T11:10:19Z</published>
+    <updated>2026-10-09T11:10:19Z</updated>
+    <summary>Learn how Stripe events work, set up event destinations, and manage your integration. Direct events to webhook endpoints, Amazon EventBridge, ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:5075244174158080457</id>
+    <title>File taxes outside the US | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/tax/file-with-stripe-outside-us" />
+    <published>2026-10-09T11:10:19Z</published>
+    <updated>2026-10-09T11:10:19Z</updated>
+    <summary>Canada Simplified GST/HST: Simplified goods and services tax and harmonized sales tax (GST/HST) for eligible non-resident businesses. EU Non-Union OSS ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:3860128045443675112</id>
+    <title>Set up events - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/events/set-up-events" />
+    <published>2026-10-09T11:10:19Z</published>
+    <updated>2026-10-09T11:10:19Z</updated>
+    <summary>Follow a step-by-step guide to create a webhook endpoint, test it locally with the Stripe CLI, verify event signatures, and deploy to production.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12263656120145640542</id>
+    <title>Universal Commerce Protocol - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/agentic-commerce/protocols/ucp" />
+    <published>2026-10-09T11:10:19Z</published>
+    <updated>2026-10-09T11:10:19Z</updated>
+    <summary>Stripe payment handlers for UCP. UCP payment handlers define how payment instruments are acquired, exchanged, and processed between all participants ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:5231195890762614563</id>
     <title>How events work | Stripe Documentation</title>
