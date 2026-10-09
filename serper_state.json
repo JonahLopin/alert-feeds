@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 136,
+  "credits_used": 182,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-09T15:36:47Z",
+  "last_run": "2026-10-09T16:34:06Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 3
+  "runs": 4
  },
  "feeds": {
   "adp-help": {},
@@ -103,19 +103,10 @@
     "baseline": true,
     "date_hint": "3 days ago",
     "first_seen": "2026-10-09T15:36:47Z",
-    "link": "https://mediacenter.adp.com/2026-10-06-ADP-National-Employment-Report-Preliminary-Estimate-for-September-19,-2026?asPDF",
+    "link": "https://mediacenter.adp.com/2026-10-06-ADP-National-Employment-Report-Preliminary-Estimate-for-September-19,-2026?asPDF=",
     "page": 2,
     "summary": "The NER Pulse is an estimate of the week-over-week change in employment based on a four-week moving average. These estimates are based on ADP's finely tuned ...",
     "title": "ADP National Employment Report Preliminary Estimate for ..."
-   },
-   "mediacenter.adp.com/news": {
-    "baseline": false,
-    "date_hint": "2 days ago",
-    "first_seen": "2026-10-09T15:36:47Z",
-    "link": "https://mediacenter.adp.com/news",
-    "page": 1,
-    "summary": "Private-sector employment increased by 90,000 jobs in September, according to the ADP National Employment Report\u00ae produced by ADP Research in collaboration with ...",
-    "title": "News"
    },
    "mediacenter.adp.com/news-briefs?l=27": {
     "baseline": true,
@@ -195,7 +186,7 @@
     "baseline": true,
     "date_hint": "4 days ago",
     "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://news.basware.com/en/basware-completes-acquisition-of-trustpair?utm_campaign=51326097-GLB%20%7C%20MARK-CUS%20%7CEXP%20%7C%20OTH%20%7CTrace%20%7C%202026-9&utm_source=BaswareWebsite&utm_medium=homepagebanner",
+    "link": "https://news.basware.com/en/basware-completes-acquisition-of-trustpair",
     "summary": "Basware, the global leader in Invoice Lifecycle Management (ILM), today announced the completion of its acquisition of Trustpair, a leading payment fraud ...",
     "title": "Basware Completes Acquisition of Trustpair, Strengthening ..."
    }
@@ -251,6 +242,15 @@
     "page": 2,
     "summary": "Walt Disney Co. has held talks with other studios about using its new brand for large-screen movie formats, often described as a competitor to Imax Corp.",
     "title": "Disney Pitches Paramount, Universal on Imax Big-Screen ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/doj-seeking-criminal-indictment-of-former-white-house-aide": {
+    "baseline": false,
+    "date_hint": "21 hours ago",
+    "first_seen": "2026-10-09T16:34:06Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-seeking-criminal-indictment-of-former-white-house-aide",
+    "page": 2,
+    "summary": "The US Justice Department is seeking a criminal indictment of former White House aide Cassidy Hutchinson for lying to Congress, according to a person ...",
+    "title": "DOJ Seeking Criminal Indictment of Former White House ..."
    },
    "news.bloomberglaw.com/business-and-practice/dojs-transgender-care-subpoena-appeal-confronts-doubtful-judges": {
     "baseline": true,
@@ -435,26 +435,8 @@
     "title": "How Restaurants Prevent Order Errors During the Friday ..."
    }
   },
-  "chownow-blog": {
-   "get.chownow.com/blog/category/restaurant-marketing/acquiring-new-diners/page/2": {
-    "baseline": true,
-    "date_hint": "17 hours ago",
-    "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://get.chownow.com/blog/category/restaurant-marketing/acquiring-new-diners/page/2/",
-    "summary": "Explore restaurant marketing content focused on acquiring new diners, with tips strategies and ideas to attract guests and increase orders and revenue.",
-    "title": "Restaurant Marketing Tips for Acquiring New Diners"
-   }
-  },
-  "csc-blog": {
-   "blog.cscglobal.com/page/3": {
-    "baseline": false,
-    "date_hint": "3 days ago",
-    "first_seen": "2026-10-09T15:30:23Z",
-    "link": "https://blog.cscglobal.com/page/3/",
-    "summary": "County Recording Offices. What to Know, What to Watch, and How to Lead. Webinars Insight reports Press State Holiday Closings International Holiday Closings ...",
-    "title": "CSC Blog"
-   }
-  },
+  "chownow-blog": {},
+  "csc-blog": {},
   "doordash-blog": {
    "merchants.doordash.com/en-us/blog/restaurant-customer-feedback": {
     "baseline": true,
@@ -808,6 +790,15 @@
     "summary": "Tax forms and filing. Withholding information. Unemployment and other taxes. General state and agency information.",
     "title": "Access state agency websites for payroll - QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/payroll-preferences/set-quickbooks-workforce-account/L7lTybIK7_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T16:34:06Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll-preferences/set-quickbooks-workforce-account/L7lTybIK7_US_en_US",
+    "page": 2,
+    "summary": "Create a new Intuit account with your email and a password. If you have an existing account, sign in using those credentials. Enter your personal information to ...",
+    "title": "Set up your \u200bWorkforce\u200b account - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/payroll-processes/create-paycheck-employee/L5JFzGwNu_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -942,30 +933,6 @@
    }
   },
   "kintsugi-blog": {
-   "trykintsugi.com/blog/category/nexus": {
-    "baseline": true,
-    "date_hint": "2 days ago",
-    "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://trykintsugi.com/blog/category/nexus",
-    "summary": "Nexus is the connection to a state that obligates a business to register for, collect, and remit its sales tax. These articles explain how nexus is triggered ...",
-    "title": "Sales Tax Nexus"
-   },
-   "trykintsugi.com/blog/category/saas": {
-    "baseline": true,
-    "date_hint": "2 days ago",
-    "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://trykintsugi.com/blog/category/saas",
-    "summary": "Articles on sales tax for SaaS and digital products: which states tax software and digital goods, and how to comply.",
-    "title": "SaaS and Digital Products | Sales Tax Blog"
-   },
-   "trykintsugi.com/blog/category/state-sales-tax": {
-    "baseline": true,
-    "date_hint": "2 days ago",
-    "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://trykintsugi.com/blog/category/state-sales-tax",
-    "summary": "Articles on US state and local sales tax: rates, exemptions, clothing and food rules, and filing requirements by state and city.",
-    "title": "State Sales Tax"
-   },
    "trykintsugi.com/blog/kintsugi-sales-tax-monthly-october": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -987,29 +954,12 @@
    }
   },
   "ncr-voyix-press": {
-   "ncrvoyix.com/newsroom/truage-age-verification-solution-integrated-across-ncr-voyix-point-of-sale-portfolio-for-convenience-and-fuel-retailers?srsltid=AU7gw4UnAhVIElkIG_BvHLfjB8JFI-4HspCoiQEv1KURYCea8lsnRJcT": {
+   "ncrvoyix.com/newsroom/truage-age-verification-solution-integrated-across-ncr-voyix-point-of-sale-portfolio-for-convenience-and-fuel-retailers": {
     "baseline": true,
     "date_hint": "3 days ago",
     "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://www.ncrvoyix.com/newsroom/truage-age-verification-solution-integrated-across-ncr-voyix-point-of-sale-portfolio-for-convenience-and-fuel-retailers?srsltid=AU7gw4UnAhVIElkIG_BvHLfjB8JFI-4HspCoiQEv1KURYCea8lsnRJcT",
+    "link": "https://www.ncrvoyix.com/newsroom/truage-age-verification-solution-integrated-across-ncr-voyix-point-of-sale-portfolio-for-convenience-and-fuel-retailers",
     "summary": "Integration delivers instantaneous age assurance at checkout to reduce customer friction and support responsible sales practices.",
-    "title": "TruAge\u00ae Age-Verification Solution integrated across NCR ..."
-   },
-   "ncrvoyix.com/newsroom/truage-age-verification-solution-integrated-across-ncr-voyix-point-of-sale-portfolio-for-convenience-and-fuel-retailers?srsltid=AU7gw4W6r7uZUJ5ad0ynvpYT6L5uEbp-I01ujNvrdmwmyvtksytiGwkH": {
-    "baseline": false,
-    "date_hint": "3 days ago",
-    "first_seen": "2026-10-09T15:30:23Z",
-    "link": "https://www.ncrvoyix.com/newsroom/truage-age-verification-solution-integrated-across-ncr-voyix-point-of-sale-portfolio-for-convenience-and-fuel-retailers?srsltid=AU7gw4W6r7uZUJ5ad0ynvpYT6L5uEbp-I01ujNvrdmwmyvtksytiGwkH",
-    "summary": "Integration delivers instantaneous age assurance at checkout to reduce customer friction and support responsible sales practices.",
-    "title": "TruAge\u00ae Age-Verification Solution integrated across NCR ..."
-   },
-   "ncrvoyix.com/newsroom/truage-age-verification-solution-integrated-across-ncr-voyix-point-of-sale-portfolio-for-convenience-and-fuel-retailers?srsltid=AU7gw4WCZLdPLyKwypCf-uJWLCtrNyYf84eClsMTYo6QwamHV5AW6WUi": {
-    "baseline": false,
-    "date_hint": "3 days ago",
-    "first_seen": "2026-10-09T15:36:47Z",
-    "link": "https://www.ncrvoyix.com/newsroom/truage-age-verification-solution-integrated-across-ncr-voyix-point-of-sale-portfolio-for-convenience-and-fuel-retailers?srsltid=AU7gw4WCZLdPLyKwypCf-uJWLCtrNyYf84eClsMTYo6QwamHV5AW6WUi",
-    "page": 1,
-    "summary": "TruAge allows retailers to verify age, identify fake or expired IDs and check purchase limits by scanning a physical or digital driver's license.",
     "title": "TruAge\u00ae Age-Verification Solution integrated across NCR ..."
    }
   },
@@ -1024,14 +974,6 @@
    }
   },
   "sap-financial-management-press": {
-   "news.sap.com/": {
-    "baseline": true,
-    "date_hint": "3 days ago",
-    "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://news.sap.com/",
-    "summary": "News & press releases from SAP: Read in-depth feature articles on current business and technology trends, customer stories & videos on SAP TV.",
-    "title": "SAP News Center | Company & Customer Stories | Press Room"
-   },
    "news.sap.com/germany/2026/10/sap-praesentiert-das-autonome-unternehmen-im-praxiseinsatz": {
     "baseline": true,
     "date_hint": "24 hours ago",
@@ -1048,14 +990,6 @@
     "link": "https://news.sap.com/netherlands/",
     "summary": "Nieuws en informatie over SAP.",
     "title": "SAP Nederland Blogs & Nieuws"
-   },
-   "news.sap.com/press-room": {
-    "baseline": true,
-    "date_hint": "3 days ago",
-    "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://news.sap.com/press-room/",
-    "summary": "For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply ...",
-    "title": "SAP Press Releases, Press Resources"
    },
    "news.sap.com/sweden": {
     "baseline": true,
@@ -1356,14 +1290,6 @@
   "taxcloud-help": {},
   "taxjar-help": {},
   "thomson-reuters-tax-blog": {
-   "tax.thomsonreuters.com/blog": {
-    "baseline": true,
-    "date_hint": "3 days ago",
-    "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://tax.thomsonreuters.com/blog/",
-    "summary": "Read the latest news, views, and analysis by the tax and accounting experts at Thomson Reuters.",
-    "title": "Thomson Reuters Tax and Accounting Blog"
-   },
    "tax.thomsonreuters.com/blog/bis-50-rule-trade-compliance-guide": {
     "baseline": true,
     "date_hint": "20 hours ago",
@@ -1530,6 +1456,15 @@
     "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-launches-ai-enhanced-uptodate-enterprise-edition-in-apac",
     "summary": "Revolutionizing Clinical Decision Support for healthcare systems with AI for search, usage analytics, and more.",
     "title": "Wolters Kluwer launches AI-enhanced UpToDate ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-legal-regulatory-u-s-names-ken-crutchfield-as-vice-president-general-manager-of-legal-markets": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-09T16:34:06Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-legal-regulatory-u-s-names-ken-crutchfield-as-vice-president-general-manager-of-legal-markets",
+    "page": 2,
+    "summary": "Wolters Kluwer Legal & Regulatory U.S. today announced the appointment of Ken Crutchfield as Vice President & General Manager of Legal Markets, effective ...",
+    "title": "Wolters Kluwer Legal & Regulatory Names Ken Crutchfield ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-unveils-industry-first-enhancements-to-cch-ifirm-in-australia-and-new-zealand": {
     "baseline": true,
