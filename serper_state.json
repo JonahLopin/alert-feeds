@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 229,
+  "credits_used": 276,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-09T17:46:57Z",
+  "last_run": "2026-10-09T18:52:46Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 5
+  "runs": 6
  },
  "feeds": {
   "adp-help": {},
@@ -235,6 +235,15 @@
     "summary": "Core Scientific Inc. and Malikie Innovations Ltd. resolved their patent dispute concerning methods for cryptography.",
     "title": "Core Scientific, Patent Owner Resolve Cryptography Tech ..."
    },
+   "news.bloomberglaw.com/business-and-practice/crypto-hardware-wallets-hit-in-estimated-70-million-attack": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-09T18:52:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/crypto-hardware-wallets-hit-in-estimated-70-million-attack",
+    "page": 2,
+    "summary": "Crypto hardware maker Ledger SAS said it's investigating reports that a number of users had seen a \u201closs of funds\u201d from their wallets, knocking the industry ...",
+    "title": "Crypto Hardware Wallets Hit in Estimated $70 Million Attack"
+   },
    "news.bloomberglaw.com/business-and-practice/debevoise-picks-up-freshfields-private-capital-group-leaders": {
     "baseline": true,
     "date_hint": "4 days ago",
@@ -260,6 +269,15 @@
     "page": 2,
     "summary": "The US Justice Department is seeking a criminal indictment of former White House aide Cassidy Hutchinson for lying to Congress, according to a person ...",
     "title": "DOJ Seeking Criminal Indictment of Former White House ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/doj-watchdog-probing-alleged-grand-jury-misconduct-in-chicago": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-09T18:52:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-watchdog-probing-alleged-grand-jury-misconduct-in-chicago",
+    "page": 2,
+    "summary": "The Justice Department's Office of Professional Responsibility is actively investigating attorneys' conduct in the \u201cBroadview Six\u201d scandal, ...",
+    "title": "DOJ Watchdog Probing Alleged Grand Jury Misconduct in ..."
    },
    "news.bloomberglaw.com/business-and-practice/dojs-transgender-care-subpoena-appeal-confronts-doubtful-judges": {
     "baseline": true,
@@ -304,6 +322,15 @@
     "summary": "a Christian university professor fired for officiating a same-sex wedding, was interested in the limits of the state antidiscrimination statute's application",
     "title": "Fired Michigan Gay Wedding Officiant Seeks ..."
    },
+   "news.bloomberglaw.com/business-and-practice/florida-judge-suspended-over-deepfake-call-mimicking-justices": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-09T18:52:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/florida-judge-suspended-over-deepfake-call-mimicking-justices",
+    "page": 1,
+    "summary": "A Florida trial judge has been suspended for 30 days and fined $10000 for campaign messaging relying on a phony AI-generated \u201cphone call\u201d that faked a ...",
+    "title": "Florida Judge Suspended Over Deepfake Call Mimicking ..."
+   },
    "news.bloomberglaw.com/business-and-practice/global-forum-releases-cybersecurity-guidance-for-tax-authorities": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -311,6 +338,15 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/global-forum-releases-cybersecurity-guidance-for-tax-authorities",
     "summary": "A global forum on transparency affiliated with the Organization for Economic Cooperation and Development released new information and cybersecurity guidance ...",
     "title": "Global Forum Releases Cybersecurity Guidance for Tax ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/humana-members-advance-privacy-suit-over-health-data-disclosures": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-09T18:52:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/humana-members-advance-privacy-suit-over-health-data-disclosures",
+    "page": 2,
+    "summary": "Humana Inc. failed in its bid to dismiss a proposed class action alleging the health insurance company disclosed members' personal health information to ...",
+    "title": "Humana Members Advance Privacy Suit Over Health Data ..."
    },
    "news.bloomberglaw.com/business-and-practice/humana-surges-on-medicare-quality-ratings-improvement": {
     "baseline": true,
@@ -363,6 +399,15 @@
     "page": 2,
     "summary": "Moderna Inc. and three top executives batted away investor allegations of overstating the efficacy level of its vaccine candidate for respiratory syncytial ...",
     "title": "Moderna Sheds Investor Lawsuit Over RSV Vaccine ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/plan-to-broadcast-fort-hood-killers-execution-spurs-criticism": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-09T18:52:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/plan-to-broadcast-fort-hood-killers-execution-spurs-criticism",
+    "page": 1,
+    "summary": "Politicians on both sides of the aisle criticized Defense Secretary Pete Hegseth for his plan to livestream the execution of a former Army major who killed ...",
+    "title": "Plan to Broadcast Fort Hood Killer's Execution Spurs ..."
    },
    "news.bloomberglaw.com/business-and-practice/regenxbio-penn-end-revived-sarepta-gene-therapy-patent-fight": {
     "baseline": true,
@@ -1187,7 +1232,17 @@
    }
   },
   "sovos-blog": {},
-  "sovos-help": {},
+  "sovos-help": {
+   "docs.sovos.com/en/sovos-glossary/registro-federal-de-contribuyentes-rfc": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-09T18:52:46Z",
+    "link": "https://docs.sovos.com/en/sovos-glossary/registro-federal-de-contribuyentes-rfc",
+    "page": 1,
+    "summary": "A registry of all Mexican taxpayers that serves as a tax identification number. It can be issued to either an individual or a legal entity.",
+    "title": "Registro Federal de Contribuyentes (RFC) - Sovos Docs"
+   }
+  },
   "spoton-help": {
    "help.spoton.com/space/SK/2666660428": {
     "baseline": true,
