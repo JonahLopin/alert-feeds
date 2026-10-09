@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 276,
+  "credits_used": 323,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-09T18:52:46Z",
+  "last_run": "2026-10-09T20:11:09Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 6
+  "runs": 7
  },
  "feeds": {
   "adp-help": {},
@@ -322,6 +322,15 @@
     "summary": "a Christian university professor fired for officiating a same-sex wedding, was interested in the limits of the state antidiscrimination statute's application",
     "title": "Fired Michigan Gay Wedding Officiant Seeks ..."
    },
+   "news.bloomberglaw.com/business-and-practice/florida-bar-exam-fees-for-veteran-lawyers-ruled-constitutional": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-09T20:11:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/florida-bar-exam-fees-for-veteran-lawyers-ruled-constitutional",
+    "page": 2,
+    "summary": "A Florida Bar exam penalty for legal experience \u2014 forcing veteran lawyers to pay more than three times what recent law school graduates pay to sit for the ...",
+    "title": "Florida Bar Exam Fees for Veteran Lawyers Ruled ..."
+   },
    "news.bloomberglaw.com/business-and-practice/florida-judge-suspended-over-deepfake-call-mimicking-justices": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -373,6 +382,15 @@
     "page": 2,
     "summary": "Japan's financial regulator ordered Prudential Financial Inc.'s local units to suspend sales of new policies after repeated misconduct by employees led to ...",
     "title": "Japan Orders Prudential Units to Halt Sales After ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/judge-sides-with-importers-to-expand-trump-tariff-refund-fight": {
+    "baseline": false,
+    "date_hint": "23 hours ago",
+    "first_seen": "2026-10-09T20:11:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/judge-sides-with-importers-to-expand-trump-tariff-refund-fight",
+    "page": 2,
+    "summary": "A US trade judge approved class-action status for a legal fight over refunds for President Donald Trump's global tariffs, siding with importers who contend ...",
+    "title": "Judge Sides With Importers to Expand Trump Tariff Refund ..."
    },
    "news.bloomberglaw.com/business-and-practice/los-angeles-judge-stumbles-through-awkward-discipline-hearing": {
     "baseline": true,
