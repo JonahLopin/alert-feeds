@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 182,
+  "credits_used": 229,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-09T16:34:06Z",
+  "last_run": "2026-10-09T17:46:57Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 4
+  "runs": 5
  },
  "feeds": {
   "adp-help": {},
@@ -192,6 +192,15 @@
    }
   },
   "bloomberg-law-press": {
+   "news.bloomberglaw.com/business-and-practice/amex-fined-350-million-for-lapses-in-money-laundering-systems": {
+    "baseline": false,
+    "date_hint": "21 hours ago",
+    "first_seen": "2026-10-09T17:46:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/amex-fined-350-million-for-lapses-in-money-laundering-systems",
+    "page": 2,
+    "summary": "Federal regulators fined American Express Co. $350 million for failing to catch and report money laundering in its system.",
+    "title": "Amex Fined $350 Million for Lapses in Money-Laundering ..."
+   },
    "news.bloomberglaw.com/business-and-practice/appeals-court-vacates-manatee-harm-decision-after-rule-change": {
     "baseline": true,
     "date_hint": "18 hours ago",
@@ -336,6 +345,15 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/los-angeles-judge-stumbles-through-awkward-discipline-hearing",
     "summary": "A Los Angeles Superior Court judge facing allegations of inappropriate sexual and racial comments stammered his way through a sometimes awkward judicial ...",
     "title": "Los Angeles Judge Stumbles Through Awkward Discipline ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/matt-levines-money-stuff-pre-ipo-perpetual-futures-swap-etf": {
+    "baseline": false,
+    "date_hint": "23 hours ago",
+    "first_seen": "2026-10-09T17:46:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/matt-levines-money-stuff-pre-ipo-perpetual-futures-swap-etf",
+    "page": 2,
+    "summary": "Anthropic has stock, and people own it, and owning it gives you economic exposure to Anthropic stock. There are problems. Not just anyone can own Anthropic ...",
+    "title": "Matt Levine - Pre-IPO Perpetual Futures Swap ETF"
    },
    "news.bloomberglaw.com/business-and-practice/moderna-sheds-investor-lawsuit-over-rsv-vaccine-efficacy-figure": {
     "baseline": true,
@@ -983,6 +1001,15 @@
     "summary": "Erfahren Sie, wie SAP Unternehmen auf dem Weg zu KI-gesteuerten, autonomen L\u00f6sungen unterst\u00fctzt und beeindruckende Ergebnisse zeigt.",
     "title": "SAP zeigt Erfolgsgeschichten autonomer Unternehmen"
    },
+   "news.sap.com/japan/2026/10/1009_sap-strategic-leader-2026-fosway-9-grid-cloud-hr": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-09T17:46:57Z",
+    "link": "https://news.sap.com/japan/2026/10/1009_sap-strategic-leader-2026-fosway-9-grid-cloud-hr/",
+    "page": 1,
+    "summary": "SAP\u306f\u3001\u300c2026 Fosway 9-Grid\u2122 for Cloud HR\u300d\u306b\u304a\u3044\u3066\u3001\u5f15\u304d\u7d9a\u304d\u300cStrategic Leader\uff08\u6226\u7565\u7684\u30ea\u30fc\u30c0\u30fc\uff09\u300d\u306b\u9078\u51fa\u3055\u308c\u307e\u3057\u305f\u3002\u3053\u308c\u306f\u3001\u4eba\u4e8b\u5909\u9769\u306b\u53d6\u308a\u7d44\u3080\u4f01\u696d\u306b\u3068\u3063\u3066\u3001SAP ...",
+    "title": "SAP\u3001\u300c2026 Fosway 9-Grid\u2122 for Cloud HR\u300d\u3067 Strategic ..."
+   },
    "news.sap.com/netherlands": {
     "baseline": true,
     "date_hint": "13 hours ago",
@@ -1424,6 +1451,15 @@
     "page": 2,
     "summary": "Diverticulitis occurs when small sacs or pouches in the colon wall (diverticula) become inflamed, causing symptoms such as abdominal pain or tenderness and ...",
     "title": "Treatment for Diverticulitis \u2013 Updated ASCRS Guidelines"
+   },
+   "wolterskluwer.com/en/news/with-batwing-mastopexy-more-women-can-undergo-nipple-sparing-mastectomy": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-09T17:46:57Z",
+    "link": "https://www.wolterskluwer.com/en/news/with-batwing-mastopexy-more-women-can-undergo-nipple-sparing-mastectomy",
+    "page": 1,
+    "summary": "Nipple-sparing techniques can provide better outcomes for women undergoing breast reconstruction after mastectomy.",
+    "title": "With 'batwing' mastopexy, more women can undergo ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-and-suki-to-integrate-uptodates-trusted-physicianauthored-content-into-suki-assistant": {
     "baseline": true,
