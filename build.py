@@ -136,7 +136,8 @@ INDEX_STYLE = """
   --ff-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   --white: #FFFFFF; --onyx25: #F6F7F7; --onyx50: #ECEEEF; --onyx100: #E3E6E8; --onyx300: #A2ACB1;
   --onyx500: #606E75; --onyx700: #363D41; --onyx800: #1F2325; --onyx900: #101213;
-  --blue25: #E6EFFA; --blue35: #CDE0F6; --blue400: #0363D1; --blue500: #024FA7;
+  --onyx200: #C7CDD0;
+  --blue25: #E6EFFA; --blue35: #CDE0F6; --blue50: #9AC1ED; --blue400: #0363D1; --blue500: #024FA7;
   --blurple25: #F5F6FE; --blurple100: #B9C2F6; --blurple600: #1731BB;
   --purple1: #f9f0ff; --purple3: #d3adf7; --purple6: #722ed1;
   --gold500: #C6900A;
@@ -185,11 +186,26 @@ tbody tr:hover td { background: var(--onyx25); }
 code { font-family: var(--ff-mono); font-size: 13px; line-height: 20px; color: var(--onyx800); overflow-wrap: anywhere; }
 td.num { text-align: right; white-space: nowrap; }
 td.feeds { white-space: nowrap; }
-th.c-comp { width: 18%; } th.c-alert { width: 34%; } th.c-feeds { width: 14%; } th.c-num { width: 12%; text-align: right; } th.c-wired { width: 22%; }
+th.c-comp { width: 17%; } th.c-alert { width: 31%; } th.c-feeds { width: 14%; } th.c-num { width: 11%; text-align: right; } th.c-wired { width: 27%; }
+th button { all: unset; cursor: pointer; display: inline-flex; align-items: center; gap: 4px; }
+th button:hover { color: var(--onyx800); }
+th button:focus-visible { box-shadow: 0 0 0 3px var(--blue50); border-radius: 4px; }
+th button::after { content: "\\2195"; opacity: 0.4; }
+th[aria-sort] button { color: var(--onyx800); }
+th[aria-sort="ascending"] button::after { content: "\\25B2"; opacity: 1; font-size: 9px; }
+th[aria-sort="descending"] button::after { content: "\\25BC"; opacity: 1; font-size: 9px; }
+.toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; padding: 0 24px 16px; }
+.search { flex: 1 1 280px; max-width: 420px; padding: 8px 12px; border: 1px solid var(--onyx200); border-radius: 6px; background: var(--white); font: 400 16px/24px var(--ff-base); color: var(--onyx800); }
+.search:focus { outline: none; border-color: var(--blue400); box-shadow: 0 0 0 3px var(--blue25); }
+.match-count { font-size: 14px; line-height: 22px; color: var(--onyx500); }
+.empty { margin: 0; padding: 16px 24px; font-size: 14px; line-height: 22px; color: var(--onyx500); }
+.wired { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+a.tag:hover { text-decoration: none; filter: brightness(0.96); }
+.btn-sm { display: inline-flex; align-items: center; padding: 2px 10px; border: 1px solid var(--blue400); border-radius: 6px; background: var(--white); color: var(--blue400); font-size: 12px; line-height: 18px; font-weight: 500; white-space: nowrap; }
+.btn-sm:hover { background: var(--blue25); color: var(--blue500); text-decoration: none; }
 .count { font-size: 18px; line-height: 28px; font-weight: 600; color: var(--onyx900); font-variant-numeric: tabular-nums; }
 .waiting { color: var(--gold500); font-weight: 500; }
 .tag { display: inline-flex; align-items: center; gap: 4px; padding: 2px 10px; border-radius: 999px; font-size: 12px; line-height: 18px; font-weight: 500; white-space: nowrap; }
-.tag .type { opacity: 0.75; }
 .t-product { background: var(--blue25); border: 1px solid var(--blue35); color: var(--blue500); }
 .t-content { background: var(--blurple25); border: 1px solid var(--blurple100); color: var(--blurple600); }
 .t-news { background: var(--purple1); border: 1px solid var(--purple3); color: var(--purple6); }
@@ -198,6 +214,53 @@ footer { padding: 0 0 40px; font-size: 14px; line-height: 22px; color: var(--ony
 @media (min-width: 769px) { .container { padding: 0 40px; } }
 """
 TYPE_CLASS = {"Product": "t-product", "Content Marketing": "t-content", "News & PR": "t-news"}
+# Click a column header to sort (again to reverse); type in the search box to filter rows.
+INDEX_SCRIPT = """
+(function () {
+  function textCompare(a, b) { return a.localeCompare(b, undefined, { numeric: true, sensitivity: "base" }); }
+  function feeds(n) { return n + (n === 1 ? " feed" : " feeds"); }
+  document.querySelectorAll(".feed-list").forEach(function (box) {
+    var table = box.querySelector("table"), tbody = table.tBodies[0];
+    var rows = Array.prototype.slice.call(tbody.rows);
+    var input = box.querySelector(".search"), count = box.querySelector(".match-count"), empty = box.querySelector(".empty");
+    input.addEventListener("input", function () {
+      var q = input.value.trim().toLowerCase(), shown = 0;
+      rows.forEach(function (r) {
+        var hit = !q || r.getAttribute("data-search").indexOf(q) !== -1;
+        r.hidden = !hit;
+        if (hit) shown++;
+      });
+      count.textContent = q ? shown + " of " + feeds(rows.length) : feeds(rows.length);
+      empty.hidden = shown !== 0;
+    });
+    var ths = Array.prototype.slice.call(table.tHead.rows[0].cells);
+    ths.forEach(function (th, idx) {
+      th.querySelector("button").addEventListener("click", function () {
+        var num = th.getAttribute("data-type") === "num", cur = th.getAttribute("aria-sort");
+        var dir = cur ? (cur === "ascending" ? "descending" : "ascending") : (num ? "descending" : "ascending");
+        ths.forEach(function (h) { h.removeAttribute("aria-sort"); });
+        th.setAttribute("aria-sort", dir);
+        rows.sort(function (a, b) {
+          var x = a.cells[idx].getAttribute("data-sort"), y = b.cells[idx].getAttribute("data-sort");
+          var c = num ? parseFloat(x) - parseFloat(y) : textCompare(x, y);
+          if (c !== 0) return dir === "ascending" ? c : -c;
+          return textCompare(a.getAttribute("data-key"), b.getAttribute("data-key"));
+        });
+        rows.forEach(function (r) { tbody.appendChild(r); });
+      });
+    });
+  });
+})();
+"""
+
+
+def insights_url(portal, competitor_id, subtype_id):
+    """The portal's insight search filtered to one competitor and one subtype, all time.
+    portal["url"] is any page in the portal, e.g. https://app.crayon.co/intel/<portal>/search/."""
+    m = re.match(r"(https?://[^/]+/intel/[^/]+)", (portal or {}).get("url") or "")
+    if not m or not competitor_id or not subtype_id:
+        return None
+    return "%s/search/competitor/%s/subtype/%s/timerange/all_time/" % (m.group(1), competitor_id, subtype_id)
 
 
 def fmt_when(t):
@@ -236,9 +299,10 @@ def write_index(config, state, results, start, serper_state, serper_results, ser
         rows = [tally(s, source) for s in slugs]
         return sum(r[0] for r in rows), sum(r[1] for r in rows)
 
-    def row(slug, source):
+    def row(slug, source, portal=None):
         f = feeds[slug]
         crayon = f.get(SOURCES[source][0]) or {}
+        link = insights_url(portal, crayon.get("competitor_id"), f.get("insight_subtype_id")) if portal else None
         published, waiting, latest, baseline = tally(slug, source)
         competitor_sub = esc(f["category"])
         if crayon.get("competitor"):
@@ -251,8 +315,16 @@ def write_index(config, state, results, start, serper_state, serper_results, ser
         entries += '<div class="sub">%s</div>' % (esc("Latest " + fmt_when(latest)) if latest else "No entries yet")
         if baseline:
             entries += '<div class="sub" title="Results of the first search, recorded so they never count as new">%d in first search</div>' % baseline
-        tag = '<span class="tag %s"><span class="type">%s &rsaquo;</span>%s</span>' % (
-            TYPE_CLASS.get(f.get("insight_type"), "t-other"), esc(f.get("insight_type") or "Insight"), esc(f.get("insight_subtype") or "-"))
+        # Just the subtype; it and the button open the portal's insights for this competitor and subtype.
+        klass = TYPE_CLASS.get(f.get("insight_type"), "t-other")
+        subtype = esc(f.get("insight_subtype") or "-")
+        if link:
+            wired_cell = ('<div class="wired"><a class="tag %s" href="%s" title="Open these insights in the portal">%s</a>'
+                          '<a class="btn-sm" href="%s">View insights &#8599;</a></div>') % (klass, esc(link), subtype, esc(link))
+        else:
+            wired_cell = '<div class="wired"><span class="tag %s">%s</span></div>' % (klass, subtype)
+        key = "%s|%d|%s" % (f["competitor"].lower(), CATEGORY_ORDER.get(f["category"], 9), slug)
+        haystack = " ".join([f["competitor"], crayon.get("competitor") or "", f["category"], f["query"], f.get("insight_subtype") or "", slug]).lower()
         if source == "serper":
             search = "https://www.google.com/search?q=%s&tbs=%s" % (urllib.parse.quote(f["query"], safe=""), urllib.parse.quote(tbs, safe=""))
             alert_link = '<a href="%s">Run the search &#8599;</a>' % esc(search)
@@ -262,21 +334,35 @@ def write_index(config, state, results, start, serper_state, serper_results, ser
             alert_link = '<a href="%s">View alert &#8599;</a>' % esc(view_alert)
             feed_links = '<a href="feeds/%s.xml">Our feed</a><span class="sep">&middot;</span><a href="%s">Google feed</a>' % (esc(slug), esc(f["google_feed"]))
         return (
-            "<tr>"
-            '<td><div class="name">%s</div><div class="sub">%s</div></td>'
-            '<td><code>%s</code><div class="sub">%s</div></td>'
-            '<td class="feeds">%s</td>'
-            '<td class="num">%s</td>'
-            "<td>%s</td>"
+            '<tr data-key="%s" data-search="%s">'
+            '<td data-sort="%s"><div class="name">%s</div><div class="sub">%s</div></td>'
+            '<td data-sort="%s"><code>%s</code><div class="sub">%s</div></td>'
+            '<td class="feeds" data-sort="%s">%s</td>'
+            '<td class="num" data-sort="%d">%s</td>'
+            '<td data-sort="%s">%s</td>'
             "</tr>"
-        ) % (esc(f["competitor"]), competitor_sub, esc(f["query"]), alert_link, feed_links, entries, tag)
+        ) % (esc(key), esc(haystack), esc(key), esc(f["competitor"]), competitor_sub, esc(f["query"].lower()), esc(f["query"]), alert_link,
+             esc(slug), feed_links, published, entries, esc(((f.get("insight_subtype") or "") + "|" + key).lower()), wired_cell)
 
-    def table(slugs, source):
+    def table(slugs, source, portal=None):
         slugs = sorted(slugs, key=lambda s: (feeds[s]["competitor"].lower(), CATEGORY_ORDER.get(feeds[s]["category"], 9), s))
-        head = ('<thead><tr><th class="c-comp">Competitor</th><th class="c-alert">%s</th><th class="c-feeds">Feeds</th>'
-                '<th class="c-num">Entries</th><th class="c-wired" title="Insight type and subtype in Crayon">Wired to</th></tr></thead>'
-                % ("Search" if source == "serper" else "Alert"))
-        return '<div class="table-wrap"><table>%s<tbody>%s</tbody></table></div>' % (head, "".join(row(s, source) for s in slugs))
+        # Rows start sorted by competitor, so that header starts marked ascending.
+        head = ('<thead><tr>'
+                '<th class="c-comp" aria-sort="ascending"><button type="button">Competitor</button></th>'
+                '<th class="c-alert"><button type="button">%s</button></th>'
+                '<th class="c-feeds"><button type="button">Feeds</button></th>'
+                '<th class="c-num" data-type="num"><button type="button">Entries</button></th>'
+                '<th class="c-wired" title="Insight subtype in Crayon"><button type="button">Wired to</button></th>'
+                "</tr></thead>" % ("Search" if source == "serper" else "Alert"))
+        return (
+            '<div class="feed-list">'
+            '<div class="toolbar"><input class="search" type="search" placeholder="Search competitor, %s or subtype" aria-label="Search feeds">'
+            '<span class="match-count">%d feed%s</span></div>'
+            '<div class="table-wrap"><table>%s<tbody>%s</tbody></table></div>'
+            '<p class="empty" hidden>No feeds match your search.</p>'
+            "</div>"
+        ) % ("search" if source == "serper" else "alert", len(slugs), "" if len(slugs) == 1 else "s", head,
+             "".join(row(s, source, portal) for s in slugs))
 
     sections = []
     wired = {source: set() for source in SOURCES}
@@ -300,7 +386,7 @@ def write_index(config, state, results, start, serper_state, serper_results, ser
             "</section>"
             % (portal["id"], esc(label), esc(portal["url"]), esc(portal["name"]), esc(portal["url"]), esc(portal.get("admin_url") or portal["url"]),
                competitors, published, ('<span><b>%d</b> waiting</span>' % waiting) if waiting else "",
-               len(slugs), "" if len(slugs) == 1 else "s", table(slugs, source))
+               len(slugs), "" if len(slugs) == 1 else "s", table(slugs, source, portal))
         )
     for source in SOURCES:
         if source == "serper" and "serper" not in config:
@@ -340,8 +426,9 @@ def write_index(config, state, results, start, serper_state, serper_results, ser
         "</div></header>\n"
         '<main class="container">%s</main>\n'
         '<footer class="container">Built by <a href="https://github.com/JonahLopin/alert-feeds">github.com/JonahLopin/alert-feeds</a>.</footer>\n'
+        "<script>%s</script>\n"
         "</body>\n</html>\n"
-    ) % (INDEX_STYLE, len(feeds), published, waiting_stat, serper_stat, "".join(sections))
+    ) % (INDEX_STYLE, len(feeds), published, waiting_stat, serper_stat, "".join(sections), INDEX_SCRIPT)
     with open(os.path.join(ROOT, "docs", "index.html"), "w") as fh:
         fh.write(page)
 
