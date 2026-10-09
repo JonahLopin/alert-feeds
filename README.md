@@ -10,7 +10,7 @@ Google Alerts feeds stamp every entry `1970-01-01`, so readers that go by date s
 
 ## Serper feeds
 
-`serper_build.py` runs each alert's `site:` query through [Serper](https://serper.dev), Google's search API, once an hour. It limits each search to the past week (`config.json` → `serper.tbs`) and asks for 10 results, or 100 when the 10 come back full. Serper bills 1 credit per search, or 2 for the 100-result version.
+`serper_build.py` runs each alert's `site:` query through [Serper](https://serper.dev), Google's search API, once an hour. It limits each search to the past week (`config.json` → `serper.tbs`). A feed can override that with `serper_tbs`: Bloomberg Law and SAP, which publish many pages a day, search the past day. Google no longer serves 100 results a page, so a full page of 10 is followed by the next one, up to `serper.max_pages` (5). Serper bills 1 credit per page.
 
 The first search for each feed is a baseline. Its results are recorded in `serper_state.json` but never published, the way an alert only reports what's new after it was created. After that, each URL is published to `docs/serper/<slug>.xml` the first time it shows up.
 

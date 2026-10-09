@@ -62,7 +62,8 @@
         "portal": 7272,
         "competitor": "fake-bloomberg-law",
         "competitor_id": 40598
-      }
+      },
+      "serper_tbs": "qdr:d"
     },
     "chowbus-blog": {
       "competitor": "Chowbus",
@@ -328,7 +329,8 @@
         "portal": 7272,
         "competitor": "fake-sap-financial-management",
         "competitor_id": 40595
-      }
+      },
+      "serper_tbs": "qdr:d"
     },
     "shift4-dine-blog": {
       "competitor": "Shift4 Dine",
@@ -557,6 +559,7 @@
   },
   "serper": {
     "tbs": "qdr:w",
-    "every_minutes": 60
+    "every_minutes": 60,
+    "max_pages": 5
   }
 }

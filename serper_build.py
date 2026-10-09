@@ -7,9 +7,10 @@ recorded but never published, the way a Google Alert only reports what's new aft
 was created. Every later search adds only URLs it hasn't seen, dated when first seen.
 build.py turns the record into docs/serper/<slug>.xml and the comparison page.
 
-Each query is limited to the past week (config serper.tbs, default qdr:w) and asks for
-10 results; one that comes back full is asked again for 100. Serper bills 1 credit for
-up to 10 results and 2 for up to 100, so quiet feeds stay at 1 credit. Searches run at
+Each query is limited to the past week (config serper.tbs, default qdr:w; a feed can
+override it with "serper_tbs", e.g. qdr:d for a site that publishes dozens of pages a
+day). Google no longer serves 100 results a page, so a full page of 10 is followed by
+the next page, up to serper.max_pages (default 5), at 1 credit a page. Searches run at
 most once per serper.every_minutes (default 60) however often this is invoked, and skip
 cleanly when SERPER_API_KEY isn't set. Standard library only.
 """
@@ -33,8 +34,8 @@ class Fatal(Exception):
     """A refusal every later query would hit too: bad or revoked key, no credits left."""
 
 
-def search(key, query, num, tbs, tries=4):
-    body = json.dumps({"q": query, "num": num, "tbs": tbs}).encode()
+def search(key, query, tbs, page=1, tries=4):
+    body = json.dumps({"q": query, "num": 10, "tbs": tbs, "page": page}).encode()
     for attempt in range(tries):
         req = urllib.request.Request(SERPER_URL, data=body, headers={"X-API-KEY": key, "Content-Type": "application/json"})
         try:
@@ -62,6 +63,7 @@ def main():
     settings = config.get("serper") or {}
     tbs = settings.get("tbs") or "qdr:w"
     every = int(settings.get("every_minutes") or 60)
+    max_pages = int(settings.get("max_pages") or 5)
     state = {}
     if os.path.exists(STATE_PATH):
         with open(STATE_PATH) as fh:
@@ -79,17 +81,31 @@ def main():
     feeds = state.setdefault("feeds", {})
     credits = queries = new_total = 0
     failures, fatal = [], None
+    paged = meta.setdefault("paged", [])
+    feed_tbs = meta.setdefault("feed_tbs", {})
     for slug, feed_cfg in sorted(config["feeds"].items()):
         first_search = slug not in feeds
+        this_tbs = feed_cfg.get("serper_tbs") or tbs
+        # Feeds searched before paging existed only ever saw page 1: their first deeper
+        # search is a baseline for pages 2 and up, so older pages there don't count as new.
+        rebaseline_deep = not first_search and slug not in paged
+        # A feed whose time window changed starts over: its first search in the new window
+        # is all baseline. Feeds from before this was recorded used the default window.
+        rebaseline_all = not first_search and feed_tbs.get(slug, "qdr:w") != this_tbs
         seen = feeds.setdefault(slug, {})
+        results = []  # (page, result)
         try:
-            answer = search(key, feed_cfg["query"], 10, tbs)
-            credits += answer.get("credits") or 1
-            queries += 1
-            if len(answer.get("organic") or []) >= 10:
-                answer = search(key, feed_cfg["query"], 100, tbs)
-                credits += answer.get("credits") or 2
+            run_links = set()
+            for page in range(1, max_pages + 1):
+                answer = search(key, feed_cfg["query"], this_tbs, page)
+                credits += answer.get("credits") or 1
                 queries += 1
+                organic = [o for o in answer.get("organic") or [] if o.get("link")]
+                fresh = [o for o in organic if norm(o["link"]) not in run_links]
+                run_links.update(norm(o["link"]) for o in fresh)
+                results.extend((page, o) for o in fresh)
+                if len(organic) < 10 or not fresh:
+                    break
         except Fatal as exc:
             fatal = str(exc)
             if first_search:
@@ -100,22 +116,25 @@ def main():
             if first_search:
                 del feeds[slug]
             continue
-        for result in answer.get("organic") or []:
-            link = result.get("link")
-            if not link:
-                continue
+        if slug not in paged:
+            paged.append(slug)
+        feed_tbs[slug] = this_tbs
+        for page, result in results:
+            link = result["link"]
             k = norm(link)
             if k in seen:
                 continue
+            baseline = first_search or rebaseline_all or (rebaseline_deep and page > 1)
             seen[k] = {
                 "first_seen": build.iso(now),
                 "title": build.clean(result.get("title")),
                 "link": link,
                 "summary": build.clean(result.get("snippet"))[:1000],
                 "date_hint": result.get("date") or "",
-                "baseline": first_search,
+                "baseline": baseline,
+                "page": page,
             }
-            if not first_search:
+            if not baseline:
                 new_total += 1
         for k in [k for k, v in seen.items() if build.parse_iso(v["first_seen"]) < cutoff]:
             del seen[k]
@@ -129,6 +148,8 @@ def main():
     meta["last_error"] = fatal or ("; ".join(failures[:3]) if failures else "")
     for slug in [s for s in feeds if s not in config["feeds"]]:
         del feeds[slug]
+    meta["paged"] = sorted(s for s in paged if s in feeds)
+    meta["feed_tbs"] = {s: t for s, t in sorted(feed_tbs.items()) if s in feeds}
     with open(STATE_PATH, "w") as fh:
         json.dump(state, fh, indent=1, sort_keys=True)
         fh.write("\n")

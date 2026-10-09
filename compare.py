@@ -164,14 +164,18 @@ def write_compare(config, google_state, serper_state, root, parse_iso, fmt_when,
             '<section class="portal"><div class="portal-head"><div>'
             '<div class="eyebrow">Since Serper started &middot; %s</div><h2>Per alert</h2>'
             '<p class="note">Alerts are checked every 20 minutes and Serper every %d, so "earlier" is only that precise. '
-            "Serper searches the past week for each query; its first search is a baseline and isn't counted.%s "
+            "Serper searches the past %s for each query%s; its first search is a baseline and isn't counted.%s "
             "Serper has run %d times and used %d credits%s.</p>"
             "</div></div>"
             '<div class="table-wrap"><table class="cmp"><thead><tr><th class="c-comp">Competitor</th><th class="c-q">Query</th>'
             '<th class="n">Alerts</th><th class="n">Serper</th><th class="n">Both</th><th class="n">Only Alerts</th>'
             '<th class="n">Only Serper</th><th class="n" title="Pages the alert found before Serper started that were in Serper\'s first search">Before</th>'
             "</tr></thead><tbody>%s</tbody></table></div></section>"
-        ) % (esc(fmt_when(result["t0"])), (config.get("serper") or {}).get("every_minutes", 60), esc(retro_note),
+        ) % (esc(fmt_when(result["t0"])), (config.get("serper") or {}).get("every_minutes", 60),
+             "day" if (config.get("serper") or {}).get("tbs") == "qdr:d" else "week",
+             esc(" (past day for %s)" % ", ".join(sorted(f["competitor"] for f in config["feeds"].values() if f.get("serper_tbs") == "qdr:d")))
+             if any(f.get("serper_tbs") == "qdr:d" for f in config["feeds"].values()) else "",
+             esc(retro_note),
              meta.get("runs", 0), meta.get("credits_used", 0),
              (". Last error: " + esc(meta["last_error"])) if meta.get("last_error") else "", "".join(rows))
 
