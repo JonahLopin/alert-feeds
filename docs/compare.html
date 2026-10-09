@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Alerts vs Serper</title>
+<style>
+:root {
+  color-scheme: light;
+  --ff-base: Calibre, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+  --ff-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  --white: #FFFFFF; --onyx25: #F6F7F7; --onyx50: #ECEEEF; --onyx100: #E3E6E8; --onyx300: #A2ACB1;
+  --onyx500: #606E75; --onyx700: #363D41; --onyx800: #1F2325; --onyx900: #101213;
+  --blue25: #E6EFFA; --blue35: #CDE0F6; --blue400: #0363D1; --blue500: #024FA7;
+  --blurple25: #F5F6FE; --blurple100: #B9C2F6; --blurple600: #1731BB;
+  --purple1: #f9f0ff; --purple3: #d3adf7; --purple6: #722ed1;
+  --gold500: #C6900A;
+  --shadow-card: 0 1px 2px rgba(0, 10, 21, 0.04);
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--onyx25); color: var(--onyx700); }
+body { font: 400 16px/24px var(--ff-base); -webkit-font-smoothing: antialiased; }
+a { color: var(--blue400); text-decoration: none; }
+a:hover { color: var(--blue500); text-decoration: underline; }
+.container { max-width: 1240px; margin: 0 auto; padding: 0 24px; }
+.top { background: var(--white); border-bottom: 1px solid var(--onyx100); padding: 40px 0 32px; }
+.eyebrow { font-size: 12px; line-height: 18px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; color: var(--onyx500); }
+h1 { margin: 4px 0 8px; font-size: 26px; line-height: 40px; font-weight: 600; color: var(--onyx900); }
+.lede { margin: 0; max-width: 760px; font-size: 16px; line-height: 24px; color: var(--onyx500); }
+.stats { display: flex; flex-wrap: wrap; gap: 32px; margin-top: 24px; }
+.stat b { display: block; font-size: 28px; line-height: 42px; font-weight: 700; color: var(--blue500); font-variant-numeric: tabular-nums; }
+.stat span { font-size: 14px; line-height: 22px; color: var(--onyx500); }
+main { padding: 32px 0 40px; }
+.portal { background: var(--white); border: 1px solid var(--onyx100); border-radius: 8px; box-shadow: var(--shadow-card); margin-bottom: 24px; }
+.portal-head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 16px; padding: 24px; }
+.portal h2 { margin: 4px 0 4px; font-size: 22px; line-height: 32px; font-weight: 600; color: var(--onyx900); }
+.portal h2 a { color: inherit; }
+.links { font-size: 14px; line-height: 22px; color: var(--onyx300); }
+.links a { font-weight: 500; }
+.portal-stats { display: flex; gap: 24px; font-size: 14px; line-height: 22px; color: var(--onyx500); }
+.portal-stats b { color: var(--onyx800); font-weight: 600; font-variant-numeric: tabular-nums; }
+details { border-top: 1px solid var(--onyx100); }
+summary { list-style: none; cursor: pointer; padding: 16px 24px; display: flex; align-items: center; gap: 12px; }
+summary::-webkit-details-marker { display: none; }
+summary:focus-visible { outline: none; box-shadow: inset 0 0 0 3px var(--blue35); }
+.chip { display: inline-flex; align-items: center; gap: 8px; padding: 4px 12px; border-radius: 999px; background: var(--blue25); border: 1px solid var(--blue35); color: var(--blue500); font-size: 14px; line-height: 22px; font-weight: 500; }
+.chip::before { content: ""; width: 6px; height: 6px; border-radius: 999px; background: var(--blue400); }
+.toggle { font-size: 14px; line-height: 22px; color: var(--onyx500); }
+.toggle::after { content: "Show feeds \25BE"; }
+details[open] .toggle::after { content: "Hide feeds \25B4"; }
+.table-wrap { overflow-x: auto; border-top: 1px solid var(--onyx100); }
+table { width: 100%; min-width: 1040px; border-collapse: collapse; table-layout: fixed; }
+th { background: var(--onyx25); text-align: left; padding: 8px 16px; font-size: 12px; line-height: 18px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; color: var(--onyx500); border-bottom: 1px solid var(--onyx100); }
+td { padding: 12px 16px; border-bottom: 1px solid var(--onyx100); vertical-align: top; font-size: 14px; line-height: 22px; }
+tr:last-child td { border-bottom: 0; }
+tbody tr:hover td { background: var(--onyx25); }
+.name { font-size: 16px; line-height: 24px; font-weight: 600; color: var(--onyx800); }
+.sub { color: var(--onyx500); }
+.sep { color: var(--onyx300); padding: 0 8px; }
+code { font-family: var(--ff-mono); font-size: 13px; line-height: 20px; color: var(--onyx800); overflow-wrap: anywhere; }
+td.num { text-align: right; white-space: nowrap; }
+td.feeds { white-space: nowrap; }
+th.c-comp { width: 18%; } th.c-alert { width: 34%; } th.c-feeds { width: 14%; } th.c-num { width: 12%; text-align: right; } th.c-wired { width: 22%; }
+.count { font-size: 18px; line-height: 28px; font-weight: 600; color: var(--onyx900); font-variant-numeric: tabular-nums; }
+.waiting { color: var(--gold500); font-weight: 500; }
+.tag { display: inline-flex; align-items: center; gap: 4px; padding: 2px 10px; border-radius: 999px; font-size: 12px; line-height: 18px; font-weight: 500; white-space: nowrap; }
+.tag .type { opacity: 0.75; }
+.t-product { background: var(--blue25); border: 1px solid var(--blue35); color: var(--blue500); }
+.t-content { background: var(--blurple25); border: 1px solid var(--blurple100); color: var(--blurple600); }
+.t-news { background: var(--purple1); border: 1px solid var(--purple3); color: var(--purple6); }
+.t-other { background: var(--onyx25); border: 1px solid var(--onyx100); color: var(--onyx700); }
+footer { padding: 0 0 40px; font-size: 14px; line-height: 22px; color: var(--onyx500); }
+@media (min-width: 769px) { .container { padding: 0 40px; } }
+
+.cmp td.n, .cmp th.n { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.cmp th.c-comp { width: 22%; } .cmp th.c-q { width: 30%; } .cmp th.n { width: 8%; }
+.zero { color: var(--onyx300); }
+.only-a { color: var(--purple6); font-weight: 600; }
+.only-s { color: var(--blue500); font-weight: 600; }
+.urls { padding: 4px 24px 16px; }
+.urls h4 { margin: 12px 0 4px; font-size: 12px; line-height: 18px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; color: var(--onyx500); }
+.urls ul { margin: 0; padding-left: 18px; }
+.urls li { font-size: 14px; line-height: 22px; margin: 2px 0; overflow-wrap: anywhere; }
+.urls .when { color: var(--onyx500); }
+.note { font-size: 14px; line-height: 22px; color: var(--onyx500); margin: 0 0 16px; }
+tr.detail td { padding: 0; background: var(--onyx25); }
+</style>
+</head>
+<body>
+<header class="top"><div class="container"><div class="eyebrow"><a href="./">Alert feeds</a> &middot; Comparison</div><h1>Google Alerts vs Serper</h1><p class="lede">The same site: queries, two ways: as Google Alerts, and as Serper searches checked for new URLs. Pages are matched by URL.</p></div></header>
+<main class="container"><section class="portal"><div class="portal-head"><div><h2>Serper hasn't run yet</h2><p class="note">The comparison starts with Serper's first search.</p></div></div></section></main>
+<footer class="container">Built by <a href="https://github.com/JonahLopin/alert-feeds">github.com/JonahLopin/alert-feeds</a>.</footer>
+</body>
+</html>
