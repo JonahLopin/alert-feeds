@@ -1,10 +1,10 @@
 {
  "_meta": {
-  "credits_used": 45,
+  "credits_used": 90,
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-09T14:37:09Z",
-  "runs": 1
+  "last_run": "2026-10-09T15:30:23Z",
+  "runs": 2
  },
  "feeds": {
   "adp-help": {},
@@ -210,7 +210,16 @@
     "title": "Restaurant Marketing Tips for Acquiring New Diners"
    }
   },
-  "csc-blog": {},
+  "csc-blog": {
+   "blog.cscglobal.com/page/3": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:30:23Z",
+    "link": "https://blog.cscglobal.com/page/3/",
+    "summary": "County Recording Offices. What to Know, What to Watch, and How to Lead. Webinars Insight reports Press State Holiday Closings International Holiday Closings ...",
+    "title": "CSC Blog"
+   }
+  },
   "doordash-blog": {
    "merchants.doordash.com/en-us/blog/restaurant-customer-feedback": {
     "baseline": true,
@@ -327,6 +336,14 @@
     "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/tax-notifications/receive-tax-notice/L4nRS6kHu_US_en_US",
     "summary": "Learn what to do if you receive an IRS or state tax notice of discrepancy. If you have Intuit QuickBooks Workforce or QuickBooks Desktop Payroll Assisted ...",
     "title": "Send in your payroll tax notice - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/update-products/error-15222/L5eWIDaBC_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:30:23Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/update-products/error-15222/L5eWIDaBC_US_en_US",
+    "summary": "Running into trouble? Here's how to fix error message 15XXX when downloading payroll updates in QuickBooks Workforce. Get unstuck in minutes.",
+    "title": "Fix error message 15XXX when downloading payroll updates ..."
    }
   },
   "kintsugi-blog": {
@@ -380,6 +397,14 @@
     "date_hint": "3 days ago",
     "first_seen": "2026-10-09T14:37:09Z",
     "link": "https://www.ncrvoyix.com/newsroom/truage-age-verification-solution-integrated-across-ncr-voyix-point-of-sale-portfolio-for-convenience-and-fuel-retailers?srsltid=AU7gw4UnAhVIElkIG_BvHLfjB8JFI-4HspCoiQEv1KURYCea8lsnRJcT",
+    "summary": "Integration delivers instantaneous age assurance at checkout to reduce customer friction and support responsible sales practices.",
+    "title": "TruAge\u00ae Age-Verification Solution integrated across NCR ..."
+   },
+   "ncrvoyix.com/newsroom/truage-age-verification-solution-integrated-across-ncr-voyix-point-of-sale-portfolio-for-convenience-and-fuel-retailers?srsltid=AU7gw4W6r7uZUJ5ad0ynvpYT6L5uEbp-I01ujNvrdmwmyvtksytiGwkH": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-09T15:30:23Z",
+    "link": "https://www.ncrvoyix.com/newsroom/truage-age-verification-solution-integrated-across-ncr-voyix-point-of-sale-portfolio-for-convenience-and-fuel-retailers?srsltid=AU7gw4W6r7uZUJ5ad0ynvpYT6L5uEbp-I01ujNvrdmwmyvtksytiGwkH",
     "summary": "Integration delivers instantaneous age assurance at checkout to reduce customer friction and support responsible sales practices.",
     "title": "TruAge\u00ae Age-Verification Solution integrated across NCR ..."
    }
@@ -501,6 +526,22 @@
     "link": "https://shift4.zendesk.com/hc/en-us/articles/55755994133523-Process-AppLab-Loyalty-Transactions-in-Shift4-Dine",
     "summary": "Learn how to look up AppLab Loyalty members, add members to orders, enroll new members, apply rewards, and process refunds and voids in Shift4 Dine.",
     "title": "Process AppLab Loyalty Transactions in Shift4 Dine"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/55778122896403-Process-Como-Loyalty-Transactions-in-Shift4-Dine": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-09T15:30:23Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/55778122896403-Process-Como-Loyalty-Transactions-in-Shift4-Dine",
+    "summary": "Description: Learn how to look up Como Loyalty members, add members to orders, enroll new members, apply rewards, and process refunds and voids in Shift4 ...",
+    "title": "Process Como Loyalty Transactions in Shift4 Dine"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/56160976837907": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-09T15:30:23Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/56160976837907",
+    "summary": "Description: Learn how to connect your AppLab loyalty program to Shift4 Dine, manage AppLab integration settings, and configure loyalty...",
+    "title": "Set Up AppLab Loyalty in Shift4 Dine"
    },
    "shift4.zendesk.com/hc/en-us/articles/56161609085971": {
     "baseline": true,
@@ -752,6 +793,14 @@
     "summary": "Finance transformation often begins with technology modernization but quickly expands to encompass data, processes, and governance.",
     "title": "What finance leaders can learn from Agrial's ..."
    },
+   "wolterskluwer.com/en/news/facial-thread-lifting-complications-causes-and-prevention": {
+    "baseline": false,
+    "date_hint": "16 hours ago",
+    "first_seen": "2026-10-09T15:30:23Z",
+    "link": "https://www.wolterskluwer.com/en/news/facial-thread-lifting-complications-causes-and-prevention",
+    "summary": "Facial thread lifting is a minimally invasive technique for facial rejuvenation. placed to tighten sagging skin in the face and neck.",
+    "title": "Facial thread lifting: Complications, causes and prevention"
+   },
    "wolterskluwer.com/en/news/ftwilliamcom-new-form-update": {
     "baseline": true,
     "date_hint": "2 days ago",
@@ -815,6 +864,14 @@
     "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-expands-professional-services-for-teammate-expert-solutions-with-protiviti-in-europe",
     "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting;",
     "title": "Wolters Kluwer expands professional services for ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-launches-ai-enhanced-uptodate-enterprise-edition-in-apac": {
+    "baseline": false,
+    "date_hint": "13 hours ago",
+    "first_seen": "2026-10-09T15:30:23Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-launches-ai-enhanced-uptodate-enterprise-edition-in-apac",
+    "summary": "Revolutionizing Clinical Decision Support for healthcare systems with AI for search, usage analytics, and more.",
+    "title": "Wolters Kluwer launches AI-enhanced UpToDate ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-unveils-industry-first-enhancements-to-cch-ifirm-in-australia-and-new-zealand": {
     "baseline": true,
