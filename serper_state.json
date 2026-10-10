@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 752,
+  "credits_used": 801,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-10T06:17:41Z",
+  "last_run": "2026-10-10T07:14:19Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 16
+  "runs": 17
  },
  "feeds": {
   "adp-help": {},
@@ -2006,6 +2006,15 @@
     "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-launches-ai-enhanced-uptodate-enterprise-edition-in-apac",
     "summary": "Revolutionizing Clinical Decision Support for healthcare systems with AI for search, usage analytics, and more.",
     "title": "Wolters Kluwer launches AI-enhanced UpToDate ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-launches-digital-health-tech-solutions": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-10T07:14:19Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-launches-digital-health-tech-solutions",
+    "page": 1,
+    "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting;",
+    "title": "Wolters Kluwer launches digital health tech solutions for ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-legal-regulatory-u-s-names-ken-crutchfield-as-vice-president-general-manager-of-legal-markets": {
     "baseline": false,
