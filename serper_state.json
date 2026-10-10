@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 945,
+  "credits_used": 995,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-10T10:09:34Z",
+  "last_run": "2026-10-10T11:09:25Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 20
+  "runs": 21
  },
  "feeds": {
   "adp-help": {},
@@ -1800,6 +1800,15 @@
     "link": "https://docs.stripe.com/js/custom_checkout/checkout_form_methods?ref=spectralwebservices.com",
     "summary": "The layout of the embedded form. The 'expanded' layout is a single-step embedded form, while the 'compact' layout is a multi-step embedded form.",
     "title": "Embedded form methods"
+   },
+   "docs.stripe.com/js/react_stripe_js/elements/other/payment_request_button_element?__=&__hsfp=PANTHEON_STRIPPED%3Fhsa_cam%3D15351779962&__hssc=PANTHEON_STRIPPED&__hstc=PANTHEON_STRIPPED": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-10-10T11:09:25Z",
+    "link": "https://docs.stripe.com/js/react_stripe_js/elements/other/payment_request_button_element?__=&__hsfp=PANTHEON_STRIPPED%3Fhsa_cam%3D15351779962&__hssc=PANTHEON_STRIPPED&__hstc=PANTHEON_STRIPPED",
+    "page": 1,
+    "summary": "Sets the DOM id attribute on the rendered Element container. Use this to target the Element for styling or testing. className string.",
+    "title": "PaymentRequestButtonElement"
    },
    "docs.stripe.com/payments/migrations?locale=ja-JP": {
     "baseline": true,
