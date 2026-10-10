@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 654,
+  "credits_used": 703,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-10T04:13:18Z",
+  "last_run": "2026-10-10T05:10:32Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 14
+  "runs": 15
  },
  "feeds": {
   "adp-help": {},
@@ -1636,6 +1636,15 @@
     "summary": "Kent Yoshimura and Ryan Chen started Neuro in a dorm room, mixing nootropic powders into chewing gum and betting that a product nobody had tried before was ...",
     "title": "How Two Founders Turned a Dorm Room Experiment Into ..."
    },
+   "shopify.com/blog/online-payment-methods": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-10T05:10:32Z",
+    "link": "https://www.shopify.com/blog/online-payment-methods",
+    "page": 1,
+    "summary": "Online payment methods are the ways customers pay for an order on your website. These include credit or debit cards, digital wallets, buy now, ...",
+    "title": "Online Payment Methods: What To Accept (2026)"
+   },
    "shopify.com/blog/plan-a-bfcm-campaign-that-runs-itself-with-rollouts": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -1772,6 +1781,15 @@
     "link": "https://docs.stripe.com/payments/migrations?locale=ja-JP",
     "summary": "\u30ec\u30ac\u30b7\u30fc\u306e\u5b9f\u88c5\u304b\u3089\u63a8\u5968\u3055\u308c\u308b\u65b0\u3057\u3044\u5b9f\u88c5\u30d1\u30b9\u306b\u79fb\u884c\u3059\u308b\u3053\u3068\u3067\u3001\u30b3\u30f3\u30d0\u30fc\u30b8\u30e7\u30f3\u7387\u3092\u5411\u4e0a\u3055\u305b\u3001\u65b0\u6a5f\u80fd\u3092\u5229\u7528\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u3002",
     "title": "\u30ec\u30ac\u30b7\u30fc\u306e\u5b9f\u88c5\u3092\u79fb\u884c\u3059\u308b | Stripe \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8"
+   },
+   "docs.stripe.com/service-principals": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-10T05:10:32Z",
+    "link": "https://docs.stripe.com/service-principals",
+    "page": 1,
+    "summary": "A service principal is a non-human identity that represents an application, service or AI agent accessing Stripe. Service principals, much like human team ...",
+    "title": "Service principals"
    },
    "docs.stripe.com/tax/file-with-stripe-outside-us": {
     "baseline": true,
