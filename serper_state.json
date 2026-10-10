@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 605,
+  "credits_used": 654,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-10T02:55:55Z",
+  "last_run": "2026-10-10T04:13:18Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 13
+  "runs": 14
  },
  "feeds": {
   "adp-help": {},
@@ -1329,6 +1329,24 @@
     "summary": "Avalara's published pricing is $79 per state per month or $799 per state per year, with a 3-state minimum and extra fees. What it costs as you add states.",
     "title": "Avalara Pricing in 2026: Plans, Per-State Costs and Limits"
    },
+   "trykintsugi.com/blog/colorado-saas-sales-tax": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-10T04:13:18Z",
+    "link": "https://trykintsugi.com/blog/colorado-saas-sales-tax",
+    "page": 1,
+    "summary": "Colorado narrows its software exemption on January 1, 2027, which pulls most SaaS into sales tax. What changes, what stays exempt, and what to do first.",
+    "title": "Colorado SaaS Sales Tax Starts Jan 1, 2027"
+   },
+   "trykintsugi.com/blog/how-to-verify-a-tax-id-number": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-10T04:13:18Z",
+    "link": "https://trykintsugi.com/blog/how-to-verify-a-tax-id-number",
+    "page": 2,
+    "summary": "You can't look up another business's EIN, but you can verify a sales tax permit, a resale certificate and a VAT number. Each method and its limits.",
+    "title": "How to Verify a Tax ID Number: EIN, Permit, VAT"
+   },
    "trykintsugi.com/blog/kintsugi-sales-tax-monthly-october": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -1336,6 +1354,15 @@
     "link": "https://trykintsugi.com/blog/kintsugi-sales-tax-monthly-october",
     "summary": "Automated sales tax compliance that scales with you, new Zuora and FreshBooks integrations, SmartLabels' holiday rush, and answers from our tax experts.",
     "title": "Kintsugi Sales Tax Monthly: October 2026"
+   },
+   "trykintsugi.com/blog/resale-certificate-expiration-by-state": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-10T04:13:18Z",
+    "link": "https://trykintsugi.com/blog/resale-certificate-expiration-by-state",
+    "page": 1,
+    "summary": "Ten states put an expiration date on resale certificates. Most others let them run until revoked, with a 12-month gap rule. State-by-state guide.",
+    "title": "Resale Certificate Expiration by State (2026)"
    },
    "trykintsugi.com/blog/sales-tax-changes-january-1-2027": {
     "baseline": false,
@@ -1345,6 +1372,15 @@
     "page": 1,
     "summary": "Two states start taxing software as a service (SaaS) on January 1, 2027: California and Colorado. and Illinois starts a new tax on targeted advertising. . The ...",
     "title": "Sales Tax Changes Taking Effect January 1, 2027"
+   },
+   "trykintsugi.com/blog/what-is-ioss-import-one-stop-shop": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-10T04:13:18Z",
+    "link": "https://trykintsugi.com/blog/what-is-ioss-import-one-stop-shop",
+    "page": 2,
+    "summary": "The Import One-Stop Shop (IOSS) is an optional EU scheme that lets a seller charge VAT at checkout on low-value goods shipped to EU consumers from outside the ...",
+    "title": "What Is IOSS? EU Import One-Stop Shop Explained"
    },
    "trykintsugi.com/blog/what-is-streamlined-sales-tax": {
     "baseline": false,
