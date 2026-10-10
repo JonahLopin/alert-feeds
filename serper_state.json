@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 463,
+  "credits_used": 509,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-09T23:09:38Z",
+  "last_run": "2026-10-10T00:30:44Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 10
+  "runs": 11
  },
  "feeds": {
   "adp-help": {},
@@ -317,6 +317,15 @@
     "summary": "CNN moved to shut down an unusual defamation case over its reporting on the Iran war, saying Azerbaijan is trying to export its own censorship policies. CNN ...",
     "title": "CNN Blasts Azerbaijan's 'Dangerous' Lawsuit Over Iran ..."
    },
+   "news.bloomberglaw.com/business-and-practice/columbus-gun-control-injunction-upheld-by-ohio-appeals-court": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-10T00:30:44Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/columbus-gun-control-injunction-upheld-by-ohio-appeals-court",
+    "page": 2,
+    "summary": "Ohio's capital city can't enforce some of its gun restrictions while a challenge to them is pending, a state appeals court ruled Friday.",
+    "title": "Columbus Gun Control Injunction Upheld By Ohio Appeals ..."
+   },
    "news.bloomberglaw.com/business-and-practice/core-scientific-patent-owner-resolve-cryptography-tech-dispute": {
     "baseline": true,
     "date_hint": "22 hours ago",
@@ -359,6 +368,15 @@
     "page": 2,
     "summary": "Walt Disney Co. has held talks with other studios about using its new brand for large-screen movie formats, often described as a competitor to Imax Corp.",
     "title": "Disney Pitches Paramount, Universal on Imax Big-Screen ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/doj-scrutinizing-binance-compliance-with-2023-settlement-accord": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-10T00:30:44Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-scrutinizing-binance-compliance-with-2023-settlement-accord",
+    "page": 1,
+    "summary": "The US Justice Department is scrutinizing whether Binance Holdings Ltd. breached a landmark settlement with the US government, as authorities probe activity ...",
+    "title": "DOJ Scrutinizing Binance Compliance With 2023 ..."
    },
    "news.bloomberglaw.com/business-and-practice/doj-seeking-criminal-indictment-of-former-white-house-aide": {
     "baseline": false,
@@ -1103,6 +1121,15 @@
     "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll-processes/create-paycheck-employee/L5JFzGwNu_US_en_US",
     "summary": "You can create and run payroll for your employees in Intuit QuickBooks Workforce. This process involves entering employee hours, reviewing pay details, ...",
     "title": "Run payroll in QuickBooks Online Payroll - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/payroll-processes/use-auto-payroll-pay-employees/L0ddM31Hs_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-10T00:30:44Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll-processes/use-auto-payroll-pay-employees/L0ddM31Hs_US_en_US",
+    "page": 4,
+    "summary": "Intuit QuickBooks Workforce saves you time by automatically making paychecks for your salaried and hourly team members who work a set number of hours.",
+    "title": "Set up and manage your Auto Payroll - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/payroll-setup/add-ein-existing-payroll-subscription/L0ZHJ1AUU_US_en_US": {
     "baseline": true,
