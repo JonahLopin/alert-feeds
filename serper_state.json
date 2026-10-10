@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 703,
+  "credits_used": 752,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-10T05:10:32Z",
+  "last_run": "2026-10-10T06:17:41Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 15
+  "runs": 16
  },
  "feeds": {
   "adp-help": {},
@@ -153,6 +153,15 @@
     "date_hint": "4 days ago",
     "first_seen": "2026-10-09T14:37:09Z",
     "link": "https://mediacenter.adp.com/video-insights?o=27",
+    "summary": "For media inquiries, connect with our media relations team for press materials, interviews and expert commentary or reach out directly to a member of our team.",
+    "title": "Video Insights"
+   },
+   "mediacenter.adp.com/video-insights?o=45": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-10T06:17:41Z",
+    "link": "https://mediacenter.adp.com/video-insights?o=45",
+    "page": 1,
     "summary": "For media inquiries, connect with our media relations team for press materials, interviews and expert commentary or reach out directly to a member of our team.",
     "title": "Video Insights"
    },
@@ -712,6 +721,15 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/sullivan-cromwell-nabs-ashurst-mcguirewoods-appellate-chairs",
     "summary": "Sullivan & Cromwell is bringing on a pair of litigators to lead its Supreme Court and appellate practice. The firm is one of the most profitable in the nation ...",
     "title": "Sullivan & Cromwell Nabs Ashurst, McGuireWoods ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/taiwans-lai-urges-democracies-to-unite-after-trump-xi-summit": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-10T06:17:41Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/taiwans-lai-urges-democracies-to-unite-after-trump-xi-summit",
+    "page": 2,
+    "summary": "Taiwan President Lai Ching-te called on democracies in the region to unite against threats to stability, as the island faces pressure from Beijing and ...",
+    "title": "Taiwan's Lai Urges Democracies to Unite After Trump-Xi ..."
    },
    "news.bloomberglaw.com/business-and-practice/trump-says-putin-to-supply-us-with-diesel-ahead-of-midterms-3": {
     "baseline": false,
