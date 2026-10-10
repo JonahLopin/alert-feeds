@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 1093,
+  "credits_used": 1143,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-10T13:29:31Z",
+  "last_run": "2026-10-10T14:30:28Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 23
+  "runs": 24
  },
  "feeds": {
   "adp-help": {},
@@ -841,6 +841,15 @@
     "link": "https://merchants.doordash.com/en-us/blog/restaurant-customer-feedback",
     "summary": "8 Ways to collect restaurant customer feedback \u00b7 1. Claim and optimize your business listings \u00b7 2. Encourage online reviews \u2014 then respond to every one \u00b7 3.",
     "title": "Restaurant Customer Feedback: 8 Ways to Collect It"
+   },
+   "merchants.doordash.com/en-us/blog/the-key-to-getting-more-restaurant-reviews": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-10T14:30:28Z",
+    "link": "https://merchants.doordash.com/en-us/blog/the-key-to-getting-more-restaurant-reviews",
+    "page": 1,
+    "summary": "Learn how to get more Google reviews for your restaurant with proven tactics that improve local rankings, build trust, and bring in more orders.",
+    "title": "How to Get More Restaurant Reviews From Clients"
    }
   },
   "doordash-press": {
@@ -1018,6 +1027,15 @@
     "page": 5,
     "summary": "With Intuit QuickBooks Workforce, QuickBooks handles your payroll taxes and filings for you. Prerequisites. Before QuickBooks can e-pay or e-file your payroll ...",
     "title": "Pay and file payroll taxes and forms electronically in ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/employee-management/get-answers-common-questions-quickbooks-workforce/L4eJ2QD8K_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-10T14:30:28Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/employee-management/get-answers-common-questions-quickbooks-workforce/L4eJ2QD8K_US_en_US",
+    "page": 5,
+    "summary": "Get answers to common questions in QuickBooks Workforce \u2014 the right way, the first time. Do it in just a few clicks.",
+    "title": "Get answers to common questions about \u200bWorkforce\u200b"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/employee-management/resend-cancel-invitation-quickbooks-workforce/L21nJb68Z_US_en_US": {
     "baseline": true,
@@ -1934,6 +1952,15 @@
     "summary": "Wolters Kluwer has introduced powerful new functionality that allows businesses to electronically file Form 5330 with the Internal Revenue Service (IRS) ...",
     "title": "Wolters Kluwer's ftwilliam.com launches new Form 5330 e- ..."
    },
+   "wolterskluwer.com/en/news/innovative-surgical-technique-creates-a-nose-for-patients-with-extremely-rare-genetic-syndrome": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-10T14:30:28Z",
+    "link": "https://www.wolterskluwer.com/en/news/innovative-surgical-technique-creates-a-nose-for-patients-with-extremely-rare-genetic-syndrome",
+    "page": 2,
+    "summary": "Congenital arhinia is caused by mutations of a gene called SMCHD1. In the two new patients, modern genetic testing techniques identified a previously unknown ...",
+    "title": "Innovative surgical technique creates a nose for patients ..."
+   },
    "wolterskluwer.com/en/news/is-hip-replacement-safe-for-people-in-their-90s-risks-depend-on-patients-health-as-well-as-age": {
     "baseline": true,
     "date_hint": "23 hours ago",
@@ -2026,6 +2053,15 @@
     "page": 1,
     "summary": "The use and adoption of virtual simulation in nursing education has come a long way in the past ten years. Not only has this technology become a mainstay in ...",
     "title": "Wolters Kluwer celebrates a decade of bringing virtual ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-completes-acquisition-of-enablon": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-10T14:30:28Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-completes-acquisition-of-enablon",
+    "page": 1,
+    "summary": "Enablon is a leading global provider of environmental, health, safety and sustainability and operational risk management software and SaaS solutions,",
+    "title": "Wolters Kluwer Completes Acquisition of Enablon"
    },
    "wolterskluwer.com/en/news/wolters-kluwer-expands-professional-services-for-teammate-expert-solutions-with-protiviti-in-europe": {
     "baseline": true,
