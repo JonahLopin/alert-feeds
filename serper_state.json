@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 1477,
+  "credits_used": 1524,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-10T21:46:10Z",
+  "last_run": "2026-10-10T22:46:06Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 31
+  "runs": 32
  },
  "feeds": {
   "adp-help": {},
@@ -2106,6 +2106,15 @@
     "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-expands-professional-services-for-teammate-expert-solutions-with-protiviti-in-europe",
     "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting;",
     "title": "Wolters Kluwer expands professional services for ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-future-ready-healthcare-survey-report": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-10T22:46:06Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-future-ready-healthcare-survey-report",
+    "page": 1,
+    "summary": "Healthcare professionals see generative AI (GenAI) as key to solving sustainability problems, including the workforce crisis. But many organizations remain ...",
+    "title": "Wolters Kluwer Future Ready Healthcare Survey Report"
    },
    "wolterskluwer.com/en/news/wolters-kluwer-launches-ai-enhanced-uptodate-enterprise-edition-in-apac": {
     "baseline": false,
