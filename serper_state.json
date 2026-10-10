@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 509,
+  "credits_used": 557,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-10T00:30:44Z",
+  "last_run": "2026-10-10T01:50:01Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 11
+  "runs": 12
  },
  "feeds": {
   "adp-help": {},
@@ -308,6 +308,15 @@
     "summary": "A federal appeals court declined to resurrect a Black FedEx employee's claims she was denied a promotion because she complained about harassment.",
     "title": "Black FedEx Worker Loses Appeal to Revive Retaliation ..."
    },
+   "news.bloomberglaw.com/business-and-practice/california-data-brokers-report-over-60-million-profile-deletions": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-10T01:50:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/california-data-brokers-report-over-60-million-profile-deletions",
+    "page": 2,
+    "summary": "Data brokers operating in California report having deleted more than 60 million consumer profiles via the state's newly launched data deletion platform, ...",
+    "title": "California Data Brokers Report Over 60 Million Profile ..."
+   },
    "news.bloomberglaw.com/business-and-practice/cnn-blasts-azerbaijans-dangerous-lawsuit-over-iran-reporting": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -421,6 +430,15 @@
     "page": 3,
     "summary": "The nine-page memo offered voluntary recommendations to reduce risk from two per- and polyfluoroalkyl substances (PFAS) found in biosolids, which are semisolid, ...",
     "title": "EPA Redo of Biden-era PFAS Biosolids Analysis Spurs ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/ex-michigan-judge-who-showed-up-drunk-to-work-agrees-to-sanction": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-10T01:50:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ex-michigan-judge-who-showed-up-drunk-to-work-agrees-to-sanction",
+    "page": 4,
+    "summary": "Ex-Fourth Circuit Judge Thomas D. Wilson was required to retire on Feb. 28 and not seek another job as a judge either by election or appointment, according to ...",
+    "title": "Ex-Michigan Judge Who Showed Up Drunk to Work ..."
    },
    "news.bloomberglaw.com/business-and-practice/federal-watchdog-will-investigate-cftc-job-cuts-and-enforcement": {
     "baseline": true,
@@ -616,6 +634,24 @@
     "summary": "Netflix Inc. is making plans to cut about 5% of its staff as early as next week, the newsletter Puck reported.",
     "title": "Netflix Is Planning to Cut About 5% of Employees, Puck ..."
    },
+   "news.bloomberglaw.com/business-and-practice/new-york-ag-biased-in-cornell-rape-case-gop-challenger-says": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-10-10T01:50:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/new-york-ag-biased-in-cornell-rape-case-gop-challenger-says",
+    "page": 4,
+    "summary": "New York Attorney General Letitia James' probe of an alleged rape at Cornell University came under fire during a debate with her Republican opponent, ...",
+    "title": "New York AG Biased in Cornell Rape Case, GOP ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/nvidia-backed-lumentum-sold-out-of-ai-server-parts-till-2029-1": {
+    "baseline": false,
+    "date_hint": "24 hours ago",
+    "first_seen": "2026-10-10T01:50:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/nvidia-backed-lumentum-sold-out-of-ai-server-parts-till-2029-1",
+    "page": 4,
+    "summary": "Lumentum Holdings Inc.'s optical components are \u201ccompletely sold out\u201d through early 2029 on demand from tech companies clamoring for faster AI data centers, ...",
+    "title": "Nvidia-Backed Lumentum Sold Out of AI Server Parts Till ..."
+   },
    "news.bloomberglaw.com/business-and-practice/pentagon-plans-for-public-execution-questioned-by-legal-experts": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -677,6 +713,15 @@
     "summary": "Sullivan & Cromwell is bringing on a pair of litigators to lead its Supreme Court and appellate practice. The firm is one of the most profitable in the nation ...",
     "title": "Sullivan & Cromwell Nabs Ashurst, McGuireWoods ..."
    },
+   "news.bloomberglaw.com/business-and-practice/trump-says-putin-to-supply-us-with-diesel-ahead-of-midterms-3": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-10T01:50:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-says-putin-to-supply-us-with-diesel-ahead-of-midterms-3",
+    "page": 4,
+    "summary": "President Donald Trump is working with Vladimir Putin to release Russian diesel supplies into global markets, a move that upends years of sanctions as the ...",
+    "title": "Trump Says Putin to Supply US With Diesel Ahead of ..."
+   },
    "news.bloomberglaw.com/business-and-practice/trump-to-direct-agencies-to-counter-states-blocking-energy-plans": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -695,6 +740,15 @@
     "summary": "The county of Arlington, Va., has sued the Trump administration over its proposed \u201cTriumphal Arch.\u201d The 250-foot arch that would be located on the District ...",
     "title": "Trump's Proposed 'Triumphal Arch' Draws Suit by Virginia ..."
    },
+   "news.bloomberglaw.com/business-and-practice/us-sanctions-icc-after-former-judge-gets-nobel-peace-prize-1": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-10-10T01:50:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-sanctions-icc-after-former-judge-gets-nobel-peace-prize-1",
+    "page": 4,
+    "summary": "The Trump administration imposed fresh sanctions against the International Criminal Court, signaling its determination to cripple the organization on the ...",
+    "title": "US Sanctions ICC After Former Judge Gets Nobel Peace ..."
+   },
    "news.bloomberglaw.com/business-and-practice/usa-today-news-outlets-join-openai-copyright-infringement-fight": {
     "baseline": true,
     "date_hint": "22 hours ago",
@@ -703,6 +757,15 @@
     "page": 2,
     "summary": "OpenAI illicitly accessed the copyrighted material to train consumer products like ChatGPT, and company internal communications from the tech company confirm ...",
     "title": "USA Today, News Outlets Join OpenAI Copyright ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-top-trade-official-reports-millions-after-big-law": {
+    "baseline": false,
+    "date_hint": "15 hours ago",
+    "first_seen": "2026-10-10T01:50:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-top-trade-official-reports-millions-after-big-law",
+    "page": 4,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
+    "title": "Wake Up Call: Top Trade Official Reports Millions After Big ..."
    },
    "news.bloomberglaw.com/business-and-practice/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews": {
     "baseline": true,
@@ -1316,6 +1379,24 @@
     "summary": "SAP\u306f\u3001\u300c2026 Fosway 9-Grid\u2122 for Cloud HR\u300d\u306b\u304a\u3044\u3066\u3001\u5f15\u304d\u7d9a\u304d\u300cStrategic Leader\uff08\u6226\u7565\u7684\u30ea\u30fc\u30c0\u30fc\uff09\u300d\u306b\u9078\u51fa\u3055\u308c\u307e\u3057\u305f\u3002\u3053\u308c\u306f\u3001\u4eba\u4e8b\u5909\u9769\u306b\u53d6\u308a\u7d44\u3080\u4f01\u696d\u306b\u3068\u3063\u3066\u3001SAP ...",
     "title": "SAP\u3001\u300c2026 Fosway 9-Grid\u2122 for Cloud HR\u300d\u3067 Strategic ..."
    },
+   "news.sap.com/japan/2026/10/1009_sap-strategic-leader-2026-fosway-9-grid-cloud-hr?amp=1": {
+    "baseline": false,
+    "date_hint": "15 hours ago",
+    "first_seen": "2026-10-10T01:50:01Z",
+    "link": "https://news.sap.com/japan/2026/10/1009_sap-strategic-leader-2026-fosway-9-grid-cloud-hr/?amp=1",
+    "page": 1,
+    "summary": "SAP\u306f\u3001\u300c2026 Fosway 9-Grid\u2122 for Cloud HR\u300d\u306b\u304a\u3044\u3066\u3001\u5f15\u304d\u7d9a\u304d\u300cStrategic Leader\uff08\u6226\u7565\u7684\u30ea\u30fc\u30c0\u30fc\uff09\u300d\u306b\u9078\u51fa\u3055\u308c\u307e\u3057\u305f\u3002\u3053\u308c\u306f\u3001\u4eba\u4e8b\u5909\u9769\u306b\u53d6\u308a\u7d44\u3080\u4f01\u696d\u306b\u3068\u3063\u3066\u3001SAP ...",
+    "title": "SAP\u3001\u300c2026 Fosway 9-Grid\u2122 for Cloud HR\u300d\u3067 Strategic ..."
+   },
+   "news.sap.com/korea/2026/10/sap-%EC%BB%A4%EB%84%A5%ED%8A%B8-2026%EC%97%90%EC%84%9C-%EC%9E%90%EC%9C%A8%ED%98%95-%EA%B8%B0%EC%97%85-%EA%B5%AC%ED%98%84-%EB%B0%A9%EC%95%88-%EC%84%A0%EB%B3%B4%EC%97%AC/sap-connect-2026-hero": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-10T01:50:01Z",
+    "link": "https://news.sap.com/korea/2026/10/sap-%EC%BB%A4%EB%84%A5%ED%8A%B8-2026%EC%97%90%EC%84%9C-%EC%9E%90%EC%9C%A8%ED%98%95-%EA%B8%B0%EC%97%85-%EA%B5%AC%ED%98%84-%EB%B0%A9%EC%95%88-%EC%84%A0%EB%B3%B4%EC%97%AC/sap-connect-2026-hero/",
+    "page": 1,
+    "summary": "SAP\uc758 \ubaa8\ub4e0 \uc601\uc5ed \uc0b4\ud3b4\ubcf4\uae30. \ud559\uc2b5 \ubc0f \uc9c0\uc6d0. \ud559\uc2b5 \ubc0f \uc778\uc99d \u00b7 \uc9c0\uc6d0 \u00b7 \ubb38\uc11c \u00b7 \ucee4\ubba4\ub2c8\ud2f0. \uc815\ubcf4. \ud68c\uc0ac \uc815\ubcf4 \u00b7 \ucee4\ub9ac\uc5b4 \u00b7 \uace0\uac1d \uc0ac\ub840 \u00b7 \uc724\ub9ac \ubc0f \uaddc\uc81c\uc900\uc218 \u00b7 \uc774\ubca4\ud2b8 ...",
+    "title": "SAP-Connect-2026-Hero - SAP Korea \ub274\uc2a4\uc13c\ud130"
+   },
    "news.sap.com/netherlands": {
     "baseline": true,
     "date_hint": "13 hours ago",
@@ -1399,6 +1480,15 @@
     "link": "https://shift4.zendesk.com/hc/en-us/articles/43106955069971-Create-and-Manage-Modifier-Sets-in-Multi-Location-Management",
     "summary": "Description: Learn how to create and customize modifier sets in Multi-Location Management to organize your menu across locations.",
     "title": "Create and Manage Modifier Sets in Multi-Location ..."
+   },
+   "shift4.zendesk.com/hc/en-us/articles/45474401606035-Signature-Shift4-Gift-Card-Service-Pricing": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-10T01:50:01Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/45474401606035-Signature-Shift4-Gift-Card-Service-Pricing",
+    "page": 1,
+    "summary": "The Signature Shift4 Gift Card Service pricing outlines all costs associated with managing your gift card program, including gift card pricing, onboarding fees, ...",
+    "title": "Signature Shift4 Gift Cards Service Pricing"
    },
    "shift4.zendesk.com/hc/en-us/articles/52606904129299-Process-Paytronix-Loyalty-Transactions-in-Shift4-Dine": {
     "baseline": true,
@@ -1826,6 +1916,15 @@
     "page": 2,
     "summary": "Wolters Kluwer Legal & Regulatory U.S. today announced the appointment of Ken Crutchfield as Vice President & General Manager of Legal Markets, effective ...",
     "title": "Wolters Kluwer Legal & Regulatory Names Ken Crutchfield ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-teammate-capabilities-enhance-internal-audit-efficiency-data-quality": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-10T01:50:01Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-teammate-capabilities-enhance-internal-audit-efficiency-data-quality",
+    "page": 1,
+    "summary": "Wolters Kluwer launches new TeamMate+ capabilities to enhance internal audit efficiency and data quality.",
+    "title": "New TeamMate+ capabilities enhancing internal audit ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-unveils-industry-first-enhancements-to-cch-ifirm-in-australia-and-new-zealand": {
     "baseline": true,
