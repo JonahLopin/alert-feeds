@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-09T11:10:19Z</updated>
+  <updated>2026-10-10T10:10:42Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:4197160707737336743</id>
+    <title>Embedded form methods - Stripe JS Reference</title>
+    <link href="https://docs.stripe.com/js/custom_checkout/checkout_form_methods?ref=spectralwebservices.com" />
+    <published>2026-10-10T10:10:42Z</published>
+    <updated>2026-10-10T10:10:42Z</updated>
+    <summary>This method creates an instance of an embedded form. Call initCheckoutFormSdk first to obtain the checkoutFormSdk object. Method parameters. options ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:3397542122403223042</id>
+    <title>Service principals | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/service-principals" />
+    <published>2026-10-10T10:10:42Z</published>
+    <updated>2026-10-10T10:10:42Z</updated>
+    <summary>A service principal is a non-human identity that represents an application, service or AI agent accessing Stripe. Service principals, much like ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:15183435629383904580</id>
+    <title>Workload Identity Federation | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/workload-identity-federation" />
+    <published>2026-10-10T10:10:42Z</published>
+    <updated>2026-10-10T10:10:42Z</updated>
+    <summary>Learn how Workload Identity Federation differs from bearer-token API key authentication, and how to set up a trusted workload identity provider ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8295351546662826994</id>
     <title>Events | Stripe Documentation</title>

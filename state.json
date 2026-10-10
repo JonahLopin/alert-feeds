@@ -338,11 +338,29 @@
    "summary": "Stripe payment handlers for UCP. UCP payment handlers define how payment instruments are acquired, exchanged, and processed between all participants ...",
    "title": "Universal Commerce Protocol - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:15183435629383904580": {
+   "first_seen": "2026-10-10T10:10:42Z",
+   "link": "https://docs.stripe.com/workload-identity-federation",
+   "summary": "Learn how Workload Identity Federation differs from bearer-token API key authentication, and how to set up a trusted workload identity provider ...",
+   "title": "Workload Identity Federation | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:3397542122403223042": {
+   "first_seen": "2026-10-10T10:10:42Z",
+   "link": "https://docs.stripe.com/service-principals",
+   "summary": "A service principal is a non-human identity that represents an application, service or AI agent accessing Stripe. Service principals, much like ...",
+   "title": "Service principals | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:3860128045443675112": {
    "first_seen": "2026-10-09T11:10:19Z",
    "link": "https://docs.stripe.com/events/set-up-events",
    "summary": "Follow a step-by-step guide to create a webhook endpoint, test it locally with the Stripe CLI, verify event signatures, and deploy to production.",
    "title": "Set up events - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:4197160707737336743": {
+   "first_seen": "2026-10-10T10:10:42Z",
+   "link": "https://docs.stripe.com/js/custom_checkout/checkout_form_methods?ref=spectralwebservices.com",
+   "summary": "This method creates an instance of an embedded form. Call initCheckoutFormSdk first to obtain the checkoutFormSdk object. Method parameters. options ...",
+   "title": "Embedded form methods - Stripe JS Reference"
   },
   "tag:google.com,2013:googlealerts/feed:5075244174158080457": {
    "first_seen": "2026-10-09T11:10:19Z",
