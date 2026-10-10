@@ -80,7 +80,8 @@ COMPARE_STYLE = """
 .cmp th.c-comp { width: 18%; } .cmp td code { overflow-wrap: anywhere; }
 .cmp td .bar { min-width: 140px; }
 .cmp th button { all: unset; cursor: pointer; } .cmp th button:hover { color: var(--onyx800); }
-.cmp th button[aria-sort="ascending"]::after { content: " \25B4"; } .cmp th button[aria-sort="descending"]::after { content: " \25BE"; }
+.cmp th button[aria-sort="ascending"]::after { content: " \\25B4"; } .cmp th button[aria-sort="descending"]::after { content: " \\25BE"; }
+tr.detail .toggle::after { content: "Show pages \\25BE"; } tr.detail details[open] .toggle::after { content: "Hide pages \\25B4"; }
 .pct { font-size: 16px; line-height: 24px; font-weight: 600; color: var(--onyx900); }
 .zero { color: var(--onyx300); }
 .only-a { color: var(--purple6); font-weight: 600; }
