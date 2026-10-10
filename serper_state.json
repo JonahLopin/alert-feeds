@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 1383,
+  "credits_used": 1430,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-10T19:44:24Z",
+  "last_run": "2026-10-10T20:46:41Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 29
+  "runs": 30
  },
  "feeds": {
   "adp-help": {},
@@ -1742,6 +1742,15 @@
     "link": "https://www.shopify.com/blog/plan-a-bfcm-campaign-that-runs-itself-with-rollouts",
     "summary": "Make BFCM easy on yourself and your team by scheduling these simple campaigns ahead of time using Shopify Rollouts.",
     "title": "Plan a BFCM Campaign that Runs Itself with Rollouts"
+   },
+   "shopify.com/blog/rfm-analysis": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-10T20:46:41Z",
+    "link": "https://www.shopify.com/blog/rfm-analysis",
+    "page": 1,
+    "summary": "RFM analysis scores customers so you can target your marketing more effectively. Learn how to calculate RFM scores and build segments that sell.",
+    "title": "RFM Analysis: Definition and Segmentation Guide (2026)"
    }
   },
   "sovos-blog": {},
