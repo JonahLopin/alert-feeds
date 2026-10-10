@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 850,
+  "credits_used": 896,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-10T08:13:26Z",
+  "last_run": "2026-10-10T09:11:03Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 18
+  "runs": 19
  },
  "feeds": {
   "adp-help": {},
@@ -1468,6 +1468,15 @@
     "page": 1,
     "summary": "SAP\u306f\u3001\u300c2026 Fosway 9-Grid\u2122 for Cloud HR\u300d\u306b\u304a\u3044\u3066\u3001\u5f15\u304d\u7d9a\u304d\u300cStrategic Leader\uff08\u6226\u7565\u7684\u30ea\u30fc\u30c0\u30fc\uff09\u300d\u306b\u9078\u51fa\u3055\u308c\u307e\u3057\u305f\u3002\u3053\u308c\u306f\u3001\u4eba\u4e8b\u5909\u9769\u306b\u53d6\u308a\u7d44\u3080\u4f01\u696d\u306b\u3068\u3063\u3066\u3001SAP ...",
     "title": "SAP\u3001\u300c2026 Fosway 9-Grid\u2122 for Cloud HR\u300d\u3067 Strategic ..."
+   },
+   "news.sap.com/korea/2026/10/joule-work-%EC%A0%84%EB%A9%B4-%EC%B6%9C%EC%8B%9C-%EC%9E%90%EC%9C%A8%ED%98%95-%EA%B8%B0%EC%97%85%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%90%EB%8B%A4/sapconnect26_mkr16504_148": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-10-10T09:11:03Z",
+    "link": "https://news.sap.com/korea/2026/10/joule-work-%EC%A0%84%EB%A9%B4-%EC%B6%9C%EC%8B%9C-%EC%9E%90%EC%9C%A8%ED%98%95-%EA%B8%B0%EC%97%85%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%90%EB%8B%A4/sapconnect26_mkr16504_148/",
+    "page": 1,
+    "summary": "SAP Connect 2026 Las Vegas \ubb34\ub300\uc5d0\uc11c \uae30\uc870\uc5f0\uc124 \uc911\uc778 \ud06c\ub9ac\uc2a4\ud2f0\uc548 \ud074\ub77c\uc778 SAP \ud68c\uc7a5. SAP. \ub300\ud55c\ubbfc\uad6d 080-219-2400. \uc9c0\uc5ed\ubcc4 \uad6d\uac00 \ubc88\ud638 \uc804\uccb4 \ubaa9\ub85d \ubcf4\uae30.",
+    "title": "SAPConnect26_MKR16504_148 - SAP Korea \ub274\uc2a4\uc13c\ud130"
    },
    "news.sap.com/korea/2026/10/sap-%EC%BB%A4%EB%84%A5%ED%8A%B8-2026%EC%97%90%EC%84%9C-%EC%9E%90%EC%9C%A8%ED%98%95-%EA%B8%B0%EC%97%85-%EA%B5%AC%ED%98%84-%EB%B0%A9%EC%95%88-%EC%84%A0%EB%B3%B4%EC%97%AC/sap-connect-2026-hero": {
     "baseline": false,
