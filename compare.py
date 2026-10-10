@@ -73,8 +73,12 @@ COMPARE_STYLE = """
 .legend { display: flex; flex-wrap: wrap; gap: 16px; font-size: 14px; line-height: 22px; color: var(--onyx500); }
 .legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: 0; }
 .legend .l-a::before { background: var(--purple6); } .legend .l-b::before { background: var(--green600); } .legend .l-s::before { background: var(--blue400); }
+.cmp, .days table { table-layout: auto; }
+.cmp { min-width: 1100px; }
+.cmp th, .days th { white-space: nowrap; }
 .cmp td.n, .cmp th.n { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
-.cmp th.c-comp { width: 20%; } .cmp th.c-q { width: 26%; } .cmp th.n { width: 7%; } .cmp th.c-bar { width: 19%; }
+.cmp th.c-comp { width: 18%; } .cmp td code { overflow-wrap: anywhere; }
+.cmp td .bar { min-width: 140px; }
 .cmp th button { all: unset; cursor: pointer; } .cmp th button:hover { color: var(--onyx800); }
 .cmp th button[aria-sort="ascending"]::after { content: " \25B4"; } .cmp th button[aria-sort="descending"]::after { content: " \25BE"; }
 .pct { font-size: 16px; line-height: 24px; font-weight: 600; color: var(--onyx900); }
