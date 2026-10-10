@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 1240,
+  "credits_used": 1287,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-10T16:32:16Z",
+  "last_run": "2026-10-10T17:27:48Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 26
+  "runs": 27
  },
  "feeds": {
   "adp-help": {},
@@ -1608,6 +1608,15 @@
   },
   "shift4-dine-blog": {},
   "shift4-dine-help": {
+   "shift4.zendesk.com/hc/en-us/articles/14382700830739-End-to-End-Billing-Matrix-Statement-Glossary": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-10T17:27:48Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/14382700830739-End-to-End-Billing-Matrix-Statement-Glossary",
+    "page": 1,
+    "summary": "Learn key billing, fee, and statement terms to better understand charges, adjustments, and payment-related items on monthly statements for End-to-End U.S. ...",
+    "title": "End-to-End Billing Matrix & Statement Glossary"
+   },
    "shift4.zendesk.com/hc/en-us/articles/43106955069971-Create-and-Manage-Modifier-Sets-in-Multi-Location-Management": {
     "baseline": true,
     "date_hint": "7 days ago",
