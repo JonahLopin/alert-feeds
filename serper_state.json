@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 1287,
+  "credits_used": 1336,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-10T17:27:48Z",
+  "last_run": "2026-10-10T18:36:14Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 27
+  "runs": 28
  },
  "feeds": {
   "adp-help": {},
@@ -1336,6 +1336,15 @@
     "page": 2,
     "summary": "Understand annual wage base limits. A wage base limit is a per-employee cap on the earnings that are taxable. Once an employee reaches the cap, taxes may stop ...",
     "title": "Understand payroll tax wage bases and limits - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/taxation/set-assign-new-work-location/L1IfLvvLv_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-10T18:36:14Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/taxation/set-assign-new-work-location/L1IfLvvLv_US_en_US",
+    "page": 2,
+    "summary": "Learn how to set up and manage work locations \u2014 so everything reconciles cleanly. Easier than you'd expect.",
+    "title": "Set up and manage work locations - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/time-tracking/override-employee-salary-online-payroll/L6DPVk80p_US_en_US": {
     "baseline": true,
