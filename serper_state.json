@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 1191,
+  "credits_used": 1240,
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +44,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-10T15:29:50Z",
+  "last_run": "2026-10-10T16:32:16Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -86,7 +86,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 25
+  "runs": 26
  },
  "feeds": {
   "adp-help": {},
@@ -1301,6 +1301,15 @@
     "page": 2,
     "summary": "For QuickBooks Online, QuickBooks Time, Intuit QuickBooks Workforce or QuickBooks Desktop Payroll, and Intuit Enterprise Suite \u00b7 Sign in as the primary admin in ...",
     "title": "Get started with QuickBooks ProAdvisor Preferred Pricing ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/revenue/kpi-scorecard-glossary/L7H1MbTKL_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-10T16:32:16Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/revenue/kpi-scorecard-glossary/L7H1MbTKL_US_en_US",
+    "page": 1,
+    "summary": "Learn about the different key performance indicators (KPIs) available in the KPI Scorecard. You can use the KPI Scorecard with a QuickBooks Online Essentials, ...",
+    "title": "KPI Scorecard glossary - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/t4-slips/view-paychecks-w-2s-quickbooks-workforce/L3TCwUJtD_US_en_US": {
     "baseline": true,
