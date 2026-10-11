@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 2609,
+  "credits_used": 2657,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T22:46:56Z",
+  "last_run": "2026-10-11T23:46:24Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 55
+  "runs": 56
  },
  "feeds": {
   "adp-help": {},
@@ -1905,6 +1905,15 @@
     "page": 1,
     "summary": "The Start a Tab feature in SpotOn Restaurant (RPOS) allows Front of House (FOH) staff to initiate, manage, and process guest tabs efficiently.",
     "title": "Start a Tab | SpotOn Restaurant FOH (RPOS) (TSYS Only)"
+   },
+   "help.spoton.com/space/SK/2656927745": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-11T23:46:24Z",
+    "link": "https://help.spoton.com/space/SK/2656927745",
+    "page": 1,
+    "summary": "Overview. Menu Item Groups help organize Menu Items within the Back Office (BOH) and make them easier to locate and access throughout the POS.",
+    "title": "Menu Item Group Creation | SpotOn Restaurant BOH"
    },
    "help.spoton.com/space/SK/2656960513": {
     "baseline": false,

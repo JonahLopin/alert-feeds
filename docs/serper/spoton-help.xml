@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-10-11T22:46:56Z</updated>
+  <updated>2026-10-11T23:46:24Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2656927745</id>
+    <title>Menu Item Group Creation | SpotOn Restaurant BOH</title>
+    <link href="https://help.spoton.com/space/SK/2656927745" />
+    <published>2026-10-11T23:46:24Z</published>
+    <updated>2026-10-11T23:46:24Z</updated>
+    <summary>Overview. Menu Item Groups help organize Menu Items within the Back Office (BOH) and make them easier to locate and access throughout the POS.</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/4354441244</id>
     <title>Dashboard Users | SpotOn Dashboard</title>
