@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 2561,
+  "credits_used": 2609,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T21:46:21Z",
+  "last_run": "2026-10-11T22:46:56Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 54
+  "runs": 55
  },
  "feeds": {
   "adp-help": {},
@@ -1947,6 +1947,15 @@
     "page": 1,
     "summary": "Manager Permissions are available for SpotOn Express and are rolling out to SpotOn Restaurant. These permissions only apply to your Dashboard; they don't ...",
     "title": "Manager Permissions | SpotOn Dashboard"
+   },
+   "help.spoton.com/space/SK/4354441244": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-11T22:46:56Z",
+    "link": "https://help.spoton.com/space/SK/4354441244",
+    "page": 1,
+    "summary": "You can manage users directly from your SpotOn Dashboard. Add new users, update access, reset passwords, or remove access in just a few clicks to keep",
+    "title": "Dashboard Users | SpotOn Dashboard"
    },
    "help.spoton.com/space/SK/4431151498/Clock+In+%7C+SpotOn+Restaurant+FOH": {
     "baseline": true,
