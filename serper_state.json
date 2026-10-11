@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 1802,
+  "credits_used": 1848,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T05:10:45Z",
+  "last_run": "2026-10-11T06:17:37Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 38
+  "runs": 39
  },
  "feeds": {
   "adp-help": {},
@@ -961,6 +961,15 @@
     "summary": "If you invited your employee to use Workforce to view their pay stubs and W-2s and it didn't work, here's how to resend it. Select what you'd like to do:.",
     "title": "Resend an invitation to \u200bWorkforce\u200b to access pay stubs and ..."
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/expense-accounts/personal-use-company-car-pucc/L6QJN8iM5_US_en_US": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-11T06:17:37Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/expense-accounts/personal-use-company-car-pucc/L6QJN8iM5_US_en_US",
+    "page": 5,
+    "summary": "If your employees use the company car for personal reasons, it's called Personal Use of a Company Car (PUCC). PUCC is a non cash fringe benefit that counts ...",
+    "title": "Set up and record Personal Use of a Company Car (PUCC)"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/form-w-2/view-print-w-2s-quickbooks-workforce/L0fCqetxm_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -978,6 +987,15 @@
     "page": 3,
     "summary": "Learn how to connect Amazon Seller Central to QuickBooks \u2014 the right way, the first time. Get it done in minutes.",
     "title": "Connect Amazon Seller Central to QuickBooks Online - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/insurance-medical-benefits/california-wage-plan-code-list/L5RK8T6rj_US_en_US": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-11T06:17:37Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/insurance-medical-benefits/california-wage-plan-code-list/L5RK8T6rj_US_en_US",
+    "page": 5,
+    "summary": "California requires employers to assign wage plan codes to each employee for state payroll reporting. The code indicates the type of coverage an employee ...",
+    "title": "Assign or update California wage plan codes for state payroll ..."
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/insurance-medical-benefits/third-party-sick-pay/L2m2My5bR_US_en_US": {
     "baseline": true,
@@ -1032,6 +1050,15 @@
     "page": 5,
     "summary": "Your guide to capture signatures using the QuickBooks mobile app \u2014 the right way, the first time. Set it up with confidence.",
     "title": "Capture signatures using the QuickBooks mobile app - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/mobile-apps/system-requirements-quickbooks-workforce/L80lVa2aw_US_en_US": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-11T06:17:37Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/mobile-apps/system-requirements-quickbooks-workforce/L80lVa2aw_US_en_US",
+    "page": 2,
+    "summary": "To continue using your mobile Workforce app with all the latest features and fixes, it's important to keep it and your device's operating system up to date.",
+    "title": "Verify system requirements for compatibility with the mobile ..."
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/multi-factor-authentication/download-recent-bank-credit-card-transactions/L86TTVI3Y_US_en_US": {
     "baseline": true,
@@ -1659,6 +1686,15 @@
     "link": "https://www.shopify.com/blog/entrepreneurial-mindset",
     "summary": "Get active on online forums. Connect with global entrepreneurs through Slack communities, Facebook groups, and Reddit's /r/entrepreneur forum. Read more. 6 ...",
     "title": "How To Develop an Entrepreneurial Mindset (2026)"
+   },
+   "shopify.com/blog/gross-merchandise-value": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-11T06:17:37Z",
+    "link": "https://www.shopify.com/blog/gross-merchandise-value",
+    "page": 1,
+    "summary": "Gross merchandise value (GMV) measures the total value of goods sold through your store or platform, before expenses and fees, over a specific period of time.",
+    "title": "Gross Merchandise Value (GMV): Meaning and Formula ..."
    },
    "shopify.com/blog/neuro-from-reddit-to-retail": {
     "baseline": true,
