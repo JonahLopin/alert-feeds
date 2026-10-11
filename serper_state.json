@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 2369,
+  "credits_used": 2417,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T17:28:34Z",
+  "last_run": "2026-10-11T18:37:11Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 50
+  "runs": 51
  },
  "feeds": {
   "adp-help": {},
@@ -2213,6 +2213,15 @@
     "page": 2,
     "summary": "Technology leader seeks to help tackle growing drug diversion challenge in the U.S..",
     "title": "Wolters Kluwer acquires Invistics, U.S. AI-enabled drug ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-adds-uptodate-lexidrug-to-genai-powered-clinical-decision-support-uptodate-expert-ai": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-11T18:37:11Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-adds-uptodate-lexidrug-to-genai-powered-clinical-decision-support-uptodate-expert-ai",
+    "page": 2,
+    "summary": "Introducing UpToDate Expert AI, evidence-based GenAI in clinical decision support. Speed, evidence, and trust\u2014the AI tool you've been waiting for.",
+    "title": "Wolters Kluwer adds UpToDate Lexidrug to GenAI ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-and-suki-to-integrate-uptodates-trusted-physicianauthored-content-into-suki-assistant": {
     "baseline": true,
