@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 1940,
+  "credits_used": 1987,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T08:13:39Z",
+  "last_run": "2026-10-11T09:10:42Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 41
+  "runs": 42
  },
  "feeds": {
   "adp-help": {},
@@ -1456,6 +1456,15 @@
     "summary": "Udforsk alle omr\u00e5der af SAP. Uddannelse og support. Uddannelse og certificering \u00b7 Support \u00b7 Dokumentation \u00b7 Community.",
     "title": "Compliance Business Concept - SAP Danmark Nyheder"
    },
+   "news.sap.com/denmark/2026/10/udsaettelsen-af-dommedag-maa-godt-koste-lidt-regulering/f_304302_gettyimages-1331794262_medium_jpg": {
+    "baseline": false,
+    "date_hint": "17 hours ago",
+    "first_seen": "2026-10-11T09:10:42Z",
+    "link": "https://news.sap.com/denmark/2026/10/udsaettelsen-af-dommedag-maa-godt-koste-lidt-regulering/f_304302_gettyimages-1331794262_medium_jpg/",
+    "page": 1,
+    "summary": "Udforsk alle omr\u00e5der af SAP. Uddannelse og support. Uddannelse og certificering \u00b7 Support \u00b7 Dokumentation \u00b7 Community.",
+    "title": "F_304302_GettyImages-1331794262_medium_jpg"
+   },
    "news.sap.com/germany/2026/10/sap-praesentiert-das-autonome-unternehmen-im-praxiseinsatz": {
     "baseline": true,
     "date_hint": "24 hours ago",
@@ -1756,6 +1765,15 @@
     "page": 1,
     "summary": "RFM analysis scores customers so you can target your marketing more effectively. Learn how to calculate RFM scores and build segments that sell.",
     "title": "RFM Analysis: Definition and Segmentation Guide (2026)"
+   },
+   "shopify.com/blog/swot-analysis": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-11T09:10:42Z",
+    "link": "https://www.shopify.com/blog/swot-analysis",
+    "page": 1,
+    "summary": "SWOT stands for strengths, weaknesses, opportunities, and threats. A SWOT analysis is a planning tool that assesses these four factors in your business. It's a ...",
+    "title": "SWOT Analysis Examples and a Free Template (2026)"
    }
   },
   "sovos-blog": {},
