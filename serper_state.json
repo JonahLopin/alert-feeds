@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 2177,
+  "credits_used": 2225,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T13:30:20Z",
+  "last_run": "2026-10-11T14:31:01Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 46
+  "runs": 47
  },
  "feeds": {
   "adp-help": {},
@@ -593,6 +593,15 @@
     "page": 2,
     "summary": "Regenxbio Inc. and the University of Pennsylvania agreed to end their gene-therapy patent dispute with Sarepta Therapeutics Inc. nearly eight months after ...",
     "title": "Regenxbio, Penn End Revived Sarepta Gene-Therapy ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/renault-ceo-welcomes-eu-china-deal-on-hybrids-as-milestone": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-11T14:31:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/renault-ceo-welcomes-eu-china-deal-on-hybrids-as-milestone",
+    "page": 1,
+    "summary": "Renault SA says the European Union reached an initial \u201cmajor milestone\u201d with its deal to slow the onslaught of hybrid cars from China",
+    "title": "Renault CEO Welcomes EU-China Deal on Hybrids as ' ..."
    },
    "news.bloomberglaw.com/business-and-practice/retailers-brace-for-surveillance-pricing-bills-lawsuits-to-rise": {
     "baseline": true,
@@ -1226,6 +1235,15 @@
     "summary": "Here's how to set up and track payroll expenses by class in QuickBooks Payroll \u2014 so your books stay accurate. Do it in just a few clicks.",
     "title": "Set up and track payroll expenses by class - QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/payroll/view-change-direct-deposit-funding-time/L2QoK2Y75_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-11T14:31:01Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll/view-change-direct-deposit-funding-time/L2QoK2Y75_US_en_US",
+    "page": 4,
+    "summary": "Searching pt deposit? Follow this quick guide \u2014 so everything reconciles cleanly. Get it done in minutes.",
+    "title": "When to send your direct deposit payroll - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/personal-profile/get-started-contract-builder-quickbooks-online/L0LenCa69_US_en_US": {
     "baseline": true,
     "date_hint": "1 day ago",
@@ -1571,6 +1589,15 @@
     "link": "https://news.sap.com/netherlands/",
     "summary": "Nieuws en informatie over SAP.",
     "title": "SAP Nederland Blogs & Nieuws"
+   },
+   "news.sap.com/poland/2026/10/sap-z-nowym-dyrektorem-zarzadzajacym-na-europe-srodkowo-wschodnia-jest-nim-hermann-erlach/herman-erlach_header": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-11T14:31:01Z",
+    "link": "https://news.sap.com/poland/2026/10/sap-z-nowym-dyrektorem-zarzadzajacym-na-europe-srodkowo-wschodnia-jest-nim-hermann-erlach/herman-erlach_header/",
+    "page": 1,
+    "summary": "Herman Erlach_Header SAP Polska 00 800 491 1525. Speak Out at SAP SAP Trust Center SAP Store Platforma technologiczna Bran\u017ce \u2026 \u00a9 2026 SAP SE",
+    "title": "Herman Erlach_Header - SAP Poland Centrum Wiadomo\u015bci"
    },
    "news.sap.com/sweden": {
     "baseline": true,
@@ -2211,6 +2238,15 @@
     "page": 1,
     "summary": "Enablon is a leading global provider of environmental, health, safety and sustainability and operational risk management software and SaaS solutions,",
     "title": "Wolters Kluwer Completes Acquisition of Enablon"
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-equips-primary-care-providers-tools-meet-burgeoning-mental-health-demand": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-11T14:31:01Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-equips-primary-care-providers-tools-meet-burgeoning-mental-health-demand",
+    "page": 2,
+    "summary": "Wolters Kluwer equips primary care providers with tools to meet burgeoning mental health demand ... The overwhelming demand for mental health care and the ...",
+    "title": "Wolters Kluwer equips primary care providers with tools to ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-expands-professional-services-for-teammate-expert-solutions-with-protiviti-in-europe": {
     "baseline": true,
