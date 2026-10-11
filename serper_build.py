@@ -91,6 +91,7 @@ def main():
     failures, fatal = [], None
     paged = meta.setdefault("paged", [])
     feed_tbs = meta.setdefault("feed_tbs", {})
+    feed_query = meta.setdefault("feed_query", {})
     for slug, feed_cfg in sorted(config["feeds"].items()):
         first_search = slug not in feeds
         this_tbs = feed_cfg.get("serper_tbs") or tbs
@@ -100,6 +101,10 @@ def main():
         # A feed whose time window changed starts over: its first search in the new window
         # is all baseline. Feeds from before this was recorded used the default window.
         rebaseline_all = not first_search and feed_tbs.get(slug, "qdr:w") != this_tbs
+        # Likewise a feed whose query changed. Feeds from before queries were recorded are
+        # taken as unchanged.
+        if not first_search and feed_query.get(slug, feed_cfg["query"]) != feed_cfg["query"]:
+            rebaseline_all = True
         seen = feeds.setdefault(slug, {})
         results = []  # (page, result)
         try:
@@ -129,6 +134,7 @@ def main():
         if slug not in paged:
             paged.append(slug)
         feed_tbs[slug] = this_tbs
+        feed_query[slug] = feed_cfg["query"]
         for page, result in results:
             link = clean_link(result["link"])
             k = norm(link)
@@ -160,6 +166,7 @@ def main():
         del feeds[slug]
     meta["paged"] = sorted(s for s in paged if s in feeds)
     meta["feed_tbs"] = {s: t for s, t in sorted(feed_tbs.items()) if s in feeds}
+    meta["feed_query"] = {s: q for s, q in sorted(feed_query.items()) if s in feeds}
     with open(STATE_PATH, "w") as fh:
         json.dump(state, fh, indent=1, sort_keys=True)
         fh.write("\n")
