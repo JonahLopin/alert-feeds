@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 2513,
+  "credits_used": 2561,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T20:47:25Z",
+  "last_run": "2026-10-11T21:46:21Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 53
+  "runs": 54
  },
  "feeds": {
   "adp-help": {},
@@ -645,6 +645,15 @@
     "page": 2,
     "summary": "Taiwan President Lai Ching-te called on democracies in the region to unite against threats to stability, as the island faces pressure from Beijing and ...",
     "title": "Taiwan's Lai Urges Democracies to Unite After Trump-Xi ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/tech-earnings-loom-large-for-funds-packed-into-dispersion-trade": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-10-11T21:46:21Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/tech-earnings-loom-large-for-funds-packed-into-dispersion-trade",
+    "page": 1,
+    "summary": "Tech Earnings Loom Large for Funds Packed Into Dispersion Trade Oct. 11, 2026, tech company earnings collide with a Federal Reserve meeting and US midterm ...",
+    "title": "Tech Earnings Loom Large for Funds Packed Into ..."
    },
    "news.bloomberglaw.com/business-and-practice/trump-says-putin-to-supply-us-with-diesel-ahead-of-midterms-3": {
     "baseline": false,
@@ -2204,6 +2213,15 @@
     "page": 2,
     "summary": "Diverticulitis occurs when small sacs or pouches in the colon wall (diverticula) become inflamed, causing symptoms such as abdominal pain or tenderness and ...",
     "title": "Treatment for Diverticulitis \u2013 Updated ASCRS Guidelines"
+   },
+   "wolterskluwer.com/en/news/vanderbilt-university-heard-libraries-research-agreement": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-11T21:46:21Z",
+    "link": "https://www.wolterskluwer.com/en/news/vanderbilt-university-heard-libraries-research-agreement",
+    "page": 1,
+    "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information, software solutions and services for professionals in healthcare; tax and accounting;",
+    "title": "Wolters Kluwer and Vanderbilt University collaborate on ..."
    },
    "wolterskluwer.com/en/news/with-batwing-mastopexy-more-women-can-undergo-nipple-sparing-mastectomy": {
     "baseline": false,
