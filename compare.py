@@ -25,8 +25,10 @@ import urllib.parse
 # result links and it differs between searches, so the same page would look new each time.
 TRACKING = re.compile(r"^(utm_.*|srsltid|gclid|fbclid|mc_cid|mc_eid|_hsenc|_hsmi)$", re.I)
 # Listing and archive pages rather than articles: /page/3, /tag/x, /category/x, /author/x,
-# ?page=2, or a bare section such as /news or /blog.
+# ?page=2 or another LISTING_PARAMS key, or a bare section such as /news or /blog.
 ARCHIVE_PATH = re.compile(r"(^|/)(page/\d+|tag/[^/]+|category/[^/]+|author/[^/]+)/?$", re.I)
+# Query parameters that page or offset a listing (ADP's media center uses ?l= and ?o=).
+LISTING_PARAMS = {"page", "paged", "l", "o", "offset", "start", "limit"}
 SECTION_ONLY = {"", "news", "blog", "blogs", "newsroom", "press", "press-releases", "press-room", "media",
                 "articles", "insights", "resources", "company-news", "updates"}
 
@@ -55,7 +57,7 @@ def is_listing(url):
     parts = urllib.parse.urlsplit(url or "")
     if parts.path.strip("/").lower() in SECTION_ONLY or ARCHIVE_PATH.search(parts.path):
         return True
-    return any(k.lower() in ("page", "paged") for k, _ in urllib.parse.parse_qsl(parts.query))
+    return any(k.lower() in LISTING_PARAMS for k, _ in urllib.parse.parse_qsl(parts.query))
 
 
 SETTLE_HOURS = 12
