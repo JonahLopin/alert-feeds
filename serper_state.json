@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 1894,
+  "credits_used": 1940,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T07:15:50Z",
+  "last_run": "2026-10-11T08:13:39Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 40
+  "runs": 41
  },
  "feeds": {
   "adp-help": {},
@@ -740,6 +740,15 @@
   "chownow-blog": {},
   "csc-blog": {},
   "doordash-blog": {
+   "merchants.doordash.com/en-us/blog/restaurant-advertisement": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-11T08:13:39Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-advertisement",
+    "page": 1,
+    "summary": "Discover 20 restaurant advertising ideas, from social media to loyalty programs, to attract more diners and grow sales.",
+    "title": "20 Restaurant Advertising Ideas to Grow Sales in 2026"
+   },
    "merchants.doordash.com/en-us/blog/restaurant-customer-feedback": {
     "baseline": true,
     "date_hint": "1 day ago",
