@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-10-11T10:10:10Z</updated>
+  <updated>2026-10-11T13:30:20Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2589261985</id>
+    <title>Start a Tab | SpotOn Restaurant FOH (RPOS) (TSYS Only)</title>
+    <link href="https://help.spoton.com/space/SK/2589261985" />
+    <published>2026-10-11T13:30:20Z</published>
+    <updated>2026-10-11T13:30:20Z</updated>
+    <summary>The Start a Tab feature in SpotOn Restaurant (RPOS) allows Front of House (FOH) staff to initiate, manage, and process guest tabs efficiently.</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/2656960513</id>
     <title>Menu Item Creation | SpotOn Restaurant BOH</title>

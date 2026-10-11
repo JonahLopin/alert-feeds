@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 2129,
+  "credits_used": 2177,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T12:15:43Z",
+  "last_run": "2026-10-11T13:30:20Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 45
+  "runs": 46
  },
  "feeds": {
   "adp-help": {},
@@ -1113,6 +1113,15 @@
     "summary": "Here's how to set up and use Multicurrency in QuickBooks Online \u2014 without the usual headaches. A quick, simple walkthrough.",
     "title": "Set up and use Multicurrency in QuickBooks Online - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/multicurrency/set-use-multicurrency/L3AqaWJ9i_US_en_US": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-11T13:30:20Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/multicurrency/set-use-multicurrency/L3AqaWJ9i_US_en_US",
+    "page": 1,
+    "summary": "With Multicurrency, you can track sales and purchases in different currencies. You can assign foreign currencies to customers, vendors, price levels, and ...",
+    "title": "Set up and use Multicurrency - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/pay-bills/pay-bills-across-companies-intuit-enterprise-suite/L5ewQGkkJ_US_en_US": {
     "baseline": true,
     "date_hint": "6 days ago",
@@ -1758,6 +1767,15 @@
     "summary": "Kent Yoshimura and Ryan Chen started Neuro in a dorm room, mixing nootropic powders into chewing gum and betting that a product nobody had tried before was ...",
     "title": "How Two Founders Turned a Dorm Room Experiment Into ..."
    },
+   "shopify.com/blog/nfc-mobile-payments": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-11T13:30:20Z",
+    "link": "https://www.shopify.com/blog/nfc-mobile-payments",
+    "page": 1,
+    "summary": "NFC mobile payments let customers pay by tapping a card, phone, or watch. See what hardware, setup, and security your store needs to accept them.",
+    "title": "NFC Mobile Payments: How To Accept Them (2026)"
+   },
    "shopify.com/blog/online-payment-methods": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -1783,6 +1801,15 @@
     "link": "https://www.shopify.com/blog/plan-a-bfcm-campaign-that-runs-itself-with-rollouts",
     "summary": "Make BFCM easy on yourself and your team by scheduling these simple campaigns ahead of time using Shopify Rollouts.",
     "title": "Plan a BFCM Campaign that Runs Itself with Rollouts"
+   },
+   "shopify.com/blog/promote-your-website-tips": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-11T13:30:20Z",
+    "link": "https://www.shopify.com/blog/promote-your-website-tips",
+    "page": 2,
+    "summary": "Website promotion is the work of getting people to your site. See 11 free and paid ways to promote your store, and what each one costs.",
+    "title": "Website Promotion: 11 Ways to Promote Your Store (2026)"
    },
    "shopify.com/blog/rfm-analysis": {
     "baseline": false,
@@ -1816,6 +1843,15 @@
    }
   },
   "spoton-help": {
+   "help.spoton.com/space/SK/2589261985": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-11T13:30:20Z",
+    "link": "https://help.spoton.com/space/SK/2589261985",
+    "page": 1,
+    "summary": "The Start a Tab feature in SpotOn Restaurant (RPOS) allows Front of House (FOH) staff to initiate, manage, and process guest tabs efficiently.",
+    "title": "Start a Tab | SpotOn Restaurant FOH (RPOS) (TSYS Only)"
+   },
    "help.spoton.com/space/SK/2656960513": {
     "baseline": false,
     "date_hint": "3 days ago",
