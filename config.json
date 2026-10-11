@@ -5,6 +5,13 @@
       "name": "toast-avalara-test-3",
       "url": "https://app.crayon.co/intel/toast-avalara-test-3/search/",
       "admin_url": "https://app.crayon.co/admin-console/dashboards/7272/"
+    },
+    {
+      "id": 7273,
+      "name": "toast-avalara-test-serper",
+      "source": "serper",
+      "url": "https://app.crayon.co/intel/toast-avalara-test-serper/search/",
+      "admin_url": "https://app.crayon.co/admin-console/dashboards/7273/"
     }
   ],
   "feeds": {
@@ -18,6 +25,11 @@
       "insight_subtype_id": 1,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-adp",
+        "competitor_id": 40578
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-adp",
         "competitor_id": 40578
       }
@@ -34,6 +46,11 @@
         "portal": 7272,
         "competitor": "fake-adp",
         "competitor_id": 40578
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-adp",
+        "competitor_id": 40578
       }
     },
     "basware-press": {
@@ -46,6 +63,11 @@
       "insight_subtype_id": 15,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-basware",
+        "competitor_id": 40593
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-basware",
         "competitor_id": 40593
       }
@@ -63,7 +85,12 @@
         "competitor": "fake-bloomberg-law",
         "competitor_id": 40598
       },
-      "serper_tbs": "qdr:d"
+      "serper_tbs": "qdr:d",
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-bloomberg-law",
+        "competitor_id": 40598
+      }
     },
     "chowbus-blog": {
       "competitor": "Chowbus",
@@ -75,6 +102,11 @@
       "insight_subtype_id": 11,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-chowbus",
+        "competitor_id": 40588
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-chowbus",
         "competitor_id": 40588
       }
@@ -91,6 +123,11 @@
         "portal": 7272,
         "competitor": "fake-chownow",
         "competitor_id": 40586
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-chownow",
+        "competitor_id": 40586
       }
     },
     "csc-blog": {
@@ -103,6 +140,11 @@
       "insight_subtype_id": 11,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-csc",
+        "competitor_id": 40600
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-csc",
         "competitor_id": 40600
       }
@@ -119,6 +161,11 @@
         "portal": 7272,
         "competitor": "fake-doordash",
         "competitor_id": 40583
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-doordash",
+        "competitor_id": 40583
       }
     },
     "doordash-press": {
@@ -131,6 +178,11 @@
       "insight_subtype_id": 15,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-doordash",
+        "competitor_id": 40583
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-doordash",
         "competitor_id": 40583
       }
@@ -147,6 +199,11 @@
         "portal": 7272,
         "competitor": "fake-edicom",
         "competitor_id": 40594
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-edicom",
+        "competitor_id": 40594
       }
     },
     "edicom-press": {
@@ -159,6 +216,11 @@
       "insight_subtype_id": 15,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-edicom",
+        "competitor_id": 40594
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-edicom",
         "competitor_id": 40594
       }
@@ -175,6 +237,11 @@
         "portal": 7272,
         "competitor": "fake-grubhub",
         "competitor_id": 40580
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-grubhub",
+        "competitor_id": 40580
       }
     },
     "grubhub-help": {
@@ -187,6 +254,11 @@
       "insight_subtype_id": 1,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-grubhub",
+        "competitor_id": 40580
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-grubhub",
         "competitor_id": 40580
       }
@@ -203,6 +275,11 @@
         "portal": 7272,
         "competitor": "fake-grubhub",
         "competitor_id": 40580
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-grubhub",
+        "competitor_id": 40580
       }
     },
     "gusto-press": {
@@ -215,6 +292,11 @@
       "insight_subtype_id": 15,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-gusto",
+        "competitor_id": 40582
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-gusto",
         "competitor_id": 40582
       }
@@ -231,6 +313,11 @@
         "portal": 7272,
         "competitor": "fake-igen",
         "competitor_id": 40601
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-igen",
+        "competitor_id": 40601
       }
     },
     "intuit-quickbooks-help": {
@@ -243,6 +330,11 @@
       "insight_subtype_id": 1,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-intuit-quickbooks",
+        "competitor_id": 40576
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-intuit-quickbooks",
         "competitor_id": 40576
       }
@@ -259,6 +351,11 @@
         "portal": 7272,
         "competitor": "fake-kintsugi",
         "competitor_id": 40602
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-kintsugi",
+        "competitor_id": 40602
       }
     },
     "lightspeed-hq-blog": {
@@ -271,6 +368,11 @@
       "insight_subtype_id": 11,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-lightspeed-hq",
+        "competitor_id": 40584
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-lightspeed-hq",
         "competitor_id": 40584
       }
@@ -287,6 +389,11 @@
         "portal": 7272,
         "competitor": "fake-lightspeed-hq",
         "competitor_id": 40584
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-lightspeed-hq",
+        "competitor_id": 40584
       }
     },
     "ncr-voyix-press": {
@@ -301,6 +408,11 @@
         "portal": 7272,
         "competitor": "fake-ncr-voyix",
         "competitor_id": 40581
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-ncr-voyix",
+        "competitor_id": 40581
       }
     },
     "ryan-press": {
@@ -313,6 +425,11 @@
       "insight_subtype_id": 15,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-ryan",
+        "competitor_id": 40599
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-ryan",
         "competitor_id": 40599
       }
@@ -330,7 +447,12 @@
         "competitor": "fake-sap-financial-management",
         "competitor_id": 40595
       },
-      "serper_tbs": "qdr:d"
+      "serper_tbs": "qdr:d",
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-sap-financial-management",
+        "competitor_id": 40595
+      }
     },
     "shift4-dine-blog": {
       "competitor": "Shift4 Dine",
@@ -342,6 +464,11 @@
       "insight_subtype_id": 11,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-shift4-dine",
+        "competitor_id": 40579
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-shift4-dine",
         "competitor_id": 40579
       }
@@ -358,6 +485,11 @@
         "portal": 7272,
         "competitor": "fake-shift4-dine",
         "competitor_id": 40579
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-shift4-dine",
+        "competitor_id": 40579
       }
     },
     "shopify-blog": {
@@ -370,6 +502,11 @@
       "insight_subtype_id": 11,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-shopify",
+        "competitor_id": 40585
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-shopify",
         "competitor_id": 40585
       }
@@ -386,6 +523,11 @@
         "portal": 7272,
         "competitor": "fake-sovos",
         "competitor_id": 40574
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-sovos",
+        "competitor_id": 40574
       }
     },
     "sovos-help": {
@@ -398,6 +540,11 @@
       "insight_subtype_id": 1,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-sovos",
+        "competitor_id": 40574
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-sovos",
         "competitor_id": 40574
       }
@@ -414,6 +561,11 @@
         "portal": 7272,
         "competitor": "fake-spoton",
         "competitor_id": 40577
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-spoton",
+        "competitor_id": 40577
       }
     },
     "square-help": {
@@ -426,6 +578,11 @@
       "insight_subtype_id": 1,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-square",
+        "competitor_id": 40575
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-square",
         "competitor_id": 40575
       }
@@ -442,6 +599,11 @@
         "portal": 7272,
         "competitor": "fake-stripe",
         "competitor_id": 40590
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-stripe",
+        "competitor_id": 40590
       }
     },
     "taxcloud-blog": {
@@ -454,6 +616,11 @@
       "insight_subtype_id": 11,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-taxcloud",
+        "competitor_id": 40592
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-taxcloud",
         "competitor_id": 40592
       }
@@ -470,6 +637,11 @@
         "portal": 7272,
         "competitor": "fake-taxcloud",
         "competitor_id": 40592
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-taxcloud",
+        "competitor_id": 40592
       }
     },
     "taxjar-help": {
@@ -482,6 +654,11 @@
       "insight_subtype_id": 1,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-taxjar",
+        "competitor_id": 40589
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-taxjar",
         "competitor_id": 40589
       }
@@ -498,6 +675,11 @@
         "portal": 7272,
         "competitor": "fake-thomson-reuters-tax",
         "competitor_id": 40603
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-thomson-reuters-tax",
+        "competitor_id": 40603
       }
     },
     "touchbistro-blog": {
@@ -510,6 +692,11 @@
       "insight_subtype_id": 11,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-touchbistro",
+        "competitor_id": 40587
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-touchbistro",
         "competitor_id": 40587
       }
@@ -526,6 +713,11 @@
         "portal": 7272,
         "competitor": "fake-vertex",
         "competitor_id": 40596
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-vertex",
+        "competitor_id": 40596
       }
     },
     "wolters-kluwer-tax-press": {
@@ -540,6 +732,11 @@
         "portal": 7272,
         "competitor": "fake-wolters-kluwer-tax",
         "competitor_id": 40597
+      },
+      "serper_crayon": {
+        "portal": 7273,
+        "competitor": "fake-wolters-kluwer-tax",
+        "competitor_id": 40597
       }
     },
     "zamp-help": {
@@ -552,6 +749,11 @@
       "insight_subtype_id": 1,
       "crayon": {
         "portal": 7272,
+        "competitor": "fake-zamp",
+        "competitor_id": 40591
+      },
+      "serper_crayon": {
+        "portal": 7273,
         "competitor": "fake-zamp",
         "competitor_id": 40591
       }
