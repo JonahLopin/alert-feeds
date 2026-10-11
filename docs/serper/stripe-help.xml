@@ -4,4 +4,20 @@
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
   <updated>2026-10-11T03:05:00Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/service-principals</id>
+    <title>Service principals</title>
+    <link href="https://docs.stripe.com/service-principals" />
+    <published>2026-10-11T03:05:00Z</published>
+    <updated>2026-10-11T03:05:00Z</updated>
+    <summary>A service principal is a non-human identity that represents an application, service or AI agent accessing Stripe. Service principals, much like human team ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/js/react_stripe_js/elements/other/payment_request_button_element?__=&amp;__hsfp=PANTHEON_STRIPPED%3Fhsa_cam%3D15351779962&amp;__hssc=PANTHEON_STRIPPED&amp;__hstc=PANTHEON_STRIPPED</id>
+    <title>PaymentRequestButtonElement</title>
+    <link href="https://docs.stripe.com/js/react_stripe_js/elements/other/payment_request_button_element?__=&amp;__hsfp=PANTHEON_STRIPPED%3Fhsa_cam%3D15351779962&amp;__hssc=PANTHEON_STRIPPED&amp;__hstc=PANTHEON_STRIPPED" />
+    <published>2026-10-11T03:05:00Z</published>
+    <updated>2026-10-11T03:05:00Z</updated>
+    <summary>Sets the DOM id attribute on the rendered Element container. Use this to target the Element for styling or testing. className string.</summary>
+  </entry>
 </feed>
