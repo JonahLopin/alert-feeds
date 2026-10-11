@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 2321,
+  "credits_used": 2369,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T16:33:08Z",
+  "last_run": "2026-10-11T17:28:34Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 49
+  "runs": 50
  },
  "feeds": {
   "adp-help": {},
@@ -926,6 +926,15 @@
     "page": 2,
     "summary": "Automate QuickBooks Online tasks with Custom Automations -- describe what you want in plain English and Intuit Intelligence builds it.",
     "title": "Automate tasks with Custom Automations - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/client-relationships/create-send-proposals/L6nlEXigC_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-11T17:28:34Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/client-relationships/create-send-proposals/L6nlEXigC_US_en_US",
+    "page": 2,
+    "summary": "Learn how to create, customize, preview, and send professional proposals to your customers directly from QuickBooks Online. Use the proposal builder to create a ...",
+    "title": "Create and send proposals - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/compare-products/get-done-quickbooks-mobile-app-web/L9YN5gwQw_US_en_US": {
     "baseline": true,
