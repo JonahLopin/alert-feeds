@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-10-11T05:10:45Z</updated>
+  <updated>2026-10-11T10:10:10Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2656960513</id>
+    <title>Menu Item Creation | SpotOn Restaurant BOH</title>
+    <link href="https://help.spoton.com/space/SK/2656960513" />
+    <published>2026-10-11T10:10:10Z</published>
+    <updated>2026-10-11T10:10:10Z</updated>
+    <summary>Step-by-Step Instructions · Create a Menu Item · View or Edit the Menu Item Within a Menu Item Group · Configure Modifier Linkages · Configure Sub-Item Linkages.</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/4233822221</id>
     <title>Manager Permissions | SpotOn Dashboard</title>

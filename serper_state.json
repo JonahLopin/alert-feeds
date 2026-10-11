@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 1987,
+  "credits_used": 2034,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T09:10:42Z",
+  "last_run": "2026-10-11T10:10:10Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 42
+  "runs": 43
  },
  "feeds": {
   "adp-help": {},
@@ -1438,6 +1438,15 @@
    }
   },
   "sap-financial-management-press": {
+   "news.sap.com/denmark/2026/09/danmark-har-ikke-vundet-ai-guldet-vi-forveksler-chatbotter-med-strategi/making-trading-online-on-the-smart-phone-in-hand": {
+    "baseline": false,
+    "date_hint": "19 hours ago",
+    "first_seen": "2026-10-11T10:10:10Z",
+    "link": "https://news.sap.com/denmark/2026/09/danmark-har-ikke-vundet-ai-guldet-vi-forveksler-chatbotter-med-strategi/making-trading-online-on-the-smart-phone-in-hand/",
+    "page": 1,
+    "summary": "Making trading online on the smart phone in hand. SAP. Danmark +45 39 13 30 00. Eller se vores komplette liste over lokale landenumre.",
+    "title": "Making trading online on the smart phone in hand."
+   },
    "news.sap.com/denmark/2026/10/sap-selvkorende-virksomhed-joule-i-praksis/sapconnect26_mkr16504": {
     "baseline": false,
     "date_hint": "12 hours ago",
@@ -1789,6 +1798,15 @@
    }
   },
   "spoton-help": {
+   "help.spoton.com/space/SK/2656960513": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-11T10:10:10Z",
+    "link": "https://help.spoton.com/space/SK/2656960513",
+    "page": 1,
+    "summary": "Step-by-Step Instructions \u00b7 Create a Menu Item \u00b7 View or Edit the Menu Item Within a Menu Item Group \u00b7 Configure Modifier Linkages \u00b7 Configure Sub-Item Linkages.",
+    "title": "Menu Item Creation | SpotOn Restaurant BOH"
+   },
    "help.spoton.com/space/SK/2666660428": {
     "baseline": true,
     "date_hint": "7 days ago",
