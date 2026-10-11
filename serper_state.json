@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 2417,
+  "credits_used": 2465,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T18:37:11Z",
+  "last_run": "2026-10-11T19:44:45Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 51
+  "runs": 52
  },
  "feeds": {
   "adp-help": {},
@@ -1794,6 +1794,15 @@
     "page": 1,
     "summary": "Gross merchandise value (GMV) measures the total value of goods sold through your store or platform, before expenses and fees, over a specific period of time.",
     "title": "Gross Merchandise Value (GMV): Meaning and Formula ..."
+   },
+   "shopify.com/blog/how-to-design-a-shirt": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-11T19:44:45Z",
+    "link": "https://www.shopify.com/blog/how-to-design-a-shirt",
+    "page": 2,
+    "summary": "Learn how to design a shirt in nine easy steps, from concept to print-ready files, with a printing method comparison and print spec checklist.",
+    "title": "How To Design a Shirt in 9 Steps (2026)"
    },
    "shopify.com/blog/neuro-from-reddit-to-retail": {
     "baseline": true,
