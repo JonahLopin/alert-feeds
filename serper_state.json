@@ -1,6 +1,47 @@
 {
  "_meta": {
-  "credits_used": 1617,
+  "credits_used": 1664,
+  "feed_query": {
+   "adp-help": "site:adp.com/about-adp/data-security/alerts/",
+   "adp-press": "site:mediacenter.adp.com",
+   "basware-press": "site:news.basware.com",
+   "bloomberg-law-press": "site:news.bloomberglaw.com/business-and-practice/",
+   "chowbus-blog": "site:chowbus.com/blog/",
+   "chownow-blog": "site:get.chownow.com/blog/",
+   "csc-blog": "site:blog.cscglobal.com",
+   "doordash-blog": "site:merchants.doordash.com/en-us/blog/",
+   "doordash-press": "site:about.doordash.com/en-us/news/",
+   "edicom-blog": "site:edicomgroup.com/blog/",
+   "edicom-press": "site:careers.edicomgroup.com/news/",
+   "grubhub-blog": "site:get.grubhub.com/blog/",
+   "grubhub-help": "site:grubhub.com/answers/",
+   "grubhub-press": "site:about.grubhub.com/news/",
+   "gusto-press": "site:gusto.com/company-news/",
+   "igen-blog": "site:igentax.com/blog/",
+   "intuit-quickbooks-help": "site:quickbooks.intuit.com/learn-support/en-us/help-article/",
+   "kintsugi-blog": "site:trykintsugi.com/blog/",
+   "lightspeed-hq-blog": "site:lightspeedhq.com/blog/",
+   "lightspeed-hq-press": "site:lightspeedhq.com/news/",
+   "ncr-voyix-press": "site:ncrvoyix.com/newsroom/",
+   "ryan-press": "site:ryan.com/insights/press-room/",
+   "sap-financial-management-press": "site:news.sap.com",
+   "shift4-dine-blog": "site:shift4.com/blog/",
+   "shift4-dine-help": "site:shift4.zendesk.com/hc/en-us/articles/",
+   "shopify-blog": "site:shopify.com/blog/",
+   "sovos-blog": "site:sovos.com/blog/",
+   "sovos-help": "site:docs.sovos.com",
+   "spoton-help": "site:help.spoton.com",
+   "square-help": "site:squareup.com/help/us/en/article/",
+   "stripe-help": "site:docs.stripe.com",
+   "taxcloud-blog": "site:taxcloud.com/blog/",
+   "taxcloud-help": "site:support.taxcloud.com/articles/",
+   "taxjar-help": "site:support.taxjar.com/article/",
+   "thomson-reuters-tax-blog": "site:tax.thomsonreuters.com/blog/",
+   "touchbistro-blog": "site:touchbistro.com/blog/",
+   "vertex-press": "site:vertexinc.com/company/news/",
+   "wolters-kluwer-tax-press": "site:wolterskluwer.com/en/news/",
+   "zamp-help": "site:developer.zamp.com"
+  },
   "feed_tbs": {
    "adp-help": "qdr:w",
    "adp-press": "qdr:w",
@@ -44,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T01:24:26Z",
+  "last_run": "2026-10-11T01:35:57Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -78,6 +119,7 @@
    "square-help",
    "stripe-help",
    "taxcloud-blog",
+   "taxcloud-help",
    "taxjar-help",
    "thomson-reuters-tax-blog",
    "touchbistro-blog",
@@ -85,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 34
+  "runs": 35
  },
  "feeds": {
   "adp-help": {},
@@ -106,141 +148,6 @@
     "page": 2,
     "summary": "The NER Pulse is an estimate of the week-over-week change in employment based on a four-week moving average. These estimates are based on ADP's finely tuned ...",
     "title": "ADP National Employment Report Preliminary Estimate for ..."
-   },
-   "mediacenter.adp.com/news-briefs?l=27": {
-    "baseline": true,
-    "date_hint": "4 days ago",
-    "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://mediacenter.adp.com/news-briefs?l=27",
-    "summary": "ADP was named a winner in the inaugural 2026 HR Tech Breakthrough Awards, with ADP Assist\u2122 earning the HCM Innovation Award and being named \u201cAI HR Platform of ...",
-    "title": "News Briefs"
-   },
-   "mediacenter.adp.com/small-business-smarts?o=18": {
-    "baseline": true,
-    "date_hint": "3 days ago",
-    "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://mediacenter.adp.com/small-business-smarts?o=18",
-    "summary": "For media inquiries, connect with our media relations team for press materials, interviews and expert commentary or reach out directly to a member of our team.",
-    "title": "Small Business Smarts"
-   },
-   "mediacenter.adp.com/video-insights?l=18": {
-    "baseline": true,
-    "date_hint": "4 days ago",
-    "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://mediacenter.adp.com/video-insights?l=18",
-    "summary": "ADP's Chief Talent Officer Jay Caldwell shares how working with AI should be treated like a gym session for your brain, where you flex your mental muscles.",
-    "title": "Video Insights"
-   },
-   "mediacenter.adp.com/video-insights?l=27": {
-    "baseline": true,
-    "date_hint": "4 days ago",
-    "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://mediacenter.adp.com/video-insights?l=27",
-    "summary": "ADP's Chief Talent Officer Jay Caldwell shares how working with AI should be treated like a gym session for your brain, where you flex your mental muscles.",
-    "title": "Video Insights"
-   },
-   "mediacenter.adp.com/video-insights?o=18": {
-    "baseline": true,
-    "date_hint": "4 days ago",
-    "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://mediacenter.adp.com/video-insights?o=18",
-    "summary": "Video Insights People at Work Tech in Action Small Business Smarts Decoding Compliance Media Resources",
-    "title": "Video Insights"
-   },
-   "mediacenter.adp.com/video-insights?o=27": {
-    "baseline": true,
-    "date_hint": "4 days ago",
-    "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://mediacenter.adp.com/video-insights?o=27",
-    "summary": "For media inquiries, connect with our media relations team for press materials, interviews and expert commentary or reach out directly to a member of our team.",
-    "title": "Video Insights"
-   },
-   "mediacenter.adp.com/video-insights?o=45": {
-    "baseline": false,
-    "date_hint": "5 days ago",
-    "first_seen": "2026-10-10T06:17:41Z",
-    "link": "https://mediacenter.adp.com/video-insights?o=45",
-    "page": 1,
-    "summary": "For media inquiries, connect with our media relations team for press materials, interviews and expert commentary or reach out directly to a member of our team.",
-    "title": "Video Insights"
-   },
-   "mediacenter.adp.com/video-insights?o=54": {
-    "baseline": true,
-    "date_hint": "4 days ago",
-    "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://mediacenter.adp.com/video-insights?o=54",
-    "summary": "Video Insights People at Work Tech in Action Small Business Smarts Decoding Compliance Media Resources",
-    "title": "Video Insights"
-   },
-   "mediacenter.adp.com/video-insights?o=63": {
-    "baseline": true,
-    "date_hint": "4 days ago",
-    "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://mediacenter.adp.com/video-insights?o=63",
-    "summary": "Video Insights People at Work Tech in Action Small Business Smarts Decoding Compliance Media Resources",
-    "title": "Video Insights"
-   },
-   "mediacenter.adp.com/video-insights?o=72": {
-    "baseline": true,
-    "date_hint": "4 days ago",
-    "first_seen": "2026-10-09T14:37:09Z",
-    "link": "https://mediacenter.adp.com/video-insights?o=72",
-    "summary": "For media inquiries, connect with our media relations team for press materials, interviews and expert commentary or reach out directly to a member of our team.",
-    "title": "Video Insights"
-   },
-   "mediacenter.adp.com/workforce-data-releases?l=18": {
-    "baseline": false,
-    "date_hint": "4 days ago",
-    "first_seen": "2026-10-09T22:10:25Z",
-    "link": "https://mediacenter.adp.com/workforce-data-releases?l=18",
-    "page": 1,
-    "summary": "U.S. private employers added an average of 23,750 jobs per week, private employers added an average of 16,250 jobs per week, an average of 16,500 jobs per week,",
-    "title": "Workforce Data Releases"
-   },
-   "mediacenter.adp.com/workforce-data-releases?l=27": {
-    "baseline": false,
-    "date_hint": "4 days ago",
-    "first_seen": "2026-10-09T21:09:40Z",
-    "link": "https://mediacenter.adp.com/workforce-data-releases?l=27",
-    "page": 1,
-    "summary": "U.S. private employers added an average of 23,750 jobs per week, U.S. private employers added an average of 16,250 jobs per week,",
-    "title": "Workforce Data Releases"
-   },
-   "mediacenter.adp.com/workforce-data-releases?l=36": {
-    "baseline": false,
-    "date_hint": "4 days ago",
-    "first_seen": "2026-10-09T22:10:25Z",
-    "link": "https://mediacenter.adp.com/workforce-data-releases?l=36",
-    "page": 1,
-    "summary": "U.S. private employers added an average of 23,750 jobs per week, U.S. private employers added an average of 16,250 jobs per week,",
-    "title": "Workforce Data Releases"
-   },
-   "mediacenter.adp.com/workforce-data-releases?l=45": {
-    "baseline": false,
-    "date_hint": "4 days ago",
-    "first_seen": "2026-10-09T22:10:25Z",
-    "link": "https://mediacenter.adp.com/workforce-data-releases?l=45",
-    "page": 1,
-    "summary": "U.S. private employers added an average of 23,750 jobs per week, U.S. private employers added an average of 16,250 jobs per week,",
-    "title": "Workforce Data Releases"
-   },
-   "mediacenter.adp.com/workforce-data-releases?o=18": {
-    "baseline": false,
-    "date_hint": "2 hours ago",
-    "first_seen": "2026-10-09T21:09:40Z",
-    "link": "https://mediacenter.adp.com/workforce-data-releases?o=18",
-    "page": 2,
-    "summary": "ROSELAND, N.J., April 1, 2026 /PRNewswire/ -- Private sector employment increased by 62,000 jobs in March and pay was up 4.5 percent year-over-year according to ...",
-    "title": "Workforce Data Releases"
-   },
-   "mediacenter.adp.com/workforce-data-releases?o=9": {
-    "baseline": false,
-    "date_hint": "2 hours ago",
-    "first_seen": "2026-10-09T21:09:40Z",
-    "link": "https://mediacenter.adp.com/workforce-data-releases?o=9",
-    "page": 2,
-    "summary": "ROSELAND, N.J. \u2013 May 19, 2026 \u2013 For the four weeks ending May 2, 2026, U.S. private employers added an average of 42,250 jobs per week, according to the NER ...",
-    "title": "Workforce Data Releases"
    }
   },
   "basware-press": {
@@ -1495,6 +1402,15 @@
     "summary": "Futuristic glossy striped waves, lines gradient dark blue, lilac purple, metallic technology, innovation background. 3D abstract pattern.",
     "title": "Futuristic glossy striped waves, lines gradient dark blue ..."
    },
+   "news.sap.com/italy/2026/10/sap-annuncia-lacquisizione-di-techwolf-per-offrire-alle-aziende-una-visione-del-lavoro-basata-su-evidenze-nellera-dellai/maintenance-engineers-in-server-room": {
+    "baseline": false,
+    "date_hint": "21 hours ago",
+    "first_seen": "2026-10-11T01:35:57Z",
+    "link": "https://news.sap.com/italy/2026/10/sap-annuncia-lacquisizione-di-techwolf-per-offrire-alle-aziende-una-visione-del-lavoro-basata-su-evidenze-nellera-dellai/maintenance-engineers-in-server-room/",
+    "page": 1,
+    "summary": "Maintenance engineers in server room. SAP. Italia 800 789 088. Oppure consulta l'elenco completo dei nostri recapiti \u00b7 Contatta SAP Italia ...",
+    "title": "Maintenance engineers in server room"
+   },
    "news.sap.com/japan/2026/10/1009_sap-strategic-leader-2026-fosway-9-grid-cloud-hr": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -1734,6 +1650,15 @@
     "summary": "Online payment methods are the ways customers pay for an order on your website. These include credit or debit cards, digital wallets, buy now, ...",
     "title": "Online Payment Methods: What To Accept (2026)"
    },
+   "shopify.com/blog/paid-media": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-11T01:35:57Z",
+    "link": "https://www.shopify.com/blog/paid-media",
+    "page": 1,
+    "summary": "Paid media works by exchanging dollars for attention on platforms like social media, search engines, display networks, and streaming sites.",
+    "title": "Paid Media: Guide for Ecommerce Business Owners (2026)"
+   },
    "shopify.com/blog/plan-a-bfcm-campaign-that-runs-itself-with-rollouts": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -1908,6 +1833,7 @@
    }
   },
   "taxcloud-blog": {},
+  "taxcloud-help": {},
   "taxjar-help": {},
   "thomson-reuters-tax-blog": {
    "tax.thomsonreuters.com/blog/bis-50-rule-trade-compliance-guide": {
