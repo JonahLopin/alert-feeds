@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 1756,
+  "credits_used": 1802,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T04:13:46Z",
+  "last_run": "2026-10-11T05:10:45Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 37
+  "runs": 38
  },
  "feeds": {
   "adp-help": {},
@@ -1402,6 +1402,15 @@
    }
   },
   "sap-financial-management-press": {
+   "news.sap.com/denmark/2026/10/sap-selvkorende-virksomhed-joule-i-praksis/sapconnect26_mkr16504": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-10-11T05:10:45Z",
+    "link": "https://news.sap.com/denmark/2026/10/sap-selvkorende-virksomhed-joule-i-praksis/sapconnect26_mkr16504/",
+    "page": 1,
+    "summary": "Udforsk alle omr\u00e5der af SAP. Uddannelse og support. Uddannelse og certificering \u00b7 Support \u00b7 Dokumentation \u00b7 Community.",
+    "title": "SAPConnect26_MKR16504 - SAP Danmark Nyheder"
+   },
    "news.sap.com/germany/2026/10/sap-praesentiert-das-autonome-unternehmen-im-praxiseinsatz": {
     "baseline": true,
     "date_hint": "24 hours ago",
@@ -1731,6 +1740,15 @@
     "link": "https://help.spoton.com/space/SK/3213820100/SpotOn+Express",
     "summary": "is a Registered Partner/ISO of Merrick Bank, South Jordan, UT & Wells Fargo Bank,",
     "title": "SpotOn Express"
+   },
+   "help.spoton.com/space/SK/4233822221": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-11T05:10:45Z",
+    "link": "https://help.spoton.com/space/SK/4233822221",
+    "page": 1,
+    "summary": "Manager Permissions are available for SpotOn Express and are rolling out to SpotOn Restaurant. These permissions only apply to your Dashboard; they don't ...",
+    "title": "Manager Permissions | SpotOn Dashboard"
    },
    "help.spoton.com/space/SK/4431151498/Clock+In+%7C+SpotOn+Restaurant+FOH": {
     "baseline": true,
