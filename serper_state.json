@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 1848,
+  "credits_used": 1894,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T06:17:37Z",
+  "last_run": "2026-10-11T07:15:50Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 39
+  "runs": 40
  },
  "feeds": {
   "adp-help": {},
@@ -1437,6 +1437,15 @@
     "page": 1,
     "summary": "Udforsk alle omr\u00e5der af SAP. Uddannelse og support. Uddannelse og certificering \u00b7 Support \u00b7 Dokumentation \u00b7 Community.",
     "title": "SAPConnect26_MKR16504 - SAP Danmark Nyheder"
+   },
+   "news.sap.com/denmark/2026/10/udsaettelsen-af-dommedag-maa-godt-koste-lidt-regulering/compliance-business-concept": {
+    "baseline": false,
+    "date_hint": "14 hours ago",
+    "first_seen": "2026-10-11T07:15:50Z",
+    "link": "https://news.sap.com/denmark/2026/10/udsaettelsen-af-dommedag-maa-godt-koste-lidt-regulering/compliance-business-concept/",
+    "page": 1,
+    "summary": "Udforsk alle omr\u00e5der af SAP. Uddannelse og support. Uddannelse og certificering \u00b7 Support \u00b7 Dokumentation \u00b7 Community.",
+    "title": "Compliance Business Concept - SAP Danmark Nyheder"
    },
    "news.sap.com/germany/2026/10/sap-praesentiert-das-autonome-unternehmen-im-praxiseinsatz": {
     "baseline": true,
