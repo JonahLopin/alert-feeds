@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 2081,
+  "credits_used": 2129,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T11:09:14Z",
+  "last_run": "2026-10-11T12:15:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 44
+  "runs": 45
  },
  "feeds": {
   "adp-help": {},
@@ -2192,6 +2192,15 @@
     "page": 1,
     "summary": "Healthcare professionals see generative AI (GenAI) as key to solving sustainability problems, including the workforce crisis. But many organizations remain ...",
     "title": "Wolters Kluwer Future Ready Healthcare Survey Report"
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-introduces-ovid-guidelines-ai-transforming-clinical-guideline-development-agentic-ai": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-11T12:15:43Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-introduces-ovid-guidelines-ai-transforming-clinical-guideline-development-agentic-ai",
+    "page": 2,
+    "summary": "With the introduction of Ovid Guidelines AI, Wolters Kluwer is developing an agentic Generative AI (GenAI) workflow solution to accelerate this process and ...",
+    "title": "Wolters Kluwer introduces Ovid Guidelines AI"
    },
    "wolterskluwer.com/en/news/wolters-kluwer-launches-ai-enhanced-uptodate-enterprise-edition-in-apac": {
     "baseline": false,
