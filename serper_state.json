@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 2273,
+  "credits_used": 2321,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T15:30:09Z",
+  "last_run": "2026-10-11T16:33:08Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 48
+  "runs": 49
  },
  "feeds": {
   "adp-help": {},
@@ -2290,6 +2290,15 @@
     "page": 1,
     "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting;",
     "title": "Wolters Kluwer launches digital health tech solutions for ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-launches-expert-ai-enhancements-to-coursepoint": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-11T16:33:08Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-launches-expert-ai-enhancements-to-coursepoint",
+    "page": 1,
+    "summary": "AI study tool helps students learn flexibly, explore and engage with course materials on demand. Read the press release.",
+    "title": "Wolters Kluwer launches Expert AI enhancements to ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-legal-regulatory-u-s-names-ken-crutchfield-as-vice-president-general-manager-of-legal-markets": {
     "baseline": false,
