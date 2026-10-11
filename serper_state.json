@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 1664,
+  "credits_used": 1711,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T01:35:57Z",
+  "last_run": "2026-10-11T02:50:13Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 35
+  "runs": 36
  },
  "feeds": {
   "adp-help": {},
@@ -748,6 +748,15 @@
     "summary": "8 Ways to collect restaurant customer feedback \u00b7 1. Claim and optimize your business listings \u00b7 2. Encourage online reviews \u2014 then respond to every one \u00b7 3.",
     "title": "Restaurant Customer Feedback: 8 Ways to Collect It"
    },
+   "merchants.doordash.com/en-us/blog/restaurant-sms-marketing": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-11T02:50:13Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-sms-marketing",
+    "page": 1,
+    "summary": "SMS marketing (Short Message Service marketing) means sending promotional text messages to customers who have agreed to receive them.",
+    "title": "SMS Marketing for Restaurants: Drive More Orders With ..."
+   },
    "merchants.doordash.com/en-us/blog/the-key-to-getting-more-restaurant-reviews": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -1005,6 +1014,15 @@
     "page": 3,
     "summary": "E-file payroll tax forms. Here's how you e-file your client's federal tax returns with QuickBooks. You can also e-file their state tax forms in QuickBooks.",
     "title": "E-file payroll tax forms for clients in \u200bQuickBooks Desktop ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/manage-client/transfer-clients-intuit-accountant-suite/L2a0pk1mS_US_en_US": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-11T02:50:13Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-client/transfer-clients-intuit-accountant-suite/L2a0pk1mS_US_en_US",
+    "page": 3,
+    "summary": "You can move clients between Intuit Accountant Suite (IAS) accounts. All their info, client numbers, and team access move with them.",
+    "title": "Transfer clients in Intuit Accountant Suite (IAS)"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/mobile-apps/capture-signatures-using-quickbooks-online-app/L9M3lRB8F_US_en_US": {
     "baseline": true,
