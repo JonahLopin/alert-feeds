@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-10T10:10:42Z</updated>
+  <updated>2026-10-11T11:29:08Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:9248615612230296782</id>
+    <title>List Adjustments | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/adjustments/list?api-version=2026-09-30.preview" />
+    <published>2026-10-11T11:29:08Z</published>
+    <updated>2026-10-11T11:29:08Z</updated>
+    <summary>Filter for objects created on or after the specified timestamp. Must be an RFC 3339 date &amp; time value, for example: 2022-09-18T13:22:00Z.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:2378811954673993430</id>
+    <title>Create a PaymentIntent before collecting payment details - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/accept-a-payment-intent-first?api-integration=paymentintents&amp;payment-ui=elements" />
+    <published>2026-10-11T11:29:08Z</published>
+    <updated>2026-10-11T11:29:08Z</updated>
+    <summary>Create the PaymentIntent. Create a PaymentIntent on your server with an amount and currency. In the latest version of the API, specifying the ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:4197160707737336743</id>
     <title>Embedded form methods - Stripe JS Reference</title>
