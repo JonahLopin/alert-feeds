@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 3545,
+  "credits_used": 3597,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-12T21:47:00Z",
+  "last_run": "2026-10-12T22:47:36Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 74
+  "runs": 75
  },
  "feeds": {
   "adp-help": {},
@@ -1010,6 +1010,15 @@
     "page": 4,
     "summary": "Learn how to review and post transactions that QuickBooks Online marks as Ready to post, and how to set your Ready to post criteria through your Transaction ...",
     "title": "Use Ready to post in QuickBooks Online - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/accountant-certification/sign-proadvisor-quickbooks-certification-courses/L18zzgR5K_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-12T22:47:36Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/accountant-certification/sign-proadvisor-quickbooks-certification-courses/L18zzgR5K_US_en_US",
+    "page": 4,
+    "summary": "The ProAdvisor Academy lets you advance your expertise and manage your professional achievements from your Intuit Accountant Suite firm.",
+    "title": "ProAdvisor Academy and certification courses - QuickBooks"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/add-foreign-currency-account/L7n7mw1uA_US_en_US": {
     "baseline": true,
@@ -2231,6 +2240,15 @@
     "summary": "Surcharges in SpotOn Restaurant are custom or service fees that can be added to an order for specific business needs, such as delivery fees, hospitality fees,",
     "title": "Surcharge / SpotOn Restaurant Back of House (BOH)"
    },
+   "help.spoton.com/space/SK/2494792276": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-12T22:47:36Z",
+    "link": "https://help.spoton.com/space/SK/2494792276",
+    "page": 1,
+    "summary": "Location Settings let you manage the foundational setup for each restaurant location in SpotOn Restaurant. From organizing locations to defining operating ...",
+    "title": "Location Settings | SpotOn Restaurant (RPOS)"
+   },
    "help.spoton.com/space/SK/2589261985": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -2369,6 +2387,15 @@
     "link": "https://help.spoton.com/space/SK/4513038363",
     "summary": "SpotOn Express Dashboard gives you a centralized view of your restaurant's performance, helping you track sales, payments, labor, and payroll data in one place.",
     "title": "Reports | Dashboard | SpotOn Express"
+   },
+   "help.spoton.com/space/SK/5040406703/Menu+Best+Practices+for+Subitem+Groups+(Combos+&+Pizza)+RPOS": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-12T22:47:36Z",
+    "link": "https://help.spoton.com/space/SK/5040406703/Menu+Best+Practices+for+Subitem+Groups+(Combos+&+Pizza)+RPOS",
+    "page": 2,
+    "summary": "When setting up your menu in SpotOn Restaurant POS (RPOS), it's important to configure subitem groups correctly\u2014especially for combo meals and pizza menus.",
+    "title": "Menu Best Practices for Subitem Groups (Combos & Pizza) ..."
    },
    "help.spoton.com/space/SK/5046665226": {
     "baseline": false,
