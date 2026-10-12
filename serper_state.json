@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 2897,
+  "credits_used": 2945,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-12T06:28:24Z",
+  "last_run": "2026-10-12T08:09:28Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 61
+  "runs": 62
  },
  "feeds": {
   "adp-help": {},
@@ -1936,6 +1936,15 @@
     "page": 1,
     "summary": "SWOT stands for strengths, weaknesses, opportunities, and threats. A SWOT analysis is a planning tool that assesses these four factors in your business. It's a ...",
     "title": "SWOT Analysis Examples and a Free Template (2026)"
+   },
+   "shopify.com/blog/what-is-a-corporation": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-12T08:09:28Z",
+    "link": "https://www.shopify.com/blog/what-is-a-corporation",
+    "page": 2,
+    "summary": "A corporation is a legal entity created under state law that exists separately from the individuals who establish, own, and manage it.",
+    "title": "Corporation Definition and How To Form a Corporation"
    }
   },
   "sovos-blog": {},
