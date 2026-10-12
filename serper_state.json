@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 3446,
+  "credits_used": 3494,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-12T19:16:36Z",
+  "last_run": "2026-10-12T20:34:25Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 72
+  "runs": 73
  },
  "feeds": {
   "adp-help": {},
@@ -478,6 +478,15 @@
     "page": 1,
     "summary": "Linton Bloomberg joined Haynes Boone as a partner in its restructuring practice in London, the firm announced Monday.",
     "title": "Haynes Boone Adds London Restructuring Partner ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/how-big-techs-ai-race-fueled-a-borrowing-boom-explainer": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-12T20:34:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/how-big-techs-ai-race-fueled-a-borrowing-boom-explainer",
+    "page": 1,
+    "summary": "Alphabet Inc. 's Google, Meta Platforms Inc. and other tech giants now are borrowing heavily to build the technology that makes chatbots run.",
+    "title": "How Big Tech's AI Race Fueled a Borrowing Boom: Explainer"
    },
    "news.bloomberglaw.com/business-and-practice/humana-members-advance-privacy-suit-over-health-data-disclosures": {
     "baseline": false,
