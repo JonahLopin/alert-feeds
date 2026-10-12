@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 2801,
+  "credits_used": 2849,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-12T04:01:41Z",
+  "last_run": "2026-10-12T05:17:54Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 59
+  "runs": 60
  },
  "feeds": {
   "adp-help": {},
@@ -709,6 +709,15 @@
     "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
     "title": "Wake Up Call: Top Trade Official Reports Millions After Big ..."
    },
+   "news.bloomberglaw.com/business-and-practice/wall-street-bosses-look-past-pain-points-to-ramp-up-india-bets": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-12T05:17:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wall-street-bosses-look-past-pain-points-to-ramp-up-india-bets",
+    "page": 1,
+    "summary": "Across India's small towns and bustling cities, retail investors have been snapping up shares of newly listed companies.",
+    "title": "Wall Street Bosses Look Past Pain Points to Ramp Up ..."
+   },
    "news.bloomberglaw.com/business-and-practice/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews": {
     "baseline": true,
     "date_hint": "8 hours ago",
@@ -1279,6 +1288,15 @@
     "page": 4,
     "summary": "Searching pt deposit? Follow this quick guide \u2014 so everything reconciles cleanly. Get it done in minutes.",
     "title": "When to send your direct deposit payroll - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/performance-management/track-business-performance-kpi-scorecard/L8oNmrKrz_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-12T05:17:54Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/performance-management/track-business-performance-kpi-scorecard/L8oNmrKrz_US_en_US",
+    "page": 3,
+    "summary": "The KPI Scorecard is a customizable grid in QuickBooks Online and Intuit Enterprise Suite that helps you track your most important business metrics in one ...",
+    "title": "Track your business performance with KPI Scorecard"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/personal-profile/get-started-contract-builder-quickbooks-online/L0LenCa69_US_en_US": {
     "baseline": true,
@@ -2026,6 +2044,15 @@
     "link": "https://help.spoton.com/space/SK/4513038363",
     "summary": "SpotOn Express Dashboard gives you a centralized view of your restaurant's performance, helping you track sales, payments, labor, and payroll data in one place.",
     "title": "Reports | Dashboard | SpotOn Express"
+   },
+   "help.spoton.com/space/SK/5046665226": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-12T05:17:54Z",
+    "link": "https://help.spoton.com/space/SK/5046665226",
+    "page": 1,
+    "summary": "You can now manage your online ordering settings directly from the SpotOn Dashboard\u2014no. Easily access your ordering link, update branding, generate QR codes, ...",
+    "title": "Manage Your Online Ordering Settings in Dashboard (RPOS)"
    }
   },
   "square-help": {},
@@ -2226,6 +2253,15 @@
     "page": 2,
     "summary": "Hip arthroplasty can be 'appropriately considered' for nonagenarians, reports Journal of Bone & Joint Surgery.",
     "title": "Is hip replacement safe for people in their 90s? Risks ..."
+   },
+   "wolterskluwer.com/en/news/new-guidelines-address-treatment-of-anorectal-abscess-anal-fistula-and-rectovaginal-fistula": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-12T05:17:54Z",
+    "link": "https://www.wolterskluwer.com/en/news/new-guidelines-address-treatment-of-anorectal-abscess-anal-fistula-and-rectovaginal-fistula",
+    "page": 2,
+    "summary": "Anorectal Abscess \u2013 an anorectal abscess is a pus-filled pocket near the anal opening or deeper towards the rectum, caused by bacterial infection. In general, ...",
+    "title": "New guidelines address treatment of anorectal abscess ..."
    },
    "wolterskluwer.com/en/news/new-guidelines-seek-to-promote-family-centered-care-in-the-icu": {
     "baseline": false,
