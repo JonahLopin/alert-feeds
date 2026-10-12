@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 2657,
+  "credits_used": 2705,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-11T23:46:24Z",
+  "last_run": "2026-10-12T01:28:08Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 56
+  "runs": 57
  },
  "feeds": {
   "adp-help": {},
@@ -2181,6 +2181,15 @@
     "page": 2,
     "summary": "Hip arthroplasty can be 'appropriately considered' for nonagenarians, reports Journal of Bone & Joint Surgery.",
     "title": "Is hip replacement safe for people in their 90s? Risks ..."
+   },
+   "wolterskluwer.com/en/news/new-guidelines-seek-to-promote-family-centered-care-in-the-icu": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-12T01:28:08Z",
+    "link": "https://www.wolterskluwer.com/en/news/new-guidelines-seek-to-promote-family-centered-care-in-the-icu",
+    "page": 2,
+    "summary": "Critical illness is a stressful and traumatic experience that may have lasting effects on the health of patients and families.",
+    "title": "New Guidelines Seek to Promote Family-Centered Care in ..."
    },
    "wolterskluwer.com/en/news/new-medication-for-stress-urinary-incontinence-investigational-drug-shows-promise": {
     "baseline": true,
