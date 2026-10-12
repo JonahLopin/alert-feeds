@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 3144,
+  "credits_used": 3194,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-12T13:14:41Z",
+  "last_run": "2026-10-12T14:17:20Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 66
+  "runs": 67
  },
  "feeds": {
   "adp-help": {},
@@ -744,6 +744,15 @@
     "page": 2,
     "summary": "Weil, Gotshal & Manges is adding private equity partner Rebecca Ward to its London office after she spent more than four years at Freshfields.",
     "title": "Weil Adds London Private Equity Partner After String of Exits"
+   },
+   "news.bloomberglaw.com/business-and-practice/what-should-ai-guardrails-look-like-a-guide-to-the-proposals": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-12T14:17:20Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/what-should-ai-guardrails-look-like-a-guide-to-the-proposals",
+    "page": 1,
+    "summary": "AI developers have warned that their systems could soon become too sophisticated for people to control, adding to concerns the technology could be used by ...",
+    "title": "What Should AI Guardrails Look Like? A Guide to the ..."
    },
    "news.bloomberglaw.com/business-and-practice/whole-foods-ex-worker-lacks-evidence-for-bias-retaliation-case": {
     "baseline": false,
@@ -1547,6 +1556,15 @@
    }
   },
   "sap-financial-management-press": {
+   "news.sap.com/2026/10/sap-advances-finance-operations-embedded-payments-new-consolidation-capabilities-expanded-ai": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-12T14:17:20Z",
+    "link": "https://news.sap.com/2026/10/sap-advances-finance-operations-embedded-payments-new-consolidation-capabilities-expanded-ai/",
+    "page": 1,
+    "summary": "New innovations in payments, enterprise performance management, and AI automation help finance teams move quickly from insight to execution while ...",
+    "title": "SAP Advances Finance Operations with Embedded ..."
+   },
    "news.sap.com/2026/10/sap-successfactors-2h-2026-release": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1555,6 +1573,15 @@
     "page": 1,
     "summary": "SAP SuccessFactors 2H 2026 brings Autonomous HCM to life with Joule Assistants that automate, redesign, and reinvent work. Find out how.",
     "title": "SAP SuccessFactors 2H 2026 Release"
+   },
+   "news.sap.com/cz/2026/10/pardubicky-panasonic-presel-na-rizeni-vyroby-v-realnem-case-zamestnanci-ziskali-detailni-prehled-o-vykonu-linek?amp=1": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-12T14:17:20Z",
+    "link": "https://news.sap.com/cz/2026/10/pardubicky-panasonic-presel-na-rizeni-vyroby-v-realnem-case-zamestnanci-ziskali-detailni-prehled-o-vykonu-linek/?amp=1",
+    "page": 1,
+    "summary": "Pardubick\u00fd Panasonic p\u0159e\u0161el na \u0159\u00edzen\u00ed v\u00fdroby v re\u00e1ln\u00e9m \u010dase. Zam\u011bstnanci z\u00edskali detailn\u00ed p\u0159ehled o v\u00fdkonu linek. SAP News. 6 hodin ago.",
+    "title": "Pardubick\u00fd Panasonic p\u0159e\u0161el na \u0159\u00edzen\u00ed v\u00fdroby v re\u00e1ln\u00e9m ..."
    },
    "news.sap.com/denmark/2026/09/danmark-har-ikke-vundet-ai-guldet-vi-forveksler-chatbotter-med-strategi/making-trading-online-on-the-smart-phone-in-hand": {
     "baseline": false,
