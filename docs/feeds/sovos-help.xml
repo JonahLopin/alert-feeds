@@ -2,6 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com)</title>
-  <updated>2026-10-08T15:27:00Z</updated>
+  <updated>2026-10-12T13:52:26Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sovos-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:9599405704795579164</id>
+    <title>Verify a VAT number | Product Documentation Documentation - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/filing/vat-filing/manage-invoices/verify-a-vat-number" />
+    <published>2026-10-12T13:52:26Z</published>
+    <updated>2026-10-12T13:52:26Z</updated>
+    <summary>VIES facilitates the validation of VAT numbers for your business-to-business (B2B) transactions using an external engine. This engine verifies your ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:20161257932780912</id>
+    <title>Log in | Product Documentation Documentation - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/log-in" />
+    <published>2026-10-12T13:52:26Z</published>
+    <updated>2026-10-12T13:52:26Z</updated>
+    <summary>On the login screen, enter and confirm your password. Then click Continue. Enter your email address and password. Then click Log In.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12110201052865713678</id>
+    <title>December 16, 2025 | Product Documentation Documentation - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/e-invoicing/indirect-tax-api/indirect-tax-api-release-notes/2025" />
+    <published>2026-10-12T13:52:26Z</published>
+    <updated>2026-10-12T13:52:26Z</updated>
+    <summary>The following updates are scheduled to be released to the UAT environment on December 16, 2025, and to the production environment on December 16, ...</summary>
+  </entry>
 </feed>
