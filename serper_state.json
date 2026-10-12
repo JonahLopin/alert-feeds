@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 2945,
+  "credits_used": 2994,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-12T08:09:28Z",
+  "last_run": "2026-10-12T09:37:56Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 62
+  "runs": 63
  },
  "feeds": {
   "adp-help": {},
@@ -1564,6 +1564,15 @@
     "summary": "Udforsk alle omr\u00e5der af SAP. Uddannelse og support. Uddannelse og certificering \u00b7 Support \u00b7 Dokumentation \u00b7 Community.",
     "title": "F_304302_GettyImages-1331794262_medium_jpg"
    },
+   "news.sap.com/germany/2026/10/ki-autonomous-cx": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-12T09:37:56Z",
+    "link": "https://news.sap.com/germany/2026/10/ki-autonomous-cx/",
+    "page": 1,
+    "summary": "Die SAP Connect 2026 zeigt neue Entwicklungen zur Autonomous Customer Experience. Lernen Sie die KI-gest\u00fctzten L\u00f6sungen kennen.",
+    "title": "Autonomous Customer Experience: Die Zukunft der CX"
+   },
    "news.sap.com/germany/2026/10/sap-praesentiert-das-autonome-unternehmen-im-praxiseinsatz": {
     "baseline": true,
     "date_hint": "24 hours ago",
@@ -1960,6 +1969,15 @@
    }
   },
   "spoton-help": {
+   "help.spoton.com/space/SK/2168586247": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-12T09:37:56Z",
+    "link": "https://help.spoton.com/space/SK/2168586247",
+    "page": 1,
+    "summary": "Surcharges in SpotOn Restaurant are custom or service fees that can be added to an order for specific business needs, such as delivery fees, hospitality fees,",
+    "title": "Surcharge / SpotOn Restaurant Back of House (BOH)"
+   },
    "help.spoton.com/space/SK/2589261985": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -1986,6 +2004,15 @@
     "page": 1,
     "summary": "Step-by-Step Instructions \u00b7 Create a Menu Item \u00b7 View or Edit the Menu Item Within a Menu Item Group \u00b7 Configure Modifier Linkages \u00b7 Configure Sub-Item Linkages.",
     "title": "Menu Item Creation | SpotOn Restaurant BOH"
+   },
+   "help.spoton.com/space/SK/2658075467/Create+a+Modifier+SpotOn+Restaurant+BOH": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-12T09:37:56Z",
+    "link": "https://help.spoton.com/space/SK/2658075467/Create+a+Modifier+SpotOn+Restaurant+BOH",
+    "page": 1,
+    "summary": "Modifiers allow customers to customize menu items, such as adding toppings or choosing preparation preferences. This article explains how to create a modifier ...",
+    "title": "Create a Modifier | SpotOn Restaurant BOH"
    },
    "help.spoton.com/space/SK/2658076016": {
     "baseline": false,
@@ -2028,6 +2055,15 @@
     "page": 1,
     "summary": "Manager Permissions are available for SpotOn Express and are rolling out to SpotOn Restaurant. These permissions only apply to your Dashboard; they don't ...",
     "title": "Manager Permissions | SpotOn Dashboard"
+   },
+   "help.spoton.com/space/SK/4236312592/Create+a+Combined+Surcharge+%7CSpotOn+Restaurant+Back+of+House+(BOH)": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-12T09:37:56Z",
+    "link": "https://help.spoton.com/space/SK/4236312592/Create+a+Combined+Surcharge+%7CSpotOn+Restaurant+Back+of+House+(BOH)",
+    "page": 2,
+    "summary": "Use the Include in Sales and Apply Taxes checkboxes to configure if the combined surcharge will be included in the sale and how taxes are applied. Use the ...",
+    "title": "Create a Combined Surcharge |SpotOn Restaurant Back of ..."
    },
    "help.spoton.com/space/SK/4354441244": {
     "baseline": false,
