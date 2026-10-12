@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 3395,
+  "credits_used": 3446,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-12T18:12:50Z",
+  "last_run": "2026-10-12T19:16:36Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 71
+  "runs": 72
  },
  "feeds": {
   "adp-help": {},
@@ -148,6 +148,15 @@
     "page": 2,
     "summary": "The NER Pulse is an estimate of the week-over-week change in employment based on a four-week moving average. These estimates are based on ADP's finely tuned ...",
     "title": "ADP National Employment Report Preliminary Estimate for ..."
+   },
+   "mediacenter.adp.com/thinking-of-ai-as-a-teammate": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-12T19:16:36Z",
+    "link": "https://mediacenter.adp.com/thinking-of-ai-as-a-teammate",
+    "page": 1,
+    "summary": "ADP Chief Talent Officer Jay Caldwell believes AI tools are changing how we should view productivity at work. In his conversation with Patricia Stark, ...",
+    "title": "Thinking of AI like a teammate"
    }
   },
   "basware-press": {
@@ -891,6 +900,15 @@
     "page": 1,
     "summary": "SMS marketing (Short Message Service marketing) means sending promotional text messages to customers who have agreed to receive them.",
     "title": "SMS Marketing for Restaurants: Drive More Orders With ..."
+   },
+   "merchants.doordash.com/en-us/blog/saas-for-restaurants": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-12T19:16:36Z",
+    "link": "https://merchants.doordash.com/en-us/blog/saas-for-restaurants",
+    "page": 1,
+    "summary": "SaaS, or software as a service, is cloud-based software that runs on a subscription instead at the same time.",
+    "title": "SaaS for Restaurants: The Software & Tech Guide"
    },
    "merchants.doordash.com/en-us/blog/the-key-to-getting-more-restaurant-reviews": {
     "baseline": false,
