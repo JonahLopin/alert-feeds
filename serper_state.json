@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 3494,
+  "credits_used": 3545,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-12T20:34:25Z",
+  "last_run": "2026-10-12T21:47:00Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 73
+  "runs": 74
  },
  "feeds": {
   "adp-help": {},
@@ -2518,6 +2518,15 @@
     "link": "https://tax.thomsonreuters.com/blog/does-your-tax-software-recognize-new-w-2-box-codes-for-2027/",
     "summary": "The 2026 Form W-2 adds three new Box 12 codes (TP, TT, and TA) plus Box 14b occupation codes, creating data fields that did not exist on prior-year returns.",
     "title": "New W-2 box codes for 2027: Is your tax software updated?"
+   },
+   "tax.thomsonreuters.com/blog/section-301-exclusions-expiration": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-12T21:47:00Z",
+    "link": "https://tax.thomsonreuters.com/blog/section-301-exclusions-expiration/",
+    "page": 1,
+    "summary": "178 Section 301 exclusions expire November 10, 2026. See what else ends November 9, what the truce covers through January 2027, and how to prepare now.",
+    "title": "Section 301 exclusions expire November 2026"
    },
    "tax.thomsonreuters.com/blog/switching-tax-software-before-january-how-to-manage-an-expedited-migration-timeline": {
     "baseline": true,
