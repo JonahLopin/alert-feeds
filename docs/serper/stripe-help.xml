@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-11T03:05:00Z</updated>
+  <updated>2026-10-12T17:10:20Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/three-d-secure/authentication</id>
+    <title>3DS Authentications | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/three-d-secure/authentication" />
+    <published>2026-10-12T17:10:20Z</published>
+    <updated>2026-10-12T17:10:20Z</updated>
+    <summary>The Standalone 3DS API allows you to run EMV 3D Secure (3DS) authentication using Stripe while authorizing the payment with any PSP. Related guide: Standalone ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/service-principals</id>
     <title>Service principals</title>

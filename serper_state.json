@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 3294,
+  "credits_used": 3345,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-12T16:11:36Z",
+  "last_run": "2026-10-12T17:10:20Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 69
+  "runs": 70
  },
  "feeds": {
   "adp-help": {},
@@ -311,6 +311,15 @@
     "summary": "Walt Disney Co. has held talks with other studios about using its new brand for large-screen movie formats, often described as a competitor to Imax Corp.",
     "title": "Disney Pitches Paramount, Universal on Imax Big-Screen ..."
    },
+   "news.bloomberglaw.com/business-and-practice/dla-piper-hires-latham-trio-to-expand-new-private-credit-group": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-12T17:10:20Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/dla-piper-hires-latham-trio-to-expand-new-private-credit-group",
+    "page": 1,
+    "summary": "DLA Piper is hiring three senior lawyers from Latham & Watkins to join its growing capital solutions business as it continues an aggressive push into the ...",
+    "title": "DLA Piper Hires Latham Trio to Expand New Private Credit ..."
+   },
    "news.bloomberglaw.com/business-and-practice/doj-scrutinizing-binance-compliance-with-2023-settlement-accord": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -443,6 +452,15 @@
     "summary": "A global forum on transparency affiliated with the Organization for Economic Cooperation and Development released new information and cybersecurity guidance ...",
     "title": "Global Forum Releases Cybersecurity Guidance for Tax ..."
    },
+   "news.bloomberglaw.com/business-and-practice/goldmans-2-3-billion-deal-puts-tax-smart-etfs-under-scrutiny": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-12T17:10:20Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/goldmans-2-3-billion-deal-puts-tax-smart-etfs-under-scrutiny",
+    "page": 1,
+    "summary": "When Goldman Sachs Group Inc. buys boutique ETF provider Neos Investments, it'll acquire not only some of the hottest derivative-income funds around, ...",
+    "title": "Goldman's $2.3 Billion Deal Puts Tax-Smart ETFs Under ..."
+   },
    "news.bloomberglaw.com/business-and-practice/haynes-boone-adds-london-restructuring-partner-from-reed-smith": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -513,6 +531,15 @@
     "page": 2,
     "summary": "A US trade judge approved class-action status for a legal fight over refunds for President Donald Trump's global tariffs, siding with importers who contend ...",
     "title": "Judge Sides With Importers to Expand Trump Tariff Refund ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-12T17:10:20Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win",
+    "page": 1,
+    "summary": "Kalshi wants the full Sixth Circuit to review a three-judge panel's ruling that said Ohio and Tennessee can take regulatory action against it for offering ...",
+    "title": "Kalshi Seeks Full 6th Circuit Review of States' Regulation ..."
    },
    "news.bloomberglaw.com/business-and-practice/kirkland-hides-riches-as-big-law-clients-scrutinize-rising-costs": {
     "baseline": false,
@@ -2048,6 +2075,15 @@
     "summary": "Imgur is an image hosting and sharing community where users upload images, including memes andGIFs. It's popular with Reddit users, but brands and marketers ...",
     "title": "8 Best Image Hosting Sites and How To Choose One (2026)"
    },
+   "shopify.com/blog/marketing-strategies": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-12T17:10:20Z",
+    "link": "https://www.shopify.com/blog/marketing-strategies",
+    "page": 1,
+    "summary": "A marketing strategy is a necessary part of running a business, whether you're a scrappy startup or an established brand. It's what keeps your team focused ...",
+    "title": "Marketing Strategies: Types & How To Build One (2026)"
+   },
    "shopify.com/blog/neuro-from-reddit-to-retail": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -2343,6 +2379,15 @@
     "link": "https://docs.stripe.com/api/tax/location",
     "summary": "Tax locations represent venues for services, tickets, or other product types. Need help? Contact Support. Chat with Stripe developers on Discord.",
     "title": "Tax Locations | Stripe API Reference"
+   },
+   "docs.stripe.com/api/three-d-secure/authentication": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-12T17:10:20Z",
+    "link": "https://docs.stripe.com/api/three-d-secure/authentication",
+    "page": 1,
+    "summary": "The Standalone 3DS API allows you to run EMV 3D Secure (3DS) authentication using Stripe while authorizing the payment with any PSP. Related guide: Standalone ...",
+    "title": "3DS Authentications | Stripe API Reference"
    },
    "docs.stripe.com/data/write-queries": {
     "baseline": true,
