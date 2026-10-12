@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 3597,
+  "credits_used": 3648,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-12T22:47:36Z",
+  "last_run": "2026-10-12T23:47:31Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 75
+  "runs": 76
  },
  "feeds": {
   "adp-help": {},
@@ -1734,6 +1734,15 @@
     "link": "https://news.sap.com/cz/2026/10/pardubicky-panasonic-presel-na-rizeni-vyroby-v-realnem-case-zamestnanci-ziskali-detailni-prehled-o-vykonu-linek/?amp=1",
     "page": 1,
     "summary": "Pardubick\u00fd Panasonic p\u0159e\u0161el na \u0159\u00edzen\u00ed v\u00fdroby v re\u00e1ln\u00e9m \u010dase. Zam\u011bstnanci z\u00edskali detailn\u00ed p\u0159ehled o v\u00fdkonu linek. SAP News. 6 hodin ago.",
+    "title": "Pardubick\u00fd Panasonic p\u0159e\u0161el na \u0159\u00edzen\u00ed v\u00fdroby v re\u00e1ln\u00e9m ..."
+   },
+   "news.sap.com/cz?p=3508": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-10-12T23:47:31Z",
+    "link": "https://news.sap.com/cz/?p=3508",
+    "page": 1,
+    "summary": "Zaj\u00edm\u00e1 v\u00e1s digitalizace v\u00fdroby? P\u0159e\u010dt\u011bte si, jak Panasonic Automotive Systems inovuje svou v\u00fdrobu v re\u00e1ln\u00e9m \u010dase.",
     "title": "Pardubick\u00fd Panasonic p\u0159e\u0161el na \u0159\u00edzen\u00ed v\u00fdroby v re\u00e1ln\u00e9m ..."
    },
    "news.sap.com/denmark/2026/09/danmark-har-ikke-vundet-ai-guldet-vi-forveksler-chatbotter-med-strategi/making-trading-online-on-the-smart-phone-in-hand": {
