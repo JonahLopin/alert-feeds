@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 2994,
+  "credits_used": 3044,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-12T09:37:56Z",
+  "last_run": "2026-10-12T10:40:01Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 63
+  "runs": 64
  },
  "feeds": {
   "adp-help": {},
@@ -654,6 +654,15 @@
     "page": 1,
     "summary": "Tech Earnings Loom Large for Funds Packed Into Dispersion Trade Oct. 11, 2026, tech company earnings collide with a Federal Reserve meeting and US midterm ...",
     "title": "Tech Earnings Loom Large for Funds Packed Into ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/this-week-in-chancery-court-albertsons-kroger-nestle-freshly-13": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-12T10:40:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/this-week-in-chancery-court-albertsons-kroger-nestle-freshly-13",
+    "page": 1,
+    "summary": "Two food-related disputes are slated for upcoming trials in the Delaware Chancery Court: Albertsons' failed merger with Kroger, and Freshly's acquisition by ...",
+    "title": "This Week in Chancery Court: Albertsons, Kroger, Nestl\u00e9, ..."
    },
    "news.bloomberglaw.com/business-and-practice/trump-says-putin-to-supply-us-with-diesel-ahead-of-midterms-3": {
     "baseline": false,
@@ -1573,6 +1582,15 @@
     "summary": "Die SAP Connect 2026 zeigt neue Entwicklungen zur Autonomous Customer Experience. Lernen Sie die KI-gest\u00fctzten L\u00f6sungen kennen.",
     "title": "Autonomous Customer Experience: Die Zukunft der CX"
    },
+   "news.sap.com/germany/2026/10/ki-autonomous-cx?amp=1": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-12T10:40:01Z",
+    "link": "https://news.sap.com/germany/2026/10/ki-autonomous-cx/?amp=1",
+    "page": 1,
+    "summary": "Die SAP Connect 2026 zeigt neue Entwicklungen zur Autonomous Customer Experience. Lernen Sie die KI-gest\u00fctzten L\u00f6sungen kennen.",
+    "title": "Autonomous Customer Experience: Die Zukunft der CX"
+   },
    "news.sap.com/germany/2026/10/sap-praesentiert-das-autonome-unternehmen-im-praxiseinsatz": {
     "baseline": true,
     "date_hint": "24 hours ago",
@@ -1730,6 +1748,15 @@
   },
   "shift4-dine-blog": {},
   "shift4-dine-help": {
+   "shift4.zendesk.com/hc/en-us/articles/13576390947091-Void-an-Item-From-a-Ticket-on-SkyTab-POS": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-12T10:40:01Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/13576390947091-Void-an-Item-From-a-Ticket-on-SkyTab-POS",
+    "page": 1,
+    "summary": "Learn how to void an item from a ticket on Shift4 Dine. Select a reason for the void from the Void Item list, then press Void. Press Send and Continue (or Send ...",
+    "title": "Void an Item From a Ticket on Shift4 Dine"
+   },
    "shift4.zendesk.com/hc/en-us/articles/14382700830739-End-to-End-Billing-Matrix-Statement-Glossary": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -1866,6 +1893,15 @@
     "page": 2,
     "summary": "Learn how to design a shirt in nine easy steps, from concept to print-ready files, with a printing method comparison and print spec checklist.",
     "title": "How To Design a Shirt in 9 Steps (2026)"
+   },
+   "shopify.com/blog/image-hosting-sites": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-12T10:40:01Z",
+    "link": "https://www.shopify.com/blog/image-hosting-sites",
+    "page": 1,
+    "summary": "Imgur is an image hosting and sharing community where users upload images, including memes andGIFs. It's popular with Reddit users, but brands and marketers ...",
+    "title": "8 Best Image Hosting Sites and How To Choose One (2026)"
    },
    "shopify.com/blog/neuro-from-reddit-to-retail": {
     "baseline": true,
@@ -2098,6 +2134,15 @@
     "page": 1,
     "summary": "You can now manage your online ordering settings directly from the SpotOn Dashboard\u2014no. Easily access your ordering link, update branding, generate QR codes, ...",
     "title": "Manage Your Online Ordering Settings in Dashboard (RPOS)"
+   },
+   "help.spoton.com/space/SK/5254742018": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-12T10:40:01Z",
+    "link": "https://help.spoton.com/space/SK/5254742018",
+    "page": 1,
+    "summary": "Choice Modifiers, also known as Forced Modifiers, are used when a guest must make a selection before an item can be ordered.",
+    "title": "Choice Modifiers (Forced Modifiers) | SpotOn Restaurant"
    }
   },
   "square-help": {},
@@ -2299,6 +2344,15 @@
     "summary": "Hip arthroplasty can be 'appropriately considered' for nonagenarians, reports Journal of Bone & Joint Surgery.",
     "title": "Is hip replacement safe for people in their 90s? Risks ..."
    },
+   "wolterskluwer.com/en/news/lippincott-s-nursing-procedures-and-skills-expert-clinical-content": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-12T10:40:01Z",
+    "link": "https://www.wolterskluwer.com/en/news/lippincott-s-nursing-procedures-and-skills-expert-clinical-content",
+    "page": 2,
+    "summary": "About Wolters Kluwer. Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax ...",
+    "title": "Lippincott's Nursing Procedures and Skills' Expert Clinical ..."
+   },
    "wolterskluwer.com/en/news/new-guidelines-address-treatment-of-anorectal-abscess-anal-fistula-and-rectovaginal-fistula": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -2462,6 +2516,15 @@
     "page": 1,
     "summary": "Healthcare professionals see generative AI (GenAI) as key to solving sustainability problems, including the workforce crisis. But many organizations remain ...",
     "title": "Wolters Kluwer Future Ready Healthcare Survey Report"
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-hosts-legal-hackathon-2026-in-germany": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-12T10:40:01Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-hosts-legal-hackathon-2026-in-germany",
+    "page": 1,
+    "summary": "Huerth \u2013 October 2, 2026 \u2013 Three days, countless ideas and one shared goal: to actively shape the future of the legal market. Around 70 participants from the ...",
+    "title": "Wolters Kluwer hosts Legal Hackathon 2026 in Germany"
    },
    "wolterskluwer.com/en/news/wolters-kluwer-introduces-ovid-guidelines-ai-transforming-clinical-guideline-development-agentic-ai": {
     "baseline": false,
