@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 3044,
+  "credits_used": 3094,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-12T10:40:01Z",
+  "last_run": "2026-10-12T11:35:04Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 64
+  "runs": 65
  },
  "feeds": {
   "adp-help": {},
@@ -831,7 +831,17 @@
     "title": "DoorDash Earns AAM Incrementality Certification and ..."
    }
   },
-  "edicom-blog": {},
+  "edicom-blog": {
+   "edicomgroup.com/blog/bulgaria-electronic-invoice-saft-reporting": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-12T11:35:04Z",
+    "link": "https://edicomgroup.com/blog/bulgaria-electronic-invoice-saft-reporting",
+    "page": 1,
+    "summary": "The Bulgarian Ministry of Finance has published a draft bill to amend the VAT Act and introduce a national structured electronic invoicing and digital ...",
+    "title": "Bulgaria Makes Progress in Tax Digitization with SAF-T ..."
+   }
+  },
   "edicom-press": {},
   "grubhub-blog": {},
   "grubhub-help": {},

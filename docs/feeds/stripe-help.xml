@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-11T11:29:08Z</updated>
+  <updated>2026-10-12T11:36:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:17624767214187221706</id>
+    <title>Set up the NetSuite Customer Payment Page - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/use-stripe-apps/netsuite/customer-payment-page-setup" />
+    <published>2026-10-12T11:36:05Z</published>
+    <updated>2026-10-12T11:36:05Z</updated>
+    <summary>Locate and note the Stripe account ID for each account you want to connect. If you're setting up multiple subsidiaries, repeat the following steps ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:9248615612230296782</id>
     <title>List Adjustments | Stripe API Reference</title>
