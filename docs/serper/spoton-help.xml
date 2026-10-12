@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-10-12T15:13:36Z</updated>
+  <updated>2026-10-12T16:11:36Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2659287746</id>
+    <title>Create Quick Notes On Orders</title>
+    <link href="https://help.spoton.com/space/SK/2659287746" />
+    <published>2026-10-12T16:11:36Z</published>
+    <updated>2026-10-12T16:11:36Z</updated>
+    <summary>Tap the Quick Notes On Orders icon. Tap the New + to create a new Quick Notes On Orders. In the General Information section use the Text field to input the new ...</summary>
+  </entry>
+  <entry>
+    <id>https://help.spoton.com/space/SK/2658108330</id>
+    <title>Set Modifier Print Priority | SpotOn Restaurant BOH</title>
+    <link href="https://help.spoton.com/space/SK/2658108330" />
+    <published>2026-10-12T16:11:36Z</published>
+    <updated>2026-10-12T16:11:36Z</updated>
+    <summary>Issue: Modifiers are still printing alphabetically. Solution: Make sure the Print Priority field has been set for each modifier. Issue: The order is not what ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/2658075328</id>
     <title>Create Main Menu Screen</title>

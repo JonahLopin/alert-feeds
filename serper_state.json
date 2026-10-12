@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 3244,
+  "credits_used": 3294,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-12T15:13:36Z",
+  "last_run": "2026-10-12T16:11:36Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 68
+  "runs": 69
  },
  "feeds": {
   "adp-help": {},
@@ -557,6 +557,15 @@
     "page": 2,
     "summary": "Anthropic has stock, and people own it, and owning it gives you economic exposure to Anthropic stock. There are problems. Not just anyone can own Anthropic ...",
     "title": "Matt Levine - Pre-IPO Perpetual Futures Swap ETF"
+   },
+   "news.bloomberglaw.com/business-and-practice/mayer-brown-recruits-former-cftc-lawyer-abada-in-new-york": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-12T16:11:36Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/mayer-brown-recruits-former-cftc-lawyer-abada-in-new-york",
+    "page": 1,
+    "summary": "Danielle Abada joined Mayer Brown as a partner in its capital markets practice in New York, the firm announced Monday.",
+    "title": "Mayer Brown Recruits Former CFTC Lawyer Abada in New ..."
    },
    "news.bloomberglaw.com/business-and-practice/moderna-sheds-investor-lawsuit-over-rsv-vaccine-efficacy-figure": {
     "baseline": true,
@@ -1582,6 +1591,15 @@
    }
   },
   "ryan-press": {
+   "ryan.com/insights/press-room/ryan-2026-35th-anniversary-brand-refresh": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-12T16:11:36Z",
+    "link": "https://ryan.com/insights/press-room/ryan-2026-35th-anniversary-brand-refresh",
+    "page": 1,
+    "summary": "Ryan, an award-winning global tax services and software provider, is the largest Firm in the world dedicated exclusively to business taxes.",
+    "title": "Ryan Marks 35\u1d57\u02b0 Anniversary with Refreshed Brand and ..."
+   },
    "ryan.com/insights/press-room/ryan-austin-top-workplaces-11th-consecutive-year": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -2203,6 +2221,24 @@
     "page": 1,
     "summary": "A Modifier Group allows for similar or related Modifiers to be grouped together. For example, individual groups can be created for the burger topping options, ...",
     "title": "Create New Modifier Group | SpotOn Restaurant BOH"
+   },
+   "help.spoton.com/space/SK/2658108330": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-12T16:11:36Z",
+    "link": "https://help.spoton.com/space/SK/2658108330",
+    "page": 1,
+    "summary": "Issue: Modifiers are still printing alphabetically. Solution: Make sure the Print Priority field has been set for each modifier. Issue: The order is not what ...",
+    "title": "Set Modifier Print Priority | SpotOn Restaurant BOH"
+   },
+   "help.spoton.com/space/SK/2659287746": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-12T16:11:36Z",
+    "link": "https://help.spoton.com/space/SK/2659287746",
+    "page": 1,
+    "summary": "Tap the Quick Notes On Orders icon. Tap the New + to create a new Quick Notes On Orders. In the General Information section use the Text field to input the new ...",
+    "title": "Create Quick Notes On Orders"
    },
    "help.spoton.com/space/SK/2666660428": {
     "baseline": true,
