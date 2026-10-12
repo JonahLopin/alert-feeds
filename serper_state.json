@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 3094,
+  "credits_used": 3144,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-12T11:35:04Z",
+  "last_run": "2026-10-12T13:14:41Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 65
+  "runs": 66
  },
  "feeds": {
   "adp-help": {},
@@ -1547,6 +1547,15 @@
    }
   },
   "sap-financial-management-press": {
+   "news.sap.com/2026/10/sap-successfactors-2h-2026-release": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-12T13:14:41Z",
+    "link": "https://news.sap.com/2026/10/sap-successfactors-2h-2026-release/",
+    "page": 1,
+    "summary": "SAP SuccessFactors 2H 2026 brings Autonomous HCM to life with Joule Assistants that automate, redesign, and reinvent work. Find out how.",
+    "title": "SAP SuccessFactors 2H 2026 Release"
+   },
    "news.sap.com/denmark/2026/09/danmark-har-ikke-vundet-ai-guldet-vi-forveksler-chatbotter-med-strategi/making-trading-online-on-the-smart-phone-in-hand": {
     "baseline": false,
     "date_hint": "19 hours ago",
@@ -2015,6 +2024,15 @@
    }
   },
   "spoton-help": {
+   "help.spoton.com/space/SK/2054849260/Opening+%26+Closing+Procedures": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-12T13:14:41Z",
+    "link": "https://help.spoton.com/space/SK/2054849260/Opening+%26+Closing+Procedures",
+    "page": 1,
+    "summary": "Overview. This page provides a quick overview of the key contents and related child pages, making it easy to navigate to more detailed information.",
+    "title": "Opening & Closing Procedures | SpotOn Restaurant FOH"
+   },
    "help.spoton.com/space/SK/2168586247": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -2335,6 +2353,15 @@
     "link": "https://www.wolterskluwer.com/en/news/ftwilliamcom-new-form-update",
     "summary": "Wolters Kluwer has introduced powerful new functionality that allows businesses to electronically file Form 5330 with the Internal Revenue Service (IRS) ...",
     "title": "Wolters Kluwer's ftwilliam.com launches new Form 5330 e- ..."
+   },
+   "wolterskluwer.com/en/news/immersive-virtual-reality-training-from-wolters-kluwer-and-laerdal-medical": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-12T13:14:41Z",
+    "link": "https://www.wolterskluwer.com/en/news/immersive-virtual-reality-training-from-wolters-kluwer-and-laerdal-medical",
+    "page": 2,
+    "summary": "Using Virtual Reality, we are filling a gap in nursing education with immersive training that puts the student in a life-like clinical setting where they ...",
+    "title": "Immersive virtual reality training from Wolters Kluwer & ..."
    },
    "wolterskluwer.com/en/news/innovative-surgical-technique-creates-a-nose-for-patients-with-extremely-rare-genetic-syndrome": {
     "baseline": false,

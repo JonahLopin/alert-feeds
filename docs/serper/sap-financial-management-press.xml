@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-12T10:40:01Z</updated>
+  <updated>2026-10-12T13:14:41Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/2026/10/sap-successfactors-2h-2026-release/</id>
+    <title>SAP SuccessFactors 2H 2026 Release</title>
+    <link href="https://news.sap.com/2026/10/sap-successfactors-2h-2026-release/" />
+    <published>2026-10-12T13:14:41Z</published>
+    <updated>2026-10-12T13:14:41Z</updated>
+    <summary>SAP SuccessFactors 2H 2026 brings Autonomous HCM to life with Joule Assistants that automate, redesign, and reinvent work. Find out how.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/germany/2026/10/ki-autonomous-cx/?amp=1</id>
     <title>Autonomous Customer Experience: Die Zukunft der CX</title>
