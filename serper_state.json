@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 4255,
+  "credits_used": 4305,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-13T14:13:20Z",
+  "last_run": "2026-10-13T15:11:45Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 88
+  "runs": 89
  },
  "feeds": {
   "adp-help": {},
@@ -1135,6 +1135,15 @@
     "link": "https://about.doordash.com/en-us/news/doordash-earns-aam-incrementality-certification",
     "summary": "DoorDash Ads today announced it has earned incrementality certification from the Alliance for Audited Media (AAM), alongside new research with Circana and Ipsos ...",
     "title": "DoorDash Earns AAM Incrementality Certification and ..."
+   },
+   "about.doordash.com/en-us/news/national-pizza-month-2026": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T15:11:45Z",
+    "link": "https://about.doordash.com/en-us/news/national-pizza-month-2026",
+    "page": 1,
+    "summary": "From California to Connecticut, DoorDash spotlights some of the country's top-rated local pizzerias, plus the toppings and pizza styles Americans order most.",
+    "title": "Battle of the Slices 2026: DoorDash Names Top Local ..."
    }
   },
   "edicom-blog": {
@@ -2006,6 +2015,15 @@
     "summary": "HR Meat & More is een Belgisch voedingsbedrijf met hoofdzetel in Aalter, bekend van de winkelformules Buurtslagers en Bon'Ap.",
     "title": "Hoe Meat & More HR laat meegroeien met de organisatie"
    },
+   "news.sap.com/belgie/2026/10/hoe-meat-more-hr-laat-meegroeien-met-de-organisatie?amp=1": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-13T15:11:45Z",
+    "link": "https://news.sap.com/belgie/2026/10/hoe-meat-more-hr-laat-meegroeien-met-de-organisatie/?amp=1",
+    "page": 1,
+    "summary": "Meat & More is een Belgisch voedingsbedrijf met hoofdzetel in Aalter, bekend van de winkelformules Buurtslagers en Bon'Ap. Het bedrijf beheert verschillende ...",
+    "title": "Hoe Meat & More HR laat meegroeien met de organisatie"
+   },
    "news.sap.com/cz/2026/10/pardubicky-panasonic-presel-na-rizeni-vyroby-v-realnem-case-zamestnanci-ziskali-detailni-prehled-o-vykonu-linek": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -2193,6 +2211,15 @@
     "link": "https://news.sap.com/netherlands/",
     "summary": "Nieuws en informatie over SAP.",
     "title": "SAP Nederland Blogs & Nieuws"
+   },
+   "news.sap.com/netherlands/2026/10/hoe-ai-hcm-en-de-manier-waarop-we-werken-verandert/harriet-newlyn-en-andras-csik": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-10-13T15:11:45Z",
+    "link": "https://news.sap.com/netherlands/2026/10/hoe-ai-hcm-en-de-manier-waarop-we-werken-verandert/harriet-newlyn-en-andras-csik/",
+    "page": 2,
+    "summary": "Harriet Newlyn en Andr\u00e1s Cs\u00edk. SAP. Nederland 0800 020 0009. Voor technische support zijn we bereikbaar op 0800 0220683. Of bekijk onze complete lijst van ...",
+    "title": "Harriet Newlyn en Andr\u00e1s Cs\u00edk"
    },
    "news.sap.com/poland/2026/10/sap-z-nowym-dyrektorem-zarzadzajacym-na-europe-srodkowo-wschodnia-jest-nim-hermann-erlach/herman-erlach_header": {
     "baseline": false,
