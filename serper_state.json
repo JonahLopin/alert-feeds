@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 4053,
+  "credits_used": 4104,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-13T09:55:04Z",
+  "last_run": "2026-10-13T10:51:56Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 84
+  "runs": 85
  },
  "feeds": {
   "adp-help": {},
@@ -224,6 +224,15 @@
     "summary": "The US Court of Appeals for the Eleventh District vacated a lower court's judgment in a lawsuit brought by Bear Warriors United Inc. against the Florida ...",
     "title": "Appeals Court Vacates Manatee Harm Decision After Rule ..."
    },
+   "news.bloomberglaw.com/business-and-practice/asic-to-share-big-four-surveillance-findings-after-kpmg-scandal": {
+    "baseline": false,
+    "date_hint": "11 hours ago",
+    "first_seen": "2026-10-13T10:51:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/asic-to-share-big-four-surveillance-findings-after-kpmg-scandal",
+    "page": 2,
+    "summary": "Australia's corporate regulator will release part of its findings from surveillance of the Big Four audit and consulting firms before the end of the year ...",
+    "title": "ASIC to Share Big Four Surveillance Findings After KPMG ..."
+   },
    "news.bloomberglaw.com/business-and-practice/baker-mckenzie-hire-formalizes-congressional-investigations-work": {
     "baseline": true,
     "date_hint": "4 days ago",
@@ -311,6 +320,15 @@
     "page": 2,
     "summary": "Crypto hardware maker Ledger SAS said it's investigating reports that a number of users had seen a \u201closs of funds\u201d from their wallets, knocking the industry ...",
     "title": "Crypto Hardware Wallets Hit in Estimated $70 Million Attack"
+   },
+   "news.bloomberglaw.com/business-and-practice/crypto-wallet-tampering-fallout-widens-as-onekey-drops-reseller": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-13T10:51:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/crypto-wallet-tampering-fallout-widens-as-onekey-drops-reseller",
+    "page": 1,
+    "summary": "Crypto hardware maker OneKey has revoked CryptoBilis's authorization as a reseller of its products, widening the fallout from the discovery that some Ledger ...",
+    "title": "Crypto Wallet Tampering Fallout Widens as OneKey Drops ..."
    },
    "news.bloomberglaw.com/business-and-practice/data-center-operator-airtrunk-is-said-to-delay-1-5-billion-ipo": {
     "baseline": false,
@@ -471,6 +489,15 @@
     "summary": "A Florida trial judge has been suspended for 30 days and fined $10000 for campaign messaging relying on a phony AI-generated \u201cphone call\u201d that faked a ...",
     "title": "Florida Judge Suspended Over Deepfake Call Mimicking ..."
    },
+   "news.bloomberglaw.com/business-and-practice/from-cfo-bots-to-analyst-prep-ai-aids-earnings-call-readiness": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T10:51:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/from-cfo-bots-to-analyst-prep-ai-aids-earnings-call-readiness",
+    "page": 2,
+    "summary": "As the chief financial officer of a public company, Ryan Schaffer was used to working and reworking his remarks ahead of earnings calls.",
+    "title": "From CFO Bots to Analyst Prep, AI Aids Earnings Call ..."
+   },
    "news.bloomberglaw.com/business-and-practice/global-forum-releases-cybersecurity-guidance-for-tax-authorities": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -487,6 +514,15 @@
     "page": 1,
     "summary": "When Goldman Sachs Group Inc. buys boutique ETF provider Neos Investments, it'll acquire not only some of the hottest derivative-income funds around, ...",
     "title": "Goldman's $2.3 Billion Deal Puts Tax-Smart ETFs Under ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/hawaii-judge-weighs-fate-of-trumps-la-prosecutor-in-removal-bid": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T10:51:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/hawaii-judge-weighs-fate-of-trumps-la-prosecutor-in-removal-bid",
+    "page": 2,
+    "summary": "A federal judge who took on Hawaii's most powerful will hear arguments Tuesday on whether a Trump loyalist can continue to lead the Los Angeles US ...",
+    "title": "Hawaii Judge Weighs Fate of Trump's LA Prosecutor in ..."
    },
    "news.bloomberglaw.com/business-and-practice/haynes-boone-adds-london-restructuring-partner-from-reed-smith": {
     "baseline": false,
@@ -630,6 +666,15 @@
     "summary": "Anthropic has stock, and people own it, and owning it gives you economic exposure to Anthropic stock. There are problems. Not just anyone can own Anthropic ...",
     "title": "Matt Levine - Pre-IPO Perpetual Futures Swap ETF"
    },
+   "news.bloomberglaw.com/business-and-practice/mayer-brown-hiring-blitz-reunites-unc-cheating-report-authors": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T10:51:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/mayer-brown-hiring-blitz-reunites-unc-cheating-report-authors",
+    "page": 1,
+    "summary": "Mayer Brown's bid to beef up its white collar defense work has brought together the investigators who shed light on academic fraud at the University of North ...",
+    "title": "Mayer Brown Hiring Blitz Reunites UNC Cheating Report ..."
+   },
    "news.bloomberglaw.com/business-and-practice/mayer-brown-recruits-former-cftc-lawyer-abada-in-new-york": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -675,6 +720,15 @@
     "summary": "New York Attorney General Letitia James' probe of an alleged rape at Cornell University came under fire during a debate with her Republican opponent, ...",
     "title": "New York AG Biased in Cornell Rape Case, GOP ..."
    },
+   "news.bloomberglaw.com/business-and-practice/njs-former-top-prosecutor-takes-big-swings-at-ai-behemoths": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T10:51:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/njs-former-top-prosecutor-takes-big-swings-at-ai-behemoths",
+    "page": 1,
+    "summary": "Former New Jersey Attorney General Matthew Platkin is picking fights with some of AI's biggest players. Platkin LLP has sued OpenAI and Microsoft three ...",
+    "title": "NJ's Former Top Prosecutor Takes Big Swings at AI ..."
+   },
    "news.bloomberglaw.com/business-and-practice/nvidia-backed-lumentum-sold-out-of-ai-server-parts-till-2029-1": {
     "baseline": false,
     "date_hint": "24 hours ago",
@@ -701,6 +755,15 @@
     "page": 2,
     "summary": "The Trump administration's plans to livestream the first public execution in nearly a century lacks legal precedent and invokes an approach most commonly ...",
     "title": "Pentagon Plans for Public Execution Questioned by Legal ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/permitting-messaging-battle-goes-full-throttle-ahead-of-midterms": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T10:51:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/permitting-messaging-battle-goes-full-throttle-ahead-of-midterms",
+    "page": 1,
+    "summary": "The intense reaction from the energy and environment community to the bipartisan Senate proposal to overhaul permitting foreshadows a fierce legislative battle",
+    "title": "Permitting Messaging Battle Goes Full Throttle Ahead of ..."
    },
    "news.bloomberglaw.com/business-and-practice/plan-to-broadcast-fort-hood-killers-execution-spurs-criticism": {
     "baseline": false,
@@ -747,6 +810,15 @@
     "summary": "Chief Executive Officer Nik Storonsky said he wants the digital bank to hold a primary listing in the US, if it chooses to pursue a public offering in the ...",
     "title": "Revolut CEO Storonsky Says He's Targeting US Primary ..."
    },
+   "news.bloomberglaw.com/business-and-practice/sec-proposal-to-ax-pay-to-play-rule-leaves-many-risks-untouched": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T10:51:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/sec-proposal-to-ax-pay-to-play-rule-leaves-many-risks-untouched",
+    "page": 3,
+    "summary": "The Securities and Exchange Commission wants to get out of the business of policing political donations from investment advisers.",
+    "title": "SEC Proposal to Ax Pay-to-Play Rule Leaves Many Risks ..."
+   },
    "news.bloomberglaw.com/business-and-practice/starbucks-unlawfully-limited-facial-piercings-nlrb-judge-finds": {
     "baseline": true,
     "date_hint": "17 hours ago",
@@ -789,6 +861,15 @@
     "page": 1,
     "summary": "Two food-related disputes are slated for upcoming trials in the Delaware Chancery Court: Albertsons' failed merger with Kroger, and Freshly's acquisition by ...",
     "title": "This Week in Chancery Court: Albertsons, Kroger, Nestl\u00e9, ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trump-immigration-judges-are-more-likely-to-reject-asylum-claims": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T10:51:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-immigration-judges-are-more-likely-to-reject-asylum-claims",
+    "page": 1,
+    "summary": "Immigration judges installed on a permanent basis since Trump returned to office have denied 49% of asylum applications that went before them from October 2025",
+    "title": "Trump Immigration Judges Are More Likely to Reject ..."
    },
    "news.bloomberglaw.com/business-and-practice/trump-says-putin-to-supply-us-with-diesel-ahead-of-midterms-3": {
     "baseline": false,
@@ -1934,6 +2015,15 @@
     "summary": "Autonomous HCM ist die Zukunft des Human Capital Management. Dabei sorgt KI f\u00fcr eine Automatisierung durchg\u00e4ngiger Prozesse, erm\u00f6glicht kontextbezogene ...",
     "title": "Autonomous HCM: Die Zukunft der Personalabteilungen"
    },
+   "news.sap.com/germany/2026/10/unternehmen-zu-autonomous-hcm?amp=1": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-13T10:51:56Z",
+    "link": "https://news.sap.com/germany/2026/10/unternehmen-zu-autonomous-hcm/?amp=1",
+    "page": 1,
+    "summary": "Autonomous HCM ist die Zukunft des Human Capital Management. Dabei sorgt KI f\u00fcr eine Automatisierung durchg\u00e4ngiger Prozesse, erm\u00f6glicht kontextbezogene ...",
+    "title": "Autonomous HCM: Die Zukunft der Personalabteilungen"
+   },
    "news.sap.com/italy/2026/10/sap-annuncia-lacquisizione-di-techwolf-per-offrire-alle-aziende-una-visione-del-lavoro-basata-su-evidenze-nellera-dellai/futuristic-glossy-striped-waves-lines-gradient-dark-blue-lilac-purple-metallic-technology-innovation-background-3d-abstract-pattern-design-element-geometric-composition": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -2884,6 +2974,15 @@
     "page": 2,
     "summary": "While users can already access LEX content and conduct legal research within Libra, they can now also benefit from Libra AI capabilities directly inside LEX.",
     "title": "Wolters Kluwer expands LEX and Libra AI integration in ..."
+   },
+   "wolterskluwer.com/en/news/lipofilling-procedure-improves-pain-and-function-in-finger-osteoarthritis": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-13T10:51:56Z",
+    "link": "https://www.wolterskluwer.com/en/news/lipofilling-procedure-improves-pain-and-function-in-finger-osteoarthritis",
+    "page": 2,
+    "summary": "For patients with painful finger osteoarthritis, a procedure called lipofilling produces lasting improvements.",
+    "title": "Lipofilling procedure improves pain and function in finger ..."
    },
    "wolterskluwer.com/en/news/lippincott-s-nursing-procedures-and-skills-expert-clinical-content": {
     "baseline": false,
