@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 3903,
+  "credits_used": 3953,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-13T06:21:16Z",
+  "last_run": "2026-10-13T07:46:46Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 81
+  "runs": 82
  },
  "feeds": {
   "adp-help": {},
@@ -167,6 +167,15 @@
     "link": "https://news.basware.com/en/basware-completes-acquisition-of-trustpair",
     "summary": "Basware, the global leader in Invoice Lifecycle Management (ILM), today announced the completion of its acquisition of Trustpair, a leading payment fraud ...",
     "title": "Basware Completes Acquisition of Trustpair, Strengthening ..."
+   },
+   "news.basware.com/en/basware-signs-agreement-to-acquire-trustpair?hs_preview=kygmoozh-219794655754": {
+    "baseline": false,
+    "date_hint": "",
+    "first_seen": "2026-10-13T07:46:46Z",
+    "link": "https://news.basware.com/en/basware-signs-agreement-to-acquire-trustpair?hs_preview=kygmoozh-219794655754",
+    "page": 1,
+    "summary": "No information is available for this page.",
+    "title": "https://news.basware.com/en/basware-signs-agreemen..."
    }
   },
   "bloomberg-law-press": {
@@ -790,6 +799,15 @@
     "summary": "The county of Arlington, Va., has sued the Trump administration over its proposed \u201cTriumphal Arch.\u201d The 250-foot arch that would be located on the District ...",
     "title": "Trump's Proposed 'Triumphal Arch' Draws Suit by Virginia ..."
    },
+   "news.bloomberglaw.com/business-and-practice/uk-trading-platform-plus500-buys-hedge-to-help-us-expansion": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-13T07:46:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/uk-trading-platform-plus500-buys-hedge-to-help-us-expansion",
+    "page": 1,
+    "summary": "Plus500 Ltd. agreed to buy retail trading platform Hedge Capital Markets as it looks to expand into the US.",
+    "title": "UK Trading Platform Plus500 Buys Hedge to Help US ..."
+   },
    "news.bloomberglaw.com/business-and-practice/us-sanctions-icc-after-former-judge-gets-nobel-peace-prize-1": {
     "baseline": false,
     "date_hint": "9 hours ago",
@@ -993,6 +1011,15 @@
   },
   "igen-blog": {},
   "intuit-quickbooks-help": {
+   "quickbooks.intuit.com/learn-support/en-us/help-article/access-permissions/add-manage-custom-roles-quickbooks-online-advanced/L8Ugph7xl_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-13T07:46:46Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/access-permissions/add-manage-custom-roles-quickbooks-online-advanced/L8Ugph7xl_US_en_US",
+    "page": 3,
+    "summary": "Here's how to add and manage custom roles in QuickBooks Online \u2014 the right way, the first time. A quick, simple walkthrough.",
+    "title": "Add and manage custom roles in QuickBooks Online ... - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/access-permissions/user-roles-access-rights-quickbooks-online/L66POfRrI_US_en_US": {
     "baseline": true,
     "date_hint": "4 hours ago",
@@ -1055,6 +1082,15 @@
     "page": 2,
     "summary": "How to add a foreign currency account, explained clearly \u2014 minus the accounting jargon. The short, useful version.",
     "title": "How to add a foreign currency account - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/learn-new-intuit-accountant-suite-client-list/L9WyuPE6J_US_en_US": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-13T07:46:46Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/learn-new-intuit-accountant-suite-client-list/L9WyuPE6J_US_en_US",
+    "page": 3,
+    "summary": "Learn how to manage clients from the new client list in Intuit Accountant Suite. Get a fast, responsive view with useful sorting and filtering, ...",
+    "title": "Manage your clients with the new client list - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/ai-agents/pre-file-check-works/L1dN5PLUo_US_en_US": {
     "baseline": true,
@@ -1125,6 +1161,15 @@
     "page": 2,
     "summary": "Learn how to create, customize, preview, and send professional proposals to your customers directly from QuickBooks Online. Use the proposal builder to create a ...",
     "title": "Create and send proposals - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/communications/manage-communications-quickbooks-online-intuit-accountant-suite-ias-inbox/L8ZdrNJuN_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-13T07:46:46Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/communications/manage-communications-quickbooks-online-intuit-accountant-suite-ias-inbox/L8ZdrNJuN_US_en_US",
+    "page": 3,
+    "summary": "Your Inbox is your unified workspace inside QuickBooks Online and Intuit Accountant Suite (IAS). Use it to message your team, your clients, and your accountant.",
+    "title": "Manage communications in your QuickBooks Online and Intuit ..."
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/compare-products/get-done-quickbooks-mobile-app-web/L9YN5gwQw_US_en_US": {
     "baseline": true,
@@ -1232,6 +1277,15 @@
     "summary": "Searching third party sick pay taxable? Follow this quick guide \u2014 the right way, the first time. Easier than you'd expect.",
     "title": "Report third-party sick pay in QuickBooks Online Payroll and ..."
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-account-management/evolution-quickbooks-online-accountant-updating-intuit-accountant-suite/L6jm9Au47_US_en_US": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-13T07:46:46Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/intuit-account-management/evolution-quickbooks-online-accountant-updating-intuit-accountant-suite/L6jm9Au47_US_en_US",
+    "page": 3,
+    "summary": "Your guide to the Evolution of QuickBooks Online Accountant: Updating to Intuit Accountant Suite \u2014 the right way, the first time. Easier than you'd expect.",
+    "title": "Update from QuickBooks Online Accountant to Intuit ..."
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-ai/ask-intuit-intelligence-help-common-tasks/L0ZIVPyns_US_en_US": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -1258,6 +1312,15 @@
     "page": 2,
     "summary": "Learn how to automatically or manually send reminders to customers when your invoices are, or soon to be, overdue. There's an easy way to gently remind ...",
     "title": "Send invoice reminders automatically or manually in ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/journal-posting/switch-quickbooks-workforce-adp-gusto/L8djZk1E4_US_en_US": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-13T07:46:46Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/journal-posting/switch-quickbooks-workforce-adp-gusto/L8djZk1E4_US_en_US",
+    "page": 3,
+    "summary": "You can import payroll information from ADP or Gusto at this time. If you use another provider or have a spreadsheet, you can use guided spreadsheet import.",
+    "title": "Switch to QuickBooks Workforce from ADP or Gusto - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/manage-client/e-file-tax-returns-clients/L7KiE5BlY_US_en_US": {
     "baseline": true,
@@ -1338,6 +1401,15 @@
     "page": 1,
     "summary": "With Multicurrency, you can track sales and purchases in different currencies. You can assign foreign currencies to customers, vendors, price levels, and ...",
     "title": "Set up and use Multicurrency - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/offboarding/set-single-sign-organization/L4IlUaXB5_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-13T07:46:46Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/offboarding/set-single-sign-organization/L4IlUaXB5_US_en_US",
+    "page": 3,
+    "summary": "Single sign-on (SSO) lets your team sign in to Intuit Accountant Suite, QuickBooks Online Accountant, and Intuit Enterprise Suite using your organization's ...",
+    "title": "Set up single sign-on for your organization - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/pay-bills/pay-bills-across-companies-intuit-enterprise-suite/L5ewQGkkJ_US_en_US": {
     "baseline": true,
@@ -2156,6 +2228,15 @@
     "summary": "Get active on online forums. Connect with global entrepreneurs through Slack communities, Facebook groups, and Reddit's /r/entrepreneur forum. Read more. 6 ...",
     "title": "How To Develop an Entrepreneurial Mindset (2026)"
    },
+   "shopify.com/blog/free-domain-name": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-13T07:46:46Z",
+    "link": "https://www.shopify.com/blog/free-domain-name",
+    "page": 1,
+    "summary": "No top-level domain is permanently free. Here's how to get a domain name for free, what each really costs, and which fits a store.",
+    "title": "How To Get a Domain Name for Free (2026)"
+   },
    "shopify.com/blog/gross-merchandise-value": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -2722,6 +2803,15 @@
     "link": "https://www.wolterskluwer.com/en/news/ftwilliamcom-new-form-update",
     "summary": "Wolters Kluwer has introduced powerful new functionality that allows businesses to electronically file Form 5330 with the Internal Revenue Service (IRS) ...",
     "title": "Wolters Kluwer's ftwilliam.com launches new Form 5330 e- ..."
+   },
+   "wolterskluwer.com/en/news/healthcare-technology-ceo": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-13T07:46:46Z",
+    "link": "https://www.wolterskluwer.com/en/news/healthcare-technology-ceo",
+    "page": 1,
+    "summary": "Stacey Caywood, Chief Executive Officer for the Health division of Wolters Kluwer, was recognized with a Bronze Stevie Award in the category of Female ...",
+    "title": "Healthcare technology CEO Stacey Caywood earns 2021 ..."
    },
    "wolterskluwer.com/en/news/immersive-virtual-reality-training-from-wolters-kluwer-and-laerdal-medical": {
     "baseline": false,
