@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 4204,
+  "credits_used": 4255,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-13T12:49:34Z",
+  "last_run": "2026-10-13T14:13:20Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 87
+  "runs": 88
  },
  "feeds": {
   "adp-help": {},
@@ -631,6 +631,15 @@
     "summary": "Perfectionism is often quietly recognized as an asset, and even when legal organizations know better, it's often treated as a \u201cwellness issue.",
     "title": "Law Firms Must Quash Perfectionism, Not Treat Its Toxic ..."
    },
+   "news.bloomberglaw.com/business-and-practice/legal-ops-tech-jockeying-for-cred": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T14:13:20Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/legal-ops-tech-jockeying-for-cred",
+    "page": 1,
+    "summary": "Updates on legal ops & tech news for in-house counsel and law firms.",
+    "title": "Legal Ops & Tech: Jockeying for Cred"
+   },
    "news.bloomberglaw.com/business-and-practice/lockheed-unveils-new-patriot-for-us-army-air-defense-contest": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -960,6 +969,15 @@
     "page": 2,
     "summary": "OpenAI illicitly accessed the copyrighted material to train consumer products like ChatGPT, and company internal communications from the tech company confirm ...",
     "title": "USA Today, News Outlets Join OpenAI Copyright ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-foley-hoag-to-defend-gov-moore-in-defamation-case": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-13T14:13:20Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-foley-hoag-to-defend-gov-moore-in-defamation-case",
+    "page": 2,
+    "summary": "Wake Up Call: Foley Hoag to Defend Gov. Moore in Defamation Case \u00b7 The Maryland Board of Public Works approved a $50,000 contract to hire Foley Hoag to defend ...",
+    "title": "Foley Hoag to Defend Gov. Moore in Defamation Case"
    },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-top-trade-official-reports-millions-after-big-law": {
     "baseline": false,
@@ -1907,6 +1925,15 @@
    }
   },
   "sap-financial-management-press": {
+   "news.sap.com/2026/10/industry-ai-deep-industry-knowledge-fde-measurable-value": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T14:13:20Z",
+    "link": "https://news.sap.com/2026/10/industry-ai-deep-industry-knowledge-fde-measurable-value/",
+    "page": 1,
+    "summary": "We solve high-stakes challenges that have no off-the-shelf answers, then turn those proven solutions into scalable software capabilities for entire industries.",
+    "title": "Industry AI: Deep Industry Knowledge, Forward-Deployed ..."
+   },
    "news.sap.com/2026/10/next-chapter-spend-management-ai-innovations-sap-ariba-sap-fieldglass-sap-concur": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -1951,6 +1978,33 @@
     "page": 1,
     "summary": "Organisations need to combine intelligence with business context to make their operations predictive rather than reactive, according to SAP.",
     "title": "SAP says Enterprise Context is Key to Predictive AI ..."
+   },
+   "news.sap.com/belgie/2026/10/hoe-de-rtbf-haar-medewerkers-en-medewerksters-helpt-om-nieuwe-carrieremogelijkheden-te-ontdekken": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T14:13:20Z",
+    "link": "https://news.sap.com/belgie/2026/10/hoe-de-rtbf-haar-medewerkers-en-medewerksters-helpt-om-nieuwe-carrieremogelijkheden-te-ontdekken/",
+    "page": 1,
+    "summary": "Een cameraman die in een studio van de RTBF werkt, heeft misschien vaardigheden die ook bij een heel andere functie passen, zonder dat hij dat per se weet.",
+    "title": "Hoe de RTBF haar medewerkers en medewerksters helpt ..."
+   },
+   "news.sap.com/belgie/2026/10/hoe-de-rtbf-haar-medewerkers-en-medewerksters-helpt-om-nieuwe-carrieremogelijkheden-te-ontdekken?amp=1": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-13T14:13:20Z",
+    "link": "https://news.sap.com/belgie/2026/10/hoe-de-rtbf-haar-medewerkers-en-medewerksters-helpt-om-nieuwe-carrieremogelijkheden-te-ontdekken/?amp=1",
+    "page": 1,
+    "summary": "Een cameraman die in een studio van de RTBF werkt, heeft misschien vaardigheden die ook bij een heel andere functie passen, zonder dat hij dat per se weet.",
+    "title": "Hoe de RTBF haar medewerkers en medewerksters helpt ..."
+   },
+   "news.sap.com/belgie/2026/10/hoe-meat-more-hr-laat-meegroeien-met-de-organisatie": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T14:13:20Z",
+    "link": "https://news.sap.com/belgie/2026/10/hoe-meat-more-hr-laat-meegroeien-met-de-organisatie/",
+    "page": 1,
+    "summary": "HR Meat & More is een Belgisch voedingsbedrijf met hoofdzetel in Aalter, bekend van de winkelformules Buurtslagers en Bon'Ap.",
+    "title": "Hoe Meat & More HR laat meegroeien met de organisatie"
    },
    "news.sap.com/cz/2026/10/pardubicky-panasonic-presel-na-rizeni-vyroby-v-realnem-case-zamestnanci-ziskali-detailni-prehled-o-vykonu-linek": {
     "baseline": false,
