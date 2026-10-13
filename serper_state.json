@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 4569,
+  "credits_used": 4624,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-13T20:32:43Z",
+  "last_run": "2026-10-13T21:44:26Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 94
+  "runs": 95
  },
  "feeds": {
   "adp-help": {},
@@ -837,6 +837,15 @@
     "summary": "New York Attorney General Letitia James' probe of an alleged rape at Cornell University came under fire during a debate with her Republican opponent, ...",
     "title": "New York AG Biased in Cornell Rape Case, GOP ..."
    },
+   "news.bloomberglaw.com/business-and-practice/ninth-circuit-weighs-trumps-effort-to-lift-wolf-protections": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-13T21:44:26Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ninth-circuit-weighs-trumps-effort-to-lift-wolf-protections",
+    "page": 1,
+    "summary": "Two of the cases focus on whether the US Fish and Wildlife Service was correct in determining that gray wolves have recovered and no longer merit ESA ...",
+    "title": "Ninth Circuit Weighs Trump's Effort to Lift Wolf Protections"
+   },
    "news.bloomberglaw.com/business-and-practice/njs-former-top-prosecutor-takes-big-swings-at-ai-behemoths": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1042,6 +1051,15 @@
     "summary": "Two food-related disputes are slated for upcoming trials in the Delaware Chancery Court: Albertsons' failed merger with Kroger, and Freshly's acquisition by ...",
     "title": "This Week in Chancery Court: Albertsons, Kroger, Nestl\u00e9, ..."
    },
+   "news.bloomberglaw.com/business-and-practice/troutman-pepper-locke-lands-two-health-care-litigation-partners": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-13T21:44:26Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/troutman-pepper-locke-lands-two-health-care-litigation-partners",
+    "page": 1,
+    "summary": "His practice spans the full litigation lifecycle, from pleadings and discovery through depositions, expert challenges, summary judgment, and trial preparation.",
+    "title": "Troutman Pepper Locke Lands Two Health Care Litigation ..."
+   },
    "news.bloomberglaw.com/business-and-practice/trump-faces-growing-gop-revolt-over-his-russian-diesel-deal": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -1203,6 +1221,15 @@
     "page": 1,
     "summary": "Kruti Trivedi joined Willkie as a partner in its litigation department in Chicago, the firm announced Monday.",
     "title": "Willkie Adds JPMorgan Lawyer Trivedi for Litigation in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/willkie-taps-westinghouse-nuclear-lawyer-kuyler-in-washington": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T21:44:26Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/willkie-taps-westinghouse-nuclear-lawyer-kuyler-in-washington",
+    "page": 1,
+    "summary": "Raphael Kuyler joined Willkie as a partner in its power and renewable energy practice in Washington, D.C., the firm announced Tuesday.",
+    "title": "Willkie Taps Westinghouse Nuclear Lawyer Kuyler in ..."
    }
   },
   "chowbus-blog": {
@@ -2250,6 +2277,15 @@
     "summary": "Meat & More is een Belgisch voedingsbedrijf met hoofdzetel in Aalter, bekend van de winkelformules Buurtslagers en Bon'Ap. Het bedrijf beheert verschillende ...",
     "title": "Hoe Meat & More HR laat meegroeien met de organisatie"
    },
+   "news.sap.com/belgie/2026/10/sap-laat-zien-hoe-ai-de-autonomous-enterprise-mogelijk-maakt/a-handsome-young-man-standing-at-night-in-the-street-illuminated-signboards-neon-lights": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-13T21:44:26Z",
+    "link": "https://news.sap.com/belgie/2026/10/sap-laat-zien-hoe-ai-de-autonomous-enterprise-mogelijk-maakt/a-handsome-young-man-standing-at-night-in-the-street-illuminated-signboards-neon-lights/",
+    "page": 3,
+    "summary": "A handsome young man standing at night in the street. Illuminated signboards, neon, lights. SAP. Belgium (0)800 50 550. Of bekijk onze complete lijst van ...",
+    "title": "A handsome young man standing at night in the street. ..."
+   },
    "news.sap.com/brazil/2026/10/bemol-acelera-acesso-a-dados-em-tempo-real-e-fortalece-estrategia-de-ia-com-sap-business-data-cloud": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -2777,6 +2813,15 @@
     "link": "https://www.shopify.com/blog/entrepreneurial-mindset",
     "summary": "Get active on online forums. Connect with global entrepreneurs through Slack communities, Facebook groups, and Reddit's /r/entrepreneur forum. Read more. 6 ...",
     "title": "How To Develop an Entrepreneurial Mindset (2026)"
+   },
+   "shopify.com/blog/escapod-high-tech-camper-revolution": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-13T21:44:26Z",
+    "link": "https://www.shopify.com/blog/escapod-high-tech-camper-revolution",
+    "page": 1,
+    "summary": "Chris Hudak built Escapod into a multimillion-dollar camper brand by skipping dealerships, vertically integrating manufacturing, and leveraging AI tools.",
+    "title": "Inside Escapod's High-Tech Camper Revolution (2026)"
    },
    "shopify.com/blog/free-domain-name": {
     "baseline": false,
