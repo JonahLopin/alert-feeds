@@ -569,6 +569,12 @@
    "summary": "Stripe payment handlers for UCP. UCP payment handlers define how payment instruments are acquired, exchanged, and processed between all participants ...",
    "title": "Universal Commerce Protocol - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:12340493028664966113": {
+   "first_seen": "2026-10-13T11:11:14Z",
+   "link": "https://docs.stripe.com/api/three-d-secure/authentication",
+   "summary": "The Standalone 3DS API allows you to run EMV 3D Secure (3DS) authentication using Stripe while authorizing the payment with any PSP. Related guide: ...",
+   "title": "3DS Authentications | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:15183435629383904580": {
    "first_seen": "2026-10-10T10:10:42Z",
    "link": "https://docs.stripe.com/workload-identity-federation",
@@ -586,6 +592,12 @@
    "link": "https://docs.stripe.com/payments/accept-a-payment-intent-first?api-integration=paymentintents&payment-ui=elements",
    "summary": "Create the PaymentIntent. Create a PaymentIntent on your server with an amount and currency. In the latest version of the API, specifying the ...",
    "title": "Create a PaymentIntent before collecting payment details - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:2583425226690397504": {
+   "first_seen": "2026-10-13T11:11:14Z",
+   "link": "https://docs.stripe.com/extensions/manage-extension-lifecycle",
+   "summary": "Understand extension lifecycle changes \u00b7 Deprecation scheduled: The extension remains available for new activations and activated extensions continue ...",
+   "title": "Deprecate and archive extensions | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:3397542122403223042": {
    "first_seen": "2026-10-10T10:10:42Z",
