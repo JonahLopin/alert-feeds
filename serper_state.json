@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 3751,
+  "credits_used": 3802,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-13T02:52:48Z",
+  "last_run": "2026-10-13T04:16:51Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 78
+  "runs": 79
  },
  "feeds": {
   "adp-help": {},
@@ -1954,6 +1954,15 @@
     "summary": "Planning Beyond 2030: What SAP Business Suite 7 and SAP NetWeaver Customers Using Third-Party Databases or Java Need to Know. by Philipp Herzig.",
     "title": "Enterprise resource planning Archives"
    },
+   "news.sap.com/type/feature-article": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T04:16:51Z",
+    "link": "https://news.sap.com/type/feature-article/",
+    "page": 1,
+    "summary": "SAP Advances Finance Operations with Embedded Payments, New Consolidation Capabilities, and Expanded AI. Finance teams can move quickly from insight to ...",
+    "title": "Feature Archives"
+   },
    "news.sap.com/uk": {
     "baseline": true,
     "date_hint": "18 hours ago",
@@ -2356,6 +2365,15 @@
     "page": 1,
     "summary": "Tap the Quick Notes On Orders icon. Tap the New + to create a new Quick Notes On Orders. In the General Information section use the Text field to input the new ...",
     "title": "Create Quick Notes On Orders"
+   },
+   "help.spoton.com/space/SK/2664890582": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-13T04:16:51Z",
+    "link": "https://help.spoton.com/space/SK/2664890582",
+    "page": 1,
+    "summary": "Use the 86 Items and Modifiers feature in the FOH to quickly mark menu items or modifiers as unavailable. This allows staff to temporarily remove items or ...",
+    "title": "86 / Items & Modifiers"
    },
    "help.spoton.com/space/SK/2666660428": {
     "baseline": true,

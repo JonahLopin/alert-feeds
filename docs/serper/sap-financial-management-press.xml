@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-12T23:47:31Z</updated>
+  <updated>2026-10-13T04:16:51Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/type/feature-article/</id>
+    <title>Feature Archives</title>
+    <link href="https://news.sap.com/type/feature-article/" />
+    <published>2026-10-13T04:16:51Z</published>
+    <updated>2026-10-13T04:16:51Z</updated>
+    <summary>SAP Advances Finance Operations with Embedded Payments, New Consolidation Capabilities, and Expanded AI. Finance teams can move quickly from insight to ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/cz/?p=3508</id>
     <title>Pardubický Panasonic přešel na řízení výroby v reálném ...</title>
