@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 3802,
+  "credits_used": 3854,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-13T04:16:51Z",
+  "last_run": "2026-10-13T05:12:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 79
+  "runs": 80
  },
  "feeds": {
   "adp-help": {},
@@ -1946,6 +1946,24 @@
     "summary": "Explore SAP. Explore all areas of SAP. Products \"> \u00b7 Autonomous Enterprise \u00b7 Artificial intelligence \u00b7 Data and analytics \u00b7 Autonomous Suite \u00b7 AI platform ...",
     "title": "Tereina Archives"
    },
+   "news.sap.com/taiwan/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-13T05:12:53Z",
+    "link": "https://news.sap.com/taiwan/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work/",
+    "page": 1,
+    "summary": "SAP \u5e33\u55ae\u667a\u6167\u52a9\u7406\uff08Billing Assistant\uff09\u70ba\u9019\u4e00\u95dc\u9375\u6d41\u7a0b\u6ce8\u5165\u66f4\u5f37\u7684\u667a\u6167\u80fd\u529b\uff0c\u5354\u52a9\u66f4\u65e9\u8b58\u5225\u6f5b\u5728\u554f\u984c\uff0c\u5e6b\u52a9\u54e1\u5de5\u70ba\u5ba2\u6236\u5e36\u4f86\u66f4\u597d\u7684\u6210\u679c\uff0c\u4e26\u5efa\u7acb\u66f4\u7262\u56fa\u7684\u5ba2\u6236\u95dc\u4fc2\u3002\u5728Billing ...",
+    "title": "SAP \u63a8\u52d5\u300c\u81ea\u4e3b\u71df\u904b\u4f01\u696d\u300d\u9858\u666f\u843d\u5730- SAP Taiwan \u65b0\u805e\u4e2d\u5fc3"
+   },
+   "news.sap.com/taiwan/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work?amp=1": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T05:12:53Z",
+    "link": "https://news.sap.com/taiwan/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work/?amp=1",
+    "page": 1,
+    "summary": "SAP \u5e33\u55ae\u667a\u6167\u52a9\u7406\uff08Billing Assistant\uff09\u70ba\u9019\u4e00\u95dc\u9375\u6d41\u7a0b\u6ce8\u5165\u66f4\u5f37\u7684\u667a\u6167\u80fd\u529b\uff0c\u5354\u52a9\u66f4\u65e9\u8b58\u5225\u6f5b\u5728\u554f\u984c\uff0c\u5e6b\u52a9\u54e1\u5de5\u70ba\u5ba2\u6236\u5e36\u4f86\u66f4\u597d\u7684\u6210\u679c\uff0c\u4e26\u5efa\u7acb\u66f4\u7262\u56fa\u7684\u5ba2\u6236\u95dc\u4fc2\u3002\u5728Billing ...",
+    "title": "SAP \u63a8\u52d5\u300c\u81ea\u4e3b\u71df\u904b\u4f01\u696d\u300d\u9858\u666f\u843d\u5730- SAP Taiwan \u65b0\u805e\u4e2d\u5fc3"
+   },
    "news.sap.com/topics/erp": {
     "baseline": true,
     "date_hint": "2 days ago",
@@ -2537,6 +2555,15 @@
     "summary": "This guide describes how to create an event handler that receives events, verifies each request, and processes events in your application.",
     "title": "Set up events"
    },
+   "docs.stripe.com/extensions/manage-extension-lifecycle": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-13T05:12:53Z",
+    "link": "https://docs.stripe.com/extensions/manage-extension-lifecycle",
+    "page": 1,
+    "summary": "Deprecate when you need to make an extension version unavailable for new activations while allowing extensions already activated on that version to continue ...",
+    "title": "Deprecate and archive extensions"
+   },
    "docs.stripe.com/js/custom_checkout/checkout_form_methods?ref=spectralwebservices.com": {
     "baseline": true,
     "date_hint": "4 hours ago",
@@ -2939,6 +2966,15 @@
     "page": 2,
     "summary": "Wolters Kluwer Legal & Regulatory U.S. today announced the appointment of Ken Crutchfield as Vice President & General Manager of Legal Markets, effective ...",
     "title": "Wolters Kluwer Legal & Regulatory Names Ken Crutchfield ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-publishes-10th-edition-kaplan-and-sadock-s-comprehensive-textbook-of-psychiatry": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-13T05:12:53Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-publishes-10th-edition-kaplan-and-sadock-s-comprehensive-textbook-of-psychiatry",
+    "page": 3,
+    "summary": "\u201cFifty years ago, this renowned text originated as an idea by the founding editor, Dr. Harold Kaplan, who felt it was absolutely necessary that there be a book ...",
+    "title": "Wolters Kluwer Publishes 10th Edition Kaplan and ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-teammate-capabilities-enhance-internal-audit-efficiency-data-quality": {
     "baseline": false,

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-12T17:10:20Z</updated>
+  <updated>2026-10-13T05:12:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/extensions/manage-extension-lifecycle</id>
+    <title>Deprecate and archive extensions</title>
+    <link href="https://docs.stripe.com/extensions/manage-extension-lifecycle" />
+    <published>2026-10-13T05:12:53Z</published>
+    <updated>2026-10-13T05:12:53Z</updated>
+    <summary>Deprecate when you need to make an extension version unavailable for new activations while allowing extensions already activated on that version to continue ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/three-d-secure/authentication</id>
     <title>3DS Authentications | Stripe API Reference</title>
