@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-10-13T17:10:11Z</updated>
+  <updated>2026-10-13T18:15:25Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2908258591</id>
+    <title>Creating a BOGO (Buy One, Get One) Discount</title>
+    <link href="https://help.spoton.com/space/SK/2908258591" />
+    <published>2026-10-13T18:15:25Z</published>
+    <updated>2026-10-13T18:15:25Z</updated>
+    <summary>Step-by-Step Instructions · Enter a Name for the discount (e.g., BOGO Pizza) · From the Discount Type dropdown, select Buy X, Get Y.</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/2299887676</id>
     <title>Enable / Edit Quantity on Hand | SpotOn Restaurant FOH</title>
