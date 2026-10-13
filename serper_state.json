@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 3854,
+  "credits_used": 3903,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-13T05:12:53Z",
+  "last_run": "2026-10-13T06:21:16Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 80
+  "runs": 81
  },
  "feeds": {
   "adp-help": {},
@@ -302,6 +302,15 @@
     "page": 2,
     "summary": "Crypto hardware maker Ledger SAS said it's investigating reports that a number of users had seen a \u201closs of funds\u201d from their wallets, knocking the industry ...",
     "title": "Crypto Hardware Wallets Hit in Estimated $70 Million Attack"
+   },
+   "news.bloomberglaw.com/business-and-practice/data-center-operator-airtrunk-is-said-to-delay-1-5-billion-ipo": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-13T06:21:16Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/data-center-operator-airtrunk-is-said-to-delay-1-5-billion-ipo",
+    "page": 2,
+    "summary": "Data center operator AirTrunk is delaying a planned initial public offering of a real estate investment trust in Singapore until next year as higher ...",
+    "title": "Data Center Operator AirTrunk Is Said to Delay $1.5 Billion ..."
    },
    "news.bloomberglaw.com/business-and-practice/debevoise-picks-up-freshfields-private-capital-group-leaders": {
     "baseline": true,
@@ -2045,6 +2054,15 @@
     "summary": "The Signature Shift4 Gift Card Service pricing outlines all costs associated with managing your gift card program, including gift card pricing, onboarding fees, ...",
     "title": "Signature Shift4 Gift Cards Service Pricing"
    },
+   "shift4.zendesk.com/hc/en-us/articles/50299321974163-Add-Default-Modifiers-to-Menu-Items-in-Shift4-Dine": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-13T06:21:16Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/50299321974163-Add-Default-Modifiers-to-Menu-Items-in-Shift4-Dine",
+    "page": 1,
+    "summary": "Default Modifiers allow specific modifiers (such as ingredients or add-ons) to be automatically selected when an item is added to an order.",
+    "title": "Add Default Modifiers to Menu Items in Shift4 Dine"
+   },
    "shift4.zendesk.com/hc/en-us/articles/52606904129299-Process-Paytronix-Loyalty-Transactions-in-Shift4-Dine": {
     "baseline": true,
     "date_hint": "2 days ago",
@@ -2374,6 +2392,15 @@
     "page": 1,
     "summary": "Issue: Modifiers are still printing alphabetically. Solution: Make sure the Print Priority field has been set for each modifier. Issue: The order is not what ...",
     "title": "Set Modifier Print Priority | SpotOn Restaurant BOH"
+   },
+   "help.spoton.com/space/SK/2659287184": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-13T06:21:16Z",
+    "link": "https://help.spoton.com/space/SK/2659287184",
+    "page": 1,
+    "summary": "Pricing Events can range in complexity, from a simple Happy Hour promotion to more advanced offerings such as Buy One, Get One Free (BOGO).",
+    "title": "Create an Advanced Pricing Event"
    },
    "help.spoton.com/space/SK/2659287746": {
     "baseline": false,
