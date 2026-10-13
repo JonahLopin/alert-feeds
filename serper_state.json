@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 4305,
+  "credits_used": 4356,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-13T15:11:45Z",
+  "last_run": "2026-10-13T16:12:23Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 89
+  "runs": 90
  },
  "feeds": {
   "adp-help": {},
@@ -347,6 +347,15 @@
     "summary": "Debevoise Reenan and Bushner advise private equity firms and their portfolio companies on complex domestic and cross-border transactions,",
     "title": "Debevoise Picks Up Freshfields' Private Capital Group ..."
    },
+   "news.bloomberglaw.com/business-and-practice/debevoise-recruits-ex-doj-antitrust-lawyer-chip-nierlich-in-dc": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T16:12:23Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/debevoise-recruits-ex-doj-antitrust-lawyer-chip-nierlich-in-dc",
+    "page": 2,
+    "summary": "George \u201cChip\u201d Nierlich joined Debevoise & Plimpton as a partner in its antitrust group in Washington, D.C., the firm announced Tuesday.",
+    "title": "Debevoise Recruits Ex-DOJ Antitrust Lawyer Chip Nierlich ..."
+   },
    "news.bloomberglaw.com/business-and-practice/disney-pitches-paramount-universal-on-imax-big-screen-rival": {
     "baseline": true,
     "date_hint": "21 hours ago",
@@ -533,6 +542,15 @@
     "summary": "Linton Bloomberg joined Haynes Boone as a partner in its restructuring practice in London, the firm announced Monday.",
     "title": "Haynes Boone Adds London Restructuring Partner ..."
    },
+   "news.bloomberglaw.com/business-and-practice/high-court-skips-case-on-non-signatories-compelling-arbitration": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-13T16:12:23Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/high-court-skips-case-on-non-signatories-compelling-arbitration",
+    "page": 1,
+    "summary": "The US Supreme Court declined to examine judicial authority to decide the validity of an arbitration agreement between a signatory and a non-signatory, ...",
+    "title": "High Court Skips Case on Non-Signatories Compelling ..."
+   },
    "news.bloomberglaw.com/business-and-practice/how-big-techs-ai-race-fueled-a-borrowing-boom-explainer": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -693,6 +711,15 @@
     "summary": "Danielle Abada joined Mayer Brown as a partner in its capital markets practice in New York, the firm announced Monday.",
     "title": "Mayer Brown Recruits Former CFTC Lawyer Abada in New ..."
    },
+   "news.bloomberglaw.com/business-and-practice/milbank-hires-white-cases-doe-for-project-finance-in-chicago": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T16:12:23Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/milbank-hires-white-cases-doe-for-project-finance-in-chicago",
+    "page": 2,
+    "summary": "Jarrett Doe joined Milbank LLP as a partner in its global project, energy and infrastructure finance group in Chicago, the firm announced Monday.",
+    "title": "Milbank Hires White & Case's Doe for Project Finance in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/moderna-sheds-investor-lawsuit-over-rsv-vaccine-efficacy-figure": {
     "baseline": true,
     "date_hint": "20 hours ago",
@@ -837,6 +864,15 @@
     "summary": "Chief Executive Officer Nik Storonsky said he wants the digital bank to hold a primary listing in the US, if it chooses to pursue a public offering in the ...",
     "title": "Revolut CEO Storonsky Says He's Targeting US Primary ..."
    },
+   "news.bloomberglaw.com/business-and-practice/scotus-passes-on-ruby-tuesday-benefits-suit-following-advice": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-13T16:12:23Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/scotus-passes-on-ruby-tuesday-benefits-suit-following-advice",
+    "page": 1,
+    "summary": "The US Supreme Court won't hear a case by former Ruby Tuesday Inc. executives asking what remedies courts can order in Employee Retirement Income Security Act ...",
+    "title": "SCOTUS Passes on Ruby Tuesday Benefits Suit, ..."
+   },
    "news.bloomberglaw.com/business-and-practice/sec-proposal-to-ax-pay-to-play-rule-leaves-many-risks-untouched": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -854,6 +890,15 @@
     "page": 1,
     "summary": "Sidley Austin hired investment funds partner Justin Solomon from Kirkland & Ellis in Los Angeles to expand its private equity offering.",
     "title": "Sidley Lands Kirkland California Partner for Funds Build Out"
+   },
+   "news.bloomberglaw.com/business-and-practice/skadden-brings-on-four-mass-tort-and-product-liability-lawyers": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-13T16:12:23Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/skadden-brings-on-four-mass-tort-and-product-liability-lawyers",
+    "page": 2,
+    "summary": "Pruitt's practice focuses on representing pharmaceutical and medical device companies, as well as other companies in consumer class actions and toxic tort ...",
+    "title": "Skadden Brings On Four Mass Tort and Product Liability ..."
    },
    "news.bloomberglaw.com/business-and-practice/starbucks-unlawfully-limited-facial-piercings-nlrb-judge-finds": {
     "baseline": true,
@@ -1924,6 +1969,15 @@
     "summary": "Ryan, an award-winning global tax services and software provider, is the largest Firm in the world dedicated exclusively to business taxes.",
     "title": "Ryan Marks 35\u1d57\u02b0 Anniversary with Refreshed Brand and ..."
    },
+   "ryan.com/insights/press-room/ryan-2026-fortune-best-workplaces-consulting-professional-services-list": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-13T16:12:23Z",
+    "link": "https://ryan.com/insights/press-room/ryan-2026-fortune-best-workplaces-consulting-professional-services-list",
+    "page": 1,
+    "summary": "Ryan, an award-winning global tax services and software provider, is the largest Firm in the world dedicated exclusively to business taxes. With global ...",
+    "title": "Ryan Named to the 2026 Fortune Best Workplaces in ..."
+   },
    "ryan.com/insights/press-room/ryan-austin-top-workplaces-11th-consecutive-year": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -1960,6 +2014,15 @@
     "page": 1,
     "summary": "New innovations in payments, enterprise performance management, and AI automation help finance teams move quickly from insight to execution while ...",
     "title": "SAP Advances Finance Operations with Embedded ..."
+   },
+   "news.sap.com/2026/10/sap-cloud-erp-private-2025-fps02-foundation-autonomous-enterprise": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-13T16:12:23Z",
+    "link": "https://news.sap.com/2026/10/sap-cloud-erp-private-2025-fps02-foundation-autonomous-enterprise/",
+    "page": 1,
+    "summary": "The release combines AI agents that can work directly with core business processes and adds new regulatory compliance capabilities and industry-specific ...",
+    "title": "SAP Strengthens the Foundation for the Autonomous ..."
    },
    "news.sap.com/2026/10/sap-successfactors-2h-2026-release": {
     "baseline": false,
@@ -2023,6 +2086,15 @@
     "page": 1,
     "summary": "Meat & More is een Belgisch voedingsbedrijf met hoofdzetel in Aalter, bekend van de winkelformules Buurtslagers en Bon'Ap. Het bedrijf beheert verschillende ...",
     "title": "Hoe Meat & More HR laat meegroeien met de organisatie"
+   },
+   "news.sap.com/brazil/2026/10/bemol-acelera-acesso-a-dados-em-tempo-real-e-fortalece-estrategia-de-ia-com-sap-business-data-cloud?amp=1": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-13T16:12:23Z",
+    "link": "https://news.sap.com/brazil/2026/10/bemol-acelera-acesso-a-dados-em-tempo-real-e-fortalece-estrategia-de-ia-com-sap-business-data-cloud/?amp=1",
+    "page": 2,
+    "summary": "Com o SAP Business Data Cloud e o SAP Datasphere, centralizamos nossa base de dados de forma governada e escal\u00e1vel, reduzimos a complexidade da replica\u00e7\u00e3o e ...",
+    "title": "Bemol acelera acesso a dados em tempo real e fortalece ..."
    },
    "news.sap.com/cz/2026/10/pardubicky-panasonic-presel-na-rizeni-vyroby-v-realnem-case-zamestnanci-ziskali-detailni-prehled-o-vykonu-linek": {
     "baseline": false,
@@ -2752,6 +2824,15 @@
     "page": 1,
     "summary": "Tap the Quick Notes On Orders icon. Tap the New + to create a new Quick Notes On Orders. In the General Information section use the Text field to input the new ...",
     "title": "Create Quick Notes On Orders"
+   },
+   "help.spoton.com/space/SK/2660663704": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-13T16:12:23Z",
+    "link": "https://help.spoton.com/space/SK/2660663704",
+    "page": 2,
+    "summary": "Item Reporting provides the ability to accurately track food and product costs, making it invaluable for any serious restaurateur or restaurant group. This ...",
+    "title": "Advanced Menu Item Reporting | SpotOn RPOS"
    },
    "help.spoton.com/space/SK/2664890582": {
     "baseline": false,
