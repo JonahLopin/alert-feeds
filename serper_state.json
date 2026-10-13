@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 4104,
+  "credits_used": 4155,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-13T10:51:56Z",
+  "last_run": "2026-10-13T11:49:37Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 85
+  "runs": 86
  },
  "feeds": {
   "adp-help": {},
@@ -747,6 +747,15 @@
     "summary": "An intercompany legal services agreement, or ILSA, provides real-time evidence of an attorney-client relationships among both in-house and external counsel, as ...",
     "title": "Pacts Protect Attorney-Client Privilege Across Company ..."
    },
+   "news.bloomberglaw.com/business-and-practice/pediatrician-who-drew-500-000-from-savings-shows-doctor-crisis": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T11:49:37Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/pediatrician-who-drew-500-000-from-savings-shows-doctor-crisis",
+    "page": 2,
+    "summary": "Dan Levy knew his pediatric practice was dying when he started dipping into his retirement savings to keep it open.",
+    "title": "Pediatrician Who Drew $500000 From Savings Shows ..."
+   },
    "news.bloomberglaw.com/business-and-practice/pentagon-plans-for-public-execution-questioned-by-legal-experts": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -764,6 +773,15 @@
     "page": 1,
     "summary": "The intense reaction from the energy and environment community to the bipartisan Senate proposal to overhaul permitting foreshadows a fierce legislative battle",
     "title": "Permitting Messaging Battle Goes Full Throttle Ahead of ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/phillips-66-gc-vanessa-sutherland-executes-her-vision-of-success": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T11:49:37Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/phillips-66-gc-vanessa-sutherland-executes-her-vision-of-success",
+    "page": 2,
+    "summary": "Phillips 66 General Counsel Vanessa Sutherland juggles topics ranging from employment to intellectual property while navigating an evolving regulatory ...",
+    "title": "Phillips 66 GC Vanessa Sutherland Executes Her Vision of ..."
    },
    "news.bloomberglaw.com/business-and-practice/plan-to-broadcast-fort-hood-killers-execution-spurs-criticism": {
     "baseline": false,
@@ -819,6 +837,15 @@
     "summary": "The Securities and Exchange Commission wants to get out of the business of policing political donations from investment advisers.",
     "title": "SEC Proposal to Ax Pay-to-Play Rule Leaves Many Risks ..."
    },
+   "news.bloomberglaw.com/business-and-practice/sidley-lands-kirkland-california-partner-for-funds-build-out": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T11:49:37Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/sidley-lands-kirkland-california-partner-for-funds-build-out",
+    "page": 1,
+    "summary": "Sidley Austin hired investment funds partner Justin Solomon from Kirkland & Ellis in Los Angeles to expand its private equity offering.",
+    "title": "Sidley Lands Kirkland California Partner for Funds Build Out"
+   },
    "news.bloomberglaw.com/business-and-practice/starbucks-unlawfully-limited-facial-piercings-nlrb-judge-finds": {
     "baseline": true,
     "date_hint": "17 hours ago",
@@ -861,6 +888,15 @@
     "page": 1,
     "summary": "Two food-related disputes are slated for upcoming trials in the Delaware Chancery Court: Albertsons' failed merger with Kroger, and Freshly's acquisition by ...",
     "title": "This Week in Chancery Court: Albertsons, Kroger, Nestl\u00e9, ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trump-fifth-circuit-pick-met-with-early-conservative-scrutiny": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-13T11:49:37Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-fifth-circuit-pick-met-with-early-conservative-scrutiny",
+    "page": 1,
+    "summary": "Todd Butler is President Donald Trump's latest pick for the US Court of Appeals for the Fifth Circuit, and would be the president's eighth appointee",
+    "title": "Trump Fifth Circuit Pick Met With Early Conservative Scrutiny"
    },
    "news.bloomberglaw.com/business-and-practice/trump-immigration-judges-are-more-likely-to-reject-asylum-claims": {
     "baseline": false,
@@ -2582,6 +2618,15 @@
     "summary": "Modifiers allow customers to customize menu items, such as adding toppings or choosing preparation preferences. This article explains how to create a modifier ...",
     "title": "Create a Modifier | SpotOn Restaurant BOH"
    },
+   "help.spoton.com/space/SK/2658075650": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-13T11:49:37Z",
+    "link": "https://help.spoton.com/space/SK/2658075650",
+    "page": 2,
+    "summary": "Archived: The information in this article has been moved to Assign Modifier to Modifier Group to consolidate documentation and avoid duplication. Action.",
+    "title": "Assign Modifier to Modifier Group"
+   },
    "help.spoton.com/space/SK/2658076016": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -2913,6 +2958,15 @@
     "link": "https://www.wolterskluwer.com/en/news/agrial-finance-transformation-journey-with-tagetik",
     "summary": "Finance transformation often begins with technology modernization but quickly expands to encompass data, processes, and governance.",
     "title": "What finance leaders can learn from Agrial's ..."
+   },
+   "wolterskluwer.com/en/news/ame-and-wolters-kluwer-aim-to-expand-access-to-global-medical-research-through-new-collaboration": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-13T11:49:37Z",
+    "link": "https://www.wolterskluwer.com/en/news/ame-and-wolters-kluwer-aim-to-expand-access-to-global-medical-research-through-new-collaboration",
+    "page": 4,
+    "summary": "Wolters Kluwer Health today announced a new collaboration with AME Publishing Company, an Open Access publisher specializing in medical journals and books, ...",
+    "title": "AME and Wolters Kluwer aim to expand access to global ..."
    },
    "wolterskluwer.com/en/news/facial-thread-lifting-complications-causes-and-prevention": {
     "baseline": false,
