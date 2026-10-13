@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:kintsugi-blog</id>
   <title>Kintsugi blog (site:trykintsugi.com/blog/) via Serper</title>
-  <updated>2026-10-11T03:05:00Z</updated>
+  <updated>2026-10-13T19:28:28Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/kintsugi-blog.xml" />
+  <entry>
+    <id>https://trykintsugi.com/blog/kintsugi-integrates-with-intuit-enterprise-suite</id>
+    <title>Kintsugi Integrates with Intuit Enterprise Suite</title>
+    <link href="https://trykintsugi.com/blog/kintsugi-integrates-with-intuit-enterprise-suite" />
+    <published>2026-10-13T19:28:28Z</published>
+    <updated>2026-10-13T19:28:28Z</updated>
+    <summary>Connect each Intuit Enterprise Suite entity to Kintsugi to automate sales tax calculation, nexus tracking, and filing, whether your team or a firm owns it.</summary>
+  </entry>
   <entry>
     <id>https://trykintsugi.com/blog/what-is-streamlined-sales-tax</id>
     <title>Streamlined Sales Tax (SST) Guide</title>

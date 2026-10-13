@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 4462,
+  "credits_used": 4516,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-13T18:15:25Z",
+  "last_run": "2026-10-13T19:28:28Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 92
+  "runs": 93
  },
  "feeds": {
   "adp-help": {},
@@ -426,6 +426,15 @@
     "page": 1,
     "summary": "Enroll Confidently Inc. will pay $990,000 to settle a class action alleging it negligently failed to protect the personal information of more than 63,000 people",
     "title": "Enroll Confidently Settles Data Breach Lawsuit for $990000"
+   },
+   "news.bloomberglaw.com/business-and-practice/epa-aims-to-let-refrigerant-makers-others-keep-using-solvent": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-13T19:28:28Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/epa-aims-to-let-refrigerant-makers-others-keep-using-solvent",
+    "page": 2,
+    "summary": "The EPA is proposing to let certain chemical processors and refrigerant manufacturers use trichloroethylene past the deadline set in a 2024 rule and a 2025 ...",
+    "title": "EPA Aims to Let Refrigerant Makers, Others Keep Using ..."
    },
    "news.bloomberglaw.com/business-and-practice/epa-redo-of-biden-era-pfas-biosolids-analysis-spurs-sharp-divide": {
     "baseline": false,
@@ -900,6 +909,15 @@
     "summary": "Renault SA says the European Union reached an initial \u201cmajor milestone\u201d with its deal to slow the onslaught of hybrid cars from China",
     "title": "Renault CEO Welcomes EU-China Deal on Hybrids as ' ..."
    },
+   "news.bloomberglaw.com/business-and-practice/renault-threatens-to-cut-output-in-europe-if-co2-rules-remain": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-13T19:28:28Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/renault-threatens-to-cut-output-in-europe-if-co2-rules-remain",
+    "page": 3,
+    "summary": "Renault SA Chief Executive Officer Francois Provost said the European Union must ease longer-term C02 emissions rules to help protect car manufacturers and ...",
+    "title": "Renault Threatens to Cut Output in Europe If CO2 Rules ..."
+   },
    "news.bloomberglaw.com/business-and-practice/retailers-brace-for-surveillance-pricing-bills-lawsuits-to-rise": {
     "baseline": true,
     "date_hint": "16 hours ago",
@@ -987,6 +1005,15 @@
     "page": 1,
     "summary": "Tech Earnings Loom Large for Funds Packed Into Dispersion Trade Oct. 11, 2026, tech company earnings collide with a Federal Reserve meeting and US midterm ...",
     "title": "Tech Earnings Loom Large for Funds Packed Into ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/third-circuit-upholds-gun-ban-for-those-with-violent-felonies": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-13T19:28:28Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/third-circuit-upholds-gun-ban-for-those-with-violent-felonies",
+    "page": 3,
+    "summary": "A law barring gun ownership by a man convicted of making terroristic threats doesn't violate the Second Amendment, the Third Circuit ruled as a whole court.",
+    "title": "Third Circuit Upholds Gun Ban for Those With Violent ..."
    },
    "news.bloomberglaw.com/business-and-practice/this-week-in-chancery-court-albertsons-kroger-nestle-freshly-13": {
     "baseline": false,
@@ -1131,6 +1158,15 @@
     "page": 2,
     "summary": "A former Whole Foods Market Inc. employee failed to support his allegations that the organic grocer fired him because he's Black and took leave to care for ...",
     "title": "Whole Foods Ex-Worker Lacks Evidence for Bias, ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/willkie-adds-jpmorgan-lawyer-trivedi-for-litigation-in-chicago": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-13T19:28:28Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/willkie-adds-jpmorgan-lawyer-trivedi-for-litigation-in-chicago",
+    "page": 1,
+    "summary": "Kruti Trivedi joined Willkie as a partner in its litigation department in Chicago, the firm announced Monday.",
+    "title": "Willkie Adds JPMorgan Lawyer Trivedi for Litigation in ..."
    }
   },
   "chowbus-blog": {
@@ -1947,6 +1983,15 @@
     "summary": "You can't look up another business's EIN, but you can verify a sales tax permit, a resale certificate and a VAT number. Each method and its limits.",
     "title": "How to Verify a Tax ID Number: EIN, Permit, VAT"
    },
+   "trykintsugi.com/blog/kintsugi-integrates-with-intuit-enterprise-suite": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T19:28:28Z",
+    "link": "https://trykintsugi.com/blog/kintsugi-integrates-with-intuit-enterprise-suite",
+    "page": 1,
+    "summary": "Connect each Intuit Enterprise Suite entity to Kintsugi to automate sales tax calculation, nexus tracking, and filing, whether your team or a firm owns it.",
+    "title": "Kintsugi Integrates with Intuit Enterprise Suite"
+   },
    "trykintsugi.com/blog/kintsugi-sales-tax-monthly-october": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -1992,7 +2037,17 @@
     "title": "Streamlined Sales Tax (SST) Guide"
    }
   },
-  "lightspeed-hq-blog": {},
+  "lightspeed-hq-blog": {
+   "fr.lightspeedhq.com/blog/evenement-champ-libre-de-lightspeed-au-coeur-de-lavenir-de-la-restauration-quebecoise": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-13T19:28:28Z",
+    "link": "https://fr.lightspeedhq.com/blog/evenement-champ-libre-de-lightspeed-au-coeur-de-lavenir-de-la-restauration-quebecoise/",
+    "page": 1,
+    "summary": "Un compte rendu de l'\u00e9v\u00e9nement Champ libre, un espace d'\u00e9change privil\u00e9gi\u00e9 sur l'avenir de la restauration au Qu\u00e9bec.",
+    "title": "au c\u0153ur de l'avenir de la restauration qu\u00e9b\u00e9coise"
+   }
+  },
   "lightspeed-hq-press": {
    "lightspeedhq.com/news/halloween-challenges-christmas-as-the-bigger-holiday-for-millennials": {
     "baseline": true,
@@ -2834,6 +2889,15 @@
     "summary": "Overview. This page provides a quick overview of the key contents and related child pages, making it easy to navigate to more detailed information.",
     "title": "Opening & Closing Procedures | SpotOn Restaurant FOH"
    },
+   "help.spoton.com/space/SK/2057044245/End+of+Day+Process+%7C+SpotOn+Restaurant+FOH": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-13T19:28:28Z",
+    "link": "https://help.spoton.com/space/SK/2057044245/End+of+Day+Process+%7C+SpotOn+Restaurant+FOH",
+    "page": 2,
+    "summary": "The End of Day process in SpotOn Restaurant Front of House (FOH) allows managers to review daily sales, verify that all orders are closed, confirm employees ...",
+    "title": "End of Day Process | SpotOn Restaurant FOH"
+   },
    "help.spoton.com/space/SK/2168586247": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -2851,6 +2915,15 @@
     "page": 1,
     "summary": "When Quantity on Hand is enabled, the current inventory count will display directly on the FOH menu item button. Each time the item is ordered, the quantity ...",
     "title": "Enable / Edit Quantity on Hand | SpotOn Restaurant FOH"
+   },
+   "help.spoton.com/space/SK/2361492065": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-13T19:28:28Z",
+    "link": "https://help.spoton.com/space/SK/2361492065",
+    "page": 2,
+    "summary": "This feature can help product preparation areas determine if the item they are working on might be related to an item from another prep station that will ...",
+    "title": "Conditional Print Routes | SpotOn Restaurant BOH"
    },
    "help.spoton.com/space/SK/2494792276": {
     "baseline": false,
@@ -3074,6 +3147,15 @@
    }
   },
   "square-help": {
+   "squareup.com/help/us/en/article/8701-view-the-gift-card-reconciliation-report-with-square-multi-account-suite": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-13T19:28:28Z",
+    "link": "https://squareup.com/help/us/en/article/8701-view-the-gift-card-reconciliation-report-with-square-multi-account-suite",
+    "page": 1,
+    "summary": "Sign in to Square Dashboard and go to Reports > Organization on the operator merchant account. Select Gift card reconciliation. Select a reconciliation period.",
+    "title": "View the gift card reconciliation report with Square Multi- ..."
+   },
    "squareup.com/help/us/en/article/8702-manage-organization-reports-with-square-multi-account-suite": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -3082,6 +3164,15 @@
     "page": 1,
     "summary": "Square Multi-Account Suite includes organization-level reports that let operator merchants view sales and performance data across all member merchants and ...",
     "title": "Manage organization reports with Square Multi-Account Suite"
+   },
+   "squareup.com/help/us/en/article/8705-manage-bundle-releases-and-early-feature-access-with-square-multi-account-suite": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-13T19:28:28Z",
+    "link": "https://squareup.com/help/us/en/article/8705-manage-bundle-releases-and-early-feature-access-with-square-multi-account-suite",
+    "page": 1,
+    "summary": "Square releases new features and updates in grouped bundles every two weeks. Upcoming updates are listed in the Release notes section of Square Dashboard before ...",
+    "title": "Manage Bundle Releases and Early Feature Access with ..."
    }
   },
   "stripe-help": {
