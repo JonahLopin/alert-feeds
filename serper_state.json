@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 3648,
+  "credits_used": 3699,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-12T23:47:31Z",
+  "last_run": "2026-10-13T01:23:17Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 76
+  "runs": 77
  },
  "feeds": {
   "adp-help": {},
@@ -891,6 +891,15 @@
     "link": "https://merchants.doordash.com/en-us/blog/restaurant-customer-feedback",
     "summary": "8 Ways to collect restaurant customer feedback \u00b7 1. Claim and optimize your business listings \u00b7 2. Encourage online reviews \u2014 then respond to every one \u00b7 3.",
     "title": "Restaurant Customer Feedback: 8 Ways to Collect It"
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-email-marketing": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-13T01:23:17Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-email-marketing",
+    "page": 1,
+    "summary": "Learn how to build a restaurant email list, run automated campaigns, and turn first-time guests into regulars. Practical strategies for busy operators.",
+    "title": "Restaurant Email Marketing: Complete Guide to Drive Orders"
    },
    "merchants.doordash.com/en-us/blog/restaurant-seo": {
     "baseline": false,
@@ -2145,6 +2154,15 @@
     "page": 1,
     "summary": "NFC mobile payments let customers pay by tapping a card, phone, or watch. See what hardware, setup, and security your store needs to accept them.",
     "title": "NFC Mobile Payments: How To Accept Them (2026)"
+   },
+   "shopify.com/blog/on-page-seo": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-13T01:23:17Z",
+    "link": "https://www.shopify.com/blog/on-page-seo",
+    "page": 1,
+    "summary": "On-page SEO helps search engines understand your pages. Explore six key optimizations and how to apply them across your online store.",
+    "title": "On-Page SEO: How To Optimize Your Store (2026)"
    },
    "shopify.com/blog/online-payment-methods": {
     "baseline": false,
