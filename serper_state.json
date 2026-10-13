@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 4516,
+  "credits_used": 4569,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-13T19:28:28Z",
+  "last_run": "2026-10-13T20:32:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 93
+  "runs": 94
  },
  "feeds": {
   "adp-help": {},
@@ -179,6 +179,15 @@
    }
   },
   "bloomberg-law-press": {
+   "news.bloomberglaw.com/business-and-practice/a-90-million-spyware-hack-sparks-review-of-crypto-wallet-sales": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-13T20:32:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/a-90-million-spyware-hack-sparks-review-of-crypto-wallet-sales",
+    "page": 4,
+    "summary": "Crypto hardware maker Ledger SAS is reviewing its policies and processes for how its devices are sold to consumers, after spyware implanted in some wallets ...",
+    "title": "A $90 Million Spyware Hack Sparks Review of Crypto ..."
+   },
    "news.bloomberglaw.com/business-and-practice/ai-data-centers-water-use-grows-in-drought-stricken-areas": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -364,6 +373,15 @@
     "page": 2,
     "summary": "George \u201cChip\u201d Nierlich joined Debevoise & Plimpton as a partner in its antitrust group in Washington, D.C., the firm announced Tuesday.",
     "title": "Debevoise Recruits Ex-DOJ Antitrust Lawyer Chip Nierlich ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/dentons-employs-fda-and-health-care-transactions-lawyer-salmon": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T20:32:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/dentons-employs-fda-and-health-care-transactions-lawyer-salmon",
+    "page": 1,
+    "summary": "Salmon's practice focuses on FDA regulatory and corporate transactional matters, including product development, advertising and promotion, medical ...",
+    "title": "Dentons Employs FDA and Health Care Transactions ..."
    },
    "news.bloomberglaw.com/business-and-practice/disney-pitches-paramount-universal-on-imax-big-screen-rival": {
     "baseline": true,
@@ -1024,6 +1042,15 @@
     "summary": "Two food-related disputes are slated for upcoming trials in the Delaware Chancery Court: Albertsons' failed merger with Kroger, and Freshly's acquisition by ...",
     "title": "This Week in Chancery Court: Albertsons, Kroger, Nestl\u00e9, ..."
    },
+   "news.bloomberglaw.com/business-and-practice/trump-faces-growing-gop-revolt-over-his-russian-diesel-deal": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-13T20:32:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-faces-growing-gop-revolt-over-his-russian-diesel-deal",
+    "page": 2,
+    "summary": "President Donald Trump confronts growing opposition within his own party to his deal with Vladimir Putin on Moscow's exports of diesel, reached just weeks ...",
+    "title": "Trump Faces Growing GOP Revolt Over His Russian ..."
+   },
    "news.bloomberglaw.com/business-and-practice/trump-fifth-circuit-pick-met-with-early-conservative-scrutiny": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -1095,6 +1122,15 @@
     "page": 2,
     "summary": "OpenAI illicitly accessed the copyrighted material to train consumer products like ChatGPT, and company internal communications from the tech company confirm ...",
     "title": "USA Today, News Outlets Join OpenAI Copyright ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/utilities-sue-maine-officials-over-regional-grid-operator-law": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T20:32:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/utilities-sue-maine-officials-over-regional-grid-operator-law",
+    "page": 1,
+    "summary": "Two public utilities are challenging a Maine state law requiring participation in a regional grid operator, arguing that the requirement undermines federal ...",
+    "title": "Utilities Sue Maine Officials Over Regional Grid Operator Law"
    },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-foley-hoag-to-defend-gov-moore-in-defamation-case": {
     "baseline": false,
@@ -2046,6 +2082,15 @@
     "page": 1,
     "summary": "Un compte rendu de l'\u00e9v\u00e9nement Champ libre, un espace d'\u00e9change privil\u00e9gi\u00e9 sur l'avenir de la restauration au Qu\u00e9bec.",
     "title": "au c\u0153ur de l'avenir de la restauration qu\u00e9b\u00e9coise"
+   },
+   "lightspeedhq.com/blog/lightspeeds-champ-libre-event-at-the-heart-of-quebecs-culinary-future": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T20:32:43Z",
+    "link": "https://www.lightspeedhq.com/blog/lightspeeds-champ-libre-event-at-the-heart-of-quebecs-culinary-future/",
+    "page": 1,
+    "summary": "A summary of our Champ libre event, a dedicated space to explore major sector trends in Quebec's restaurant business.",
+    "title": "Lightspeed's Champ libre Event: At the Heart of Quebec's ..."
    }
   },
   "lightspeed-hq-press": {
@@ -2419,6 +2464,15 @@
     "link": "https://news.sap.com/netherlands/",
     "summary": "Nieuws en informatie over SAP.",
     "title": "SAP Nederland Blogs & Nieuws"
+   },
+   "news.sap.com/netherlands/2026/10/hoe-ai-hcm-en-de-manier-waarop-we-werken-verandert/282897_offset_599347": {
+    "baseline": false,
+    "date_hint": "15 hours ago",
+    "first_seen": "2026-10-13T20:32:43Z",
+    "link": "https://news.sap.com/netherlands/2026/10/hoe-ai-hcm-en-de-manier-waarop-we-werken-verandert/282897_offset_599347/",
+    "page": 2,
+    "summary": "Meteen naar de inhoud. Blogs & Nieuws \u00b7 Press \u00b7 Artikelen \u00b7 Onderwerpen \u00b7 Volg. Ontdek SAP. Verken alle gebieden van SAP. Training en support.",
+    "title": "282897_offset_599347 - SAP Nederland Blogs & Nieuws"
    },
    "news.sap.com/netherlands/2026/10/hoe-ai-hcm-en-de-manier-waarop-we-werken-verandert/harriet-newlyn-en-andras-csik": {
     "baseline": false,
