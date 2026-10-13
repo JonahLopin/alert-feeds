@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 4677,
+  "credits_used": 4731,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-13T22:44:11Z",
+  "last_run": "2026-10-13T23:42:51Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 96
+  "runs": 97
  },
  "feeds": {
   "adp-help": {},
@@ -268,6 +268,15 @@
     "summary": "A federal appeals court declined to resurrect a Black FedEx employee's claims she was denied a promotion because she complained about harassment.",
     "title": "Black FedEx Worker Loses Appeal to Revive Retaliation ..."
    },
+   "news.bloomberglaw.com/business-and-practice/bofa-hit-with-1-2-billion-of-fines-over-money-laundering-lapses": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-13T23:42:51Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/bofa-hit-with-1-2-billion-of-fines-over-money-laundering-lapses",
+    "page": 4,
+    "summary": "Bank of America Corp. was fined more than $1.21 billion for money laundering and sanctions violations by US regulators.",
+    "title": "BofA Hit With $1.2 Billion of Fines Over Money-Laundering ..."
+   },
    "news.bloomberglaw.com/business-and-practice/california-data-brokers-report-over-60-million-profile-deletions": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -400,6 +409,15 @@
     "page": 1,
     "summary": "DLA Piper is hiring three senior lawyers from Latham & Watkins to join its growing capital solutions business as it continues an aggressive push into the ...",
     "title": "DLA Piper Hires Latham Trio to Expand New Private Credit ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/doj-re-charges-wiretap-offenses-in-leaked-kanye-west-tape-case": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T23:42:51Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-re-charges-wiretap-offenses-in-leaked-kanye-west-tape-case",
+    "page": 4,
+    "summary": "Federal prosecutors taking another stab at charging journalist Timothy Burke with wiretap offenses, filing a new indictment alleging he leaked unaired ...",
+    "title": "DOJ Re-Charges Wiretap Offenses in Leaked Kanye West ..."
    },
    "news.bloomberglaw.com/business-and-practice/doj-scrutinizing-binance-compliance-with-2023-settlement-accord": {
     "baseline": false,
@@ -2241,6 +2259,15 @@
     "summary": "Organisations need to combine intelligence with business context to make their operations predictive rather than reactive, according to SAP.",
     "title": "SAP says Enterprise Context is Key to Predictive AI ..."
    },
+   "news.sap.com/belgie/2026/09/sap-en-nvidia-openshell-werken-samen-aan-governance-en-beveiliging-voor-controleerbare-ai-agents-in-bedrijfssystemen/computer-and-network-data-connection": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-10-13T23:42:51Z",
+    "link": "https://news.sap.com/belgie/2026/09/sap-en-nvidia-openshell-werken-samen-aan-governance-en-beveiliging-voor-controleerbare-ai-agents-in-bedrijfssystemen/computer-and-network-data-connection/",
+    "page": 3,
+    "summary": "Computer and network data connection. SAP. Belgium (0)800 50 550. Of bekijk onze complete lijst van lokale landnummers.",
+    "title": "Computer and network data connection"
+   },
    "news.sap.com/belgie/2026/10/hoe-ai-hcm-en-de-manier-waarop-we-werken-verandert/diverse-team-working-together-in-modern-co-working-space": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -2582,6 +2609,15 @@
     "summary": "Herman Erlach_Header SAP Polska 00 800 491 1525. Speak Out at SAP SAP Trust Center SAP Store Platforma technologiczna Bran\u017ce \u2026 \u00a9 2026 SAP SE",
     "title": "Herman Erlach_Header - SAP Poland Centrum Wiadomo\u015bci"
    },
+   "news.sap.com/spain/2026/10/sap-adquirira-techwolf-para-ofrecer-a-las-empresas-una-vision-del-trabajo-basada-en-datos-en-la-era-de-la-ia/smiling-entrepreneur-in-a-modern-office-lobby-holding-a-phone": {
+    "baseline": false,
+    "date_hint": "16 hours ago",
+    "first_seen": "2026-10-13T23:42:51Z",
+    "link": "https://news.sap.com/spain/2026/10/sap-adquirira-techwolf-para-ofrecer-a-las-empresas-una-vision-del-trabajo-basada-en-datos-en-la-era-de-la-ia/smiling-entrepreneur-in-a-modern-office-lobby-holding-a-phone/",
+    "page": 3,
+    "summary": "Smiling entrepreneur in a modern office lobby holding a phone. SAP. Espa\u00f1a 902 52 54 56. O vea nuestra lista completa de n\u00fameros locales de pa\u00edses.",
+    "title": "Smiling entrepreneur in a modern office lobby holding ..."
+   },
    "news.sap.com/sweden": {
     "baseline": true,
     "date_hint": "1 day ago",
@@ -2806,6 +2842,15 @@
     "page": 1,
     "summary": "Content writer and strategist in the SaaS space. Try Shopify for free, and explore all the tools you need to start, run, and grow your business.",
     "title": "Lizzie Davey author & reviewer at Shopify"
+   },
+   "shopify.com/blog/business-license": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-13T23:42:51Z",
+    "link": "https://www.shopify.com/blog/business-license",
+    "page": 1,
+    "summary": "Learn how to get a business license, with info on types of licenses, state-specific requirements, and key steps to legally setting up your business.",
+    "title": "How To Get a Business License in 6 Simple Steps (2027)"
    },
    "shopify.com/blog/business-mindset": {
     "baseline": true,
