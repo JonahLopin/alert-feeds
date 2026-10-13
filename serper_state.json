@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 3699,
+  "credits_used": 3751,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-13T01:23:17Z",
+  "last_run": "2026-10-13T02:52:48Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 77
+  "runs": 78
  },
  "feeds": {
   "adp-help": {},
@@ -855,6 +855,15 @@
    }
   },
   "chowbus-blog": {
+   "chowbus.com/blog/choosing-all-in-one-restaurant-platforms-for-dine-in-takeout-and-third-party-delivery": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-13T02:52:48Z",
+    "link": "https://www.chowbus.com/blog/choosing-all-in-one-restaurant-platforms-for-dine-in-takeout-and-third-party-delivery",
+    "page": 1,
+    "summary": "An all-in-one restaurant platform is more than a POS with separate add-ons. It connects core operations across multiple order sources and service formats.",
+    "title": "Choosing All-in-One Restaurant Platforms for Dine- ..."
+   },
    "chowbus.com/blog/custom-gift-cards-for-business": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -2669,6 +2678,15 @@
     "summary": "Hip arthroplasty can be 'appropriately considered' for nonagenarians, reports Journal of Bone & Joint Surgery.",
     "title": "Is hip replacement safe for people in their 90s? Risks ..."
    },
+   "wolterskluwer.com/en/news/lex-libra-ai-capabilities-directly-available-in-lex-poland": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-13T02:52:48Z",
+    "link": "https://www.wolterskluwer.com/en/news/lex-libra-ai-capabilities-directly-available-in-lex-poland",
+    "page": 2,
+    "summary": "While users can already access LEX content and conduct legal research within Libra, they can now also benefit from Libra AI capabilities directly inside LEX.",
+    "title": "Wolters Kluwer expands LEX and Libra AI integration in ..."
+   },
    "wolterskluwer.com/en/news/lippincott-s-nursing-procedures-and-skills-expert-clinical-content": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -2772,6 +2790,15 @@
     "page": 2,
     "summary": "Technology leader seeks to help tackle growing drug diversion challenge in the U.S..",
     "title": "Wolters Kluwer acquires Invistics, U.S. AI-enabled drug ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-adds-award-winning-patient-education-content-uptodate-enterprise-edition-customers": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-13T02:52:48Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-adds-award-winning-patient-education-content-uptodate-enterprise-edition-customers",
+    "page": 3,
+    "summary": "New resources add value through Epic EHR and MyChart integration, streamlining care team workflows, simplifying patient access to education content.",
+    "title": "Wolters Kluwer adds award-winning patient education ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-adds-uptodate-lexidrug-to-genai-powered-clinical-decision-support-uptodate-expert-ai": {
     "baseline": false,
