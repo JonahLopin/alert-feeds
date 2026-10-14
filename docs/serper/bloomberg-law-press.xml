@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-14T12:16:10Z</updated>
+  <updated>2026-10-14T13:29:34Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/bofa-results-marred-by-1-2-billion-penalty-weaker-trading-1</id>
+    <title>BofA Results Marred by $1.2 Billion Penalty, Weaker ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/bofa-results-marred-by-1-2-billion-penalty-weaker-trading-1" />
+    <published>2026-10-14T13:29:34Z</published>
+    <updated>2026-10-14T13:29:34Z</updated>
+    <summary>BofA, the No. 2 US bank, also announced a $1.2 billion non-tax-deductible charge, cutting into net income by 17 cents a share. The charge is for fines for money ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/vietnam-says-us-trade-deal-nearly-done-with-final-text-sent-1</id>
     <title>Vietnam Says US Trade Deal Nearly Done With Final Text ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-11T03:05:00Z</published>
     <updated>2026-10-11T03:05:00Z</updated>
     <summary>A Florida trial judge has been suspended for 30 days and fined $10000 for campaign messaging relying on a phony AI-generated “phone call” that faked a ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/florida-bar-exam-fees-for-veteran-lawyers-ruled-constitutional</id>
-    <title>Florida Bar Exam Fees for Veteran Lawyers Ruled ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/florida-bar-exam-fees-for-veteran-lawyers-ruled-constitutional" />
-    <published>2026-10-11T03:05:00Z</published>
-    <updated>2026-10-11T03:05:00Z</updated>
-    <summary>A Florida Bar exam penalty for legal experience — forcing veteran lawyers to pay more than three times what recent law school graduates pay to sit for the ...</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 5372,
+  "credits_used": 5425,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-14T12:16:10Z",
+  "last_run": "2026-10-14T13:29:34Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 109
+  "runs": 110
  },
  "feeds": {
   "adp-help": {},
@@ -276,6 +276,15 @@
     "page": 4,
     "summary": "Bank of America Corp. was fined more than $1.21 billion for money laundering and sanctions violations by US regulators.",
     "title": "BofA Hit With $1.2 Billion of Fines Over Money-Laundering ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/bofa-results-marred-by-1-2-billion-penalty-weaker-trading-1": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T13:29:34Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/bofa-results-marred-by-1-2-billion-penalty-weaker-trading-1",
+    "page": 4,
+    "summary": "BofA, the No. 2 US bank, also announced a $1.2 billion non-tax-deductible charge, cutting into net income by 17 cents a share. The charge is for fines for money ...",
+    "title": "BofA Results Marred by $1.2 Billion Penalty, Weaker ..."
    },
    "news.bloomberglaw.com/business-and-practice/california-data-brokers-report-over-60-million-profile-deletions": {
     "baseline": false,
@@ -2394,6 +2403,15 @@
    }
   },
   "sap-financial-management-press": {
+   "news.sap.com/2026/10/fast-growth-companies-biggest-ai-opportunity-few-capturing": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T13:29:34Z",
+    "link": "https://news.sap.com/2026/10/fast-growth-companies-biggest-ai-opportunity-few-capturing/",
+    "page": 1,
+    "summary": "On the journey to becoming an Autonomous Enterprise, fast-growth have the advantage of agility when deploying AI.",
+    "title": "Fast-Growth Companies Have the Biggest AI Opportunity"
+   },
    "news.sap.com/2026/10/industry-ai-deep-industry-knowledge-fde-measurable-value": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -3731,6 +3749,15 @@
     "page": 1,
     "summary": "Square releases new features and updates in grouped bundles every two weeks. Upcoming updates are listed in the Release notes section of Square Dashboard before ...",
     "title": "Manage Bundle Releases and Early Feature Access with ..."
+   },
+   "squareup.com/help/us/en/article/8707-set-up-your-thanx-integration-with-square": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T13:29:34Z",
+    "link": "https://squareup.com/help/us/en/article/8707-set-up-your-thanx-integration-with-square",
+    "page": 1,
+    "summary": "Thanx is a third-party ordering and loyalty platform that integrates with Square as a managed online sales channel.",
+    "title": "Set up your Thanx integration with Square"
    }
   },
   "stripe-help": {
