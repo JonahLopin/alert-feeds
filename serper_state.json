@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 5266,
+  "credits_used": 5319,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-14T10:10:58Z",
+  "last_run": "2026-10-14T11:10:09Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 107
+  "runs": 108
  },
  "feeds": {
   "adp-help": {},
@@ -286,6 +286,15 @@
     "summary": "Data brokers operating in California report having deleted more than 60 million consumer profiles via the state's newly launched data deletion platform, ...",
     "title": "California Data Brokers Report Over 60 Million Profile ..."
    },
+   "news.bloomberglaw.com/business-and-practice/china-buys-spot-lng-shipments-to-refill-storage-ahead-of-winter": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-14T11:10:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/china-buys-spot-lng-shipments-to-refill-storage-ahead-of-winter",
+    "page": 4,
+    "summary": "China National Offshore Oil Corp. has purchased multiple liquefied natural gas cargoes for delivery in October and the first half of November, according to ...",
+    "title": "China Buys Spot LNG Shipments to Refill Storage Ahead ..."
+   },
    "news.bloomberglaw.com/business-and-practice/cnn-blasts-azerbaijans-dangerous-lawsuit-over-iran-reporting": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -400,6 +409,15 @@
     "page": 1,
     "summary": "Salmon's practice focuses on FDA regulatory and corporate transactional matters, including product development, advertising and promotion, medical ...",
     "title": "Dentons Employs FDA and Health Care Transactions ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/diesel-supplies-to-remain-constrained-well-into-2027-iea-warns": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T11:10:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/diesel-supplies-to-remain-constrained-well-into-2027-iea-warns",
+    "page": 3,
+    "summary": "Global supplies of diesel and other fuels will remain under pressure next year as a result of conflicts in the Middle East and Russia, despite a weaker ...",
+    "title": "Diesel Supplies to Remain Constrained Well Into 2027, IEA ..."
    },
    "news.bloomberglaw.com/business-and-practice/disney-pitches-paramount-universal-on-imax-big-screen-rival": {
     "baseline": true,
@@ -588,6 +606,15 @@
     "summary": "As the chief financial officer of a public company, Ryan Schaffer was used to working and reworking his remarks ahead of earnings calls.",
     "title": "From CFO Bots to Analyst Prep, AI Aids Earnings Call ..."
    },
+   "news.bloomberglaw.com/business-and-practice/fsb-moves-to-align-on-bank-rules-as-regulators-weigh-rollback": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-14T11:10:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/fsb-moves-to-align-on-bank-rules-as-regulators-weigh-rollback",
+    "page": 4,
+    "summary": "The world's top financial stability watchdog urged global policymakers to address inefficiencies in their banking regulations and focus on material issues, ...",
+    "title": "FSB Moves to Align on Bank Rules as Regulators Weigh ..."
+   },
    "news.bloomberglaw.com/business-and-practice/global-forum-releases-cybersecurity-guidance-for-tax-authorities": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -738,6 +765,15 @@
     "page": 3,
     "summary": "Sen. Jim Justice (R-W.Va.) is liable to Lexon Insurance Co. for more than $25 million to cover a surety bond issued to coal companies the senator and his ...",
     "title": "Jim Justice Owes Insurer $25 Million in Coal Surety Bond ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/judge-rules-news-outlets-can-keep-white-house-access-for-now-1": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-10-14T11:10:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/judge-rules-news-outlets-can-keep-white-house-access-for-now-1",
+    "page": 5,
+    "summary": "A federal judge said journalists with CNN, MS NOW and Politico can continue to have access to the White House while their lawsuit against the Trump ...",
+    "title": "Judge Rules News Outlets Can Keep White House Access ..."
    },
    "news.bloomberglaw.com/business-and-practice/judge-sides-with-importers-to-expand-trump-tariff-refund-fight": {
     "baseline": false,
@@ -1097,6 +1133,15 @@
     "summary": "Strategy Inc.'s Michael Saylor is declaring an end to the past year's crypto market rout and predicting that Bitcoin is set to break $100000 again.",
     "title": "Strategy's Saylor Sees Bitcoin Moving Back Up Beyond ..."
    },
+   "news.bloomberglaw.com/business-and-practice/streaming-execution-would-be-a-national-security-moral-failure": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T11:10:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/streaming-execution-would-be-a-national-security-moral-failure",
+    "page": 1,
+    "summary": "Secretary of Defense Pete Hegseth announced that convicted murderer Nidal Hasan will be executed by firing squad on Dec. 3, 2026, and that it would be ...",
+    "title": "Streaming Execution Would Be a National Security, Moral ..."
+   },
    "news.bloomberglaw.com/business-and-practice/sullivan-cromwell-nabs-ashurst-mcguirewoods-appellate-chairs": {
     "baseline": true,
     "date_hint": "4 days ago",
@@ -1185,6 +1230,15 @@
     "page": 1,
     "summary": "Immigration judges installed on a permanent basis since Trump returned to office have denied 49% of asylum applications that went before them from October 2025",
     "title": "Trump Immigration Judges Are More Likely to Reject ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trump-pardons-two-alaska-mechanics-over-clean-air-act-violations": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-10-14T11:10:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-pardons-two-alaska-mechanics-over-clean-air-act-violations",
+    "page": 2,
+    "summary": "President Donald Trump on Tuesday pardoned two Alaska men who were convicted of violating the Clean Air Act for removing air pollution monitors from diesel ...",
+    "title": "Trump Pardons Two Alaska Mechanics Over Clean Air Act ..."
    },
    "news.bloomberglaw.com/business-and-practice/trump-says-putin-to-supply-us-with-diesel-ahead-of-midterms-3": {
     "baseline": false,
@@ -1825,6 +1879,15 @@
     "page": 3,
     "summary": "You can move clients between Intuit Accountant Suite (IAS) accounts. All their info, client numbers, and team access move with them.",
     "title": "Transfer clients in Intuit Accountant Suite (IAS)"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/manage-teams/check-firm-s-proadvisor-certification-status-projected-tier/L2C5QaOuO_US_en_US": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-10-14T11:10:09Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-teams/check-firm-s-proadvisor-certification-status-projected-tier/L2C5QaOuO_US_en_US",
+    "page": 2,
+    "summary": "If you're still using QuickBooks Online Accountant, update to Intuit Accountant Suite (IAS) before you follow the steps in this article.",
+    "title": "Check your firm's ProAdvisor certification status and projected ..."
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/matching-rules/learn-updates-new-ai-powered-banking-page/L0hR7A9Zf_US_en_US": {
     "baseline": false,
@@ -3247,6 +3310,15 @@
   },
   "sovos-blog": {},
   "sovos-help": {
+   "docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/manage-your-password": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-14T11:10:09Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/manage-your-password",
+    "page": 1,
+    "summary": "Reset password \u00b7 Go to Sovos Home. \u00b7 On the login screen, click Forgot password. \u00b7 Enter your email address, then click Continue. \u00b7 Check your email for a message ...",
+    "title": "Manage your password - Sovos Docs"
+   },
    "docs.sovos.com/en/sovos-glossary/registro-federal-de-contribuyentes-rfc": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -4059,6 +4131,15 @@
     "page": 2,
     "summary": "Wolters Kluwer equips primary care providers with tools to meet burgeoning mental health demand ... The overwhelming demand for mental health care and the ...",
     "title": "Wolters Kluwer equips primary care providers with tools to ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-expands-libra-legal-ai-workspace": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-14T11:10:09Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-expands-libra-legal-ai-workspace",
+    "page": 1,
+    "summary": "Leading arbitration, competition and IP law content now available within Libra by Wolters Kluwer.",
+    "title": "Wolters Kluwer expands Libra legal AI workspace"
    },
    "wolterskluwer.com/en/news/wolters-kluwer-expands-professional-services-for-teammate-expert-solutions-with-protiviti-in-europe": {
     "baseline": true,
