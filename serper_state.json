@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 5783,
+  "credits_used": 5835,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-14T20:45:55Z",
+  "last_run": "2026-10-14T21:44:35Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 117
+  "runs": 118
  },
  "feeds": {
   "adp-help": {},
@@ -241,6 +241,15 @@
     "page": 2,
     "summary": "The US Court of Appeals for the Eleventh District vacated a lower court's judgment in a lawsuit brought by Bear Warriors United Inc. against the Florida ...",
     "title": "Appeals Court Vacates Manatee Harm Decision After Rule ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T21:44:35Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia",
+    "page": 4,
+    "summary": "Abdulrahman Alfozan, a Saudi Arabian national, was arrested on Oct. 9, more than a week after staffers at OpenAI discovered an audio recording device planted ...",
+    "title": "Arrested OpenAI Engineer Booked a One-Way Ticket to ..."
    },
    "news.bloomberglaw.com/business-and-practice/asic-to-share-big-four-surveillance-findings-after-kpmg-scandal": {
     "baseline": false,
@@ -383,6 +392,15 @@
     "page": 3,
     "summary": "CoreWeave shares plunged as much as 17% on Wednesday, the biggest drop since February. Its debt due in 2032, which investors bought at par four months ago, ...",
     "title": "CoreWeave's Brazen Dream Crashes Into Reality as Yields ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/court-allows-trumps-latest-anti-dei-federal-contracting-order": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T21:44:35Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/court-allows-trumps-latest-anti-dei-federal-contracting-order",
+    "page": 2,
+    "summary": "The president's March 2026 executive order restricting diversity, equity, and inclusion programs isn't likely to violate federal contractors' First Amendment ...",
+    "title": "Court Allows Trump's Latest Anti-DEI Federal Contracting ..."
    },
    "news.bloomberglaw.com/business-and-practice/cravath-europe-counsel-bruno-jumps-to-paul-hastings-in-london": {
     "baseline": false,
@@ -607,6 +625,15 @@
     "summary": "The nine-page memo offered voluntary recommendations to reduce risk from two per- and polyfluoroalkyl substances (PFAS) found in biosolids, which are semisolid, ...",
     "title": "EPA Redo of Biden-era PFAS Biosolids Analysis Spurs ..."
    },
+   "news.bloomberglaw.com/business-and-practice/epas-defense-of-methane-emissions-delays-draws-court-scrutiny": {
+    "baseline": false,
+    "date_hint": "49 minutes ago",
+    "first_seen": "2026-10-14T21:44:35Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/epas-defense-of-methane-emissions-delays-draws-court-scrutiny",
+    "page": 2,
+    "summary": "Methane gas is flared in New Mexico. ... The EPA struggled to explain its reasoning for delaying compliance deadlines for methane emissions from oil and gas ...",
+    "title": "EPA's Defense of Methane Emissions Delays Draws Court ..."
+   },
    "news.bloomberglaw.com/business-and-practice/ex-michigan-judge-who-showed-up-drunk-to-work-agrees-to-sanction": {
     "baseline": false,
     "date_hint": "6 hours ago",
@@ -739,6 +766,15 @@
     "page": 1,
     "summary": "Roscoe advises clients across the energy and infrastructure sectors on mergers and acquisitions, joint ventures, commercial arrangements, restructurings,",
     "title": "Greenberg Traurig Snares Energy Lawyer Hannah Roscoe ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/half-dozen-states-hit-openai-with-kids-online-safety-lawsuits": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T21:44:35Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/half-dozen-states-hit-openai-with-kids-online-safety-lawsuits",
+    "page": 3,
+    "summary": "More than half a dozen states sued OpenAI Inc. Wednesday alleging the tech giant didn't implement sufficient safeguards to protect vulnerable users, ...",
+    "title": "Half-Dozen States Hit OpenAI With Kids Online Safety ..."
    },
    "news.bloomberglaw.com/business-and-practice/hawaii-judge-weighs-fate-of-trumps-la-prosecutor-in-removal-bid": {
     "baseline": false,
@@ -1366,6 +1402,15 @@
     "summary": "Tech Earnings Loom Large for Funds Packed Into Dispersion Trade Oct. 11, 2026, tech company earnings collide with a Federal Reserve meeting and US midterm ...",
     "title": "Tech Earnings Loom Large for Funds Packed Into ..."
    },
+   "news.bloomberglaw.com/business-and-practice/texas-energy-lawyer-jolly-joins-troutman-pepper-in-austin-office": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T21:44:35Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/texas-energy-lawyer-jolly-joins-troutman-pepper-in-austin-office",
+    "page": 3,
+    "summary": "Emily Jolly joined Troutman Pepper Locke's energy regulatory practice group as a partner in Austin, the firm announced Wednesday.",
+    "title": "Texas Energy Lawyer Jolly Joins Troutman Pepper in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/texas-is-investing-in-rural-justice-better-data-can-grow-access": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1685,6 +1730,15 @@
   "chownow-blog": {},
   "csc-blog": {},
   "doordash-blog": {
+   "merchants.doordash.com/en-us/blog/corkage-fee": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-14T21:44:35Z",
+    "link": "https://merchants.doordash.com/en-us/blog/corkage-fee",
+    "page": 1,
+    "summary": "A corkage fee is what a restaurant charges when guests bring their own wine or alcohol to drink on-site. Restaurants commonly charge between $10 and $50 per ...",
+    "title": "Corkage Fee 101: What It Is & How to Set the Right Price"
+   },
    "merchants.doordash.com/en-us/blog/restaurant-advertisement": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -3984,6 +4038,24 @@
    }
   },
   "square-help": {
+   "squareup.com/help/us/en/article/8683-set-up-your-square-kiosk-mount": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-14T21:44:35Z",
+    "link": "https://squareup.com/help/us/en/article/8683-set-up-your-square-kiosk-mount",
+    "page": 1,
+    "summary": "Square Kiosk supports four mounting options to fit your space and business needs. Wall mount: Secures the Square Kiosk directly to a wall, saving floor and ...",
+    "title": "Set up your Square Kiosk mount"
+   },
+   "squareup.com/help/us/en/article/8694-manage-your-square-kiosk-subscription": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T21:44:35Z",
+    "link": "https://squareup.com/help/us/en/article/8694-manage-your-square-kiosk-subscription",
+    "page": 1,
+    "summary": "Your Square Kiosk subscription includes the Square Kiosk hardware device and integrated software, a purpose-built self-ordering kiosk with AI-powered voice ...",
+    "title": "Manage your Square Kiosk subscription"
+   },
    "squareup.com/help/us/en/article/8700-manage-your-square-organization-and-permissions-for-square-multi-account-suite": {
     "baseline": false,
     "date_hint": "15 hours ago",
@@ -4466,6 +4538,15 @@
     "page": 2,
     "summary": "Introducing UpToDate Expert AI, evidence-based GenAI in clinical decision support. Speed, evidence, and trust\u2014the AI tool you've been waiting for.",
     "title": "Wolters Kluwer adds UpToDate Lexidrug to GenAI ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-alberto-de-benito-aznar-general-manager-audit-assurance": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T21:44:35Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-alberto-de-benito-aznar-general-manager-audit-assurance",
+    "page": 1,
+    "summary": "Experienced Wolters Kluwer executive returns to the business as it expands its integrated assurance platform and advances its AI strategy.",
+    "title": "Wolters Kluwer names Alberto de Benito Aznar General ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-and-suki-to-integrate-uptodates-trusted-physicianauthored-content-into-suki-assistant": {
     "baseline": true,
