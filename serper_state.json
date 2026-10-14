@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 5109,
+  "credits_used": 5162,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-14T07:14:54Z",
+  "last_run": "2026-10-14T08:14:08Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 104
+  "runs": 105
  },
  "feeds": {
   "adp-help": {},
@@ -2493,6 +2493,24 @@
     "summary": "Die SAP Connect 2026 zeigt neue Entwicklungen zur Autonomous Customer Experience. Lernen Sie die KI-gest\u00fctzten L\u00f6sungen kennen.",
     "title": "Autonomous Customer Experience: Die Zukunft der CX"
    },
+   "news.sap.com/germany/2026/10/naechste-generation-von-unternehmens-ki": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T08:14:08Z",
+    "link": "https://news.sap.com/germany/2026/10/naechste-generation-von-unternehmens-ki/",
+    "page": 1,
+    "summary": "Lernen Sie, wie die n\u00e4chste Generation von Business AI Unternehmen hilft, der steigenden Nachfrage trotz Fachkr\u00e4ftemangel gerecht zu werden.",
+    "title": "N\u00e4chste Generation von Business AI"
+   },
+   "news.sap.com/germany/2026/10/naechste-generation-von-unternehmens-ki?amp=1": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T08:14:08Z",
+    "link": "https://news.sap.com/germany/2026/10/naechste-generation-von-unternehmens-ki/?amp=1",
+    "page": 1,
+    "summary": "Die SAP Business AI Platform stellt sicher, dass diese Antworten auf dem Kontext der Gesch\u00e4ftsabl\u00e4ufe des jeweiligen Unternehmens basieren.",
+    "title": "N\u00e4chste Generation von Business AI"
+   },
    "news.sap.com/germany/2026/10/sap-praesentiert-das-autonome-unternehmen-im-praxiseinsatz": {
     "baseline": true,
     "date_hint": "24 hours ago",
@@ -2949,6 +2967,15 @@
     "link": "https://www.shopify.com/blog/business-mindset",
     "summary": "Cultivating a business mindset allows you to see challenges as opportunities for growth and learn valuable lessons from setbacks.",
     "title": "How To Cultivate a Business Mindset: Tips and Benefits"
+   },
+   "shopify.com/blog/buyers-guide": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-14T08:14:08Z",
+    "link": "https://www.shopify.com/blog/buyers-guide",
+    "page": 1,
+    "summary": "How do you make a buyers guide? Start by defining whom the guide is for, then build the content around your own products. Format the guide for fast scanning, ...",
+    "title": "Buyers Guide: How To Create One for Your Store (2026)"
    },
    "shopify.com/blog/customer-connection": {
     "baseline": false,
