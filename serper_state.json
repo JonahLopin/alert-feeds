@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 5731,
+  "credits_used": 5783,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-14T19:45:19Z",
+  "last_run": "2026-10-14T20:45:55Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 116
+  "runs": 117
  },
  "feeds": {
   "adp-help": {},
@@ -268,6 +268,15 @@
     "summary": "Kirkland & Ellis partner Allison Murphy is joining Baker McKenzie to co-head the congressional investigations practice, weeks before the midterm elections ...",
     "title": "Baker McKenzie Hire Formalizes Congressional ..."
    },
+   "news.bloomberglaw.com/business-and-practice/barnes-thornburg-recruits-public-finance-partner-in-washington": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T20:45:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/barnes-thornburg-recruits-public-finance-partner-in-washington",
+    "page": 1,
+    "summary": "Marissa Perlmutter joined Barnes & Thornburg as a partner in Washington, DC, the firm announced Wednesday.",
+    "title": "Barnes & Thornburg Recruits Public Finance Partner in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/black-box-revenue-from-anthropic-and-openai-stumps-traders": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -365,6 +374,15 @@
     "page": 1,
     "summary": "The AI cloud-computing provider's unsecured debt due in 2032 traded below 80 cents on the dollar on Wednesday, according to Trace pricing data. That's widely ...",
     "title": "CoreWeave Bonds Tumble Into Distress, Drawing 'Yikes' ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/coreweaves-brazen-dream-crashes-into-reality-as-yields-top-15": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T20:45:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/coreweaves-brazen-dream-crashes-into-reality-as-yields-top-15",
+    "page": 3,
+    "summary": "CoreWeave shares plunged as much as 17% on Wednesday, the biggest drop since February. Its debt due in 2032, which investors bought at par four months ago, ...",
+    "title": "CoreWeave's Brazen Dream Crashes Into Reality as Yields ..."
    },
    "news.bloomberglaw.com/business-and-practice/cravath-europe-counsel-bruno-jumps-to-paul-hastings-in-london": {
     "baseline": false,
@@ -838,6 +856,15 @@
     "summary": "Insurers are withdrawing coverage for climate-driven risks and increasingly passing on losses to governments and homeowners, according to a report published ...",
     "title": "Insurance Pullback Is Coming as Climate Risk Grows, ..."
    },
+   "news.bloomberglaw.com/business-and-practice/iowa-michigan-hit-by-weak-exports-ahead-of-tight-midterm-races": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-14T20:45:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/iowa-michigan-hit-by-weak-exports-ahead-of-tight-midterm-races",
+    "page": 4,
+    "summary": "Iowa and Michigan are among US states with competitive Senate races that appear hardest hit by President Donald Trump's tariff agenda, with exports falling ...",
+    "title": "Iowa, Michigan Hit by Weak Exports Ahead of Tight ..."
+   },
    "news.bloomberglaw.com/business-and-practice/japan-orders-sales-halt-for-prudential-units-after-misconduct": {
     "baseline": true,
     "date_hint": "1 hour ago",
@@ -1089,6 +1116,15 @@
     "summary": "Lumentum Holdings Inc.'s optical components are \u201ccompletely sold out\u201d through early 2029 on demand from tech companies clamoring for faster AI data centers, ...",
     "title": "Nvidia-Backed Lumentum Sold Out of AI Server Parts Till ..."
    },
+   "news.bloomberglaw.com/business-and-practice/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T20:45:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai",
+    "page": 4,
+    "summary": "Chief Executive Officer Jensen Huang said he would halt the supply of chips to a customer that was developing unsafe AI software, though he doesn't believe that ...",
+    "title": "Nvidia CEO Says He Would Cut Off Customers Who Build ..."
+   },
    "news.bloomberglaw.com/business-and-practice/nvidia-chipagents-launch-eval-for-ai-chip-design-information": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1303,6 +1339,15 @@
     "summary": "Sullivan & Cromwell is bringing on a pair of litigators to lead its Supreme Court and appellate practice. The firm is one of the most profitable in the nation ...",
     "title": "Sullivan & Cromwell Nabs Ashurst, McGuireWoods ..."
    },
+   "news.bloomberglaw.com/business-and-practice/supreme-court-today-oct-15-2026": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-14T20:45:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/supreme-court-today-oct-15-2026",
+    "page": 1,
+    "summary": "New York Attorney General Letitia James (D) should be removed as the special prosecutor in the high-profile Cornell University rape investigation, according to ...",
+    "title": "Supreme Court Today, Oct. 15, 2026"
+   },
    "news.bloomberglaw.com/business-and-practice/taiwans-lai-urges-democracies-to-unite-after-trump-xi-summit": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -1347,6 +1392,15 @@
     "page": 1,
     "summary": "Two food-related disputes are slated for upcoming trials in the Delaware Chancery Court: Albertsons' failed merger with Kroger, and Freshly's acquisition by ...",
     "title": "This Week in Chancery Court: Albertsons, Kroger, Nestl\u00e9, ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/ticket-resellers-aim-to-scrap-dcs-new-deceptive-practices-law": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T20:45:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ticket-resellers-aim-to-scrap-dcs-new-deceptive-practices-law",
+    "page": 3,
+    "summary": "A new District of Columbia law that regulates event ticket resales in order to prevent deceptive practices violates the US Constitution \u201cseveral times over ...",
+    "title": "Ticket Resellers Aim to Scrap DC's New Deceptive ..."
    },
    "news.bloomberglaw.com/business-and-practice/troutman-pepper-locke-lands-two-health-care-litigation-partners": {
     "baseline": false,
@@ -1656,6 +1710,15 @@
     "page": 1,
     "summary": "Learn how to build a restaurant email list, run automated campaigns, and turn first-time guests into regulars. Practical strategies for busy operators.",
     "title": "Restaurant Email Marketing: Complete Guide to Drive Orders"
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-marketing-budget": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T20:45:55Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-marketing-budget",
+    "page": 1,
+    "summary": "How much should you spend on restaurant marketing? Get a sourced benchmark, a spend breakdown by budget size, and when paid ads pay off.",
+    "title": "Restaurant Marketing Budget Breakdown: Tips to Maximize It"
    },
    "merchants.doordash.com/en-us/blog/restaurant-seo": {
     "baseline": false,
