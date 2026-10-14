@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 5680,
+  "credits_used": 5731,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-14T18:38:27Z",
+  "last_run": "2026-10-14T19:45:19Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 115
+  "runs": 116
  },
  "feeds": {
   "adp-help": {},
@@ -411,6 +411,15 @@
     "summary": "Crypto hardware maker OneKey has revoked CryptoBilis's authorization as a reseller of its products, widening the fallout from the discovery that some Ledger ...",
     "title": "Crypto Wallet Tampering Fallout Widens as OneKey Drops ..."
    },
+   "news.bloomberglaw.com/business-and-practice/cryptos-leverage-machine-finds-new-life-beyond-bitcoin-bets": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-14T19:45:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cryptos-leverage-machine-finds-new-life-beyond-bitcoin-bets",
+    "page": 2,
+    "summary": "A year after crypto's historic crash, leveraged trading has yet to regain its old swagger. But the appetite for outsize bets hasn't disappeared.",
+    "title": "Crypto's Leverage Machine Finds New Life Beyond Bitcoin ..."
+   },
    "news.bloomberglaw.com/business-and-practice/cryptos-push-into-stocks-fuels-new-wall-street-lending-plan-1": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -535,6 +544,15 @@
     "page": 2,
     "summary": "The Justice Department's Office of Professional Responsibility is actively investigating attorneys' conduct in the \u201cBroadview Six\u201d scandal, ...",
     "title": "DOJ Watchdog Probing Alleged Grand Jury Misconduct in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/dojs-khojasteh-joins-boies-schillers-growing-white-collar-team": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T19:45:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/dojs-khojasteh-joins-boies-schillers-growing-white-collar-team",
+    "page": 2,
+    "summary": "Sarmad Khojasteh joined Boies Schiller Flexner as a partner in its global investigations & white collar defense and commercial litigation practices in New ...",
+    "title": "DOJ's Khojasteh Joins Boies Schiller's Growing White ..."
    },
    "news.bloomberglaw.com/business-and-practice/dojs-transgender-care-subpoena-appeal-confronts-doubtful-judges": {
     "baseline": true,
@@ -739,6 +757,15 @@
     "page": 1,
     "summary": "The US Supreme Court declined to examine judicial authority to decide the validity of an arbitration agreement between a signatory and a non-signatory, ...",
     "title": "High Court Skips Case on Non-Signatories Compelling ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/hogan-lovells-brings-on-thalhammer-as-new-york-banking-partner": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T19:45:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/hogan-lovells-brings-on-thalhammer-as-new-york-banking-partner",
+    "page": 3,
+    "summary": "Christopher Thalhammer joined Hogan Lovells Cadwalader as a partner in its banking and loan finance practice in New York, the firm announced Wednesday.",
+    "title": "Hogan Lovells Brings On Thalhammer as New York ..."
    },
    "news.bloomberglaw.com/business-and-practice/hogan-lovells-hires-baker-botts-california-environmental-partner": {
     "baseline": false,
@@ -4166,6 +4193,15 @@
     "page": 4,
     "summary": "Wolters Kluwer Health today announced a new collaboration with AME Publishing Company, an Open Access publisher specializing in medical journals and books, ...",
     "title": "AME and Wolters Kluwer aim to expand access to global ..."
+   },
+   "wolterskluwer.com/en/news/connected-operational-risk-ai-digital-transformation": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T19:45:19Z",
+    "link": "https://www.wolterskluwer.com/en/news/connected-operational-risk-ai-digital-transformation",
+    "page": 1,
+    "summary": "Enablon Engage EMEA 2026 customers share lessons on user adoption, connected risk data, continuous improvement, and AI-supported decisions.",
+    "title": "What organizations are learning about connected ..."
    },
    "wolterskluwer.com/en/news/facial-thread-lifting-complications-causes-and-prevention": {
     "baseline": false,
