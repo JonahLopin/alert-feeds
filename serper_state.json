@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 4731,
+  "credits_used": 4784,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-13T23:42:51Z",
+  "last_run": "2026-10-14T01:09:13Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 97
+  "runs": 98
  },
  "feeds": {
   "adp-help": {},
@@ -508,6 +508,15 @@
     "summary": "The GAO will investigate whether staff cuts at the Commodity Futures Trading Commission is affecting its ability to function, following a request by Senate",
     "title": "Federal Watchdog Will Investigate CFTC Job Cuts and ..."
    },
+   "news.bloomberglaw.com/business-and-practice/feds-cook-puts-off-white-house-hearing-over-trumps-allegations": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T01:09:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/feds-cook-puts-off-white-house-hearing-over-trumps-allegations",
+    "page": 4,
+    "summary": "Federal Reserve Governor Lisa Cook says she will be unable to attend a Nov. 5 hearing at the White House that's part of a new investigation into mortgage ...",
+    "title": "Fed's Cook Puts Off White House Hearing Over Trump's ..."
+   },
    "news.bloomberglaw.com/business-and-practice/financial-services-chairmans-race-downgraded-to-likely-gop": {
     "baseline": true,
     "date_hint": "4 hours ago",
@@ -577,6 +586,15 @@
     "page": 1,
     "summary": "When Goldman Sachs Group Inc. buys boutique ETF provider Neos Investments, it'll acquire not only some of the hottest derivative-income funds around, ...",
     "title": "Goldman's $2.3 Billion Deal Puts Tax-Smart ETFs Under ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/google-ai-customer-service-privacy-lawsuit-gets-doubtful-judge": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T01:09:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/google-ai-customer-service-privacy-lawsuit-gets-doubtful-judge",
+    "page": 2,
+    "summary": "A federal judge overseeing a proposed class action claiming Google LLC unlawfully eavesdropped on customer support calls for a variety of businesses, ...",
+    "title": "Google AI Customer Service Privacy Lawsuit Gets Doubtful ..."
    },
    "news.bloomberglaw.com/business-and-practice/greenberg-traurig-snares-energy-lawyer-hannah-roscoe-in-london": {
     "baseline": false,
@@ -666,6 +684,15 @@
     "page": 1,
     "summary": "A debate Thursday night in the closely watched Michigan Senate race quickly turned acrimonious, with Democrat Abdul El-Sayed and former Republican ...",
     "title": "Insults Punctuate El-Sayed, Rogers Fiery Michigan Senate ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/insurance-pullback-is-coming-as-climate-risk-grows-report-shows": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T01:09:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/insurance-pullback-is-coming-as-climate-risk-grows-report-shows",
+    "page": 3,
+    "summary": "Insurers are withdrawing coverage for climate-driven risks and increasingly passing on losses to governments and homeowners, according to a report published ...",
+    "title": "Insurance Pullback Is Coming as Climate Risk Grows, ..."
    },
    "news.bloomberglaw.com/business-and-practice/japan-orders-sales-halt-for-prudential-units-after-misconduct": {
     "baseline": true,
@@ -2304,6 +2331,15 @@
     "summary": "HR Meat & More is een Belgisch voedingsbedrijf met hoofdzetel in Aalter, bekend van de winkelformules Buurtslagers en Bon'Ap.",
     "title": "Hoe Meat & More HR laat meegroeien met de organisatie"
    },
+   "news.sap.com/belgie/2026/10/hoe-meat-more-hr-laat-meegroeien-met-de-organisatie/meat-more": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-10-14T01:09:13Z",
+    "link": "https://news.sap.com/belgie/2026/10/hoe-meat-more-hr-laat-meegroeien-met-de-organisatie/meat-more/",
+    "page": 2,
+    "summary": "Meteen naar de inhoud. News Center \u00b7 Press \u00b7 Artikelen \u00b7 Onderwerpen \u00b7 Volg. Ontdek SAP. Verken alle gebieden van SAP. Training en support.",
+    "title": "Meat & More - SAP Belgie News Center"
+   },
    "news.sap.com/belgie/2026/10/hoe-meat-more-hr-laat-meegroeien-met-de-organisatie?amp=1": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -2625,6 +2661,15 @@
     "link": "https://news.sap.com/sweden/",
     "summary": "SAP visar hur AI skapar v\u00e4rde i hela verksamheten \u2013 det sj\u00e4lvstyrande f\u00f6retaget g\u00e5r fr\u00e5n vision till verklighet \u00b7 SAP Nyheter \u00b7 F\u00f6lj SAP News \u00b7 \u00c4mnen.",
     "title": "SAP Sweden Nyheter - Nyheter och information om SAP"
+   },
+   "news.sap.com/tags/autonomous-enterprise": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-14T01:09:13Z",
+    "link": "https://news.sap.com/tags/autonomous-enterprise/",
+    "page": 1,
+    "summary": "Autonomous Enterprise Feature Industry AI: Deep Industry Knowledge, Forward-Deployed Engineering, Measurable Value. Giving Enterprises Evidence-Based View of ...",
+    "title": "Autonomous Enterprise Archives"
    },
    "news.sap.com/tags/sap-pay": {
     "baseline": true,
@@ -3335,6 +3380,15 @@
     "page": 1,
     "summary": "Square Multi-Account Suite includes organization-level reports that let operator merchants view sales and performance data across all member merchants and ...",
     "title": "Manage organization reports with Square Multi-Account Suite"
+   },
+   "squareup.com/help/us/en/article/8703-manage-catalog-with-square-multi-account-suite": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-10-14T01:09:13Z",
+    "link": "https://squareup.com/help/us/en/article/8703-manage-catalog-with-square-multi-account-suite",
+    "page": 1,
+    "summary": "With Square Multi-Account Suite, the operator merchant can create and manage a central catalog of menus, items, modifier sets, services, and discounts in Square ...",
+    "title": "Manage catalog with Square Multi-Account Suite"
    },
    "squareup.com/help/us/en/article/8705-manage-bundle-releases-and-early-feature-access-with-square-multi-account-suite": {
     "baseline": false,
