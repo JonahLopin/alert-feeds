@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 5478,
+  "credits_used": 5529,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-14T14:31:41Z",
+  "last_run": "2026-10-14T15:32:59Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 111
+  "runs": 112
  },
  "feeds": {
   "adp-help": {},
@@ -2383,6 +2383,15 @@
    }
   },
   "ncr-voyix-press": {
+   "ncrvoyix.com/newsroom/sbarro-expands-partnership-with-ncr-voyix-to-modernize-restaurant-operations-and-streamline-payments": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T15:32:59Z",
+    "link": "https://www.ncrvoyix.com/newsroom/sbarro-expands-partnership-with-ncr-voyix-to-modernize-restaurant-operations-and-streamline-payments",
+    "page": 1,
+    "summary": "Sbarro Expands Partnership with NCR Voyix to Modernize Restaurant Operations and Streamline Payments \u00b7 \u200dATLANTA -- October 14, 2026 -- NCR Voyix (NYSE: VYX) \u200d.",
+    "title": "Sbarro Expands Partnership with NCR Voyix to Modernize ..."
+   },
    "ncrvoyix.com/newsroom/truage-age-verification-solution-integrated-across-ncr-voyix-point-of-sale-portfolio-for-convenience-and-fuel-retailers": {
     "baseline": true,
     "date_hint": "3 days ago",
