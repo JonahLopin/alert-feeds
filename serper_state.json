@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 5835,
+  "credits_used": 5887,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-14T21:44:35Z",
+  "last_run": "2026-10-14T22:43:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 118
+  "runs": 119
  },
  "feeds": {
   "adp-help": {},
@@ -704,6 +704,15 @@
     "page": 2,
     "summary": "A Florida Bar exam penalty for legal experience \u2014 forcing veteran lawyers to pay more than three times what recent law school graduates pay to sit for the ...",
     "title": "Florida Bar Exam Fees for Veteran Lawyers Ruled ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/florida-gets-pause-on-teen-social-media-age-restrictions-lifted": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T22:43:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/florida-gets-pause-on-teen-social-media-age-restrictions-lifted",
+    "page": 3,
+    "summary": "Florida convinced a federal appeals court Wednesday to undo a preliminary injunction that stopped it from enforcing a state law imposing age-based ...",
+    "title": "Florida Gets Pause on Teen Social Media Age Restrictions ..."
    },
    "news.bloomberglaw.com/business-and-practice/florida-judge-suspended-over-deepfake-call-mimicking-justices": {
     "baseline": false,
@@ -1573,6 +1582,15 @@
     "summary": "Vietnam has \u201cessentially completed\u201d talks on a US trade deal and submitted its final remarks to Washington after months of negotiations over tariffs and ...",
     "title": "Vietnam Says US Trade Deal Nearly Done With Final Text ..."
    },
+   "news.bloomberglaw.com/business-and-practice/vw-pivots-to-trucks-and-rugged-suvs-in-a-quest-for-us-profit": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T22:43:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/vw-pivots-to-trucks-and-rugged-suvs-in-a-quest-for-us-profit",
+    "page": 5,
+    "summary": "Volkswagen AG has spent decades trying to build a US business that matches its stature as the world's second-largest carmaker. Now the market it repeatedly ...",
+    "title": "VW Pivots to Trucks and Rugged SUVs in a Quest for US ..."
+   },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-foley-hoag-to-defend-gov-moore-in-defamation-case": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -1739,6 +1757,15 @@
     "summary": "A corkage fee is what a restaurant charges when guests bring their own wine or alcohol to drink on-site. Restaurants commonly charge between $10 and $50 per ...",
     "title": "Corkage Fee 101: What It Is & How to Set the Right Price"
    },
+   "merchants.doordash.com/en-us/blog/food-business-ideas": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T22:43:53Z",
+    "link": "https://merchants.doordash.com/en-us/blog/food-business-ideas",
+    "page": 1,
+    "summary": "15 food business ideas to start \u00b7 Restaurant \u00b7 Food truck \u00b7 Coffee shop \u00b7 Bakery \u00b7 Ghost kitchen or virtual restaurant \u00b7 Catering \u00b7 Personal chef \u00b7 Cooking classes.",
+    "title": "15 Food Business Ideas: Costs & How to Start"
+   },
    "merchants.doordash.com/en-us/blog/restaurant-advertisement": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -1809,6 +1836,15 @@
     "page": 1,
     "summary": "Learn how to get more Google reviews for your restaurant with proven tactics that improve local rankings, build trust, and bring in more orders.",
     "title": "How to Get More Restaurant Reviews From Clients"
+   },
+   "merchants.doordash.com/en-us/blog/what-is-a-gastropub": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T22:43:53Z",
+    "link": "https://merchants.doordash.com/en-us/blog/what-is-a-gastropub",
+    "page": 1,
+    "summary": "A gastropub is a public house (pub) that serves high-quality food alongside craft beer, wine, and cocktails. It blends the casual vibe of a regular pub with ...",
+    "title": "What Is a Gastropub? Meaning, Food & Why They're ..."
    }
   },
   "doordash-press": {
@@ -3286,6 +3322,15 @@
     "link": "https://news.sap.com/topics/erp/",
     "summary": "Planning Beyond 2030: What SAP Business Suite 7 and SAP NetWeaver Customers Using Third-Party Databases or Java Need to Know. by Philipp Herzig.",
     "title": "Enterprise resource planning Archives"
+   },
+   "news.sap.com/topics/sap-connect": {
+    "baseline": false,
+    "date_hint": "16 hours ago",
+    "first_seen": "2026-10-14T22:43:53Z",
+    "link": "https://news.sap.com/topics/sap-connect/",
+    "page": 1,
+    "summary": "SAP Showcases the Autonomous Enterprise in Action \u00b7 Feature \u00b7 Industry AI: Deep Industry Knowledge, Forward-Deployed Engineering, Measurable Value \u00b7 Feature ...",
+    "title": "SAP Connect Archives"
    },
    "news.sap.com/type/feature-article": {
     "baseline": false,

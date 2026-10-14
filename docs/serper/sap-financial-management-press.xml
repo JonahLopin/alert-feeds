@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-14T16:33:28Z</updated>
+  <updated>2026-10-14T22:43:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/topics/sap-connect/</id>
+    <title>SAP Connect Archives</title>
+    <link href="https://news.sap.com/topics/sap-connect/" />
+    <published>2026-10-14T22:43:53Z</published>
+    <updated>2026-10-14T22:43:53Z</updated>
+    <summary>SAP Showcases the Autonomous Enterprise in Action · Feature · Industry AI: Deep Industry Knowledge, Forward-Deployed Engineering, Measurable Value · Feature ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/mena/2026/10/uae-ministry-of-higher-education-and-scientific-research-and-sap-support-academic-workforce-readiness-for-ai-applications/</id>
     <title>UAE's Ministry of Higher Education and Scientific Research ...</title>
