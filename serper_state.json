@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 5629,
+  "credits_used": 5680,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-14T17:30:13Z",
+  "last_run": "2026-10-14T18:38:27Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 114
+  "runs": 115
  },
  "feeds": {
   "adp-help": {},
@@ -224,6 +224,15 @@
     "summary": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value ... TypeSafe AI, the startup behind Jev, a new artificial intelligence model that went viral after it ...",
     "title": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value"
    },
+   "news.bloomberglaw.com/business-and-practice/appeals-court-debates-its-ability-to-hear-immigration-challenge": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T18:38:27Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/appeals-court-debates-its-ability-to-hear-immigration-challenge",
+    "page": 2,
+    "summary": "The full Third Circuit heard argument on whether it has jurisdiction to review reinstatements of past removal orders. Photographer: Issouf Sanogo/AFP via Getty ...",
+    "title": "Appeals Court Debates Its Ability to Hear Immigration ..."
+   },
    "news.bloomberglaw.com/business-and-practice/appeals-court-vacates-manatee-harm-decision-after-rule-change": {
     "baseline": true,
     "date_hint": "18 hours ago",
@@ -241,6 +250,15 @@
     "page": 2,
     "summary": "Australia's corporate regulator will release part of its findings from surveillance of the Big Four audit and consulting firms before the end of the year ...",
     "title": "ASIC to Share Big Four Surveillance Findings After KPMG ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/baker-botts-national-security-chief-exits-for-wilson-sonsini": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T18:38:27Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/baker-botts-national-security-chief-exits-for-wilson-sonsini",
+    "page": 1,
+    "summary": "He advises on matters relates to the Committee on Foreign Investment in the United States, as well other regulatory issues involving the cross-border movement ...",
+    "title": "Baker Botts National Security Chief Exits for Wilson Sonsini"
    },
    "news.bloomberglaw.com/business-and-practice/baker-mckenzie-hire-formalizes-congressional-investigations-work": {
     "baseline": true,
@@ -338,6 +356,15 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/core-scientific-patent-owner-resolve-cryptography-tech-dispute",
     "summary": "Core Scientific Inc. and Malikie Innovations Ltd. resolved their patent dispute concerning methods for cryptography.",
     "title": "Core Scientific, Patent Owner Resolve Cryptography Tech ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/coreweave-bonds-tumble-into-distress-drawing-yikes-from-musk": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T18:38:27Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/coreweave-bonds-tumble-into-distress-drawing-yikes-from-musk",
+    "page": 1,
+    "summary": "The AI cloud-computing provider's unsecured debt due in 2032 traded below 80 cents on the dollar on Wednesday, according to Trace pricing data. That's widely ...",
+    "title": "CoreWeave Bonds Tumble Into Distress, Drawing 'Yikes' ..."
    },
    "news.bloomberglaw.com/business-and-practice/cravath-europe-counsel-bruno-jumps-to-paul-hastings-in-london": {
     "baseline": false,
@@ -713,6 +740,15 @@
     "summary": "The US Supreme Court declined to examine judicial authority to decide the validity of an arbitration agreement between a signatory and a non-signatory, ...",
     "title": "High Court Skips Case on Non-Signatories Compelling ..."
    },
+   "news.bloomberglaw.com/business-and-practice/hogan-lovells-hires-baker-botts-california-environmental-partner": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T18:38:27Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/hogan-lovells-hires-baker-botts-california-environmental-partner",
+    "page": 1,
+    "summary": "Julie Cress joined Hogan Lovells Cadwalader as a partner in its environment & natural resources practice in San Francisco, the firm announced Wednesday.",
+    "title": "Hogan Lovells Hires Baker Botts California Environmental ..."
+   },
    "news.bloomberglaw.com/business-and-practice/how-big-techs-ai-race-fueled-a-borrowing-boom-explainer": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -837,6 +873,15 @@
     "page": 3,
     "summary": "Kirkland & Ellis' decision to stop disclosing its financial performance shows law firms are hesitant to reveal profits as clients experience spiraling legal ...",
     "title": "Kirkland Hides Riches as Big Law Clients Scrutinize Rising ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/kraken-parent-to-acquire-lithuania-based-saldo-bank": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-14T18:38:27Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kraken-parent-to-acquire-lithuania-based-saldo-bank",
+    "page": 1,
+    "summary": "Payward Inc., the parent of cryptocurrency exchange Kraken, is set to acquire the holding company behind Saldo Bank UAB,",
+    "title": "Kraken Parent to Acquire Lithuania-Based Saldo Bank"
    },
    "news.bloomberglaw.com/business-and-practice/law-firms-must-quash-perfectionism-not-treat-its-toxic-symptoms": {
     "baseline": false,
@@ -1160,6 +1205,15 @@
     "page": 3,
     "summary": "The Securities and Exchange Commission wants to get out of the business of policing political donations from investment advisers.",
     "title": "SEC Proposal to Ax Pay-to-Play Rule Leaves Many Risks ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/sidelined-tariff-refunds-get-class-action-status-explained": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T18:38:27Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/sidelined-tariff-refunds-get-class-action-status-explained",
+    "page": 1,
+    "summary": "The path became clearer last week for importers still awaiting refunds for duties paid under President Donald Trump's wrongfully collected tariffs.",
+    "title": "Sidelined Tariff Refunds Get Class Action Status: Explained"
    },
    "news.bloomberglaw.com/business-and-practice/sidley-austin-recruits-ex-treasury-foreign-deals-expert-in-dc": {
     "baseline": false,
@@ -1500,6 +1554,15 @@
     "page": 1,
     "summary": "Raphael Kuyler joined Willkie as a partner in its power and renewable energy practice in Washington, D.C., the firm announced Tuesday.",
     "title": "Willkie Taps Westinghouse Nuclear Lawyer Kuyler in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/womens-baseball-infighting-sets-up-sour-finish-to-first-season": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T18:38:27Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/womens-baseball-infighting-sets-up-sour-finish-to-first-season",
+    "page": 3,
+    "summary": "The Women's Pro Baseball League ended its inaugural season last month with a championship title for the Los Angeles Queens, who prevailed over the San Francisco ...",
+    "title": "Women's Baseball Infighting Sets Up Sour Finish to First ..."
    }
   },
   "chowbus-blog": {
