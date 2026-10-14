@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 4945,
+  "credits_used": 5000,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-14T04:12:56Z",
+  "last_run": "2026-10-14T05:10:14Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 101
+  "runs": 102
  },
  "feeds": {
   "adp-help": {},
@@ -1781,6 +1781,15 @@
     "summary": "You can move clients between Intuit Accountant Suite (IAS) accounts. All their info, client numbers, and team access move with them.",
     "title": "Transfer clients in Intuit Accountant Suite (IAS)"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/matching-rules/learn-updates-new-ai-powered-banking-page/L0hR7A9Zf_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-14T05:10:14Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/matching-rules/learn-updates-new-ai-powered-banking-page/L0hR7A9Zf_US_en_US",
+    "page": 3,
+    "summary": "Whether you're a new or experienced QuickBooks user, your bank transactions page has features designed to help you efficiently manage your bank and credit ...",
+    "title": "Learn about updates to the new AI-powered banking page"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/mobile-apps/capture-signatures-using-quickbooks-online-app/L9M3lRB8F_US_en_US": {
     "baseline": true,
     "date_hint": "4 days ago",
@@ -3222,6 +3231,15 @@
     "summary": "The Start a Tab feature in SpotOn Restaurant (RPOS) allows Front of House (FOH) staff to initiate, manage, and process guest tabs efficiently.",
     "title": "Start a Tab | SpotOn Restaurant FOH (RPOS) (TSYS Only)"
    },
+   "help.spoton.com/space/SK/2655944957": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-14T05:10:14Z",
+    "link": "https://help.spoton.com/space/SK/2655944957",
+    "page": 1,
+    "summary": "This feature helps keep search results organized while allowing inactive, seasonal, or staff-only items to remain available in the BOH for management purposes.",
+    "title": "Hide Menu Items from Item Search | SpotOn Restaurant BOH"
+   },
    "help.spoton.com/space/SK/2656927745": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -3423,6 +3441,15 @@
     "page": 1,
     "summary": "Choice Modifiers, also known as Forced Modifiers, are used when a guest must make a selection before an item can be ordered.",
     "title": "Choice Modifiers (Forced Modifiers) | SpotOn Restaurant"
+   },
+   "help.spoton.com/space/SK/5707038725": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-14T05:10:14Z",
+    "link": "https://help.spoton.com/space/SK/5707038725",
+    "page": 1,
+    "summary": "The Payment List report in SpotOn Restaurant Reporting provides a detailed view of payment transactions for a selected location and date range.",
+    "title": "Payment List Report | SpotOn Restaurant Reporting"
    }
   },
   "square-help": {
@@ -3906,6 +3933,15 @@
     "page": 1,
     "summary": "Enablon is a leading global provider of environmental, health, safety and sustainability and operational risk management software and SaaS solutions,",
     "title": "Wolters Kluwer Completes Acquisition of Enablon"
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-completes-acquisition-of-registered-agent-solutions-inc": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T05:10:14Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-completes-acquisition-of-registered-agent-solutions-inc",
+    "page": 2,
+    "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting; ...",
+    "title": "Wolters Kluwer completes acquisition of Registered Agent ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-equips-primary-care-providers-tools-meet-burgeoning-mental-health-demand": {
     "baseline": false,
