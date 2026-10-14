@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 5214,
+  "credits_used": 5266,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-14T09:12:09Z",
+  "last_run": "2026-10-14T10:10:58Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 106
+  "runs": 107
  },
  "feeds": {
   "adp-help": {},
@@ -320,6 +320,15 @@
     "page": 1,
     "summary": "Roberto Bruno joined Paul Hastings as a partner in its high yield practice in London, the firm announced Monday.",
     "title": "Cravath Europe Counsel Bruno Jumps to Paul Hastings in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/cross-pond-law-firm-mergers-face-cultural-and-hiring-challenges": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T10:10:58Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cross-pond-law-firm-mergers-face-cultural-and-hiring-challenges",
+    "page": 3,
+    "summary": "When transatlantic law firms merge, they must integrate intentionally in order to reap any benefits. Otherwise, two merging firms could inherit one firm's ...",
+    "title": "Cross-Pond Law Firm Mergers Face Cultural and Hiring ..."
    },
    "news.bloomberglaw.com/business-and-practice/crypto-fraudster-fund-owe-cftc-penalty-over-249-million-scheme": {
     "baseline": false,
@@ -685,6 +694,15 @@
     "summary": "The plaintiffs sued after an IEC Group employee emailed a spreadsheet containing their health information to other plan members, according to the complaint. The ...",
     "title": "IEC Group Privacy Suit Over Spreadsheet Leak Revived on ..."
    },
+   "news.bloomberglaw.com/business-and-practice/imf-world-bank-tout-bangkok-blueprint-against-digital-fraud-1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-14T10:10:58Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/imf-world-bank-tout-bangkok-blueprint-against-digital-fraud-1",
+    "page": 3,
+    "summary": "The International Monetary Fund and World Bank unveiled a global roadmap to fight online financial fraud as increasingly sophisticated scams undermine ...",
+    "title": "IMF, World Bank Tout Bangkok Blueprint Against Digital ..."
+   },
    "news.bloomberglaw.com/business-and-practice/insults-punctuate-el-sayed-rogers-fiery-michigan-senate-debate": {
     "baseline": true,
     "date_hint": "14 hours ago",
@@ -791,6 +809,15 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/los-angeles-judge-stumbles-through-awkward-discipline-hearing",
     "summary": "A Los Angeles Superior Court judge facing allegations of inappropriate sexual and racial comments stammered his way through a sometimes awkward judicial ...",
     "title": "Los Angeles Judge Stumbles Through Awkward Discipline ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/louisiana-inches-toward-state-data-center-property-tax-valuation": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T10:10:58Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/louisiana-inches-toward-state-data-center-property-tax-valuation",
+    "page": 2,
+    "summary": "Louisiana is moving toward statewide property tax valuation guidelines for lifecycles for data center equipment and infrastructure. Photographer: Jason Alden/ ...",
+    "title": "Louisiana Inches Toward State Data Center Property Tax ..."
    },
    "news.bloomberglaw.com/business-and-practice/mastercard-ceo-sees-cross-border-payments-as-top-stablecoin-use": {
     "baseline": false,
@@ -1096,6 +1123,15 @@
     "summary": "Tech Earnings Loom Large for Funds Packed Into Dispersion Trade Oct. 11, 2026, tech company earnings collide with a Federal Reserve meeting and US midterm ...",
     "title": "Tech Earnings Loom Large for Funds Packed Into ..."
    },
+   "news.bloomberglaw.com/business-and-practice/texas-is-investing-in-rural-justice-better-data-can-grow-access": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T10:10:58Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/texas-is-investing-in-rural-justice-better-data-can-grow-access",
+    "page": 3,
+    "summary": "Identifying legal deserts should be the first step in bringing more legal resources into rural Texas, Lone Star Legal Aid's Ashley Oborn says.",
+    "title": "Texas Is Investing in Rural Justice. Better Data Can Grow ..."
+   },
    "news.bloomberglaw.com/business-and-practice/third-circuit-upholds-gun-ban-for-those-with-violent-felonies": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -1275,6 +1311,15 @@
     "page": 1,
     "summary": "AI developers have warned that their systems could soon become too sophisticated for people to control, adding to concerns the technology could be used by ...",
     "title": "What Should AI Guardrails Look Like? A Guide to the ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/when-arbitration-clauses-reach-companies-that-never-signed-them": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T10:10:58Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/when-arbitration-clauses-reach-companies-that-never-signed-them",
+    "page": 2,
+    "summary": "A company that never signed an arbitration agreement can still be ordered to arbitrate. As a recent Georgia case shows, a party that spends years pursuing ...",
+    "title": "When Arbitration Clauses Reach Companies That Never ..."
    },
    "news.bloomberglaw.com/business-and-practice/whole-foods-ex-worker-lacks-evidence-for-bias-retaliation-case": {
     "baseline": false,
