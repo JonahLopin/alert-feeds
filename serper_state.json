@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 5000,
+  "credits_used": 5056,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-14T05:10:14Z",
+  "last_run": "2026-10-14T06:17:23Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 102
+  "runs": 103
  },
  "feeds": {
   "adp-help": {},
@@ -3453,6 +3453,15 @@
    }
   },
   "square-help": {
+   "squareup.com/help/us/en/article/8700-manage-your-square-organization-and-permissions-for-square-multi-account-suite": {
+    "baseline": false,
+    "date_hint": "15 hours ago",
+    "first_seen": "2026-10-14T06:17:23Z",
+    "link": "https://squareup.com/help/us/en/article/8700-manage-your-square-organization-and-permissions-for-square-multi-account-suite",
+    "page": 1,
+    "summary": "View and manage all member merchants and locations, enable and manage central catalog orchestration, enable shared gift cards",
+    "title": "Manage your Square organization and permissions for ..."
+   },
    "squareup.com/help/us/en/article/8701-view-the-gift-card-reconciliation-report-with-square-multi-account-suite": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -3479,6 +3488,15 @@
     "page": 1,
     "summary": "With Square Multi-Account Suite, the operator merchant can create and manage a central catalog of menus, items, modifier sets, services, and discounts in Square ...",
     "title": "Manage catalog with Square Multi-Account Suite"
+   },
+   "squareup.com/help/us/en/article/8704-manage-shared-gift-cards-with-square-multi-account-suite": {
+    "baseline": false,
+    "date_hint": "11 hours ago",
+    "first_seen": "2026-10-14T06:17:23Z",
+    "link": "https://squareup.com/help/us/en/article/8704-manage-shared-gift-cards-with-square-multi-account-suite",
+    "page": 1,
+    "summary": "Square Multi-Account Suite supports the ability to enable shared gift cards, by which all members of the Square organization share a single gift card program.",
+    "title": "Manage shared gift cards with Square Multi-Account Suite"
    },
    "squareup.com/help/us/en/article/8705-manage-bundle-releases-and-early-feature-access-with-square-multi-account-suite": {
     "baseline": false,
