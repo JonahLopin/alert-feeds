@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 5579,
+  "credits_used": 5629,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-14T16:33:28Z",
+  "last_run": "2026-10-14T17:30:13Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 113
+  "runs": 114
  },
  "feeds": {
   "adp-help": {},
@@ -1017,6 +1017,24 @@
     "summary": "Lumentum Holdings Inc.'s optical components are \u201ccompletely sold out\u201d through early 2029 on demand from tech companies clamoring for faster AI data centers, ...",
     "title": "Nvidia-Backed Lumentum Sold Out of AI Server Parts Till ..."
    },
+   "news.bloomberglaw.com/business-and-practice/nvidia-chipagents-launch-eval-for-ai-chip-design-information": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T17:30:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/nvidia-chipagents-launch-eval-for-ai-chip-design-information",
+    "page": 2,
+    "summary": "Nvidia and ChipAgents released a benchmark that measures how different AI models perform at the task, The Information reports, citing ChipAgents CEO William ...",
+    "title": "Nvidia, ChipAgents Launch Eval for AI Chip Design"
+   },
+   "news.bloomberglaw.com/business-and-practice/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-14T17:30:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety",
+    "page": 3,
+    "summary": "Businesses opting to use low-cost Chinese artificial intelligence models are taking a cybersecurity risk, said OpenAI Chief Financial Officer Sarah Friar ...",
+    "title": "OpenAI CFO Says Firms Using Chinese AI Models Are ..."
+   },
    "news.bloomberglaw.com/business-and-practice/pacts-protect-attorney-client-privilege-across-company-families": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -1329,6 +1347,15 @@
     "page": 1,
     "summary": "Plus500 Ltd. agreed to buy retail trading platform Hedge Capital Markets as it looks to expand into the US.",
     "title": "UK Trading Platform Plus500 Buys Hedge to Help US ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/us-consumer-prices-rise-by-most-since-april-in-broad-advance-5": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-14T17:30:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-consumer-prices-rise-by-most-since-april-in-broad-advance-5",
+    "page": 4,
+    "summary": "The consumer price index rose 0.6% from a month earlier, driven by a surge in fuel costs, according to Bureau of Labor Statistics data out Wednesday. A key ...",
+    "title": "US Consumer Prices Rise by Most Since April in Broad ..."
    },
    "news.bloomberglaw.com/business-and-practice/us-sanctions-icc-after-former-judge-gets-nobel-peace-prize-1": {
     "baseline": false,
@@ -3405,6 +3432,15 @@
     "page": 1,
     "summary": "Podcast advertising is when a business pays to promote its product or service during a podcast, either through a produced commercial or a mention read out ...",
     "title": "Podcast Advertising: Costs and How To Buy (2026)"
+   },
+   "shopify.com/blog/product-development-process": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-14T17:30:13Z",
+    "link": "https://www.shopify.com/blog/product-development-process",
+    "page": 2,
+    "summary": "Learn how to go from idea to launch with this eight-step product development guide. Validate, test, and bring your product to market.",
+    "title": "Product Development Process: An 8-Step Guide (2026)"
    },
    "shopify.com/blog/promote-your-website-tips": {
     "baseline": false,

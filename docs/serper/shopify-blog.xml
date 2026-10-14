@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-14T08:14:08Z</updated>
+  <updated>2026-10-14T17:30:13Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/product-development-process</id>
+    <title>Product Development Process: An 8-Step Guide (2026)</title>
+    <link href="https://www.shopify.com/blog/product-development-process" />
+    <published>2026-10-14T17:30:13Z</published>
+    <updated>2026-10-14T17:30:13Z</updated>
+    <summary>Learn how to go from idea to launch with this eight-step product development guide. Validate, test, and bring your product to market.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/buyers-guide</id>
     <title>Buyers Guide: How To Create One for Your Store (2026)</title>
