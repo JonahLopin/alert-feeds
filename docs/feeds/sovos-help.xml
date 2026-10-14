@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com)</title>
-  <updated>2026-10-12T13:52:26Z</updated>
+  <updated>2026-10-14T13:09:20Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sovos-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8373884703685258773</id>
+    <title>Create an envelope | Product Documentation Documentation - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/signing-services/sovos-signer-api/envelopes/envelopeservice/envelopeservice_createenvelope" />
+    <published>2026-10-14T13:09:20Z</published>
+    <updated>2026-10-14T13:09:20Z</updated>
+    <summary>More than 100,000 customers – including half the Fortune 500 – trust Sovos' tax and regulatory expertise and unparalleled integration with their ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:18084081044862050836</id>
+    <title>Troubleshoot certificate upload errors - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/e-invoicing/paperless---colombia/error-handling-and-troubleshooting/troubleshoot-certificate-upload-errors" />
+    <published>2026-10-14T13:09:20Z</published>
+    <updated>2026-10-14T13:09:20Z</updated>
+    <summary>Learn how to resolve errors when uploading a digital signing certificate to Paperless Colombia.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12391541555754119748</id>
+    <title>About post-audit | Product Documentation Documentation - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/e-invoicing/indirect-tax-api/e-invoicing/about-post-audit" />
+    <published>2026-10-14T13:09:20Z</published>
+    <updated>2026-10-14T13:09:20Z</updated>
+    <summary>Sovos TrustWeaver compliance map. An instrument designed to centralize the control over localized compliance. It consists of structured information ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:9599405704795579164</id>
     <title>Verify a VAT number | Product Documentation Documentation - Sovos Docs</title>
