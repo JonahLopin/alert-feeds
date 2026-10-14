@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 5162,
+  "credits_used": 5214,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-14T08:14:08Z",
+  "last_run": "2026-10-14T09:12:09Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 105
+  "runs": 106
  },
  "feeds": {
   "adp-help": {},
@@ -2348,6 +2348,15 @@
     "page": 1,
     "summary": "Een cameraman die in een studio van de RTBF werkt, heeft misschien vaardigheden die ook bij een heel andere functie passen, zonder dat hij dat per se weet.",
     "title": "Hoe de RTBF haar medewerkers en medewerksters helpt ..."
+   },
+   "news.sap.com/belgie/2026/10/hoe-de-rtbf-haar-medewerkers-en-medewerksters-helpt-om-nieuwe-carrieremogelijkheden-te-ontdekken/cameraman-records-show-in-a-tv-studio": {
+    "baseline": false,
+    "date_hint": "17 hours ago",
+    "first_seen": "2026-10-14T09:12:09Z",
+    "link": "https://news.sap.com/belgie/2026/10/hoe-de-rtbf-haar-medewerkers-en-medewerksters-helpt-om-nieuwe-carrieremogelijkheden-te-ontdekken/cameraman-records-show-in-a-tv-studio/",
+    "page": 3,
+    "summary": "Cameraman records show in a TV Studio. SAP. Belgium (0)800 50 550. Of bekijk onze complete lijst van lokale landnummers.",
+    "title": "Cameraman records show in a TV Studio"
    },
    "news.sap.com/belgie/2026/10/hoe-de-rtbf-haar-medewerkers-en-medewerksters-helpt-om-nieuwe-carrieremogelijkheden-te-ontdekken?amp=1": {
     "baseline": false,
