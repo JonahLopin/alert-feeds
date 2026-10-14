@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-10-14T12:16:10Z</updated>
+  <updated>2026-10-14T14:31:41Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2664432007</id>
+    <title>End of Day History FOH</title>
+    <link href="https://help.spoton.com/space/SK/2664432007" />
+    <published>2026-10-14T14:31:41Z</published>
+    <updated>2026-10-14T14:31:41Z</updated>
+    <summary>End of Day History provides access to completed End of Day reports so you can review, print, or reference prior business days as needed.</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/3213820449</id>
     <title>Home | Dashboard | SpotOn Express</title>

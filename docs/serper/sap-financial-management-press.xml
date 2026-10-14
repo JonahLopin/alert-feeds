@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-14T13:29:34Z</updated>
+  <updated>2026-10-14T14:31:41Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap/</id>
+    <title>DACHSER Migrates to SAP S/4HANA Cloud</title>
+    <link href="https://news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap/" />
+    <published>2026-10-14T14:31:41Z</published>
+    <updated>2026-10-14T14:31:41Z</updated>
+    <summary>German logistics company DACHSER has successfully migrated HCM to SAP S/4HANA via RISE with SAP. Learn about the company's journey.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/2026/10/fast-growth-companies-biggest-ai-opportunity-few-capturing/</id>
     <title>Fast-Growth Companies Have the Biggest AI Opportunity</title>

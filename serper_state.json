@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 5425,
+  "credits_used": 5478,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-14T13:29:34Z",
+  "last_run": "2026-10-14T14:31:41Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 110
+  "runs": 111
  },
  "feeds": {
   "adp-help": {},
@@ -285,6 +285,15 @@
     "page": 4,
     "summary": "BofA, the No. 2 US bank, also announced a $1.2 billion non-tax-deductible charge, cutting into net income by 17 cents a share. The charge is for fines for money ...",
     "title": "BofA Results Marred by $1.2 Billion Penalty, Weaker ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/brooklyn-da-cracks-global-crypto-scam-network-in-major-bust": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-14T14:31:41Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/brooklyn-da-cracks-global-crypto-scam-network-in-major-bust",
+    "page": 2,
+    "summary": "The Brooklyn District Attorney's office has disrupted a multinational cryptocurrency-scam network centered in Eastern Europe, capping a years long effort to ...",
+    "title": "Brooklyn DA Cracks Global Crypto Scam Network in Major ..."
    },
    "news.bloomberglaw.com/business-and-practice/california-data-brokers-report-over-60-million-profile-deletions": {
     "baseline": false,
@@ -1357,6 +1366,15 @@
     "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
     "title": "Wake Up Call: Top Trade Official Reports Millions After Big ..."
    },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-trump-press-secretarys-lawyer-claims-lack-proof": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-14T14:31:41Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-trump-press-secretarys-lawyer-claims-lack-proof",
+    "page": 3,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
+    "title": "Wake Up Call: Trump Press Secretary's Lawyer Claims ..."
+   },
    "news.bloomberglaw.com/business-and-practice/wall-street-bosses-look-past-pain-points-to-ramp-up-india-bets": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -2403,6 +2421,15 @@
    }
   },
   "sap-financial-management-press": {
+   "news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-14T14:31:41Z",
+    "link": "https://news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap/",
+    "page": 1,
+    "summary": "German logistics company DACHSER has successfully migrated HCM to SAP S/4HANA via RISE with SAP. Learn about the company's journey.",
+    "title": "DACHSER Migrates to SAP S/4HANA Cloud"
+   },
    "news.sap.com/2026/10/fast-growth-companies-biggest-ai-opportunity-few-capturing": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -3563,6 +3590,15 @@
     "page": 2,
     "summary": "Item Reporting provides the ability to accurately track food and product costs, making it invaluable for any serious restaurateur or restaurant group. This ...",
     "title": "Advanced Menu Item Reporting | SpotOn RPOS"
+   },
+   "help.spoton.com/space/SK/2664432007": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-14T14:31:41Z",
+    "link": "https://help.spoton.com/space/SK/2664432007",
+    "page": 1,
+    "summary": "End of Day History provides access to completed End of Day reports so you can review, print, or reference prior business days as needed.",
+    "title": "End of Day History FOH"
    },
    "help.spoton.com/space/SK/2664890582": {
     "baseline": false,
