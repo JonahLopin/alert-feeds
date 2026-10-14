@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 4838,
+  "credits_used": 4891,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-14T02:13:14Z",
+  "last_run": "2026-10-14T03:12:12Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 99
+  "runs": 100
  },
  "feeds": {
   "adp-help": {},
@@ -1329,6 +1329,15 @@
     "link": "https://www.chowbus.com/blog/how-restaurants-prevent-order-errors-during-the-friday-night-rush",
     "summary": "A restaurant can serve dine-in guests, accept website pickup orders, receive marketplace deliveries, and redeem loyalty rewards during the same dinner rush.",
     "title": "How Restaurants Prevent Order Errors During the Friday ..."
+   },
+   "chowbus.com/blog/loyalty-program-for-small-business": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-14T03:12:12Z",
+    "link": "https://www.chowbus.com/blog/loyalty-program-for-small-business",
+    "page": 1,
+    "summary": "For many small operators, the answer is closer than they think. Take a look at what's already available inside your POS, or explore how a system built ...",
+    "title": "The Small Restaurant Owner's Guide to a Loyalty Program ..."
    }
   },
   "chownow-blog": {},
@@ -3002,6 +3011,15 @@
     "page": 1,
     "summary": "Imgur is an image hosting and sharing community where users upload images, including memes andGIFs. It's popular with Reddit users, but brands and marketers ...",
     "title": "8 Best Image Hosting Sites and How To Choose One (2026)"
+   },
+   "shopify.com/blog/marketing-collateral": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-14T03:12:12Z",
+    "link": "https://www.shopify.com/blog/marketing-collateral",
+    "page": 1,
+    "summary": "Marketing collateral is print or digital material that promotes your business. See the main types, which to use at each stage, and where to share it.",
+    "title": "Marketing Collateral: Types, Examples, and Tips (2026)"
    },
    "shopify.com/blog/marketing-strategies": {
     "baseline": false,
