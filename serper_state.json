@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 6195,
+  "credits_used": 6246,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T05:10:27Z",
+  "last_run": "2026-10-15T06:17:38Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 125
+  "runs": 126
  },
  "feeds": {
   "adp-help": {},
@@ -1970,6 +1970,15 @@
     "link": "https://gusto.com/company-news/introducing-the-new-gusto-pro",
     "summary": "Gusto Pro: An AI-native platform for payroll, benefits, and proactive guidance ... Today we're introducing the most significant update to Gusto Pro since 2021 \u2014 ...",
     "title": "How Gusto Is Helping Accounting Firms Build What's Next"
+   },
+   "gusto.com/company-news/rethinking-writing": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-15T06:17:38Z",
+    "link": "https://gusto.com/company-news/rethinking-writing",
+    "page": 1,
+    "summary": "Writing, at its core, is a problem-solving discipline. We focus on how copy and content on the Gusto platform will appear to our users. 1) terminology, 2) ...",
+    "title": "Rethinking what it means to write"
    }
   },
   "igen-blog": {},
@@ -4615,6 +4624,15 @@
     "page": 2,
     "summary": "About Wolters Kluwer. Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax ...",
     "title": "Lippincott's Nursing Procedures and Skills' Expert Clinical ..."
+   },
+   "wolterskluwer.com/en/news/mini-pcnl-surgery-has-higher-stone-free-rate-in-treating-intermediate-size-kidney-stones": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-15T06:17:38Z",
+    "link": "https://www.wolterskluwer.com/en/news/mini-pcnl-surgery-has-higher-stone-free-rate-in-treating-intermediate-size-kidney-stones",
+    "page": 4,
+    "summary": "\"Our results suggest that mini-PCNL is more likely to render patients stone-free than URS, with no difference in complications, surgical times, and operating ...",
+    "title": "'Mini-PCNL' surgery has higher stone-free rate in treating ..."
    },
    "wolterskluwer.com/en/news/new-guidelines-address-treatment-of-anorectal-abscess-anal-fistula-and-rectovaginal-fistula": {
     "baseline": false,
