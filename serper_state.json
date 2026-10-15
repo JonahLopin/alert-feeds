@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 6485,
+  "credits_used": 6533,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T11:09:36Z",
+  "last_run": "2026-10-15T12:15:41Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 131
+  "runs": 132
  },
  "feeds": {
   "adp-help": {},
@@ -1134,6 +1134,15 @@
     "summary": "Danielle Abada joined Mayer Brown as a partner in its capital markets practice in New York, the firm announced Monday.",
     "title": "Mayer Brown Recruits Former CFTC Lawyer Abada in New ..."
    },
+   "news.bloomberglaw.com/business-and-practice/mckinsey-partner-quits-ngo-as-fallout-from-online-posts-widens": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-15T12:15:41Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/mckinsey-partner-quits-ngo-as-fallout-from-online-posts-widens",
+    "page": 2,
+    "summary": "A senior partner at McKinsey & Co. has resigned from his role at a nonprofit firm as the fallout from his online comments questioning the challenges female ...",
+    "title": "McKinsey Partner Quits NGO as Fallout From Online Posts ..."
+   },
    "news.bloomberglaw.com/business-and-practice/medpace-investor-ceases-suit-over-clinical-trial-demand-forecast": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1671,6 +1680,15 @@
     "page": 2,
     "summary": "Wake Up Call: Foley Hoag to Defend Gov. Moore in Defamation Case \u00b7 The Maryland Board of Public Works approved a $50,000 contract to hire Foley Hoag to defend ...",
     "title": "Foley Hoag to Defend Gov. Moore in Defamation Case"
+   },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-paul-weiss-backs-columbia-laws-ai-initiative": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-15T12:15:41Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-paul-weiss-backs-columbia-laws-ai-initiative",
+    "page": 3,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
+    "title": "Wake Up Call: Paul Weiss Backs Columbia Law's AI Initiative"
    },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-top-trade-official-reports-millions-after-big-law": {
     "baseline": false,
@@ -2898,6 +2916,15 @@
     "page": 1,
     "summary": "On the journey to becoming an Autonomous Enterprise, fast-growth have the advantage of agility when deploying AI.",
     "title": "Fast-Growth Companies Have the Biggest AI Opportunity"
+   },
+   "news.sap.com/2026/10/how-ericsson-is-reimagining-b2b-commerce-with-ai": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T12:15:41Z",
+    "link": "https://news.sap.com/2026/10/how-ericsson-is-reimagining-b2b-commerce-with-ai/",
+    "page": 1,
+    "summary": "Ericsson is exploring how AI agents can help transform complex B2B commerce processes, reducing quote times from weeks to seconds.",
+    "title": "How Ericsson Is Reimagining B2B Commerce with AI"
    },
    "news.sap.com/2026/10/industry-ai-deep-industry-knowledge-fde-measurable-value": {
     "baseline": false,
@@ -4317,6 +4344,15 @@
     "page": 1,
     "summary": "Square Kiosk is a purpose-built self-service ordering station featuring a 21.5 inch vertical touchscreen, AI-powered voice ordering, built-in contactless and ...",
     "title": "Set up Square Kiosk"
+   },
+   "squareup.com/help/us/en/article/8688-set-up-checkout-and-notifications-on-square-kiosk": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-15T12:15:41Z",
+    "link": "https://squareup.com/help/us/en/article/8688-set-up-checkout-and-notifications-on-square-kiosk",
+    "page": 1,
+    "summary": "You can configure how customers complete orders on Square Kiosk. Square Kiosk supports voice confirmation, audio notifications, and presence-aware checkout ...",
+    "title": "Set up checkout settings on Square Kiosk"
    },
    "squareup.com/help/us/en/article/8694-manage-your-square-kiosk-subscription": {
     "baseline": false,

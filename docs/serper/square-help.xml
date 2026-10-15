@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:square-help</id>
   <title>Square help (site:squareup.com/help/us/en/article/) via Serper</title>
-  <updated>2026-10-15T03:12:06Z</updated>
+  <updated>2026-10-15T12:15:41Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/square-help.xml" />
+  <entry>
+    <id>https://squareup.com/help/us/en/article/8688-set-up-checkout-and-notifications-on-square-kiosk</id>
+    <title>Set up checkout settings on Square Kiosk</title>
+    <link href="https://squareup.com/help/us/en/article/8688-set-up-checkout-and-notifications-on-square-kiosk" />
+    <published>2026-10-15T12:15:41Z</published>
+    <updated>2026-10-15T12:15:41Z</updated>
+    <summary>You can configure how customers complete orders on Square Kiosk. Square Kiosk supports voice confirmation, audio notifications, and presence-aware checkout ...</summary>
+  </entry>
   <entry>
     <id>https://squareup.com/help/us/en/article/8687-set-up-square-kiosk</id>
     <title>Set up Square Kiosk</title>
