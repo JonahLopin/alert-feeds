@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 5990,
+  "credits_used": 6041,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T01:07:07Z",
+  "last_run": "2026-10-15T02:14:15Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 121
+  "runs": 122
  },
  "feeds": {
   "adp-help": {},
@@ -2186,6 +2186,15 @@
     "summary": "Once your employer has invited you to Workforce, and you've set up your account, you can view and print your own W-2s. You can also view other documents your ...",
     "title": "View and print your W-2s and other documents in \u200bWorkforce\u200b"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/import-export-data-files/expect-switch-quickbooks-desktop-quickbooks-online/L0dEyNosU_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-15T02:14:15Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/import-export-data-files/expect-switch-quickbooks-desktop-quickbooks-online/L0dEyNosU_US_en_US",
+    "page": 3,
+    "summary": "Learn how features and data transfer from QuickBooks Desktop to QuickBooks Online \u2014 without the usual headaches. Do it in just a few clicks.",
+    "title": "Learn how features and data transfer from QuickBooks ... - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/import-transactions/connect-amazon-seller-central-quickbooks/L7EyuwWEn_US_en_US": {
     "baseline": true,
     "date_hint": "1 day ago",
@@ -3819,6 +3828,15 @@
     "page": 2,
     "summary": "A corporation is a legal entity created under state law that exists separately from the individuals who establish, own, and manage it.",
     "title": "Corporation Definition and How To Form a Corporation"
+   },
+   "shopify.com/blog/what-is-a-website-title": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T02:14:15Z",
+    "link": "https://www.shopify.com/blog/what-is-a-website-title",
+    "page": 2,
+    "summary": "What is a website title? It's the HTML title tag that names a page in browser tabs and search results. Learn how to write one that earns clicks.",
+    "title": "What Is a Website Title: Definition and Examples (2026)"
    }
   },
   "sovos-blog": {},
@@ -4346,7 +4364,17 @@
     "title": "File taxes outside the US"
    }
   },
-  "taxcloud-blog": {},
+  "taxcloud-blog": {
+   "taxcloud.com/blog/automated-filing-with-shopify-tax-is-ending": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-15T02:14:15Z",
+    "link": "https://taxcloud.com/blog/automated-filing-with-shopify-tax-is-ending/",
+    "page": 1,
+    "summary": "Shopify Tax is ending automated sales tax filing. Learn what this means for Shopify brands and how to handle sales tax compliance for 2027.",
+    "title": "Shopify is ending automated sales tax filing. What ... - TaxCloud"
+   }
+  },
   "taxcloud-help": {},
   "taxjar-help": {},
   "thomson-reuters-tax-blog": {
@@ -4575,6 +4603,15 @@
     "link": "https://www.wolterskluwer.com/en/news/radiofrequency-heating-plus-electromagnetic-stimulation-reduces-belly-fat-and-increases-muscle",
     "summary": "Radiofrequency heating plus electromagnetic stimulation reduces belly fat and increases muscle. Radiofrequency energy is used to increase the temperature of ...",
     "title": "Radiofrequency heating plus electromagnetic stimulation ..."
+   },
+   "wolterskluwer.com/en/news/share-buyback-transaction-details-september-17-23-2026": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T02:14:15Z",
+    "link": "https://www.wolterskluwer.com/en/news/share-buyback-transaction-details-september-17-23-2026",
+    "page": 1,
+    "summary": "Download the share buyback transactions excel sheet for detailed individual transaction information. Weekly reports on the progress of our share repurchases.",
+    "title": "Share Buyback Transaction Details September 17-23, 2026"
    },
    "wolterskluwer.com/en/news/state-regulatory-enforcement-continues-to-rise-as-federal-oversight-remains-minimal": {
     "baseline": false,
