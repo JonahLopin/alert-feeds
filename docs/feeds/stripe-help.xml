@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-15T10:47:01Z</updated>
+  <updated>2026-10-15T22:43:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:10107868530931068732</id>
+    <title>CardNumberElement - Stripe JS Reference</title>
+    <link href="https://docs.stripe.com/js/react_stripe_js/elements/other/card_number_element?__=&amp;__readwiseLocation=&amp;__s=1ngpkifa1w8cdaucpyke" />
+    <published>2026-10-15T22:43:44Z</published>
+    <updated>2026-10-15T22:43:44Z</updated>
+    <summary>Applies custom CSS classes to the Element container. options object. Options for creating a cardNumber element.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:5623488772911391046</id>
     <title>Trial Offers | Stripe API Reference</title>
