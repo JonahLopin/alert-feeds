@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 6580,
+  "credits_used": 6627,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T13:11:04Z",
+  "last_run": "2026-10-15T14:11:25Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 133
+  "runs": 134
  },
  "feeds": {
   "adp-help": {},
@@ -4013,6 +4013,15 @@
     "summary": "Reset password \u00b7 Go to Sovos Home. \u00b7 On the login screen, click Forgot password. \u00b7 Enter your email address, then click Continue. \u00b7 Check your email for a message ...",
     "title": "Manage your password - Sovos Docs"
    },
+   "docs.sovos.com/en/regulated-shipping/shipcompliant/release-notes/2026/new-sovos-login-for-shipcompliant": {
+    "baseline": false,
+    "date_hint": "13 hours ago",
+    "first_seen": "2026-10-15T14:11:25Z",
+    "link": "https://docs.sovos.com/en/regulated-shipping/shipcompliant/release-notes/2026/new-sovos-login-for-shipcompliant",
+    "page": 1,
+    "summary": "ShipCompliant is transitioning to a new Sovos login system on February 10, 2026. This update provides enhanced security and streamlined access across Sovos ...",
+    "title": "New Sovos login for ShipCompliant"
+   },
    "docs.sovos.com/en/sovos-glossary/registro-federal-de-contribuyentes-rfc": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -4681,6 +4690,15 @@
     "page": 1,
     "summary": "Enablon Engage EMEA 2026 customers share lessons on user adoption, connected risk data, continuous improvement, and AI-supported decisions.",
     "title": "What organizations are learning about connected ..."
+   },
+   "wolterskluwer.com/en/news/enablon-operational-risk-vision-verdantix-ehs-software-recognition": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-10-15T14:11:25Z",
+    "link": "https://www.wolterskluwer.com/en/news/enablon-operational-risk-vision-verdantix-ehs-software-recognition",
+    "page": 1,
+    "summary": "Enablon focuses its long-term strategy on helping organizations connect safety and operational information to better understand risk and make more informed ...",
+    "title": "Wolters Kluwer Enablon advances operational risk vision ..."
    },
    "wolterskluwer.com/en/news/facial-thread-lifting-complications-causes-and-prevention": {
     "baseline": false,

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-15T04:11:36Z</updated>
+  <updated>2026-10-15T14:11:25Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/regulated-shipping/shipcompliant/release-notes/2026/new-sovos-login-for-shipcompliant</id>
+    <title>New Sovos login for ShipCompliant</title>
+    <link href="https://docs.sovos.com/en/regulated-shipping/shipcompliant/release-notes/2026/new-sovos-login-for-shipcompliant" />
+    <published>2026-10-15T14:11:25Z</published>
+    <updated>2026-10-15T14:11:25Z</updated>
+    <summary>ShipCompliant is transitioning to a new Sovos login system on February 10, 2026. This update provides enhanced security and streamlined access across Sovos ...</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/tax-determination/tax-determination-rest-api/tax-calculation-endpoints</id>
     <title>Tax calculation endpoints - Sovos Docs</title>
