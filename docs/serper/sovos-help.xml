@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-15T14:11:25Z</updated>
+  <updated>2026-10-15T15:10:46Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/tax-determination/tax-determination/release-notes/september-3-2026</id>
+    <title>September 3, 2026 | Product Documentation Documentation</title>
+    <link href="https://docs.sovos.com/en/tax-determination/tax-determination/release-notes/september-3-2026" />
+    <published>2026-10-15T15:10:46Z</published>
+    <updated>2026-10-15T15:10:46Z</updated>
+    <summary>Version 5.15 of Tax Determination. New and improved. Products page. We added inline editing to the Suggested product tax codes table.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/regulated-shipping/shipcompliant/release-notes/2026/new-sovos-login-for-shipcompliant</id>
     <title>New Sovos login for ShipCompliant</title>

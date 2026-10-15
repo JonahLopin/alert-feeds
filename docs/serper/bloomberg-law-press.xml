@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-15T12:15:41Z</updated>
+  <updated>2026-10-15T15:10:46Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/georgia-wins-bid-to-end-injunction-blocking-age-verification-law</id>
+    <title>Georgia Wins Bid to End Injunction Blocking Age- ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/georgia-wins-bid-to-end-injunction-blocking-age-verification-law" />
+    <published>2026-10-15T15:10:46Z</published>
+    <updated>2026-10-15T15:10:46Z</updated>
+    <summary>Georgia can enforce its age-verification law for social media platforms while NetChoice Inc.'s challenge to the law proceeds, a federal appeals court ruled.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/wake-up-call-paul-weiss-backs-columbia-laws-ai-initiative</id>
     <title>Wake Up Call: Paul Weiss Backs Columbia Law's AI Initiative</title>
@@ -795,13 +803,5 @@
     <published>2026-10-13T10:51:56Z</published>
     <updated>2026-10-13T10:51:56Z</updated>
     <summary>Australia's corporate regulator will release part of its findings from surveillance of the Big Four audit and consulting firms before the end of the year ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/pacts-protect-attorney-client-privilege-across-company-families</id>
-    <title>Pacts Protect Attorney-Client Privilege Across Company ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/pacts-protect-attorney-client-privilege-across-company-families" />
-    <published>2026-10-13T09:55:04Z</published>
-    <updated>2026-10-13T09:55:04Z</updated>
-    <summary>An intercompany legal services agreement, or ILSA, provides real-time evidence of an attorney-client relationships among both in-house and external counsel, as ...</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 6627,
+  "credits_used": 6674,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T14:11:25Z",
+  "last_run": "2026-10-15T15:10:46Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 134
+  "runs": 135
  },
  "feeds": {
   "adp-help": {},
@@ -794,6 +794,15 @@
     "page": 4,
     "summary": "The world's top financial stability watchdog urged global policymakers to address inefficiencies in their banking regulations and focus on material issues, ...",
     "title": "FSB Moves to Align on Bank Rules as Regulators Weigh ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/georgia-wins-bid-to-end-injunction-blocking-age-verification-law": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T15:10:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/georgia-wins-bid-to-end-injunction-blocking-age-verification-law",
+    "page": 2,
+    "summary": "Georgia can enforce its age-verification law for social media platforms while NetChoice Inc.'s challenge to the law proceeds, a federal appeals court ruled.",
+    "title": "Georgia Wins Bid to End Injunction Blocking Age- ..."
    },
    "news.bloomberglaw.com/business-and-practice/global-forum-releases-cybersecurity-guidance-for-tax-authorities": {
     "baseline": true,
@@ -4039,6 +4048,15 @@
     "page": 1,
     "summary": "The tax calculation endpoints are used to calculate sales and use tax for each line item on a document based on product characteristics, shipping addresses,",
     "title": "Tax calculation endpoints - Sovos Docs"
+   },
+   "docs.sovos.com/en/tax-determination/tax-determination/release-notes/september-3-2026": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-15T15:10:46Z",
+    "link": "https://docs.sovos.com/en/tax-determination/tax-determination/release-notes/september-3-2026",
+    "page": 1,
+    "summary": "Version 5.15 of Tax Determination. New and improved. Products page. We added inline editing to the Suggested product tax codes table.",
+    "title": "September 3, 2026 | Product Documentation Documentation"
    }
   },
   "spoton-help": {
@@ -4654,7 +4672,17 @@
    }
   },
   "touchbistro-blog": {},
-  "vertex-press": {},
+  "vertex-press": {
+   "vertexinc.com/company/news/latest-news/vertex-delivers-enhanced-value-customers-vertex-o-series-tax-engine-oracle-deployed-oracle-cloud": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-15T15:10:46Z",
+    "link": "https://www.vertexinc.com/company/news/latest-news/vertex-delivers-enhanced-value-customers-vertex-o-series-tax-engine-oracle-deployed-oracle-cloud",
+    "page": 1,
+    "summary": "Vertex O Series Tax Engine streamlines tax calculation across Oracle Cloud ERP and SCM - now Oracle Validated and available on Oracle Marketplace.",
+    "title": "Vertex O Series Tax Engine for Oracle Cloud Now Validated"
+   }
+  },
   "wolters-kluwer-tax-press": {
    "wolterskluwer.com/en/news/agrial-finance-transformation-journey-with-tagetik": {
     "baseline": true,
