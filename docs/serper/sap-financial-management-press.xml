@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-15T03:12:06Z</updated>
+  <updated>2026-10-15T08:14:16Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/topics/solutions/</id>
+    <title>SAP Solutions News &amp; Articles</title>
+    <link href="https://news.sap.com/topics/solutions/" />
+    <published>2026-10-15T08:14:16Z</published>
+    <updated>2026-10-15T08:14:16Z</updated>
+    <summary>News, information, feature articles, press releases, blogs &amp; stories about SAP solutions for industries, lines of business, small and medium enterprises, ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/topics/human-resources/</id>
     <title>Human Resources News &amp; Stories</title>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 6294,
+  "credits_used": 6343,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T07:15:08Z",
+  "last_run": "2026-10-15T08:14:16Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 127
+  "runs": 128
  },
  "feeds": {
   "adp-help": {},
@@ -1809,7 +1809,17 @@
    }
   },
   "chownow-blog": {},
-  "csc-blog": {},
+  "csc-blog": {
+   "blog.cscglobal.com/how-to-change-your-registered-agent-with-confidence": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-15T08:14:16Z",
+    "link": "https://blog.cscglobal.com/how-to-change-your-registered-agent-with-confidence/",
+    "page": 1,
+    "summary": "Changing your registered agent involves selecting a new provider, confirming that the new agent will accept the appointment, identifying and filing the ...",
+    "title": "How to Change Your Registered Agent with Confidence | CSC"
+   }
+  },
   "doordash-blog": {
    "merchants.doordash.com/en-us/blog/86d-meaning": {
     "baseline": false,
@@ -3458,6 +3468,15 @@
     "summary": "SAP Showcases the Autonomous Enterprise in Action \u00b7 Feature \u00b7 Industry AI: Deep Industry Knowledge, Forward-Deployed Engineering, Measurable Value \u00b7 Feature ...",
     "title": "SAP Connect Archives"
    },
+   "news.sap.com/topics/solutions": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-15T08:14:16Z",
+    "link": "https://news.sap.com/topics/solutions/",
+    "page": 1,
+    "summary": "News, information, feature articles, press releases, blogs & stories about SAP solutions for industries, lines of business, small and medium enterprises, ...",
+    "title": "SAP Solutions News & Articles"
+   },
    "news.sap.com/type/feature-article": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -4400,6 +4419,15 @@
     "link": "https://docs.stripe.com/js/custom_checkout/checkout_form_methods?ref=spectralwebservices.com",
     "summary": "The layout of the embedded form. The 'expanded' layout is a single-step embedded form, while the 'compact' layout is a multi-step embedded form.",
     "title": "Embedded form methods"
+   },
+   "docs.stripe.com/js/react_stripe_js/elements/other/card_number_element?__=&__readwiseLocation=&__s=1ngpkifa1w8cdaucpyke": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-15T08:14:16Z",
+    "link": "https://docs.stripe.com/js/react_stripe_js/elements/other/card_number_element?__=&__readwiseLocation=&__s=1ngpkifa1w8cdaucpyke",
+    "page": 1,
+    "summary": "Use the CardNumberElement from @stripe/react-stripe-js to collect the PAN (primary account number) independently while rendering Card CVC and expiration in ...",
+    "title": "CardNumberElement"
    },
    "docs.stripe.com/js/react_stripe_js/elements/other/payment_request_button_element?__=&__hsfp=PANTHEON_STRIPPED%3Fhsa_cam%3D15351779962&__hssc=PANTHEON_STRIPPED&__hstc=PANTHEON_STRIPPED": {
     "baseline": false,
