@@ -904,6 +904,12 @@
   }
  },
  "stripe-help": {
+  "tag:google.com,2013:googlealerts/feed:11181571382661186532": {
+   "first_seen": "2026-10-15T10:47:01Z",
+   "link": "https://docs.stripe.com/tax/use-stripe-to-register/united-states",
+   "summary": "Your new tax registration is automatically added to your Stripe Dashboard after Stripe registers for you. If you're set up to collect using Stripe Tax ...",
+   "title": "Use Stripe to register for sales tax"
+  },
   "tag:google.com,2013:googlealerts/feed:12263656120145640542": {
    "first_seen": "2026-10-09T11:10:19Z",
    "link": "https://docs.stripe.com/agentic-commerce/protocols/ucp",
@@ -916,17 +922,47 @@
    "summary": "The Standalone 3DS API allows you to run EMV 3D Secure (3DS) authentication using Stripe while authorizing the payment with any PSP. Related guide: ...",
    "title": "3DS Authentications | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:13382659197936865007": {
+   "first_seen": "2026-10-15T10:47:01Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/adjustments?api-version=2026-09-30.preview",
+   "summary": "Adjustments represent Stripe-initiated credits or debits to a user balance. They might be used to amend balances due to technical or operational error ...",
+   "title": "Adjustments | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:13857386370317827064": {
+   "first_seen": "2026-10-15T10:47:01Z",
+   "link": "https://docs.stripe.com/issuing/commercial-compliance/issuing-regulated-customer-notices?locale=fr-FR",
+   "summary": "Stripe surveille les \u00e9v\u00e9nements n\u00e9cessitant une notification client et envoie un e-mail en votre nom au compte connect\u00e9. Pr\u00e9visualiser et envoyer des ...",
+   "title": "Notifications r\u00e9glement\u00e9es Issuing destin\u00e9es aux clients | Documentation Stripe"
+  },
+  "tag:google.com,2013:googlealerts/feed:14363745968815405379": {
+   "first_seen": "2026-10-15T10:47:01Z",
+   "link": "https://docs.stripe.com/api/v2/data/analytics/metric-query-results?api-version=2026-07-29.preview",
+   "summary": "The result of a metric query. Learn more about calling API v2 endpoints. Was this section helpful?YesNo.",
+   "title": "Metric Query Results | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:15183435629383904580": {
    "first_seen": "2026-10-10T10:10:42Z",
    "link": "https://docs.stripe.com/workload-identity-federation",
    "summary": "Learn how Workload Identity Federation differs from bearer-token API key authentication, and how to set up a trusted workload identity provider ...",
    "title": "Workload Identity Federation | Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:16429654010882360719": {
+   "first_seen": "2026-10-15T10:47:01Z",
+   "link": "https://docs.stripe.com/payments/accept-a-payment-intent-first",
+   "summary": "Test your integration \u00b7 Create a PaymentIntent and retrieve the client secret. \u00b7 Select a payment method from the following table and enter its test ...",
+   "title": "Create a PaymentIntent before collecting payment details - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:17624767214187221706": {
    "first_seen": "2026-10-12T11:36:05Z",
    "link": "https://docs.stripe.com/use-stripe-apps/netsuite/customer-payment-page-setup",
    "summary": "Locate and note the Stripe account ID for each account you want to connect. If you're setting up multiple subsidiaries, repeat the following steps ...",
    "title": "Set up the NetSuite Customer Payment Page - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:17726238145007945741": {
+   "first_seen": "2026-10-15T10:47:01Z",
+   "link": "https://docs.stripe.com/agentic-commerce/concepts/catalog-feed",
+   "summary": "Send your product data securely using the Stripe Product Catalog Import API in CSV format. Each row represents one product or variant. Submit a full ...",
+   "title": "Catalog feed | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:2378811954673993430": {
    "first_seen": "2026-10-11T11:29:08Z",
@@ -958,6 +994,12 @@
    "summary": "This method creates an instance of an embedded form. Call initCheckoutFormSdk first to obtain the checkoutFormSdk object. Method parameters. options ...",
    "title": "Embedded form methods - Stripe JS Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:4216220952474935809": {
+   "first_seen": "2026-10-15T10:47:01Z",
+   "link": "https://docs.stripe.com/agentic-commerce/concepts/catalog-feed/sftp-catalog-ingestion",
+   "summary": "How Stripe delivers data \u00b7 Stripe overwrites the contents of catalog and updates each cycle. The SFTP directory always reflects the latest batch.",
+   "title": "SFTP catalog ingestion - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:5075244174158080457": {
    "first_seen": "2026-10-09T11:10:19Z",
    "link": "https://docs.stripe.com/tax/file-with-stripe-outside-us",
@@ -969,6 +1011,12 @@
    "link": "https://docs.stripe.com/events/how-events-work",
    "summary": "You can register a maximum of 16 event destinations per livemode or sandbox account. When registering a snapshot event destination with a version ...",
    "title": "How events work | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:5623488772911391046": {
+   "first_seen": "2026-10-15T10:47:01Z",
+   "link": "https://docs.stripe.com/api/product-catalog/trial-offer?api-version=2026-09-30.preview",
+   "summary": "Trial offers let you define free or paid introductory pricing for a subscription item. A TrialOffer specifies the price to charge during the trial, ...",
+   "title": "Trial Offers | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:8295351546662826994": {
    "first_seen": "2026-10-09T11:10:19Z",

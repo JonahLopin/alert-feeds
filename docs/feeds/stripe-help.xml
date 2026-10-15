@@ -2,8 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-13T11:11:14Z</updated>
+  <updated>2026-10-15T10:47:01Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:5623488772911391046</id>
+    <title>Trial Offers | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/product-catalog/trial-offer?api-version=2026-09-30.preview" />
+    <published>2026-10-15T10:47:01Z</published>
+    <updated>2026-10-15T10:47:01Z</updated>
+    <summary>Trial offers let you define free or paid introductory pricing for a subscription item. A TrialOffer specifies the price to charge during the trial, ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:4216220952474935809</id>
+    <title>SFTP catalog ingestion - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/agentic-commerce/concepts/catalog-feed/sftp-catalog-ingestion" />
+    <published>2026-10-15T10:47:01Z</published>
+    <updated>2026-10-15T10:47:01Z</updated>
+    <summary>How Stripe delivers data · Stripe overwrites the contents of catalog and updates each cycle. The SFTP directory always reflects the latest batch.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:17726238145007945741</id>
+    <title>Catalog feed | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/agentic-commerce/concepts/catalog-feed" />
+    <published>2026-10-15T10:47:01Z</published>
+    <updated>2026-10-15T10:47:01Z</updated>
+    <summary>Send your product data securely using the Stripe Product Catalog Import API in CSV format. Each row represents one product or variant. Submit a full ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:16429654010882360719</id>
+    <title>Create a PaymentIntent before collecting payment details - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/accept-a-payment-intent-first" />
+    <published>2026-10-15T10:47:01Z</published>
+    <updated>2026-10-15T10:47:01Z</updated>
+    <summary>Test your integration · Create a PaymentIntent and retrieve the client secret. · Select a payment method from the following table and enter its test ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14363745968815405379</id>
+    <title>Metric Query Results | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/data/analytics/metric-query-results?api-version=2026-07-29.preview" />
+    <published>2026-10-15T10:47:01Z</published>
+    <updated>2026-10-15T10:47:01Z</updated>
+    <summary>The result of a metric query. Learn more about calling API v2 endpoints. Was this section helpful?YesNo.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:13857386370317827064</id>
+    <title>Notifications réglementées Issuing destinées aux clients | Documentation Stripe</title>
+    <link href="https://docs.stripe.com/issuing/commercial-compliance/issuing-regulated-customer-notices?locale=fr-FR" />
+    <published>2026-10-15T10:47:01Z</published>
+    <updated>2026-10-15T10:47:01Z</updated>
+    <summary>Stripe surveille les événements nécessitant une notification client et envoie un e-mail en votre nom au compte connecté. Prévisualiser et envoyer des ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:13382659197936865007</id>
+    <title>Adjustments | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/adjustments?api-version=2026-09-30.preview" />
+    <published>2026-10-15T10:47:01Z</published>
+    <updated>2026-10-15T10:47:01Z</updated>
+    <summary>Adjustments represent Stripe-initiated credits or debits to a user balance. They might be used to amend balances due to technical or operational error ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:11181571382661186532</id>
+    <title>Use Stripe to register for sales tax</title>
+    <link href="https://docs.stripe.com/tax/use-stripe-to-register/united-states" />
+    <published>2026-10-15T10:47:01Z</published>
+    <updated>2026-10-15T10:47:01Z</updated>
+    <summary>Your new tax registration is automatically added to your Stripe Dashboard after Stripe registers for you. If you're set up to collect using Stripe Tax ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:2583425226690397504</id>
     <title>Deprecate and archive extensions | Stripe Documentation</title>
