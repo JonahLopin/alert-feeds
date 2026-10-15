@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-15T16:11:19Z</updated>
+  <updated>2026-10-15T22:09:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/filing/sales-tax-filing/upload-data/troubleshooting</id>
+    <title>Troubleshooting | Product Documentation Documentation</title>
+    <link href="https://docs.sovos.com/en/filing/sales-tax-filing/upload-data/troubleshooting" />
+    <published>2026-10-15T22:09:49Z</published>
+    <updated>2026-10-15T22:09:49Z</updated>
+    <summary>Find solutions to errors you might encounter when uploading data in Batch Determination. Error reports data correctly or determining taxability.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/manage-two-factor-authentication</id>
     <title>Manage two-factor authentication - Sovos Docs</title>

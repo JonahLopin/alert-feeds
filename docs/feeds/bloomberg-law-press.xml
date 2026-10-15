@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-15T20:46:13Z</updated>
+  <updated>2026-10-15T22:10:54Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:2138257947083510083</id>
+    <title>Delivery Robot Makers Hit With Biometric Suits Over Face Scans - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/delivery-robot-makers-hit-with-biometric-suits-over-face-scans" />
+    <published>2026-10-15T22:10:54Z</published>
+    <updated>2026-10-15T22:10:54Z</updated>
+    <summary>Two robotics companies were hit with separate lawsuits alleging their camera-equipped delivery robots scanned and stored consumers' facial and ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8259033319760095064</id>
     <title>FDA's Infant Formula Standards Revamp Gets White House Review</title>
@@ -795,13 +803,5 @@
     <published>2026-10-08T15:27:00Z</published>
     <updated>2026-10-08T15:27:00Z</updated>
     <summary>The US Department of Agriculture avoided sanctions for missing deadlines in a lawsuit brought by dozens of grant recipients who said the agency ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:12599938860244918900</id>
-    <title>DOJ's Transgender Care Subpoena Appeal Confronts Doubtful Judges - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/dojs-transgender-care-subpoena-appeal-confronts-doubtful-judges" />
-    <published>2026-10-08T15:27:00Z</published>
-    <updated>2026-10-08T15:27:00Z</updated>
-    <summary>A federal appeals court pressed the Justice Department on whether Trump administration subpoenas targeting providers of gender-affirming care ...</summary>
   </entry>
 </feed>

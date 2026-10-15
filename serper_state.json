@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 6956,
+  "credits_used": 7002,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T21:09:55Z",
+  "last_run": "2026-10-15T22:09:49Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 141
+  "runs": 142
  },
  "feeds": {
   "adp-help": {},
@@ -750,6 +750,15 @@
     "page": 4,
     "summary": "Ex-Fourth Circuit Judge Thomas D. Wilson was required to retire on Feb. 28 and not seek another job as a judge either by election or appointment, according to ...",
     "title": "Ex-Michigan Judge Who Showed Up Drunk to Work ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/fdas-infant-formula-standards-revamp-gets-white-house-review": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T22:09:49Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/fdas-infant-formula-standards-revamp-gets-white-house-review",
+    "page": 1,
+    "summary": "The Food and Drug Administration is advancing an effort to revamp regulations governing the nutrient profiles of infant formula products.",
+    "title": "FDA's Infant Formula Standards Revamp Gets White ..."
    },
    "news.bloomberglaw.com/business-and-practice/federal-agents-search-representative-ilhan-omars-home-1": {
     "baseline": false,
@@ -1376,6 +1385,15 @@
     "page": 2,
     "summary": "Nvidia and ChipAgents released a benchmark that measures how different AI models perform at the task, The Information reports, citing ChipAgents CEO William ...",
     "title": "Nvidia, ChipAgents Launch Eval for AI Chip Design"
+   },
+   "news.bloomberglaw.com/business-and-practice/ogletree-deakins-secures-six-fisher-phillips-labor-lawyers": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-15T22:09:49Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ogletree-deakins-secures-six-fisher-phillips-labor-lawyers",
+    "page": 1,
+    "summary": "Culkar's practice focuses on traditional labor law, representing employers in union campaigns, contract negotiations, grievance arbitrations, unfair labor ...",
+    "title": "Ogletree Deakins Secures Six Fisher Phillips Labor Lawyers"
    },
    "news.bloomberglaw.com/business-and-practice/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety": {
     "baseline": false,
@@ -4255,6 +4273,15 @@
     "page": 1,
     "summary": "Reset password \u00b7 Go to Sovos Home. \u00b7 On the login screen, click Forgot password. \u00b7 Enter your email address, then click Continue. \u00b7 Check your email for a message ...",
     "title": "Manage your password - Sovos Docs"
+   },
+   "docs.sovos.com/en/filing/sales-tax-filing/upload-data/troubleshooting": {
+    "baseline": false,
+    "date_hint": "15 hours ago",
+    "first_seen": "2026-10-15T22:09:49Z",
+    "link": "https://docs.sovos.com/en/filing/sales-tax-filing/upload-data/troubleshooting",
+    "page": 1,
+    "summary": "Find solutions to errors you might encounter when uploading data in Batch Determination. Error reports data correctly or determining taxability.",
+    "title": "Troubleshooting | Product Documentation Documentation"
    },
    "docs.sovos.com/en/regulated-shipping/shipcompliant/release-notes/2026/new-sovos-login-for-shipcompliant": {
     "baseline": false,
