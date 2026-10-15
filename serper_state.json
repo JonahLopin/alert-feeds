@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 6437,
+  "credits_used": 6485,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T10:10:26Z",
+  "last_run": "2026-10-15T11:09:36Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 130
+  "runs": 131
  },
  "feeds": {
   "adp-help": {},
@@ -3123,6 +3123,15 @@
     "page": 1,
     "summary": "Udforsk alle omr\u00e5der af SAP. Uddannelse og support. Uddannelse og certificering \u00b7 Support \u00b7 Dokumentation \u00b7 Community.",
     "title": "F_304302_GettyImages-1331794262_medium_jpg"
+   },
+   "news.sap.com/germany": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-15T11:09:36Z",
+    "link": "https://news.sap.com/germany/",
+    "page": 1,
+    "summary": "Nachrichten und Pressemitteilungen von SAP: Lesen Sie Artikel \u00fcber Unternehmens- und Technologietrends, Kundenberichte und interessante Videos im SAP-TV!",
+    "title": "SAP News Center Deutschland | Unternehmensberichte & ..."
    },
    "news.sap.com/germany/2026/10/ki-autonomous-cx": {
     "baseline": false,

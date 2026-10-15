@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-15T10:10:26Z</updated>
+  <updated>2026-10-15T11:09:36Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/</id>
+    <title>SAP News Center Deutschland | Unternehmensberichte &amp; ...</title>
+    <link href="https://news.sap.com/germany/" />
+    <published>2026-10-15T11:09:36Z</published>
+    <updated>2026-10-15T11:09:36Z</updated>
+    <summary>Nachrichten und Pressemitteilungen von SAP: Lesen Sie Artikel über Unternehmens- und Technologietrends, Kundenberichte und interessante Videos im SAP-TV!</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/germany/2026/10/ki-public-sector-sap-experience-center/</id>
     <title>SAP für innovative Lösungen in der Verwaltung</title>
