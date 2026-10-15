@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:kintsugi-blog</id>
   <title>Kintsugi blog (site:trykintsugi.com/blog/) via Serper</title>
-  <updated>2026-10-13T19:28:28Z</updated>
+  <updated>2026-10-15T21:09:55Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/kintsugi-blog.xml" />
+  <entry>
+    <id>https://trykintsugi.com/blog/californias-new-saas-use-tax</id>
+    <title>California's New SaaS Use Tax</title>
+    <link href="https://trykintsugi.com/blog/californias-new-saas-use-tax" />
+    <published>2026-10-15T21:09:55Z</published>
+    <updated>2026-10-15T21:09:55Z</updated>
+    <summary>Starting January 1, 2027, California will charge a use tax on SaaS under SB 122. Register early and automate sales tax collection with Kintsugi.</summary>
+  </entry>
   <entry>
     <id>https://trykintsugi.com/blog/kintsugi-integrates-with-intuit-enterprise-suite</id>
     <title>Kintsugi Integrates with Intuit Enterprise Suite</title>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 6909,
+  "credits_used": 6956,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T20:09:14Z",
+  "last_run": "2026-10-15T21:09:55Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 140
+  "runs": 141
  },
  "feeds": {
   "adp-help": {},
@@ -268,6 +268,15 @@
     "page": 4,
     "summary": "Abdulrahman Alfozan, a Saudi Arabian national, was arrested on Oct. 9, more than a week after staffers at OpenAI discovered an audio recording device planted ...",
     "title": "Arrested OpenAI Engineer Booked a One-Way Ticket to ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/ashurst-perkins-coie-courts-houston-energy-talent-after-merger": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T21:09:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ashurst-perkins-coie-courts-houston-energy-talent-after-merger",
+    "page": 1,
+    "summary": "Ashurst Perkins Coie is setting its sights on Houston after the firm's trans-Atlantic merger. Photographer: Aaron M. Sprecher/Bloomberg via Getty Images.",
+    "title": "Ashurst Perkins Coie Courts Houston Energy Talent After ..."
    },
    "news.bloomberglaw.com/business-and-practice/asic-to-share-big-four-surveillance-findings-after-kpmg-scandal": {
     "baseline": false,
@@ -580,6 +589,15 @@
     "page": 2,
     "summary": "George \u201cChip\u201d Nierlich joined Debevoise & Plimpton as a partner in its antitrust group in Washington, D.C., the firm announced Tuesday.",
     "title": "Debevoise Recruits Ex-DOJ Antitrust Lawyer Chip Nierlich ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/delivery-robot-makers-hit-with-biometric-suits-over-face-scans": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T21:09:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/delivery-robot-makers-hit-with-biometric-suits-over-face-scans",
+    "page": 1,
+    "summary": "Two robotics companies were hit with separate lawsuits alleging their camera-equipped delivery robots scanned and stored consumers' facial and hand geometry",
+    "title": "Delivery Robot Makers Hit With Biometric Suits Over Face ..."
    },
    "news.bloomberglaw.com/business-and-practice/dentons-employs-fda-and-health-care-transactions-lawyer-salmon": {
     "baseline": false,
@@ -2884,6 +2902,15 @@
     "summary": "Avalara's published pricing is $79 per state per month or $799 per state per year, with a 3-state minimum and extra fees. What it costs as you add states.",
     "title": "Avalara Pricing in 2026: Plans, Per-State Costs and Limits"
    },
+   "trykintsugi.com/blog/californias-new-saas-use-tax": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-15T21:09:55Z",
+    "link": "https://trykintsugi.com/blog/californias-new-saas-use-tax",
+    "page": 1,
+    "summary": "Starting January 1, 2027, California will charge a use tax on SaaS under SB 122. Register early and automate sales tax collection with Kintsugi.",
+    "title": "California's New SaaS Use Tax"
+   },
    "trykintsugi.com/blog/colorado-saas-sales-tax": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -3684,6 +3711,15 @@
     "page": 1,
     "summary": "SAP \u5e33\u55ae\u667a\u6167\u52a9\u7406\uff08Billing Assistant\uff09\u70ba\u9019\u4e00\u95dc\u9375\u6d41\u7a0b\u6ce8\u5165\u66f4\u5f37\u7684\u667a\u6167\u80fd\u529b\uff0c\u5354\u52a9\u66f4\u65e9\u8b58\u5225\u6f5b\u5728\u554f\u984c\uff0c\u5e6b\u52a9\u54e1\u5de5\u70ba\u5ba2\u6236\u5e36\u4f86\u66f4\u597d\u7684\u6210\u679c\uff0c\u4e26\u5efa\u7acb\u66f4\u7262\u56fa\u7684\u5ba2\u6236\u95dc\u4fc2\u3002\u5728Billing ...",
     "title": "SAP \u63a8\u52d5\u300c\u81ea\u4e3b\u71df\u904b\u4f01\u696d\u300d\u9858\u666f\u843d\u5730- SAP Taiwan \u65b0\u805e\u4e2d\u5fc3"
+   },
+   "news.sap.com/topics/artificial-intelligence": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T21:09:55Z",
+    "link": "https://news.sap.com/topics/artificial-intelligence/",
+    "page": 1,
+    "summary": "AI is creating new possibilities for how commercial work gets done. +1-800-872-1727",
+    "title": "Artificial Intelligence Archives"
    },
    "news.sap.com/topics/erp": {
     "baseline": true,
