@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-15T04:11:36Z</updated>
+  <updated>2026-10-15T05:10:27Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/anthropic-results-may-aid-ipo-but-not-ai-trade-analysts-say</id>
+    <title>Anthropic Results May Aid IPO but Not AI Trade, Analysts Say</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/anthropic-results-may-aid-ipo-but-not-ai-trade-analysts-say" />
+    <published>2026-10-15T05:10:27Z</published>
+    <updated>2026-10-15T05:10:27Z</updated>
+    <summary>The company generated $16.8 billion in quarterly revenue and positive free cash flow, with an adjusted gross margin of 85%, according to people familiar with ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/bytedance-in-talks-to-secure-mediatek-ai-chips-for-data-centers</id>
     <title>ByteDance in Talks to Secure MediaTek AI Chips for Data ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-13T06:21:16Z</published>
     <updated>2026-10-13T06:21:16Z</updated>
     <summary>Data center operator AirTrunk is delaying a planned initial public offering of a real estate investment trust in Singapore until next year as higher ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/how-big-techs-ai-race-fueled-a-borrowing-boom-explainer</id>
-    <title>How Big Tech's AI Race Fueled a Borrowing Boom: Explainer</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/how-big-techs-ai-race-fueled-a-borrowing-boom-explainer" />
-    <published>2026-10-12T20:34:25Z</published>
-    <updated>2026-10-12T20:34:25Z</updated>
-    <summary>Alphabet Inc. 's Google, Meta Platforms Inc. and other tech giants now are borrowing heavily to build the technology that makes chatbots run.</summary>
   </entry>
 </feed>

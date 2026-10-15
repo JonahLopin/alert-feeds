@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 6144,
+  "credits_used": 6195,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T04:11:36Z",
+  "last_run": "2026-10-15T05:10:27Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 124
+  "runs": 125
  },
  "feeds": {
   "adp-help": {},
@@ -232,6 +232,15 @@
     "page": 2,
     "summary": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value ... TypeSafe AI, the startup behind Jev, a new artificial intelligence model that went viral after it ...",
     "title": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value"
+   },
+   "news.bloomberglaw.com/business-and-practice/anthropic-results-may-aid-ipo-but-not-ai-trade-analysts-say": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T05:10:27Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/anthropic-results-may-aid-ipo-but-not-ai-trade-analysts-say",
+    "page": 4,
+    "summary": "The company generated $16.8 billion in quarterly revenue and positive free cash flow, with an adjusted gross margin of 85%, according to people familiar with ...",
+    "title": "Anthropic Results May Aid IPO but Not AI Trade, Analysts Say"
    },
    "news.bloomberglaw.com/business-and-practice/appeals-court-debates-its-ability-to-hear-immigration-challenge": {
     "baseline": false,
