@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 6533,
+  "credits_used": 6580,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T12:15:41Z",
+  "last_run": "2026-10-15T13:11:04Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 132
+  "runs": 133
  },
  "feeds": {
   "adp-help": {},
@@ -2899,6 +2899,15 @@
    }
   },
   "sap-financial-management-press": {
+   "news.sap.com/2026/10/10-questions-board-members-should-be-asking-about-security-compliance": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T13:11:04Z",
+    "link": "https://news.sap.com/2026/10/10-questions-board-members-should-be-asking-about-security-compliance/",
+    "page": 1,
+    "summary": "Security and compliance require Board-level leadership. Learn the 10 questions executives should be asking on the topic.",
+    "title": "10 Questions About Security and Compliance"
+   },
    "news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -4245,6 +4254,15 @@
     "page": 2,
     "summary": "Quick Links \u00b7 View Billing Statements \u00b7 Add Menu Item \u00b7 View Orders \u00b7 Add Employee \u00b7 Edit Taxes and Fees \u00b7 Online Ordering. Quick Links also appear in the side ...",
     "title": "Home | Dashboard | SpotOn Express"
+   },
+   "help.spoton.com/space/SK/3683876865": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-15T13:11:04Z",
+    "link": "https://help.spoton.com/space/SK/3683876865",
+    "page": 2,
+    "summary": "Overview. Use Manager PIN approval to add an extra layer of control for sensitive actions on the SpotOn Express Point of Sale (POS).",
+    "title": "Employee POS Permissions | Dashboard | SpotOn Express"
    },
    "help.spoton.com/space/SK/4233822221": {
     "baseline": false,

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-10-14T14:31:41Z</updated>
+  <updated>2026-10-15T13:11:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/3683876865</id>
+    <title>Employee POS Permissions | Dashboard | SpotOn Express</title>
+    <link href="https://help.spoton.com/space/SK/3683876865" />
+    <published>2026-10-15T13:11:04Z</published>
+    <updated>2026-10-15T13:11:04Z</updated>
+    <summary>Overview. Use Manager PIN approval to add an extra layer of control for sensitive actions on the SpotOn Express Point of Sale (POS).</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/2664432007</id>
     <title>End of Day History FOH</title>
