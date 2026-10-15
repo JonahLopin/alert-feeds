@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 6041,
+  "credits_used": 6092,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T02:14:15Z",
+  "last_run": "2026-10-15T03:12:06Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 122
+  "runs": 123
  },
  "feeds": {
   "adp-help": {},
@@ -1784,6 +1784,15 @@
   "chownow-blog": {},
   "csc-blog": {},
   "doordash-blog": {
+   "merchants.doordash.com/en-us/blog/86d-meaning": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-15T03:12:06Z",
+    "link": "https://merchants.doordash.com/en-us/blog/86d-meaning",
+    "page": 1,
+    "summary": "In restaurants, 86 is a slang term for an item that's sold out, out of stock, or no longer available. This guide covers how teams use the term and where it may ...",
+    "title": "What Does 86d Mean? Restaurant Term Explained"
+   },
    "merchants.doordash.com/en-us/blog/coffee-shop-marketing-strategy": {
     "baseline": false,
     "date_hint": "7 days ago",
@@ -3395,6 +3404,15 @@
     "summary": "Planning Beyond 2030: What SAP Business Suite 7 and SAP NetWeaver Customers Using Third-Party Databases or Java Need to Know. by Philipp Herzig.",
     "title": "Enterprise resource planning Archives"
    },
+   "news.sap.com/topics/human-resources": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-15T03:12:06Z",
+    "link": "https://news.sap.com/topics/human-resources/",
+    "page": 1,
+    "summary": "Feature articles, press releases, blogs, information & stories from SAP about human resource business trends and topics, software solutions, hr software ...",
+    "title": "Human Resources News & Stories"
+   },
    "news.sap.com/topics/sap-connect": {
     "baseline": false,
     "date_hint": "16 hours ago",
@@ -4172,6 +4190,15 @@
     "page": 1,
     "summary": "Square Kiosk supports four mounting options to fit your space and business needs. Wall mount: Secures the Square Kiosk directly to a wall, saving floor and ...",
     "title": "Set up your Square Kiosk mount"
+   },
+   "squareup.com/help/us/en/article/8687-set-up-square-kiosk": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-10-15T03:12:06Z",
+    "link": "https://squareup.com/help/us/en/article/8687-set-up-square-kiosk",
+    "page": 1,
+    "summary": "Square Kiosk is a purpose-built self-service ordering station featuring a 21.5 inch vertical touchscreen, AI-powered voice ordering, built-in contactless and ...",
+    "title": "Set up Square Kiosk"
    },
    "squareup.com/help/us/en/article/8694-manage-your-square-kiosk-subscription": {
     "baseline": false,

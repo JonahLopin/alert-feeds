@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-15T01:07:07Z</updated>
+  <updated>2026-10-15T03:12:06Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/topics/human-resources/</id>
+    <title>Human Resources News &amp; Stories</title>
+    <link href="https://news.sap.com/topics/human-resources/" />
+    <published>2026-10-15T03:12:06Z</published>
+    <updated>2026-10-15T03:12:06Z</updated>
+    <summary>Feature articles, press releases, blogs, information &amp; stories from SAP about human resource business trends and topics, software solutions, hr software ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/italy/2026/10/angelini-technologies-fameccanica-sceglie-rise-with-sap-per-accelerare-la-trasformazione-digitale-e-sostenere-la-crescita-futura/</id>
     <title>Angelini Technologies – Fameccanica sceglie RISE with ...</title>
