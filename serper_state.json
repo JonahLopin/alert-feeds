@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 6768,
+  "credits_used": 6816,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T17:09:09Z",
+  "last_run": "2026-10-15T18:13:24Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 137
+  "runs": 138
  },
  "feeds": {
   "adp-help": {},
@@ -294,6 +294,15 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/baker-mckenzie-hire-formalizes-congressional-investigations-work",
     "summary": "Kirkland & Ellis partner Allison Murphy is joining Baker McKenzie to co-head the congressional investigations practice, weeks before the midterm elections ...",
     "title": "Baker McKenzie Hire Formalizes Congressional ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/barnes-thornburg-onboards-labor-relations-lawyer-in-nashville": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T18:13:24Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/barnes-thornburg-onboards-labor-relations-lawyer-in-nashville",
+    "page": 1,
+    "summary": "Sara Olschewske joined Barnes & Thornburg as a partner in its labor and employment practice in Nashville, the firm announced Thursday.",
+    "title": "Barnes & Thornburg Onboards Labor Relations Lawyer in ..."
    },
    "news.bloomberglaw.com/business-and-practice/barnes-thornburg-recruits-public-finance-partner-in-washington": {
     "baseline": false,
@@ -1788,6 +1797,15 @@
     "page": 1,
     "summary": "Across India's small towns and bustling cities, retail investors have been snapping up shares of newly listed companies.",
     "title": "Wall Street Bosses Look Past Pain Points to Ramp Up ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/wall-street-on-alert-for-bessent-to-act-on-bond-yields-again": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-15T18:13:24Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wall-street-on-alert-for-bessent-to-act-on-bond-yields-again",
+    "page": 3,
+    "summary": "Bessent's \u201cTreasury twist\u201d came in response to surging US yields, a sore spot for a Trump administration that had promised to deliver lower borrowing costs \u2014 ...",
+    "title": "Wall Street on Alert for Bessent to Act on Bond Yields Again"
    },
    "news.bloomberglaw.com/business-and-practice/waters-long-tenure-at-financial-services-challenged-by-casten": {
     "baseline": false,
@@ -3528,6 +3546,15 @@
     "summary": "LISBOA \u2013 A SAP SE (NYSE: SAP) anunciou um acordo para adquirir a TechWolf, empresa belga especializada em intelig\u00eancia artificial (IA) aplicada \u00e0 an\u00e1lise do ...",
     "title": "SAP anuncia aquisi\u00e7\u00e3o da TechWolf para refor\u00e7ar a gest\u00e3o ..."
    },
+   "news.sap.com/spain/2026/10/escalabilidad-empresarial": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T18:13:24Z",
+    "link": "https://news.sap.com/spain/2026/10/escalabilidad-empresarial/",
+    "page": 1,
+    "summary": "La escalabilidad empresarial es la capacidad de una organizaci\u00f3n para aumentar su actividad manteniendo una operativa preparada para asumir nuevas exigencias.",
+    "title": "Escalabilidad empresarial: c\u00f3mo preparar tu operativa ..."
+   },
    "news.sap.com/spain/2026/10/escalabilidad-empresarial?amp=1": {
     "baseline": false,
     "date_hint": "9 hours ago",
@@ -4443,6 +4470,15 @@
     "summary": "Clocking in allows employees to start their shift and access the Front of House (FOH) based on their assigned job position.",
     "title": "Clock In | SpotOn Restaurant FOH"
    },
+   "help.spoton.com/space/SK/4512907295/Payroll+Reports+%7C+Dashboard+%7C+SpotOn+Express": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-15T18:13:24Z",
+    "link": "https://help.spoton.com/space/SK/4512907295/Payroll+Reports+%7C+Dashboard+%7C+SpotOn+Express",
+    "page": 2,
+    "summary": "The Payroll Report in the SpotOn Express Dashboard provides a detailed summary of total hours worked, wages, tips, and payroll identifiers for each employee and ...",
+    "title": "Payroll Reports | Dashboard | SpotOn Express"
+   },
    "help.spoton.com/space/SK/4513038363": {
     "baseline": true,
     "date_hint": "4 days ago",
@@ -4826,6 +4862,15 @@
     "page": 4,
     "summary": "Wolters Kluwer Health today announced a new collaboration with AME Publishing Company, an Open Access publisher specializing in medical journals and books, ...",
     "title": "AME and Wolters Kluwer aim to expand access to global ..."
+   },
+   "wolterskluwer.com/en/news/cch-tagetik-na-intouch-2026": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-15T18:13:24Z",
+    "link": "https://www.wolterskluwer.com/en/news/cch-tagetik-na-intouch-2026",
+    "page": 1,
+    "summary": "Putting AI to work requires organizations to align data, governance, processes, skills, technology and cultural readiness while keeping human judgment",
+    "title": "What does it take to put AI to work in finance?"
    },
    "wolterskluwer.com/en/news/connected-operational-risk-ai-digital-transformation": {
     "baseline": false,
