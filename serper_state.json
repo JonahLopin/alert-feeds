@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 6343,
+  "credits_used": 6390,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T08:14:16Z",
+  "last_run": "2026-10-15T09:11:25Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 128
+  "runs": 129
  },
  "feeds": {
   "adp-help": {},
@@ -3785,6 +3785,15 @@
     "page": 1,
     "summary": "NFC mobile payments let customers pay by tapping a card, phone, or watch. See what hardware, setup, and security your store needs to accept them.",
     "title": "NFC Mobile Payments: How To Accept Them (2026)"
+   },
+   "shopify.com/blog/noindex-shopify-page": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-15T09:11:25Z",
+    "link": "https://www.shopify.com/blog/noindex-shopify-page",
+    "page": 1,
+    "summary": "Learn how to noindex a Shopify page with the seo.hidden metafield, confirm it worked, troubleshoot issues, and compare other indexing controls.",
+    "title": "How To Noindex a Shopify Page With Metafields (2026)"
    },
    "shopify.com/blog/on-page-seo": {
     "baseline": false,
