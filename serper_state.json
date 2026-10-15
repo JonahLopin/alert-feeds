@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 7002,
+  "credits_used": 7049,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T22:09:49Z",
+  "last_run": "2026-10-15T23:08:00Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 142
+  "runs": 143
  },
  "feeds": {
   "adp-help": {},
@@ -411,6 +411,15 @@
     "page": 2,
     "summary": "Data brokers operating in California report having deleted more than 60 million consumer profiles via the state's newly launched data deletion platform, ...",
     "title": "California Data Brokers Report Over 60 Million Profile ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/california-sues-to-end-continued-courthouse-immigration-arrests": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-15T23:08:00Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/california-sues-to-end-continued-courthouse-immigration-arrests",
+    "page": 1,
+    "summary": "California is seeking to block the Trump administration's practice of making immigration arrests in and around state courthouses with a new lawsuit",
+    "title": "California Sues to End Continued Courthouse Immigration ..."
    },
    "news.bloomberglaw.com/business-and-practice/china-buys-spot-lng-shipments-to-refill-storage-ahead-of-winter": {
     "baseline": false,
@@ -750,6 +759,15 @@
     "page": 4,
     "summary": "Ex-Fourth Circuit Judge Thomas D. Wilson was required to retire on Feb. 28 and not seek another job as a judge either by election or appointment, according to ...",
     "title": "Ex-Michigan Judge Who Showed Up Drunk to Work ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/fcc-rural-telecom-subsidies-nonprofit-rejected-by-appeals-court": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T23:08:00Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/fcc-rural-telecom-subsidies-nonprofit-rejected-by-appeals-court",
+    "page": 1,
+    "summary": "A federal appeals court ruled against an FCC corporation that manages federal subsidies meant to help low-income and rural people access telecom services, ...",
+    "title": "FCC Rural Telecom Subsidies Nonprofit Rejected by ..."
    },
    "news.bloomberglaw.com/business-and-practice/fdas-infant-formula-standards-revamp-gets-white-house-review": {
     "baseline": false,
@@ -1467,6 +1485,15 @@
     "summary": "Politicians on both sides of the aisle criticized Defense Secretary Pete Hegseth for his plan to livestream the execution of a former Army major who killed ...",
     "title": "Plan to Broadcast Fort Hood Killer's Execution Spurs ..."
    },
+   "news.bloomberglaw.com/business-and-practice/proofpoint-to-buy-varonis-for-6-3-billion-as-tech-m-a-rebounds": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T23:08:00Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/proofpoint-to-buy-varonis-for-6-3-billion-as-tech-m-a-rebounds",
+    "page": 3,
+    "summary": "Thoma Bravo-backed Proofpoint Inc. agreed to buy cybersecurity company Varonis Systems Inc. for about $6.3 billion.",
+    "title": "Proofpoint to Buy Varonis for $6.3 Billion as Tech M&A ..."
+   },
    "news.bloomberglaw.com/business-and-practice/regenxbio-penn-end-revived-sarepta-gene-therapy-patent-fight": {
     "baseline": true,
     "date_hint": "23 hours ago",
@@ -1511,6 +1538,15 @@
     "page": 2,
     "summary": "Chief Executive Officer Nik Storonsky said he wants the digital bank to hold a primary listing in the US, if it chooses to pursue a public offering in the ...",
     "title": "Revolut CEO Storonsky Says He's Targeting US Primary ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/ripple-opens-9-billion-perps-boom-to-wall-street-clients-1": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-15T23:08:00Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ripple-opens-9-billion-perps-boom-to-wall-street-clients-1",
+    "page": 3,
+    "summary": "The offering from the unit, Ripple Prime, comes with more than 100 reference markets spanning stocks, various indexes, ETFs , commodities and more, and comes as ...",
+    "title": "Ripple Opens $9 Billion Perps Boom to Wall Street Clients (1)"
    },
    "news.bloomberglaw.com/business-and-practice/scotus-passes-on-ruby-tuesday-benefits-suit-following-advice": {
     "baseline": false,
@@ -1923,6 +1959,15 @@
     "page": 2,
     "summary": "A company that never signed an arbitration agreement can still be ordered to arbitrate. As a recent Georgia case shows, a party that spends years pursuing ...",
     "title": "When Arbitration Clauses Reach Companies That Never ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/white-house-defends-new-press-secretary-on-credential-questions": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-15T23:08:00Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/white-house-defends-new-press-secretary-on-credential-questions",
+    "page": 1,
+    "summary": "White House Press Secretary Katie Zacharia appeared to acknowledge Thursday that she did not pass the California bar exam,",
+    "title": "Trump Press Secretary Defends Career, Downplays Bar ..."
    },
    "news.bloomberglaw.com/business-and-practice/whole-foods-ex-worker-lacks-evidence-for-bias-retaliation-case": {
     "baseline": false,
@@ -4254,7 +4299,17 @@
     "title": "What Is a Website Title: Definition and Examples (2026)"
    }
   },
-  "sovos-blog": {},
+  "sovos-blog": {
+   "sovos.com/blog/sut/kentucky-sales-tax-guide": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-15T23:08:00Z",
+    "link": "https://sovos.com/blog/sut/kentucky-sales-tax-guide/",
+    "page": 1,
+    "summary": "Kentucky imposes a 6% statewide sales and use tax. Cities and counties do not add a general local sales tax, which makes the rate structure simpler than in many ...",
+    "title": "Kentucky Sales Tax Guide | Sovos"
+   }
+  },
   "sovos-help": {
    "docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/manage-two-factor-authentication": {
     "baseline": false,

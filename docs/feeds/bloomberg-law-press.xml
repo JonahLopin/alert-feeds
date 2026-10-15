@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-15T22:10:54Z</updated>
+  <updated>2026-10-15T23:09:01Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:2553103983974183274</id>
+    <title>FCC Rural Telecom Subsidies Nonprofit Rejected by Appeals Court - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/fcc-rural-telecom-subsidies-nonprofit-rejected-by-appeals-court" />
+    <published>2026-10-15T23:09:01Z</published>
+    <updated>2026-10-15T23:09:01Z</updated>
+    <summary>A federal appeals court ruled against an FCC corporation that manages federal subsidies meant to help low-income and rural people access telecom ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:2138257947083510083</id>
     <title>Delivery Robot Makers Hit With Biometric Suits Over Face Scans - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-10-08T15:27:00Z</published>
     <updated>2026-10-08T15:27:00Z</updated>
     <summary>Egan-Jones Ratings Co. tapped former US Securities and Exchange Commission staffer Kenneth Godwin, who oversaw examinations of firms like ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:13888428562918262806</id>
-    <title>Trump Administration Avoids Sanctions in Case Over Farmer Grants - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/trump-administration-avoids-sanctions-in-case-over-farmer-grants" />
-    <published>2026-10-08T15:27:00Z</published>
-    <updated>2026-10-08T15:27:00Z</updated>
-    <summary>The US Department of Agriculture avoided sanctions for missing deadlines in a lawsuit brought by dozens of grant recipients who said the agency ...</summary>
   </entry>
 </feed>
