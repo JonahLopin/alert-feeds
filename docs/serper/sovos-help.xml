@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-15T15:10:46Z</updated>
+  <updated>2026-10-15T16:11:19Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/manage-two-factor-authentication</id>
+    <title>Manage two-factor authentication - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/manage-two-factor-authentication" />
+    <published>2026-10-15T16:11:19Z</published>
+    <updated>2026-10-15T16:11:19Z</updated>
+    <summary>Two-factor authentication adds a second verification step during login to keep your account secure, even if your password is compromised.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/tax-determination/tax-determination/release-notes/september-3-2026</id>
     <title>September 3, 2026 | Product Documentation Documentation</title>

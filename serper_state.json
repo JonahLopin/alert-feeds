@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 6674,
+  "credits_used": 6721,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T15:10:46Z",
+  "last_run": "2026-10-15T16:11:19Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 135
+  "runs": 136
  },
  "feeds": {
   "adp-help": {},
@@ -330,6 +330,15 @@
     "page": 2,
     "summary": "A federal appeals court declined to resurrect a Black FedEx employee's claims she was denied a promotion because she complained about harassment.",
     "title": "Black FedEx Worker Loses Appeal to Revive Retaliation ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/blackrock-pimco-hire-lawyers-over-faltering-virgin-media-deal": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-15T16:11:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/blackrock-pimco-hire-lawyers-over-faltering-virgin-media-deal",
+    "page": 2,
+    "summary": "Some of Virgin Media O2 's biggest creditors are getting legal advice from Milbank LLP after a UK regulator flagged concerns over a deal that would have ...",
+    "title": "BlackRock, Pimco Hire Lawyers Over Faltering Virgin ..."
    },
    "news.bloomberglaw.com/business-and-practice/bofa-hit-with-1-2-billion-of-fines-over-money-laundering-lapses": {
     "baseline": false,
@@ -1618,6 +1627,15 @@
     "summary": "The county of Arlington, Va., has sued the Trump administration over its proposed \u201cTriumphal Arch.\u201d The 250-foot arch that would be located on the District ...",
     "title": "Trump's Proposed 'Triumphal Arch' Draws Suit by Virginia ..."
    },
+   "news.bloomberglaw.com/business-and-practice/uk-tax-authority-clarifies-vat-treatment-for-cryptoasset-sales": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T16:11:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/uk-tax-authority-clarifies-vat-treatment-for-cryptoasset-sales",
+    "page": 1,
+    "summary": "There are no specific value-added tax rules for crypto-assets, meaning sellers should look at several criteria to know when they may need to collect and pay ...",
+    "title": "UK Tax Authority Clarifies VAT Treatment for Cryptoasset Sales"
+   },
    "news.bloomberglaw.com/business-and-practice/uk-trading-platform-plus500-buys-hedge-to-help-us-expansion": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -1797,6 +1815,15 @@
     "page": 1,
     "summary": "Raphael Kuyler joined Willkie as a partner in its power and renewable energy practice in Washington, D.C., the firm announced Tuesday.",
     "title": "Willkie Taps Westinghouse Nuclear Lawyer Kuyler in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/womble-adds-three-k-l-gates-finance-litigation-lawyers-in-boston": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T16:11:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/womble-adds-three-k-l-gates-finance-litigation-lawyers-in-boston",
+    "page": 3,
+    "summary": "Jeffrey Patterson, Ryan Tosi, and Phoebe Winder joined Womble Bond Dickinson as partners in its financial services litigation practice in Boston, ...",
+    "title": "Womble Adds Three K&L Gates Finance Litigation Lawyers ..."
    },
    "news.bloomberglaw.com/business-and-practice/womens-baseball-infighting-sets-up-sour-finish-to-first-season": {
     "baseline": false,
@@ -3841,6 +3868,15 @@
     "summary": "Imgur is an image hosting and sharing community where users upload images, including memes andGIFs. It's popular with Reddit users, but brands and marketers ...",
     "title": "8 Best Image Hosting Sites and How To Choose One (2026)"
    },
+   "shopify.com/blog/make-money-with-pay-per-click": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-15T16:11:19Z",
+    "link": "https://www.shopify.com/blog/make-money-with-pay-per-click",
+    "page": 2,
+    "summary": "Pay per click (PPC) is an online advertising model where advertisers pay a fee each time a user clicks on their ad. It has also become an umbrella term for ...",
+    "title": "How To Make Money With Pay-Per-Click Advertising (2026)"
+   },
    "shopify.com/blog/marketing-collateral": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -4013,6 +4049,15 @@
   },
   "sovos-blog": {},
   "sovos-help": {
+   "docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/manage-two-factor-authentication": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-15T16:11:19Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/manage-two-factor-authentication",
+    "page": 1,
+    "summary": "Two-factor authentication adds a second verification step during login to keep your account secure, even if your password is compromised.",
+    "title": "Manage two-factor authentication - Sovos Docs"
+   },
    "docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/manage-your-password": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -4770,6 +4815,15 @@
     "page": 2,
     "summary": "Congenital arhinia is caused by mutations of a gene called SMCHD1. In the two new patients, modern genetic testing techniques identified a previously unknown ...",
     "title": "Innovative surgical technique creates a nose for patients ..."
+   },
+   "wolterskluwer.com/en/news/internal-audit-ai-use-governance-skills-become-priorities": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T16:11:19Z",
+    "link": "https://www.wolterskluwer.com/en/news/internal-audit-ai-use-governance-skills-become-priorities",
+    "page": 1,
+    "summary": "Internal audit professionals see AI moving beyond writing and summarization into core audit work, but most functions have yet to reach formal or broad adoption.",
+    "title": "How are internal audit teams using AI in 2026?"
    },
    "wolterskluwer.com/en/news/is-hip-replacement-safe-for-people-in-their-90s-risks-depend-on-patients-health-as-well-as-age": {
     "baseline": true,
