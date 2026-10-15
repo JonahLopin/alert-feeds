@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 6390,
+  "credits_used": 6437,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T09:11:25Z",
+  "last_run": "2026-10-15T10:10:26Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 129
+  "runs": 130
  },
  "feeds": {
   "adp-help": {},
@@ -303,6 +303,15 @@
     "page": 1,
     "summary": "Marissa Perlmutter joined Barnes & Thornburg as a partner in Washington, DC, the firm announced Wednesday.",
     "title": "Barnes & Thornburg Recruits Public Finance Partner in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/big-law-class-of-2011-survivors-offer-lessons-for-the-ai-era": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-15T10:10:26Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/big-law-class-of-2011-survivors-offer-lessons-for-the-ai-era",
+    "page": 4,
+    "summary": "New York Attorney General Letitia James (D) should be removed as the special prosecutor in the high-profile Cornell University rape investigation, according to ...",
+    "title": "Big Law Class of 2011 Survivors Offer Lessons for the AI Era"
    },
    "news.bloomberglaw.com/business-and-practice/black-box-revenue-from-anthropic-and-openai-stumps-traders": {
     "baseline": false,
@@ -2447,6 +2456,15 @@
     "summary": "Single sign-on (SSO) lets your team sign in to Intuit Accountant Suite, QuickBooks Online Accountant, and Intuit Enterprise Suite using your organization's ...",
     "title": "Set up single sign-on for your organization - QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/pap-training/manage-proadvisor-training-team-intuit-accountant/L91PXePQn_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T10:10:26Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/pap-training/manage-proadvisor-training-team-intuit-accountant/L91PXePQn_US_en_US",
+    "page": 1,
+    "summary": "Learn how to assign ProAdvisor Academy courses to your team members, track their certifications, and manage learning deadlines directly within Intuit ...",
+    "title": "Manage ProAdvisor training for your team in Intuit Accountant ..."
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/pay-bills/pay-bills-across-companies-intuit-enterprise-suite/L5ewQGkkJ_US_en_US": {
     "baseline": true,
     "date_hint": "6 days ago",
@@ -3124,6 +3142,15 @@
     "summary": "Die SAP Connect 2026 zeigt neue Entwicklungen zur Autonomous Customer Experience. Lernen Sie die KI-gest\u00fctzten L\u00f6sungen kennen.",
     "title": "Autonomous Customer Experience: Die Zukunft der CX"
    },
+   "news.sap.com/germany/2026/10/ki-public-sector-sap-experience-center": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-15T10:10:26Z",
+    "link": "https://news.sap.com/germany/2026/10/ki-public-sector-sap-experience-center/",
+    "page": 1,
+    "summary": "Entdecken Sie, wie SAP k\u00fcnstliche Intelligenz f\u00fcr \u00f6ffentliche Verwaltungen nutzt, um effiziente Dienstleistungen zu bieten.",
+    "title": "SAP f\u00fcr innovative L\u00f6sungen in der Verwaltung"
+   },
    "news.sap.com/germany/2026/10/naechste-generation-von-unternehmens-ki": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -3653,6 +3680,15 @@
     "page": 1,
     "summary": "Content writer and strategist in the SaaS space. Try Shopify for free, and explore all the tools you need to start, run, and grow your business.",
     "title": "Lizzie Davey author & reviewer at Shopify"
+   },
+   "shopify.com/blog/break-even-point": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-15T10:10:26Z",
+    "link": "https://www.shopify.com/blog/break-even-point",
+    "page": 2,
+    "summary": "A company's break-even point is the line between generating a net profit and operating at a net loss. It identifies the exact sales volume or revenue that ...",
+    "title": "How To Calculate the Break-Even Point for Your Products"
    },
    "shopify.com/blog/business-license": {
     "baseline": false,
