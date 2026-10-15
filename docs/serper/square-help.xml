@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:square-help</id>
   <title>Square help (site:squareup.com/help/us/en/article/) via Serper</title>
-  <updated>2026-10-15T12:15:41Z</updated>
+  <updated>2026-10-15T19:08:34Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/square-help.xml" />
+  <entry>
+    <id>https://squareup.com/help/us/en/article/8684-set-up-menus-for-square-kiosk</id>
+    <title>Set up menus for Square Kiosk</title>
+    <link href="https://squareup.com/help/us/en/article/8684-set-up-menus-for-square-kiosk" />
+    <published>2026-10-15T19:08:34Z</published>
+    <updated>2026-10-15T19:08:34Z</updated>
+    <summary>Square Kiosk displays your menu to buyers on both the device touchscreen and through voice ordering. Buyers can browse items, ask questions about the menu</summary>
+  </entry>
   <entry>
     <id>https://squareup.com/help/us/en/article/8688-set-up-checkout-and-notifications-on-square-kiosk</id>
     <title>Set up checkout settings on Square Kiosk</title>

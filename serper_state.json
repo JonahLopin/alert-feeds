@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 6816,
+  "credits_used": 6863,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T18:13:24Z",
+  "last_run": "2026-10-15T19:08:34Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 138
+  "runs": 139
  },
  "feeds": {
   "adp-help": {},
@@ -1179,6 +1179,15 @@
     "summary": "Anthropic has stock, and people own it, and owning it gives you economic exposure to Anthropic stock. There are problems. Not just anyone can own Anthropic ...",
     "title": "Matt Levine - Pre-IPO Perpetual Futures Swap ETF"
    },
+   "news.bloomberglaw.com/business-and-practice/matt-levines-money-stuff-private-markets-are-the-new-ai-market": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-15T19:08:34Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/matt-levines-money-stuff-private-markets-are-the-new-ai-market",
+    "page": 3,
+    "summary": "As the economy grows, their profits will grow. If you buy their stocks, you will get a share of that growth. If you are a normal person saving for retirement, ...",
+    "title": "Matt Levine's Money Stuff: Private Markets Are the New AI ..."
+   },
    "news.bloomberglaw.com/business-and-practice/mayer-brown-brings-on-sheppard-mullin-fda-life-sciences-partners": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -1250,6 +1259,15 @@
     "page": 1,
     "summary": "NASA released its final request for proposals for plans for the next generation of commercial space stations, according to a news release.",
     "title": "NASA Seeks Proposals for Commercial Space Stations"
+   },
+   "news.bloomberglaw.com/business-and-practice/nassau-countys-transgender-athletes-law-under-fire-on-appeal": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-15T19:08:34Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/nassau-countys-transgender-athletes-law-under-fire-on-appeal",
+    "page": 1,
+    "summary": "Blakeman's policy barring female sports leagues with transgender athletes from using the New York county's facilities came under fire Thursday",
+    "title": "Nassau County's Transgender Athletes Law Under Fire on ..."
    },
    "news.bloomberglaw.com/business-and-practice/nelson-mullins-adds-daniel-badovinac-as-tax-partner-in-miami": {
     "baseline": false,
@@ -4533,6 +4551,15 @@
     "page": 1,
     "summary": "Square Kiosk supports four mounting options to fit your space and business needs. Wall mount: Secures the Square Kiosk directly to a wall, saving floor and ...",
     "title": "Set up your Square Kiosk mount"
+   },
+   "squareup.com/help/us/en/article/8684-set-up-menus-for-square-kiosk": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-15T19:08:34Z",
+    "link": "https://squareup.com/help/us/en/article/8684-set-up-menus-for-square-kiosk",
+    "page": 1,
+    "summary": "Square Kiosk displays your menu to buyers on both the device touchscreen and through voice ordering. Buyers can browse items, ask questions about the menu",
+    "title": "Set up menus for Square Kiosk"
    },
    "squareup.com/help/us/en/article/8687-set-up-square-kiosk": {
     "baseline": false,
