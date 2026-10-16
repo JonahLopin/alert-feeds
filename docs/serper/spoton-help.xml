@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-10-16T01:37:04Z</updated>
+  <updated>2026-10-16T08:51:26Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2055536951</id>
+    <title>Item Commands Menu | SpotOn Restaurant FOH</title>
+    <link href="https://help.spoton.com/space/SK/2055536951" />
+    <published>2026-10-16T08:51:26Z</published>
+    <updated>2026-10-16T08:51:26Z</updated>
+    <summary>The Item Commands Menu provides quick access to actions that can be performed on one or more items within an order. These commands allow staff to modify, move, ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/5529468936</id>
     <title>Configure Pricing Events for Menu Items and Modifiers</title>

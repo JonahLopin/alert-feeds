@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 7436,
+  "credits_used": 7484,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T07:48:12Z",
+  "last_run": "2026-10-16T08:51:26Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 151
+  "runs": 152
  },
  "feeds": {
   "adp-help": {},
@@ -4610,6 +4610,15 @@
     "summary": "Overview. This page provides a quick overview of the key contents and related child pages, making it easy to navigate to more detailed information.",
     "title": "Opening & Closing Procedures | SpotOn Restaurant FOH"
    },
+   "help.spoton.com/space/SK/2055536951": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-16T08:51:26Z",
+    "link": "https://help.spoton.com/space/SK/2055536951",
+    "page": 1,
+    "summary": "The Item Commands Menu provides quick access to actions that can be performed on one or more items within an order. These commands allow staff to modify, move, ...",
+    "title": "Item Commands Menu | SpotOn Restaurant FOH"
+   },
    "help.spoton.com/space/SK/2057044245/End+of+Day+Process+%7C+SpotOn+Restaurant+FOH": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -5421,6 +5430,15 @@
     "page": 1,
     "summary": "New ISACA research shows cybersecurity professionals taking on more AI governance roles. TeamMate's Sandy Buchanan weighs in for GRC teams.",
     "title": "AI adoption is accelerating. Is governance keeping pace?"
+   },
+   "wolterskluwer.com/en/news/ai-adoption-mainstream-in-ehs-but-process-digitalization-gaps-limit-broader-deployment": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-10-16T08:51:26Z",
+    "link": "https://www.wolterskluwer.com/en/news/ai-adoption-mainstream-in-ehs-but-process-digitalization-gaps-limit-broader-deployment",
+    "page": 2,
+    "summary": "Digital maturity is closely linked to AI readiness. Organizations reporting higher levels of AI readiness are more likely to have digitalized key EHS processes, ...",
+    "title": "AI adoption is becoming mainstream in EHS, but process ..."
    },
    "wolterskluwer.com/en/news/ame-and-wolters-kluwer-aim-to-expand-access-to-global-medical-research-through-new-collaboration": {
     "baseline": false,
