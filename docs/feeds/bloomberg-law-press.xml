@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-16T16:48:13Z</updated>
+  <updated>2026-10-16T17:26:32Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12864842972333235397</id>
+    <title>Extreme Networks Reaches $51 Million Investor Class Settlement - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/extreme-networks-reaches-51-million-investor-class-settlement" />
+    <published>2026-10-16T17:26:32Z</published>
+    <updated>2026-10-16T17:26:32Z</updated>
+    <summary>Extreme Networks Inc. agreed to fork over $51 million to resolve investor class allegations that the computer connectivity company overstated ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:9725467578277101390</id>
     <title>NCAA Sues Ohio Governor Over Student-Athlete Eligibility Order - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-10-09T12:15:37Z</published>
     <updated>2026-10-09T12:15:37Z</updated>
     <summary>Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:9926596641250367910</id>
-    <title>Crypto.com Defeats Privacy Lawsuit Over Online Data Disclosure - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/crypto-com-defeats-privacy-lawsuit-over-online-data-disclosure" />
-    <published>2026-10-08T15:27:00Z</published>
-    <updated>2026-10-08T15:27:00Z</updated>
-    <summary>Foris Dax Inc. defeated a proposed class action alleging it collected the information of visitors to its crypto.com cryptocurrency exchange and ...</summary>
   </entry>
 </feed>
