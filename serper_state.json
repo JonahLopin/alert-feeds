@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 7144,
+  "credits_used": 7192,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T01:37:04Z",
+  "last_run": "2026-10-16T02:37:23Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 145
+  "runs": 146
  },
  "feeds": {
   "adp-help": {},
@@ -2207,6 +2207,15 @@
     "summary": "Learn how to get more Google reviews for your restaurant with proven tactics that improve local rankings, build trust, and bring in more orders.",
     "title": "How to Get More Restaurant Reviews From Clients"
    },
+   "merchants.doordash.com/en-us/blog/valentines-day-restaurant-trends": {
+    "baseline": false,
+    "date_hint": "20 hours ago",
+    "first_seen": "2026-10-16T02:37:23Z",
+    "link": "https://merchants.doordash.com/en-us/blog/valentines-day-restaurant-trends",
+    "page": 1,
+    "summary": "Offer a prix fixe menu. Consider sticking to your crowd pleasers. Help guests plate their takeout meals at home. Consider Valentine's Day brunch specials. ...",
+    "title": "8 Valentine's Day Tips for Restaurant Owners"
+   },
    "merchants.doordash.com/en-us/blog/what-is-a-gastropub": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -3110,6 +3119,15 @@
     "link": "https://www.lightspeedhq.com/news/halloween-challenges-christmas-as-the-bigger-holiday-for-millennials/",
     "summary": "Based on findings from a survey of over 1,500 North American consumers aged 18+, the research shows Halloween is increasingly competing with Christmas in ...",
     "title": "Halloween Challenges Christmas as the Bigger Holiday for ..."
+   },
+   "lightspeedhq.com/news/lightspeed-ai-expands-from-insights-to-action-with-new-agentic-capabilities-for-retail": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-10-16T02:37:23Z",
+    "link": "https://www.lightspeedhq.com/news/lightspeed-ai-expands-from-insights-to-action-with-new-agentic-capabilities-for-retail/",
+    "page": 1,
+    "summary": "Built for the operational complexity of modern retail, Lightspeed AI can reason across a retailer's catalog, inventory, sales and purchasing data, recommend ...",
+    "title": "Lightspeed AI Expands From Insights to Action With New ..."
    }
   },
   "ncr-voyix-press": {
@@ -3556,6 +3574,15 @@
     "summary": "Maintenance engineers in server room. SAP. Italia 800 789 088. Oppure consulta l'elenco completo dei nostri recapiti \u00b7 Contatta SAP Italia ...",
     "title": "Maintenance engineers in server room"
    },
+   "news.sap.com/italy/2026/10/sap-quality-award-2026-lai-agentica-protagonista-dei-progetti-premiati": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-16T02:37:23Z",
+    "link": "https://news.sap.com/italy/2026/10/sap-quality-award-2026-lai-agentica-protagonista-dei-progetti-premiati/",
+    "page": 1,
+    "summary": "L'edizione 2026 dei SAP Quality Award segna un momento significativo: per la prima volta, il riconoscimento dedicato ai Clienti e Partner SAP che hanno ...",
+    "title": "SAP Quality Award 2026: l'AI agentica protagonista dei ..."
+   },
    "news.sap.com/italy/2026/10/sap-quality-award-2026-lai-agentica-protagonista-dei-progetti-premiati?amp=1": {
     "baseline": false,
     "date_hint": "10 hours ago",
@@ -3636,6 +3663,15 @@
     "page": 1,
     "summary": "SAP\uc758 \ubaa8\ub4e0 \uc601\uc5ed \uc0b4\ud3b4\ubcf4\uae30. \ud559\uc2b5 \ubc0f \uc9c0\uc6d0. \ud559\uc2b5 \ubc0f \uc778\uc99d \u00b7 \uc9c0\uc6d0 \u00b7 \ubb38\uc11c \u00b7 \ucee4\ubba4\ub2c8\ud2f0. \uc815\ubcf4. \ud68c\uc0ac \uc815\ubcf4 \u00b7 \ucee4\ub9ac\uc5b4 \u00b7 \uace0\uac1d \uc0ac\ub840 \u00b7 \uc724\ub9ac \ubc0f \uaddc\uc81c\uc900\uc218 \u00b7 \uc774\ubca4\ud2b8 ...",
     "title": "SAP-Connect-2026-Hero - SAP Korea \ub274\uc2a4\uc13c\ud130"
+   },
+   "news.sap.com/latinamerica/2026/10/bold-simplifica-sus-operaciones-con-sap-grow-para-potenciar-su-crecimiento": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-16T02:37:23Z",
+    "link": "https://news.sap.com/latinamerica/2026/10/bold-simplifica-sus-operaciones-con-sap-grow-para-potenciar-su-crecimiento/",
+    "page": 2,
+    "summary": "Con SAP GROW, Bold encontr\u00f3 una plataforma que le permite integrar diferentes procesos y funcionalidades, en lugar de abordarlos como soluciones aisladas. Para ...",
+    "title": "Bold simplifica sus operaciones con SAP GROW para ..."
    },
    "news.sap.com/mena/2026/10/uae-ministry-of-higher-education-and-scientific-research-and-sap-support-academic-workforce-readiness-for-ai-applications": {
     "baseline": false,
@@ -4957,6 +4993,15 @@
     "page": 1,
     "summary": "The Standalone 3DS API allows you to run EMV 3D Secure (3DS) authentication using Stripe while authorizing the payment with any PSP. Related guide: Standalone ...",
     "title": "3DS Authentications | Stripe API Reference"
+   },
+   "docs.stripe.com/billing/subscriptions/manage-fraud": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-10-16T02:37:23Z",
+    "link": "https://docs.stripe.com/billing/subscriptions/manage-fraud",
+    "page": 1,
+    "summary": "Configure subscription updates, credits, payment recovery, and access controls to reduce fraud and nonpayment risk.",
+    "title": "Reduce subscription fraud and nonpayment risk"
    },
    "docs.stripe.com/data/write-queries": {
     "baseline": true,

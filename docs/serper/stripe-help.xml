@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-15T08:14:16Z</updated>
+  <updated>2026-10-16T02:37:23Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/billing/subscriptions/manage-fraud</id>
+    <title>Reduce subscription fraud and nonpayment risk</title>
+    <link href="https://docs.stripe.com/billing/subscriptions/manage-fraud" />
+    <published>2026-10-16T02:37:23Z</published>
+    <updated>2026-10-16T02:37:23Z</updated>
+    <summary>Configure subscription updates, credits, payment recovery, and access controls to reduce fraud and nonpayment risk.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/js/react_stripe_js/elements/other/card_number_element?__=&amp;__readwiseLocation=&amp;__s=1ngpkifa1w8cdaucpyke</id>
     <title>CardNumberElement</title>
