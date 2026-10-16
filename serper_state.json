@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 7484,
+  "credits_used": 7531,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T08:51:26Z",
+  "last_run": "2026-10-16T09:47:17Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 152
+  "runs": 153
  },
  "feeds": {
   "adp-help": {},
@@ -3313,6 +3313,15 @@
     "summary": "SAP SuccessFactors 2H 2026 brings Autonomous HCM to life with Joule Assistants that automate, redesign, and reinvent work. Find out how.",
     "title": "SAP SuccessFactors 2H 2026 Release"
    },
+   "news.sap.com/africa/2026/10/bloody-agents": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-16T09:47:17Z",
+    "link": "https://news.sap.com/africa/2026/10/bloody-agents/",
+    "page": 1,
+    "summary": "Deploying agents turns out to be the easy part. more than 40% of agentic AI projects will be cancelled before the end of next year.",
+    "title": "Bloody agents"
+   },
    "news.sap.com/africa/2026/10/sap-says-enterprise-context-is-key-to-predictive-ai-operations": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -3564,6 +3573,15 @@
     "page": 1,
     "summary": "Erfahren Sie, wie SAP Unternehmen auf dem Weg zu KI-gesteuerten, autonomen L\u00f6sungen unterst\u00fctzt und beeindruckende Ergebnisse zeigt.",
     "title": "SAP zeigt Erfolgsgeschichten autonomer Unternehmen"
+   },
+   "news.sap.com/germany/2026/10/schatten-ki-krankenhaus": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-16T09:47:17Z",
+    "link": "https://news.sap.com/germany/2026/10/schatten-ki-krankenhaus/",
+    "page": 1,
+    "summary": "KI im Gesundheitswesen kann Entscheidungsunterst\u00fctzung f\u00fcr Fachpersonal bieten. Erfahren Sie mehr \u00fcber die Wichtigkeit kuratierter Daten.",
+    "title": "Schatten-KI im Krankenhaus: Warum die Antwort nicht das ..."
    },
    "news.sap.com/germany/2026/10/unternehmen-zu-autonomous-hcm": {
     "baseline": false,
