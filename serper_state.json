@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 7816,
+  "credits_used": 7863,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T15:45:47Z",
+  "last_run": "2026-10-16T16:47:03Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 159
+  "runs": 160
  },
  "feeds": {
   "adp-help": {},
@@ -2157,6 +2157,24 @@
     "date_hint": "2 days ago",
     "first_seen": "2026-10-15T08:14:16Z",
     "link": "https://blog.cscglobal.com/how-to-change-your-registered-agent-with-confidence/",
+    "page": 1,
+    "summary": "Changing your registered agent involves selecting a new provider, confirming that the new agent will accept the appointment, identifying and filing the ...",
+    "title": "How to Change Your Registered Agent with Confidence | CSC"
+   },
+   "google.com/goto?url=CAESVgHrOzAVCuCs_5n7DU-X5JCBW6NIwwqfbUQy2xGtjHE2OyMZoReHGXdeyhfJW2lnT3Q8ZDFBu2eSrMj3bNLI2k_SiivVFByDvxwufXtXe1NGSagmdBR7&gsessionid=XqFhbDTuV2erOTn2s6SpX35Mr_lFy_v5SNQYUFa_zxxaOurNyfgI5A": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-16T16:47:03Z",
+    "link": "https://www.google.com/goto?url=CAESVgHrOzAVCuCs_5n7DU-X5JCBW6NIwwqfbUQy2xGtjHE2OyMZoReHGXdeyhfJW2lnT3Q8ZDFBu2eSrMj3bNLI2k_SiivVFByDvxwufXtXe1NGSagmdBR7&gsessionid=XqFhbDTuV2erOTn2s6SpX35Mr_lFy_v5SNQYUFa_zxxaOurNyfgI5A",
+    "page": 1,
+    "summary": "We are the leading provider of business administration and compliance solutions. Stay up to date by subscribing to our blog.",
+    "title": "CSC Blog | CSC"
+   },
+   "google.com/goto?url=CAESigEB6zswFVReX_WbsvV6QTuifAEGXEzZSW5-0faUJYa3f2_HgBtp_sFdCCnaO1b0iBsoXWZBm1F8C3LcbPRwai0vs1pDUW2eZuq3-aF1YD6mf_dIgLzxdlXaRuPQywBUy8BGRyw_PbY4hsTVf47LnBAFgcBDUCogNLDesfMewZWv0J1LTZnZN6cdMJ4&gsessionid=XqFhbDTuV2erOTn2s6SpX35Mr_lFy_v5SNQYUFa_zxxaOurNyfgI5A": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-16T16:47:03Z",
+    "link": "https://www.google.com/goto?url=CAESigEB6zswFVReX_WbsvV6QTuifAEGXEzZSW5-0faUJYa3f2_HgBtp_sFdCCnaO1b0iBsoXWZBm1F8C3LcbPRwai0vs1pDUW2eZuq3-aF1YD6mf_dIgLzxdlXaRuPQywBUy8BGRyw_PbY4hsTVf47LnBAFgcBDUCogNLDesfMewZWv0J1LTZnZN6cdMJ4&gsessionid=XqFhbDTuV2erOTn2s6SpX35Mr_lFy_v5SNQYUFa_zxxaOurNyfgI5A",
     "page": 1,
     "summary": "Changing your registered agent involves selecting a new provider, confirming that the new agent will accept the appointment, identifying and filing the ...",
     "title": "How to Change Your Registered Agent with Confidence | CSC"
@@ -5074,6 +5092,15 @@
     "page": 2,
     "summary": "Overview. Use Manager PIN approval to add an extra layer of control for sensitive actions on the SpotOn Express Point of Sale (POS).",
     "title": "Employee POS Permissions | Dashboard | SpotOn Express"
+   },
+   "help.spoton.com/space/SK/4183130205": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-16T16:47:03Z",
+    "link": "https://help.spoton.com/space/SK/4183130205",
+    "page": 1,
+    "summary": "How to Change Your Fiscal Start Time \u00b7 In the Fiscal tab: Choose the start day of the week (e.g., Tuesday). Set the start time (e.g., 8:00 AM) \u00b7 Click Save.",
+    "title": "Customizing Fiscal Hours | SpotOn Express"
    },
    "help.spoton.com/space/SK/4233822221": {
     "baseline": false,
