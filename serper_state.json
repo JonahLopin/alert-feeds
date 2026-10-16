@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 7674,
+  "credits_used": 7722,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T12:42:13Z",
+  "last_run": "2026-10-16T13:47:05Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 156
+  "runs": 157
  },
  "feeds": {
   "adp-help": {},
@@ -2344,6 +2344,96 @@
   },
   "igen-blog": {},
   "intuit-quickbooks-help": {
+   "google.com/goto?url=CAES0gEB6zswFWjgGrmNygBONFFnvS5-4DGbfvyqexDUAM_fgovnlOxLsqggXO-1BUWnt2Io5eLbdfIcXKwQbDl2lzLWzNQbb4bNKk84Tm7ia11dDQeTm_fAMVg2nPRyWLxcEbxnwxBAwlFg_uw3jBBXZRkX_FthnRBi5T_p4AeEa7Lbc3U_sLwkyxmeVt39Z2hChxmd-NeTnmWQ65M1tO-RoL2MigMymshzGIgEfTNMSLzddDGSJNgtjWMFu2hEDKXVnMTw8zLWdinUnOzkUYDg_NqfecQ&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-16T13:47:05Z",
+    "link": "https://www.google.com/goto?url=CAES0gEB6zswFWjgGrmNygBONFFnvS5-4DGbfvyqexDUAM_fgovnlOxLsqggXO-1BUWnt2Io5eLbdfIcXKwQbDl2lzLWzNQbb4bNKk84Tm7ia11dDQeTm_fAMVg2nPRyWLxcEbxnwxBAwlFg_uw3jBBXZRkX_FthnRBi5T_p4AeEa7Lbc3U_sLwkyxmeVt39Z2hChxmd-NeTnmWQ65M1tO-RoL2MigMymshzGIgEfTNMSLzddDGSJNgtjWMFu2hEDKXVnMTw8zLWdinUnOzkUYDg_NqfecQ&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA",
+    "page": 1,
+    "summary": "Learn how to manage clients from the new client list in Intuit Accountant Suite. Get a fast, responsive view with useful sorting and filtering, ...",
+    "title": "Manage your clients with the new client list - QuickBooks - Intuit"
+   },
+   "google.com/goto?url=CAES1wEB6zswFREgrZEw4nqrWRFQqNetKNihdr6wM58G5Zr2NPCb1FGJ70xo8l9_6Lyt_WAmZDsFzfg3nJ3YFpZkYw-Ei8HLnmLiQeOplbPtctCupU1amop2TlBzpty6hJuD0esERYiVIoQne5G9P1uPxMTURLXj983pBssHHw3KeYw08OrqheRpb9iO5xZ9GcuWQ9cqOpLxROZFThfv-Zu79u8tAlNkwCrC8C7HnsI4SMHtNEY4fvJUyKWUOjVQY8IdfY362h1uYpJTpNa9AvXYj4In0Hicc8nwRQ&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-16T13:47:05Z",
+    "link": "https://www.google.com/goto?url=CAES1wEB6zswFREgrZEw4nqrWRFQqNetKNihdr6wM58G5Zr2NPCb1FGJ70xo8l9_6Lyt_WAmZDsFzfg3nJ3YFpZkYw-Ei8HLnmLiQeOplbPtctCupU1amop2TlBzpty6hJuD0esERYiVIoQne5G9P1uPxMTURLXj983pBssHHw3KeYw08OrqheRpb9iO5xZ9GcuWQ9cqOpLxROZFThfv-Zu79u8tAlNkwCrC8C7HnsI4SMHtNEY4fvJUyKWUOjVQY8IdfY362h1uYpJTpNa9AvXYj4In0Hicc8nwRQ&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA",
+    "page": 1,
+    "summary": "The ProAdvisor Academy lets you advance your expertise and manage your professional achievements from your Intuit Accountant Suite firm.",
+    "title": "ProAdvisor Academy and certification courses - QuickBooks"
+   },
+   "google.com/goto?url=CAESwQEB6zswFSDqARjo_8eskbdfLKODJpB3Adv612C2OiniIJMF3yTa4Qp7VmPmYHeQV6ayZA3UpAO9aEWPKYwd2KnWGikdBi8ZL17OZUBCkt6G86pfc5Kx8-aglsFTedQArWtkWtgRbiM_w25qnNw1JKUasbozcQtoz1zcWFrOj8jbFGzz6Do4pfNYORKmsD7lx_ETbM3m208wPslFHuwL2-6OOYC8MfDu3n_IuBDFk6ZteY9_H622JL-g2uXC5H_zkZRa&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-16T13:47:05Z",
+    "link": "https://www.google.com/goto?url=CAESwQEB6zswFSDqARjo_8eskbdfLKODJpB3Adv612C2OiniIJMF3yTa4Qp7VmPmYHeQV6ayZA3UpAO9aEWPKYwd2KnWGikdBi8ZL17OZUBCkt6G86pfc5Kx8-aglsFTedQArWtkWtgRbiM_w25qnNw1JKUasbozcQtoz1zcWFrOj8jbFGzz6Do4pfNYORKmsD7lx_ETbM3m208wPslFHuwL2-6OOYC8MfDu3n_IuBDFk6ZteY9_H622JL-g2uXC5H_zkZRa&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA",
+    "page": 1,
+    "summary": "Learn how to review and post transactions that QuickBooks Online marks as Ready to post, and how to set your Ready to post criteria through your Transaction ...",
+    "title": "Use Ready to post in QuickBooks Online - Intuit"
+   },
+   "google.com/goto?url=CAESwwEB6zswFaTK8shauOIQrhvkiSos0QlHAzgRnzQ5T9HBSd8tKGVjwWHM-4wNoAmrfg4T6wMsjz3Im5gmF5Amu7BPwC0giPrfwwHATE0nnc_IkV3AuKuSJBysdaTvAnMHIwriSIXDEr3KPejQeYLJLSX3QDTZl4KUxnkk_R23LUJqUg_Oy5tlYaYSlj1pSrKqZ2z4ugHpXXXL2hQ8zDX3lu7ashyZuT1kgNIQD-NcomeJhY7R41UOUvv6aRLxa9naaSHEhms&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-16T13:47:05Z",
+    "link": "https://www.google.com/goto?url=CAESwwEB6zswFaTK8shauOIQrhvkiSos0QlHAzgRnzQ5T9HBSd8tKGVjwWHM-4wNoAmrfg4T6wMsjz3Im5gmF5Amu7BPwC0giPrfwwHATE0nnc_IkV3AuKuSJBysdaTvAnMHIwriSIXDEr3KPejQeYLJLSX3QDTZl4KUxnkk_R23LUJqUg_Oy5tlYaYSlj1pSrKqZ2z4ugHpXXXL2hQ8zDX3lu7ashyZuT1kgNIQD-NcomeJhY7R41UOUvv6aRLxa9naaSHEhms&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA",
+    "page": 1,
+    "summary": "Automate QuickBooks Online tasks with Custom Automations -- describe what you want in plain English and Intuit Intelligence builds it.",
+    "title": "Automate tasks with Custom Automations - QuickBooks - Intuit"
+   },
+   "google.com/goto?url=CAESxAEB6zswFTmKvxE61ZV_QRgb_I2l8gLW8xUwQ8ed3aVLMu8IF1BwbslKiNBRRREH9RcuBVO_BIc0lmyWv4BpJWRiN5HNN8Y_YOzR1VkGpBr5eCLBfofIKhVsAMIwBsEcyqcwPC6tnjRosJDcRoEdZfIxxmdkPnBiT9ddPBkZVVVYOdd38qmwokjsauSsaVGMHmrJcwh4RSVNfk-QAD54GWKo_GHXlkXxv3Yn1Lgp9cfSdjtcypSNt77HE8bvkfmXqixQKLwY&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-10-16T13:47:05Z",
+    "link": "https://www.google.com/goto?url=CAESxAEB6zswFTmKvxE61ZV_QRgb_I2l8gLW8xUwQ8ed3aVLMu8IF1BwbslKiNBRRREH9RcuBVO_BIc0lmyWv4BpJWRiN5HNN8Y_YOzR1VkGpBr5eCLBfofIKhVsAMIwBsEcyqcwPC6tnjRosJDcRoEdZfIxxmdkPnBiT9ddPBkZVVVYOdd38qmwokjsauSsaVGMHmrJcwh4RSVNfk-QAD54GWKo_GHXlkXxv3Yn1Lgp9cfSdjtcypSNt77HE8bvkfmXqixQKLwY&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA",
+    "page": 1,
+    "summary": "Learn how to consolidate your clients into one Intuit Accountant Suite (IAS) console. When you consolidate consoles, you transfer clients from one or more ...",
+    "title": "Transfer clients in Intuit Accountant Suite (IAS) - QuickBooks"
+   },
+   "google.com/goto?url=CAESxAEB6zswFV6ztEtpv9NpKLEs4zDD2JWJw7ksFa0qNFflHz8SK1c-w1iXKUgihCdp47ncF7qdckD9iFBEABrRUQz1CinpJa5T79iS1JNhS8uoAJHBx5h3FbZPwhv2TSVaivB1kB3FRPIpyD4JwDpbZWl3l8srkZ3aP-7Mu4VSvSF6sHKY7JzoW0FYHL5hSmHMpHa2EHB2Jw3dOzuMzVSVmBXqN41EoWpt7tsV9fmZyrtZ1KQ-7COv_sraU7x534iY9KI6nmLm&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-16T13:47:05Z",
+    "link": "https://www.google.com/goto?url=CAESxAEB6zswFV6ztEtpv9NpKLEs4zDD2JWJw7ksFa0qNFflHz8SK1c-w1iXKUgihCdp47ncF7qdckD9iFBEABrRUQz1CinpJa5T79iS1JNhS8uoAJHBx5h3FbZPwhv2TSVaivB1kB3FRPIpyD4JwDpbZWl3l8srkZ3aP-7Mu4VSvSF6sHKY7JzoW0FYHL5hSmHMpHa2EHB2Jw3dOzuMzVSVmBXqN41EoWpt7tsV9fmZyrtZ1KQ-7COv_sraU7x534iY9KI6nmLm&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA",
+    "page": 1,
+    "summary": "Searching how to depreciate an asset? Follow this quick guide in QuickBooks Online \u2014 so everything reconciles cleanly. Clear, step-by-step instructions.",
+    "title": "Set up an asset depreciation account in QuickBooks Online"
+   },
+   "google.com/goto?url=CAESxgEB6zswFUJxjand2bxXk-a5zwKbDYptjc3QC7mmqPoH-gHuQTf9bM0o5yYpzjOo6kEJ8uUduXva_26hy1bqaDd_gRZ8ux5VWICE8OrAdsv7fCjgBIZ1xwdmCC3nfsCie097U39gOXglFy9vB5uyEEcbpvvJ04VPUOCTyoF9i2BtqLtNs2L_PskVlRSRED_ZuXBwmpKSI71xkZR4EDNcFJ0iGS66vtuf0JlR__uu714wQXvjBGrFtULFmDctVXidt-BOe4N5zNE&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-16T13:47:05Z",
+    "link": "https://www.google.com/goto?url=CAESxgEB6zswFUJxjand2bxXk-a5zwKbDYptjc3QC7mmqPoH-gHuQTf9bM0o5yYpzjOo6kEJ8uUduXva_26hy1bqaDd_gRZ8ux5VWICE8OrAdsv7fCjgBIZ1xwdmCC3nfsCie097U39gOXglFy9vB5uyEEcbpvvJ04VPUOCTyoF9i2BtqLtNs2L_PskVlRSRED_ZuXBwmpKSI71xkZR4EDNcFJ0iGS66vtuf0JlR__uu714wQXvjBGrFtULFmDctVXidt-BOe4N5zNE&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA",
+    "page": 1,
+    "summary": "Whether you're a new or experienced QuickBooks user, your bank transactions page has features designed to help you efficiently manage your bank and credit ...",
+    "title": "Learn about updates to the new AI-powered banking page"
+   },
+   "google.com/goto?url=CAESzAEB6zswFXH8vZ7oSh9Tf9D2ZX4P9NShkN7ZsDmdXJxHzKp6HpXQwANFeFFpj9kPMADnZQByJYj7sq8U8VHG_KYMAE6n7COeJsvtC0XJLJwhz2LoXRsiKyaPvhENUuKbWt0J0CwS9R931VNLoNMJMWnT4Ld3bMzFH_jYY73JbISqMd25iqvuXIudiDEJr4CRLX76siUY-XBjY6W5pGl0Ws33VjSx5I7uyuDckypfCFWnOgGBT2itqsQ_AImEGgoJ0zQa3DWA3_GQbmBUHN8&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-16T13:47:05Z",
+    "link": "https://www.google.com/goto?url=CAESzAEB6zswFXH8vZ7oSh9Tf9D2ZX4P9NShkN7ZsDmdXJxHzKp6HpXQwANFeFFpj9kPMADnZQByJYj7sq8U8VHG_KYMAE6n7COeJsvtC0XJLJwhz2LoXRsiKyaPvhENUuKbWt0J0CwS9R931VNLoNMJMWnT4Ld3bMzFH_jYY73JbISqMd25iqvuXIudiDEJr4CRLX76siUY-XBjY6W5pGl0Ws33VjSx5I7uyuDckypfCFWnOgGBT2itqsQ_AImEGgoJ0zQa3DWA3_GQbmBUHN8&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA",
+    "page": 1,
+    "summary": "Learn how to assign ProAdvisor Academy courses to your team members, track their certifications, and manage learning deadlines directly within Intuit ...",
+    "title": "Manage ProAdvisor training for your team in Intuit Accountant ..."
+   },
+   "google.com/goto?url=CAESzQEB6zswFcDIFno9bsXIR1ph-2QbYDa8jgCsvpj3hn_7eO2uHR1rH90rsJYpS4luNx_3YrXN529kLFbciBDaYWEkJ91xRm6f9z3irUlltJufG-0wTmvUfPd1LKUnHNMjBxUOtiMb6pRX5ZCmrUjjzQOJaBw2tMKbIU6u6oKJC78KkHCtSX0m6ldWQkKCLM5Gkz7KyhPDnZkSZanawbax4LoLnlS_R4cOvnO_Yma8wM5D-yBRhGQyO37Ayt8SWcqMTDP2cGSQ7x89lv_LDy4O&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-16T13:47:05Z",
+    "link": "https://www.google.com/goto?url=CAESzQEB6zswFcDIFno9bsXIR1ph-2QbYDa8jgCsvpj3hn_7eO2uHR1rH90rsJYpS4luNx_3YrXN529kLFbciBDaYWEkJ91xRm6f9z3irUlltJufG-0wTmvUfPd1LKUnHNMjBxUOtiMb6pRX5ZCmrUjjzQOJaBw2tMKbIU6u6oKJC78KkHCtSX0m6ldWQkKCLM5Gkz7KyhPDnZkSZanawbax4LoLnlS_R4cOvnO_Yma8wM5D-yBRhGQyO37Ayt8SWcqMTDP2cGSQ7x89lv_LDy4O&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA",
+    "page": 1,
+    "summary": "Build a KPI Scorecard in QuickBooks Online to track 100+ business metrics, compare periods, and drill into the numbers behind them.",
+    "title": "Track your business performance with KPI Scorecard"
+   },
+   "google.com/goto?url=CAESzgEB6zswFe-RIQ9u_6HHCGd-bncKyoLG_OVITApDA_jyY9y8BRmqgbEYXJVc2d4Gzs1J_HuarKXj6XQpSoD_jgJS_N-G94Tkgxz0R9nDyWbHnzDtRR3FuX73Xch6fK1D7C7zYg2gWOJ98IdMoc8oCHci-FgPyuvFORtsuB2Tv6Dy4qEF4b_THK1WWKgJ6DRs1maEOkSbDCvyv5b7cuHv_jcfAsk6aYal9gi519s6PBewh78R_EgiwlAsiYtfcjzjjALjz-26wmIYJoVN5DOTKA&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-16T13:47:05Z",
+    "link": "https://www.google.com/goto?url=CAESzgEB6zswFe-RIQ9u_6HHCGd-bncKyoLG_OVITApDA_jyY9y8BRmqgbEYXJVc2d4Gzs1J_HuarKXj6XQpSoD_jgJS_N-G94Tkgxz0R9nDyWbHnzDtRR3FuX73Xch6fK1D7C7zYg2gWOJ98IdMoc8oCHci-FgPyuvFORtsuB2Tv6Dy4qEF4b_THK1WWKgJ6DRs1maEOkSbDCvyv5b7cuHv_jcfAsk6aYal9gi519s6PBewh78R_EgiwlAsiYtfcjzjjALjz-26wmIYJoVN5DOTKA&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA",
+    "page": 1,
+    "summary": "How to create a management report made easy in QuickBooks Online \u2014 so your books stay accurate. Easier than you'd expect.",
+    "title": "Create, view, or edit a Management report in QuickBooks ..."
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/access-permissions/add-manage-custom-roles-quickbooks-online-advanced/L8Ugph7xl_US_en_US": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -5383,6 +5473,15 @@
     "link": "https://tax.thomsonreuters.com/blog/tax-provision-how-to-calculate-it/",
     "summary": "A tax provision is the estimated income tax a company expects to pay for the current year. Your provision combines current income tax expense and deferred ...",
     "title": "What is a provision for income tax and how do you ..."
+   },
+   "tax.thomsonreuters.com/blog/what-does-audit-workflow-transformation-actually-take": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-16T13:47:05Z",
+    "link": "https://tax.thomsonreuters.com/blog/what-does-audit-workflow-transformation-actually-take/",
+    "page": 1,
+    "summary": "Successful audit transformation starts with trust, governance, and repeatable processes,",
+    "title": "What does audit workflow transformation actually take?"
    },
    "tax.thomsonreuters.com/blog/why-cheap-ai-for-tax-work-costs-more-than-you-think": {
     "baseline": true,
