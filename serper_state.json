@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 7049,
+  "credits_used": 7096,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-15T23:08:00Z",
+  "last_run": "2026-10-16T00:24:50Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 143
+  "runs": 144
  },
  "feeds": {
   "adp-help": {},
@@ -259,6 +259,15 @@
     "page": 2,
     "summary": "The US Court of Appeals for the Eleventh District vacated a lower court's judgment in a lawsuit brought by Bear Warriors United Inc. against the Florida ...",
     "title": "Appeals Court Vacates Manatee Harm Decision After Rule ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/apple-tries-to-fend-off-california-trade-secrets-suit-on-appeal": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-16T00:24:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/apple-tries-to-fend-off-california-trade-secrets-suit-on-appeal",
+    "page": 3,
+    "summary": "Apple Inc. urged a California appeals panel to uphold its summary judgment win Thursday in a case brought by an environmental consulting company claiming ...",
+    "title": "Apple Tries to Fend off California Trade Secrets Suit on ..."
    },
    "news.bloomberglaw.com/business-and-practice/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia": {
     "baseline": false,
@@ -429,6 +438,15 @@
     "page": 4,
     "summary": "China National Offshore Oil Corp. has purchased multiple liquefied natural gas cargoes for delivery in October and the first half of November, according to ...",
     "title": "China Buys Spot LNG Shipments to Refill Storage Ahead ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/china-is-too-defensive-over-the-yuan-daniel-moss": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-16T00:24:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/china-is-too-defensive-over-the-yuan-daniel-moss",
+    "page": 2,
+    "summary": "China's currency is having a good year, and Beijing wants everyone to know it.",
+    "title": "China Is Too Defensive Over the Yuan: Daniel Moss"
    },
    "news.bloomberglaw.com/business-and-practice/clinic-violated-labor-law-during-union-election-nlrb-judge-says": {
     "baseline": false,
@@ -1547,6 +1565,15 @@
     "page": 3,
     "summary": "The offering from the unit, Ripple Prime, comes with more than 100 reference markets spanning stocks, various indexes, ETFs , commodities and more, and comes as ...",
     "title": "Ripple Opens $9 Billion Perps Boom to Wall Street Clients (1)"
+   },
+   "news.bloomberglaw.com/business-and-practice/robert-half-subsidiary-accused-of-laying-off-pregnant-workers": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-16T00:24:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/robert-half-subsidiary-accused-of-laying-off-pregnant-workers",
+    "page": 2,
+    "summary": "Protiviti Inc., a subsidiary of global consulting firm Robert Half Inc., unlawfully targeted pregnant workers in company layoffs, a new federal lawsuit ...",
+    "title": "Robert Half Subsidiary Accused of Laying Off Pregnant ..."
    },
    "news.bloomberglaw.com/business-and-practice/scotus-passes-on-ruby-tuesday-benefits-suit-following-advice": {
     "baseline": false,
@@ -4308,6 +4335,24 @@
     "page": 1,
     "summary": "Kentucky imposes a 6% statewide sales and use tax. Cities and counties do not add a general local sales tax, which makes the rate structure simpler than in many ...",
     "title": "Kentucky Sales Tax Guide | Sovos"
+   },
+   "sovos.com/blog/sut/rhode-island-sales-tax": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-16T00:24:50Z",
+    "link": "https://sovos.com/blog/sut/rhode-island-sales-tax/",
+    "page": 1,
+    "summary": "Rhode Island imposes a 7% state sales tax on taxable retail sales and a complementary 7% use tax on taxable property used or consumed in the state. Rhode Island ...",
+    "title": "Rhode Island Sales Tax Guide - Sovos"
+   },
+   "sovos.com/blog/sut/south-carolina-sales-tax-guide": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-16T00:24:50Z",
+    "link": "https://sovos.com/blog/sut/south-carolina-sales-tax-guide/",
+    "page": 1,
+    "summary": "South Carolina sales tax rates, nexus thresholds, taxable sales, exemptions, filing requirements, and retail license registration.",
+    "title": "South Carolina Sales Tax Guide - Sovos"
    }
   },
   "sovos-help": {
@@ -5219,6 +5264,15 @@
     "page": 2,
     "summary": "Centralizing performance management for departmental and prototype development costs, with a next-generation platform designed for future expansion.",
     "title": "Wolters Kluwer and Dentsu Soken Deliver CCH Tagetik for ..."
+   },
+   "wolterskluwer.com/en/news/pr-artience-transforms-cpm-with-cch-tagetik": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-16T00:24:50Z",
+    "link": "https://www.wolterskluwer.com/en/news/pr-artience-transforms-cpm-with-cch-tagetik",
+    "page": 1,
+    "summary": "artience reduced its aggregation and reporting workload from three days to one day and enabled monthly ROIC visualization by business.",
+    "title": "artience transforms corporate performance management ..."
    },
    "wolterskluwer.com/en/news/radiofrequency-heating-plus-electromagnetic-stimulation-reduces-belly-fat-and-increases-muscle": {
     "baseline": true,
