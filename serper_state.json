@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 7578,
+  "credits_used": 7626,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T10:46:23Z",
+  "last_run": "2026-10-16T11:45:46Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 154
+  "runs": 155
  },
  "feeds": {
   "adp-help": {},
@@ -196,6 +196,15 @@
     "page": 4,
     "summary": "Crypto hardware maker Ledger SAS is reviewing its policies and processes for how its devices are sold to consumers, after spyware implanted in some wallets ...",
     "title": "A $90 Million Spyware Hack Sparks Review of Crypto ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/a-blockbuster-era-law-wont-save-your-privacy-stephen-l-carter": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-16T11:45:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/a-blockbuster-era-law-wont-save-your-privacy-stephen-l-carter",
+    "page": 3,
+    "summary": "Paramount Global, Inc., a dispute over a 1988 statute that purports to regulate what information about its customers a \u201cvideo tape service provider\u201d might share ...",
+    "title": "A Blockbuster-Era Law Won't Save Your Privacy: Stephen ..."
    },
    "news.bloomberglaw.com/business-and-practice/aerospace-firm-hits-back-at-insurers-over-california-tank-scare": {
     "baseline": false,
@@ -277,6 +286,15 @@
     "page": 3,
     "summary": "Apple Inc. urged a California appeals panel to uphold its summary judgment win Thursday in a case brought by an environmental consulting company claiming ...",
     "title": "Apple Tries to Fend off California Trade Secrets Suit on ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/arks-wood-says-coreweave-will-overcome-debt-fears-on-ai-demand": {
+    "baseline": false,
+    "date_hint": "57 minutes ago",
+    "first_seen": "2026-10-16T11:45:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/arks-wood-says-coreweave-will-overcome-debt-fears-on-ai-demand",
+    "page": 3,
+    "summary": "Concerns over CoreWeave Inc. 's high borrowing costs are common for young companies raising money when interest rates are elevated, but investing in the AI ...",
+    "title": "ARK's Wood Says CoreWeave Will Overcome Debt Fears ..."
    },
    "news.bloomberglaw.com/business-and-practice/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia": {
     "baseline": false,
@@ -1951,6 +1969,15 @@
     "summary": "Bessent's \u201cTreasury twist\u201d came in response to surging US yields, a sore spot for a Trump administration that had promised to deliver lower borrowing costs \u2014 ...",
     "title": "Wall Street on Alert for Bessent to Act on Bond Yields Again"
    },
+   "news.bloomberglaw.com/business-and-practice/warsh-boosts-market-expectations-of-fed-rate-hold-in-october-2": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-16T11:45:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/warsh-boosts-market-expectations-of-fed-rate-hold-in-october-2",
+    "page": 3,
+    "summary": "Federal Reserve Chairman Kevin Warsh did nothing to dispel market expectations that the US central bank will hold interest rates steady when it meets at the ...",
+    "title": "Warsh Boosts Market Expectations of Fed Rate Hold in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/waters-long-tenure-at-financial-services-challenged-by-casten": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -3286,6 +3313,15 @@
     "summary": "AI connects information, insights, and execution, while people remain in control of the decisions that matter most.",
     "title": "The Next Chapter in Spend Management: AI Innovations ..."
    },
+   "news.sap.com/2026/10/next-leap-public-services-behind-the-scenes-spublic-berlin": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-16T11:45:46Z",
+    "link": "https://news.sap.com/2026/10/next-leap-public-services-behind-the-scenes-spublic-berlin/",
+    "page": 1,
+    "summary": "S.Public, the new SAP Experience Center location for the public sector, brings these capabilities to life. It officially opened in Berlin on October 12, 2026.",
+    "title": "The Next Leap in Public Services Starts Behind the Scenes"
+   },
    "news.sap.com/2026/10/sap-advances-finance-operations-embedded-payments-new-consolidation-capabilities-expanded-ai": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -4572,6 +4608,15 @@
     "summary": "Reset password \u00b7 Go to Sovos Home. \u00b7 On the login screen, click Forgot password. \u00b7 Enter your email address, then click Continue. \u00b7 Check your email for a message ...",
     "title": "Manage your password - Sovos Docs"
    },
+   "docs.sovos.com/en/filing/sales-tax-filing-services/upload-data/troubleshooting": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-16T11:45:46Z",
+    "link": "https://docs.sovos.com/en/filing/sales-tax-filing-services/upload-data/troubleshooting",
+    "page": 1,
+    "summary": "Find solutions to errors you might encounter when uploading data in Batch Determination. File upload errors. Unable to upload file.",
+    "title": "Troubleshooting | Product Documentation Documentation"
+   },
    "docs.sovos.com/en/filing/sales-tax-filing/support/create-a-support-case": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -5405,6 +5450,15 @@
     "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting; ...",
     "title": "Wolters Kluwer completes acquisition of Registered Agent ..."
    },
+   "google.com/goto?url=CAESpwEB6zswFV7eKXWs7aOoR6tHFNAoCBaJXs5I_ZDOcCc-s8B7uuDrDht1dBnO7m2MBTv1zbDfV99X4b5ePsk4Q3YcAZU5tG2ydbdYOrBC4e5TY7X9RHnP5DGWbwlXyzpltQ8Lg4bnkjjVg6OSvKNWMQ3t2h9_zsoI1O0THJ1iH6t0wDBfp_jyKFkt_heQwPCwpJnvraP8PHvoGVWsYpj6e8iOXN04HRGt_w&gsessionid=KRJ4AXUbhyTNRdwqL5rOA6qA070Y9urfi5cVrQH-7Of8K-nZCQ7Oqg": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-16T11:45:46Z",
+    "link": "https://www.google.com/goto?url=CAESpwEB6zswFV7eKXWs7aOoR6tHFNAoCBaJXs5I_ZDOcCc-s8B7uuDrDht1dBnO7m2MBTv1zbDfV99X4b5ePsk4Q3YcAZU5tG2ydbdYOrBC4e5TY7X9RHnP5DGWbwlXyzpltQ8Lg4bnkjjVg6OSvKNWMQ3t2h9_zsoI1O0THJ1iH6t0wDBfp_jyKFkt_heQwPCwpJnvraP8PHvoGVWsYpj6e8iOXN04HRGt_w&gsessionid=KRJ4AXUbhyTNRdwqL5rOA6qA070Y9urfi5cVrQH-7Of8K-nZCQ7Oqg",
+    "page": 2,
+    "summary": "This year's event will focus on how internal audit teams can become more nimble and agile in response to a rapidly changing audit environment, and how better ...",
+    "title": "Wolters Kluwer TeamMate Live User Conference Exploring ..."
+   },
    "google.com/goto?url=CAESpwEB6zswFcbjskKVlwjkyiHrpV-SvlM_UrfidvIwUyTgrkmmkZ5YWgVgBpOvgWihVuMercXhppgQ5lo4affGy19RA_0wAlBCN-J0EUtmaGtBw6khrYGDDUVCSIMtMOsB3yzEzKbK8UfYPizNmGiOzgjQ1pOJrpTRrQRR_iz8tSexq3eQxZ9qO3hG8WGqjr3UVMJfCBW-9Zvbw0_qNvqEhWeei5epnR_xyA&gsessionid=PgxZtHhQ1xgYHmmYuHQ2wMJG32jS4JIhyX0LdM7kM4kDgYbu_wX1eQ": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -5432,6 +5486,15 @@
     "summary": "Wolters Kluwer launches new TeamMate+ capabilities to enhance internal audit efficiency and data quality.",
     "title": "New TeamMate+ capabilities enhancing internal audit ..."
    },
+   "google.com/goto?url=CAEStAEB6zswFUUeqLYEaFk6CYFUtA1lMGyilIxNztCLftLi8llfRDErwAUVyNyweCu3W7SUd5THfVt-_fCD0TbQVrcEeCv7FtualeDIwYZC522RgGDlgu74mqs87qp5WdyaqCZ6bW4_s_c4EdnvzxztkYsFh-FDYSK4I3TbCGvMpQkw9YfCv26zZX2KlSbCnpX9Wx0omUQLeE8qm9HMm_czv6KRv9LHUScTJpxrV3_vOeFscUpjKLs&gsessionid=KRJ4AXUbhyTNRdwqL5rOA6qA070Y9urfi5cVrQH-7Of8K-nZCQ7Oqg": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-16T11:45:46Z",
+    "link": "https://www.google.com/goto?url=CAEStAEB6zswFUUeqLYEaFk6CYFUtA1lMGyilIxNztCLftLi8llfRDErwAUVyNyweCu3W7SUd5THfVt-_fCD0TbQVrcEeCv7FtualeDIwYZC522RgGDlgu74mqs87qp5WdyaqCZ6bW4_s_c4EdnvzxztkYsFh-FDYSK4I3TbCGvMpQkw9YfCv26zZX2KlSbCnpX9Wx0omUQLeE8qm9HMm_czv6KRv9LHUScTJpxrV3_vOeFscUpjKLs&gsessionid=KRJ4AXUbhyTNRdwqL5rOA6qA070Y9urfi5cVrQH-7Of8K-nZCQ7Oqg",
+    "page": 2,
+    "summary": "Wolters Kluwer launches new TeamMate+ capabilities to enhance internal audit efficiency and data quality.",
+    "title": "New TeamMate+ capabilities enhancing internal audit ..."
+   },
    "google.com/goto?url=CAEStAEB6zswFVHtNsQHTnhV06IUZ3lAF8xwJwuivo9FaEwcHGhjiAOeKP0X7TXoBTUdxEZ4cp3D4wl0kJobJyBDMaFu9M6GzfzCyuYuizT4ADVhWx0SI3tsV9libKoJ_wCN9MMo6Be-zWnPr7okEIm1uCaZY33Xp9bTBjaPULlTj7DdLHjwUUPmiA59mMfF1NYcc8SQhTQDKuGWj9CCFq0zhPG7OBhwj7mRLASD_cTmPrfWKSggMdY&gsessionid=PgxZtHhQ1xgYHmmYuHQ2wMJG32jS4JIhyX0LdM7kM4kDgYbu_wX1eQ": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -5449,6 +5512,15 @@
     "page": 2,
     "summary": "Digital maturity is closely linked to AI readiness. Organizations reporting higher levels of AI readiness are more likely to have digitalized key EHS processes, ...",
     "title": "AI adoption is becoming mainstream in EHS, but process ..."
+   },
+   "google.com/goto?url=CAESwgEB6zswFW1KUmitGZCa1AMkWnRUapfD2Pzbfo2kJA_Sgud-EXz8O352_ha1FUMRYwwPwJ6mtK_rVnCoirxWgBo_tyrJhtmFX7z555GkpRdcocIgAS7jG99RodRZAfcZV5W3NPCLQ44wuaidXvaX9Lrqf6-uUZ2RpEKZGNSsmBFWaTUv6EWlQRLvPTw7qYdfXaGknbAeAoSQCjGYm8xHiE7u1ezwGBzkak3x-4PZ4mrVY79QKPGB9FDr3JnKABFyML4SAw&gsessionid=KRJ4AXUbhyTNRdwqL5rOA6qA070Y9urfi5cVrQH-7Of8K-nZCQ7Oqg": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-16T11:45:46Z",
+    "link": "https://www.google.com/goto?url=CAESwgEB6zswFW1KUmitGZCa1AMkWnRUapfD2Pzbfo2kJA_Sgud-EXz8O352_ha1FUMRYwwPwJ6mtK_rVnCoirxWgBo_tyrJhtmFX7z555GkpRdcocIgAS7jG99RodRZAfcZV5W3NPCLQ44wuaidXvaX9Lrqf6-uUZ2RpEKZGNSsmBFWaTUv6EWlQRLvPTw7qYdfXaGknbAeAoSQCjGYm8xHiE7u1ezwGBzkak3x-4PZ4mrVY79QKPGB9FDr3JnKABFyML4SAw&gsessionid=KRJ4AXUbhyTNRdwqL5rOA6qA070Y9urfi5cVrQH-7Of8K-nZCQ7Oqg",
+    "page": 2,
+    "summary": "With embedded Expert AI at its core, CCH Tagetik transforms finance data into intelligence, automating processes, improving accuracy, and proactively ...",
+    "title": "Wolters Kluwer named 3x Leader for CCH Tagetik in 2026 ..."
    },
    "google.com/goto?url=CAESwgEB6zswFZhFmd1v5ChFxHIi4hBU7gKyi2hKyAwrzAiVhKwcAUDOwV78o1-azhlEecjLz6w2-1z1WrwM_x-hzhVKGYSgwJBpnc_RudT_XVGVFPagSA_VRqTwlWIePEvYud_89uxdy6O08Jc6xFDtY5O81JmJMAbnE8Fux9I6cgHZG7EZ9XJ_75-g9XxWzTxv_lJ3O9StsK-F4CN6rPtz-NOQjQp1Lh9OcAk4LJARppM7asLUTBHKaxV9NQO318sJ82eOXA&gsessionid=UTmV2FsU8m1zH7qCBy_pfTj_uJaoQTNJMwDwrjA2jgrbQW_JY3N2mQ": {
     "baseline": false,

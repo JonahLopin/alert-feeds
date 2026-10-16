@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-16T05:30:58Z</updated>
+  <updated>2026-10-16T11:45:46Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/filing/sales-tax-filing-services/upload-data/troubleshooting</id>
+    <title>Troubleshooting | Product Documentation Documentation</title>
+    <link href="https://docs.sovos.com/en/filing/sales-tax-filing-services/upload-data/troubleshooting" />
+    <published>2026-10-16T11:45:46Z</published>
+    <updated>2026-10-16T11:45:46Z</updated>
+    <summary>Find solutions to errors you might encounter when uploading data in Batch Determination. File upload errors. Unable to upload file.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/tax-determination/tax-determination/release-notes/create-your-new-sovos-login</id>
     <title>Create your new Sovos login | Product Documentation ...</title>
