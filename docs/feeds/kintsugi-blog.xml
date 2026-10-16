@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:kintsugi-blog</id>
   <title>Kintsugi blog (site:trykintsugi.com/blog/)</title>
-  <updated>2026-10-14T05:46:57Z</updated>
+  <updated>2026-10-16T07:33:46Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/kintsugi-blog.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:17585886310124276811</id>
+    <title>California's New SaaS Use Tax - Kintsugi | AI</title>
+    <link href="https://trykintsugi.com/blog/californias-new-saas-use-tax" />
+    <published>2026-10-16T07:33:46Z</published>
+    <updated>2026-10-16T07:33:46Z</updated>
+    <summary>Under current law, SaaS revenue in California generally isn't subject to sales tax. SB 122 changes that as of January 1, 2027.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:3183328778011070227</id>
     <title>Kintsugi now integrates with Intuit Enterprise Suite: sales tax for every entity</title>
