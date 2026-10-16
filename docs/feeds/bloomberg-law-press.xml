@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-16T20:46:30Z</updated>
+  <updated>2026-10-16T22:10:07Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:16074132511136944972</id>
+    <title>Compass Files Suit Over California Home Listing Service Rules - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/compass-files-suit-over-california-home-listing-service-rules" />
+    <published>2026-10-16T22:10:07Z</published>
+    <updated>2026-10-16T22:10:07Z</updated>
+    <summary>Compass Inc., the top US broker for residential properties, sued California's largest real estate listing service in the latest escalation of a ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8932514521676003753</id>
     <title>Montana Sues General Motors Over Sale of Drivers' Personal Data - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-10-10T12:16:12Z</published>
     <updated>2026-10-10T12:16:12Z</updated>
     <summary>The Trump administration moved to maximize oil and gas drilling over wildlife and environmental protection and historical preservation across 23 ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:16686739497539059341</id>
-    <title>USA Today, News Outlets Join OpenAI Copyright Infringement Fight - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/usa-today-news-outlets-join-openai-copyright-infringement-fight" />
-    <published>2026-10-10T12:16:12Z</published>
-    <updated>2026-10-10T12:16:12Z</updated>
-    <summary>USA Today Co. and a collection of regional and local news outlets owned by the digital publisher again expanded the legal fight against OpenAI ...</summary>
   </entry>
 </feed>

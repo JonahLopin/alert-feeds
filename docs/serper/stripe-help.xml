@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-16T21:08:37Z</updated>
+  <updated>2026-10-16T22:09:06Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/risk?locale=ja-JP</id>
+    <title>リスク | Stripe ドキュメント</title>
+    <link href="https://docs.stripe.com/risk?locale=ja-JP" />
+    <published>2026-10-16T22:09:06Z</published>
+    <updated>2026-10-16T22:09:06Z</updated>
+    <summary>ユーザーの本人確認から、取引やアカウントの不正利用防止、顧客による悪用の阻止まで、顧客ライフサイクルのあらゆる段階で不正利用を阻止し、リスクを管理します。</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/terminal/features/apps-on-devices/changelog</id>
     <title>Apps on Devices API changelog</title>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 8049,
+  "credits_used": 8096,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T21:08:37Z",
+  "last_run": "2026-10-16T22:09:06Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 164
+  "runs": 165
  },
  "feeds": {
   "adp-help": {},
@@ -502,6 +502,15 @@
     "summary": "Ohio's capital city can't enforce some of its gun restrictions while a challenge to them is pending, a state appeals court ruled Friday.",
     "title": "Columbus Gun Control Injunction Upheld By Ohio Appeals ..."
    },
+   "news.bloomberglaw.com/business-and-practice/compass-files-suit-over-california-home-listing-service-rules": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-16T22:09:06Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/compass-files-suit-over-california-home-listing-service-rules",
+    "page": 1,
+    "summary": "Compass alleged the requirement that agents list homes for sale within one business day or face fines violates US antitrust laws.",
+    "title": "Compass Files Suit Over California Home Listing Service ..."
+   },
    "news.bloomberglaw.com/business-and-practice/core-scientific-patent-owner-resolve-cryptography-tech-dispute": {
     "baseline": true,
     "date_hint": "22 hours ago",
@@ -706,6 +715,15 @@
     "page": 1,
     "summary": "DLA Piper is hiring three senior lawyers from Latham & Watkins to join its growing capital solutions business as it continues an aggressive push into the ...",
     "title": "DLA Piper Hires Latham Trio to Expand New Private Credit ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/doj-challenges-legality-of-presidential-records-act-on-appeal-104": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-16T22:09:06Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-challenges-legality-of-presidential-records-act-on-appeal-104",
+    "page": 2,
+    "summary": "A panel of appeals court judges on Friday questioned Trump administration lawyers on what requirements, if any, Congress could impose on the preservation of ...",
+    "title": "DOJ Challenges Legality of Presidential Records Act on ..."
    },
    "news.bloomberglaw.com/business-and-practice/doj-effort-to-save-essayli-from-removal-fails-to-impress-judge": {
     "baseline": false,
@@ -992,6 +1010,15 @@
     "summary": "A federal judge overseeing a proposed class action claiming Google LLC unlawfully eavesdropped on customer support calls for a variety of businesses, ...",
     "title": "Google AI Customer Service Privacy Lawsuit Gets Doubtful ..."
    },
+   "news.bloomberglaw.com/business-and-practice/greenberg-traurig-adds-san-francisco-denver-real-estate-lawyers": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-16T22:09:06Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/greenberg-traurig-adds-san-francisco-denver-real-estate-lawyers",
+    "page": 1,
+    "summary": "based in San Francisco, advises shopping center developers, owner-operators, landlords, and tenants on leasing, development, and operational matters.",
+    "title": "Greenberg Traurig Adds San Francisco, Denver Real ..."
+   },
    "news.bloomberglaw.com/business-and-practice/greenberg-traurig-nabs-sidley-private-funds-lawyer-in-chicago": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1072,6 +1099,15 @@
     "page": 1,
     "summary": "Julie Cress joined Hogan Lovells Cadwalader as a partner in its environment & natural resources practice in San Francisco, the firm announced Wednesday.",
     "title": "Hogan Lovells Hires Baker Botts California Environmental ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/hospital-sisters-health-reaches-deal-in-genetic-privacy-suit": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-16T22:09:06Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/hospital-sisters-health-reaches-deal-in-genetic-privacy-suit",
+    "page": 1,
+    "summary": "Hospital Sisters Health System has reached a settlement of a proposed class action alleging it required job applicants to disclose their family medical ...",
+    "title": "Hospital Sisters Health Reaches Deal in Genetic Privacy Suit"
    },
    "news.bloomberglaw.com/business-and-practice/how-big-techs-ai-race-fueled-a-borrowing-boom-explainer": {
     "baseline": false,
@@ -5544,6 +5580,15 @@
     "link": "https://docs.stripe.com/payments/migrations?locale=ja-JP",
     "summary": "\u30ec\u30ac\u30b7\u30fc\u306e\u5b9f\u88c5\u304b\u3089\u63a8\u5968\u3055\u308c\u308b\u65b0\u3057\u3044\u5b9f\u88c5\u30d1\u30b9\u306b\u79fb\u884c\u3059\u308b\u3053\u3068\u3067\u3001\u30b3\u30f3\u30d0\u30fc\u30b8\u30e7\u30f3\u7387\u3092\u5411\u4e0a\u3055\u305b\u3001\u65b0\u6a5f\u80fd\u3092\u5229\u7528\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u3002",
     "title": "\u30ec\u30ac\u30b7\u30fc\u306e\u5b9f\u88c5\u3092\u79fb\u884c\u3059\u308b | Stripe \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8"
+   },
+   "docs.stripe.com/risk?locale=ja-JP": {
+    "baseline": false,
+    "date_hint": "14 hours ago",
+    "first_seen": "2026-10-16T22:09:06Z",
+    "link": "https://docs.stripe.com/risk?locale=ja-JP",
+    "page": 1,
+    "summary": "\u30e6\u30fc\u30b6\u30fc\u306e\u672c\u4eba\u78ba\u8a8d\u304b\u3089\u3001\u53d6\u5f15\u3084\u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u4e0d\u6b63\u5229\u7528\u9632\u6b62\u3001\u9867\u5ba2\u306b\u3088\u308b\u60aa\u7528\u306e\u963b\u6b62\u307e\u3067\u3001\u9867\u5ba2\u30e9\u30a4\u30d5\u30b5\u30a4\u30af\u30eb\u306e\u3042\u3089\u3086\u308b\u6bb5\u968e\u3067\u4e0d\u6b63\u5229\u7528\u3092\u963b\u6b62\u3057\u3001\u30ea\u30b9\u30af\u3092\u7ba1\u7406\u3057\u307e\u3059\u3002",
+    "title": "\u30ea\u30b9\u30af | Stripe \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8"
    },
    "docs.stripe.com/service-principals": {
     "baseline": false,
