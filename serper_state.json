@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 8096,
+  "credits_used": 8142,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T22:09:06Z",
+  "last_run": "2026-10-16T23:08:38Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 165
+  "runs": 166
  },
  "feeds": {
   "adp-help": {},
@@ -1745,6 +1745,15 @@
     "page": 2,
     "summary": "Pruitt's practice focuses on representing pharmaceutical and medical device companies, as well as other companies in consumer class actions and toxic tort ...",
     "title": "Skadden Brings On Four Mass Tort and Product Liability ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/softbank-is-said-to-weigh-buying-largest-us-security-firm-allied": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-16T23:08:38Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/softbank-is-said-to-weigh-buying-largest-us-security-firm-allied",
+    "page": 2,
+    "summary": "SoftBank Group Corp. is considering an acquisition of Allied Universal , the largest security services company in the US, people familiar with the matter ...",
+    "title": "SoftBank Is Said to Weigh Buying Largest US Security Firm ..."
    },
    "news.bloomberglaw.com/business-and-practice/starbucks-unlawfully-limited-facial-piercings-nlrb-judge-finds": {
     "baseline": true,

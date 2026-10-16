@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-16T22:09:06Z</updated>
+  <updated>2026-10-16T23:08:38Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/softbank-is-said-to-weigh-buying-largest-us-security-firm-allied</id>
+    <title>SoftBank Is Said to Weigh Buying Largest US Security Firm ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/softbank-is-said-to-weigh-buying-largest-us-security-firm-allied" />
+    <published>2026-10-16T23:08:38Z</published>
+    <updated>2026-10-16T23:08:38Z</updated>
+    <summary>SoftBank Group Corp. is considering an acquisition of Allied Universal , the largest security services company in the US, people familiar with the matter ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/hospital-sisters-health-reaches-deal-in-genetic-privacy-suit</id>
     <title>Hospital Sisters Health Reaches Deal in Genetic Privacy Suit</title>
@@ -795,13 +803,5 @@
     <published>2026-10-14T10:10:58Z</published>
     <updated>2026-10-14T10:10:58Z</updated>
     <summary>Louisiana is moving toward statewide property tax valuation guidelines for lifecycles for data center equipment and infrastructure. Photographer: Jason Alden/ ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/imf-world-bank-tout-bangkok-blueprint-against-digital-fraud-1</id>
-    <title>IMF, World Bank Tout Bangkok Blueprint Against Digital ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/imf-world-bank-tout-bangkok-blueprint-against-digital-fraud-1" />
-    <published>2026-10-14T10:10:58Z</published>
-    <updated>2026-10-14T10:10:58Z</updated>
-    <summary>The International Monetary Fund and World Bank unveiled a global roadmap to fight online financial fraud as increasingly sophisticated scams undermine ...</summary>
   </entry>
 </feed>
