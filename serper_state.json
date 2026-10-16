@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 7910,
+  "credits_used": 7957,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T17:44:54Z",
+  "last_run": "2026-10-16T18:49:03Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 161
+  "runs": 162
  },
  "feeds": {
   "adp-help": {},
@@ -1224,6 +1224,15 @@
     "page": 1,
     "summary": "Perfectionism is often quietly recognized as an asset, and even when legal organizations know better, it's often treated as a \u201cwellness issue.",
     "title": "Law Firms Must Quash Perfectionism, Not Treat Its Toxic ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/lawmakers-introduce-bipartisan-bill-to-block-russia-diesel-deal": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-16T18:49:03Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/lawmakers-introduce-bipartisan-bill-to-block-russia-diesel-deal",
+    "page": 1,
+    "summary": "A group of House Democrats and one Republican representative introduce a bill to block President Trump's deal to purchase and import Russian diesel, ...",
+    "title": "Lawmakers Introduce Bipartisan Bill to Block Russia Diesel ..."
    },
    "news.bloomberglaw.com/business-and-practice/lawyer-charged-with-insider-trading-wants-to-subpoena-ex-firms": {
     "baseline": false,
@@ -2369,6 +2378,15 @@
     "page": 1,
     "summary": "From California to Connecticut, DoorDash spotlights some of the country's top-rated local pizzerias, plus the toppings and pizza styles Americans order most.",
     "title": "Battle of the Slices 2026: DoorDash Names Top Local ..."
+   },
+   "about.doordash.com/en-us/news/snap-report-2026": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-16T18:49:03Z",
+    "link": "https://about.doordash.com/en-us/news/snap-report-2026",
+    "page": 1,
+    "summary": "Released as part of Hunger Action Month, new report shows how SNAP/EBT delivery helps families get nutritious food they need.",
+    "title": "New Research Shows For SNAP/EBT Households Delivery ..."
    }
   },
   "edicom-blog": {
@@ -5581,6 +5599,15 @@
     "link": "https://tax.thomsonreuters.com/blog/tax-provision-how-to-calculate-it/",
     "summary": "A tax provision is the estimated income tax a company expects to pay for the current year. Your provision combines current income tax expense and deferred ...",
     "title": "What is a provision for income tax and how do you ..."
+   },
+   "tax.thomsonreuters.com/blog/what-changed-in-the-pcaob-qc-1000-amendments": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-16T18:49:03Z",
+    "link": "https://tax.thomsonreuters.com/blog/what-changed-in-the-pcaob-qc-1000-amendments/",
+    "page": 1,
+    "summary": "Learn what changed in the PCAOB QC 1000 amendments and what audit firms should do now to prepare for the December 15, 2026 effective date.",
+    "title": "What changed in the PCAOB QC 1000 amendments"
    },
    "tax.thomsonreuters.com/blog/what-does-audit-workflow-transformation-actually-take": {
     "baseline": false,

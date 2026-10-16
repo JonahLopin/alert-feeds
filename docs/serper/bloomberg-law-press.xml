@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-16T17:44:54Z</updated>
+  <updated>2026-10-16T18:49:03Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/lawmakers-introduce-bipartisan-bill-to-block-russia-diesel-deal</id>
+    <title>Lawmakers Introduce Bipartisan Bill to Block Russia Diesel ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/lawmakers-introduce-bipartisan-bill-to-block-russia-diesel-deal" />
+    <published>2026-10-16T18:49:03Z</published>
+    <updated>2026-10-16T18:49:03Z</updated>
+    <summary>A group of House Democrats and one Republican representative introduce a bill to block President Trump's deal to purchase and import Russian diesel, ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/ncaa-sues-ohio-governor-over-student-athlete-eligibility-order</id>
     <title>NCAA Sues Ohio Governor Over Student-Athlete Eligibility ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-13T23:42:51Z</published>
     <updated>2026-10-13T23:42:51Z</updated>
     <summary>Bank of America Corp. was fined more than $1.21 billion for money laundering and sanctions violations by US regulators.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/waters-long-tenure-at-financial-services-challenged-by-casten</id>
-    <title>Waters' Long Tenure at Financial Services Challenged by ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/waters-long-tenure-at-financial-services-challenged-by-casten" />
-    <published>2026-10-13T22:44:11Z</published>
-    <updated>2026-10-13T22:44:11Z</updated>
-    <summary>Illinois Rep. Sean Casten told California Rep. Maxine Waters he plans to run for the top job on the influential House Financial Services Committee, ...</summary>
   </entry>
 </feed>
