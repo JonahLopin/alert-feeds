@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-16T13:48:23Z</updated>
+  <updated>2026-10-16T14:48:27Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:18344569730841635119</id>
+    <title>White House's NYC Sanctuary City Suit Tossed by Federal Judge - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/white-houses-nyc-sanctuary-city-suit-tossed-by-federal-judge" />
+    <published>2026-10-16T14:48:27Z</published>
+    <updated>2026-10-16T14:48:27Z</updated>
+    <summary>New York City successfully shut down the Trump administration's lawsuit challenging the city's decades-old policies that limit local law ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:9015061015969506683</id>
     <title>US-China Blame Game Over Global Economy Tilts in Beijing's Favor</title>
@@ -795,13 +803,5 @@
     <published>2026-10-08T15:27:00Z</published>
     <updated>2026-10-08T15:27:00Z</updated>
     <summary>The firing of a New York Jets executive is forcing a New Jersey appeals court to define boundaries for when employment suits relating to sexual ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:18407543671128909924</id>
-    <title>Prudential Japan Executives Take Pay Cuts Over Staff Misconduct - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/prudential-japan-executives-take-pay-cuts-over-staff-misconduct" />
-    <published>2026-10-08T15:27:00Z</published>
-    <updated>2026-10-08T15:27:00Z</updated>
-    <summary>Top executives at Prudential Financial Inc.'s Japan unit will take pay cuts after a panel of outside experts issued a report on widespread ...</summary>
   </entry>
 </feed>

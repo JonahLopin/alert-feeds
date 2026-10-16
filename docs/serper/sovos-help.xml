@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-16T11:45:46Z</updated>
+  <updated>2026-10-16T14:47:26Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/tax-determination/certmanager/release-notes/exemptions-in-tax-determination-are-now-managed-in-certmanager</id>
+    <title>Exemptions in Tax Determination are now managed in ...</title>
+    <link href="https://docs.sovos.com/en/tax-determination/certmanager/release-notes/exemptions-in-tax-determination-are-now-managed-in-certmanager" />
+    <published>2026-10-16T14:47:26Z</published>
+    <updated>2026-10-16T14:47:26Z</updated>
+    <summary>You can manage your exemptions entirely in CertManager. When you save a complete exemption, CertManager sends it to Tax Determination automatically.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/filing/sales-tax-filing-services/upload-data/troubleshooting</id>
     <title>Troubleshooting | Product Documentation Documentation</title>
