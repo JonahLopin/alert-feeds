@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 7339,
+  "credits_used": 7388,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T05:30:58Z",
+  "last_run": "2026-10-16T06:48:03Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 149
+  "runs": 150
  },
  "feeds": {
   "adp-help": {},
@@ -2529,6 +2529,15 @@
     "summary": "If your employees use the company car for personal reasons, it's called Personal Use of a Company Car (PUCC). PUCC is a non cash fringe benefit that counts ...",
     "title": "Set up and record Personal Use of a Company Car (PUCC)"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-nec/create-file-1099s-using-quickbooks-online/L2BapEpb1_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-16T06:48:03Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-nec/create-file-1099s-using-quickbooks-online/L2BapEpb1_US_en_US",
+    "page": 2,
+    "summary": "QuickBooks Online allows you to prepare and e-file 1099-NEC and 1099-MISC forms using the data already in your account. You can file federal and some state ...",
+    "title": "Create and file 1099s with QuickBooks Online - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-nec/modify-chart-accounts-1099-misc-1099-nec-filing/L3ljaesY7_US_en_US": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -3430,6 +3439,15 @@
     "summary": "Pomoc\u00ed cloudov\u00e9ho \u0159e\u0161en\u00ed SAP Digital Manufacturing centralizuje data nap\u0159\u00ed\u010d v\u00fdrobn\u00edmi procesy a p\u0159ech\u00e1z\u00ed na \u0159\u00edzen\u00ed v re\u00e1ln\u00e9m \u010dase.",
     "title": "Pardubick\u00fd Panasonic p\u0159e\u0161el na \u0159\u00edzen\u00ed v\u00fdroby v re\u00e1ln\u00e9m ..."
    },
+   "news.sap.com/cz/2026/10/pardubicky-panasonic-presel-na-rizeni-vyroby-v-realnem-case-zamestnanci-ziskali-detailni-prehled-o-vykonu-linek/_jan8573-edit": {
+    "baseline": false,
+    "date_hint": "15 hours ago",
+    "first_seen": "2026-10-16T06:48:03Z",
+    "link": "https://news.sap.com/cz/2026/10/pardubicky-panasonic-presel-na-rizeni-vyroby-v-realnem-case-zamestnanci-ziskali-detailni-prehled-o-vykonu-linek/_jan8573-edit/",
+    "page": 2,
+    "summary": "Tiskov\u00e9 zpr\u00e1vy a novinky \u00b7 Tiskov\u00e9 materi\u00e1ly. Sezn\u00e1mit se se SAP. Prozkoumejte v\u0161echny oblasti spole\u010dnosti SAP. Vzd\u011bl\u00e1v\u00e1n\u00ed a podpora.",
+    "title": "_JAN8573-Edit - SAP Czech Republic Pro novin\u00e1\u0159e"
+   },
    "news.sap.com/cz/2026/10/pardubicky-panasonic-presel-na-rizeni-vyroby-v-realnem-case-zamestnanci-ziskali-detailni-prehled-o-vykonu-linek?amp=1": {
     "baseline": false,
     "date_hint": "7 hours ago",
@@ -4111,6 +4129,15 @@
     "link": "https://shift4.zendesk.com/hc/en-us/articles/56161609085971",
     "summary": "Description: Learn how to enable the Como integration, manage Como integration settings, and configure loyalty settings on the Workstation and Handheld.",
     "title": "Set Up Como Loyalty in Shift4 Dine"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/56452781788691-Payment-Link-FAQs-for-Shift4-One": {
+    "baseline": false,
+    "date_hint": "13 hours ago",
+    "first_seen": "2026-10-16T06:48:03Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/56452781788691-Payment-Link-FAQs-for-Shift4-One",
+    "page": 1,
+    "summary": "Customers can pay with credit cards, debit cards, digital wallets (including Apple Pay and Google Pay), and supported local payment methods.",
+    "title": "Payment Link FAQs for Shift4 One"
    }
   },
   "shopify-blog": {
@@ -5179,6 +5206,15 @@
     "link": "https://tax.thomsonreuters.com/blog/bis-50-rule-trade-compliance-guide/",
     "summary": "The BIS 50% rule shifts export-control screening from name-based list checks to ownership-based assessments of counterparties.",
     "title": "What is the BIS 50% rule? A trade compliance guide"
+   },
+   "tax.thomsonreuters.com/blog/can-you-trust-it-7-questions-to-ask-any-platform-that-claims-to-handle-your-entire-tax-workflow": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-16T06:48:03Z",
+    "link": "https://tax.thomsonreuters.com/blog/can-you-trust-it-7-questions-to-ask-any-platform-that-claims-to-handle-your-entire-tax-workflow/",
+    "page": 1,
+    "summary": "Before choosing a tax workflow platform, ask these 7 questions about integrations, AI, automation, ROI, client adoption, and busy season performance.",
+    "title": "Can you trust your tax workflow platform? 7 questions to ask."
    },
    "tax.thomsonreuters.com/blog/does-your-tax-software-recognize-new-w-2-box-codes-for-2027": {
     "baseline": true,
