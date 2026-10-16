@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 7626,
+  "credits_used": 7674,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T11:45:46Z",
+  "last_run": "2026-10-16T12:42:13Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 155
+  "runs": 156
  },
  "feeds": {
   "adp-help": {},
@@ -1861,6 +1861,15 @@
     "summary": "Plus500 Ltd. agreed to buy retail trading platform Hedge Capital Markets as it looks to expand into the US.",
     "title": "UK Trading Platform Plus500 Buys Hedge to Help US ..."
    },
+   "news.bloomberglaw.com/business-and-practice/us-china-blame-game-over-global-economy-tilts-in-beijings-favor": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-16T12:42:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-china-blame-game-over-global-economy-tilts-in-beijings-favor",
+    "page": 3,
+    "summary": "At the last major summit, Scott Bessent worked hard to tag China as the cause of dangerous fault lines in the world economy. With the US Treasury chief ...",
+    "title": "US-China Blame Game Over Global Economy Tilts in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/us-consumer-prices-rise-by-most-since-april-in-broad-advance-5": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -1914,6 +1923,15 @@
     "page": 5,
     "summary": "Volkswagen AG has spent decades trying to build a US business that matches its stature as the world's second-largest carmaker. Now the market it repeatedly ...",
     "title": "VW Pivots to Trucks and Rugged SUVs in a Quest for US ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-firms-leverage-what-they-know-with-custom-ai": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-16T12:42:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-firms-leverage-what-they-know-with-custom-ai",
+    "page": 3,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
+    "title": "Wake Up Call: Firms Leverage What They Know With ..."
    },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-foley-hoag-to-defend-gov-moore-in-defamation-case": {
     "baseline": false,
@@ -2162,6 +2180,15 @@
     "page": 1,
     "summary": "15 food business ideas to start \u00b7 Restaurant \u00b7 Food truck \u00b7 Coffee shop \u00b7 Bakery \u00b7 Ghost kitchen or virtual restaurant \u00b7 Catering \u00b7 Personal chef \u00b7 Cooking classes.",
     "title": "15 Food Business Ideas: Costs & How to Start"
+   },
+   "merchants.doordash.com/en-us/blog/gamified-loyalty-programs": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-16T12:42:13Z",
+    "link": "https://merchants.doordash.com/en-us/blog/gamified-loyalty-programs",
+    "page": 1,
+    "summary": "Gamified loyalty programs are structured systems that reward customers in playful, game-like ways for making purchases. Think: earning points, unlocking tiers,",
+    "title": "Gamified Loyalty Programs: How To Level Up Customer ..."
    },
    "merchants.doordash.com/en-us/blog/menu-food-descriptions": {
     "baseline": false,
