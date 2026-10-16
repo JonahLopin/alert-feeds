@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-16T11:45:46Z</updated>
+  <updated>2026-10-16T17:44:54Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/africa/</id>
+    <title>SAP Africa News Center - News &amp; Information About SAP</title>
+    <link href="https://news.sap.com/africa/" />
+    <published>2026-10-16T17:44:54Z</published>
+    <updated>2026-10-16T17:44:54Z</updated>
+    <summary>SAP News · SAP Brings SAP SuccessFactors and Joule to NTT DATA's Global People and Culture Transformation · Power Partnership: SAP and OpenText's 30-Plus Year ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/2026/10/next-leap-public-services-behind-the-scenes-spublic-berlin/</id>
     <title>The Next Leap in Public Services Starts Behind the Scenes</title>

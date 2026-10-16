@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 7863,
+  "credits_used": 7910,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T16:47:03Z",
+  "last_run": "2026-10-16T17:44:54Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 160
+  "runs": 161
  },
  "feeds": {
   "adp-help": {},
@@ -653,6 +653,15 @@
     "summary": "Two robotics companies were hit with separate lawsuits alleging their camera-equipped delivery robots scanned and stored consumers' facial and hand geometry",
     "title": "Delivery Robot Makers Hit With Biometric Suits Over Face ..."
    },
+   "news.bloomberglaw.com/business-and-practice/democrats-vow-to-probe-kirklands-trump-deal-after-election": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-16T17:44:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/democrats-vow-to-probe-kirklands-trump-deal-after-election",
+    "page": 1,
+    "summary": "A trio of Democratic lawmakers plan to continue an investigation into Kirkland & Ellis' promise of free legal services in a deal stuck with the Trump ...",
+    "title": "Democrats Vow to Probe Kirkland's Trump Deal After Election"
+   },
    "news.bloomberglaw.com/business-and-practice/dentons-employs-fda-and-health-care-transactions-lawyer-salmon": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -804,6 +813,15 @@
     "page": 4,
     "summary": "Ex-Fourth Circuit Judge Thomas D. Wilson was required to retire on Feb. 28 and not seek another job as a judge either by election or appointment, according to ...",
     "title": "Ex-Michigan Judge Who Showed Up Drunk to Work ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/extreme-networks-reaches-51-million-investor-class-settlement": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-16T17:44:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/extreme-networks-reaches-51-million-investor-class-settlement",
+    "page": 1,
+    "summary": "Extreme Networks Inc. agreed to fork over $51 million to resolve investor class allegations that the computer connectivity company overstated demand",
+    "title": "Extreme Networks Reaches $51 Million Investor Class ..."
    },
    "news.bloomberglaw.com/business-and-practice/fcc-rural-telecom-subsidies-nonprofit-rejected-by-appeals-court": {
     "baseline": false,
@@ -1376,6 +1394,15 @@
     "page": 1,
     "summary": "Blakeman's policy barring female sports leagues with transgender athletes from using the New York county's facilities came under fire Thursday",
     "title": "Nassau County's Transgender Athletes Law Under Fire on ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/ncaa-sues-ohio-governor-over-student-athlete-eligibility-order": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-16T17:44:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ncaa-sues-ohio-governor-over-student-athlete-eligibility-order",
+    "page": 1,
+    "summary": "The NCAA sued Gov. Mike DeWine (R) for directing colleges and universities in Ohio to ignore part of the organization's new student-athlete eligibility rules,",
+    "title": "NCAA Sues Ohio Governor Over Student-Athlete Eligibility ..."
    },
    "news.bloomberglaw.com/business-and-practice/nelson-mullins-adds-daniel-badovinac-as-tax-partner-in-miami": {
     "baseline": false,
@@ -3502,6 +3529,15 @@
     "summary": "SAP SuccessFactors 2H 2026 brings Autonomous HCM to life with Joule Assistants that automate, redesign, and reinvent work. Find out how.",
     "title": "SAP SuccessFactors 2H 2026 Release"
    },
+   "news.sap.com/africa": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-16T17:44:54Z",
+    "link": "https://news.sap.com/africa/",
+    "page": 1,
+    "summary": "SAP News \u00b7 SAP Brings SAP SuccessFactors and Joule to NTT DATA's Global People and Culture Transformation \u00b7 Power Partnership: SAP and OpenText's 30-Plus Year ...",
+    "title": "SAP Africa News Center - News & Information About SAP"
+   },
    "news.sap.com/africa/2026/10/bloody-agents": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -5420,6 +5456,15 @@
     "summary": "Use the CardNumberElement from @stripe/react-stripe-js to collect the PAN (primary account number) independently while rendering Card CVC and expiration in ...",
     "title": "CardNumberElement"
    },
+   "docs.stripe.com/js/react_stripe_js/elements/other/card_number_element?__hsfp=2833975420&__hssc=195197683.1.1662249600281&__hstc=195197683.0b939b89ab5ebd558205abc6212f6da3.1662249600278.1662249600279.1662249600280.1": {
+    "baseline": false,
+    "date_hint": "40 minutes ago",
+    "first_seen": "2026-10-16T17:44:54Z",
+    "link": "https://docs.stripe.com/js/react_stripe_js/elements/other/card_number_element?__hsfp=2833975420&__hssc=195197683.1.1662249600281&__hstc=195197683.0b939b89ab5ebd558205abc6212f6da3.1662249600278.1662249600279.1662249600280.1",
+    "page": 1,
+    "summary": "Use the CardNumberElement from @stripe/react-stripe-js to collect the PAN (primary account number) independently while rendering Card CVC and expiration in ...",
+    "title": "CardNumberElement"
+   },
    "docs.stripe.com/js/react_stripe_js/elements/other/payment_request_button_element?__=&__hsfp=PANTHEON_STRIPPED%3Fhsa_cam%3D15351779962&__hssc=PANTHEON_STRIPPED&__hstc=PANTHEON_STRIPPED": {
     "baseline": false,
     "date_hint": "8 hours ago",
@@ -5453,6 +5498,15 @@
     "link": "https://docs.stripe.com/tax/file-with-stripe-outside-us",
     "summary": "Use Stripe Tax to prepare and file supported tax returns outside the US. Manage compliance Monitor your obligations Register File and remit File with Stripe in ...",
     "title": "File taxes outside the US"
+   },
+   "docs.stripe.com/treasury/send/instant-transfers": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-16T17:44:54Z",
+    "link": "https://docs.stripe.com/treasury/send/instant-transfers",
+    "page": 1,
+    "summary": "Send money instantly between financial accounts on Stripe. The money transfers instantly. s Each instant transfer has a minimum and maximum amount",
+    "title": "Instant transfers"
    }
   },
   "taxcloud-blog": {
