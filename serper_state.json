@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 7241,
+  "credits_used": 7290,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T03:35:39Z",
+  "last_run": "2026-10-16T04:33:42Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 147
+  "runs": 148
  },
  "feeds": {
   "adp-help": {},
@@ -2529,6 +2529,15 @@
     "summary": "What types of 1099 you need to file is determined by which types of boxes you select when you create your 1099s in QuickBooks. Most businesses only select ...",
     "title": "Modify your chart of accounts if you file 1099-MISC and 1099 ..."
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-nec/understand-payment-categories-1099-misc-1099-nec/L1LFZM3h2_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-16T04:33:42Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-nec/understand-payment-categories-1099-misc-1099-nec/L1LFZM3h2_US_en_US",
+    "page": 2,
+    "summary": "If you pay contractors or vendors, you might need to issue them a 1099 form. The two most common forms for contractors or vendors are Form 1099-NEC (Nonemployee ...",
+    "title": "Understand payment categories for the 1099-MISC and 1099 ..."
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/form-941/understand-federal-forms-941-944-943-940/L7meyjNUR_US_en_US": {
     "baseline": false,
     "date_hint": "7 days ago",
@@ -4472,6 +4481,15 @@
     "page": 1,
     "summary": "Reset password \u00b7 Go to Sovos Home. \u00b7 On the login screen, click Forgot password. \u00b7 Enter your email address, then click Continue. \u00b7 Check your email for a message ...",
     "title": "Manage your password - Sovos Docs"
+   },
+   "docs.sovos.com/en/filing/sales-tax-filing/support/create-a-support-case": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-16T04:33:42Z",
+    "link": "https://docs.sovos.com/en/filing/sales-tax-filing/support/create-a-support-case",
+    "page": 1,
+    "summary": "Create a support case \u00b7 Click Browse. \u00b7 Select the file from your computer, then click Open. The maximum file size is 10 MB. Tip: You can ...",
+    "title": "Create a support case - Sovos Docs"
    },
    "docs.sovos.com/en/filing/sales-tax-filing/upload-data/troubleshooting": {
     "baseline": false,
