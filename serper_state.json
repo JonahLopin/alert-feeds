@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 7290,
+  "credits_used": 7339,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T04:33:42Z",
+  "last_run": "2026-10-16T05:30:58Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 148
+  "runs": 149
  },
  "feeds": {
   "adp-help": {},
@@ -2136,6 +2136,15 @@
     "summary": "15 food business ideas to start \u00b7 Restaurant \u00b7 Food truck \u00b7 Coffee shop \u00b7 Bakery \u00b7 Ghost kitchen or virtual restaurant \u00b7 Catering \u00b7 Personal chef \u00b7 Cooking classes.",
     "title": "15 Food Business Ideas: Costs & How to Start"
    },
+   "merchants.doordash.com/en-us/blog/menu-food-descriptions": {
+    "baseline": false,
+    "date_hint": "23 hours ago",
+    "first_seen": "2026-10-16T05:30:58Z",
+    "link": "https://merchants.doordash.com/en-us/blog/menu-food-descriptions",
+    "page": 1,
+    "summary": "Learn how to write restaurant menu descriptions that drive online orders. Get real examples, common mistakes to avoid, and a framework you can use today.",
+    "title": "How to Write Menu Descriptions That Sell (With Examples)"
+   },
    "merchants.doordash.com/en-us/blog/restaurant-advertisement": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -3971,6 +3980,15 @@
     "summary": "New Finance and Procurement Platform with SAP. Get started today with relevant, reliable, responsible AI Company. Find SAP events News and press Blogs and ...",
     "title": "Press Room - SAP UK News Center"
    },
+   "news.sap.com/ukraine/2026/10/sap-%D0%B4%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D0%BB%D0%B0%D1%81%D1%8F-%D0%B4%D0%BE-%D0%BE%D0%B1%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F-%D1%80%D0%BE%D0%BB%D1%96-%D1%82%D0%B5%D1%85%D0%BD%D0%BE/285469_istock-637234392-3": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-16T05:30:58Z",
+    "link": "https://news.sap.com/ukraine/2026/10/sap-%D0%B4%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D0%BB%D0%B0%D1%81%D1%8F-%D0%B4%D0%BE-%D0%BE%D0%B1%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F-%D1%80%D0%BE%D0%BB%D1%96-%D1%82%D0%B5%D1%85%D0%BD%D0%BE/285469_istock-637234392-3/",
+    "page": 2,
+    "summary": "This site uses cookies and related technologies, as described in our Cookie Statement, for purposes that may include site operation, analytics, ...",
+    "title": "285469_iStock-637234392 - \u041f\u0440\u0435\u0441-\u0446\u0435\u043d\u0442\u0440 SAP \u0423\u043a\u0440\u0430\u0457\u043d\u0430"
+   },
    "news.sap.com/ukraine/2026/10/sap-%D0%BF%D1%80%D0%B8%D0%B4%D0%B1%D0%B0%D1%94-techwolf-%D1%89%D0%BE%D0%B1-%D0%BD%D0%B0%D0%B4%D0%B0%D1%82%D0%B8-%D0%BF%D1%96%D0%B4%D0%BF%D1%80%D0%B8%D1%94%D0%BC%D1%81%D1%82%D0%B2%D0%B0%D0%BC-%D0%BD": {
     "baseline": false,
     "date_hint": "49 minutes ago",
@@ -4535,6 +4553,15 @@
     "page": 1,
     "summary": "The tax calculation endpoints are used to calculate sales and use tax for each line item on a document based on product characteristics, shipping addresses,",
     "title": "Tax calculation endpoints - Sovos Docs"
+   },
+   "docs.sovos.com/en/tax-determination/tax-determination/release-notes/create-your-new-sovos-login": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-16T05:30:58Z",
+    "link": "https://docs.sovos.com/en/tax-determination/tax-determination/release-notes/create-your-new-sovos-login",
+    "page": 1,
+    "summary": "The new login gives you access to all your Sovos products through a single account. UAT and Production each require their own login.",
+    "title": "Create your new Sovos login | Product Documentation ..."
    },
    "docs.sovos.com/en/tax-determination/tax-determination/release-notes/september-3-2026": {
     "baseline": false,

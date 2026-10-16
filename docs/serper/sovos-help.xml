@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-16T04:33:42Z</updated>
+  <updated>2026-10-16T05:30:58Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/tax-determination/tax-determination/release-notes/create-your-new-sovos-login</id>
+    <title>Create your new Sovos login | Product Documentation ...</title>
+    <link href="https://docs.sovos.com/en/tax-determination/tax-determination/release-notes/create-your-new-sovos-login" />
+    <published>2026-10-16T05:30:58Z</published>
+    <updated>2026-10-16T05:30:58Z</updated>
+    <summary>The new login gives you access to all your Sovos products through a single account. UAT and Production each require their own login.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/filing/sales-tax-filing/support/create-a-support-case</id>
     <title>Create a support case - Sovos Docs</title>
