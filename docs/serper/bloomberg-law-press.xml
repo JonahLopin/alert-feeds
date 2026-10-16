@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-16T00:24:50Z</updated>
+  <updated>2026-10-16T01:37:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/aerospace-firm-hits-back-at-insurers-over-california-tank-scare</id>
+    <title>Aerospace Firm Hits Back at Insurers Over California Tank ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/aerospace-firm-hits-back-at-insurers-over-california-tank-scare" />
+    <published>2026-10-16T01:37:04Z</published>
+    <updated>2026-10-16T01:37:04Z</updated>
+    <summary>An aerospace manufacturer sued Chubb Ltd. and Markel Group Inc. insurance units for refusing to cover its legal defense costs after a chemical tank scare at ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/robert-half-subsidiary-accused-of-laying-off-pregnant-workers</id>
     <title>Robert Half Subsidiary Accused of Laying Off Pregnant ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-13T19:28:28Z</published>
     <updated>2026-10-13T19:28:28Z</updated>
     <summary>Renault SA Chief Executive Officer Francois Provost said the European Union must ease longer-term C02 emissions rules to help protect car manufacturers and ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/epa-aims-to-let-refrigerant-makers-others-keep-using-solvent</id>
-    <title>EPA Aims to Let Refrigerant Makers, Others Keep Using ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/epa-aims-to-let-refrigerant-makers-others-keep-using-solvent" />
-    <published>2026-10-13T19:28:28Z</published>
-    <updated>2026-10-13T19:28:28Z</updated>
-    <summary>The EPA is proposing to let certain chemical processors and refrigerant manufacturers use trichloroethylene past the deadline set in a 2024 rule and a 2025 ...</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 7096,
+  "credits_used": 7144,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T00:24:50Z",
+  "last_run": "2026-10-16T01:37:04Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 144
+  "runs": 145
  },
  "feeds": {
   "adp-help": {},
@@ -196,6 +196,15 @@
     "page": 4,
     "summary": "Crypto hardware maker Ledger SAS is reviewing its policies and processes for how its devices are sold to consumers, after spyware implanted in some wallets ...",
     "title": "A $90 Million Spyware Hack Sparks Review of Crypto ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/aerospace-firm-hits-back-at-insurers-over-california-tank-scare": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-16T01:37:04Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/aerospace-firm-hits-back-at-insurers-over-california-tank-scare",
+    "page": 3,
+    "summary": "An aerospace manufacturer sued Chubb Ltd. and Markel Group Inc. insurance units for refusing to cover its legal defense costs after a chemical tank scare at ...",
+    "title": "Aerospace Firm Hits Back at Insurers Over California Tank ..."
    },
    "news.bloomberglaw.com/business-and-practice/ai-data-centers-water-use-grows-in-drought-stricken-areas": {
     "baseline": false,
@@ -3547,6 +3556,15 @@
     "summary": "Maintenance engineers in server room. SAP. Italia 800 789 088. Oppure consulta l'elenco completo dei nostri recapiti \u00b7 Contatta SAP Italia ...",
     "title": "Maintenance engineers in server room"
    },
+   "news.sap.com/italy/2026/10/sap-quality-award-2026-lai-agentica-protagonista-dei-progetti-premiati?amp=1": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-10-16T01:37:04Z",
+    "link": "https://news.sap.com/italy/2026/10/sap-quality-award-2026-lai-agentica-protagonista-dei-progetti-premiati/?amp=1",
+    "page": 1,
+    "summary": "L'edizione 2026 dei SAP Quality Award segna un momento significativo: per la prima volta, il riconoscimento dedicato ai Clienti e Partner SAP che hanno ...",
+    "title": "l'AI agentica protagonista dei progetti premiati"
+   },
    "news.sap.com/japan/2026/10/1008_sap-a-leader-2026-idc-marketscape-ai-enabled-direct-spend/professional-indian-customer-support-executive-at-work": {
     "baseline": false,
     "date_hint": "17 hours ago",
@@ -3600,6 +3618,15 @@
     "page": 1,
     "summary": "SAP Connect 2026 Las Vegas \ubb34\ub300\uc5d0\uc11c \uae30\uc870\uc5f0\uc124 \uc911\uc778 \ud06c\ub9ac\uc2a4\ud2f0\uc548 \ud074\ub77c\uc778 SAP \ud68c\uc7a5. SAP. \ub300\ud55c\ubbfc\uad6d 080-219-2400. \uc9c0\uc5ed\ubcc4 \uad6d\uac00 \ubc88\ud638 \uc804\uccb4 \ubaa9\ub85d \ubcf4\uae30.",
     "title": "SAPConnect26_MKR16504_148 - SAP Korea \ub274\uc2a4\uc13c\ud130"
+   },
+   "news.sap.com/korea/2026/10/sap-%EC%97%B0%EA%B5%AC%EA%B0%80-%EC%A7%9A%EC%9D%80-ai%EC%9D%98-%EB%B3%91%EB%AA%A9-%EA%B8%B0%EC%88%A0%EC%9D%B4-%EC%95%84%EB%8B%8C-%EC%A4%80%EB%B9%84%ED%83%9C%EC%84%B8": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-16T01:37:04Z",
+    "link": "https://news.sap.com/korea/2026/10/sap-%EC%97%B0%EA%B5%AC%EA%B0%80-%EC%A7%9A%EC%9D%80-ai%EC%9D%98-%EB%B3%91%EB%AA%A9-%EA%B8%B0%EC%88%A0%EC%9D%B4-%EC%95%84%EB%8B%8C-%EC%A4%80%EB%B9%84%ED%83%9C%EC%84%B8/",
+    "page": 2,
+    "summary": "AI \ub3c4\uc785\uc740 \ube60\ub974\uac8c \ub298\uc5c8\uc9c0\ub9cc, \ube44\uc988\ub2c8\uc2a4\ub97c AI\uc5d0 \ub9de\uac8c \ubc14\uafbc \uae30\uc5c5\uc740 9%\ubfd0\uc785\ub2c8\ub2e4. SAP\uc640 \uc625\uc2a4\ud3ec\ub4dc \uc774\ucf54\ub178\ubbf9\uc2a4 \uc5f0\uad6c\uac00 \uc9da\uc740 \uc9c4\uc9dc \uac78\ub9bc\ub3cc\uc740 \uae30\uc220\uc774 \uc544\ub2cc \ube44\uc988\ub2c8\uc2a4 \uc900\ube44\ud0dc\uc138 ...",
+    "title": "SAP \uc5f0\uad6c\uac00 \uc9da\uc740 AI\uc758 \ubcd1\ubaa9, \uae30\uc220\uc774 \uc544\ub2cc \uc900\ube44\ud0dc\uc138"
    },
    "news.sap.com/korea/2026/10/sap-%EC%BB%A4%EB%84%A5%ED%8A%B8-2026%EC%97%90%EC%84%9C-%EC%9E%90%EC%9C%A8%ED%98%95-%EA%B8%B0%EC%97%85-%EA%B5%AC%ED%98%84-%EB%B0%A9%EC%95%88-%EC%84%A0%EB%B3%B4%EC%97%AC/sap-connect-2026-hero": {
     "baseline": false,
@@ -4262,6 +4289,15 @@
     "summary": "Website promotion is the work of getting people to your site. See 11 free and paid ways to promote your store, and what each one costs.",
     "title": "Website Promotion: 11 Ways to Promote Your Store (2026)"
    },
+   "shopify.com/blog/retail-release-roundup": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-16T01:37:04Z",
+    "link": "https://www.shopify.com/blog/retail-release-roundup",
+    "page": 2,
+    "summary": "Shopify is always evolving, with new features and updates rolling out regularly to help retailers stay ahead\u2014but keeping up shouldn't be a chore.",
+    "title": "Shopify Retail Roundup (2026)"
+   },
    "shopify.com/blog/rfm-analysis": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -4327,6 +4363,15 @@
    }
   },
   "sovos-blog": {
+   "sovos.com/blog/sut/delaware-sales-tax-guide": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-16T01:37:04Z",
+    "link": "https://sovos.com/blog/sut/delaware-sales-tax-guide/",
+    "page": 1,
+    "summary": "Delaware has no state sales tax, but businesses may owe gross receipts tax and industry fees. Review rates, registration and filing rules.",
+    "title": "Delaware Sales and Gross Receipts Tax Guide | Sovos"
+   },
    "sovos.com/blog/sut/kentucky-sales-tax-guide": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -4335,6 +4380,15 @@
     "page": 1,
     "summary": "Kentucky imposes a 6% statewide sales and use tax. Cities and counties do not add a general local sales tax, which makes the rate structure simpler than in many ...",
     "title": "Kentucky Sales Tax Guide | Sovos"
+   },
+   "sovos.com/blog/sut/puerto-rico-sales-tax-ivu-guide": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-16T01:37:04Z",
+    "link": "https://sovos.com/blog/sut/puerto-rico-sales-tax-ivu-guide/",
+    "page": 1,
+    "summary": "Puerto Rico generally applies an 11.5% combined IVU rate to taxable sales, consisting of a 10.5% commonwealth rate and a 1% municipal rate.",
+    "title": "Puerto Rico Sales Tax/ Impuesto sobre Ventas y Uso (IVU ..."
    },
    "sovos.com/blog/sut/rhode-island-sales-tax": {
     "baseline": false,
@@ -4382,6 +4436,15 @@
     "page": 1,
     "summary": "Find solutions to errors you might encounter when uploading data in Batch Determination. Error reports data correctly or determining taxability.",
     "title": "Troubleshooting | Product Documentation Documentation"
+   },
+   "docs.sovos.com/en/filing/vat-filing/release-notes/2026": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-16T01:37:04Z",
+    "link": "https://docs.sovos.com/en/filing/vat-filing/release-notes/2026",
+    "page": 1,
+    "summary": "The following updates in VAT Filing will be released in UAT on October 12, 2026, and in PRD on October 14, 2026.",
+    "title": "October 12, 2026 | Product Documentation Documentation"
    },
    "docs.sovos.com/en/regulated-shipping/shipcompliant/release-notes/2026/new-sovos-login-for-shipcompliant": {
     "baseline": false,
@@ -4704,6 +4767,15 @@
     "summary": "SpotOn Express Dashboard gives you a centralized view of your restaurant's performance, helping you track sales, payments, labor, and payroll data in one place.",
     "title": "Reports | Dashboard | SpotOn Express"
    },
+   "help.spoton.com/space/SK/4561305760": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-16T01:37:04Z",
+    "link": "https://help.spoton.com/space/SK/4561305760",
+    "page": 1,
+    "summary": "Create an Item-Level Discount \u00b7 Log in to the SpotOn Dashboard. \u00b7 Navigate to Menu & Tables > Discounts. \u00b7 Select Add Discount in the upper-right corner.",
+    "title": "Create and Manage Discounts | Dashboard | SpotOn Express"
+   },
    "help.spoton.com/space/SK/5040406703/Menu+Best+Practices+for+Subitem+Groups+(Combos+&+Pizza)+RPOS": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -4730,6 +4802,15 @@
     "page": 1,
     "summary": "Choice Modifiers, also known as Forced Modifiers, are used when a guest must make a selection before an item can be ordered.",
     "title": "Choice Modifiers (Forced Modifiers) | SpotOn Restaurant"
+   },
+   "help.spoton.com/space/SK/5529468936": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-16T01:37:04Z",
+    "link": "https://help.spoton.com/space/SK/5529468936",
+    "page": 1,
+    "summary": "Pricing Events automatically adjust Menu Item prices based on selected Order Types, dates, days, and times. Pricing Events can apply four Percent",
+    "title": "Configure Pricing Events for Menu Items and Modifiers"
    },
    "help.spoton.com/space/SK/5707038725": {
     "baseline": false,

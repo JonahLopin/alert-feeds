@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-15T17:09:09Z</updated>
+  <updated>2026-10-16T01:37:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/retail-release-roundup</id>
+    <title>Shopify Retail Roundup (2026)</title>
+    <link href="https://www.shopify.com/blog/retail-release-roundup" />
+    <published>2026-10-16T01:37:04Z</published>
+    <updated>2026-10-16T01:37:04Z</updated>
+    <summary>Shopify is always evolving, with new features and updates rolling out regularly to help retailers stay ahead—but keeping up shouldn't be a chore.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/branded-dropshipping</id>
     <title>Branded Dropshipping Guide: How To Start in 2026</title>
