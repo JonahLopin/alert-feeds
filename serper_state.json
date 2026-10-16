@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 7531,
+  "credits_used": 7578,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T09:47:17Z",
+  "last_run": "2026-10-16T10:46:23Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 153
+  "runs": 154
  },
  "feeds": {
   "adp-help": {},
@@ -3322,6 +3322,15 @@
     "summary": "Deploying agents turns out to be the easy part. more than 40% of agentic AI projects will be cancelled before the end of next year.",
     "title": "Bloody agents"
    },
+   "news.sap.com/africa/2026/10/bloody-agents?amp=1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-16T10:46:23Z",
+    "link": "https://news.sap.com/africa/2026/10/bloody-agents/?amp=1",
+    "page": 1,
+    "summary": "Deploying agents turns out to be the easy part. Proving what they are worth is where projects are coming undone.",
+    "title": "Bloody agents - SAP Africa News Center"
+   },
    "news.sap.com/africa/2026/10/sap-says-enterprise-context-is-key-to-predictive-ai-operations": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -3583,6 +3592,15 @@
     "summary": "KI im Gesundheitswesen kann Entscheidungsunterst\u00fctzung f\u00fcr Fachpersonal bieten. Erfahren Sie mehr \u00fcber die Wichtigkeit kuratierter Daten.",
     "title": "Schatten-KI im Krankenhaus: Warum die Antwort nicht das ..."
    },
+   "news.sap.com/germany/2026/10/schatten-ki-krankenhaus?amp=1": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-16T10:46:23Z",
+    "link": "https://news.sap.com/germany/2026/10/schatten-ki-krankenhaus/?amp=1",
+    "page": 1,
+    "summary": "KI im Gesundheitswesen kann Entscheidungsunterst\u00fctzung f\u00fcr Fachpersonal bieten. Erfahren Sie mehr \u00fcber die Wichtigkeit kuratierter Daten.",
+    "title": "Medizinische KI f\u00fcr Klinische Entscheidungsfindung"
+   },
    "news.sap.com/germany/2026/10/unternehmen-zu-autonomous-hcm": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -3609,6 +3627,15 @@
     "page": 1,
     "summary": "SAP bringt Unternehmen auf dem Weg zu Autonomous HCM voran. von Siva Sundaresan. 13. Oktober 2026. Keine weiteren Beitr\u00e4ge vorhanden.",
     "title": "Autonomous HCM Archiv"
+   },
+   "news.sap.com/germany/topics/cloud": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-16T10:46:23Z",
+    "link": "https://news.sap.com/germany/topics/cloud/",
+    "page": 1,
+    "summary": "Reportagen, Pressemitteilungen, Success Stories, Veranstaltungsberichte, Blogs, Videos von SAP \u00fcber Cloud, L\u00f6sungen, Produkte, Software, Trends, SAP HANA ...",
+    "title": "Cloud News & Stories"
    },
    "news.sap.com/italy/2026/10/angelini-technologies-fameccanica-sceglie-rise-with-sap-per-accelerare-la-trasformazione-digitale-e-sostenere-la-crescita-futura": {
     "baseline": false,
@@ -5518,6 +5545,15 @@
     "page": 1,
     "summary": "Stacey Caywood, Chief Executive Officer for the Health division of Wolters Kluwer, was recognized with a Bronze Stevie Award in the category of Female ...",
     "title": "Healthcare technology CEO Stacey Caywood earns 2021 ..."
+   },
+   "wolterskluwer.com/en/news/how-cloud-innovation-is-advancing-connected-operational-risk-management": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-16T10:46:23Z",
+    "link": "https://www.wolterskluwer.com/en/news/how-cloud-innovation-is-advancing-connected-operational-risk-management",
+    "page": 1,
+    "summary": "Wolters Kluwer Enablon has been recognized in the 2026 Stratus Awards for Cloud Computing for its approach to connected operational risk management.",
+    "title": "How cloud innovation is advancing connected operational ..."
    },
    "wolterskluwer.com/en/news/immersive-virtual-reality-training-from-wolters-kluwer-and-laerdal-medical": {
     "baseline": false,
