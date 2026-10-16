@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-16T14:48:27Z</updated>
+  <updated>2026-10-16T15:46:46Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14729423791528385335</id>
+    <title>US Factory Production Rebounds on Pickup in Output of Supplies</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/us-factory-production-rebounds-on-pickup-in-output-of-supplies" />
+    <published>2026-10-16T15:46:46Z</published>
+    <updated>2026-10-16T15:46:46Z</updated>
+    <summary>US factory output rebounded in September after slipping a month earlier, consistent with an upswing this year in manufacturing.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:18344569730841635119</id>
     <title>White House's NYC Sanctuary City Suit Tossed by Federal Judge - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-10-08T15:27:00Z</published>
     <updated>2026-10-08T15:27:00Z</updated>
     <summary>Florida Attorney General James Uthmeier (R) asked a state court Wednesday to issue a temporary injunction that would force Meta Platforms Inc. to ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:5752728039136603420</id>
-    <title>NY Jets Sexual Harassment Case Tests Limits of Arbitration Ban - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/ny-jets-sexual-harassment-case-tests-limits-of-arbitration-ban" />
-    <published>2026-10-08T15:27:00Z</published>
-    <updated>2026-10-08T15:27:00Z</updated>
-    <summary>The firing of a New York Jets executive is forcing a New Jersey appeals court to define boundaries for when employment suits relating to sexual ...</summary>
   </entry>
 </feed>
