@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-15T22:43:44Z</updated>
+  <updated>2026-10-16T22:44:10Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:3868782616282525844</id>
+    <title>Pay machine-payment businesses - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/agentic-commerce/agents/link-agent-wallet/machine-payments" />
+    <published>2026-10-16T22:44:10Z</published>
+    <updated>2026-10-16T22:44:10Z</updated>
+    <summary>Use Link Agent Wallet to answer an 402 payment challenge with a shared payment token and complete a machine payment.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:3120035659458498931</id>
+    <title>CardCvcElement - Stripe JS Reference</title>
+    <link href="https://docs.stripe.com/js/react_stripe_js/elements/other/card_cvc_element?__hsfp=2833975420&amp;__hssc=195197683.1.1662249600281&amp;__hstc=195197683.0b939b89ab5ebd558205abc6212f6da3.1662249600278.1662249600279.1662249600280.1" />
+    <published>2026-10-16T22:44:10Z</published>
+    <updated>2026-10-16T22:44:10Z</updated>
+    <summary>Set custom class names on the container DOM element when the Stripe element is in a particular state. Hide classes properties ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:16821937480774260821</id>
+    <title>Real-time sync schema | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/data/data-pipeline/real-time-sync-to-postgres/schema" />
+    <published>2026-10-16T22:44:10Z</published>
+    <updated>2026-10-16T22:44:10Z</updated>
+    <summary>Explore the Stripe API tables, columns, and Postgres data types available through Data Pipeline real-time sync.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:15018945167130862954</id>
+    <title>useCheckout - Stripe JS Reference</title>
+    <link href="https://docs.stripe.com/js/react_stripe_js/checkout/use_checkout?client_id=1937835283.1772150402&amp;session_id=1772150402" />
+    <published>2026-10-16T22:44:10Z</published>
+    <updated>2026-10-16T22:44:10Z</updated>
+    <summary>The ID of the Checkout Session. billingAddress nullable object. Billing details of the Customer.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14970350843857164666</id>
+    <title>Apps on Devices API changelog - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/terminal/features/apps-on-devices/changelog" />
+    <published>2026-10-16T22:44:10Z</published>
+    <updated>2026-10-16T22:44:10Z</updated>
+    <summary>Review changes to Apps on Devices APIs in private preview.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14457789205863563794</id>
+    <title>The Early Fraud Warning object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/radar/early_fraud_warnings/object?api-version=2026-04-22.preview" />
+    <published>2026-10-16T22:44:10Z</published>
+    <updated>2026-10-16T22:44:10Z</updated>
+    <summary>Attributes · idstring. Unique identifier for the object. · objectstring. String representing the object's type. · actionableboolean. An EFW is actionable ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14034177576267037701</id>
+    <title>Instant transfers | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/treasury/send/instant-transfers" />
+    <published>2026-10-16T22:44:10Z</published>
+    <updated>2026-10-16T22:44:10Z</updated>
+    <summary>The money transfers instantly. To learn where this is available, see Availability. Send an instant transfer. To send money to another business's ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:10107868530931068732</id>
     <title>CardNumberElement - Stripe JS Reference</title>

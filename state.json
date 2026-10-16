@@ -1182,6 +1182,12 @@
    "summary": "Description: Learn how to look up Como Loyalty members, add members to orders, enroll new members, apply rewards, and process refunds and...",
    "title": "Process Como Loyalty Transactions in Shift4 Dine"
   },
+  "tag:google.com,2013:googlealerts/feed:15046499727416509496": {
+   "first_seen": "2026-10-16T22:44:10Z",
+   "link": "https://shift4.zendesk.com/hc/en-us/articles/56452781788691-Payment-Link-FAQs-for-Shift4-One",
+   "summary": "What payment methods do Payment Links support? Customers can pay with credit cards, debit cards, digital wallets (including Apple Pay and Google Pay), ...",
+   "title": "Payment Link FAQs for Shift4 One"
+  },
   "tag:google.com,2013:googlealerts/feed:2567628168567234167": {
    "first_seen": "2026-10-09T14:51:48Z",
    "link": "https://shift4.zendesk.com/hc/en-us/articles/55778150852627-Process-AppFront-Loyalty-Transactions-in-Shift4-Dine",
@@ -1398,11 +1404,35 @@
    "summary": "Stripe surveille les \u00e9v\u00e9nements n\u00e9cessitant une notification client et envoie un e-mail en votre nom au compte connect\u00e9. Pr\u00e9visualiser et envoyer des ...",
    "title": "Notifications r\u00e9glement\u00e9es Issuing destin\u00e9es aux clients | Documentation Stripe"
   },
+  "tag:google.com,2013:googlealerts/feed:14034177576267037701": {
+   "first_seen": "2026-10-16T22:44:10Z",
+   "link": "https://docs.stripe.com/treasury/send/instant-transfers",
+   "summary": "The money transfers instantly. To learn where this is available, see Availability. Send an instant transfer. To send money to another business's ...",
+   "title": "Instant transfers | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:14363745968815405379": {
    "first_seen": "2026-10-15T10:47:01Z",
    "link": "https://docs.stripe.com/api/v2/data/analytics/metric-query-results?api-version=2026-07-29.preview",
    "summary": "The result of a metric query. Learn more about calling API v2 endpoints. Was this section helpful?YesNo.",
    "title": "Metric Query Results | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:14457789205863563794": {
+   "first_seen": "2026-10-16T22:44:10Z",
+   "link": "https://docs.stripe.com/api/radar/early_fraud_warnings/object?api-version=2026-04-22.preview",
+   "summary": "Attributes \u00b7 idstring. Unique identifier for the object. \u00b7 objectstring. String representing the object's type. \u00b7 actionableboolean. An EFW is actionable ...",
+   "title": "The Early Fraud Warning object | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:14970350843857164666": {
+   "first_seen": "2026-10-16T22:44:10Z",
+   "link": "https://docs.stripe.com/terminal/features/apps-on-devices/changelog",
+   "summary": "Review changes to Apps on Devices APIs in private preview.",
+   "title": "Apps on Devices API changelog - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:15018945167130862954": {
+   "first_seen": "2026-10-16T22:44:10Z",
+   "link": "https://docs.stripe.com/js/react_stripe_js/checkout/use_checkout?client_id=1937835283.1772150402&session_id=1772150402",
+   "summary": "The ID of the Checkout Session. billingAddress nullable object. Billing details of the Customer.",
+   "title": "useCheckout - Stripe JS Reference"
   },
   "tag:google.com,2013:googlealerts/feed:15183435629383904580": {
    "first_seen": "2026-10-10T10:10:42Z",
@@ -1415,6 +1445,12 @@
    "link": "https://docs.stripe.com/payments/accept-a-payment-intent-first",
    "summary": "Test your integration \u00b7 Create a PaymentIntent and retrieve the client secret. \u00b7 Select a payment method from the following table and enter its test ...",
    "title": "Create a PaymentIntent before collecting payment details - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:16821937480774260821": {
+   "first_seen": "2026-10-16T22:44:10Z",
+   "link": "https://docs.stripe.com/data/data-pipeline/real-time-sync-to-postgres/schema",
+   "summary": "Explore the Stripe API tables, columns, and Postgres data types available through Data Pipeline real-time sync.",
+   "title": "Real-time sync schema | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:17624767214187221706": {
    "first_seen": "2026-10-12T11:36:05Z",
@@ -1440,6 +1476,12 @@
    "summary": "Understand extension lifecycle changes \u00b7 Deprecation scheduled: The extension remains available for new activations and activated extensions continue ...",
    "title": "Deprecate and archive extensions | Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:3120035659458498931": {
+   "first_seen": "2026-10-16T22:44:10Z",
+   "link": "https://docs.stripe.com/js/react_stripe_js/elements/other/card_cvc_element?__hsfp=2833975420&__hssc=195197683.1.1662249600281&__hstc=195197683.0b939b89ab5ebd558205abc6212f6da3.1662249600278.1662249600279.1662249600280.1",
+   "summary": "Set custom class names on the container DOM element when the Stripe element is in a particular state. Hide classes properties ...",
+   "title": "CardCvcElement - Stripe JS Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:3397542122403223042": {
    "first_seen": "2026-10-10T10:10:42Z",
    "link": "https://docs.stripe.com/service-principals",
@@ -1451,6 +1493,12 @@
    "link": "https://docs.stripe.com/events/set-up-events",
    "summary": "Follow a step-by-step guide to create a webhook endpoint, test it locally with the Stripe CLI, verify event signatures, and deploy to production.",
    "title": "Set up events - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:3868782616282525844": {
+   "first_seen": "2026-10-16T22:44:10Z",
+   "link": "https://docs.stripe.com/agentic-commerce/agents/link-agent-wallet/machine-payments",
+   "summary": "Use Link Agent Wallet to answer an 402 payment challenge with a shared payment token and complete a machine payment.",
+   "title": "Pay machine-payment businesses - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:4197160707737336743": {
    "first_seen": "2026-10-10T10:10:42Z",
