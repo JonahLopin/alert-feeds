@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-16T17:44:54Z</updated>
+  <updated>2026-10-16T21:08:37Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/terminal/features/apps-on-devices/changelog</id>
+    <title>Apps on Devices API changelog</title>
+    <link href="https://docs.stripe.com/terminal/features/apps-on-devices/changelog" />
+    <published>2026-10-16T21:08:37Z</published>
+    <updated>2026-10-16T21:08:37Z</updated>
+    <summary>The Apps on Devices API is currently in private preview. If you're interested in gaining access, contact Stripe Support to assess your eligibility.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/treasury/send/instant-transfers</id>
     <title>Instant transfers</title>

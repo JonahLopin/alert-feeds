@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 8003,
+  "credits_used": 8049,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T20:09:18Z",
+  "last_run": "2026-10-16T21:08:37Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 163
+  "runs": 164
  },
  "feeds": {
   "adp-help": {},
@@ -1395,6 +1395,15 @@
     "summary": "Moderna Inc. and three top executives batted away investor allegations of overstating the efficacy level of its vaccine candidate for respiratory syncytial ...",
     "title": "Moderna Sheds Investor Lawsuit Over RSV Vaccine ..."
    },
+   "news.bloomberglaw.com/business-and-practice/montana-sues-general-motors-over-sale-of-drivers-personal-data": {
+    "baseline": false,
+    "date_hint": "47 minutes ago",
+    "first_seen": "2026-10-16T21:08:37Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/montana-sues-general-motors-over-sale-of-drivers-personal-data",
+    "page": 1,
+    "summary": "Montana's attorney general sued General Motors Co. Friday for allegedly selling drivers' personal information to third parties without their knowledge or ...",
+    "title": "Montana Sues General Motors Over Sale of Drivers ..."
+   },
    "news.bloomberglaw.com/business-and-practice/nasa-seeks-proposals-for-commercial-space-stations": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -1825,6 +1834,15 @@
     "summary": "His practice spans the full litigation lifecycle, from pleadings and discovery through depositions, expert challenges, summary judgment, and trial preparation.",
     "title": "Troutman Pepper Locke Lands Two Health Care Litigation ..."
    },
+   "news.bloomberglaw.com/business-and-practice/trump-diesel-deal-faces-fresh-legislative-challenge-in-congress": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-16T21:08:37Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-diesel-deal-faces-fresh-legislative-challenge-in-congress",
+    "page": 1,
+    "summary": "A group of House Democrats and one Republican introduced legislation Friday to block President Donald Trump's diesel deal with Vladimir Putin.",
+    "title": "Trump Diesel Deal Faces Fresh Legislative Challenge in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/trump-faces-growing-gop-revolt-over-his-russian-diesel-deal": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -1851,6 +1869,15 @@
     "page": 1,
     "summary": "Immigration judges installed on a permanent basis since Trump returned to office have denied 49% of asylum applications that went before them from October 2025",
     "title": "Trump Immigration Judges Are More Likely to Reject ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trump-opens-door-to-replacing-press-secretary-after-rocky-start": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-16T21:08:37Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-opens-door-to-replacing-press-secretary-after-rocky-start",
+    "page": 2,
+    "summary": "Katie Zacharia will no longer serve as President Donald Trump 's press secretary after spending less than a week on the job, thrusting the White House's ...",
+    "title": "Trump's New White House Press Secretary Out After Five ..."
    },
    "news.bloomberglaw.com/business-and-practice/trump-pac-paid-dla-piper-sullivan-cromwell-fec-filings-show": {
     "baseline": false,
@@ -5534,6 +5561,15 @@
     "link": "https://docs.stripe.com/tax/file-with-stripe-outside-us",
     "summary": "Use Stripe Tax to prepare and file supported tax returns outside the US. Manage compliance Monitor your obligations Register File and remit File with Stripe in ...",
     "title": "File taxes outside the US"
+   },
+   "docs.stripe.com/terminal/features/apps-on-devices/changelog": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-16T21:08:37Z",
+    "link": "https://docs.stripe.com/terminal/features/apps-on-devices/changelog",
+    "page": 1,
+    "summary": "The Apps on Devices API is currently in private preview. If you're interested in gaining access, contact Stripe Support to assess your eligibility.",
+    "title": "Apps on Devices API changelog"
    },
    "docs.stripe.com/treasury/send/instant-transfers": {
     "baseline": false,
