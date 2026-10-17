@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 8979,
+  "credits_used": 9027,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-17T18:10:34Z",
+  "last_run": "2026-10-17T19:07:20Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 184
+  "runs": 185
  },
  "feeds": {
   "adp-help": {},
@@ -4744,6 +4744,15 @@
    }
   },
   "shopify-blog": {
+   "shopify.com/blog/14288561-how-to-build-a-massive-following-on-instagram": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-17T19:07:20Z",
+    "link": "https://www.shopify.com/blog/14288561-how-to-build-a-massive-following-on-instagram",
+    "page": 2,
+    "summary": "Learn how to create content that wins real followers and increases engagement on your Instagram posts, Stories, and Reels.",
+    "title": "How To Get More Followers on Instagram: 10 Ways in 2027"
+   },
    "shopify.com/blog/appointment-booking-app": {
     "baseline": false,
     "date_hint": "3 days ago",
