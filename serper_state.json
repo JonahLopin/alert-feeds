@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 8602,
+  "credits_used": 8649,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-17T09:44:06Z",
+  "last_run": "2026-10-17T10:42:55Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 176
+  "runs": 177
  },
  "feeds": {
   "adp-help": {},
@@ -3430,6 +3430,15 @@
     "page": 5,
     "summary": "Add a vendor with a foreign currency in QuickBooks Online \u2014 and avoid common mistakes. Follow our step-by-step guide.",
     "title": "Add a vendor with a foreign currency - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/wholesale-discount/transfer-clients-proadvisor-preferred-pricing-program-quickbooks-online/L4GT5C1J2_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-17T10:42:55Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/wholesale-discount/transfer-clients-proadvisor-preferred-pricing-program-quickbooks-online/L4GT5C1J2_US_en_US",
+    "page": 2,
+    "summary": "Learn how to take over billing for clients who currently pay for their own QuickBooks Online subscription. Or move existing ProAdvisor Preferred Pricing ...",
+    "title": "Transfer clients to your ProAdvisor Preferred Pricing program ..."
    }
   },
   "kintsugi-blog": {
