@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 8142,
+  "credits_used": 8187,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-16T23:08:38Z",
+  "last_run": "2026-10-17T00:25:29Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 166
+  "runs": 167
  },
  "feeds": {
   "adp-help": {},
@@ -716,6 +716,15 @@
     "summary": "DLA Piper is hiring three senior lawyers from Latham & Watkins to join its growing capital solutions business as it continues an aggressive push into the ...",
     "title": "DLA Piper Hires Latham Trio to Expand New Private Credit ..."
    },
+   "news.bloomberglaw.com/business-and-practice/dla-piper-sued-by-ex-crystal-palace-lyon-soccer-clubs-owner": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-17T00:25:29Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/dla-piper-sued-by-ex-crystal-palace-lyon-soccer-clubs-owner",
+    "page": 3,
+    "summary": "A professional soccer club investor alleges mistakes by DLA Piper lawyers cost him control of four teams, including London's Crystal Palace and France's ...",
+    "title": "DLA Piper Sued By Ex-Crystal Palace, Lyon Soccer Clubs ..."
+   },
    "news.bloomberglaw.com/business-and-practice/doj-challenges-legality-of-presidential-records-act-on-appeal-104": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -1198,6 +1207,15 @@
     "summary": "Sen. Jim Justice (R-W.Va.) is liable to Lexon Insurance Co. for more than $25 million to cover a surety bond issued to coal companies the senator and his ...",
     "title": "Jim Justice Owes Insurer $25 Million in Coal Surety Bond ..."
    },
+   "news.bloomberglaw.com/business-and-practice/judge-nixes-dougherty-electrics-surviving-post-fraud-refund-bid": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-17T00:25:29Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/judge-nixes-dougherty-electrics-surviving-post-fraud-refund-bid",
+    "page": 1,
+    "summary": "The Court of Federal Claims Friday dismissed the remainder of Dougherty Electric Inc.'s $1.53 million refund claim for interest and penalties it paid",
+    "title": "Judge Nixes Dougherty Electric's Surviving Post-Fraud ..."
+   },
    "news.bloomberglaw.com/business-and-practice/judge-rules-news-outlets-can-keep-white-house-access-for-now-1": {
     "baseline": false,
     "date_hint": "8 hours ago",
@@ -1215,6 +1233,15 @@
     "page": 2,
     "summary": "A US trade judge approved class-action status for a legal fight over refunds for President Donald Trump's global tariffs, siding with importers who contend ...",
     "title": "Judge Sides With Importers to Expand Trump Tariff Refund ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/jump-drw-bet-on-new-compute-market-as-ai-boom-faces-scrutiny": {
+    "baseline": false,
+    "date_hint": "11 hours ago",
+    "first_seen": "2026-10-17T00:25:29Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/jump-drw-bet-on-new-compute-market-as-ai-boom-faces-scrutiny",
+    "page": 3,
+    "summary": "Jump Trading and DRW are committing traders and capital to an emerging market for financial contracts tied to computing power, as efforts to make the ...",
+    "title": "Jump, DRW Bet on New Compute Market as AI Boom ..."
    },
    "news.bloomberglaw.com/business-and-practice/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win": {
     "baseline": false,
@@ -1484,6 +1511,15 @@
     "page": 3,
     "summary": "Netflix Inc. is making plans to cut about 5% of its staff as early as next week, the newsletter Puck reported.",
     "title": "Netflix Is Planning to Cut About 5% of Employees, Puck ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/new-mexico-appeals-preliminary-injunction-on-pfas-label-mandate": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-17T00:25:29Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/new-mexico-appeals-preliminary-injunction-on-pfas-label-mandate",
+    "page": 1,
+    "summary": "The US District Court for the District of New Mexico last month granted a chemical industry coalition's request to temporarily block New Mexico's PFAS labeling ...",
+    "title": "New Mexico Appeals Preliminary Injunction on PFAS Label ..."
    },
    "news.bloomberglaw.com/business-and-practice/new-york-ag-biased-in-cornell-rape-case-gop-challenger-says": {
     "baseline": false,
@@ -2404,6 +2440,15 @@
     "page": 1,
     "summary": "SMS marketing (Short Message Service marketing) means sending promotional text messages to customers who have agreed to receive them.",
     "title": "SMS Marketing for Restaurants: Drive More Orders With ..."
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-website-design": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-17T00:25:29Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-website-design",
+    "page": 1,
+    "summary": "Learn how to create a great restaurant website design that attracts customers and boosts your restaurant's growth, plus see real restaurant website examples. ...",
+    "title": "How to Create a Restaurant Website Design (With Examples)"
    },
    "merchants.doordash.com/en-us/blog/saas-for-restaurants": {
     "baseline": false,
@@ -4415,6 +4460,15 @@
     "summary": "Learn key billing, fee, and statement terms to better understand charges, adjustments, and payment-related items on monthly statements for End-to-End U.S. ...",
     "title": "End-to-End Billing Matrix & Statement Glossary"
    },
+   "shift4.zendesk.com/hc/en-us/articles/16758025527955-Shift4Gift-Program-FAQs": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-17T00:25:29Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/16758025527955-Shift4Gift-Program-FAQs",
+    "page": 1,
+    "summary": "Who can join the Shift4 Gift Cards program? Any E2E Shift4 merchant can enroll. Gift Cards can be redeemed on any device or terminal that is certified to ...",
+    "title": "Gift Cards Program FAQs"
+   },
    "shift4.zendesk.com/hc/en-us/articles/43106955069971-Create-and-Manage-Modifier-Sets-in-Multi-Location-Management": {
     "baseline": true,
     "date_hint": "7 days ago",
@@ -4519,6 +4573,15 @@
    }
   },
   "shopify-blog": {
+   "shopify.com/blog/appointment-booking-app": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-17T00:25:29Z",
+    "link": "https://www.shopify.com/blog/appointment-booking-app",
+    "page": 1,
+    "summary": "Start for free Shopify appointment booking apps allow customers to schedule and manage appointments with your business directly from your site.",
+    "title": "8 Top-Rated Shopify Appointment Booking Apps in 2026"
+   },
    "shopify.com/blog/authors/anne.harris@shopify.com-user": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -4840,6 +4903,15 @@
    }
   },
   "sovos-blog": {
+   "sovos.com/blog/ship/customer-volume-limits-key-facts-for-dtc-alcohol-shippers": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-17T00:25:29Z",
+    "link": "https://sovos.com/blog/ship/customer-volume-limits-key-facts-for-dtc-alcohol-shippers/",
+    "page": 1,
+    "summary": "They help prevent illegal distribution outside regulated channels, reduce the risk of overconsumption, and encourage consumers to buy locally.",
+    "title": "Customer Volume Limits: Key Facts for DtC Alcohol Shippers"
+   },
    "sovos.com/blog/sut/delaware-sales-tax-guide": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -4904,6 +4976,15 @@
     "page": 1,
     "summary": "Reset password \u00b7 Go to Sovos Home. \u00b7 On the login screen, click Forgot password. \u00b7 Enter your email address, then click Continue. \u00b7 Check your email for a message ...",
     "title": "Manage your password - Sovos Docs"
+   },
+   "docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/fix-xml-schema-validation-errors": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-17T00:25:29Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/fix-xml-schema-validation-errors",
+    "page": 1,
+    "summary": "Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.",
+    "title": "Fix XML schema validation errors - Sovos Docs"
    },
    "docs.sovos.com/en/filing/sales-tax-filing-services/upload-data/troubleshooting": {
     "baseline": false,

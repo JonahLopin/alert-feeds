@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-16T23:09:37Z</updated>
+  <updated>2026-10-17T00:26:23Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:7543395446718317737</id>
+    <title>New Mexico Appeals Preliminary Injunction on PFAS Label Mandate</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/new-mexico-appeals-preliminary-injunction-on-pfas-label-mandate" />
+    <published>2026-10-17T00:26:23Z</published>
+    <updated>2026-10-17T00:26:23Z</updated>
+    <summary>New Mexico is appealing a federal district court's decision to grant industry's requested preliminary injunction and prevent enforcement of New ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:9107889502753551992</id>
     <title>DLA Piper Sued By Ex-Crystal Palace, Lyon Soccer Clubs Owner - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-10-10T12:16:12Z</published>
     <updated>2026-10-10T12:16:12Z</updated>
     <summary>NASA released its final request for proposals for plans for the next generation of commercial space stations, according to a news release.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:4722899764743157389</id>
-    <title>Humana Surges on Medicare Quality Ratings Improvement - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/humana-surges-on-medicare-quality-ratings-improvement" />
-    <published>2026-10-10T12:16:12Z</published>
-    <updated>2026-10-10T12:16:12Z</updated>
-    <summary>Humana Inc. shares surged as the company improved its performance on crucial Medicare Advantage quality ratings linked to payment.</summary>
   </entry>
 </feed>

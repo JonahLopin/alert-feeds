@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-16T14:47:26Z</updated>
+  <updated>2026-10-17T00:25:29Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/fix-xml-schema-validation-errors</id>
+    <title>Fix XML schema validation errors - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/fix-xml-schema-validation-errors" />
+    <published>2026-10-17T00:25:29Z</published>
+    <updated>2026-10-17T00:25:29Z</updated>
+    <summary>Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/tax-determination/certmanager/release-notes/exemptions-in-tax-determination-are-now-managed-in-certmanager</id>
     <title>Exemptions in Tax Determination are now managed in ...</title>
