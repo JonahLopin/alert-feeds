@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 9120,
+  "credits_used": 9165,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-17T21:08:16Z",
+  "last_run": "2026-10-17T22:08:30Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 187
+  "runs": 188
  },
  "feeds": {
   "adp-help": {},
@@ -2731,6 +2731,15 @@
     "summary": "Create an accounting policy template. Set up the specific rules that tell Intuit Intelligence exactly how to categorize and manage transactions for a type of ...",
     "title": "Create and apply accounting policy templates - QuickBooks"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/invite-contractor-add-tax-info/L9QgBNvRy_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-17T22:08:30Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/account-management/invite-contractor-add-tax-info/L9QgBNvRy_US_en_US",
+    "page": 2,
+    "summary": "Invite your contractors to complete their own profile and tax info in QuickBooks Onlineand QuickBooks Online Contractor Payments. This isn't available in ...",
+    "title": "Invite a contractor to add their own tax info - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/use-ready-post-quickbooks-online/L9jzjf8Xe_US_en_US": {
     "baseline": true,
     "date_hint": "2 days ago",
@@ -4964,6 +4973,15 @@
     "page": 1,
     "summary": "On-page SEO helps search engines understand your pages. Explore six key optimizations and how to apply them across your online store.",
     "title": "On-Page SEO: How To Optimize Your Store (2026)"
+   },
+   "shopify.com/blog/online-marketing": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-17T22:08:30Z",
+    "link": "https://www.shopify.com/blog/online-marketing",
+    "page": 1,
+    "summary": "Online marketing is a catch-all term for the collection of marketing strategies you can use to expand your business via the internet.",
+    "title": "Online Marketing Strategies and Tips for Small Businesses"
    },
    "shopify.com/blog/online-payment-methods": {
     "baseline": false,
