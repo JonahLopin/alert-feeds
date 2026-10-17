@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 8931,
+  "credits_used": 8979,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-17T17:07:56Z",
+  "last_run": "2026-10-17T18:10:34Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 183
+  "runs": 184
  },
  "feeds": {
   "adp-help": {},
@@ -2943,6 +2943,15 @@
     "summary": "If your employees use the company car for personal reasons, it's called Personal Use of a Company Car (PUCC). PUCC is a non cash fringe benefit that counts ...",
     "title": "Set up and record Personal Use of a Company Car (PUCC)"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-nec/correct-change-1099s-quickbooks/L1Wd3BRXb_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-17T18:10:34Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-nec/correct-change-1099s-quickbooks/L1Wd3BRXb_US_en_US",
+    "page": 1,
+    "summary": "After you file your 1099-MISC or 1099-NEC forms, and they have been accepted by the IRS, if you need to correct an error or filing follow the below steps.",
+    "title": "Correct or change 1099s - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-nec/create-file-1099s-using-quickbooks-online/L2BapEpb1_US_en_US": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -4024,6 +4033,15 @@
     "summary": "Udforsk alle omr\u00e5der af SAP. Uddannelse og support. Uddannelse og certificering \u00b7 Support \u00b7 Dokumentation \u00b7 Community.",
     "title": "F_304302_GettyImages-1331794262_medium_jpg"
    },
+   "news.sap.com/finland/2026/10/sap-vauhdittaa-yritysten-autonomista-tekoalyn-kayttoa/a-handsome-young-man-standing-at-night-in-the-street-illuminated-signboards-neon-lights": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-17T18:10:34Z",
+    "link": "https://news.sap.com/finland/2026/10/sap-vauhdittaa-yritysten-autonomista-tekoalyn-kayttoa/a-handsome-young-man-standing-at-night-in-the-street-illuminated-signboards-neon-lights/",
+    "page": 1,
+    "summary": "A handsome young man standing at night in the street. Illuminated signboards, neon, lights.",
+    "title": "A handsome young man standing at night in the street. ..."
+   },
    "news.sap.com/germany": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -4705,6 +4723,15 @@
     "link": "https://shift4.zendesk.com/hc/en-us/articles/56161609085971",
     "summary": "Description: Learn how to enable the Como integration, manage Como integration settings, and configure loyalty settings on the Workstation and Handheld.",
     "title": "Set Up Como Loyalty in Shift4 Dine"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/56370940201363-Configure-Settings-Lock-for-Kitchen-Display-System": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-17T18:10:34Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/56370940201363-Configure-Settings-Lock-for-Kitchen-Display-System",
+    "page": 1,
+    "summary": "Learn how to configure the Settings Lock feature on your Kitchen Display System. Tap on the gear icon near the bottom left of the screen to open the Settings ...",
+    "title": "Configure Settings Lock for Kitchen Display System"
    },
    "shift4.zendesk.com/hc/en-us/articles/56452781788691-Payment-Link-FAQs-for-Shift4-One": {
     "baseline": false,
