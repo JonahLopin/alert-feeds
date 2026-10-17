@@ -2,8 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-16T22:44:10Z</updated>
+  <updated>2026-10-17T22:43:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:9362988663949533849</id>
+    <title>CheckoutForm - Stripe JS Reference</title>
+    <link href="https://docs.stripe.com/js/react_stripe_js/checkout_form/checkout_form?type=payment" />
+    <published>2026-10-17T22:43:04Z</published>
+    <updated>2026-10-17T22:43:04Z</updated>
+    <summary>Configuration for client-side features of the embedded form, such as amount summary expansion and promotion code collection. Hide features properties ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:3030721683110167856</id>
+    <title>Cards | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/cards?api-version=2026-09-30.preview" />
+    <published>2026-10-17T22:43:04Z</published>
+    <updated>2026-10-17T22:43:04Z</updated>
+    <summary>You can store multiple cards on a customer in order to charge the customer later. You can also store multiple debit cards on a recipient in order to ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:290258394636359139</id>
+    <title>Using the embedded form provider - Stripe JS Reference</title>
+    <link href="https://docs.stripe.com/js/react_stripe_js/checkout_form?type=affirmMessage" />
+    <published>2026-10-17T22:43:04Z</published>
+    <updated>2026-10-17T22:43:04Z</updated>
+    <summary>Setting up · The Elements object · The Element · Embedded Checkout · Checkout · React Stripe.js · Payment Intents · Setup Intents.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:13168888411314708221</id>
+    <title>The Early Fraud Warning object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/radar/early_fraud_warnings/object?api-version=2026-09-30.preview" />
+    <published>2026-10-17T22:43:04Z</published>
+    <updated>2026-10-17T22:43:04Z</updated>
+    <summary>Attributes · idstring. Unique identifier for the object. · objectstring, value is "radar.early_fraud_warning" · actionableboolean. An EFW is actionable ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:3868782616282525844</id>
     <title>Pay machine-payment businesses - Stripe Documentation</title>

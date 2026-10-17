@@ -1482,6 +1482,12 @@
    "summary": "The Standalone 3DS API allows you to run EMV 3D Secure (3DS) authentication using Stripe while authorizing the payment with any PSP. Related guide: ...",
    "title": "3DS Authentications | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:13168888411314708221": {
+   "first_seen": "2026-10-17T22:43:04Z",
+   "link": "https://docs.stripe.com/api/radar/early_fraud_warnings/object?api-version=2026-09-30.preview",
+   "summary": "Attributes \u00b7 idstring. Unique identifier for the object. \u00b7 objectstring, value is \"radar.early_fraud_warning\" \u00b7 actionableboolean. An EFW is actionable ...",
+   "title": "The Early Fraud Warning object | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:13382659197936865007": {
    "first_seen": "2026-10-15T10:47:01Z",
    "link": "https://docs.stripe.com/api/v2/money-management/adjustments?api-version=2026-09-30.preview",
@@ -1566,6 +1572,18 @@
    "summary": "Understand extension lifecycle changes \u00b7 Deprecation scheduled: The extension remains available for new activations and activated extensions continue ...",
    "title": "Deprecate and archive extensions | Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:290258394636359139": {
+   "first_seen": "2026-10-17T22:43:04Z",
+   "link": "https://docs.stripe.com/js/react_stripe_js/checkout_form?type=affirmMessage",
+   "summary": "Setting up \u00b7 The Elements object \u00b7 The Element \u00b7 Embedded Checkout \u00b7 Checkout \u00b7 React Stripe.js \u00b7 Payment Intents \u00b7 Setup Intents.",
+   "title": "Using the embedded form provider - Stripe JS Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:3030721683110167856": {
+   "first_seen": "2026-10-17T22:43:04Z",
+   "link": "https://docs.stripe.com/api/cards?api-version=2026-09-30.preview",
+   "summary": "You can store multiple cards on a customer in order to charge the customer later. You can also store multiple debit cards on a recipient in order to ...",
+   "title": "Cards | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:3120035659458498931": {
    "first_seen": "2026-10-16T22:44:10Z",
    "link": "https://docs.stripe.com/js/react_stripe_js/elements/other/card_cvc_element?__hsfp=2833975420&__hssc=195197683.1.1662249600281&__hstc=195197683.0b939b89ab5ebd558205abc6212f6da3.1662249600278.1662249600279.1662249600280.1",
@@ -1631,6 +1649,12 @@
    "link": "https://docs.stripe.com/api/v2/money-management/adjustments/list?api-version=2026-09-30.preview",
    "summary": "Filter for objects created on or after the specified timestamp. Must be an RFC 3339 date & time value, for example: 2022-09-18T13:22:00Z.",
    "title": "List Adjustments | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:9362988663949533849": {
+   "first_seen": "2026-10-17T22:43:04Z",
+   "link": "https://docs.stripe.com/js/react_stripe_js/checkout_form/checkout_form?type=payment",
+   "summary": "Configuration for client-side features of the embedded form, such as amount summary expansion and promotion code collection. Hide features properties ...",
+   "title": "CheckoutForm - Stripe JS Reference"
   }
  },
  "taxcloud-blog": {
