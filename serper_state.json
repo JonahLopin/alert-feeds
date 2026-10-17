@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 8187,
+  "credits_used": 8233,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-17T00:25:29Z",
+  "last_run": "2026-10-17T01:35:04Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 167
+  "runs": 168
  },
  "feeds": {
   "adp-help": {},
@@ -250,6 +250,15 @@
     "page": 2,
     "summary": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value ... TypeSafe AI, the startup behind Jev, a new artificial intelligence model that went viral after it ...",
     "title": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value"
+   },
+   "news.bloomberglaw.com/business-and-practice/anthropic-pitches-ai-safety-bill-to-lawmakers-politico-says": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-17T01:35:04Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/anthropic-pitches-ai-safety-bill-to-lawmakers-politico-says",
+    "page": 1,
+    "summary": "According to Politico, the proposal suggests the government could block the release of an AI model if it's determined to imminently risk killing or injuring ...",
+    "title": "Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says"
    },
    "news.bloomberglaw.com/business-and-practice/anthropic-results-may-aid-ipo-but-not-ai-trade-analysts-say": {
     "baseline": false,
@@ -3271,6 +3280,15 @@
     "summary": "Learn how to get started with contract builder in QuickBooks Online \u2014 so your books stay accurate. A quick, simple walkthrough.",
     "title": "Get started with contract builder - QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/printers-printing/quickbooks-file-deliver-w-2s/L8zwjjzQf_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-17T01:35:04Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/printers-printing/quickbooks-file-deliver-w-2s/L8zwjjzQf_US_en_US",
+    "page": 1,
+    "summary": "The deadline to file is February 2. W-2s are available in the Payroll Tax Center starting January 10. You can view and print your W-2s starting January 1.",
+    "title": "Understand the timing for your W-2s - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/process-e-invoices/use-quickbooks-cash-account/L2dKdWFm9_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -5714,6 +5732,15 @@
     "page": 1,
     "summary": "Send money instantly between financial accounts on Stripe. The money transfers instantly. s Each instant transfer has a minimum and maximum amount",
     "title": "Instant transfers"
+   },
+   "docs.stripe.com/treasury/transfer": {
+    "baseline": false,
+    "date_hint": "11 hours ago",
+    "first_seen": "2026-10-17T01:35:04Z",
+    "link": "https://docs.stripe.com/treasury/transfer",
+    "page": 1,
+    "summary": "You can transfer funds from your financial account to your Stripe payments balance. This lets you use funds stored in your financial account to fund refunds, ...",
+    "title": "Transfer funds"
    }
   },
   "taxcloud-blog": {

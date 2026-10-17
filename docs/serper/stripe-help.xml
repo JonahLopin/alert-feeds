@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-16T22:09:06Z</updated>
+  <updated>2026-10-17T01:35:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/treasury/transfer</id>
+    <title>Transfer funds</title>
+    <link href="https://docs.stripe.com/treasury/transfer" />
+    <published>2026-10-17T01:35:04Z</published>
+    <updated>2026-10-17T01:35:04Z</updated>
+    <summary>You can transfer funds from your financial account to your Stripe payments balance. This lets you use funds stored in your financial account to fund refunds, ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/risk?locale=ja-JP</id>
     <title>リスク | Stripe ドキュメント</title>

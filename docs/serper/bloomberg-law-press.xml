@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-17T00:25:29Z</updated>
+  <updated>2026-10-17T01:35:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/anthropic-pitches-ai-safety-bill-to-lawmakers-politico-says</id>
+    <title>Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/anthropic-pitches-ai-safety-bill-to-lawmakers-politico-says" />
+    <published>2026-10-17T01:35:04Z</published>
+    <updated>2026-10-17T01:35:04Z</updated>
+    <summary>According to Politico, the proposal suggests the government could block the release of an AI model if it's determined to imminently risk killing or injuring ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/new-mexico-appeals-preliminary-injunction-on-pfas-label-mandate</id>
     <title>New Mexico Appeals Preliminary Injunction on PFAS Label ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-14T11:10:09Z</published>
     <updated>2026-10-14T11:10:09Z</updated>
     <summary>The world's top financial stability watchdog urged global policymakers to address inefficiencies in their banking regulations and focus on material issues, ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/diesel-supplies-to-remain-constrained-well-into-2027-iea-warns</id>
-    <title>Diesel Supplies to Remain Constrained Well Into 2027, IEA ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/diesel-supplies-to-remain-constrained-well-into-2027-iea-warns" />
-    <published>2026-10-14T11:10:09Z</published>
-    <updated>2026-10-14T11:10:09Z</updated>
-    <summary>Global supplies of diesel and other fuels will remain under pressure next year as a result of conflicts in the Middle East and Russia, despite a weaker ...</summary>
   </entry>
 </feed>
