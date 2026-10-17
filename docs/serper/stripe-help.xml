@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-17T14:08:31Z</updated>
+  <updated>2026-10-17T15:08:30Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/terminal/features/apps-on-devices/changelog?locale=ja-JP</id>
+    <title>Apps on Devices API の変更ログ</title>
+    <link href="https://docs.stripe.com/terminal/features/apps-on-devices/changelog?locale=ja-JP" />
+    <published>2026-10-17T15:08:30Z</published>
+    <updated>2026-10-17T15:08:30Z</updated>
+    <summary>Apps on Devices API は現在プライベートプレビュー段階です。アクセス権の取得をご希望の場合は、Stripe サポートに連絡して利用資格をご確認ください。</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payments/save-and-reuse?platform=web&amp;ui=elements&amp;payment-ui=elements</id>
     <title>Save a customer's payment method without making a</title>

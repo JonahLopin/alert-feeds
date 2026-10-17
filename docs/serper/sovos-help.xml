@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-17T00:25:29Z</updated>
+  <updated>2026-10-17T15:08:30Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/1099-reporting/tincheck/manage-your-account/manage-your-profile-settings</id>
+    <title>Manage your profile settings - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/1099-reporting/tincheck/manage-your-account/manage-your-profile-settings" />
+    <published>2026-10-17T15:08:30Z</published>
+    <updated>2026-10-17T15:08:30Z</updated>
+    <summary>You can manage your personal information and customize your Sovos experience by setting personal preferences that apply across supported products on the Sovos ...</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/fix-xml-schema-validation-errors</id>
     <title>Fix XML schema validation errors - Sovos Docs</title>

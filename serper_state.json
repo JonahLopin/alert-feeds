@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 8790,
+  "credits_used": 8838,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-17T14:08:31Z",
+  "last_run": "2026-10-17T15:08:30Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 180
+  "runs": 181
  },
  "feeds": {
   "adp-help": {},
@@ -2302,6 +2302,15 @@
     "link": "https://www.chowbus.com/blog/custom-gift-cards-for-business",
     "summary": "A business record, not just a receipt. Companies buying gift cards for employee recognition or client gifts often need documentation for expense reporting or ...",
     "title": "Custom Gift Cards for Business: How Restaurants Turn ..."
+   },
+   "chowbus.com/blog/direct-delivery-integration-vs-tablet-juggling": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-17T15:08:30Z",
+    "link": "https://www.chowbus.com/blog/direct-delivery-integration-vs-tablet-juggling",
+    "page": 1,
+    "summary": "A direct delivery integration removes the manual translation step entirely. The order comes time savings are real, but the more important change is what ...",
+    "title": "Direct Delivery Integration vs. Tablet Juggling"
    },
    "chowbus.com/blog/how-restaurants-prevent-order-errors-during-the-friday-night-rush": {
     "baseline": true,
@@ -5094,6 +5103,15 @@
     "summary": "Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.",
     "title": "Fix XML schema validation errors - Sovos Docs"
    },
+   "docs.sovos.com/en/1099-reporting/tincheck/manage-your-account/manage-your-profile-settings": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-17T15:08:30Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tincheck/manage-your-account/manage-your-profile-settings",
+    "page": 1,
+    "summary": "You can manage your personal information and customize your Sovos experience by setting personal preferences that apply across supported products on the Sovos ...",
+    "title": "Manage your profile settings - Sovos Docs"
+   },
    "docs.sovos.com/en/filing/sales-tax-filing-services/upload-data/troubleshooting": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -5840,6 +5858,15 @@
     "page": 1,
     "summary": "The Apps on Devices API is currently in private preview. If you're interested in gaining access, contact Stripe Support to assess your eligibility.",
     "title": "Apps on Devices API changelog"
+   },
+   "docs.stripe.com/terminal/features/apps-on-devices/changelog?locale=ja-JP": {
+    "baseline": false,
+    "date_hint": "19 hours ago",
+    "first_seen": "2026-10-17T15:08:30Z",
+    "link": "https://docs.stripe.com/terminal/features/apps-on-devices/changelog?locale=ja-JP",
+    "page": 1,
+    "summary": "Apps on Devices API \u306f\u73fe\u5728\u30d7\u30e9\u30a4\u30d9\u30fc\u30c8\u30d7\u30ec\u30d3\u30e5\u30fc\u6bb5\u968e\u3067\u3059\u3002\u30a2\u30af\u30bb\u30b9\u6a29\u306e\u53d6\u5f97\u3092\u3054\u5e0c\u671b\u306e\u5834\u5408\u306f\u3001Stripe \u30b5\u30dd\u30fc\u30c8\u306b\u9023\u7d61\u3057\u3066\u5229\u7528\u8cc7\u683c\u3092\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002",
+    "title": "Apps on Devices API \u306e\u5909\u66f4\u30ed\u30b0"
    },
    "docs.stripe.com/treasury/send/instant-transfers": {
     "baseline": false,
