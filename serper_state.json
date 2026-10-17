@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 8371,
+  "credits_used": 8417,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-17T04:32:00Z",
+  "last_run": "2026-10-17T05:28:55Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 171
+  "runs": 172
  },
  "feeds": {
   "adp-help": {},
@@ -4556,6 +4556,15 @@
     "page": 1,
     "summary": "What is Checkout? Checkout is a suite of online payment integration options. It gives merchants two ways to accept card payments: a fully hosted checkout page ...",
     "title": "Checkout FAQs"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/55210536429843-Configure-Modifier-Pricing-in-Multi-Location-Management": {
+    "baseline": false,
+    "date_hint": "13 hours ago",
+    "first_seen": "2026-10-17T05:28:55Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/55210536429843-Configure-Modifier-Pricing-in-Multi-Location-Management",
+    "page": 1,
+    "summary": "Description: Learn how Modifier pricing works in Location Management \u2014 including the Modifier default price, Modifier Set price, and per-Modifier overrides ...",
+    "title": "Configure Modifier Pricing in Location Management"
    },
    "shift4.zendesk.com/hc/en-us/articles/55755994133523-Process-AppLab-Loyalty-Transactions-in-Shift4-Dine": {
     "baseline": true,
