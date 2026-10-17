@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-17T15:09:33Z</updated>
+  <updated>2026-10-17T16:44:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:1428486260878989443</id>
+    <title>Matt Levine's Money Stuff: Private Markets Are the New AI Market - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/matt-levines-money-stuff-private-markets-are-the-new-ai-market" />
+    <published>2026-10-17T16:44:05Z</published>
+    <updated>2026-10-17T16:44:05Z</updated>
+    <summary>Ten years ago I might have told a story like this. There are a bunch of companies in the world. As the economy grows, their profits will grow.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8106971518626817867</id>
     <title>DOJ Official Requests New Judge in Golf Course Case After Rebuke</title>
@@ -795,13 +803,5 @@
     <published>2026-10-10T12:16:12Z</published>
     <updated>2026-10-10T12:16:12Z</updated>
     <summary>The US Justice Department is scrutinizing whether Binance Holdings Ltd. breached a landmark settlement with the US government, as authorities ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:7523004687998357865</id>
-    <title>Financial Services Chairman's Race Downgraded to 'Likely GOP' - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/financial-services-chairmans-race-downgraded-to-likely-gop" />
-    <published>2026-10-10T12:16:12Z</published>
-    <updated>2026-10-10T12:16:12Z</updated>
-    <summary>Democrats' chance of flipping Arkansas's 2nd District is widening with less than 30 days until the election, according to a new forecast from the ...</summary>
   </entry>
 </feed>
