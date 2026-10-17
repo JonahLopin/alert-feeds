@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 8463,
+  "credits_used": 8510,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-17T06:42:26Z",
+  "last_run": "2026-10-17T07:44:42Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 173
+  "runs": 174
  },
  "feeds": {
   "adp-help": {},
@@ -2852,6 +2852,15 @@
     "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/currency/learn-exchange-rates-quickbooks-online/L97rmEAdR_US_en_US",
     "summary": "Note: QuickBooks downloads and uses exchange rates from IHS Markit. If you need to, you can enter and use your own rates. How QuickBooks uses exchange ...",
     "title": "Learn about exchange rates - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/custom-templates/create-chart-accounts-templates-intuit-accountant-suite/L9XHR06i4_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-17T07:44:42Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/custom-templates/create-chart-accounts-templates-intuit-accountant-suite/L9XHR06i4_US_en_US",
+    "page": 2,
+    "summary": "Accountants and bookkeepers can use templates to set up a chart of accounts for new or existing clients in minutes. Templates give each client a standard ...",
+    "title": "How to create chart of accounts templates in Intuit Accountant ..."
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/direct-deposits/set-manage-direct-deposit-contractors/L63N4nBv9_US_en_US": {
     "baseline": false,
