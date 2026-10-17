@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-17T15:08:30Z</updated>
+  <updated>2026-10-17T23:07:30Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/billing/subscriptions/manage-fraud?locale=fr-FR</id>
+    <title>Réduire les risques de fraude et de non-paiement liés aux ...</title>
+    <link href="https://docs.stripe.com/billing/subscriptions/manage-fraud?locale=fr-FR" />
+    <published>2026-10-17T23:07:30Z</published>
+    <updated>2026-10-17T23:07:30Z</updated>
+    <summary>Réduire les risques de fraude et de non-paiement liés aux abonnements. Configurez les mises à jour d'abonnement, les crédits, le recouvrement des paiements ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/terminal/features/apps-on-devices/changelog?locale=ja-JP</id>
     <title>Apps on Devices API の変更ログ</title>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 9165,
+  "credits_used": 9211,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-17T22:08:30Z",
+  "last_run": "2026-10-17T23:07:30Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 188
+  "runs": 189
  },
  "feeds": {
   "adp-help": {},
@@ -2951,6 +2951,15 @@
     "page": 5,
     "summary": "If your employees use the company car for personal reasons, it's called Personal Use of a Company Car (PUCC). PUCC is a non cash fringe benefit that counts ...",
     "title": "Set up and record Personal Use of a Company Car (PUCC)"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-k/fix-invalid-taxpayer-information/L5s6UsXkj_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-17T23:07:30Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-k/fix-invalid-taxpayer-information/L5s6UsXkj_US_en_US",
+    "page": 2,
+    "summary": "Hit a snag? Here's how to fix Invalid Taxpayer Information \u2014 without the guesswork. Clear the blocker for good.",
+    "title": "Fix Invalid Taxpayer Information - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-nec/correct-change-1099s-quickbooks/L1Wd3BRXb_US_en_US": {
     "baseline": false,
@@ -5803,6 +5812,15 @@
     "page": 1,
     "summary": "Configure subscription updates, credits, payment recovery, and access controls to reduce fraud and nonpayment risk.",
     "title": "Reduce subscription fraud and nonpayment risk"
+   },
+   "docs.stripe.com/billing/subscriptions/manage-fraud?locale=fr-FR": {
+    "baseline": false,
+    "date_hint": "13 hours ago",
+    "first_seen": "2026-10-17T23:07:30Z",
+    "link": "https://docs.stripe.com/billing/subscriptions/manage-fraud?locale=fr-FR",
+    "page": 1,
+    "summary": "R\u00e9duire les risques de fraude et de non-paiement li\u00e9s aux abonnements. Configurez les mises \u00e0 jour d'abonnement, les cr\u00e9dits, le recouvrement des paiements ...",
+    "title": "R\u00e9duire les risques de fraude et de non-paiement li\u00e9s aux ..."
    },
    "docs.stripe.com/data/write-queries": {
     "baseline": true,
