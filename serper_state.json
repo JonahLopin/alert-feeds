@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 8649,
+  "credits_used": 8696,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-17T10:42:55Z",
+  "last_run": "2026-10-17T11:42:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 177
+  "runs": 178
  },
  "feeds": {
   "adp-help": {},
@@ -3104,6 +3104,15 @@
     "page": 2,
     "summary": "To continue using your mobile Workforce app with all the latest features and fixes, it's important to keep it and your device's operating system up to date.",
     "title": "Verify system requirements for compatibility with the mobile ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/money-movement/fix-rejected-ach-payments-fees-quickbooks-payments/L4e8UkDSc_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-17T11:42:43Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/money-movement/fix-rejected-ach-payments-fees-quickbooks-payments/L4e8UkDSc_US_en_US",
+    "page": 2,
+    "summary": "Searching incorrect dfi account number? Follow this quick guide in QuickBooks Payments \u2014 so everything reconciles cleanly. Easier than you'd expect.",
+    "title": "Fix rejected ACH payments and Bill Pay returns - QuickBooks"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/multi-factor-authentication/download-recent-bank-credit-card-transactions/L86TTVI3Y_US_en_US": {
     "baseline": true,
