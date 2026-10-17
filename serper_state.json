@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 9074,
+  "credits_used": 9120,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-17T20:09:21Z",
+  "last_run": "2026-10-17T21:08:16Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 186
+  "runs": 187
  },
  "feeds": {
   "adp-help": {},
@@ -4893,6 +4893,15 @@
     "page": 1,
     "summary": "Imgur is an image hosting and sharing community where users upload images, including memes andGIFs. It's popular with Reddit users, but brands and marketers ...",
     "title": "8 Best Image Hosting Sites and How To Choose One (2026)"
+   },
+   "shopify.com/blog/make-money-podcasting": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-17T21:08:16Z",
+    "link": "https://www.shopify.com/blog/make-money-podcasting",
+    "page": 1,
+    "summary": "Learn how to make money podcasting, using sponsorships, affiliate marketing, subscriptions, and other channels. Plus expert podcast monetization tips.",
+    "title": "How To Make Money Podcasting: Methods + Expert Tips"
    },
    "shopify.com/blog/make-money-with-pay-per-click": {
     "baseline": false,
