@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-17T01:35:04Z</updated>
+  <updated>2026-10-17T04:32:00Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/court-denies-bid-to-end-susman-aba-representation-in-trump-suit</id>
+    <title>Court Denies Bid to End Susman ABA Representation in ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/court-denies-bid-to-end-susman-aba-representation-in-trump-suit" />
+    <published>2026-10-17T04:32:00Z</published>
+    <updated>2026-10-17T04:32:00Z</updated>
+    <summary>A federal judge on Friday rejected a Justice Department bid to disqualify Susman Godfrey from representing the American Bar Association in a lawsuit that ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/anthropic-pitches-ai-safety-bill-to-lawmakers-politico-says</id>
     <title>Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says</title>
@@ -795,13 +803,5 @@
     <published>2026-10-14T11:10:09Z</published>
     <updated>2026-10-14T11:10:09Z</updated>
     <summary>A federal judge said journalists with CNN, MS NOW and Politico can continue to have access to the White House while their lawsuit against the Trump ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/fsb-moves-to-align-on-bank-rules-as-regulators-weigh-rollback</id>
-    <title>FSB Moves to Align on Bank Rules as Regulators Weigh ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/fsb-moves-to-align-on-bank-rules-as-regulators-weigh-rollback" />
-    <published>2026-10-14T11:10:09Z</published>
-    <updated>2026-10-14T11:10:09Z</updated>
-    <summary>The world's top financial stability watchdog urged global policymakers to address inefficiencies in their banking regulations and focus on material issues, ...</summary>
   </entry>
 </feed>

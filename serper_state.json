@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 8325,
+  "credits_used": 8371,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-17T03:33:11Z",
+  "last_run": "2026-10-17T04:32:00Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 170
+  "runs": 171
  },
  "feeds": {
   "adp-help": {},
@@ -572,6 +572,15 @@
     "page": 2,
     "summary": "The president's March 2026 executive order restricting diversity, equity, and inclusion programs isn't likely to violate federal contractors' First Amendment ...",
     "title": "Court Allows Trump's Latest Anti-DEI Federal Contracting ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/court-denies-bid-to-end-susman-aba-representation-in-trump-suit": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-17T04:32:00Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/court-denies-bid-to-end-susman-aba-representation-in-trump-suit",
+    "page": 3,
+    "summary": "A federal judge on Friday rejected a Justice Department bid to disqualify Susman Godfrey from representing the American Bar Association in a lawsuit that ...",
+    "title": "Court Denies Bid to End Susman ABA Representation in ..."
    },
    "news.bloomberglaw.com/business-and-practice/cravath-europe-counsel-bruno-jumps-to-paul-hastings-in-london": {
     "baseline": false,
@@ -3394,6 +3403,15 @@
     "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/update-products/error-15222/L5eWIDaBC_US_en_US",
     "summary": "Running into trouble? Here's how to fix error message 15XXX when downloading payroll updates in QuickBooks Workforce. Get unstuck in minutes.",
     "title": "Fix error message 15XXX when downloading payroll updates ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/update-products/understand-quickbooks-desktop-release-process/L2tnnGnFE_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-17T04:32:00Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/update-products/understand-quickbooks-desktop-release-process/L2tnnGnFE_US_en_US",
+    "page": 1,
+    "summary": "You can manage your accounting, pay your team, track time, and offer employee benefits all in one connected platform:",
+    "title": "Understand the QuickBooks Desktop release process - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/vendor-list/add-vendor-foreign-currency-quickbooks-online/L2vFi09Uh_US_en_US": {
     "baseline": true,

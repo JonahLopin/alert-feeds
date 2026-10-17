@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:square-help</id>
   <title>Square help (site:squareup.com/help/us/en/article/)</title>
-  <updated>2026-10-15T05:31:12Z</updated>
+  <updated>2026-10-17T04:32:59Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/square-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:862598306934215970</id>
+    <title>Set up menus for Square Kiosk</title>
+    <link href="https://squareup.com/help/us/en/article/8684-set-up-menus-for-square-kiosk" />
+    <published>2026-10-17T04:32:59Z</published>
+    <updated>2026-10-17T04:32:59Z</updated>
+    <summary>Square Kiosk displays your menu to buyers on both the device touchscreen and through voice ordering. Buyers can browse items, .</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:2286153142107252618</id>
+    <title>Set up checkout settings on Square Kiosk</title>
+    <link href="https://squareup.com/help/us/en/article/8688-set-up-checkout-and-notifications-on-square-kiosk" />
+    <published>2026-10-17T04:32:59Z</published>
+    <updated>2026-10-17T04:32:59Z</updated>
+    <summary>Square Kiosk supports voice confirmation, audio notifications, and presence-aware checkout functionality. Square Dashboard kiosk mode settings showing ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:9241825211804239022</id>
     <title>Manage your Square organization and permissions for Square Multi-Account Suite</title>
