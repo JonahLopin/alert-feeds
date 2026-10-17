@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 8838,
+  "credits_used": 8884,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-17T15:08:30Z",
+  "last_run": "2026-10-17T16:09:42Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 181
+  "runs": 182
  },
  "feeds": {
   "adp-help": {},
@@ -546,6 +546,15 @@
     "summary": "CoreWeave Inc.'s credit risk climbed to an all-time high Thursday as its high-yield bonds extended declines, rattled by the AI cloud-computing company's ...",
     "title": "CoreWeave Risk Gauge Hits Record, Pricing 60% Odds of ..."
    },
+   "news.bloomberglaw.com/business-and-practice/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-17T16:09:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly",
+    "page": 2,
+    "summary": "Junk bond buyers are increasingly freezing out tech startups looking for financing, as CoreWeave Inc.'s pain raises bigger questions about how artificial ...",
+    "title": "CoreWeave Woes Risk Shutting Down AI Junk Market"
+   },
    "news.bloomberglaw.com/business-and-practice/coreweaves-brazen-dream-crashes-into-reality-as-yields-top-15": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -760,6 +769,15 @@
     "page": 4,
     "summary": "Los Angeles' top federal prosecutor Bill Essayli is likely to be disqualified from his position leading the Central District of California's US attorneys' ...",
     "title": "DOJ Effort to Save Essayli from Removal Fails to Impress ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/doj-official-requests-new-judge-in-golf-course-case-after-rebuke": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-17T16:09:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-official-requests-new-judge-in-golf-course-case-after-rebuke",
+    "page": 2,
+    "summary": "A top Justice Department official moved to disqualify a federal judge from a legal challenge to President Donald Trump's changes to a Washington golf course ...",
+    "title": "DOJ Official Requests New Judge in Golf Course Case ..."
    },
    "news.bloomberglaw.com/business-and-practice/doj-re-charges-wiretap-offenses-in-leaked-kanye-west-tape-case": {
     "baseline": false,
@@ -3405,6 +3423,15 @@
     "page": 1,
     "summary": "Learn about the different key performance indicators (KPIs) available in the KPI Scorecard. You can use the KPI Scorecard with a QuickBooks Online Essentials, ...",
     "title": "KPI Scorecard glossary - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/revenue/view-key-performance-indicators-business/L26L6M0ki_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-17T16:09:42Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/revenue/view-key-performance-indicators-business/L26L6M0ki_US_en_US",
+    "page": 1,
+    "summary": "Use this feature to monitor real-time data, identify trends, and track progress against goals to make informed business decisions.",
+    "title": "View key performance indicators for your business - QuickBooks"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/t4-slips/view-paychecks-w-2s-quickbooks-workforce/L3TCwUJtD_US_en_US": {
     "baseline": true,
