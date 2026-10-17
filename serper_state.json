@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 8510,
+  "credits_used": 8556,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-17T07:44:42Z",
+  "last_run": "2026-10-17T08:46:16Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 174
+  "runs": 175
  },
  "feeds": {
   "adp-help": {},
@@ -5886,6 +5886,15 @@
     "link": "https://tax.thomsonreuters.com/blog/why-cheap-ai-for-tax-work-costs-more-than-you-think/",
     "summary": "Free AI can create costly rework when tax research must be manually verified. Unverified AI results may increase compliance and liability risks for firms.",
     "title": "Why cheap AI for tax work costs more than you think"
+   },
+   "tax.thomsonreuters.com/blog/why-pay-for-a-tax-research-tool": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-17T08:46:16Z",
+    "link": "https://tax.thomsonreuters.com/blog/why-pay-for-a-tax-research-tool/",
+    "page": 1,
+    "summary": "Is an AI tax research platform worth the investment? Explore how connected tools and trusted content can deliver value beyond point solutions.",
+    "title": "Why pay for an AI-enabled tax research tool?"
    },
    "tax.thomsonreuters.com/blog/why-tax-teams-cant-scale-without-better-data-visibility": {
     "baseline": true,
