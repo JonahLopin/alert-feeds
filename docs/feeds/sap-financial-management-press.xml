@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com)</title>
-  <updated>2026-10-16T17:45:56Z</updated>
+  <updated>2026-10-18T06:15:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sap-financial-management-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:11194426642916430007</id>
+    <title>https://news.sap.com/wp-admin/*</title>
+    <link href="https://news.sap.com/wp-admin/*" />
+    <published>2026-10-18T06:15:49Z</published>
+    <updated>2026-10-18T06:15:49Z</updated>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:6089451427635093370</id>
     <title>The Next Leap in Public Services Starts Behind the Scenes - SAP News Center</title>
