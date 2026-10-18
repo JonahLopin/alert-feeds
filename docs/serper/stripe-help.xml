@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-18T01:38:31Z</updated>
+  <updated>2026-10-18T03:34:47Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/use-stripe-apps/netsuite/setup/stripe-initiated-payments</id>
+    <title>Set up Stripe-initiated payments workflows</title>
+    <link href="https://docs.stripe.com/use-stripe-apps/netsuite/setup/stripe-initiated-payments" />
+    <published>2026-10-18T03:34:47Z</published>
+    <updated>2026-10-18T03:34:47Z</updated>
+    <summary>Stripe Connector for NetSuite (SCN) lets you synchronize Charges from any native Stripe account to NetSuite with a variety of workflows.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/js/react_stripe_js/checkout_form/checkout_form?type=payment</id>
+    <title>CheckoutForm</title>
+    <link href="https://docs.stripe.com/js/react_stripe_js/checkout_form/checkout_form?type=payment" />
+    <published>2026-10-18T03:34:47Z</published>
+    <updated>2026-10-18T03:34:47Z</updated>
+    <summary>Use the CheckoutForm from @stripe/react-stripe-js/checkout to render the embedded form; a single form that handles payment, address, and other elements. The ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payouts?country=BA&amp;locale=zh-CN</id>
     <title>接收提现款项</title>

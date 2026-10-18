@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 9351,
+  "credits_used": 9397,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-18T02:37:33Z",
+  "last_run": "2026-10-18T03:34:47Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 192
+  "runs": 193
  },
  "feeds": {
   "adp-help": {},
@@ -4692,6 +4692,15 @@
     "summary": "Learn how to look up Paytronix loyalty members, attach members to orders, enroll new members, apply rewards, and process refunds and voids in Shift4 Dine.",
     "title": "Process Paytronix Loyalty Transactions in Shift4 Dine"
    },
+   "shift4.zendesk.com/hc/en-us/articles/53574813979027-Future-Orders-Overview": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-18T03:34:47Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/53574813979027-Future-Orders-Overview",
+    "page": 1,
+    "summary": "A Future Order is an order scheduled for fulfillment at a later time instead of immediately. For example, a catering order for tomorrow or a large pickup order",
+    "title": "Future Orders Overview"
+   },
    "shift4.zendesk.com/hc/en-us/articles/54523989258387-Shift4-Checkout-FAQs": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -5897,6 +5906,15 @@
     "summary": "The layout of the embedded form. The 'expanded' layout is a single-step embedded form, while the 'compact' layout is a multi-step embedded form.",
     "title": "Embedded form methods"
    },
+   "docs.stripe.com/js/react_stripe_js/checkout_form/checkout_form?type=payment": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-10-18T03:34:47Z",
+    "link": "https://docs.stripe.com/js/react_stripe_js/checkout_form/checkout_form?type=payment",
+    "page": 2,
+    "summary": "Use the CheckoutForm from @stripe/react-stripe-js/checkout to render the embedded form; a single form that handles payment, address, and other elements. The ...",
+    "title": "CheckoutForm"
+   },
    "docs.stripe.com/js/react_stripe_js/elements/other/card_cvc_element?__hsfp=2833975420&__hssc=195197683.1.1662249600281&__hstc=195197683.0b939b89ab5ebd558205abc6212f6da3.1662249600278.1662249600279.1662249600280.1": {
     "baseline": false,
     "date_hint": "7 days ago",
@@ -6020,6 +6038,15 @@
     "page": 1,
     "summary": "You can transfer funds from your financial account to your Stripe payments balance. This lets you use funds stored in your financial account to fund refunds, ...",
     "title": "Transfer funds"
+   },
+   "docs.stripe.com/use-stripe-apps/netsuite/setup/stripe-initiated-payments": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-18T03:34:47Z",
+    "link": "https://docs.stripe.com/use-stripe-apps/netsuite/setup/stripe-initiated-payments",
+    "page": 1,
+    "summary": "Stripe Connector for NetSuite (SCN) lets you synchronize Charges from any native Stripe account to NetSuite with a variety of workflows.",
+    "title": "Set up Stripe-initiated payments workflows"
    }
   },
   "taxcloud-blog": {
