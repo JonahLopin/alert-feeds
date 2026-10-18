@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 10145,
+  "credits_used": 10193,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-18T20:09:00Z",
+  "last_run": "2026-10-18T21:08:02Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 209
+  "runs": 210
  },
  "feeds": {
   "adp-help": {},
@@ -2952,6 +2952,15 @@
     "summary": "With Intuit QuickBooks Workforce, QuickBooks handles your payroll taxes and filings for you. Prerequisites. Before QuickBooks can e-pay or e-file your payroll ...",
     "title": "Pay and file payroll taxes and forms electronically in ..."
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/electronic-tax-filing/fix-missing-contractors-wrong-amounts-1099s/L0MspaDKN_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-18T21:08:02Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/electronic-tax-filing/fix-missing-contractors-wrong-amounts-1099s/L0MspaDKN_US_en_US",
+    "page": 3,
+    "summary": "If one of the contractors you set up in QuickBooks is missing or not showing correctly when you create your 1099s, we can help. Follow these steps and ...",
+    "title": "Troubleshoot missing contractors or wrong amounts on 1099s"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/employee-management/get-answers-common-questions-quickbooks-workforce/L4eJ2QD8K_US_en_US": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -3005,6 +3014,15 @@
     "page": 1,
     "summary": "After you file your 1099-MISC or 1099-NEC forms, and they have been accepted by the IRS, if you need to correct an error or filing follow the below steps.",
     "title": "Correct or change 1099s - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-nec/create-file-1099s-using-intuit-online-payroll/L2eoSAwBl_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-18T21:08:02Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-nec/create-file-1099s-using-intuit-online-payroll/L2eoSAwBl_US_en_US",
+    "page": 3,
+    "summary": "Step-by-step: create and file 1099s in QuickBooks Online Payroll \u2014 so everything reconciles cleanly. Easier than you'd expect.",
+    "title": "Create and file 1099s with QuickBooks Contractor Payments"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-nec/create-file-1099s-using-quickbooks-online/L2BapEpb1_US_en_US": {
     "baseline": false,
@@ -4374,6 +4392,15 @@
     "page": 1,
     "summary": "Press Releases & Newsbytes \u00b7 Press Resources. Choose your Region. Americas \">. Asia Pacific \">. Europe \">. Middle East and Africa \">. Choose your Region.",
     "title": "no-111 - SAP MENA Press Room"
+   },
+   "news.sap.com/mena/2026/10/business-ai-takes-center-stage-as-saudi-organizations-advancehr-transformation-at-sap-hr-connect-ksa-2026/no-262": {
+    "baseline": false,
+    "date_hint": "14 hours ago",
+    "first_seen": "2026-10-18T21:08:02Z",
+    "link": "https://news.sap.com/mena/2026/10/business-ai-takes-center-stage-as-saudi-organizations-advancehr-transformation-at-sap-hr-connect-ksa-2026/no-262/",
+    "page": 1,
+    "summary": "Press Releases & Newsbytes \u00b7 Press Resources. Choose your Region. Americas \">. Asia Pacific \">. Europe \">. Middle East and Africa \">. Choose your Region.",
+    "title": "no-262 - SAP MENA Press Room"
    },
    "news.sap.com/mena/2026/10/business-ai-takes-center-stage-as-saudi-organizations-advancehr-transformation-at-sap-hr-connect-ksa-2026/no-265": {
     "baseline": false,
