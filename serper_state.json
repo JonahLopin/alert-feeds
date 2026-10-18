@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 9816,
+  "credits_used": 9863,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-18T12:49:38Z",
+  "last_run": "2026-10-18T14:08:36Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 202
+  "runs": 203
  },
  "feeds": {
   "adp-help": {},
@@ -4321,6 +4321,15 @@
     "summary": "Con SAP GROW, Bold encontr\u00f3 una plataforma que le permite integrar diferentes procesos y funcionalidades, en lugar de abordarlos como soluciones aisladas. Para ...",
     "title": "Bold simplifica sus operaciones con SAP GROW para ..."
    },
+   "news.sap.com/mena/2026/10/business-ai-takes-center-stage-as-saudi-organizations-advancehr-transformation-at-sap-hr-connect-ksa-2026/no-111-2": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-18T14:08:36Z",
+    "link": "https://news.sap.com/mena/2026/10/business-ai-takes-center-stage-as-saudi-organizations-advancehr-transformation-at-sap-hr-connect-ksa-2026/no-111-2/",
+    "page": 1,
+    "summary": "Press Releases & Newsbytes \u00b7 Press Resources. Choose your Region. Americas \">. Asia Pacific \">. Europe \">. Middle East and Africa \">. Choose your Region.",
+    "title": "no-111 - SAP MENA Press Room"
+   },
    "news.sap.com/mena/2026/10/business-ai-takes-center-stage-as-saudi-organizations-advancehr-transformation-at-sap-hr-connect-ksa-2026/no-265": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -4382,6 +4391,15 @@
     "page": 2,
     "summary": "Een cameraman die in een studio van de RTBF werkt, heeft misschien vaardigheden die ook bij een heel andere functie passen, zonder dat hij dat per se weet.",
     "title": "Hoe de RTBF haar medewerkers en medewerksters helpt ..."
+   },
+   "news.sap.com/netherlands/2026/10/hoe-de-rtbf-haar-medewerkers-en-medewerksters-helpt-om-nieuwe-carrieremogelijkheden-te-ontdekken/cameraman-records-show-in-a-tv-studio": {
+    "baseline": false,
+    "date_hint": "13 hours ago",
+    "first_seen": "2026-10-18T14:08:36Z",
+    "link": "https://news.sap.com/netherlands/2026/10/hoe-de-rtbf-haar-medewerkers-en-medewerksters-helpt-om-nieuwe-carrieremogelijkheden-te-ontdekken/cameraman-records-show-in-a-tv-studio/",
+    "page": 1,
+    "summary": "Cameraman records show in a TV Studio. SAP. Nederland 0800 020 0009. Voor technische support zijn we bereikbaar op 0800 0220683.",
+    "title": "Cameraman records show in a TV Studio"
    },
    "news.sap.com/netherlands/2026/10/hoe-de-rtbf-haar-medewerkers-en-medewerksters-helpt-om-nieuwe-carrieremogelijkheden-te-ontdekken?amp=1": {
     "baseline": false,
@@ -5355,6 +5373,15 @@
     "summary": "You can manage your personal information and customize your Sovos experience by setting personal preferences that apply across supported products on the Sovos ...",
     "title": "Manage your profile settings - Sovos Docs"
    },
+   "docs.sovos.com/en/1099-reporting/tincheck/manage-your-account/request-a-free-api-test-account": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-18T14:08:36Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tincheck/manage-your-account/request-a-free-api-test-account",
+    "page": 1,
+    "summary": "If you are interested in trying out TINCheck's SOAP or REST API, you can request a test account loaded with a set number of free checks.",
+    "title": "Request a free API test account - TINCheck - Sovos Docs"
+   },
    "docs.sovos.com/en/filing/sales-tax-filing-services/upload-data/troubleshooting": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -6198,6 +6225,15 @@
   "taxcloud-help": {},
   "taxjar-help": {},
   "thomson-reuters-tax-blog": {
+   "tax.thomsonreuters.com/blog/ai-glossary-for-audit-professionals-ai-terms-every-auditor-should-know": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-18T14:08:36Z",
+    "link": "https://tax.thomsonreuters.com/blog/ai-glossary-for-audit-professionals-ai-terms-every-auditor-should-know/",
+    "page": 1,
+    "summary": "AI glossary for audit professionals: AI terms every auditor should know \u00b7 Knowing AI terminology helps auditors evaluate, explain, and trust AI-assisted work.",
+    "title": "AI glossary for auditors"
+   },
    "tax.thomsonreuters.com/blog/bis-50-rule-trade-compliance-guide": {
     "baseline": true,
     "date_hint": "20 hours ago",

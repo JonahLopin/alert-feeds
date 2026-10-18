@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-18T11:43:01Z</updated>
+  <updated>2026-10-18T14:08:36Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/1099-reporting/tincheck/manage-your-account/request-a-free-api-test-account</id>
+    <title>Request a free API test account - TINCheck - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/1099-reporting/tincheck/manage-your-account/request-a-free-api-test-account" />
+    <published>2026-10-18T14:08:36Z</published>
+    <updated>2026-10-18T14:08:36Z</updated>
+    <summary>If you are interested in trying out TINCheck's SOAP or REST API, you can request a test account loaded with a set number of free checks.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/log-in</id>
     <title>Log in | Product Documentation Documentation - Sovos Docs</title>
