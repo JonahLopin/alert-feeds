@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 9304,
+  "credits_used": 9351,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-18T01:38:31Z",
+  "last_run": "2026-10-18T02:37:33Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 191
+  "runs": 192
  },
  "feeds": {
   "adp-help": {},
@@ -4495,6 +4495,15 @@
     "summary": "SAP \u5e33\u55ae\u667a\u6167\u52a9\u7406\uff08Billing Assistant\uff09\u70ba\u9019\u4e00\u95dc\u9375\u6d41\u7a0b\u6ce8\u5165\u66f4\u5f37\u7684\u667a\u6167\u80fd\u529b\uff0c\u5354\u52a9\u66f4\u65e9\u8b58\u5225\u6f5b\u5728\u554f\u984c\uff0c\u5e6b\u52a9\u54e1\u5de5\u70ba\u5ba2\u6236\u5e36\u4f86\u66f4\u597d\u7684\u6210\u679c\uff0c\u4e26\u5efa\u7acb\u66f4\u7262\u56fa\u7684\u5ba2\u6236\u95dc\u4fc2\u3002\u5728Billing ...",
     "title": "SAP \u63a8\u52d5\u300c\u81ea\u4e3b\u71df\u904b\u4f01\u696d\u300d\u9858\u666f\u843d\u5730- SAP Taiwan \u65b0\u805e\u4e2d\u5fc3"
    },
+   "news.sap.com/taiwan/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work/%E3%80%90%E6%96%B0%E8%81%9E%E5%9C%96%E7%89%87%E4%B8%80%E3%80%91sap-%E6%96%BC-2026-sap-connect-%E5%A4%A7%E6%9C%83%E5%B1%95%E7%A4%BA%E3%80%8C%E8%87%AA%E4%B8%BB%E7%87%9F%E9%81%8B%E4%BC%81%E6%A5%AD": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-18T02:37:33Z",
+    "link": "https://news.sap.com/taiwan/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work/%E3%80%90%E6%96%B0%E8%81%9E%E5%9C%96%E7%89%87%E4%B8%80%E3%80%91sap-%E6%96%BC-2026-sap-connect-%E5%A4%A7%E6%9C%83%E5%B1%95%E7%A4%BA%E3%80%8C%E8%87%AA%E4%B8%BB%E7%87%9F%E9%81%8B%E4%BC%81%E6%A5%AD/",
+    "page": 1,
+    "summary": "\u3010\u65b0\u805e\u5716\u7247\u4e00\u3011SAP \u65bc2026 SAP Connect \u5927\u6703\u5c55\u793a\u300c\u81ea\u4e3b\u71df\u904b\u4f01\u696d\u300d\u7684\u5be6\u969b\u61c9\u7528\uff0c\u70ba\u5404\u9818\u57df\u5ba2\u6236\u5275\u9020\u50f9\u503c\u3002 SAP. 0800-885-989. \u6216\u8005\u700f\u89bd\u5b8c\u6574\u5217\u8868\uff0c\u67e5\u770b\u7576\u5730\u96fb\u8a71\u865f\u78bc.",
+    "title": "\u3010\u65b0\u805e\u5716\u7247\u4e00\u3011SAP \u65bc2026 SAP Connect \u5927\u6703\u5c55\u793a\u300c\u81ea\u4e3b\u71df\u904b ..."
+   },
    "news.sap.com/taiwan/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work?amp=1": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -5264,6 +5273,15 @@
     "page": 1,
     "summary": "A registry of all Mexican taxpayers that serves as a tax identification number. It can be issued to either an individual or a legal entity.",
     "title": "Registro Federal de Contribuyentes (RFC) - Sovos Docs"
+   },
+   "docs.sovos.com/en/tax-and-regulatory-reporting/tax-and-regulatory-reporting-products/unclaimed-property/reportmyup/get-started/coming-from-upexchange": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-18T02:37:33Z",
+    "link": "https://docs.sovos.com/en/tax-and-regulatory-reporting/tax-and-regulatory-reporting-products/unclaimed-property/reportmyup/get-started/coming-from-upexchange",
+    "page": 1,
+    "summary": "Learn about the benefits of ReportMyUP and how it is different from UPExchange.",
+    "title": "Coming from UPExchange? - ReportMyUP - Sovos Docs"
    },
    "docs.sovos.com/en/tax-determination/certmanager/release-notes/exemptions-in-tax-determination-are-now-managed-in-certmanager": {
     "baseline": false,
