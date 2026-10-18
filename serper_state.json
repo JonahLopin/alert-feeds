@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 10241,
+  "credits_used": 10289,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-18T22:08:26Z",
+  "last_run": "2026-10-18T23:07:45Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 211
+  "runs": 212
  },
  "feeds": {
   "adp-help": {},
@@ -3292,6 +3292,15 @@
     "page": 1,
     "summary": "With Multicurrency, you can track sales and purchases in different currencies. You can assign foreign currencies to customers, vendors, price levels, and ...",
     "title": "Set up and use Multicurrency - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/new-subscriptions/us-quickbooks-desktop-sold-july-2024/L5lkQNq7L_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-18T23:07:45Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/new-subscriptions/us-quickbooks-desktop-sold-july-2024/L5lkQNq7L_US_en_US",
+    "page": 2,
+    "summary": "Hit a snag? Here's how to fix can't buy QuickBooks Desktop as a new US subscriber \u2014 without the guesswork. Back to business in no time.",
+    "title": "Learn what the \u200bQuickBooks Desktop\u200b stop-sell means for ..."
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/offboarding/set-single-sign-organization/L4IlUaXB5_US_en_US": {
     "baseline": false,
