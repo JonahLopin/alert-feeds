@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 10193,
+  "credits_used": 10241,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-18T21:08:02Z",
+  "last_run": "2026-10-18T22:08:26Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 210
+  "runs": 211
  },
  "feeds": {
   "adp-help": {},
@@ -5004,6 +5004,15 @@
     "page": 2,
     "summary": "Learn how to create content that wins real followers and increases engagement on your Instagram posts, Stories, and Reels.",
     "title": "How To Get More Followers on Instagram: 10 Ways in 2027"
+   },
+   "shopify.com/blog/ai-marketing": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-18T22:08:26Z",
+    "link": "https://www.shopify.com/blog/ai-marketing",
+    "page": 1,
+    "summary": "AI marketing uses artificial intelligence tools to plan, create, and run marketing across channels. The goal is to get more out of the time and budget you ...",
+    "title": "AI Marketing: How To Use AI Tools for Marketing (2026)"
    },
    "shopify.com/blog/appointment-booking-app": {
     "baseline": false,
