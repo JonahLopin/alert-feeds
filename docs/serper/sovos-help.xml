@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-18T07:44:57Z</updated>
+  <updated>2026-10-18T11:43:01Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/log-in</id>
+    <title>Log in | Product Documentation Documentation - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/log-in" />
+    <published>2026-10-18T11:43:01Z</published>
+    <updated>2026-10-18T11:43:01Z</updated>
+    <summary>Learn how to log in for the first time. Enter your email address and password. Then click Log In.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/1099-reporting/tincheck/manage-billing-and-subscription/update-billing-information/update-billing-information-in-tincheck</id>
     <title>Update billing information in TINCheck - Sovos Docs</title>

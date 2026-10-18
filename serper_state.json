@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 9723,
+  "credits_used": 9770,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-18T10:43:39Z",
+  "last_run": "2026-10-18T11:43:01Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 200
+  "runs": 201
  },
  "feeds": {
   "adp-help": {},
@@ -4312,6 +4312,24 @@
     "summary": "Con SAP GROW, Bold encontr\u00f3 una plataforma que le permite integrar diferentes procesos y funcionalidades, en lugar de abordarlos como soluciones aisladas. Para ...",
     "title": "Bold simplifica sus operaciones con SAP GROW para ..."
    },
+   "news.sap.com/mena/2026/10/business-ai-takes-center-stage-as-saudi-organizations-advancehr-transformation-at-sap-hr-connect-ksa-2026/no-265": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-18T11:43:01Z",
+    "link": "https://news.sap.com/mena/2026/10/business-ai-takes-center-stage-as-saudi-organizations-advancehr-transformation-at-sap-hr-connect-ksa-2026/no-265/",
+    "page": 1,
+    "summary": "SAP United States +1-800-872-1727. News and press Blogs and resources Events",
+    "title": "- SAP MENA Press Room"
+   },
+   "news.sap.com/mena/2026/10/business-ai-takes-center-stage-as-saudi-organizations-advancehr-transformation-at-sap-hr-connect-ksa-2026/panel-session-2": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-18T11:43:01Z",
+    "link": "https://news.sap.com/mena/2026/10/business-ai-takes-center-stage-as-saudi-organizations-advancehr-transformation-at-sap-hr-connect-ksa-2026/panel-session-2/",
+    "page": 1,
+    "summary": "Speak Out at SAP SAP Trust Center SAP Store Technology platform Mobile apps Industries Find a partner Trials and demos Find services",
+    "title": "Panel Session - SAP MENA Press Room"
+   },
    "news.sap.com/mena/2026/10/uae-ministry-of-higher-education-and-scientific-research-and-sap-support-academic-workforce-readiness-for-ai-applications": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -4975,6 +4993,15 @@
     "summary": "Gross merchandise value (GMV) measures the total value of goods sold through your store or platform, before expenses and fees, over a specific period of time.",
     "title": "Gross Merchandise Value (GMV): Meaning and Formula ..."
    },
+   "shopify.com/blog/high-demand-products-with-low-competition": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-18T11:43:01Z",
+    "link": "https://www.shopify.com/blog/high-demand-products-with-low-competition",
+    "page": 2,
+    "summary": "Learn how to identify high-demand products with low competition for your ecommerce store, with tips and examples from a successful dropshipping coach.",
+    "title": "How To Find High-Demand Products With Low Competition"
+   },
    "shopify.com/blog/how-to-design-a-shirt": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -5256,6 +5283,15 @@
    }
   },
   "sovos-help": {
+   "docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/log-in": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-18T11:43:01Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/log-in",
+    "page": 1,
+    "summary": "Learn how to log in for the first time. Enter your email address and password. Then click Log In.",
+    "title": "Log in | Product Documentation Documentation - Sovos Docs"
+   },
    "docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/manage-two-factor-authentication": {
     "baseline": false,
     "date_hint": "7 hours ago",
@@ -5765,6 +5801,15 @@
     "page": 1,
     "summary": "The Payment List report in SpotOn Restaurant Reporting provides a detailed view of payment transactions for a selected location and date range.",
     "title": "Payment List Report | SpotOn Restaurant Reporting"
+   },
+   "help.spoton.com/space/SK/764641567": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-18T11:43:01Z",
+    "link": "https://help.spoton.com/space/SK/764641567",
+    "page": 1,
+    "summary": "The Employees section in the SpotOn Restaurant Back of House (BOH) allows restaurant owners and managers to create, manage, terminate, and reactivate employees ...",
+    "title": "Employee Management | SpotOn Restaurant BOH"
    }
   },
   "square-help": {
