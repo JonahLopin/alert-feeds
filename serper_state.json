@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 9863,
+  "credits_used": 9910,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-18T14:08:36Z",
+  "last_run": "2026-10-18T15:08:55Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 203
+  "runs": 204
  },
  "feeds": {
   "adp-help": {},
@@ -2406,6 +2406,15 @@
     "summary": "A corkage fee is what a restaurant charges when guests bring their own wine or alcohol to drink on-site. Restaurants commonly charge between $10 and $50 per ...",
     "title": "Corkage Fee 101: What It Is & How to Set the Right Price"
    },
+   "merchants.doordash.com/en-us/blog/delivery-only-restaurants": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-18T15:08:55Z",
+    "link": "https://merchants.doordash.com/en-us/blog/delivery-only-restaurants",
+    "page": 1,
+    "summary": "Learn how delivery-only restaurants work, their advantages, and actionable steps to launch your own ghost kitchen or virtual brand.",
+    "title": "Delivery Only Restaurants: Pros, Cons, and How to Start One"
+   },
    "merchants.doordash.com/en-us/blog/food-business-ideas": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -4356,6 +4365,15 @@
     "page": 2,
     "summary": "These programmes aim to facilitate the transfer of practical industry expertise into education and align academic programmes with the needs of priority sectors ...",
     "title": "UAE's Ministry of Higher Education and Scientific Research ..."
+   },
+   "news.sap.com/mena/2026/10/uae-ministry-of-higher-education-and-scientific-research-and-sap-support-academic-workforce-readiness-for-ai-applications/mohesr-and-sap-support-academic-workforce-readiness-for-ai-applications-02": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-18T15:08:55Z",
+    "link": "https://news.sap.com/mena/2026/10/uae-ministry-of-higher-education-and-scientific-research-and-sap-support-academic-workforce-readiness-for-ai-applications/mohesr-and-sap-support-academic-workforce-readiness-for-ai-applications-02/",
+    "page": 1,
+    "summary": "MOHESR and SAP Support Academic Workforce Readiness for AI Applications 02 SAP United States +1-800-872-1727",
+    "title": "MOHESR and SAP Support Academic Workforce ..."
    },
    "news.sap.com/netherlands": {
     "baseline": true,
