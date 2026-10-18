@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 9490,
+  "credits_used": 9537,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-18T05:28:33Z",
+  "last_run": "2026-10-18T06:42:48Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 195
+  "runs": 196
  },
  "feeds": {
   "adp-help": {},
@@ -4485,6 +4485,15 @@
     "link": "https://news.sap.com/tags/tereina/",
     "summary": "Explore SAP. Explore all areas of SAP. Products \"> \u00b7 Autonomous Enterprise \u00b7 Artificial intelligence \u00b7 Data and analytics \u00b7 Autonomous Suite \u00b7 AI platform ...",
     "title": "Tereina Archives"
+   },
+   "news.sap.com/taiwan/2026/10/dingke-award/%E3%80%90%E6%96%B0%E8%81%9E%E5%9C%96%E7%89%87%E4%BA%8C%E3%80%91%E7%AC%AC%E5%85%AD%E5%B1%86%E6%95%B8%E4%BD%8D%E8%BD%89%E5%9E%8B%E3%80%8A%E9%BC%8E%E9%9D%A9%E7%8D%8E%E3%80%8B%E9%A0%92%E7%8D%8E%E5%85%B8": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-10-18T06:42:48Z",
+    "link": "https://news.sap.com/taiwan/2026/10/dingke-award/%E3%80%90%E6%96%B0%E8%81%9E%E5%9C%96%E7%89%87%E4%BA%8C%E3%80%91%E7%AC%AC%E5%85%AD%E5%B1%86%E6%95%B8%E4%BD%8D%E8%BD%89%E5%9E%8B%E3%80%8A%E9%BC%8E%E9%9D%A9%E7%8D%8E%E3%80%8B%E9%A0%92%E7%8D%8E%E5%85%B8/",
+    "page": 1,
+    "summary": "\u3010\u65b0\u805e\u5716\u7247\u4e8c\u3011\u7b2c\u516d\u5c46\u6578\u4f4d\u8f49\u578b\u300a\u9f0e\u9769\u734e\u300b\u9812\u734e\u5178\u79ae\u9812\u767c52 \u4ef6\u5e74\u5ea6\u4f01\u696d\u5275\u65b0\u8b8a\u9769\u734e\u9805\uff0c\u8868\u5f70\u4f01\u696d\u65bc\u6578\u4f4d\u8f49\u578b\u5c55\u73fe\u7684\u9818\u5c0e\u529b\u3001\u5275\u65b0\u529b\u8207\u5be6\u8cea\u6210\u679c.",
+    "title": "\u3010\u65b0\u805e\u5716\u7247\u4e8c\u3011\u7b2c\u516d\u5c46\u6578\u4f4d\u8f49\u578b\u300a\u9f0e\u9769\u734e\u300b\u9812\u734e\u5178\u79ae\u9812\u767c52 \u4ef6 ..."
    },
    "news.sap.com/taiwan/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work": {
     "baseline": false,
