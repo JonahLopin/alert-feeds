@@ -1518,6 +1518,12 @@
    "summary": "Attributes \u00b7 idstring. Unique identifier for the object. \u00b7 objectstring, value is \"radar.early_fraud_warning\" \u00b7 actionableboolean. An EFW is actionable ...",
    "title": "The Early Fraud Warning object | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:13292501989663731748": {
+   "first_seen": "2026-10-18T22:42:56Z",
+   "link": "https://docs.stripe.com/api/coupons?api-version=2026-07-29.preview",
+   "summary": "A coupon contains information about a percent-off or amount-off discount you might want to apply to a customer. Coupons may be applied to ...",
+   "title": "Coupons | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:13382659197936865007": {
    "first_seen": "2026-10-15T10:47:01Z",
    "link": "https://docs.stripe.com/api/v2/money-management/adjustments?api-version=2026-09-30.preview",

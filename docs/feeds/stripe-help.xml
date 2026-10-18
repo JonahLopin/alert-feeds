@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-17T22:43:04Z</updated>
+  <updated>2026-10-18T22:42:56Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:13292501989663731748</id>
+    <title>Coupons | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/coupons?api-version=2026-07-29.preview" />
+    <published>2026-10-18T22:42:56Z</published>
+    <updated>2026-10-18T22:42:56Z</updated>
+    <summary>A coupon contains information about a percent-off or amount-off discount you might want to apply to a customer. Coupons may be applied to ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:9362988663949533849</id>
     <title>CheckoutForm - Stripe JS Reference</title>
