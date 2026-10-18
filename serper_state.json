@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 9910,
+  "credits_used": 9957,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-18T15:08:55Z",
+  "last_run": "2026-10-18T16:10:16Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 204
+  "runs": 205
  },
  "feeds": {
   "adp-help": {},
@@ -3441,6 +3441,15 @@
     "page": 4,
     "summary": "Intuit Accountant Suite (IAS) brings your firm, clients, and team together in one AI-powered platform designed to improve efficiency, streamline workflows, and ...",
     "title": "Learn about Intuit Accountant Suite - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/product-system-requirements/quickbooks-online-slow/L8N9Ezzqj_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-18T16:10:16Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/product-system-requirements/quickbooks-online-slow/L8N9Ezzqj_US_en_US",
+    "page": 1,
+    "summary": "QuickBooks Online performance relies on browser efficiency, computer processing power, available memory (RAM), and internet bandwidth.",
+    "title": "Why is my QuickBooks Online slow? - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/report-management/view-edit-management-reports-quickbooks-online/L90RAh2XZ_US_en_US": {
     "baseline": true,
