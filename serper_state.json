@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 10098,
+  "credits_used": 10145,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-18T19:07:41Z",
+  "last_run": "2026-10-18T20:09:00Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 208
+  "runs": 209
  },
  "feeds": {
   "adp-help": {},
@@ -751,6 +751,15 @@
     "page": 3,
     "summary": "A professional soccer club investor alleges mistakes by DLA Piper lawyers cost him control of four teams, including London's Crystal Palace and France's ...",
     "title": "DLA Piper Sued By Ex-Crystal Palace, Lyon Soccer Clubs ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/doj-aims-to-intimidate-voters-with-poll-monitors-naacp-argues": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-18T20:09:00Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-aims-to-intimidate-voters-with-poll-monitors-naacp-argues",
+    "page": 1,
+    "summary": "The Justice Department's plan to place more than 1,000 poll monitors at locations nationwide constitutes voter intimidation, the NAACP is alleging in a new ...",
+    "title": "DOJ Aims to Intimidate Voters With Poll Monitors, NAACP ..."
    },
    "news.bloomberglaw.com/business-and-practice/doj-challenges-legality-of-presidential-records-act-on-appeal-104": {
     "baseline": false,
@@ -1915,6 +1924,15 @@
     "summary": "Identifying legal deserts should be the first step in bringing more legal resources into rural Texas, Lone Star Legal Aid's Ashley Oborn says.",
     "title": "Texas Is Investing in Rural Justice. Better Data Can Grow ..."
    },
+   "news.bloomberglaw.com/business-and-practice/the-crypto-devices-built-to-foil-hackers-came-with-spies-inside": {
+    "baseline": false,
+    "date_hint": "16 hours ago",
+    "first_seen": "2026-10-18T20:09:00Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/the-crypto-devices-built-to-foil-hackers-came-with-spies-inside",
+    "page": 1,
+    "summary": "Malaysian retailer CryptoBilis, a reseller of hardware crypto wallets, has become a focal point of an investigation into thefts from devices meant to secure ...",
+    "title": "The Crypto Devices Built to Foil Hackers Came With Spies ..."
+   },
    "news.bloomberglaw.com/business-and-practice/third-circuit-upholds-gun-ban-for-those-with-violent-felonies": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -2969,6 +2987,15 @@
     "page": 2,
     "summary": "Hit a snag? Here's how to fix Invalid Taxpayer Information \u2014 without the guesswork. Clear the blocker for good.",
     "title": "Fix Invalid Taxpayer Information - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-misc/need-file-1099-forms-state/L4kgvl9Tb_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-18T20:09:00Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-misc/need-file-1099-forms-state/L4kgvl9Tb_US_en_US",
+    "page": 2,
+    "summary": "1099 state filing requirements made easy \u2014 the right way, the first time. A quick, simple walkthrough.",
+    "title": "File your state 1099 forms - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/form-1099-nec/correct-change-1099s-quickbooks/L1Wd3BRXb_US_en_US": {
     "baseline": false,
