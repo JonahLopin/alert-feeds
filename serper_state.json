@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 9584,
+  "credits_used": 9631,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-18T07:44:57Z",
+  "last_run": "2026-10-18T08:46:57Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 197
+  "runs": 198
  },
  "feeds": {
   "adp-help": {},
@@ -4495,6 +4495,15 @@
     "summary": "Explore SAP. Explore all areas of SAP. Products \"> \u00b7 Autonomous Enterprise \u00b7 Artificial intelligence \u00b7 Data and analytics \u00b7 Autonomous Suite \u00b7 AI platform ...",
     "title": "Tereina Archives"
    },
+   "news.sap.com/taiwan/2026/10/dingke-award/%E3%80%90%E6%96%B0%E8%81%9E%E5%9C%96%E7%89%87%E4%B8%80%E3%80%91sap-%E8%88%87%E5%93%88%E4%BD%9B%E5%95%86%E6%A5%AD%E8%A9%95%E8%AB%96%E6%94%9C%E6%89%8B%E5%85%AC%E4%BD%88%E7%AC%AC%E5%85%AD%E5%B1%86": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-10-18T08:46:57Z",
+    "link": "https://news.sap.com/taiwan/2026/10/dingke-award/%E3%80%90%E6%96%B0%E8%81%9E%E5%9C%96%E7%89%87%E4%B8%80%E3%80%91sap-%E8%88%87%E5%93%88%E4%BD%9B%E5%95%86%E6%A5%AD%E8%A9%95%E8%AB%96%E6%94%9C%E6%89%8B%E5%85%AC%E4%BD%88%E7%AC%AC%E5%85%AD%E5%B1%86/",
+    "page": 1,
+    "summary": "\u3010\u65b0\u805e\u5716\u7247\u4e00\u3011SAP \u8207\u54c8\u4f5b\u5546\u696d\u8a55\u8ad6\u651c\u624b\u516c\u4f48\u7b2c\u516d\u5c46\u6578\u4f4d\u8f49\u578b\u300a\u9f0e\u9769\u734e\u300b\u3002 SAP. 0800-885-989. \u6216\u8005\u700f\u89bd\u5b8c\u6574\u5217\u8868\uff0c\u67e5\u770b\u7576\u5730\u96fb\u8a71\u865f\u78bc.",
+    "title": "\u3010\u65b0\u805e\u5716\u7247\u4e00\u3011SAP \u8207\u54c8\u4f5b\u5546\u696d\u8a55\u8ad6\u651c\u624b\u516c\u4f48\u7b2c\u516d\u5c46\u6578\u4f4d\u8f49\u578b\u300a ..."
+   },
    "news.sap.com/taiwan/2026/10/dingke-award/%E3%80%90%E6%96%B0%E8%81%9E%E5%9C%96%E7%89%87%E4%BA%8C%E3%80%91%E7%AC%AC%E5%85%AD%E5%B1%86%E6%95%B8%E4%BD%8D%E8%BD%89%E5%9E%8B%E3%80%8A%E9%BC%8E%E9%9D%A9%E7%8D%8E%E3%80%8B%E9%A0%92%E7%8D%8E%E5%85%B8": {
     "baseline": false,
     "date_hint": "8 hours ago",
@@ -4645,6 +4654,15 @@
     "page": 1,
     "summary": "6 \u0436\u043e\u0432\u0442\u043d\u044f 2026 \u0440\u043e\u043a\u0443 \u2014 SAP (NYSE: SAP) \u0456 TechWolf \u043e\u0433\u043e\u043b\u043e\u0441\u0438\u043b\u0438 \u043f\u0440\u043e \u0443\u043a\u043b\u0430\u0434\u0435\u043d\u043d\u044f \u0443\u0433\u043e\u0434\u0438, \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u043e \u0434\u043e \u044f\u043a\u043e\u0457 SAP \u043f\u0440\u0438\u0434\u0431\u0430\u0454 TechWolf \u2014 \u0440\u043e\u0437\u0440\u043e\u0431\u043d\u0438\u043a\u0430 \u043f\u0440\u043e\u0432\u0456\u0434\u043d\u043e\u0457 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0438 \u043d\u0430 ...",
     "title": "SAP \u043f\u0440\u0438\u0434\u0431\u0430\u0454 TechWolf, \u0449\u043e\u0431 \u043d\u0430\u0434\u0430\u0442\u0438 \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u0441\u0442\u0432\u0430\u043c ..."
+   },
+   "news.sap.com/wp-admin/*": {
+    "baseline": false,
+    "date_hint": "",
+    "first_seen": "2026-10-18T08:46:57Z",
+    "link": "https://news.sap.com/wp-admin/*",
+    "page": 1,
+    "summary": "No information is available for this page.",
+    "title": "https://news.sap.com/wp-admin/*"
    }
   },
   "shift4-dine-blog": {},
@@ -4675,6 +4693,15 @@
     "page": 1,
     "summary": "Who can join the Shift4 Gift Cards program? Any E2E Shift4 merchant can enroll. Gift Cards can be redeemed on any device or terminal that is certified to ...",
     "title": "Gift Cards Program FAQs"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/40680710360979-Settlement-Detail-Report": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-18T08:46:57Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/40680710360979-Settlement-Detail-Report",
+    "page": 1,
+    "summary": "The Settlement details report includes the details of settled transactions based on the generated dates. Track refunds and chargebacks",
+    "title": "Settlement Detail Report in the Shift4 Dine Customer Hub"
    },
    "shift4.zendesk.com/hc/en-us/articles/43106955069971-Create-and-Manage-Modifier-Sets-in-Multi-Location-Management": {
     "baseline": true,
