@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 11159,
+  "credits_used": 11210,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-19T18:53:01Z",
+  "last_run": "2026-10-19T20:10:52Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 230
+  "runs": 231
  },
  "feeds": {
   "adp-help": {},
@@ -1136,6 +1136,15 @@
     "summary": "A federal judge overseeing a proposed class action claiming Google LLC unlawfully eavesdropped on customer support calls for a variety of businesses, ...",
     "title": "Google AI Customer Service Privacy Lawsuit Gets Doubtful ..."
    },
+   "news.bloomberglaw.com/business-and-practice/grants-dispute-opinion-highlights-supreme-courts-loose-ends": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-19T20:10:52Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/grants-dispute-opinion-highlights-supreme-courts-loose-ends",
+    "page": 1,
+    "summary": "The Fourth Circuit's reopening of a grant funds dispute between the Education Department and two Virginia school districts concerning transgender student ...",
+    "title": "Grants Dispute Opinion Highlights Supreme Court's Loose ..."
+   },
    "news.bloomberglaw.com/business-and-practice/greenberg-traurig-adds-san-francisco-denver-real-estate-lawyers": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1710,6 +1719,15 @@
     "summary": "Badovinac advises high-net-worth individuals, family offices, and multinational entities on complex domestic and cross-border tax and estate planning matters.",
     "title": "Nelson Mullins Adds Daniel Badovinac as Tax Partner in Miami"
    },
+   "news.bloomberglaw.com/business-and-practice/netflix-film-chief-dan-lin-is-latest-executive-departure-1": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T20:10:52Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/netflix-film-chief-dan-lin-is-latest-executive-departure-1",
+    "page": 2,
+    "summary": "Netflix Inc. has parted ways with Dan Lin, the longtime film producer who the company brought on board two years ago to help reinvigorate its movie lineup, ...",
+    "title": "Netflix Film Chief Dan Lin Is Latest Executive Departure (1)"
+   },
    "news.bloomberglaw.com/business-and-practice/netflix-is-planning-to-cut-about-5-of-employees-puck-reports": {
     "baseline": false,
     "date_hint": "6 hours ago",
@@ -2157,6 +2175,15 @@
     "page": 1,
     "summary": "Two food-related disputes are slated for upcoming trials in the Delaware Chancery Court: Albertsons' failed merger with Kroger, and Freshly's acquisition by ...",
     "title": "This Week in Chancery Court: Albertsons, Kroger, Nestl\u00e9, ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/thoma-bravo-expects-rogue-agents-to-persist-as-ai-buildout-grows": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-19T20:10:52Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/thoma-bravo-expects-rogue-agents-to-persist-as-ai-buildout-grows",
+    "page": 3,
+    "summary": "Thoma Bravo Managing Partner Seth Boro said the artificial intelligence buildout will only be possible if proper cybersecurity measures are in place, ...",
+    "title": "Thoma Bravo Expects Rogue Agents to Persist as AI ..."
    },
    "news.bloomberglaw.com/business-and-practice/ticket-resellers-aim-to-scrap-dcs-new-deceptive-practices-law": {
     "baseline": false,
@@ -6158,6 +6185,15 @@
     "summary": "Use the 86 Items and Modifiers feature in the FOH to quickly mark menu items or modifiers as unavailable. This allows staff to temporarily remove items or ...",
     "title": "86 / Items & Modifiers"
    },
+   "help.spoton.com/space/SK/2664890885": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-19T20:10:52Z",
+    "link": "https://help.spoton.com/space/SK/2664890885",
+    "page": 1,
+    "summary": "The Speed Login feature allows users who are clocked in and assigned to a cash drawer to quickly access the POS without entering a login code.",
+    "title": "Speed Login Setup | BOH | SpotOn RPOS"
+   },
    "help.spoton.com/space/SK/2666660428": {
     "baseline": true,
     "date_hint": "7 days ago",
@@ -6715,6 +6751,24 @@
     "page": 1,
     "summary": "Shopify Tax is ending automated sales tax filing. Learn what this means for Shopify brands and how to handle sales tax compliance for 2027.",
     "title": "Shopify is ending automated sales tax filing. What ... - TaxCloud"
+   },
+   "taxcloud.com/blog/marketplace-sales-tax": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-19T20:10:52Z",
+    "link": "https://taxcloud.com/blog/marketplace-sales-tax/",
+    "page": 1,
+    "summary": "Learn how marketplace sales tax works, which states have facilitator laws, and what sellers on Amazon, Walmart, Etsy, and other platforms need to know.",
+    "title": "Marketplace Sales Tax Explained: How Facilitator Laws Works"
+   },
+   "taxcloud.com/blog/voluntary-disclosure-agreement-vda": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-19T20:10:52Z",
+    "link": "https://taxcloud.com/blog/voluntary-disclosure-agreement-vda/",
+    "page": 1,
+    "summary": "A Voluntary Disclosure Agreement (VDA) is a formal arrangement between a business and a state tax authority to resolve old sales tax obligations, ...",
+    "title": "Voluntary Disclosure Agreements: How VDAs Work for Sales Tax"
    }
   },
   "taxcloud-help": {},
@@ -6753,6 +6807,15 @@
     "link": "https://tax.thomsonreuters.com/blog/does-your-tax-software-recognize-new-w-2-box-codes-for-2027/",
     "summary": "The 2026 Form W-2 adds three new Box 12 codes (TP, TT, and TA) plus Box 14b occupation codes, creating data fields that did not exist on prior-year returns.",
     "title": "New W-2 box codes for 2027: Is your tax software updated?"
+   },
+   "tax.thomsonreuters.com/blog/how-to-build-an-ai-powered-audit-ecosystem": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T20:10:52Z",
+    "link": "https://tax.thomsonreuters.com/blog/how-to-build-an-ai-powered-audit-ecosystem/",
+    "page": 1,
+    "summary": "The four-layer audit pyramid helps firms reduce silos, streamline processes, and create a foundation for scalable AI adoption. Firms that move from fragmented ...",
+    "title": "Four layers of a connected, AI-powered audit ecosystem"
    },
    "tax.thomsonreuters.com/blog/not-all-ai-is-built-for-auditing-heres-the-difference": {
     "baseline": false,
@@ -6830,6 +6893,15 @@
     "link": "https://tax.thomsonreuters.com/blog/why-tax-teams-cant-scale-without-better-data-visibility/",
     "summary": "Tax teams can't scale because fragmented data destroys visibility\u2014not effort. Learn why only 26% of under-resourced teams trust their forecasts.",
     "title": "Why tax teams can't scale without better data visibility"
+   },
+   "tax.thomsonreuters.com/blog/your-advisory-roadmap-to-identifying-client-opportunities": {
+    "baseline": false,
+    "date_hint": "50 minutes ago",
+    "first_seen": "2026-10-19T20:10:52Z",
+    "link": "https://tax.thomsonreuters.com/blog/your-advisory-roadmap-to-identifying-client-opportunities/",
+    "page": 1,
+    "summary": "Use a practical three-step checklist to recognize advisory signals, move beyond reactive answers, and create a structured action plan for clients.",
+    "title": "A practical action guide for identifying client advisory ..."
    }
   },
   "touchbistro-blog": {},

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-10-18T11:43:01Z</updated>
+  <updated>2026-10-19T20:10:52Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2664890885</id>
+    <title>Speed Login Setup | BOH | SpotOn RPOS</title>
+    <link href="https://help.spoton.com/space/SK/2664890885" />
+    <published>2026-10-19T20:10:52Z</published>
+    <updated>2026-10-19T20:10:52Z</updated>
+    <summary>The Speed Login feature allows users who are clocked in and assigned to a cash drawer to quickly access the POS without entering a login code.</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/764641567</id>
     <title>Employee Management | SpotOn Restaurant BOH</title>
