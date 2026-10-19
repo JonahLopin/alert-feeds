@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 11009,
+  "credits_used": 11059,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-19T15:46:25Z",
+  "last_run": "2026-10-19T16:48:34Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 227
+  "runs": 228
  },
  "feeds": {
   "adp-help": {},
@@ -1396,6 +1396,15 @@
     "summary": "Kirkland & Ellis' decision to stop disclosing its financial performance shows law firms are hesitant to reveal profits as clients experience spiraling legal ...",
     "title": "Kirkland Hides Riches as Big Law Clients Scrutinize Rising ..."
    },
+   "news.bloomberglaw.com/business-and-practice/kirkland-poaches-veteran-susman-trial-lawyer-kaplan-in-houston": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-19T16:48:34Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kirkland-poaches-veteran-susman-trial-lawyer-kaplan-in-houston",
+    "page": 1,
+    "summary": "Alex Kaplan joined Kirkland & Ellis as a partner in its litigation practice group, He represents clients in high-stakes energy, antitrust, financial services, ...",
+    "title": "Kirkland Poaches Veteran Susman Trial Lawyer Kaplan in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/kraken-parent-to-acquire-lithuania-based-saldo-bank": {
     "baseline": false,
     "date_hint": "6 hours ago",
@@ -1986,6 +1995,24 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/sullivan-cromwell-nabs-ashurst-mcguirewoods-appellate-chairs",
     "summary": "Sullivan & Cromwell is bringing on a pair of litigators to lead its Supreme Court and appellate practice. The firm is one of the most profitable in the nation ...",
     "title": "Sullivan & Cromwell Nabs Ashurst, McGuireWoods ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/supreme-court-affirms-foreign-rights-ruling-after-lacking-quorum": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T16:48:34Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/supreme-court-affirms-foreign-rights-ruling-after-lacking-quorum",
+    "page": 1,
+    "summary": "The US Supreme Court Monday affirmed a Fifth Circuit ruling that a songwriter could and had reclaimed worldwide rights after noting that it lacked a quorum.",
+    "title": "Supreme Court Affirms Foreign Rights Ruling After Lacking ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/supreme-court-to-hear-claim-of-bias-in-school-admissions-policy": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T16:48:34Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/supreme-court-to-hear-claim-of-bias-in-school-admissions-policy",
+    "page": 2,
+    "summary": "Racial-preference opponents are seeking to extend the Supreme Court's 2023 decision barring universities from using race in admissions for the sake of diversity ...",
+    "title": "Supreme Court to Hear Claim of Bias in School Admissions ..."
    },
    "news.bloomberglaw.com/business-and-practice/supreme-court-today-oct-15-2026": {
     "baseline": false,
@@ -5116,6 +5143,15 @@
     "page": 1,
     "summary": "The Settlement details report includes the details of settled transactions based on the generated dates. Track refunds and chargebacks",
     "title": "Settlement Detail Report in the Shift4 Dine Customer Hub"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/43039012441107-Create-and-Manage-Departments-in-Multi-Location-Management": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-19T16:48:34Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/43039012441107-Create-and-Manage-Departments-in-Multi-Location-Management",
+    "page": 1,
+    "summary": "Description: Learn how to create and customize departments in Location Management to organize your menu across locations.",
+    "title": "Create and Manage Departments in Location Management"
    },
    "shift4.zendesk.com/hc/en-us/articles/43106955069971-Create-and-Manage-Modifier-Sets-in-Multi-Location-Management": {
     "baseline": true,
