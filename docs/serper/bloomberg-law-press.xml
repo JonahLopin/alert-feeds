@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-19T12:44:53Z</updated>
+  <updated>2026-10-19T13:52:10Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/eu-officials-propose-guardrails-for-insurance-risk-transfer-boom</id>
+    <title>EU Officials Propose Guardrails for Insurance Risk Transfer ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/eu-officials-propose-guardrails-for-insurance-risk-transfer-boom" />
+    <published>2026-10-19T13:52:10Z</published>
+    <updated>2026-10-19T13:52:10Z</updated>
+    <summary>The European Union is considering strengthening the rules around a riskier form of insurance provided to the banking sector, as part of an upcoming package ...</summary>
+  </entry>
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/blackstone-hauls-in-8-7-billion-for-energy-transition-fund</id>
+    <title>Blackstone Hauls in $8.7 Billion for Energy Transition Fund</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/blackstone-hauls-in-8-7-billion-for-energy-transition-fund" />
+    <published>2026-10-19T13:52:10Z</published>
+    <updated>2026-10-19T13:52:10Z</updated>
+    <summary>Blackstone Inc. has raised $8.7 billion for a fund dedicated to cleaner energy, less than two years after wrapping up an earlier version of the strategy.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/volkswagen-pushes-for-pay-freeze-as-union-talks-get-underway</id>
     <title>Volkswagen Pushes for Pay Freeze as Union Talks Get ...</title>
@@ -787,21 +803,5 @@
     <published>2026-10-14T17:30:13Z</published>
     <updated>2026-10-14T17:30:13Z</updated>
     <summary>The consumer price index rose 0.6% from a month earlier, driven by a surge in fuel costs, according to Bureau of Labor Statistics data out Wednesday. A key ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety</id>
-    <title>OpenAI CFO Says Firms Using Chinese AI Models Are ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety" />
-    <published>2026-10-14T17:30:13Z</published>
-    <updated>2026-10-14T17:30:13Z</updated>
-    <summary>Businesses opting to use low-cost Chinese artificial intelligence models are taking a cybersecurity risk, said OpenAI Chief Financial Officer Sarah Friar ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/nvidia-chipagents-launch-eval-for-ai-chip-design-information</id>
-    <title>Nvidia, ChipAgents Launch Eval for AI Chip Design</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/nvidia-chipagents-launch-eval-for-ai-chip-design-information" />
-    <published>2026-10-14T17:30:13Z</published>
-    <updated>2026-10-14T17:30:13Z</updated>
-    <summary>Nvidia and ChipAgents released a benchmark that measures how different AI models perform at the task, The Information reports, citing ChipAgents CEO William ...</summary>
   </entry>
 </feed>

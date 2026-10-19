@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 10863,
+  "credits_used": 10912,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-19T12:44:53Z",
+  "last_run": "2026-10-19T13:52:10Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 224
+  "runs": 225
  },
  "feeds": {
   "adp-help": {},
@@ -411,6 +411,15 @@
     "page": 2,
     "summary": "Some of Virgin Media O2 's biggest creditors are getting legal advice from Milbank LLP after a UK regulator flagged concerns over a deal that would have ...",
     "title": "BlackRock, Pimco Hire Lawyers Over Faltering Virgin ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/blackstone-hauls-in-8-7-billion-for-energy-transition-fund": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T13:52:10Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/blackstone-hauls-in-8-7-billion-for-energy-transition-fund",
+    "page": 1,
+    "summary": "Blackstone Inc. has raised $8.7 billion for a fund dedicated to cleaner energy, less than two years after wrapping up an earlier version of the strategy.",
+    "title": "Blackstone Hauls in $8.7 Billion for Energy Transition Fund"
    },
    "news.bloomberglaw.com/business-and-practice/bofa-hit-with-1-2-billion-of-fines-over-money-laundering-lapses": {
     "baseline": false,
@@ -885,6 +894,15 @@
     "page": 2,
     "summary": "Methane gas is flared in New Mexico. ... The EPA struggled to explain its reasoning for delaying compliance deadlines for methane emissions from oil and gas ...",
     "title": "EPA's Defense of Methane Emissions Delays Draws Court ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/eu-officials-propose-guardrails-for-insurance-risk-transfer-boom": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T13:52:10Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/eu-officials-propose-guardrails-for-insurance-risk-transfer-boom",
+    "page": 1,
+    "summary": "The European Union is considering strengthening the rules around a riskier form of insurance provided to the banking sector, as part of an upcoming package ...",
+    "title": "EU Officials Propose Guardrails for Insurance Risk Transfer ..."
    },
    "news.bloomberglaw.com/business-and-practice/ex-michigan-judge-who-showed-up-drunk-to-work-agrees-to-sanction": {
     "baseline": false,
@@ -3952,6 +3970,15 @@
     "summary": "On the journey to becoming an Autonomous Enterprise, fast-growth have the advantage of agility when deploying AI.",
     "title": "Fast-Growth Companies Have the Biggest AI Opportunity"
    },
+   "news.sap.com/2026/10/gap-no-llm-can-close": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T13:52:10Z",
+    "link": "https://news.sap.com/2026/10/gap-no-llm-can-close/",
+    "page": 1,
+    "summary": "Generative AI helps people to write, research, program, or evaluate content faster. in helping companies detect risks, defaults, losses, and liquidity ...",
+    "title": "The Gap That No LLMs Can Close | Tabular AI"
+   },
    "news.sap.com/2026/10/how-ericsson-is-reimagining-b2b-commerce-with-ai": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -4005,6 +4032,15 @@
     "page": 1,
     "summary": "The release combines AI agents that can work directly with core business processes and adds new regulatory compliance capabilities and industry-specific ...",
     "title": "SAP Strengthens the Foundation for the Autonomous ..."
+   },
+   "news.sap.com/2026/10/sap-recognized-leader-gartner-magic-quadrant-cloud-erp-finance": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-19T13:52:10Z",
+    "link": "https://news.sap.com/2026/10/sap-recognized-leader-gartner-magic-quadrant-cloud-erp-finance/",
+    "page": 1,
+    "summary": "SAP has been recognized as a Leader in the 2026 Gartner Magic Quadrant for Cloud ERP for Finance. ERP is a unified data model and common journal",
+    "title": "SAP Recognized as a Leader by Gartner for Cloud ERP ..."
    },
    "news.sap.com/2026/10/sap-successfactors-2h-2026-release": {
     "baseline": false,
