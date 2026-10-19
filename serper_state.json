@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 10624,
+  "credits_used": 10671,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-19T07:10:59Z",
+  "last_run": "2026-10-19T08:18:19Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 219
+  "runs": 220
  },
  "feeds": {
   "adp-help": {},
@@ -2908,6 +2908,15 @@
     "page": 5,
     "summary": "Use QuickBooks Checking features such as apply, check status, create envelopes, and view transactions. Ask questions using in-product help, like QB Assistant or ...",
     "title": "Get more done with QuickBooks mobile app and web"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/contractors/manage-contractor-vendor-w-9-invites/L41RKFPxf_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-19T08:18:19Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/contractors/manage-contractor-vendor-w-9-invites/L41RKFPxf_US_en_US",
+    "page": 2,
+    "summary": "Searching how to request a W-9 from a vendor? Follow this quick guide \u2014 without the usual headaches. Clear, step-by-step instructions.",
+    "title": "Manage contractor and vendor W-9 invites in QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/currency/enter-use-exchange-rates/L5cZfINVo_US_en_US": {
     "baseline": true,
