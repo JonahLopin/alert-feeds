@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-19T10:31:57Z</updated>
+  <updated>2026-10-19T11:30:30Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/2026/10/1k-ai-agents-by-sap-teched-sap-and-partners-accelerate-together/</id>
+    <title>1k AI Agents by SAP TechEd: Accelerating with Partners</title>
+    <link href="https://news.sap.com/2026/10/1k-ai-agents-by-sap-teched-sap-and-partners-accelerate-together/" />
+    <published>2026-10-19T11:30:30Z</published>
+    <updated>2026-10-19T11:30:30Z</updated>
+    <summary>SAP challenged partners to build AI agents, and the response far exceeded expectations. Learn about the 1k AI agent goal for SAP TechEd.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/germany/type/feature/</id>
     <title>Feature Archiv</title>
@@ -795,13 +803,5 @@
     <published>2026-10-11T03:05:00Z</published>
     <updated>2026-10-11T03:05:00Z</updated>
     <summary>SAP Connect 2026 Las Vegas 무대에서 기조연설 중인 크리스티안 클라인 SAP 회장. SAP. 대한민국 080-219-2400. 지역별 국가 번호 전체 목록 보기.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/korea/2026/10/joule-work-%EC%A0%84%EB%A9%B4-%EC%B6%9C%EC%8B%9C-%EC%9E%90%EC%9C%A8%ED%98%95-%EA%B8%B0%EC%97%85%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%90%EB%8B%A4/sapconnect26_mkr16504/</id>
-    <title>SAPConnect26_MKR16504 - SAP Korea 뉴스센터</title>
-    <link href="https://news.sap.com/korea/2026/10/joule-work-%EC%A0%84%EB%A9%B4-%EC%B6%9C%EC%8B%9C-%EC%9E%90%EC%9C%A8%ED%98%95-%EA%B8%B0%EC%97%85%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%90%EB%8B%A4/sapconnect26_mkr16504/" />
-    <published>2026-10-11T03:05:00Z</published>
-    <updated>2026-10-11T03:05:00Z</updated>
-    <summary>SAP Connect 2026 라스 베이거스 무대에서 기조연설 중인 크리스티안 클라인 SAP 회장. SAP. 대한민국 080-219-2400. 지역별 국가 번호 전체 목록 보기.</summary>
   </entry>
 </feed>

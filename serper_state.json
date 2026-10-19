@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 10767,
+  "credits_used": 10815,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-19T10:31:57Z",
+  "last_run": "2026-10-19T11:30:30Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 222
+  "runs": 223
  },
  "feeds": {
   "adp-help": {},
@@ -1207,6 +1207,15 @@
     "summary": "Humana Inc. shares surged as the company improved its performance on crucial Medicare Advantage quality ratings linked to payment.",
     "title": "Humana Surges on Medicare Quality Ratings Improvement"
    },
+   "news.bloomberglaw.com/business-and-practice/ice-private-prison-contracts-set-up-tough-environmental-battle": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-19T11:30:30Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ice-private-prison-contracts-set-up-tough-environmental-battle",
+    "page": 1,
+    "summary": "The US Department of Homeland Security is acquiring private prisons and working with contractors to bring previously shuttered facilities online",
+    "title": "ICE Private Prison Contracts Set Up Tough Environmental ..."
+   },
    "news.bloomberglaw.com/business-and-practice/iec-group-privacy-suit-over-spreadsheet-leak-revived-on-appeal": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -1844,6 +1853,15 @@
     "page": 1,
     "summary": "Sidley Austin hired investment funds partner Justin Solomon from Kirkland & Ellis in Los Angeles to expand its private equity offering.",
     "title": "Sidley Lands Kirkland California Partner for Funds Build Out"
+   },
+   "news.bloomberglaw.com/business-and-practice/sidley-lands-mayer-brown-partner-kunkes-to-grow-finance-group": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-19T11:30:30Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/sidley-lands-mayer-brown-partner-kunkes-to-grow-finance-group",
+    "page": 1,
+    "summary": "Sidley Austin has bolstered its global finance practice with the acquisition of Mayer Brown partner Glenn Kunkes in Charlotte, North Carolina.",
+    "title": "Sidley Lands Mayer Brown Partner Kunkes to Grow ..."
    },
    "news.bloomberglaw.com/business-and-practice/skadden-brings-on-four-mass-tort-and-product-liability-lawyers": {
     "baseline": false,
@@ -3897,6 +3915,15 @@
     "page": 1,
     "summary": "Security and compliance require Board-level leadership. Learn the 10 questions executives should be asking on the topic.",
     "title": "10 Questions About Security and Compliance"
+   },
+   "news.sap.com/2026/10/1k-ai-agents-by-sap-teched-sap-and-partners-accelerate-together": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-19T11:30:30Z",
+    "link": "https://news.sap.com/2026/10/1k-ai-agents-by-sap-teched-sap-and-partners-accelerate-together/",
+    "page": 1,
+    "summary": "SAP challenged partners to build AI agents, and the response far exceeded expectations. Learn about the 1k AI agent goal for SAP TechEd.",
+    "title": "1k AI Agents by SAP TechEd: Accelerating with Partners"
    },
    "news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap": {
     "baseline": false,
