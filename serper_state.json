@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 11261,
+  "credits_used": 11313,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-19T21:09:24Z",
+  "last_run": "2026-10-19T22:09:40Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 232
+  "runs": 233
  },
  "feeds": {
   "adp-help": {},
@@ -519,6 +519,15 @@
     "page": 2,
     "summary": "China's currency is having a good year, and Beijing wants everyone to know it.",
     "title": "China Is Too Defensive Over the Yuan: Daniel Moss"
+   },
+   "news.bloomberglaw.com/business-and-practice/clear-blue-is-off-the-hook-for-auto-dealers-privacy-litigation": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-19T22:09:40Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/clear-blue-is-off-the-hook-for-auto-dealers-privacy-litigation",
+    "page": 4,
+    "summary": "The proposed class action plaintiff sued the auto dealerships in 2025, seeking damages for alleged violations of the Illinois Biometric Information Privacy Act.",
+    "title": "Clear Blue Is Off the Hook for Auto Dealers' Privacy Litigation"
    },
    "news.bloomberglaw.com/business-and-practice/clinic-violated-labor-law-during-union-election-nlrb-judge-says": {
     "baseline": false,
@@ -5314,6 +5323,15 @@
     "summary": "The Signature Shift4 Gift Card Service pricing outlines all costs associated with managing your gift card program, including gift card pricing, onboarding fees, ...",
     "title": "Signature Shift4 Gift Cards Service Pricing"
    },
+   "shift4.zendesk.com/hc/en-us/articles/47961339906579-Payment-Links-in-Lighthouse-Business-Manager-Europe": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-19T22:09:40Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/47961339906579-Payment-Links-in-Lighthouse-Business-Manager-Europe",
+    "page": 1,
+    "summary": "Description: Learn how Payment Links works in the Shift4 Customer Hub and how to use it to securely collect payments, support remote and international ...",
+    "title": "Use Payment Links in the Shift4 Customer Hub"
+   },
    "shift4.zendesk.com/hc/en-us/articles/50299321974163-Add-Default-Modifiers-to-Menu-Items-in-Shift4-Dine": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -6221,6 +6239,15 @@
     "summary": "The Speed Login feature allows users who are clocked in and assigned to a cash drawer to quickly access the POS without entering a login code.",
     "title": "Speed Login Setup | BOH | SpotOn RPOS"
    },
+   "help.spoton.com/space/SK/2666627662": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-19T22:09:40Z",
+    "link": "https://help.spoton.com/space/SK/2666627662",
+    "page": 1,
+    "summary": "The Void function in Front of House (FOH) allows staff to remove items from an order after they have already been sent to the kitchen or prep station.",
+    "title": "Void an Item from an Order & Un- ..."
+   },
    "help.spoton.com/space/SK/2666660428": {
     "baseline": true,
     "date_hint": "7 days ago",
@@ -6643,6 +6670,15 @@
     "page": 1,
     "summary": "Use the CardCvcElement from @stripe/react-stripe-js to collect the card's expiration date independently from other card fields.",
     "title": "CardCvcElement"
+   },
+   "docs.stripe.com/js/react_stripe_js/elements/other/card_element?__=&__+hssc=87732103.2.1429371502578&__hsfp=3071927421&__hssc=259582869.1.1585612800160&__hstc=259582869.c4a577029c49e44b73bd3bee6fa38565.1585612800157.1585612800158.1585612800159.1&__previewld=": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-19T22:09:40Z",
+    "link": "https://docs.stripe.com/js/react_stripe_js/elements/other/card_element?__=&__+hssc=87732103.2.1429371502578&__hsfp=3071927421&__hssc=259582869.1.1585612800160&__hstc=259582869.c4a577029c49e44b73bd3bee6fa38565.1585612800157.1585612800158.1585612800159.1&__previewld=",
+    "page": 2,
+    "summary": "CardElement \u00b7 classes object. Set custom class names on the container DOM element when the Stripe element is in a particular state. \u00b7 style object \u00b7 value object.",
+    "title": "CardElement"
    },
    "docs.stripe.com/js/react_stripe_js/elements/other/card_number_element?__=&__readwiseLocation=&__s=1ngpkifa1w8cdaucpyke": {
     "baseline": false,

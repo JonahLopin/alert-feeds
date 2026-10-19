@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-19T21:09:24Z</updated>
+  <updated>2026-10-19T22:09:40Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/clear-blue-is-off-the-hook-for-auto-dealers-privacy-litigation</id>
+    <title>Clear Blue Is Off the Hook for Auto Dealers' Privacy Litigation</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/clear-blue-is-off-the-hook-for-auto-dealers-privacy-litigation" />
+    <published>2026-10-19T22:09:40Z</published>
+    <updated>2026-10-19T22:09:40Z</updated>
+    <summary>The proposed class action plaintiff sued the auto dealerships in 2025, seeking damages for alleged violations of the Illinois Biometric Information Privacy Act.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/us-agents-arrest-11-in-california-over-alleged-illegal-voting</id>
     <title>US Agents Arrest 11 in California Over Alleged Illegal Voting</title>
@@ -795,13 +803,5 @@
     <published>2026-10-15T01:07:07Z</published>
     <updated>2026-10-15T01:07:07Z</updated>
     <summary>A California medical system committed labor law violations including firing and demoting workers during a failed union election drive, a National Labor ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/vw-pivots-to-trucks-and-rugged-suvs-in-a-quest-for-us-profit</id>
-    <title>VW Pivots to Trucks and Rugged SUVs in a Quest for US ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/vw-pivots-to-trucks-and-rugged-suvs-in-a-quest-for-us-profit" />
-    <published>2026-10-14T22:43:53Z</published>
-    <updated>2026-10-14T22:43:53Z</updated>
-    <summary>Volkswagen AG has spent decades trying to build a US business that matches its stature as the world's second-largest carmaker. Now the market it repeatedly ...</summary>
   </entry>
 </feed>
