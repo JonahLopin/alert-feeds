@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 11313,
+  "credits_used": 11365,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-19T22:09:40Z",
+  "last_run": "2026-10-19T23:08:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 233
+  "runs": 234
  },
  "feeds": {
   "adp-help": {},
@@ -1064,6 +1064,15 @@
     "page": 1,
     "summary": "A Florida trial judge has been suspended for 30 days and fined $10000 for campaign messaging relying on a phony AI-generated \u201cphone call\u201d that faked a ...",
     "title": "Florida Judge Suspended Over Deepfake Call Mimicking ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/florida-officials-in-lgbtq-book-removal-case-need-to-testify": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-19T23:08:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/florida-officials-in-lgbtq-book-removal-case-need-to-testify",
+    "page": 2,
+    "summary": "Florida local officials responsible for removal of books must testify in a lawsuit brought by an advocacy group challenging reduced access to LGBTQ+ and ...",
+    "title": "Florida Officials in LGBTQ+ Book Removal Case Need to ..."
    },
    "news.bloomberglaw.com/business-and-practice/foley-hoag-lands-private-equity-m-a-lawyer-brandon-cuffy-in-dc": {
     "baseline": false,
@@ -2292,6 +2301,15 @@
     "page": 4,
     "summary": "President Donald Trump is working with Vladimir Putin to release Russian diesel supplies into global markets, a move that upends years of sanctions as the ...",
     "title": "Trump Says Putin to Supply US With Diesel Ahead of ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trump-taps-prosecutor-doj-civil-division-official-for-judiciary": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T23:08:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-taps-prosecutor-doj-civil-division-official-for-judiciary",
+    "page": 2,
+    "summary": "Trump in a social media post on Monday said he would nominate Eric Hamilton to the US District Court for the District of Nebraska, and federal prosecutor Joseph ...",
+    "title": "Trump Taps Prosecutor, DOJ Civil Division Official for ..."
    },
    "news.bloomberglaw.com/business-and-practice/trump-to-direct-agencies-to-counter-states-blocking-energy-plans": {
     "baseline": false,
@@ -5134,6 +5152,15 @@
     "summary": "AI is creating new possibilities for how commercial work gets done. +1-800-872-1727",
     "title": "Artificial Intelligence Archives"
    },
+   "news.sap.com/topics/cloud": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-19T23:08:53Z",
+    "link": "https://news.sap.com/topics/cloud/",
+    "page": 1,
+    "summary": "Feature articles, press releases, blogs, news, information & stories from SAP about about cloud trends and topics, cloud software, cloud solutions, ...",
+    "title": "SAP Cloud Computing News & Stories"
+   },
    "news.sap.com/topics/erp": {
     "baseline": true,
     "date_hint": "2 days ago",
@@ -5141,6 +5168,15 @@
     "link": "https://news.sap.com/topics/erp/",
     "summary": "Planning Beyond 2030: What SAP Business Suite 7 and SAP NetWeaver Customers Using Third-Party Databases or Java Need to Know. by Philipp Herzig.",
     "title": "Enterprise resource planning Archives"
+   },
+   "news.sap.com/topics/financial-management": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-19T23:08:53Z",
+    "link": "https://news.sap.com/topics/financial-management/",
+    "page": 1,
+    "summary": "SAP Recognized as a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Cloud ERP for Finance \u00b7 Feature \u00b7 SAP Advances Finance Operations with Embedded Payments, ...",
+    "title": "Financial management Archives"
    },
    "news.sap.com/topics/human-resources": {
     "baseline": false,
@@ -5243,6 +5279,15 @@
   },
   "shift4-dine-blog": {},
   "shift4-dine-help": {
+   "shift4.zendesk.com/hc/en-us/articles/12775112615699-Enable-Gift-Card-Payments-in-Online-Ordering": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-19T23:08:53Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/12775112615699-Enable-Gift-Card-Payments-in-Online-Ordering",
+    "page": 1,
+    "summary": "Description: Learn how to enable gift card payments in Online Ordering. Availability: United StatesImportant: Online Ordering gift card...",
+    "title": "Enable Gift Card Payments in Online Ordering (United ..."
+   },
    "shift4.zendesk.com/hc/en-us/articles/13576390947091-Void-an-Item-From-a-Ticket-on-SkyTab-POS": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -6715,6 +6760,15 @@
     "summary": "\u30ec\u30ac\u30b7\u30fc\u306e\u5b9f\u88c5\u304b\u3089\u63a8\u5968\u3055\u308c\u308b\u65b0\u3057\u3044\u5b9f\u88c5\u30d1\u30b9\u306b\u79fb\u884c\u3059\u308b\u3053\u3068\u3067\u3001\u30b3\u30f3\u30d0\u30fc\u30b8\u30e7\u30f3\u7387\u3092\u5411\u4e0a\u3055\u305b\u3001\u65b0\u6a5f\u80fd\u3092\u5229\u7528\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u3002",
     "title": "\u30ec\u30ac\u30b7\u30fc\u306e\u5b9f\u88c5\u3092\u79fb\u884c\u3059\u308b | Stripe \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8"
    },
+   "docs.stripe.com/payments/save-and-reuse?payment-ui=elements": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-19T23:08:53Z",
+    "link": "https://docs.stripe.com/payments/save-and-reuse?payment-ui=elements",
+    "page": 1,
+    "summary": "The Setup Intents API lets you save a customer's payment details without an initial payment. This is helpful if you want to onboard customers now, ...",
+    "title": "Save a customer's payment method without making a"
+   },
    "docs.stripe.com/payments/save-and-reuse?platform=web&ui=elements&payment-ui=elements": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -6842,6 +6896,15 @@
     "summary": "Learn when your business needs to start collecting sales tax, how collection works across different sales channels, and what obligations you have now.",
     "title": "When & How to Charge Sales Tax - TaxCloud"
    },
+   "taxcloud.com/blog/sales-tax-software-integrations": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-19T23:08:53Z",
+    "link": "https://taxcloud.com/blog/sales-tax-software-integrations/",
+    "page": 1,
+    "summary": "Sales tax integrations connect your ecommerce platform, payment and billing processors, ERPs or accounting software to a sales tax solution",
+    "title": "Sales Tax Integrations Explained - TaxCloud"
+   },
    "taxcloud.com/blog/voluntary-disclosure-agreement-vda": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -6888,6 +6951,24 @@
     "link": "https://tax.thomsonreuters.com/blog/does-your-tax-software-recognize-new-w-2-box-codes-for-2027/",
     "summary": "The 2026 Form W-2 adds three new Box 12 codes (TP, TT, and TA) plus Box 14b occupation codes, creating data fields that did not exist on prior-year returns.",
     "title": "New W-2 box codes for 2027: Is your tax software updated?"
+   },
+   "tax.thomsonreuters.com/blog/duty-savings-inside-your-onesource-investment": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-19T23:08:53Z",
+    "link": "https://tax.thomsonreuters.com/blog/duty-savings-inside-your-onesource-investment/",
+    "page": 1,
+    "summary": "Most importers overpay 3\u20138% in duties without realizing it. See how to unlock duty optimization savings already inside your ONESOURCE investment.",
+    "title": "Duty optimization: Unlock savings inside ONESOURCE"
+   },
+   "tax.thomsonreuters.com/blog/how-to-bridge-the-experience-gap-in-accounting-firms": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-19T23:08:53Z",
+    "link": "https://tax.thomsonreuters.com/blog/how-to-bridge-the-experience-gap-in-accounting-firms/",
+    "page": 1,
+    "summary": "Explore how AI-powered research and structured training can help accounting firms close knowledge gaps and support junior and senior staff.",
+    "title": "How to bridge the experience gap in accounting firms"
    },
    "tax.thomsonreuters.com/blog/how-to-build-an-ai-powered-audit-ecosystem": {
     "baseline": false,

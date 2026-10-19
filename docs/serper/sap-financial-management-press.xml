@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-19T15:46:25Z</updated>
+  <updated>2026-10-19T23:08:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/topics/financial-management/</id>
+    <title>Financial management Archives</title>
+    <link href="https://news.sap.com/topics/financial-management/" />
+    <published>2026-10-19T23:08:53Z</published>
+    <updated>2026-10-19T23:08:53Z</updated>
+    <summary>SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Finance · Feature · SAP Advances Finance Operations with Embedded Payments, ...</summary>
+  </entry>
+  <entry>
+    <id>https://news.sap.com/topics/cloud/</id>
+    <title>SAP Cloud Computing News &amp; Stories</title>
+    <link href="https://news.sap.com/topics/cloud/" />
+    <published>2026-10-19T23:08:53Z</published>
+    <updated>2026-10-19T23:08:53Z</updated>
+    <summary>Feature articles, press releases, blogs, news, information &amp; stories from SAP about about cloud trends and topics, cloud software, cloud solutions, ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/italy/2026/10/its-the-beginning-of-better-al-sap-now-ai-tour-milan-lautonomous-enterprise-prende-vita/</id>
     <title>It's the beginning of better: al SAP NOW AI Tour Milan, l ...</title>
@@ -787,21 +803,5 @@
     <published>2026-10-11T10:10:10Z</published>
     <updated>2026-10-11T10:10:10Z</updated>
     <summary>Making trading online on the smart phone in hand. SAP. Danmark +45 39 13 30 00. Eller se vores komplette liste over lokale landenumre.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/denmark/2026/10/udsaettelsen-af-dommedag-maa-godt-koste-lidt-regulering/f_304302_gettyimages-1331794262_medium_jpg/</id>
-    <title>F_304302_GettyImages-1331794262_medium_jpg</title>
-    <link href="https://news.sap.com/denmark/2026/10/udsaettelsen-af-dommedag-maa-godt-koste-lidt-regulering/f_304302_gettyimages-1331794262_medium_jpg/" />
-    <published>2026-10-11T09:10:42Z</published>
-    <updated>2026-10-11T09:10:42Z</updated>
-    <summary>Udforsk alle områder af SAP. Uddannelse og support. Uddannelse og certificering · Support · Dokumentation · Community.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/denmark/2026/10/udsaettelsen-af-dommedag-maa-godt-koste-lidt-regulering/compliance-business-concept/</id>
-    <title>Compliance Business Concept - SAP Danmark Nyheder</title>
-    <link href="https://news.sap.com/denmark/2026/10/udsaettelsen-af-dommedag-maa-godt-koste-lidt-regulering/compliance-business-concept/" />
-    <published>2026-10-11T07:15:50Z</published>
-    <updated>2026-10-11T07:15:50Z</updated>
-    <summary>Udforsk alle områder af SAP. Uddannelse og support. Uddannelse og certificering · Support · Dokumentation · Community.</summary>
   </entry>
 </feed>

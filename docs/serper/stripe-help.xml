@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-19T22:09:40Z</updated>
+  <updated>2026-10-19T23:08:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/payments/save-and-reuse?payment-ui=elements</id>
+    <title>Save a customer's payment method without making a</title>
+    <link href="https://docs.stripe.com/payments/save-and-reuse?payment-ui=elements" />
+    <published>2026-10-19T23:08:53Z</published>
+    <updated>2026-10-19T23:08:53Z</updated>
+    <summary>The Setup Intents API lets you save a customer's payment details without an initial payment. This is helpful if you want to onboard customers now, ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/js/react_stripe_js/elements/other/card_element?__=&amp;__+hssc=87732103.2.1429371502578&amp;__hsfp=3071927421&amp;__hssc=259582869.1.1585612800160&amp;__hstc=259582869.c4a577029c49e44b73bd3bee6fa38565.1585612800157.1585612800158.1585612800159.1&amp;__previewld=</id>
     <title>CardElement</title>
