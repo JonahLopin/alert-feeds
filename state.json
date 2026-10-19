@@ -1728,6 +1728,12 @@
    "summary": "Your new tax registration is automatically added to your Stripe Dashboard after Stripe registers for you. If you're set up to collect using Stripe Tax ...",
    "title": "Use Stripe to register for sales tax"
   },
+  "tag:google.com,2013:googlealerts/feed:11568300831970177174": {
+   "first_seen": "2026-10-19T22:44:10Z",
+   "link": "https://docs.stripe.com/api/treasury/outbound_payments?api-version=2026-08-26.preview",
+   "summary": "Simulate OutboundPayment state changes with the /v1/test_helpers/treasury/outbound_payments endpoints. These methods can only be called on test mode ...",
+   "title": "Outbound Payments | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:12263656120145640542": {
    "first_seen": "2026-10-09T11:10:19Z",
    "link": "https://docs.stripe.com/agentic-commerce/protocols/ucp",
@@ -1758,11 +1764,23 @@
    "summary": "Adjustments represent Stripe-initiated credits or debits to a user balance. They might be used to amend balances due to technical or operational error ...",
    "title": "Adjustments | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:13688216295203785807": {
+   "first_seen": "2026-10-19T22:44:10Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/outbound-payments?api-version=2026-09-30.preview",
+   "summary": "Outbound Payments v2 ... OutboundPayment represents a single money movement from one FinancialAccount you own to a payout method someone else owns.",
+   "title": "Outbound Payments | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:13857386370317827064": {
    "first_seen": "2026-10-15T10:47:01Z",
    "link": "https://docs.stripe.com/issuing/commercial-compliance/issuing-regulated-customer-notices?locale=fr-FR",
    "summary": "Stripe surveille les \u00e9v\u00e9nements n\u00e9cessitant une notification client et envoie un e-mail en votre nom au compte connect\u00e9. Pr\u00e9visualiser et envoyer des ...",
    "title": "Notifications r\u00e9glement\u00e9es Issuing destin\u00e9es aux clients | Documentation Stripe"
+  },
+  "tag:google.com,2013:googlealerts/feed:13997715178411682022": {
+   "first_seen": "2026-10-19T22:44:10Z",
+   "link": "https://docs.stripe.com/capital/getting-started/enable-financial-account-payouts?fa-api=v2",
+   "summary": "Configure your platform so connected accounts can receive Stripe Capital proceeds directly into their financial accounts instead of external bank ...",
+   "title": "Enable Capital payouts to financial accounts - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:14034177576267037701": {
    "first_seen": "2026-10-16T22:44:10Z",
@@ -1781,6 +1799,18 @@
    "link": "https://docs.stripe.com/api/radar/early_fraud_warnings/object?api-version=2026-04-22.preview",
    "summary": "Attributes \u00b7 idstring. Unique identifier for the object. \u00b7 objectstring. String representing the object's type. \u00b7 actionableboolean. An EFW is actionable ...",
    "title": "The Early Fraud Warning object | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:14608542408383698896": {
+   "first_seen": "2026-10-19T22:44:10Z",
+   "link": "https://docs.stripe.com/agentic-commerce/agents/webmcp",
+   "summary": "Build browser agents that discover and use structured tools in Stripe payment UIs. ... WebMCP lets browser agents interact with Stripe payment UIs ...",
+   "title": "Use WebMCP to complete Stripe payments in a browser"
+  },
+  "tag:google.com,2013:googlealerts/feed:14623328658414748969": {
+   "first_seen": "2026-10-19T22:44:10Z",
+   "link": "https://docs.stripe.com/api/issuing/transactions?api-version=2026-08-26.preview",
+   "summary": "Any use of an issued card that results in funds entering or leaving your Stripe account, such as a completed purchase or refund, is represented by an ...",
+   "title": "Transactions | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:14970350843857164666": {
    "first_seen": "2026-10-16T22:44:10Z",
@@ -1806,6 +1836,18 @@
    "summary": "Test your integration \u00b7 Create a PaymentIntent and retrieve the client secret. \u00b7 Select a payment method from the following table and enter its test ...",
    "title": "Create a PaymentIntent before collecting payment details - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:16485914212551374880": {
+   "first_seen": "2026-10-19T22:44:10Z",
+   "link": "https://docs.stripe.com/payments/checkout/metronome-credit-purchases",
+   "summary": "Create a Checkout Session that collects payment and adds prepaid commits to an existing Metronome contract after a payment succeeds.",
+   "title": "Sell prepaid usage credits with Checkout - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:16670148899943601293": {
+   "first_seen": "2026-10-19T22:44:10Z",
+   "link": "https://docs.stripe.com/agentic-commerce/sellers/use-cases/retail/checkout",
+   "summary": "Set up your Stripe account \u00b7 Go to the Agentic commerce page in the Dashboard and select Get started on Agentic commerce for retail, then choose to ...",
+   "title": "Sell through agents with Agentic Commerce Suite - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:16821937480774260821": {
    "first_seen": "2026-10-16T22:44:10Z",
    "link": "https://docs.stripe.com/data/data-pipeline/real-time-sync-to-postgres/schema",
@@ -1824,11 +1866,23 @@
    "summary": "Send your product data securely using the Stripe Product Catalog Import API in CSV format. Each row represents one product or variant. Submit a full ...",
    "title": "Catalog feed | Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:17926248140379080266": {
+   "first_seen": "2026-10-19T22:44:10Z",
+   "link": "https://docs.stripe.com/api/coupons/object?api-version=2026-09-30.preview",
+   "summary": "idstring. Unique identifier for the object. \u00b7 amount_offnullable integer. Amount (in the currency specified) that will be taken off the subtotal of any ...",
+   "title": "The Coupon object | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:2378811954673993430": {
    "first_seen": "2026-10-11T11:29:08Z",
    "link": "https://docs.stripe.com/payments/accept-a-payment-intent-first?api-integration=paymentintents&payment-ui=elements",
    "summary": "Create the PaymentIntent. Create a PaymentIntent on your server with an amount and currency. In the latest version of the API, specifying the ...",
    "title": "Create a PaymentIntent before collecting payment details - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:2454495905549446602": {
+   "first_seen": "2026-10-19T22:44:10Z",
+   "link": "https://docs.stripe.com/workflows/triggers",
+   "summary": "Trigger types \u00b7 Event triggers run the workflow when something happens in your Stripe account, such as a payment succeeding, a subscription renewing, ...",
+   "title": "Trigger workflows | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:2583425226690397504": {
    "first_seen": "2026-10-13T11:11:14Z",
@@ -1859,6 +1913,12 @@
    "link": "https://docs.stripe.com/service-principals",
    "summary": "A service principal is a non-human identity that represents an application, service or AI agent accessing Stripe. Service principals, much like ...",
    "title": "Service principals | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:3500159413411903804": {
+   "first_seen": "2026-10-19T22:44:10Z",
+   "link": "https://docs.stripe.com/api/radar/reviews/object?api-version=2026-09-30.preview",
+   "summary": "ip_address_location.countrynullable string. Two-letter ISO code representing the country where the payment originated.",
+   "title": "The Review object | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:3860128045443675112": {
    "first_seen": "2026-10-09T11:10:19Z",
@@ -1902,11 +1962,23 @@
    "summary": "Trial offers let you define free or paid introductory pricing for a subscription item. A TrialOffer specifies the price to charge during the trial, ...",
    "title": "Trial Offers | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:7401600488192813850": {
+   "first_seen": "2026-10-19T22:44:10Z",
+   "link": "https://docs.stripe.com/api/billing/alert?api-version=2026-08-26.preview",
+   "summary": "A billing alert is a resource that notifies you when a certain usage threshold on a meter is crossed. For example, you might create a billing alert to ...",
+   "title": "Alerts | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:8295351546662826994": {
    "first_seen": "2026-10-09T11:10:19Z",
    "link": "https://docs.stripe.com/event-destinations/overview",
    "summary": "Learn how Stripe events work, set up event destinations, and manage your integration. Direct events to webhook endpoints, Amazon EventBridge, ...",
    "title": "Events | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:8539933108500043529": {
+   "first_seen": "2026-10-19T22:44:10Z",
+   "link": "https://docs.stripe.com/api/identity/verification_sessions/object?api-version=2026-07-29.preview",
+   "summary": "last_error.codenullable enum. A short machine-readable string giving the reason for the verification or user-session failure. Possible enum ...",
+   "title": "The VerificationSession object | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:9248615612230296782": {
    "first_seen": "2026-10-11T11:29:08Z",

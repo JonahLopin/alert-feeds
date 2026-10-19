@@ -2,8 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-18T22:42:56Z</updated>
+  <updated>2026-10-19T22:44:10Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8539933108500043529</id>
+    <title>The VerificationSession object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/identity/verification_sessions/object?api-version=2026-07-29.preview" />
+    <published>2026-10-19T22:44:10Z</published>
+    <updated>2026-10-19T22:44:10Z</updated>
+    <summary>last_error.codenullable enum. A short machine-readable string giving the reason for the verification or user-session failure. Possible enum ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:7401600488192813850</id>
+    <title>Alerts | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/billing/alert?api-version=2026-08-26.preview" />
+    <published>2026-10-19T22:44:10Z</published>
+    <updated>2026-10-19T22:44:10Z</updated>
+    <summary>A billing alert is a resource that notifies you when a certain usage threshold on a meter is crossed. For example, you might create a billing alert to ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:3500159413411903804</id>
+    <title>The Review object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/radar/reviews/object?api-version=2026-09-30.preview" />
+    <published>2026-10-19T22:44:10Z</published>
+    <updated>2026-10-19T22:44:10Z</updated>
+    <summary>ip_address_location.countrynullable string. Two-letter ISO code representing the country where the payment originated.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:2454495905549446602</id>
+    <title>Trigger workflows | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/workflows/triggers" />
+    <published>2026-10-19T22:44:10Z</published>
+    <updated>2026-10-19T22:44:10Z</updated>
+    <summary>Trigger types · Event triggers run the workflow when something happens in your Stripe account, such as a payment succeeding, a subscription renewing, ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:17926248140379080266</id>
+    <title>The Coupon object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/coupons/object?api-version=2026-09-30.preview" />
+    <published>2026-10-19T22:44:10Z</published>
+    <updated>2026-10-19T22:44:10Z</updated>
+    <summary>idstring. Unique identifier for the object. · amount_offnullable integer. Amount (in the currency specified) that will be taken off the subtotal of any ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:16670148899943601293</id>
+    <title>Sell through agents with Agentic Commerce Suite - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/agentic-commerce/sellers/use-cases/retail/checkout" />
+    <published>2026-10-19T22:44:10Z</published>
+    <updated>2026-10-19T22:44:10Z</updated>
+    <summary>Set up your Stripe account · Go to the Agentic commerce page in the Dashboard and select Get started on Agentic commerce for retail, then choose to ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:16485914212551374880</id>
+    <title>Sell prepaid usage credits with Checkout - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/checkout/metronome-credit-purchases" />
+    <published>2026-10-19T22:44:10Z</published>
+    <updated>2026-10-19T22:44:10Z</updated>
+    <summary>Create a Checkout Session that collects payment and adds prepaid commits to an existing Metronome contract after a payment succeeds.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14623328658414748969</id>
+    <title>Transactions | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/issuing/transactions?api-version=2026-08-26.preview" />
+    <published>2026-10-19T22:44:10Z</published>
+    <updated>2026-10-19T22:44:10Z</updated>
+    <summary>Any use of an issued card that results in funds entering or leaving your Stripe account, such as a completed purchase or refund, is represented by an ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14608542408383698896</id>
+    <title>Use WebMCP to complete Stripe payments in a browser</title>
+    <link href="https://docs.stripe.com/agentic-commerce/agents/webmcp" />
+    <published>2026-10-19T22:44:10Z</published>
+    <updated>2026-10-19T22:44:10Z</updated>
+    <summary>Build browser agents that discover and use structured tools in Stripe payment UIs. ... WebMCP lets browser agents interact with Stripe payment UIs ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:13997715178411682022</id>
+    <title>Enable Capital payouts to financial accounts - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/capital/getting-started/enable-financial-account-payouts?fa-api=v2" />
+    <published>2026-10-19T22:44:10Z</published>
+    <updated>2026-10-19T22:44:10Z</updated>
+    <summary>Configure your platform so connected accounts can receive Stripe Capital proceeds directly into their financial accounts instead of external bank ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:13688216295203785807</id>
+    <title>Outbound Payments | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/outbound-payments?api-version=2026-09-30.preview" />
+    <published>2026-10-19T22:44:10Z</published>
+    <updated>2026-10-19T22:44:10Z</updated>
+    <summary>Outbound Payments v2 ... OutboundPayment represents a single money movement from one FinancialAccount you own to a payout method someone else owns.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:11568300831970177174</id>
+    <title>Outbound Payments | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/treasury/outbound_payments?api-version=2026-08-26.preview" />
+    <published>2026-10-19T22:44:10Z</published>
+    <updated>2026-10-19T22:44:10Z</updated>
+    <summary>Simulate OutboundPayment state changes with the /v1/test_helpers/treasury/outbound_payments endpoints. These methods can only be called on test mode ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:13292501989663731748</id>
     <title>Coupons | Stripe API Reference</title>
