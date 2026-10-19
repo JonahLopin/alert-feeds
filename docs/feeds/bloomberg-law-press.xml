@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-19T17:46:18Z</updated>
+  <updated>2026-10-19T18:54:27Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:218024721301700094</id>
+    <title>US Agents Arrest 11 in California Over Alleged Illegal Voting - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/us-agents-arrest-11-in-california-over-alleged-illegal-voting" />
+    <published>2026-10-19T18:54:27Z</published>
+    <updated>2026-10-19T18:54:27Z</updated>
+    <summary>Federal agents across California on Monday arrested 11 non-citizens who were charged with crimes including fraudulently registering to vote in US ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:13481964783450850473</id>
     <title>Snell &amp; Wilmer Opens Mexico City Office With Four-Partner Group</title>
@@ -795,13 +803,5 @@
     <published>2026-10-15T14:47:25Z</published>
     <updated>2026-10-15T14:47:25Z</updated>
     <summary>Cornell University hired a Buffalo, New York, law firm to defend a former student's suit over an alleged 2024 gang rape at a fraternity house.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:14499003129330924920</id>
-    <title>Hogan Lovells Brings On Thalhammer as New York Banking Partner</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/hogan-lovells-brings-on-thalhammer-as-new-york-banking-partner" />
-    <published>2026-10-15T14:47:25Z</published>
-    <updated>2026-10-15T14:47:25Z</updated>
-    <summary>Christopher Thalhammer joined Hogan Lovells Cadwalader as a partner in its banking and loan finance practice in New York, the firm announced ...</summary>
   </entry>
 </feed>

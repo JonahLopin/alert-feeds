@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 11109,
+  "credits_used": 11159,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-19T17:45:04Z",
+  "last_run": "2026-10-19T18:53:01Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 229
+  "runs": 230
  },
  "feeds": {
   "adp-help": {},
@@ -456,6 +456,15 @@
     "page": 4,
     "summary": "BofA, the No. 2 US bank, also announced a $1.2 billion non-tax-deductible charge, cutting into net income by 17 cents a share. The charge is for fines for money ...",
     "title": "BofA Results Marred by $1.2 Billion Penalty, Weaker ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/breckenridge-rental-fee-will-get-colorado-justices-scrutiny": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-19T18:53:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/breckenridge-rental-fee-will-get-colorado-justices-scrutiny",
+    "page": 1,
+    "summary": "The Colorado Supreme Court agreed Monday to review whether the ski resort town of Breckenridge needed voter approval to impose an annual fee on short term ...",
+    "title": "Breckenridge Rental Fee Will Get Colorado Justices' Scrutiny"
    },
    "news.bloomberglaw.com/business-and-practice/brooklyn-da-cracks-global-crypto-scam-network-in-major-bust": {
     "baseline": false,
@@ -1539,6 +1548,15 @@
     "summary": "Louisiana is moving toward statewide property tax valuation guidelines for lifecycles for data center equipment and infrastructure. Photographer: Jason Alden/ ...",
     "title": "Louisiana Inches Toward State Data Center Property Tax ..."
    },
+   "news.bloomberglaw.com/business-and-practice/man-twice-illegally-deported-to-el-salvador-declines-to-return": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T18:53:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/man-twice-illegally-deported-to-el-salvador-declines-to-return",
+    "page": 3,
+    "summary": "The man whom the Trump administration twice deported to El Salvador in violation of court orders has decided not to pursue a return to the US, ...",
+    "title": "Man Twice Illegally Deported To El Salvador Declines to ..."
+   },
    "news.bloomberglaw.com/business-and-practice/mastercard-ceo-sees-cross-border-payments-as-top-stablecoin-use": {
     "baseline": false,
     "date_hint": "12 hours ago",
@@ -1988,6 +2006,15 @@
     "page": 2,
     "summary": "Pruitt's practice focuses on representing pharmaceutical and medical device companies, as well as other companies in consumer class actions and toxic tort ...",
     "title": "Skadden Brings On Four Mass Tort and Product Liability ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/snell-wilmer-opens-mexico-city-office-with-four-partner-group-1": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-19T18:53:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/snell-wilmer-opens-mexico-city-office-with-four-partner-group-1",
+    "page": 3,
+    "summary": "Snell & Wilmer has opened a Mexico City office with the arrival of a new team of attorneys, the firm said Monday.",
+    "title": "Snell & Wilmer Opens Mexico City Office With Four-Partner ..."
    },
    "news.bloomberglaw.com/business-and-practice/softbank-is-said-to-weigh-buying-largest-us-security-firm-allied": {
     "baseline": false,
@@ -2463,6 +2490,15 @@
     "page": 2,
     "summary": "Weil, Gotshal & Manges is adding private equity partner Rebecca Ward to its London office after she spent more than four years at Freshfields.",
     "title": "Weil Adds London Private Equity Partner After String of Exits"
+   },
+   "news.bloomberglaw.com/business-and-practice/weil-recruits-paul-weiss-antitrust-lawyer-sobel-in-new-york": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T18:53:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/weil-recruits-paul-weiss-antitrust-lawyer-sobel-in-new-york",
+    "page": 2,
+    "summary": "Yuni Yan Sobel joined Weil, Gotshal & Manges as a partner in its US antitrust practice in New York, the firm announced Monday.",
+    "title": "Weil Recruits Paul Weiss Antitrust Lawyer Sobel in New York"
    },
    "news.bloomberglaw.com/business-and-practice/what-should-ai-guardrails-look-like-a-guide-to-the-proposals": {
     "baseline": false,
