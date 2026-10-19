@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 10719,
+  "credits_used": 10767,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-19T09:16:52Z",
+  "last_run": "2026-10-19T10:31:57Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 221
+  "runs": 222
  },
  "feeds": {
   "adp-help": {},
@@ -1038,6 +1038,15 @@
     "summary": "The world's top financial stability watchdog urged global policymakers to address inefficiencies in their banking regulations and focus on material issues, ...",
     "title": "FSB Moves to Align on Bank Rules as Regulators Weigh ..."
    },
+   "news.bloomberglaw.com/business-and-practice/gc-x-ai-retrospective-the-billable-hour-like-a-twinkie-endures": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-19T10:31:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/gc-x-ai-retrospective-the-billable-hour-like-a-twinkie-endures",
+    "page": 1,
+    "summary": "GC x AI, arguing that artificial intelligence would remake the substance, process, and economics of legal services",
+    "title": "GC x AI Retrospective: The Billable Hour, Like a Twinkie, ..."
+   },
    "news.bloomberglaw.com/business-and-practice/georgia-wins-bid-to-end-injunction-blocking-age-verification-law": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1269,6 +1278,15 @@
     "page": 1,
     "summary": "The Court of Federal Claims Friday dismissed the remainder of Dougherty Electric Inc.'s $1.53 million refund claim for interest and penalties it paid",
     "title": "Judge Nixes Dougherty Electric's Surviving Post-Fraud ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/judge-rejects-baseless-doj-bid-to-recuse-from-golf-course-case": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T10:31:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/judge-rejects-baseless-doj-bid-to-recuse-from-golf-course-case",
+    "page": 1,
+    "summary": "A federal judge rejected a Justice Department official's request to recuse herself from a court challenge to President Donald Trump's proposed changes",
+    "title": "Judge Rejects 'Baseless' DOJ Bid to Recuse From Golf ..."
    },
    "news.bloomberglaw.com/business-and-practice/judge-rules-news-outlets-can-keep-white-house-access-for-now-1": {
     "baseline": false,
@@ -2058,6 +2076,15 @@
     "page": 3,
     "summary": "President Donald Trump is set to direct the federal government to seek ways to overcome state obstacles to energy projects, following efforts threatening ...",
     "title": "Trump to Direct Agencies to Counter States Blocking ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trumps-medicare-ai-push-raises-patient-data-privacy-concerns": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-19T10:31:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trumps-medicare-ai-push-raises-patient-data-privacy-concerns",
+    "page": 1,
+    "summary": "The Trump administration's move to integrate artificial intelligence agents with Medicare patient data is facing concerns the tech push could put sensitive ...",
+    "title": "Trump's Medicare AI Push Raises Patient Data Privacy ..."
    },
    "news.bloomberglaw.com/business-and-practice/trumps-proposed-triumphal-arch-draws-suit-by-virginia-county": {
     "baseline": true,
@@ -4302,6 +4329,15 @@
     "page": 1,
     "summary": "Reportagen, Pressemitteilungen, Success Stories, Veranstaltungsberichte, Blogs, Videos von SAP \u00fcber Cloud, L\u00f6sungen, Produkte, Software, Trends, SAP HANA ...",
     "title": "Cloud News & Stories"
+   },
+   "news.sap.com/germany/type/feature": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-19T10:31:57Z",
+    "link": "https://news.sap.com/germany/type/feature/",
+    "page": 1,
+    "summary": "Gemeinsam auf digitaler Schiene: \u00d6BB erneuert SAP-Systeme \u00b7 Feature \u00b7 Schatten-KI im Krankenhaus: Warum die Antwort nicht das Verbot ist \u00b7 Feature \u00b7 Joule Work ...",
+    "title": "Feature Archiv"
    },
    "news.sap.com/italy/2026/10/angelini-technologies-fameccanica-sceglie-rise-with-sap-per-accelerare-la-trasformazione-digitale-e-sostenere-la-crescita-futura": {
     "baseline": false,

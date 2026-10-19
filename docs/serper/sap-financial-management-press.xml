@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-19T09:16:52Z</updated>
+  <updated>2026-10-19T10:31:57Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/type/feature/</id>
+    <title>Feature Archiv</title>
+    <link href="https://news.sap.com/germany/type/feature/" />
+    <published>2026-10-19T10:31:57Z</published>
+    <updated>2026-10-19T10:31:57Z</updated>
+    <summary>Gemeinsam auf digitaler Schiene: ÖBB erneuert SAP-Systeme · Feature · Schatten-KI im Krankenhaus: Warum die Antwort nicht das Verbot ist · Feature · Joule Work ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/germany/2026/10/oebb-erneuert-sap-systeme/</id>
     <title>RISE with SAP: Innovationen für die ÖBB</title>
@@ -795,13 +803,5 @@
     <published>2026-10-11T03:05:00Z</published>
     <updated>2026-10-11T03:05:00Z</updated>
     <summary>SAP Connect 2026 라스 베이거스 무대에서 기조연설 중인 크리스티안 클라인 SAP 회장. SAP. 대한민국 080-219-2400. 지역별 국가 번호 전체 목록 보기.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/japan/2026/10/1009_sap-strategic-leader-2026-fosway-9-grid-cloud-hr/?amp=1</id>
-    <title>SAP、「2026 Fosway 9-Grid™ for Cloud HR」で Strategic ...</title>
-    <link href="https://news.sap.com/japan/2026/10/1009_sap-strategic-leader-2026-fosway-9-grid-cloud-hr/?amp=1" />
-    <published>2026-10-11T03:05:00Z</published>
-    <updated>2026-10-11T03:05:00Z</updated>
-    <summary>SAPは、「2026 Fosway 9-Grid™ for Cloud HR」において、引き続き「Strategic Leader（戦略的リーダー）」に選出されました。これは、人事変革に取り組む企業にとって、SAP ...</summary>
   </entry>
 </feed>
