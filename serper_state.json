@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 10912,
+  "credits_used": 10960,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-19T13:52:10Z",
+  "last_run": "2026-10-19T14:48:50Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 225
+  "runs": 226
  },
  "feeds": {
   "adp-help": {},
@@ -949,6 +949,15 @@
     "summary": "Federal agents searched Representative Ilhan Omar's Washington-area home in an escalation in the Trump administration's scrutiny of the Minnesota Democrat, ...",
     "title": "Federal Agents Search Representative Ilhan Omar's Home ..."
    },
+   "news.bloomberglaw.com/business-and-practice/federal-ban-on-home-distilling-draws-us-supreme-court-review": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-19T14:48:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/federal-ban-on-home-distilling-draws-us-supreme-court-review",
+    "page": 2,
+    "summary": "The US Supreme Court agreed to consider the constitutionality of the federal ban on home distilleries in a clash that will test the power of Congress.",
+    "title": "Federal Ban on Home Distilling Draws US Supreme Court ..."
+   },
    "news.bloomberglaw.com/business-and-practice/federal-watchdog-will-investigate-cftc-job-cuts-and-enforcement": {
     "baseline": true,
     "date_hint": "18 hours ago",
@@ -1360,6 +1369,15 @@
     "summary": "A spate of cyberattacks that has rocked Japan Inc. in recent weeks is alarming not because of some novel artificial intelligence hacking methods, ...",
     "title": "Karaoke Hack Shows Routine Cybercrime: Catherine ..."
    },
+   "news.bloomberglaw.com/business-and-practice/kimberly-clark-offers-bonds-to-help-fund-tylenol-maker-takeover": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-19T14:48:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kimberly-clark-offers-bonds-to-help-fund-tylenol-maker-takeover",
+    "page": 1,
+    "summary": "Kimberly-Clark Corp. is selling investment-grade bonds in as many as five parts to help fund its pending acquisition of Tylenol maker Kenvue Inc.",
+    "title": "Kimberly-Clark Offers Bonds to Help Fund Tylenol Maker ..."
+   },
    "news.bloomberglaw.com/business-and-practice/kirkland-hides-riches-as-big-law-clients-scrutinize-rising-costs": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -1539,6 +1557,15 @@
     "summary": "Investor Jan Durbin accused Medpace of overhyping its projected book-to-bill ratio \u2014 which the company calculates by dividing net new business awards by revenue ...",
     "title": "Medpace Investor Ceases Suit Over Clinical Trial Demand ..."
    },
+   "news.bloomberglaw.com/business-and-practice/merck-kgaa-to-buy-silence-therapeutics-for-1-1-billion": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T14:48:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/merck-kgaa-to-buy-silence-therapeutics-for-1-1-billion",
+    "page": 1,
+    "summary": "Merck KGaA agreed to acquire Silence Therapeutics Plc for about $1.1 billion in a cash transaction as the German science company looks to beef up in rare ...",
+    "title": "Merck KGaA to Buy Silence Therapeutics for $1.1 Billion"
+   },
    "news.bloomberglaw.com/business-and-practice/milbank-hires-white-cases-doe-for-project-finance-in-chicago": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1592,6 +1619,15 @@
     "page": 1,
     "summary": "The NCAA sued Gov. Mike DeWine (R) for directing colleges and universities in Ohio to ignore part of the organization's new student-athlete eligibility rules,",
     "title": "NCAA Sues Ohio Governor Over Student-Athlete Eligibility ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/nebraska-trans-school-sports-initiative-remains-on-ballot": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-19T14:48:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/nebraska-trans-school-sports-initiative-remains-on-ballot",
+    "page": 1,
+    "summary": "A Nebraska ballot initiative meant to prohibit transgender athletes from playing on school sports teams consistent with their gender identity will remain on ...",
+    "title": "Nebraska Trans School Sports Initiative Remains on Ballot"
    },
    "news.bloomberglaw.com/business-and-practice/nelson-mullins-adds-daniel-badovinac-as-tax-partner-in-miami": {
     "baseline": false,
@@ -2023,6 +2059,15 @@
     "summary": "A new District of Columbia law that regulates event ticket resales in order to prevent deceptive practices violates the US Constitution \u201cseveral times over ...",
     "title": "Ticket Resellers Aim to Scrap DC's New Deceptive ..."
    },
+   "news.bloomberglaw.com/business-and-practice/top-us-court-rejects-fired-nlrb-members-challenge-to-removal": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-19T14:48:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/top-us-court-rejects-fired-nlrb-members-challenge-to-removal",
+    "page": 1,
+    "summary": "The justices declined to review the US Court of Appeals for the District of Columbia's ruling that allowed Trump to fire Wilcox at-will",
+    "title": "Top US Court Rejects Fired NLRB Member's Challenge to ..."
+   },
    "news.bloomberglaw.com/business-and-practice/troutman-pepper-locke-lands-two-health-care-litigation-partners": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -2175,6 +2220,15 @@
     "page": 2,
     "summary": "Production at manufacturers rose 0.3% after a revised 0.2% August decrease, according to Federal Reserve data out Friday. The September increase matched the ...",
     "title": "US Factory Production Rebounds on Pickup in Output of ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-19T14:48:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts",
+    "page": 2,
+    "summary": "The Trump administration barred civilian US government agencies from using products or services from Chinese artificial intelligence startup DeepSeek, ...",
+    "title": "US Moves to Bar DeepSeek From Federal Agencies and ..."
    },
    "news.bloomberglaw.com/business-and-practice/us-sanctions-icc-after-former-judge-gets-nobel-peace-prize-1": {
     "baseline": false,
@@ -2540,6 +2594,15 @@
     "page": 1,
     "summary": "Learn how to write restaurant menu descriptions that drive online orders. Get real examples, common mistakes to avoid, and a framework you can use today.",
     "title": "How to Write Menu Descriptions That Sell (With Examples)"
+   },
+   "merchants.doordash.com/en-us/blog/menu-optimization": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-19T14:48:50Z",
+    "link": "https://merchants.doordash.com/en-us/blog/menu-optimization",
+    "page": 1,
+    "summary": "By using menu data and AI insights, you can turn your menu into a true business tool \u2014 highlighting bestsellers, adjusting underperformers, and updating in ...",
+    "title": "How Restaurants Can Use Data to Optimize Menu Items"
    },
    "merchants.doordash.com/en-us/blog/restaurant-advertisement": {
     "baseline": false,
