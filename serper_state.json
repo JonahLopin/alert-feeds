@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 10671,
+  "credits_used": 10719,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-19T08:18:19Z",
+  "last_run": "2026-10-19T09:16:52Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 220
+  "runs": 221
  },
  "feeds": {
   "adp-help": {},
@@ -572,6 +572,15 @@
     "page": 2,
     "summary": "Cornell University hired a Buffalo, New York, law firm to defend a former student's suit over an alleged 2024 gang rape at a fraternity house.",
     "title": "Cornell Hires Buffalo Lawyers for Campus Rape Suit ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/cornell-scandal-offers-lessons-for-high-stakes-internal-reviews": {
+    "baseline": false,
+    "date_hint": "47 minutes ago",
+    "first_seen": "2026-10-19T09:16:52Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cornell-scandal-offers-lessons-for-high-stakes-internal-reviews",
+    "page": 1,
+    "summary": "The scandal engulfing Cornell University underscores the importance of handling internal reviews and taking steps to ensure the credibility of the reviewer ...",
+    "title": "Cornell Scandal Offers Lessons For High-Stakes Internal ..."
    },
    "news.bloomberglaw.com/business-and-practice/court-allows-trumps-latest-anti-dei-federal-contracting-order": {
     "baseline": false,
@@ -3424,6 +3433,15 @@
     "summary": "Learn what to do in Intuit QuickBooks Workforce and QuickBooks Desktop Payroll when you have a new company file. If you have a new company you need payroll ...",
     "title": "Add a new company to your payroll subscription - QuickBooks"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/payroll-setup/set-contractors-track-1099s-quickbooks/L4wX1Ge0e_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-19T09:16:52Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll-setup/set-contractors-track-1099s-quickbooks/L4wX1Ge0e_US_en_US",
+    "page": 1,
+    "summary": "In QuickBooks Online and QuickBooks Contractor Payments, you can set up your contractors for a 1099, then track their payments.",
+    "title": "Set up contractors for 1099s - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/payroll/tracking-payroll-expenses-class-department/L7kjT9SYZ_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -4212,6 +4230,15 @@
     "page": 1,
     "summary": "Die SAP Business AI Platform stellt sicher, dass diese Antworten auf dem Kontext der Gesch\u00e4ftsabl\u00e4ufe des jeweiligen Unternehmens basieren.",
     "title": "N\u00e4chste Generation von Business AI"
+   },
+   "news.sap.com/germany/2026/10/oebb-erneuert-sap-systeme": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T09:16:52Z",
+    "link": "https://news.sap.com/germany/2026/10/oebb-erneuert-sap-systeme/",
+    "page": 1,
+    "summary": "Die Partnerschaft zwischen \u00d6BB und SAP zeigt beispielhaft, wie eine umfassende digitale Transformation geplant werden muss, um langfristig Mehrwert zu schaffen.",
+    "title": "RISE with SAP: Innovationen f\u00fcr die \u00d6BB"
    },
    "news.sap.com/germany/2026/10/sap-praesentiert-das-autonome-unternehmen-im-praxiseinsatz": {
     "baseline": true,
