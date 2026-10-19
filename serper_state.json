@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 10960,
+  "credits_used": 11009,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-19T14:48:50Z",
+  "last_run": "2026-10-19T15:46:25Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 226
+  "runs": 227
  },
  "feeds": {
   "adp-help": {},
@@ -1351,6 +1351,15 @@
     "summary": "Jump Trading and DRW are committing traders and capital to an emerging market for financial contracts tied to computing power, as efforts to make the ...",
     "title": "Jump, DRW Bet on New Compute Market as AI Boom ..."
    },
+   "news.bloomberglaw.com/business-and-practice/justices-skip-review-of-cemex-challenge-to-nlrb-bargaining-order": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-19T15:46:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/justices-skip-review-of-cemex-challenge-to-nlrb-bargaining-order",
+    "page": 1,
+    "summary": "The US Supreme Court rejected Cemex Construction Materials Pacific LLC's challenge to a National Labor Relations Board decision that ordered the company to ...",
+    "title": "Justices Skip Review of Cemex Challenge to NLRB ..."
+   },
    "news.bloomberglaw.com/business-and-practice/kalshi-seeks-full-6th-circuit-review-of-states-regulation-win": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1736,6 +1745,15 @@
     "page": 1,
     "summary": "An intercompany legal services agreement, or ILSA, provides real-time evidence of an attorney-client relationships among both in-house and external counsel, as ...",
     "title": "Pacts Protect Attorney-Client Privilege Across Company ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/paul-hastings-nabs-sheppard-mullin-california-litigation-trio": {
+    "baseline": false,
+    "date_hint": "58 minutes ago",
+    "first_seen": "2026-10-19T15:46:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/paul-hastings-nabs-sheppard-mullin-california-litigation-trio",
+    "page": 1,
+    "summary": "Paul Hastings hired Craig Cardon, Abby Meyer and Jay Ramsey from Sheppard Mullin as partners in its complex litigation practice in California, ...",
+    "title": "Paul Hastings Nabs Sheppard Mullin California Litigation ..."
    },
    "news.bloomberglaw.com/business-and-practice/pediatrician-who-drew-500-000-from-savings-shows-doctor-crisis": {
     "baseline": false,
@@ -4482,6 +4500,15 @@
     "page": 2,
     "summary": "Dalla sua fondazione nel 1975, l'azienda ha realizzato oltre 1.300 linee produttive, installate in 72 Paesi: nel 2025, 1 pannolino baby open su 4 venduto nel ...",
     "title": "Angelini Technologies \u2013 Fameccanica sceglie RISE with ..."
+   },
+   "news.sap.com/italy/2026/10/its-the-beginning-of-better-al-sap-now-ai-tour-milan-lautonomous-enterprise-prende-vita": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T15:46:25Z",
+    "link": "https://news.sap.com/italy/2026/10/its-the-beginning-of-better-al-sap-now-ai-tour-milan-lautonomous-enterprise-prende-vita/",
+    "page": 1,
+    "summary": "Al centro la visione dell'Autonomous Enterprise, un modello in cui dati, applicazioni e intelligenza artificiale lavorano insieme per rendere i processi ...",
+    "title": "It's the beginning of better: al SAP NOW AI Tour Milan, l ..."
    },
    "news.sap.com/italy/2026/10/sap-annuncia-lacquisizione-di-techwolf-per-offrire-alle-aziende-una-visione-del-lavoro-basata-su-evidenze-nellera-dellai/futuristic-glossy-striped-waves-lines-gradient-dark-blue-lilac-purple-metallic-technology-innovation-background-3d-abstract-pattern-design-element-geometric-composition": {
     "baseline": false,
