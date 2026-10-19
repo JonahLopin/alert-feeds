@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-19T16:49:54Z</updated>
+  <updated>2026-10-19T17:46:18Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:13481964783450850473</id>
+    <title>Snell &amp; Wilmer Opens Mexico City Office With Four-Partner Group</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/snell-wilmer-opens-mexico-city-office-with-four-partner-group-1" />
+    <published>2026-10-19T17:46:18Z</published>
+    <updated>2026-10-19T17:46:18Z</updated>
+    <summary>Rivero, who will serve as the office's managing partner, advises domestic and foreign organizations on M&amp;A, joint ventures, private equity, banking ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:5959417200307563722</id>
     <title>Man Twice Illegally Deported To El Salvador Declines to Return - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-10-15T14:47:25Z</published>
     <updated>2026-10-15T14:47:25Z</updated>
     <summary>Christopher Thalhammer joined Hogan Lovells Cadwalader as a partner in its banking and loan finance practice in New York, the firm announced ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:13293522013851955369</id>
-    <title>Nvidia, ChipAgents Launch Eval for AI Chip Design: Information - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/nvidia-chipagents-launch-eval-for-ai-chip-design-information" />
-    <published>2026-10-15T14:47:25Z</published>
-    <updated>2026-10-15T14:47:25Z</updated>
-    <summary>Nvidia and ChipAgents released a benchmark that measures how different AI models perform at the task, The Information reports, citing ChipAgents ...</summary>
   </entry>
 </feed>
