@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 10577,
+  "credits_used": 10624,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-19T05:32:30Z",
+  "last_run": "2026-10-19T07:10:59Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 218
+  "runs": 219
  },
  "feeds": {
   "adp-help": {},
@@ -3540,6 +3540,15 @@
     "page": 1,
     "summary": "Use this feature to monitor real-time data, identify trends, and track progress against goals to make informed business decisions.",
     "title": "View key performance indicators for your business - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/state-taxes/faq-filing-taxes/L7id93G7F_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-19T07:10:59Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/state-taxes/faq-filing-taxes/L7id93G7F_US_en_US",
+    "page": 1,
+    "summary": "Use QuickBooks to file, pay, and record your sales tax. This helps you make sure you comply with tax regulations, so you can focus more on your business.",
+    "title": "File and pay sales tax in QuickBooks Online - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/t4-slips/view-paychecks-w-2s-quickbooks-workforce/L3TCwUJtD_US_en_US": {
     "baseline": true,
