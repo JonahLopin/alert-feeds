@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-19T11:30:30Z</updated>
+  <updated>2026-10-19T12:44:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/volkswagen-pushes-for-pay-freeze-as-union-talks-get-underway</id>
+    <title>Volkswagen Pushes for Pay Freeze as Union Talks Get ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/volkswagen-pushes-for-pay-freeze-as-union-talks-get-underway" />
+    <published>2026-10-19T12:44:53Z</published>
+    <updated>2026-10-19T12:44:53Z</updated>
+    <summary>Volkswagen AG is pushing for a global pay freeze through 2030, according to the automaker's worker representatives, setting up a clash with labor as fresh ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/sidley-lands-mayer-brown-partner-kunkes-to-grow-finance-group</id>
     <title>Sidley Lands Mayer Brown Partner Kunkes to Grow ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-14T17:30:13Z</published>
     <updated>2026-10-14T17:30:13Z</updated>
     <summary>Nvidia and ChipAgents released a benchmark that measures how different AI models perform at the task, The Information reports, citing ChipAgents CEO William ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/pennsylvania-bans-skill-games-after-state-gridlock-on-tax-deal</id>
-    <title>Pennsylvania Bans Skill Games After State Gridlock on Tax Deal</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/pennsylvania-bans-skill-games-after-state-gridlock-on-tax-deal" />
-    <published>2026-10-14T16:33:28Z</published>
-    <updated>2026-10-14T16:33:28Z</updated>
-    <summary>Skill game machines are now banned in Pennsylvania after lawmakers failed to reach a deal to legalize the industry, leaving on the table hundreds of ...</summary>
   </entry>
 </feed>

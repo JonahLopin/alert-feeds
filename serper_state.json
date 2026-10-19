@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 10815,
+  "credits_used": 10863,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-19T11:30:30Z",
+  "last_run": "2026-10-19T12:44:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 223
+  "runs": 224
  },
  "feeds": {
   "adp-help": {},
@@ -2193,6 +2193,15 @@
     "page": 5,
     "summary": "Vietnam has \u201cessentially completed\u201d talks on a US trade deal and submitted its final remarks to Washington after months of negotiations over tariffs and ...",
     "title": "Vietnam Says US Trade Deal Nearly Done With Final Text ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/volkswagen-pushes-for-pay-freeze-as-union-talks-get-underway": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-19T12:44:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/volkswagen-pushes-for-pay-freeze-as-union-talks-get-underway",
+    "page": 1,
+    "summary": "Volkswagen AG is pushing for a global pay freeze through 2030, according to the automaker's worker representatives, setting up a clash with labor as fresh ...",
+    "title": "Volkswagen Pushes for Pay Freeze as Union Talks Get ..."
    },
    "news.bloomberglaw.com/business-and-practice/vw-pivots-to-trucks-and-rugged-suvs-in-a-quest-for-us-profit": {
     "baseline": false,
