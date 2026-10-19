@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 11210,
+  "credits_used": 11261,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-19T20:10:52Z",
+  "last_run": "2026-10-19T21:09:24Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 231
+  "runs": 232
  },
  "feeds": {
   "adp-help": {},
@@ -2329,6 +2329,15 @@
     "summary": "Plus500 Ltd. agreed to buy retail trading platform Hedge Capital Markets as it looks to expand into the US.",
     "title": "UK Trading Platform Plus500 Buys Hedge to Help US ..."
    },
+   "news.bloomberglaw.com/business-and-practice/us-agents-arrest-11-in-california-over-alleged-illegal-voting": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T21:09:24Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-agents-arrest-11-in-california-over-alleged-illegal-voting",
+    "page": 2,
+    "summary": "Federal agents across California on Monday arrested 11 non-citizens who were charged with crimes including fraudulently registering to vote in US elections, ...",
+    "title": "US Agents Arrest 11 in California Over Alleged Illegal Voting"
+   },
    "news.bloomberglaw.com/business-and-practice/us-china-blame-game-over-global-economy-tilts-in-beijings-favor": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -2773,6 +2782,24 @@
     "link": "https://merchants.doordash.com/en-us/blog/restaurant-customer-feedback",
     "summary": "8 Ways to collect restaurant customer feedback \u00b7 1. Claim and optimize your business listings \u00b7 2. Encourage online reviews \u2014 then respond to every one \u00b7 3.",
     "title": "Restaurant Customer Feedback: 8 Ways to Collect It"
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-customer-retention": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-19T21:09:24Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-customer-retention",
+    "page": 1,
+    "summary": "Discover 6 proven restaurant customer retention strategies, A good customer retention rate for restaurants in the restaurant industry is 70\u201380%.",
+    "title": "Restaurant Customer Retention: 6 Strategies That Work"
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-digital-marketing": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-19T21:09:24Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-digital-marketing",
+    "page": 1,
+    "summary": "The no-fluff guide to restaurant digital marketing: website, email, SMS, Google, social, and reviews, for operators running marketing solo.",
+    "title": "Restaurant Digital Marketing: Your Ultimate Strategy Guide"
    },
    "merchants.doordash.com/en-us/blog/restaurant-email-marketing": {
     "baseline": false,
@@ -6760,6 +6787,24 @@
     "page": 1,
     "summary": "Learn how marketplace sales tax works, which states have facilitator laws, and what sellers on Amazon, Walmart, Etsy, and other platforms need to know.",
     "title": "Marketplace Sales Tax Explained: How Facilitator Laws Works"
+   },
+   "taxcloud.com/blog/sales-tax-calculation": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T21:09:24Z",
+    "link": "https://taxcloud.com/blog/sales-tax-calculation/",
+    "page": 1,
+    "summary": "Learn how sales tax calculation works, what determines the rate on each transaction, and how to apply the correct tax at checkout across jurisdictions.",
+    "title": "Sales Tax Calculation Explained: How Tax Rates Are Defined"
+   },
+   "taxcloud.com/blog/sales-tax-collection": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-19T21:09:24Z",
+    "link": "https://taxcloud.com/blog/sales-tax-collection/",
+    "page": 1,
+    "summary": "Learn when your business needs to start collecting sales tax, how collection works across different sales channels, and what obligations you have now.",
+    "title": "When & How to Charge Sales Tax - TaxCloud"
    },
    "taxcloud.com/blog/voluntary-disclosure-agreement-vda": {
     "baseline": false,

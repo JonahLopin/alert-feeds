@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-19T20:10:52Z</updated>
+  <updated>2026-10-19T21:09:24Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/us-agents-arrest-11-in-california-over-alleged-illegal-voting</id>
+    <title>US Agents Arrest 11 in California Over Alleged Illegal Voting</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/us-agents-arrest-11-in-california-over-alleged-illegal-voting" />
+    <published>2026-10-19T21:09:24Z</published>
+    <updated>2026-10-19T21:09:24Z</updated>
+    <summary>Federal agents across California on Monday arrested 11 non-citizens who were charged with crimes including fraudulently registering to vote in US elections, ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/thoma-bravo-expects-rogue-agents-to-persist-as-ai-buildout-grows</id>
     <title>Thoma Bravo Expects Rogue Agents to Persist as AI ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-14T22:43:53Z</published>
     <updated>2026-10-14T22:43:53Z</updated>
     <summary>Volkswagen AG has spent decades trying to build a US business that matches its stature as the world's second-largest carmaker. Now the market it repeatedly ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/florida-gets-pause-on-teen-social-media-age-restrictions-lifted</id>
-    <title>Florida Gets Pause on Teen Social Media Age Restrictions ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/florida-gets-pause-on-teen-social-media-age-restrictions-lifted" />
-    <published>2026-10-14T22:43:53Z</published>
-    <updated>2026-10-14T22:43:53Z</updated>
-    <summary>Florida convinced a federal appeals court Wednesday to undo a preliminary injunction that stopped it from enforcing a state law imposing age-based ...</summary>
   </entry>
 </feed>
