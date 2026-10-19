@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-19T11:09:28Z</updated>
+  <updated>2026-10-19T12:16:25Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:13624754427683434099</id>
+    <title>ICE Private Prison Contracts Set Up Tough Environmental Battle - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/ice-private-prison-contracts-set-up-tough-environmental-battle" />
+    <published>2026-10-19T12:16:25Z</published>
+    <updated>2026-10-19T12:16:25Z</updated>
+    <summary>The Trump administration is shifting its strategy for building out a nationwide network of immigration detention facilities, and litigators say ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:3554628269368039101</id>
     <title>Cornell Scandal Offers Lessons For High-Stakes Internal Reviews</title>
@@ -795,13 +803,5 @@
     <published>2026-10-14T11:46:03Z</published>
     <updated>2026-10-14T11:46:03Z</updated>
     <summary>Ninth Circuit judges grappled Tuesday with a central question during arguments in three wolf-related cases: what it means for imperiled wolves to ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:10585719800853984225</id>
-    <title>Crypto Wallet Tampering Fallout Widens as OneKey Drops Reseller - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/crypto-wallet-tampering-fallout-widens-as-onekey-drops-reseller" />
-    <published>2026-10-14T11:46:03Z</published>
-    <updated>2026-10-14T11:46:03Z</updated>
-    <summary>Crypto hardware maker OneKey has revoked CryptoBilis's authorization as a reseller of its products, widening the fallout from the discovery that ...</summary>
   </entry>
 </feed>
