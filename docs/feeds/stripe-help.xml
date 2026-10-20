@@ -2,8 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-19T22:44:10Z</updated>
+  <updated>2026-10-20T22:44:24Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:9904860476252276244</id>
+    <title>Subscription Items | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/subscription_items?api-version=2026-08-26.preview" />
+    <published>2026-10-20T22:44:24Z</published>
+    <updated>2026-10-20T22:44:24Z</updated>
+    <summary>Subscription items allow you to create customer subscriptions with more than one plan, making it easy to represent complex billing relationships.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:9850902256530377436</id>
+    <title>The Transaction object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/issuing/transactions/object?api-version=2026-09-30.preview" />
+    <published>2026-10-20T22:44:24Z</published>
+    <updated>2026-10-20T22:44:24Z</updated>
+    <summary>network_data.transaction_idnullable string. Unique identifier for the authorization assigned by the card network used to match subsequent messages, ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:941256059425004100</id>
+    <title>Country Specs | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/country_specs?api-version=2026-07-29.preview" />
+    <published>2026-10-20T22:44:24Z</published>
+    <updated>2026-10-20T22:44:24Z</updated>
+    <summary>Stripe needs to collect certain pieces of information about each account created. These requirements can differ depending on the account's country.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:7098977794028413137</id>
+    <title>Prices | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/prices?api-version=2026-09-30.preview" />
+    <published>2026-10-20T22:44:24Z</published>
+    <updated>2026-10-20T22:44:24Z</updated>
+    <summary>Prices define the unit cost, currency, and (optional) billing cycle for both recurring and one-time purchases of products. Products help you track ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:6471659853664775720</id>
+    <title>The Report Run object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/reporting/report_run/object?api-version=2026-08-26.preview" />
+    <published>2026-10-20T22:44:24Z</published>
+    <updated>2026-10-20T22:44:24Z</updated>
+    <summary>parameters.interval_endnullable timestamp. Ending timestamp of data to be included in the report run. Can be any UTC timestamp between 1 second after ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:18392163744034660140</id>
+    <title>Payout Methods | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/payout-methods?api-version=2026-09-30.preview" />
+    <published>2026-10-20T22:44:24Z</published>
+    <updated>2026-10-20T22:44:24Z</updated>
+    <summary>Payout Methods v2 ... Use the PayoutMethods API to list and interact with PayoutMethod objects. ... Need help? Contact Support. Chat with Stripe ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:15029214710669861825</id>
+    <title>The Event object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/events/object?api-version=2026-05-27.preview" />
+    <published>2026-10-20T22:44:24Z</published>
+    <updated>2026-10-20T22:44:24Z</updated>
+    <summary>updated ). If an array attribute has any updated elements, this object contains the entire array. In Stripe API versions 2017-04-06 or earlier, an ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:1466521222168124325</id>
+    <title>Share your catalog with agents | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/agentic-commerce/sellers/use-cases/retail/catalog" />
+    <published>2026-10-20T22:44:24Z</published>
+    <updated>2026-10-20T22:44:24Z</updated>
+    <summary>Export your agentic commerce catalog feed, prevent out-of-stock and price failures with a price and availability hook, and offer promotions ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12527214962471402690</id>
+    <title>Reserve Releases | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/reserve/release?api-version=2026-09-30.preview" />
+    <published>2026-10-20T22:44:24Z</published>
+    <updated>2026-10-20T22:44:24Z</updated>
+    <summary>ReserveReleases represent the release of funds from a ReserveHold. Was this section helpful?YesNo. EndpointsEvents. More.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8539933108500043529</id>
     <title>The VerificationSession object | Stripe API Reference</title>

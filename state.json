@@ -2004,6 +2004,12 @@
    "summary": "The Standalone 3DS API allows you to run EMV 3D Secure (3DS) authentication using Stripe while authorizing the payment with any PSP. Related guide: ...",
    "title": "3DS Authentications | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:12527214962471402690": {
+   "first_seen": "2026-10-20T22:44:24Z",
+   "link": "https://docs.stripe.com/api/reserve/release?api-version=2026-09-30.preview",
+   "summary": "ReserveReleases represent the release of funds from a ReserveHold. Was this section helpful?YesNo. EndpointsEvents. More.",
+   "title": "Reserve Releases | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:13168888411314708221": {
    "first_seen": "2026-10-17T22:43:04Z",
    "link": "https://docs.stripe.com/api/radar/early_fraud_warnings/object?api-version=2026-09-30.preview",
@@ -2070,6 +2076,12 @@
    "summary": "Any use of an issued card that results in funds entering or leaving your Stripe account, such as a completed purchase or refund, is represented by an ...",
    "title": "Transactions | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:1466521222168124325": {
+   "first_seen": "2026-10-20T22:44:24Z",
+   "link": "https://docs.stripe.com/agentic-commerce/sellers/use-cases/retail/catalog",
+   "summary": "Export your agentic commerce catalog feed, prevent out-of-stock and price failures with a price and availability hook, and offer promotions ...",
+   "title": "Share your catalog with agents | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:14970350843857164666": {
    "first_seen": "2026-10-16T22:44:10Z",
    "link": "https://docs.stripe.com/terminal/features/apps-on-devices/changelog",
@@ -2081,6 +2093,12 @@
    "link": "https://docs.stripe.com/js/react_stripe_js/checkout/use_checkout?client_id=1937835283.1772150402&session_id=1772150402",
    "summary": "The ID of the Checkout Session. billingAddress nullable object. Billing details of the Customer.",
    "title": "useCheckout - Stripe JS Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:15029214710669861825": {
+   "first_seen": "2026-10-20T22:44:24Z",
+   "link": "https://docs.stripe.com/api/events/object?api-version=2026-05-27.preview",
+   "summary": "updated ). If an array attribute has any updated elements, this object contains the entire array. In Stripe API versions 2017-04-06 or earlier, an ...",
+   "title": "The Event object | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:15183435629383904580": {
    "first_seen": "2026-10-10T10:10:42Z",
@@ -2129,6 +2147,12 @@
    "link": "https://docs.stripe.com/api/coupons/object?api-version=2026-09-30.preview",
    "summary": "idstring. Unique identifier for the object. \u00b7 amount_offnullable integer. Amount (in the currency specified) that will be taken off the subtotal of any ...",
    "title": "The Coupon object | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:18392163744034660140": {
+   "first_seen": "2026-10-20T22:44:24Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/payout-methods?api-version=2026-09-30.preview",
+   "summary": "Payout Methods v2 ... Use the PayoutMethods API to list and interact with PayoutMethod objects. ... Need help? Contact Support. Chat with Stripe ...",
+   "title": "Payout Methods | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:2378811954673993430": {
    "first_seen": "2026-10-11T11:29:08Z",
@@ -2220,6 +2244,18 @@
    "summary": "Trial offers let you define free or paid introductory pricing for a subscription item. A TrialOffer specifies the price to charge during the trial, ...",
    "title": "Trial Offers | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:6471659853664775720": {
+   "first_seen": "2026-10-20T22:44:24Z",
+   "link": "https://docs.stripe.com/api/reporting/report_run/object?api-version=2026-08-26.preview",
+   "summary": "parameters.interval_endnullable timestamp. Ending timestamp of data to be included in the report run. Can be any UTC timestamp between 1 second after ...",
+   "title": "The Report Run object | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:7098977794028413137": {
+   "first_seen": "2026-10-20T22:44:24Z",
+   "link": "https://docs.stripe.com/api/prices?api-version=2026-09-30.preview",
+   "summary": "Prices define the unit cost, currency, and (optional) billing cycle for both recurring and one-time purchases of products. Products help you track ...",
+   "title": "Prices | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:7401600488192813850": {
    "first_seen": "2026-10-19T22:44:10Z",
    "link": "https://docs.stripe.com/api/billing/alert?api-version=2026-08-26.preview",
@@ -2249,6 +2285,24 @@
    "link": "https://docs.stripe.com/js/react_stripe_js/checkout_form/checkout_form?type=payment",
    "summary": "Configuration for client-side features of the embedded form, such as amount summary expansion and promotion code collection. Hide features properties ...",
    "title": "CheckoutForm - Stripe JS Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:941256059425004100": {
+   "first_seen": "2026-10-20T22:44:24Z",
+   "link": "https://docs.stripe.com/api/country_specs?api-version=2026-07-29.preview",
+   "summary": "Stripe needs to collect certain pieces of information about each account created. These requirements can differ depending on the account's country.",
+   "title": "Country Specs | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:9850902256530377436": {
+   "first_seen": "2026-10-20T22:44:24Z",
+   "link": "https://docs.stripe.com/api/issuing/transactions/object?api-version=2026-09-30.preview",
+   "summary": "network_data.transaction_idnullable string. Unique identifier for the authorization assigned by the card network used to match subsequent messages, ...",
+   "title": "The Transaction object | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:9904860476252276244": {
+   "first_seen": "2026-10-20T22:44:24Z",
+   "link": "https://docs.stripe.com/api/subscription_items?api-version=2026-08-26.preview",
+   "summary": "Subscription items allow you to create customer subscriptions with more than one plan, making it easy to represent complex billing relationships.",
+   "title": "Subscription Items | Stripe API Reference"
   }
  },
  "taxcloud-blog": {
