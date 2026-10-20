@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-20T10:46:30Z</updated>
+  <updated>2026-10-20T14:48:20Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/js/setup_intents/confirm_blik_setup</id>
+    <title>Confirm BLIK setup</title>
+    <link href="https://docs.stripe.com/js/setup_intents/confirm_blik_setup" />
+    <published>2026-10-20T14:48:20Z</published>
+    <updated>2026-10-20T14:48:20Z</updated>
+    <summary>Use stripe.confirmBlikSetup in the Set up future BLIK recurring payments flow when the customer submits your setup form. Pass the customer's BLIK code in ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/disputes/categories?dispute-category=credit-not-processed&amp;evidence-for=physical-product&amp;locale=id-ID</id>
+    <title>Kategori kode alasan sengketa | Dokumentasi Stripe</title>
+    <link href="https://docs.stripe.com/disputes/categories?dispute-category=credit-not-processed&amp;evidence-for=physical-product&amp;locale=id-ID" />
+    <published>2026-10-20T14:48:20Z</published>
+    <updated>2026-10-20T14:48:20Z</updated>
+    <summary>Setiap metode pembayaran (seperti kartu, dompet digital, atau Beli sekarang, Bayar Nanti) menentukan kode yang mewakili alasan spesifik klaim sengketa.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/js/custom_checkout/get_form?%E0%A4%AA%E0%A4%B0=</id>
     <title>Stripe JS Reference</title>

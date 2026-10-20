@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 12091,
+  "credits_used": 12143,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-20T13:48:05Z",
+  "last_run": "2026-10-20T14:48:20Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 248
+  "runs": 249
  },
  "feeds": {
   "adp-help": {},
@@ -1110,6 +1110,15 @@
     "summary": "Jonathan Lasken joined Foley & Lardner as a partner in its antitrust and competition practice group in Washington, D.C., the firm announced.",
     "title": "Foley & Lardner Taps DOJ Antitrust Division Lawyer ..."
    },
+   "news.bloomberglaw.com/business-and-practice/former-wwe-ring-workers-advance-child-sexual-abuse-lawsuit": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-20T14:48:20Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/former-wwe-ring-workers-advance-child-sexual-abuse-lawsuit",
+    "page": 1,
+    "summary": "Former WWE \u201cring boys\u201d can sue the company's owners and executives for damages arising out of alleged child sexual abuse, after a federal judge said a ...",
+    "title": "Former WWE Ring Workers Advance Child Sexual Abuse ..."
+   },
    "news.bloomberglaw.com/business-and-practice/from-cfo-bots-to-analyst-prep-ai-aids-earnings-call-readiness": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1826,6 +1835,15 @@
     "page": 1,
     "summary": "Former New Jersey Attorney General Matthew Platkin is picking fights with some of AI's biggest players. Platkin LLP has sued OpenAI and Microsoft three ...",
     "title": "NJ's Former Top Prosecutor Takes Big Swings at AI ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/north-carolina-mail-voting-restrictions-will-remain-for-november": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-20T14:48:20Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/north-carolina-mail-voting-restrictions-will-remain-for-november",
+    "page": 1,
+    "summary": "North Carolina elections boards can implement mail ballot voting restrictions for the general election despite claims they violate civil rights laws, ...",
+    "title": "North Carolina Mail Voting Restrictions Will Remain for ..."
    },
    "news.bloomberglaw.com/business-and-practice/nvidia-backed-lumentum-sold-out-of-ai-server-parts-till-2029-1": {
     "baseline": false,
@@ -2544,6 +2562,15 @@
     "page": 3,
     "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
     "title": "Wake Up Call: Paul Weiss Backs Columbia Law's AI Initiative"
+   },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-pe-firm-charlesbank-invests-big-in-la-law-firm": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-20T14:48:20Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-pe-firm-charlesbank-invests-big-in-la-law-firm",
+    "page": 3,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
+    "title": "Wake Up Call: PE Firm Charlesbank Invests Big in LA Law ..."
    },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-top-trade-official-reports-millions-after-big-law": {
     "baseline": false,
@@ -4402,6 +4429,15 @@
     "summary": "The release combines AI agents that can work directly with core business processes and adds new regulatory compliance capabilities and industry-specific ...",
     "title": "SAP Strengthens the Foundation for the Autonomous ..."
    },
+   "news.sap.com/2026/10/sap-introduces-ai-powered-roleplays-learners-stay-certified": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-20T14:48:20Z",
+    "link": "https://news.sap.com/2026/10/sap-introduces-ai-powered-roleplays-learners-stay-certified/",
+    "page": 1,
+    "summary": "SAP expands Stay Certified with AI-powered roleplays, practical skill validation, and a more flexible certification renewal experience.",
+    "title": "AI-Powered Roleplays to Help Learners Stay SAP Certified"
+   },
    "news.sap.com/2026/10/sap-recognized-leader-gartner-magic-quadrant-cloud-erp-finance": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -4419,6 +4455,15 @@
     "page": 1,
     "summary": "SAP SuccessFactors 2H 2026 brings Autonomous HCM to life with Joule Assistants that automate, redesign, and reinvent work. Find out how.",
     "title": "SAP SuccessFactors 2H 2026 Release"
+   },
+   "news.sap.com/2026/10/suite-advantage-why-enterprises-do-not-evaluate-crm-in-isolation": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-20T14:48:20Z",
+    "link": "https://news.sap.com/2026/10/suite-advantage-why-enterprises-do-not-evaluate-crm-in-isolation/",
+    "page": 2,
+    "summary": "To evaluate and deploy CRM and ERP independently leaves a structural gap in the information available to customer-facing employees.",
+    "title": "Why Enterprises Don't Evaluate CRM in Isolation"
    },
    "news.sap.com/africa": {
     "baseline": false,
@@ -4492,6 +4537,24 @@
     "summary": "Diverse Team Working Together in Modern Co-Working Space. SAP. Belgium (0)800 50 550. Of bekijk onze complete lijst van lokale landnummers.",
     "title": "Diverse Team Working Together in Modern Co- ..."
    },
+   "news.sap.com/belgie/2026/10/hoe-atlas-copco-group-skills-zichtbaar-maakt-in-de-hele-organisatie": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-20T14:48:20Z",
+    "link": "https://news.sap.com/belgie/2026/10/hoe-atlas-copco-group-skills-zichtbaar-maakt-in-de-hele-organisatie/",
+    "page": 2,
+    "summary": "Atlas Copco Group omschrijft zijn aanpak bewust als skills-enabled en niet als skills-based. Jobs en rollen blijven structuur geven aan de organisatie. \u201cJobs ...",
+    "title": "Hoe Atlas Copco Group skills zichtbaar maakt in de hele ..."
+   },
+   "news.sap.com/belgie/2026/10/hoe-atlas-copco-group-skills-zichtbaar-maakt-in-de-hele-organisatie?amp=1": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-20T14:48:20Z",
+    "link": "https://news.sap.com/belgie/2026/10/hoe-atlas-copco-group-skills-zichtbaar-maakt-in-de-hele-organisatie/?amp=1",
+    "page": 2,
+    "summary": "Atlas Copco Group omschrijft zijn aanpak bewust als skills-enabled en niet als skills-based. Jobs en rollen blijven structuur geven aan de organisatie. \u201cJobs ...",
+    "title": "Hoe Atlas Copco Group skills zichtbaar maakt in de hele ..."
+   },
    "news.sap.com/belgie/2026/10/hoe-de-rtbf-haar-medewerkers-en-medewerksters-helpt-om-nieuwe-carrieremogelijkheden-te-ontdekken": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -4545,6 +4608,24 @@
     "page": 1,
     "summary": "Meat & More is een Belgisch voedingsbedrijf met hoofdzetel in Aalter, bekend van de winkelformules Buurtslagers en Bon'Ap. Het bedrijf beheert verschillende ...",
     "title": "Hoe Meat & More HR laat meegroeien met de organisatie"
+   },
+   "news.sap.com/belgie/2026/10/hoe-mensura-tijd-wint-door-hr-processen-te-digitaliseren": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-20T14:48:20Z",
+    "link": "https://news.sap.com/belgie/2026/10/hoe-mensura-tijd-wint-door-hr-processen-te-digitaliseren/",
+    "page": 2,
+    "summary": "Mensura ondersteunt werkgevers en medewerkers rond preventie en welzijn op het werk. Die mensgerichte aanpak wil de organisatie ook intern doortrekken. Met ...",
+    "title": "Hoe Mensura tijd wint door HR-processen te digitaliseren"
+   },
+   "news.sap.com/belgie/2026/10/hoe-mensura-tijd-wint-door-hr-processen-te-digitaliseren?amp=1": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-20T14:48:20Z",
+    "link": "https://news.sap.com/belgie/2026/10/hoe-mensura-tijd-wint-door-hr-processen-te-digitaliseren/?amp=1",
+    "page": 2,
+    "summary": "Mensura ondersteunt werkgevers en medewerkers rond preventie en welzijn op het werk. Die mensgerichte aanpak wil de organisatie ook intern doortrekken. Met ...",
+    "title": "Hoe Mensura tijd wint door HR-processen te digitaliseren"
    },
    "news.sap.com/belgie/2026/10/sap-laat-zien-hoe-ai-de-autonomous-enterprise-mogelijk-maakt/a-handsome-young-man-standing-at-night-in-the-street-illuminated-signboards-neon-lights": {
     "baseline": false,
@@ -4897,6 +4978,15 @@
     "summary": "SAP\u306f\u3001\u300c2026 Fosway 9-Grid\u2122 for Cloud HR\u300d\u306b\u304a\u3044\u3066\u3001\u5f15\u304d\u7d9a\u304d\u300cStrategic Leader\uff08\u6226\u7565\u7684\u30ea\u30fc\u30c0\u30fc\uff09\u300d\u306b\u9078\u51fa\u3055\u308c\u307e\u3057\u305f\u3002\u3053\u308c\u306f\u3001\u4eba\u4e8b\u5909\u9769\u306b\u53d6\u308a\u7d44\u3080\u4f01\u696d\u306b\u3068\u3063\u3066\u3001SAP ...",
     "title": "SAP\u3001\u300c2026 Fosway 9-Grid\u2122 for Cloud HR\u300d\u3067 Strategic ..."
    },
+   "news.sap.com/korea/2026/10/%ED%8C%8C%ED%8A%B8%EB%84%88-5%EA%B3%B3%EA%B3%BC-%EC%A4%91%EC%86%8C%C2%B7%EC%A4%91%EA%B2%AC-%EC%84%B1%EC%9E%A5%EA%B8%B0%EC%97%85-%EC%A7%80%EC%9B%90-sap-next-100-%EB%B3%B8%EA%B2%A9?amp=1": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-20T14:48:20Z",
+    "link": "https://news.sap.com/korea/2026/10/%ED%8C%8C%ED%8A%B8%EB%84%88-5%EA%B3%B3%EA%B3%BC-%EC%A4%91%EC%86%8C%C2%B7%EC%A4%91%EA%B2%AC-%EC%84%B1%EC%9E%A5%EA%B8%B0%EC%97%85-%EC%A7%80%EC%9B%90-sap-next-100-%EB%B3%B8%EA%B2%A9/?amp=1",
+    "page": 2,
+    "summary": "SAP NEXT 100\uc740 \uc131\uc7a5 \uc9c4\ub2e8\ubd80\ud130 \uc2dc\uc2a4\ud15c \ub3c4\uc785\uae4c\uc9c0 \uc774\uc5b4\uc9c0\ub294 \ub2e8\uacc4\ubcc4 \uc9c0\uc6d0 \ud504\ub85c\uadf8\ub7a8\uc73c\ub85c \ud558\ub098\uc740\ud589, \ube44\uc790 \ucf54\ub9ac\uc544, PwC \ucf54\ub9ac\uc544, ASPN, \ube14\ub8e8\uc5b4\ub4dc \ub4f1 5\uac1c \ud30c\ud2b8\ub108\uc0ac\uc758 \uc804\ubb38 \uc5ed\ub7c9\uc744 ...",
+    "title": "\ud30c\ud2b8\ub108 5\uacf3\uacfc \uc911\uc18c\u00b7\uc911\uacac \uc131\uc7a5\uae30\uc5c5 \uc9c0\uc6d0 'SAP NEXT 100' \ubcf8\uaca9\ud654"
+   },
    "news.sap.com/korea/2026/10/joule-work-%EC%A0%84%EB%A9%B4-%EC%B6%9C%EC%8B%9C-%EC%9E%90%EC%9C%A8%ED%98%95-%EA%B8%B0%EC%97%85%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%90%EB%8B%A4/sapconnect26_mkr16504": {
     "baseline": false,
     "date_hint": "13 hours ago",
@@ -5111,6 +5201,15 @@
     "page": 2,
     "summary": "Meat & More is een Belgisch voedingsbedrijf met hoofdzetel in Aalter, bekend van de winkelformules Buurtslagers en Bon'Ap. Het bedrijf beheert verschillende ...",
     "title": "Hoe Meat & More HR laat meegroeien met de organisatie"
+   },
+   "news.sap.com/netherlands/2026/10/hoe-mensura-tijd-wint-door-hr-processen-te-digitaliseren": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-20T14:48:20Z",
+    "link": "https://news.sap.com/netherlands/2026/10/hoe-mensura-tijd-wint-door-hr-processen-te-digitaliseren/",
+    "page": 2,
+    "summary": "Mensura ondersteunt werkgevers en medewerkers rond preventie en welzijn op het werk. Die mensgerichte aanpak wil de organisatie ook intern doortrekken. Met ...",
+    "title": "Hoe Mensura tijd wint door HR-processen te digitaliseren"
    },
    "news.sap.com/netherlands/2026/10/sap-sluit-overeenkomst-voor-overname-techwolf-beter-inzicht-in-werk-en-vaardigheden/smiling-entrepreneur-in-a-modern-office-lobby-holding-a-phone": {
     "baseline": false,
@@ -5468,6 +5567,15 @@
     "summary": "The Advantage Program is a series of patron-facing pricing options and POS configuration options designed to help you cover rising business costs and improve ...",
     "title": "Advantage Program FAQs (United States)"
    },
+   "shift4.zendesk.com/hc/en-us/articles/29756269445907-LogMeIn-Application-Download-and-Remote-Session-Start": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-20T14:48:20Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/29756269445907-LogMeIn-Application-Download-and-Remote-Session-Start",
+    "page": 1,
+    "summary": "Description: Learn how to download a LogMeIn application and begin a remote session with a support agent to help you install software or...",
+    "title": "LogMeIn Application Download and Remote Session Start"
+   },
    "shift4.zendesk.com/hc/en-us/articles/34232480009875-Finalize-Tips-Immediately-on-Shift4-Dine": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -5511,6 +5619,15 @@
     "link": "https://shift4.zendesk.com/hc/en-us/articles/43106955069971-Create-and-Manage-Modifier-Sets-in-Multi-Location-Management",
     "summary": "Description: Learn how to create and customize modifier sets in Multi-Location Management to organize your menu across locations.",
     "title": "Create and Manage Modifier Sets in Multi-Location ..."
+   },
+   "shift4.zendesk.com/hc/en-us/articles/43163263725075-Create-and-Manage-Discounts-in-Multi-Location-Management": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-20T14:48:20Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/43163263725075-Create-and-Manage-Discounts-in-Multi-Location-Management",
+    "page": 2,
+    "summary": "Description: Learn how to create and customize discounts in Location Management, including settings for discount amounts, order types,...",
+    "title": "Create and Manage Discounts in Location Management"
    },
    "shift4.zendesk.com/hc/en-us/articles/44877241818003-Connect-the-Elys-L1400-Workstation-to-a-Terminal-Hub-for-Shift4-Dine": {
     "baseline": false,
@@ -6874,6 +6991,15 @@
     "summary": "Compose custom SQL queries with table joins, templates, and an LLM assistant that generates queries from natural language prompts.",
     "title": "Write queries"
    },
+   "docs.stripe.com/disputes/categories?dispute-category=credit-not-processed&evidence-for=physical-product&locale=id-ID": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-20T14:48:20Z",
+    "link": "https://docs.stripe.com/disputes/categories?dispute-category=credit-not-processed&evidence-for=physical-product&locale=id-ID",
+    "page": 2,
+    "summary": "Setiap metode pembayaran (seperti kartu, dompet digital, atau Beli sekarang, Bayar Nanti) menentukan kode yang mewakili alasan spesifik klaim sengketa.",
+    "title": "Kategori kode alasan sengketa | Dokumentasi Stripe"
+   },
    "docs.stripe.com/disputes/monitoring-programs": {
     "baseline": true,
     "date_hint": "20 hours ago",
@@ -6985,6 +7111,15 @@
     "page": 1,
     "summary": "Sets the DOM id attribute on the rendered Element container. Use this to target the Element for styling or testing. className string.",
     "title": "PaymentRequestButtonElement"
+   },
+   "docs.stripe.com/js/setup_intents/confirm_blik_setup": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-20T14:48:20Z",
+    "link": "https://docs.stripe.com/js/setup_intents/confirm_blik_setup",
+    "page": 1,
+    "summary": "Use stripe.confirmBlikSetup in the Set up future BLIK recurring payments flow when the customer submits your setup form. Pass the customer's BLIK code in ...",
+    "title": "Confirm BLIK setup"
    },
    "docs.stripe.com/payments/migrations?locale=ja-JP": {
     "baseline": true,
