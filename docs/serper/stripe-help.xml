@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-20T14:48:20Z</updated>
+  <updated>2026-10-20T18:50:42Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/disputes/monitoring-programs?locale=ja-JP</id>
+    <title>不審請求の申請および不正使用カードのモニタリングプログラム</title>
+    <link href="https://docs.stripe.com/disputes/monitoring-programs?locale=ja-JP" />
+    <published>2026-10-20T18:50:42Z</published>
+    <updated>2026-10-20T18:50:42Z</updated>
+    <summary>不審請求の申請および不正使用カードのモニタリングプログラム カードネットワークによって運用されているモニタリングプログラムと、お客様がモニタリングプログラムの対 ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/js/setup_intents/confirm_blik_setup</id>
     <title>Confirm BLIK setup</title>
