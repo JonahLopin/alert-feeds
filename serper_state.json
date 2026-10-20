@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 11573,
+  "credits_used": 11625,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-20T03:35:51Z",
+  "last_run": "2026-10-20T04:34:18Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 238
+  "runs": 239
  },
  "feeds": {
   "adp-help": {},
@@ -4080,6 +4080,15 @@
     "summary": "Automated sales tax compliance that scales with you, new Zuora and FreshBooks integrations, SmartLabels' holiday rush, and answers from our tax experts.",
     "title": "Kintsugi Sales Tax Monthly: October 2026"
    },
+   "trykintsugi.com/blog/kintsugi-sales-tax-monthly-october-2026": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-20T04:34:18Z",
+    "link": "https://trykintsugi.com/blog/kintsugi-sales-tax-monthly-october-2026",
+    "page": 1,
+    "summary": "Ready to automate your sales tax? brings your live compliance data into Claude and ChatGPT. deliver real-time calculation, registration, filing, remittance, ...",
+    "title": "Sales Tax Monthly: Integrations, MCP & SuiteWorld"
+   },
    "trykintsugi.com/blog/resale-certificate-expiration-by-state": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -4401,6 +4410,15 @@
     "page": 1,
     "summary": "Organisations need to combine intelligence with business context to make their operations predictive rather than reactive, according to SAP.",
     "title": "SAP says Enterprise Context is Key to Predictive AI ..."
+   },
+   "news.sap.com/australia/2026/10/19/sap-launches-supply-chain-centre-of-excellence-in-anz": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-20T04:34:18Z",
+    "link": "https://news.sap.com/australia/2026/10/19/sap-launches-supply-chain-centre-of-excellence-in-anz/",
+    "page": 1,
+    "summary": "New specialised team aims to support asset-intensive industries to modernise operations, reduce costs and accelerate returns.",
+    "title": "SAP launches Supply Chain Centre of Excellence in ANZ"
    },
    "news.sap.com/belgie/2026/09/sap-en-nvidia-openshell-werken-samen-aan-governance-en-beveiliging-voor-controleerbare-ai-agents-in-bedrijfssystemen/computer-and-network-data-connection": {
     "baseline": false,
@@ -6441,6 +6459,15 @@
     "page": 1,
     "summary": "Batch Time is the scheduled time when captured transactions are grouped and processed for payout at the end of each day.",
     "title": "Update Your Auto Batch Time Right from Your Dashboard"
+   },
+   "help.spoton.com/space/SK/4488036353/Edit,+Duplicate,+or+Delete+an+Item+%7C+Dashboard+%7C+SpotOn+Express": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-20T04:34:18Z",
+    "link": "https://help.spoton.com/space/SK/4488036353/Edit,+Duplicate,+or+Delete+an+Item+%7C+Dashboard+%7C+SpotOn+Express",
+    "page": 1,
+    "summary": "This guide focuses on bulk editing, deleting, and other list-view actions, with individual item edits available when needed.",
+    "title": "Bulk Edit and Delete Menu Items | SpotOn Express"
    },
    "help.spoton.com/space/SK/4512907295/Payroll+Reports+%7C+Dashboard+%7C+SpotOn+Express": {
     "baseline": false,
