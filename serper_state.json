@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 11365,
+  "credits_used": 11417,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-19T23:08:53Z",
+  "last_run": "2026-10-20T00:26:27Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 234
+  "runs": 235
  },
  "feeds": {
   "adp-help": {},
@@ -232,6 +232,15 @@
     "page": 1,
     "summary": "Data center developers have started touting new technologies that slash the amount of water needed to cool hot-running servers in drought-stressed places ...",
     "title": "AI Data Centers' Water Use Grows in Drought-Stricken Areas"
+   },
+   "news.bloomberglaw.com/business-and-practice/american-samoa-deep-sea-lease-auction-notice-draws-new-lawsuit": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-20T00:26:27Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/american-samoa-deep-sea-lease-auction-notice-draws-new-lawsuit",
+    "page": 3,
+    "summary": "A newly finalized plan to auction off roughly 31 million acres of seabed near American Samoa is unlawful, environmental and community groups said in a ...",
+    "title": "American Samoa Deep-Sea Lease Auction Notice Draws ..."
    },
    "news.bloomberglaw.com/business-and-practice/amex-fined-350-million-for-lapses-in-money-laundering-systems": {
     "baseline": false,
@@ -2212,6 +2221,15 @@
     "summary": "A new District of Columbia law that regulates event ticket resales in order to prevent deceptive practices violates the US Constitution \u201cseveral times over ...",
     "title": "Ticket Resellers Aim to Scrap DC's New Deceptive ..."
    },
+   "news.bloomberglaw.com/business-and-practice/top-oversight-democrat-plots-ice-investigation-if-house-flips": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-20T00:26:27Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/top-oversight-democrat-plots-ice-investigation-if-house-flips",
+    "page": 2,
+    "summary": "Rep. Robert Garcia of California says inquiries into immigration enforcement abuses will be a priority should his fellow Democrats take control of the House.",
+    "title": "Top Oversight Democrat Plots ICE Investigation If House ..."
+   },
    "news.bloomberglaw.com/business-and-practice/top-us-court-rejects-fired-nlrb-members-challenge-to-removal": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -2553,6 +2571,15 @@
     "page": 2,
     "summary": "Weil, Gotshal & Manges is adding private equity partner Rebecca Ward to its London office after she spent more than four years at Freshfields.",
     "title": "Weil Adds London Private Equity Partner After String of Exits"
+   },
+   "news.bloomberglaw.com/business-and-practice/weil-is-engaged-in-merger-talks-leadership-tells-partners": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-20T00:26:27Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/weil-is-engaged-in-merger-talks-leadership-tells-partners",
+    "page": 2,
+    "summary": "Weil Gotshal & Manges is pursuing a merger with another law firm and is in discussions to secure the tie-up, its leaders have told top partners.",
+    "title": "Weil Is Engaged in Merger Talks, Leadership Tells Partners"
    },
    "news.bloomberglaw.com/business-and-practice/weil-recruits-paul-weiss-antitrust-lawyer-sobel-in-new-york": {
     "baseline": false,
