@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-20T08:53:32Z</updated>
+  <updated>2026-10-20T11:46:17Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/2026/10/ki-innovation-ausgabenmanagement/?amp=1</id>
+    <title>Neue Lösungen für das Ausgabenmanagement: KI ...</title>
+    <link href="https://news.sap.com/germany/2026/10/ki-innovation-ausgabenmanagement/?amp=1" />
+    <published>2026-10-20T11:46:17Z</published>
+    <updated>2026-10-20T11:46:17Z</updated>
+    <summary>Entdecken Sie die neuesten Funktionen zur Spend Management auf der SAP Connect 2026 für fundierte Entscheidungen und Kostenkontrolle.</summary>
+  </entry>
+  <entry>
+    <id>https://news.sap.com/2026/10/back-to-the-future-30-years-of-sap-teched/</id>
+    <title>Back to the Future: 30 Years of SAP TechEd</title>
+    <link href="https://news.sap.com/2026/10/back-to-the-future-30-years-of-sap-teched/" />
+    <published>2026-10-20T11:46:17Z</published>
+    <updated>2026-10-20T11:46:17Z</updated>
+    <summary>Explore 30 years of SAP TechEd, from SAP R/3 to AI, and discover how technology, hands-on learning and community have shaped its evolution.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/germany/2026/10/ki-innovation-ausgabenmanagement/</id>
     <title>Neue Lösungen für das Ausgabenmanagement: KI- ...</title>
@@ -787,21 +803,5 @@
     <published>2026-10-12T13:14:41Z</published>
     <updated>2026-10-12T13:14:41Z</updated>
     <summary>SAP SuccessFactors 2H 2026 brings Autonomous HCM to life with Joule Assistants that automate, redesign, and reinvent work. Find out how.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/germany/2026/10/ki-autonomous-cx/?amp=1</id>
-    <title>Autonomous Customer Experience: Die Zukunft der CX</title>
-    <link href="https://news.sap.com/germany/2026/10/ki-autonomous-cx/?amp=1" />
-    <published>2026-10-12T10:40:01Z</published>
-    <updated>2026-10-12T10:40:01Z</updated>
-    <summary>Die SAP Connect 2026 zeigt neue Entwicklungen zur Autonomous Customer Experience. Lernen Sie die KI-gestützten Lösungen kennen.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/germany/2026/10/ki-autonomous-cx/</id>
-    <title>Autonomous Customer Experience: Die Zukunft der CX</title>
-    <link href="https://news.sap.com/germany/2026/10/ki-autonomous-cx/" />
-    <published>2026-10-12T09:37:56Z</published>
-    <updated>2026-10-12T09:37:56Z</updated>
-    <summary>Die SAP Connect 2026 zeigt neue Entwicklungen zur Autonomous Customer Experience. Lernen Sie die KI-gestützten Lösungen kennen.</summary>
   </entry>
 </feed>

@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-20T10:46:30Z</updated>
+  <updated>2026-10-20T11:46:17Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/unclaimed-property/reportmyup/add-and-manage-users/edit-users/edit-users-reportmyup-plus</id>
+    <title>Edit users (ReportMyUP Plus) - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/unclaimed-property/reportmyup/add-and-manage-users/edit-users/edit-users-reportmyup-plus" />
+    <published>2026-10-20T11:46:17Z</published>
+    <updated>2026-10-20T11:46:17Z</updated>
+    <summary>Only Admin users can edit users. Go to Settings &gt; Users. The Settings icon and the Users button are highlighted.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.sovos.com/en/1099-reporting/tincheck/run-checks/about-irs-intermittent-issues</id>
+    <title>About IRS intermittent issues - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/1099-reporting/tincheck/run-checks/about-irs-intermittent-issues" />
+    <published>2026-10-20T11:46:17Z</published>
+    <updated>2026-10-20T11:46:17Z</updated>
+    <summary>Intermittent issues are not as disruptive as downtime. This simply means that our system has detected some level of degradation from the IRS system that may ...</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/fix-iris-transmittal-errors</id>
     <title>Fix IRIS transmittal errors - Sovos Docs</title>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 11937,
+  "credits_used": 11989,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-20T10:46:30Z",
+  "last_run": "2026-10-20T11:46:17Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 245
+  "runs": 246
  },
  "feeds": {
   "adp-help": {},
@@ -1333,6 +1333,15 @@
     "summary": "The International Monetary Fund and World Bank unveiled a global roadmap to fight online financial fraud as increasingly sophisticated scams undermine ...",
     "title": "IMF, World Bank Tout Bangkok Blueprint Against Digital ..."
    },
+   "news.bloomberglaw.com/business-and-practice/in-a-copper-boom-chile-grapples-with-lowest-output-in-23-years": {
+    "baseline": false,
+    "date_hint": "13 hours ago",
+    "first_seen": "2026-10-20T11:46:17Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/in-a-copper-boom-chile-grapples-with-lowest-output-in-23-years",
+    "page": 4,
+    "summary": "Chile's aging copper mines have been battered by deadly accidents, extreme weather and operational missteps, raising questions over how quickly the world's ...",
+    "title": "In a Copper Boom, Chile Grapples With Lowest Output ..."
+   },
    "news.bloomberglaw.com/business-and-practice/insults-punctuate-el-sayed-rogers-fiery-michigan-senate-debate": {
     "baseline": true,
     "date_hint": "14 hours ago",
@@ -1359,6 +1368,15 @@
     "page": 4,
     "summary": "Iowa and Michigan are among US states with competitive Senate races that appear hardest hit by President Donald Trump's tariff agenda, with exports falling ...",
     "title": "Iowa, Michigan Hit by Weak Exports Ahead of Tight ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/is-an-ev-actually-cheaper-the-new-math-of-car-ownership": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-20T11:46:17Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/is-an-ev-actually-cheaper-the-new-math-of-car-ownership",
+    "page": 3,
+    "summary": "A friend texted me the other day with a question: Should we buy an electric car?",
+    "title": "Is an EV Actually Cheaper? The New Math of Car Ownership"
    },
    "news.bloomberglaw.com/business-and-practice/japan-orders-sales-halt-for-prudential-units-after-misconduct": {
     "baseline": true,
@@ -4285,6 +4303,15 @@
     "summary": "SAP challenged partners to build AI agents, and the response far exceeded expectations. Learn about the 1k AI agent goal for SAP TechEd.",
     "title": "1k AI Agents by SAP TechEd: Accelerating with Partners"
    },
+   "news.sap.com/2026/10/back-to-the-future-30-years-of-sap-teched": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-20T11:46:17Z",
+    "link": "https://news.sap.com/2026/10/back-to-the-future-30-years-of-sap-teched/",
+    "page": 1,
+    "summary": "Explore 30 years of SAP TechEd, from SAP R/3 to AI, and discover how technology, hands-on learning and community have shaped its evolution.",
+    "title": "Back to the Future: 30 Years of SAP TechEd"
+   },
    "news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -4653,6 +4680,15 @@
     "page": 1,
     "summary": "Entdecken Sie die neuesten Funktionen zur Spend Management auf der SAP Connect 2026 f\u00fcr fundierte Entscheidungen und Kostenkontrolle.",
     "title": "Neue L\u00f6sungen f\u00fcr das Ausgabenmanagement: KI- ..."
+   },
+   "news.sap.com/germany/2026/10/ki-innovation-ausgabenmanagement?amp=1": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-20T11:46:17Z",
+    "link": "https://news.sap.com/germany/2026/10/ki-innovation-ausgabenmanagement/?amp=1",
+    "page": 1,
+    "summary": "Entdecken Sie die neuesten Funktionen zur Spend Management auf der SAP Connect 2026 f\u00fcr fundierte Entscheidungen und Kostenkontrolle.",
+    "title": "Neue L\u00f6sungen f\u00fcr das Ausgabenmanagement: KI ..."
    },
    "news.sap.com/germany/2026/10/ki-public-sector-sap-experience-center": {
     "baseline": false,
@@ -5414,6 +5450,15 @@
     "summary": "Learn about updates to Shift4 Dine that simplify payment capturing and tip adjustments, including changes to how pending tips are identified and the enablement",
     "title": "Finalize Tips Immediately on Shift4 Dine"
    },
+   "shift4.zendesk.com/hc/en-us/articles/360026679673-Disable-Demo-Mode-on-Shift4-Duo": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-20T11:46:17Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/360026679673-Disable-Demo-Mode-on-Shift4-Duo",
+    "page": 1,
+    "summary": "Disable Demo Mode: If you're brought to a screen that says \u201cWelcome to Shift4 Dine!\u201d swipe left until you reach the \u201cTake a look for yourself!",
+    "title": "Disable Demo Mode on Shift4 Duo"
+   },
    "shift4.zendesk.com/hc/en-us/articles/40680710360979-Settlement-Detail-Report": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -6102,6 +6147,15 @@
     "summary": "If you are interested in trying out TINCheck's SOAP or REST API, you can request a test account loaded with a set number of free checks.",
     "title": "Request a free API test account - TINCheck - Sovos Docs"
    },
+   "docs.sovos.com/en/1099-reporting/tincheck/run-checks/about-irs-intermittent-issues": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-20T11:46:17Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tincheck/run-checks/about-irs-intermittent-issues",
+    "page": 1,
+    "summary": "Intermittent issues are not as disruptive as downtime. This simply means that our system has detected some level of degradation from the IRS system that may ...",
+    "title": "About IRS intermittent issues - Sovos Docs"
+   },
    "docs.sovos.com/en/filing/sales-tax-filing-services/upload-data/troubleshooting": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -6200,6 +6254,15 @@
     "page": 1,
     "summary": "Version 5.15 of Tax Determination. New and improved. Products page. We added inline editing to the Suggested product tax codes table.",
     "title": "September 3, 2026 | Product Documentation Documentation"
+   },
+   "docs.sovos.com/en/unclaimed-property/reportmyup/add-and-manage-users/edit-users/edit-users-reportmyup-plus": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-20T11:46:17Z",
+    "link": "https://docs.sovos.com/en/unclaimed-property/reportmyup/add-and-manage-users/edit-users/edit-users-reportmyup-plus",
+    "page": 1,
+    "summary": "Only Admin users can edit users. Go to Settings > Users. The Settings icon and the Users button are highlighted.",
+    "title": "Edit users (ReportMyUP Plus) - Sovos Docs"
    }
   },
   "spoton-help": {
