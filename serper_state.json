@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 12347,
+  "credits_used": 12397,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-20T18:50:42Z",
+  "last_run": "2026-10-20T20:10:19Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 253
+  "runs": 254
  },
  "feeds": {
   "adp-help": {},
@@ -166,6 +166,15 @@
     "page": 1,
     "summary": "The NER Pulse is an estimate of the week-over-week change in employment based on a four-week moving average. These estimates are based on ADP's finely tuned, ...",
     "title": "ADP National Employment Report Preliminary Estimate for ..."
+   },
+   "mediacenter.adp.com/2026-10-20-ADP-National-Employment-Report-Preliminary-Estimate-for-October-3,-2026?asPDF=": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-10-20T20:10:19Z",
+    "link": "https://mediacenter.adp.com/2026-10-20-ADP-National-Employment-Report-Preliminary-Estimate-for-October-3,-2026?asPDF=",
+    "page": 1,
+    "summary": "The NER Pulse is an estimate of the week-over-week change in employment based on a four-week moving average. These estimates are based on ADP's finely tuned ...",
+    "title": "Oct 20, 2026"
    },
    "mediacenter.adp.com/thinking-of-ai-as-a-teammate": {
     "baseline": false,
@@ -1450,6 +1459,15 @@
     "summary": "Insurers are withdrawing coverage for climate-driven risks and increasingly passing on losses to governments and homeowners, according to a report published ...",
     "title": "Insurance Pullback Is Coming as Climate Risk Grows, ..."
    },
+   "news.bloomberglaw.com/business-and-practice/integer-beats-investors-electrophysiology-product-demand-suit": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-20T20:10:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/integer-beats-investors-electrophysiology-product-demand-suit",
+    "page": 1,
+    "summary": "Integer Holdings Corp. knocked down investor allegations that the medical device maker overhyped demand for products that map the heart's electrical activity.",
+    "title": "Integer Beats Investor's Electrophysiology Product Demand ..."
+   },
    "news.bloomberglaw.com/business-and-practice/iowa-michigan-hit-by-weak-exports-ahead-of-tight-midterm-races": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -1557,6 +1575,15 @@
     "page": 2,
     "summary": "The Kansas Highway Patrol agreed to retrain its officers not to consider a driver's state of origin to develop reasonable suspicion during traffic stops on ...",
     "title": "Kansas Highway Patrol Reaches Deal to End Traffic Stop ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/kaplan-unable-to-ditch-proposed-class-action-over-data-breach": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-20T20:10:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kaplan-unable-to-ditch-proposed-class-action-over-data-breach",
+    "page": 2,
+    "summary": "Kaplan North America LLC couldn't convince a federal judge in Florida to dismiss a proposed class action alleging the online education company negligently ...",
+    "title": "Kaplan Unable to Ditch Proposed Class Action Over Data ..."
    },
    "news.bloomberglaw.com/business-and-practice/karaoke-hack-shows-routine-cybercrime-catherine-thorbecke-1": {
     "baseline": false,
@@ -2635,6 +2662,15 @@
     "summary": "Volkswagen AG has spent decades trying to build a US business that matches its stature as the world's second-largest carmaker. Now the market it repeatedly ...",
     "title": "VW Pivots to Trucks and Rugged SUVs in a Quest for US ..."
    },
+   "news.bloomberglaw.com/business-and-practice/wachtell-covington-davis-polk-guide-salesforces-braze-buy": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-20T20:10:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wachtell-covington-davis-polk-guide-salesforces-braze-buy",
+    "page": 1,
+    "summary": "Three Big Law firms steered Salesforce Inc.'s agreement to buy an artificial intelligence-powered marketing platform Braze Inc. for nearly $5.7 billion.",
+    "title": "Wachtell, Covington, Davis Polk Guide Salesforce's Braze ..."
+   },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-firms-leverage-what-they-know-with-custom-ai": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -3034,6 +3070,15 @@
     "page": 1,
     "summary": "Learn how to build a restaurant email list, run automated campaigns, and turn first-time guests into regulars. Practical strategies for busy operators.",
     "title": "Restaurant Email Marketing: Complete Guide to Drive Orders"
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-email-marketing-templates": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-20T20:10:19Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-email-marketing-templates",
+    "page": 2,
+    "summary": "6 ready-to-use restaurant email templates for newsletters, promotions, loyalty, and more \u2014 plus tips to grow your list and boost opens. October 8, 2026.",
+    "title": "6 Restaurant Email Marketing Templates to Use Now"
    },
    "merchants.doordash.com/en-us/blog/restaurant-marketing-budget": {
     "baseline": false,
@@ -6408,6 +6453,15 @@
    }
   },
   "sovos-help": {
+   "docs.sovos.com/en/1099-reporting/efilemyforms": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-20T20:10:19Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/efilemyforms",
+    "page": 1,
+    "summary": "eFileMyForms offers fully compliant services for printing, mailing, and electronicnic filing of your employee, vendor, and customer tax forms.",
+    "title": "What is eFileMyForms? - Sovos Docs"
+   },
    "docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/log-in": {
     "baseline": false,
     "date_hint": "3 days ago",

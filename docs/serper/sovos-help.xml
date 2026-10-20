@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-20T17:45:51Z</updated>
+  <updated>2026-10-20T20:10:19Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/1099-reporting/efilemyforms</id>
+    <title>What is eFileMyForms? - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/1099-reporting/efilemyforms" />
+    <published>2026-10-20T20:10:19Z</published>
+    <updated>2026-10-20T20:10:19Z</updated>
+    <summary>eFileMyForms offers fully compliant services for printing, mailing, and electronicnic filing of your employee, vendor, and customer tax forms.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/e-invoicing/indirect-tax-api/e-invoicing/documents-endpoints</id>
     <title>Documents endpoints - Sovos Docs</title>
