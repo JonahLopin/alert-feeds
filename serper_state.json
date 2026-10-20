@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 11780,
+  "credits_used": 11832,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-20T07:50:39Z",
+  "last_run": "2026-10-20T08:53:32Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 242
+  "runs": 243
  },
  "feeds": {
   "adp-help": {},
@@ -4627,6 +4627,15 @@
     "summary": "Die SAP Connect 2026 zeigt neue Entwicklungen zur Autonomous Customer Experience. Lernen Sie die KI-gest\u00fctzten L\u00f6sungen kennen.",
     "title": "Autonomous Customer Experience: Die Zukunft der CX"
    },
+   "news.sap.com/germany/2026/10/ki-innovation-ausgabenmanagement": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-20T08:53:32Z",
+    "link": "https://news.sap.com/germany/2026/10/ki-innovation-ausgabenmanagement/",
+    "page": 1,
+    "summary": "Entdecken Sie die neuesten Funktionen zur Spend Management auf der SAP Connect 2026 f\u00fcr fundierte Entscheidungen und Kostenkontrolle.",
+    "title": "Neue L\u00f6sungen f\u00fcr das Ausgabenmanagement: KI- ..."
+   },
    "news.sap.com/germany/2026/10/ki-public-sector-sap-experience-center": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -5845,6 +5854,15 @@
     "page": 1,
     "summary": "Podcast advertising is when a business pays to promote its product or service during a podcast, either through a produced commercial or a mention read out ...",
     "title": "Podcast Advertising: Costs and How To Buy (2026)"
+   },
+   "shopify.com/blog/product-availability": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-20T08:53:32Z",
+    "link": "https://www.shopify.com/blog/product-availability",
+    "page": 1,
+    "summary": "Product availability affects sales and customer loyalty. Learn how to measure it, reduce stockouts, and improve inventory planning.",
+    "title": "How To Measure and Improve Product Availability (2026)"
    },
    "shopify.com/blog/product-development-process": {
     "baseline": false,
@@ -7094,6 +7112,15 @@
     "link": "https://tax.thomsonreuters.com/blog/switching-tax-software-before-january-how-to-manage-an-expedited-migration-timeline/",
     "summary": "Switching tax software before busy season is possible. Follow this step-by-step timeline to migrate data, train staff, and prepare for January.",
     "title": "How to switch professional tax software before January"
+   },
+   "tax.thomsonreuters.com/blog/tariffs-ai-compliance-building-resilience-global-trade": {
+    "baseline": false,
+    "date_hint": "15 hours ago",
+    "first_seen": "2026-10-20T08:53:32Z",
+    "link": "https://tax.thomsonreuters.com/blog/tariffs-ai-compliance-building-resilience-global-trade/",
+    "page": 1,
+    "summary": "Explore the connected infrastructure \u2014 AI classification, regulatory intelligence, and screening \u2014 behind global trade resilience.",
+    "title": "Tariffs - Building resilience in global trade"
    },
    "tax.thomsonreuters.com/blog/tax-provision-how-to-calculate-it": {
     "baseline": true,

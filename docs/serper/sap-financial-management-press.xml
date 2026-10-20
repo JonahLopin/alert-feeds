@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-20T04:34:18Z</updated>
+  <updated>2026-10-20T08:53:32Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/2026/10/ki-innovation-ausgabenmanagement/</id>
+    <title>Neue Lösungen für das Ausgabenmanagement: KI- ...</title>
+    <link href="https://news.sap.com/germany/2026/10/ki-innovation-ausgabenmanagement/" />
+    <published>2026-10-20T08:53:32Z</published>
+    <updated>2026-10-20T08:53:32Z</updated>
+    <summary>Entdecken Sie die neuesten Funktionen zur Spend Management auf der SAP Connect 2026 für fundierte Entscheidungen und Kostenkontrolle.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/australia/2026/10/19/sap-launches-supply-chain-centre-of-excellence-in-anz/</id>
     <title>SAP launches Supply Chain Centre of Excellence in ANZ</title>
@@ -795,13 +803,5 @@
     <published>2026-10-12T09:37:56Z</published>
     <updated>2026-10-12T09:37:56Z</updated>
     <summary>Die SAP Connect 2026 zeigt neue Entwicklungen zur Autonomous Customer Experience. Lernen Sie die KI-gestützten Lösungen kennen.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/poland/2026/10/sap-z-nowym-dyrektorem-zarzadzajacym-na-europe-srodkowo-wschodnia-jest-nim-hermann-erlach/herman-erlach_header/</id>
-    <title>Herman Erlach_Header - SAP Poland Centrum Wiadomości</title>
-    <link href="https://news.sap.com/poland/2026/10/sap-z-nowym-dyrektorem-zarzadzajacym-na-europe-srodkowo-wschodnia-jest-nim-hermann-erlach/herman-erlach_header/" />
-    <published>2026-10-11T14:31:01Z</published>
-    <updated>2026-10-11T14:31:01Z</updated>
-    <summary>Herman Erlach_Header SAP Polska 00 800 491 1525. Speak Out at SAP SAP Trust Center SAP Store Platforma technologiczna Branże … © 2026 SAP SE</summary>
   </entry>
 </feed>
