@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-20T20:10:19Z</updated>
+  <updated>2026-10-20T21:09:47Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/arkansas-foreign-crypto-mining-limits-get-appeals-court-review</id>
+    <title>Arkansas' Foreign Crypto Mining Limits Get Appeals Court ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/arkansas-foreign-crypto-mining-limits-get-appeals-court-review" />
+    <published>2026-10-20T21:09:47Z</published>
+    <updated>2026-10-20T21:09:47Z</updated>
+    <summary>The Arkansas state legislature enacted a law in 2024 that bars citizens or businesses of countries subject to arms export controls by the US State Department ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/wachtell-covington-davis-polk-guide-salesforces-braze-buy</id>
     <title>Wachtell, Covington, Davis Polk Guide Salesforce's Braze ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-15T22:09:49Z</published>
     <updated>2026-10-15T22:09:49Z</updated>
     <summary>Culkar's practice focuses on traditional labor law, representing employers in union campaigns, contract negotiations, grievance arbitrations, unfair labor ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/fdas-infant-formula-standards-revamp-gets-white-house-review</id>
-    <title>FDA's Infant Formula Standards Revamp Gets White ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/fdas-infant-formula-standards-revamp-gets-white-house-review" />
-    <published>2026-10-15T22:09:49Z</published>
-    <updated>2026-10-15T22:09:49Z</updated>
-    <summary>The Food and Drug Administration is advancing an effort to revamp regulations governing the nutrient profiles of infant formula products.</summary>
   </entry>
 </feed>

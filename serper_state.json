@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 12397,
+  "credits_used": 12446,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-20T20:10:19Z",
+  "last_run": "2026-10-20T21:09:47Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 254
+  "runs": 255
  },
  "feeds": {
   "adp-help": {},
@@ -331,6 +331,15 @@
     "page": 3,
     "summary": "Apple Inc. urged a California appeals panel to uphold its summary judgment win Thursday in a case brought by an environmental consulting company claiming ...",
     "title": "Apple Tries to Fend off California Trade Secrets Suit on ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/arkansas-foreign-crypto-mining-limits-get-appeals-court-review": {
+    "baseline": false,
+    "date_hint": "58 minutes ago",
+    "first_seen": "2026-10-20T21:09:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/arkansas-foreign-crypto-mining-limits-get-appeals-court-review",
+    "page": 1,
+    "summary": "The Arkansas state legislature enacted a law in 2024 that bars citizens or businesses of countries subject to arms export controls by the US State Department ...",
+    "title": "Arkansas' Foreign Crypto Mining Limits Get Appeals Court ..."
    },
    "news.bloomberglaw.com/business-and-practice/arks-wood-says-coreweave-will-overcome-debt-fears-on-ai-demand": {
     "baseline": false,
@@ -3662,6 +3671,15 @@
     "page": 2,
     "summary": "Learn how to prepare and file your federal and state 1099-MISC and 1099-NEC if you have QuickBooks Desktop in QuickBooks Contractor Payments.",
     "title": "Create and file 1099s with QuickBooks Contractor Payments if ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/form-1099/create-file-1099s-quickbooks-desktop/L0BDDnpjz_US_en_US": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-20T21:09:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/form-1099/create-file-1099s-quickbooks-desktop/L0BDDnpjz_US_en_US",
+    "page": 2,
+    "summary": "How to prepare 1099s made easy in QuickBooks Desktop \u2014 the right way, the first time. Set it up with confidence.",
+    "title": "Create and file 1099s with QuickBooks Desktop - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/form-941/understand-federal-forms-941-944-943-940/L7meyjNUR_US_en_US": {
     "baseline": false,
@@ -7372,6 +7390,15 @@
     "page": 1,
     "summary": "Use stripe.confirmBlikSetup in the Set up future BLIK recurring payments flow when the customer submits your setup form. Pass the customer's BLIK code in ...",
     "title": "Confirm BLIK setup"
+   },
+   "docs.stripe.com/payments/checkout/customization/card-brands?payment-ui=elements&locale=es-419": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-20T21:09:47Z",
+    "link": "https://docs.stripe.com/payments/checkout/customization/card-brands?payment-ui=elements&locale=es-419",
+    "page": 2,
+    "summary": "Para Elements con Checkout Sessions, puedes personalizar las marcas de tarjetas y los tipos de financiaci\u00f3n que quieres restringir cuando creas una sesi\u00f3n ...",
+    "title": "Personalizar marcas de tarjetas | Documentaci\u00f3n de Stripe"
    },
    "docs.stripe.com/payments/migrations?locale=ja-JP": {
     "baseline": true,
