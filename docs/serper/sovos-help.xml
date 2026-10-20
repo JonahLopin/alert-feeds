@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-20T11:46:17Z</updated>
+  <updated>2026-10-20T17:45:51Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/e-invoicing/indirect-tax-api/e-invoicing/documents-endpoints</id>
+    <title>Documents endpoints - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/e-invoicing/indirect-tax-api/e-invoicing/documents-endpoints" />
+    <published>2026-10-20T17:45:51Z</published>
+    <updated>2026-10-20T17:45:51Z</updated>
+    <summary>Use the Documents endpoints to send new documents, retrieve documents, or perform actions on previously sent documents.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/unclaimed-property/reportmyup/add-and-manage-users/edit-users/edit-users-reportmyup-plus</id>
     <title>Edit users (ReportMyUP Plus) - Sovos Docs</title>

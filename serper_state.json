@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 12245,
+  "credits_used": 12296,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-20T16:47:31Z",
+  "last_run": "2026-10-20T17:45:51Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 251
+  "runs": 252
  },
  "feeds": {
   "adp-help": {},
@@ -519,6 +519,15 @@
     "page": 2,
     "summary": "Data brokers operating in California report having deleted more than 60 million consumer profiles via the state's newly launched data deletion platform, ...",
     "title": "California Data Brokers Report Over 60 Million Profile ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/california-says-doj-non-citizen-voting-suit-borders-on-absurd": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-20T17:45:51Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/california-says-doj-non-citizen-voting-suit-borders-on-absurd",
+    "page": 2,
+    "summary": "California officials asked a judge to deny a Trump administration request for an order requiring the state to set aside mail-in ballots of 20,000 suspected ...",
+    "title": "California Says DOJ Non-Citizen Voting Suit Borders on ' ..."
    },
    "news.bloomberglaw.com/business-and-practice/california-sues-to-end-continued-courthouse-immigration-arrests": {
     "baseline": false,
@@ -5050,6 +5059,15 @@
     "summary": "SAP\u306f\u3001\u300c2026 Fosway 9-Grid\u2122 for Cloud HR\u300d\u306b\u304a\u3044\u3066\u3001\u5f15\u304d\u7d9a\u304d\u300cStrategic Leader\uff08\u6226\u7565\u7684\u30ea\u30fc\u30c0\u30fc\uff09\u300d\u306b\u9078\u51fa\u3055\u308c\u307e\u3057\u305f\u3002\u3053\u308c\u306f\u3001\u4eba\u4e8b\u5909\u9769\u306b\u53d6\u308a\u7d44\u3080\u4f01\u696d\u306b\u3068\u3063\u3066\u3001SAP ...",
     "title": "SAP\u3001\u300c2026 Fosway 9-Grid\u2122 for Cloud HR\u300d\u3067 Strategic ..."
    },
+   "news.sap.com/korea/2026/10/%ED%8C%8C%ED%8A%B8%EB%84%88-5%EA%B3%B3%EA%B3%BC-%EC%A4%91%EC%86%8C%C2%B7%EC%A4%91%EA%B2%AC-%EC%84%B1%EC%9E%A5%EA%B8%B0%EC%97%85-%EC%A7%80%EC%9B%90-sap-next-100-%EB%B3%B8%EA%B2%A9": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-20T17:45:51Z",
+    "link": "https://news.sap.com/korea/2026/10/%ED%8C%8C%ED%8A%B8%EB%84%88-5%EA%B3%B3%EA%B3%BC-%EC%A4%91%EC%86%8C%C2%B7%EC%A4%91%EA%B2%AC-%EC%84%B1%EC%9E%A5%EA%B8%B0%EC%97%85-%EC%A7%80%EC%9B%90-sap-next-100-%EB%B3%B8%EA%B2%A9/",
+    "page": 2,
+    "summary": "SAP NEXT 100\uc740 \uc131\uc7a5 \uc9c4\ub2e8\ubd80\ud130 \uc2dc\uc2a4\ud15c \ub3c4\uc785\uae4c\uc9c0 \uc774\uc5b4\uc9c0\ub294 \ub2e8\uacc4\ubcc4 \uc9c0\uc6d0 \ud504\ub85c\uadf8\ub7a8\uc73c\ub85c \ud558\ub098\uc740\ud589, \ube44\uc790 \ucf54\ub9ac\uc544, PwC \ucf54\ub9ac\uc544, ASPN, \ube14\ub8e8\uc5b4\ub4dc \ub4f1 5\uac1c \ud30c\ud2b8\ub108\uc0ac\uc758 \uc804\ubb38 \uc5ed\ub7c9\uc744 ...",
+    "title": "\ud30c\ud2b8\ub108 5\uacf3\uacfc \uc911\uc18c\u00b7\uc911\uacac \uc131\uc7a5\uae30\uc5c5 \uc9c0\uc6d0 'SAP NEXT 100' \ubcf8\uaca9\ud654"
+   },
    "news.sap.com/korea/2026/10/%ED%8C%8C%ED%8A%B8%EB%84%88-5%EA%B3%B3%EA%B3%BC-%EC%A4%91%EC%86%8C%C2%B7%EC%A4%91%EA%B2%AC-%EC%84%B1%EC%9E%A5%EA%B8%B0%EC%97%85-%EC%A7%80%EC%9B%90-sap-next-100-%EB%B3%B8%EA%B2%A9?amp=1": {
     "baseline": false,
     "date_hint": "6 hours ago",
@@ -6416,6 +6434,15 @@
     "page": 1,
     "summary": "Intermittent issues are not as disruptive as downtime. This simply means that our system has detected some level of degradation from the IRS system that may ...",
     "title": "About IRS intermittent issues - Sovos Docs"
+   },
+   "docs.sovos.com/en/e-invoicing/indirect-tax-api/e-invoicing/documents-endpoints": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-20T17:45:51Z",
+    "link": "https://docs.sovos.com/en/e-invoicing/indirect-tax-api/e-invoicing/documents-endpoints",
+    "page": 1,
+    "summary": "Use the Documents endpoints to send new documents, retrieve documents, or perform actions on previously sent documents.",
+    "title": "Documents endpoints - Sovos Docs"
    },
    "docs.sovos.com/en/filing/sales-tax-filing-services/upload-data/troubleshooting": {
     "baseline": false,

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-20T16:47:31Z</updated>
+  <updated>2026-10-20T17:45:51Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/california-says-doj-non-citizen-voting-suit-borders-on-absurd</id>
+    <title>California Says DOJ Non-Citizen Voting Suit Borders on ' ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/california-says-doj-non-citizen-voting-suit-borders-on-absurd" />
+    <published>2026-10-20T17:45:51Z</published>
+    <updated>2026-10-20T17:45:51Z</updated>
+    <summary>California officials asked a judge to deny a Trump administration request for an order requiring the state to set aside mail-in ballots of 20,000 suspected ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/greenberg-traurig-recruits-finance-partner-jacobs-in-new-york</id>
     <title>Greenberg Traurig Recruits Finance Partner Jacobs in ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-15T19:08:34Z</published>
     <updated>2026-10-15T19:08:34Z</updated>
     <summary>As the economy grows, their profits will grow. If you buy their stocks, you will get a share of that growth. If you are a normal person saving for retirement, ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/wall-street-on-alert-for-bessent-to-act-on-bond-yields-again</id>
-    <title>Wall Street on Alert for Bessent to Act on Bond Yields Again</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/wall-street-on-alert-for-bessent-to-act-on-bond-yields-again" />
-    <published>2026-10-15T18:13:24Z</published>
-    <updated>2026-10-15T18:13:24Z</updated>
-    <summary>Bessent's “Treasury twist” came in response to surging US yields, a sore spot for a Trump administration that had promised to deliver lower borrowing costs — ...</summary>
   </entry>
 </feed>
