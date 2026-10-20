@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-20T22:10:52Z</updated>
+  <updated>2026-10-20T23:10:01Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12330901317052494081</id>
+    <title>Flock Safety Increases Lobbying Spend Amid Bipartisan Backlash - Bloomberg Government</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/flock-safety-increases-lobbying-spend-amid-bipartisan-backlash" />
+    <published>2026-10-20T23:10:01Z</published>
+    <updated>2026-10-20T23:10:01Z</updated>
+    <summary>Flock Safety poured $360000 into federal lobbying during the third quarter of the year, as broad privacy concerns over the company's automated ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:4512669757654380239</id>
     <title>Two Key Lawyers at Murdoch's Fox Exit Ahead of Roku Merger - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-10-16T00:25:53Z</published>
     <updated>2026-10-16T00:25:53Z</updated>
     <summary>Cryptocurrency firms are increasingly turning to the world of traditional finance for their next leg of growth by positioning themselves as ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:11528117531925216660</id>
-    <title>Proofpoint to Buy Varonis for $6.3 Billion as Tech M&amp;A Rebounds - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/proofpoint-to-buy-varonis-for-6-3-billion-as-tech-m-a-rebounds" />
-    <published>2026-10-16T00:25:53Z</published>
-    <updated>2026-10-16T00:25:53Z</updated>
-    <summary>Thoma Bravo-backed Proofpoint Inc. agreed to buy cybersecurity company Varonis Systems Inc. for about $6.3 billion.</summary>
   </entry>
 </feed>

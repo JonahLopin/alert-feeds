@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 12496,
+  "credits_used": 12545,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-20T22:09:27Z",
+  "last_run": "2026-10-20T23:08:46Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 256
+  "runs": 257
  },
  "feeds": {
   "adp-help": {},
@@ -1836,6 +1836,15 @@
     "summary": "Merck KGaA agreed to acquire Silence Therapeutics Plc for about $1.1 billion in a cash transaction as the German science company looks to beef up in rare ...",
     "title": "Merck KGaA to Buy Silence Therapeutics for $1.1 Billion"
    },
+   "news.bloomberglaw.com/business-and-practice/meta-glasses-accused-of-secretly-recording-private-conversations": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-20T23:08:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/meta-glasses-accused-of-secretly-recording-private-conversations",
+    "page": 1,
+    "summary": "Meta Platforms Inc . was hit with a new privacy lawsuit alleging the company recorded a California man's private conversations via its AI-enabled smart glasses",
+    "title": "Meta Glasses Accused of Secretly Recording Private ..."
+   },
    "news.bloomberglaw.com/business-and-practice/milbank-hires-white-cases-doe-for-project-finance-in-chicago": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -2159,6 +2168,15 @@
     "page": 2,
     "summary": "Protiviti Inc., a subsidiary of global consulting firm Robert Half Inc., unlawfully targeted pregnant workers in company layoffs, a new federal lawsuit ...",
     "title": "Robert Half Subsidiary Accused of Laying Off Pregnant ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/robins-kaplan-boosts-clerkship-bonuses-past-big-law-standard": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-20T23:08:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/robins-kaplan-boosts-clerkship-bonuses-past-big-law-standard",
+    "page": 1,
+    "summary": "Trial firm Robins Kaplan is increasing its incentives for lawyers who complete federal judicial clerkships, the firm announced Tuesday.",
+    "title": "Robins Kaplan Boosts Clerkship Bonuses Past Big Law ..."
    },
    "news.bloomberglaw.com/business-and-practice/scotus-passes-on-ruby-tuesday-benefits-suit-following-advice": {
     "baseline": false,
