@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-20T08:53:32Z</updated>
+  <updated>2026-10-20T13:48:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/utm-parameters</id>
+    <title>UTM Parameters: How To Use UTM Tracking Links (2026)</title>
+    <link href="https://www.shopify.com/blog/utm-parameters" />
+    <published>2026-10-20T13:48:05Z</published>
+    <updated>2026-10-20T13:48:05Z</updated>
+    <summary>UTM parameters are tags added to campaign URLs to identify where website visitors came from. They tell analytics tools which campaign sent a visitor</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/product-availability</id>
     <title>How To Measure and Improve Product Availability (2026)</title>

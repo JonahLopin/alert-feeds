@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:adp-press</id>
   <title>ADP press (site:mediacenter.adp.com) via Serper</title>
-  <updated>2026-10-15T04:11:36Z</updated>
+  <updated>2026-10-20T13:48:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/adp-press.xml" />
+  <entry>
+    <id>https://mediacenter.adp.com/2026-10-20-ADP-National-Employment-Report-Preliminary-Estimate-for-October-3,-2026</id>
+    <title>ADP National Employment Report Preliminary Estimate for ...</title>
+    <link href="https://mediacenter.adp.com/2026-10-20-ADP-National-Employment-Report-Preliminary-Estimate-for-October-3,-2026" />
+    <published>2026-10-20T13:48:05Z</published>
+    <updated>2026-10-20T13:48:05Z</updated>
+    <summary>The NER Pulse is an estimate of the week-over-week change in employment based on a four-week moving average. These estimates are based on ADP's finely tuned, ...</summary>
+  </entry>
   <entry>
     <id>https://mediacenter.adp.com/2026-10-13-ADP-National-Employment-Report-Preliminary-Estimate-for-September-26,-2026</id>
     <title>ADP National Employment Report Preliminary Estimate for ...</title>
