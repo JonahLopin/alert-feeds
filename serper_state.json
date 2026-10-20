@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 11729,
+  "credits_used": 11780,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-20T06:47:10Z",
+  "last_run": "2026-10-20T07:50:39Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 241
+  "runs": 242
  },
  "feeds": {
   "adp-help": {},
@@ -5377,6 +5377,15 @@
     "page": 1,
     "summary": "The Advantage Program is a series of patron-facing pricing options and POS configuration options designed to help you cover rising business costs and improve ...",
     "title": "Advantage Program FAQs (United States)"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/34232480009875-Finalize-Tips-Immediately-on-Shift4-Dine": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-20T07:50:39Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/34232480009875-Finalize-Tips-Immediately-on-Shift4-Dine",
+    "page": 1,
+    "summary": "Learn about updates to Shift4 Dine that simplify payment capturing and tip adjustments, including changes to how pending tips are identified and the enablement",
+    "title": "Finalize Tips Immediately on Shift4 Dine"
    },
    "shift4.zendesk.com/hc/en-us/articles/40680710360979-Settlement-Detail-Report": {
     "baseline": false,
