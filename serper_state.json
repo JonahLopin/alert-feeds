@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 12446,
+  "credits_used": 12496,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-20T21:09:47Z",
+  "last_run": "2026-10-20T22:09:27Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 255
+  "runs": 256
  },
  "feeds": {
   "adp-help": {},
@@ -286,6 +286,15 @@
     "page": 2,
     "summary": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value ... TypeSafe AI, the startup behind Jev, a new artificial intelligence model that went viral after it ...",
     "title": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value"
+   },
+   "news.bloomberglaw.com/business-and-practice/anthropic-could-spend-750-billion-on-computing-costs-wsj-says": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-20T22:09:27Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/anthropic-could-spend-750-billion-on-computing-costs-wsj-says",
+    "page": 2,
+    "summary": "Anthropic PBC could spend $750 billion on additional computing power in the coming years, according to a Wall Street Journal report, as the company prepares ...",
+    "title": "Anthropic Could Spend $750 Billion on Computing Costs ..."
    },
    "news.bloomberglaw.com/business-and-practice/anthropic-pitches-ai-safety-bill-to-lawmakers-politico-says": {
     "baseline": false,
@@ -483,6 +492,15 @@
     "page": 1,
     "summary": "Blackstone Inc. has raised $8.7 billion for a fund dedicated to cleaner energy, less than two years after wrapping up an earlier version of the strategy.",
     "title": "Blackstone Hauls in $8.7 Billion for Energy Transition Fund"
+   },
+   "news.bloomberglaw.com/business-and-practice/blank-rome-absorbs-two-hogan-lovells-commodity-partners-in-ny": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-20T22:09:27Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/blank-rome-absorbs-two-hogan-lovells-commodity-partners-in-ny",
+    "page": 2,
+    "summary": "Blank Rome welcomed Christopher J. Doyle and Marvin J. Goldstein as partners in New York, the firm announced Tuesday. Doyle joined the corporate, M&A, ...",
+    "title": "Blank Rome Absorbs Two Hogan Lovells Commodity ..."
    },
    "news.bloomberglaw.com/business-and-practice/bofa-hit-with-1-2-billion-of-fines-over-money-laundering-lapses": {
     "baseline": false,
@@ -6859,6 +6877,15 @@
     "page": 1,
     "summary": "End of Day History provides access to completed End of Day reports so you can review, print, or reference prior business days as needed.",
     "title": "End of Day History FOH"
+   },
+   "help.spoton.com/space/SK/2664661005": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-20T22:09:27Z",
+    "link": "https://help.spoton.com/space/SK/2664661005",
+    "page": 1,
+    "summary": "The Employee Closeout process allows staff to review their shift activity, reconcile cash and tips, print their closeout report, and properly clock out at the ...",
+    "title": "Employee Closeout Process | SpotOn Restaurant FOH"
    },
    "help.spoton.com/space/SK/2664890582": {
     "baseline": false,
