@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-18T14:08:36Z</updated>
+  <updated>2026-10-20T10:46:30Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/fix-iris-transmittal-errors</id>
+    <title>Fix IRIS transmittal errors - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/fix-iris-transmittal-errors" />
+    <published>2026-10-20T10:46:30Z</published>
+    <updated>2026-10-20T10:46:30Z</updated>
+    <summary>When the IRS processes your transmittal, you may receive errors that need to be corrected or rejected records that need to be resubmitted.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/1099-reporting/tincheck/manage-your-account/request-a-free-api-test-account</id>
     <title>Request a free API test account - TINCheck - Sovos Docs</title>

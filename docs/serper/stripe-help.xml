@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-20T03:35:51Z</updated>
+  <updated>2026-10-20T10:46:30Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/js/custom_checkout/get_form?%E0%A4%AA%E0%A4%B0=</id>
+    <title>Stripe JS Reference</title>
+    <link href="https://docs.stripe.com/js/custom_checkout/get_form?%E0%A4%AA%E0%A4%B0=" />
+    <published>2026-10-20T10:46:30Z</published>
+    <updated>2026-10-20T10:46:30Z</updated>
+    <summary>Payment Element · Create a Payment Element · Express Checkout Element · Create an Express Checkout Element · Contact Details Element · Create a Contact Details ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/stablecoins/ecosystem/ousd?locale=ja-JP</id>
     <title>Open USD | Stripe ドキュメント</title>

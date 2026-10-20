@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 11884,
+  "credits_used": 11937,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-20T09:48:33Z",
+  "last_run": "2026-10-20T10:46:30Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 244
+  "runs": 245
  },
  "feeds": {
   "adp-help": {},
@@ -2356,6 +2356,15 @@
     "summary": "The county of Arlington, Va., has sued the Trump administration over its proposed \u201cTriumphal Arch.\u201d The 250-foot arch that would be located on the District ...",
     "title": "Trump's Proposed 'Triumphal Arch' Draws Suit by Virginia ..."
    },
+   "news.bloomberglaw.com/business-and-practice/tva-secures-court-ok-to-continue-natural-gas-plant-construction": {
+    "baseline": false,
+    "date_hint": "16 hours ago",
+    "first_seen": "2026-10-20T10:46:30Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/tva-secures-court-ok-to-continue-natural-gas-plant-construction",
+    "page": 2,
+    "summary": "The Tennessee Valley Authority can continue building its multibillion-dollar natural gas plant that's replacing a coal power plant while a challenge to its ...",
+    "title": "TVA Secures Court OK to Continue Natural Gas Plant ..."
+   },
    "news.bloomberglaw.com/business-and-practice/uk-tax-authority-clarifies-vat-treatment-for-cryptoasset-sales": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -2418,6 +2427,15 @@
     "page": 2,
     "summary": "The Trump administration barred civilian US government agencies from using products or services from Chinese artificial intelligence startup DeepSeek, ...",
     "title": "US Moves to Bar DeepSeek From Federal Agencies and ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/us-plan-to-rehabilitate-dark-fleet-tankers-may-find-few-takers": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-20T10:46:30Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-plan-to-rehabilitate-dark-fleet-tankers-may-find-few-takers",
+    "page": 4,
+    "summary": "A US plan to rehabilitate sanctioned tankers to boost oil supply may attract only a sliver of the dark fleet, as existing contracts, complex compliance ...",
+    "title": "US Plan to Rehabilitate Dark Fleet Tankers May Find Few ..."
    },
    "news.bloomberglaw.com/business-and-practice/us-sanctions-icc-after-former-judge-gets-nobel-peace-prize-1": {
     "baseline": false,
@@ -6039,6 +6057,15 @@
     "summary": "Reset password \u00b7 Go to Sovos Home. \u00b7 On the login screen, click Forgot password. \u00b7 Enter your email address, then click Continue. \u00b7 Check your email for a message ...",
     "title": "Manage your password - Sovos Docs"
    },
+   "docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/fix-iris-transmittal-errors": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-20T10:46:30Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/fix-iris-transmittal-errors",
+    "page": 1,
+    "summary": "When the IRS processes your transmittal, you may receive errors that need to be corrected or rejected records that need to be resubmitted.",
+    "title": "Fix IRIS transmittal errors - Sovos Docs"
+   },
    "docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/fix-xml-schema-validation-errors": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -6796,6 +6823,15 @@
     "link": "https://docs.stripe.com/js/custom_checkout/checkout_form_methods?ref=spectralwebservices.com",
     "summary": "The layout of the embedded form. The 'expanded' layout is a single-step embedded form, while the 'compact' layout is a multi-step embedded form.",
     "title": "Embedded form methods"
+   },
+   "docs.stripe.com/js/custom_checkout/get_form?%E0%A4%AA%E0%A4%B0=": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-10-20T10:46:30Z",
+    "link": "https://docs.stripe.com/js/custom_checkout/get_form?%E0%A4%AA%E0%A4%B0=",
+    "page": 1,
+    "summary": "Payment Element \u00b7 Create a Payment Element \u00b7 Express Checkout Element \u00b7 Create an Express Checkout Element \u00b7 Contact Details Element \u00b7 Create a Contact Details ...",
+    "title": "Stripe JS Reference"
    },
    "docs.stripe.com/js/react_stripe_js/checkout_form/checkout_form?type=payment": {
     "baseline": false,
