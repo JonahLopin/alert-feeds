@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-21T00:25:22Z</updated>
+  <updated>2026-10-21T21:09:07Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/treasury/transfer-send/instant-transfers?locale=fr-FR</id>
+    <title>Transferts instantanés</title>
+    <link href="https://docs.stripe.com/treasury/transfer-send/instant-transfers?locale=fr-FR" />
+    <published>2026-10-21T21:09:07Z</published>
+    <updated>2026-10-21T21:09:07Z</updated>
+    <summary>Si vous avez un profil Stripe, vous pouvez envoyer de l'argent depuis votre compte financier vers le compte financier d'une autre entreprise, ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/connect/manage-connected-account-payouts</id>
+    <title>Manage connected account payouts</title>
+    <link href="https://docs.stripe.com/connect/manage-connected-account-payouts" />
+    <published>2026-10-21T21:09:07Z</published>
+    <updated>2026-10-21T21:09:07Z</updated>
+    <summary>Learn how to manage payouts for your platform's connected accounts. help with your payout settings and status. manages their external payout accounts (bank ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/js/custom_checkout/load_fonts?___SID=U</id>
     <title>Load additional custom fonts into Elements</title>

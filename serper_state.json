@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13524,
+  "credits_used": 13573,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T20:09:54Z",
+  "last_run": "2026-10-21T21:09:07Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 277
+  "runs": 278
  },
  "feeds": {
   "adp-help": {},
@@ -663,6 +663,15 @@
     "page": 1,
     "summary": "Compass alleged the requirement that agents list homes for sale within one business day or face fines violates US antitrust laws.",
     "title": "Compass Files Suit Over California Home Listing Service ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/congressional-power-tested-in-argument-over-fcc-data-breach-rule-43": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T21:09:07Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/congressional-power-tested-in-argument-over-fcc-data-breach-rule-43",
+    "page": 3,
+    "summary": "The disputed 2024 rule requires providers to notify the FCC of data breaches involving 500 or more customers' personal data within seven business days. The ...",
+    "title": "Congressional Power Tested in Argument Over FCC Data ..."
    },
    "news.bloomberglaw.com/business-and-practice/core-scientific-patent-owner-resolve-cryptography-tech-dispute": {
     "baseline": true,
@@ -3623,6 +3632,69 @@
     "summary": "The ProAdvisor Academy lets you advance your expertise and manage your professional achievements from your Intuit Accountant Suite firm.",
     "title": "ProAdvisor Academy and certification courses - QuickBooks"
    },
+   "google.com/goto?url=CAESqQEB6zswFRAIxalemueV8y57aNXYCKXmyq8nINkxKnDItsZXayTe5NuHzk3oreOz2q6gLt0C-I0N9tGiq__cBY2NXIr5G4PAl-5KDi7LKaPUCnistKuUTUxNAsn6KGNVKxu_ajkOeVTbJakY0gzPGUjv8DJYMTEykpheL8-zP1QAXgFKQjTu-IKfVvf1BFHd6KR51b-eX5PcxP-txgeuovF0U7ricu-QsxhS": {
+    "baseline": false,
+    "date_hint": "13 hours ago",
+    "first_seen": "2026-10-21T21:09:07Z",
+    "link": "https://www.google.com/goto?url=CAESqQEB6zswFRAIxalemueV8y57aNXYCKXmyq8nINkxKnDItsZXayTe5NuHzk3oreOz2q6gLt0C-I0N9tGiq__cBY2NXIr5G4PAl-5KDi7LKaPUCnistKuUTUxNAsn6KGNVKxu_ajkOeVTbJakY0gzPGUjv8DJYMTEykpheL8-zP1QAXgFKQjTu-IKfVvf1BFHd6KR51b-eX5PcxP-txgeuovF0U7ricu-QsxhS",
+    "page": 1,
+    "summary": "QuickBooks Capital offers small business lending options to help you manage cash flow, cover business expenses, or invest in growth.",
+    "title": "Learn about QuickBooks Capital Loans - Intuit"
+   },
+   "google.com/goto?url=CAESqQEB6zswFXhmS5yTDYGulNCGJZosHFbZ8YFQq9kZAMKLG4gRGEFXzCJFp9AnDJvtSMMUTPt7N166r5YbM6Uv6_gBB_5jsXvkJcZWUvAQsP2dUMYBGhSEopDlzks32Ez-Tp1qM2cozG_Gum8yYPemhfEOzjYfjXAbKufRfjOkNgWMecIGbqp1dqBKkwenIUAYzxLyDw7GxdbgVwJ01gsdx_gQdNrJFo_YmhY8": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-21T21:09:07Z",
+    "link": "https://www.google.com/goto?url=CAESqQEB6zswFXhmS5yTDYGulNCGJZosHFbZ8YFQq9kZAMKLG4gRGEFXzCJFp9AnDJvtSMMUTPt7N166r5YbM6Uv6_gBB_5jsXvkJcZWUvAQsP2dUMYBGhSEopDlzks32Ez-Tp1qM2cozG_Gum8yYPemhfEOzjYfjXAbKufRfjOkNgWMecIGbqp1dqBKkwenIUAYzxLyDw7GxdbgVwJ01gsdx_gQdNrJFo_YmhY8",
+    "page": 1,
+    "summary": "Use QuickBooks to file, pay, and record your sales tax. This helps you make sure you comply with tax regulations, so you can focus more on your business.",
+    "title": "File and pay sales tax in QuickBooks Online - Intuit"
+   },
+   "google.com/goto?url=CAEStgEB6zswFff3W8uhsw8SG74bTDYZrQ-ztCdiZ_hXcoTV6il_TIC2D8BAJjl3mumqpbR4KW_5xdGYJZxWyP6BnJVnqoQLA0pwtmluwV3nFk6BtDniH1Jb5Q-HfTiS5EMbSaf_JcgYMXZEK6uBAIML4mC6j2AOntzz4ShhHrmvEwHgcH6bXitwxFVra0XhZIoPeEtgatUEh6GibvihWtmOctclkNZ8h1RV_o5_xcOkYOyEwFyulVbeIw": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-21T21:09:07Z",
+    "link": "https://www.google.com/goto?url=CAEStgEB6zswFff3W8uhsw8SG74bTDYZrQ-ztCdiZ_hXcoTV6il_TIC2D8BAJjl3mumqpbR4KW_5xdGYJZxWyP6BnJVnqoQLA0pwtmluwV3nFk6BtDniH1Jb5Q-HfTiS5EMbSaf_JcgYMXZEK6uBAIML4mC6j2AOntzz4ShhHrmvEwHgcH6bXitwxFVra0XhZIoPeEtgatUEh6GibvihWtmOctclkNZ8h1RV_o5_xcOkYOyEwFyulVbeIw",
+    "page": 1,
+    "summary": "Learn how to run 1099 reports that show who needs 1099s, payment totals, and more. you can create your own reports using Custom Report Builder. , accounts, ...",
+    "title": "Create 1099 reports - QuickBooks - Intuit"
+   },
+   "google.com/goto?url=CAESugEB6zswFTimfz6vfe4QhDBLY4dmcqqS2u6ZhcBmUXPUIokLuYtqXBfSC7HUeA67IN9Zy4BmvVasgquPocr3oC0rSZ2TXUL2IMFUPNmfxilie9T7oAnF4HVcnlcj2A9qAnC1SCI4i-6Vi-GWYlfmkydi18rqxw_tqXM9Sdqcq1LXAXmwvvZOAM4QD1CgWC1ojG6i6G5bLPkGLKGxKlGAiQmBuZOyaRj_uXYuXEsJTa5yClquWQLcfSeFnoc": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-21T21:09:07Z",
+    "link": "https://www.google.com/goto?url=CAESugEB6zswFTimfz6vfe4QhDBLY4dmcqqS2u6ZhcBmUXPUIokLuYtqXBfSC7HUeA67IN9Zy4BmvVasgquPocr3oC0rSZ2TXUL2IMFUPNmfxilie9T7oAnF4HVcnlcj2A9qAnC1SCI4i-6Vi-GWYlfmkydi18rqxw_tqXM9Sdqcq1LXAXmwvvZOAM4QD1CgWC1ojG6i6G5bLPkGLKGxKlGAiQmBuZOyaRj_uXYuXEsJTa5yClquWQLcfSeFnoc",
+    "page": 1,
+    "summary": "After you file your 1099-MISC or 1099-NEC forms, and they have been accepted by the IRS, if you need to correct an error or filing follow the below steps.",
+    "title": "Correct or change 1099s - QuickBooks - Intuit"
+   },
+   "google.com/goto?url=CAESvAEB6zswFR-0oAI4wyKsp8RxoodSm-YC4K8o5KmDZ2k-eeO6KFW9LVid9hSCcV20673xDqm5-VeElncS6KP77oHbik2lPdTPystopG3VepG9hQ_pjxvzRYU1zREt6c0M25ST0SN-LqO0DnldXVruDoUqc5CZpB6PqNl-mbSRPghROeCvlohY7Q2KWdPOhHFJ4GFsVETNuXU_52rTfw_JxcvGLI2mrzTbeVwQtza3BleUzfYgj0PCs7mO9RamRw": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-21T21:09:07Z",
+    "link": "https://www.google.com/goto?url=CAESvAEB6zswFR-0oAI4wyKsp8RxoodSm-YC4K8o5KmDZ2k-eeO6KFW9LVid9hSCcV20673xDqm5-VeElncS6KP77oHbik2lPdTPystopG3VepG9hQ_pjxvzRYU1zREt6c0M25ST0SN-LqO0DnldXVruDoUqc5CZpB6PqNl-mbSRPghROeCvlohY7Q2KWdPOhHFJ4GFsVETNuXU_52rTfw_JxcvGLI2mrzTbeVwQtza3BleUzfYgj0PCs7mO9RamRw",
+    "page": 1,
+    "summary": "The deadline to file is February 2. W-2s are available in the Payroll Tax Center starting January 10. You can view and print your W-2s starting January 1.",
+    "title": "Understand the timing for your W-2s - QuickBooks - Intuit"
+   },
+   "google.com/goto?url=CAESvgEB6zswFW7pSo6GCQ5KF5HBtay4J5CdLl-ZVoYY4nMv7IiIaK-fAhZi_ZjAR78P2HY6m8zSDp1cUpf9QNxAQAI2gw_GtlOOTts6lWz4-B5yoxaLC3lPTH6jarzyCq58MMUXE0HKkheDpMsEHZzPDRt_mfnQ0fq4Ih2shJ-gH0aXvf8j3fpwENAOmsmlq-_Lz4inujU9a612wSLwn4BOQ-3HdQvtZw2WsADuumhjM-xSS38vB5thXv07TDSiov7n": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-21T21:09:07Z",
+    "link": "https://www.google.com/goto?url=CAESvgEB6zswFW7pSo6GCQ5KF5HBtay4J5CdLl-ZVoYY4nMv7IiIaK-fAhZi_ZjAR78P2HY6m8zSDp1cUpf9QNxAQAI2gw_GtlOOTts6lWz4-B5yoxaLC3lPTH6jarzyCq58MMUXE0HKkheDpMsEHZzPDRt_mfnQ0fq4Ih2shJ-gH0aXvf8j3fpwENAOmsmlq-_Lz4inujU9a612wSLwn4BOQ-3HdQvtZw2WsADuumhjM-xSS38vB5thXv07TDSiov7n",
+    "page": 1,
+    "summary": "Searching how to request a W-9 from a vendor? Follow this quick guide \u2014 without the usual headaches. Clear, step-by-step instructions.",
+    "title": "Manage contractor and vendor W-9 invites in QuickBooks - Intuit"
+   },
+   "google.com/goto?url=CAESvgEB6zswFZQs4DIElyam44mf7LJLk5O7logYrVVPPgiYZZE1iFHsZgH5iikZzaYSQiIML8VkDotcVK_HobOfi2guIw5ipKkNDCkkVK__UZG9teLw8oRQurf4iRZAHAaBNrNivoc-lf-F4Nh2GvEIT-Mrqp18KqETxzuWHmeYmv3Vt-rcFJYkj5wmt-mnSxCHUWycf0BanQvV9jvH7PEgU12kniCJn_3actLjgURPm19_7ZYXzFnzxYAOiadVWNft": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-21T21:09:07Z",
+    "link": "https://www.google.com/goto?url=CAESvgEB6zswFZQs4DIElyam44mf7LJLk5O7logYrVVPPgiYZZE1iFHsZgH5iikZzaYSQiIML8VkDotcVK_HobOfi2guIw5ipKkNDCkkVK__UZG9teLw8oRQurf4iRZAHAaBNrNivoc-lf-F4Nh2GvEIT-Mrqp18KqETxzuWHmeYmv3Vt-rcFJYkj5wmt-mnSxCHUWycf0BanQvV9jvH7PEgU12kniCJn_3actLjgURPm19_7ZYXzFnzxYAOiadVWNft",
+    "page": 1,
+    "summary": "Use this feature to monitor real-time data, identify trends, and track progress against goals to make informed business decisions.",
+    "title": "View key performance indicators for your business - QuickBooks"
+   },
    "google.com/goto?url=CAESwQEB6zswFSDqARjo_8eskbdfLKODJpB3Adv612C2OiniIJMF3yTa4Qp7VmPmYHeQV6ayZA3UpAO9aEWPKYwd2KnWGikdBi8ZL17OZUBCkt6G86pfc5Kx8-aglsFTedQArWtkWtgRbiM_w25qnNw1JKUasbozcQtoz1zcWFrOj8jbFGzz6Do4pfNYORKmsD7lx_ETbM3m208wPslFHuwL2-6OOYC8MfDu3n_IuBDFk6ZteY9_H622JL-g2uXC5H_zkZRa&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -3631,6 +3703,15 @@
     "page": 1,
     "summary": "Learn how to review and post transactions that QuickBooks Online marks as Ready to post, and how to set your Ready to post criteria through your Transaction ...",
     "title": "Use Ready to post in QuickBooks Online - Intuit"
+   },
+   "google.com/goto?url=CAESwgEB6zswFaKOShMh6tgZzIEgRStdkH93KjlE1whsgReeMmviultgdMCAGRxiSUPKKVvgqzREnmGHcAIr3zofSfldfjmNzzfGZtiGZmkFwrRqSUFO7dVSmzgqIUiMNExuQzUw9vg0ZAUhCeIOaWRJ8XY7KU2QkPS0ACcRNYu-LRAoIuOfXYFDjoHGadstvx6ZIxJ7_PFNAglh6MCKE8gnt3IPwuGQPyYfFprWtfVmB8mr4tVJUJX7M-98XiSZqIsMvd6fDw": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-21T21:09:07Z",
+    "link": "https://www.google.com/goto?url=CAESwgEB6zswFaKOShMh6tgZzIEgRStdkH93KjlE1whsgReeMmviultgdMCAGRxiSUPKKVvgqzREnmGHcAIr3zofSfldfjmNzzfGZtiGZmkFwrRqSUFO7dVSmzgqIUiMNExuQzUw9vg0ZAUhCeIOaWRJ8XY7KU2QkPS0ACcRNYu-LRAoIuOfXYFDjoHGadstvx6ZIxJ7_PFNAglh6MCKE8gnt3IPwuGQPyYfFprWtfVmB8mr4tVJUJX7M-98XiSZqIsMvd6fDw",
+    "page": 1,
+    "summary": "In QuickBooks Online and QuickBooks Contractor Payments, you can set up your contractors for a 1099, then track their payments.",
+    "title": "Set up contractors for 1099s - QuickBooks - Intuit"
    },
    "google.com/goto?url=CAESwwEB6zswFaTK8shauOIQrhvkiSos0QlHAzgRnzQ5T9HBSd8tKGVjwWHM-4wNoAmrfg4T6wMsjz3Im5gmF5Amu7BPwC0giPrfwwHATE0nnc_IkV3AuKuSJBysdaTvAnMHIwriSIXDEr3KPejQeYLJLSX3QDTZl4KUxnkk_R23LUJqUg_Oy5tlYaYSlj1pSrKqZ2z4ugHpXXXL2hQ8zDX3lu7ashyZuT1kgNIQD-NcomeJhY7R41UOUvv6aRLxa9naaSHEhms&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA": {
     "baseline": false,
@@ -3659,6 +3740,15 @@
     "summary": "Searching how to depreciate an asset? Follow this quick guide in QuickBooks Online \u2014 so everything reconciles cleanly. Clear, step-by-step instructions.",
     "title": "Set up an asset depreciation account in QuickBooks Online"
    },
+   "google.com/goto?url=CAESxAEB6zswFenvtfju_iTwVrunt1xG_gnRGwJba93IdJnxjbJYQa2ngH0wKTjo0DbKRnXJ1qaAJZ_WRYH5jUZ8ltmN6odGRl9UThm3dRc83UchjVVKAOVubTV23brwfuCUj3t-YSqqGscaBGiUzrjY15LgCngNT1PcFI5XnHQ2cd6V05wG0y2DEq3AnnQ3bjpbzjAAbE9fKnlRMZKmnpPrK2cXSCjHxK_BJgS69_HE_BjQBzHZV6jha46mZqHr2Qez--H_eEm1": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-21T21:09:07Z",
+    "link": "https://www.google.com/goto?url=CAESxAEB6zswFenvtfju_iTwVrunt1xG_gnRGwJba93IdJnxjbJYQa2ngH0wKTjo0DbKRnXJ1qaAJZ_WRYH5jUZ8ltmN6odGRl9UThm3dRc83UchjVVKAOVubTV23brwfuCUj3t-YSqqGscaBGiUzrjY15LgCngNT1PcFI5XnHQ2cd6V05wG0y2DEq3AnnQ3bjpbzjAAbE9fKnlRMZKmnpPrK2cXSCjHxK_BJgS69_HE_BjQBzHZV6jha46mZqHr2Qez--H_eEm1",
+    "page": 1,
+    "summary": "Learn how to consolidate your clients into one Intuit Accountant Suite (IAS) console. When you consolidate consoles, you transfer clients from one or more ...",
+    "title": "Transfer clients in Intuit Accountant Suite (IAS) - QuickBooks"
+   },
    "google.com/goto?url=CAESxgEB6zswFUJxjand2bxXk-a5zwKbDYptjc3QC7mmqPoH-gHuQTf9bM0o5yYpzjOo6kEJ8uUduXva_26hy1bqaDd_gRZ8ux5VWICE8OrAdsv7fCjgBIZ1xwdmCC3nfsCie097U39gOXglFy9vB5uyEEcbpvvJ04VPUOCTyoF9i2BtqLtNs2L_PskVlRSRED_ZuXBwmpKSI71xkZR4EDNcFJ0iGS66vtuf0JlR__uu714wQXvjBGrFtULFmDctVXidt-BOe4N5zNE&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -3667,6 +3757,15 @@
     "page": 1,
     "summary": "Whether you're a new or experienced QuickBooks user, your bank transactions page has features designed to help you efficiently manage your bank and credit ...",
     "title": "Learn about updates to the new AI-powered banking page"
+   },
+   "google.com/goto?url=CAESxgEB6zswFY8VyrkUen3S1CWdzmttQzJ1Y8CrQphLFmBSnB0NeMA3_hbCCPArfPdmK35fEF-MXVQLiau-S2HURmbfIoWL0_padAvbgf6oo5uAEaTnqN7MTJhw6Oz_OyXaI2wCRfA20y39bOFwp528roOM2P69ZD56ejaaRUuA-Agvwwh1JyDCDopueGutgFWIqsr1eBGHRNaniZt8Ysi2zzDTH3eRJcqpziumrTb_7W2d-3f_wSD1K0mTKE0dFoKpTe_YVx81Szo": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-21T21:09:07Z",
+    "link": "https://www.google.com/goto?url=CAESxgEB6zswFY8VyrkUen3S1CWdzmttQzJ1Y8CrQphLFmBSnB0NeMA3_hbCCPArfPdmK35fEF-MXVQLiau-S2HURmbfIoWL0_padAvbgf6oo5uAEaTnqN7MTJhw6Oz_OyXaI2wCRfA20y39bOFwp528roOM2P69ZD56ejaaRUuA-Agvwwh1JyDCDopueGutgFWIqsr1eBGHRNaniZt8Ysi2zzDTH3eRJcqpziumrTb_7W2d-3f_wSD1K0mTKE0dFoKpTe_YVx81Szo",
+    "page": 1,
+    "summary": "You can erase all your QuickBooks Online company data and start over if you need to. Select Settings and then Subscriptions and billing. In the QuickBooks box, ...",
+    "title": "Delete your data and start over - QuickBooks - Intuit"
    },
    "google.com/goto?url=CAESzAEB6zswFXH8vZ7oSh9Tf9D2ZX4P9NShkN7ZsDmdXJxHzKp6HpXQwANFeFFpj9kPMADnZQByJYj7sq8U8VHG_KYMAE6n7COeJsvtC0XJLJwhz2LoXRsiKyaPvhENUuKbWt0J0CwS9R931VNLoNMJMWnT4Ld3bMzFH_jYY73JbISqMd25iqvuXIudiDEJr4CRLX76siUY-XBjY6W5pGl0Ws33VjSx5I7uyuDckypfCFWnOgGBT2itqsQ_AImEGgoJ0zQa3DWA3_GQbmBUHN8&gsessionid=8ufguxkE7NH3EfUGbRf6qqLbqyzj5bj6TFyx99-PWkVJd2GuUJB2aA": {
     "baseline": false,
@@ -5023,6 +5122,15 @@
     "page": 1,
     "summary": "New innovations in payments, enterprise performance management, and AI automation help finance teams move quickly from insight to execution while ...",
     "title": "SAP Advances Finance Operations with Embedded ..."
+   },
+   "news.sap.com/2026/10/sap-announces-q3-2026-results": {
+    "baseline": false,
+    "date_hint": "58 minutes ago",
+    "first_seen": "2026-10-21T21:09:07Z",
+    "link": "https://news.sap.com/2026/10/sap-announces-q3-2026-results/",
+    "page": 1,
+    "summary": "At a glance \u00b7 Current cloud backlog of \u20ac24.1 billion, up 28% and up 26% at constant currencies \u00b7 Cloud revenue up 26% and up 25% at constant currencies \u00b7 Cloud ERP ...",
+    "title": "SAP Announces Q3 2026 Results"
    },
    "news.sap.com/2026/10/sap-cloud-erp-private-2025-fps02-foundation-autonomous-enterprise": {
     "baseline": false,
@@ -7848,6 +7956,15 @@
     "summary": "R\u00e9duire les risques de fraude et de non-paiement li\u00e9s aux abonnements. Configurez les mises \u00e0 jour d'abonnement, les cr\u00e9dits, le recouvrement des paiements ...",
     "title": "R\u00e9duire les risques de fraude et de non-paiement li\u00e9s aux ..."
    },
+   "docs.stripe.com/connect/manage-connected-account-payouts": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T21:09:07Z",
+    "link": "https://docs.stripe.com/connect/manage-connected-account-payouts",
+    "page": 1,
+    "summary": "Learn how to manage payouts for your platform's connected accounts. help with your payout settings and status. manages their external payout accounts (bank ...",
+    "title": "Manage connected account payouts"
+   },
    "docs.stripe.com/data/write-queries": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -8119,6 +8236,15 @@
     "summary": "You can transfer funds from your financial account to your Stripe payments balance. This lets you use funds stored in your financial account to fund refunds, ...",
     "title": "Transfer funds"
    },
+   "docs.stripe.com/treasury/transfer-send/instant-transfers?locale=fr-FR": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-21T21:09:07Z",
+    "link": "https://docs.stripe.com/treasury/transfer-send/instant-transfers?locale=fr-FR",
+    "page": 2,
+    "summary": "Si vous avez un profil Stripe, vous pouvez envoyer de l'argent depuis votre compte financier vers le compte financier d'une autre entreprise, ...",
+    "title": "Transferts instantan\u00e9s"
+   },
    "docs.stripe.com/use-stripe-apps/netsuite/setup/stripe-initiated-payments": {
     "baseline": false,
     "date_hint": "1 day ago",
@@ -8275,6 +8401,15 @@
     "page": 1,
     "summary": "The four-layer audit pyramid helps firms reduce silos, streamline processes, and create a foundation for scalable AI adoption. Firms that move from fragmented ...",
     "title": "Four layers of a connected, AI-powered audit ecosystem"
+   },
+   "tax.thomsonreuters.com/blog/how-to-improve-audit-team-productivity": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-21T21:09:07Z",
+    "link": "https://tax.thomsonreuters.com/blog/how-to-improve-audit-team-productivity/",
+    "page": 1,
+    "summary": "Busy doesn't always mean productive. Learn how better audit workflows, targeted training, and technology can reduce rework and support audit quality.",
+    "title": "Your audit team is busy. But is it productive?"
    },
    "tax.thomsonreuters.com/blog/not-all-ai-is-built-for-auditing-heres-the-difference": {
     "baseline": false,

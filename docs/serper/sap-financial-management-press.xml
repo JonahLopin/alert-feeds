@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-21T13:11:39Z</updated>
+  <updated>2026-10-21T21:09:07Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/2026/10/sap-announces-q3-2026-results/</id>
+    <title>SAP Announces Q3 2026 Results</title>
+    <link href="https://news.sap.com/2026/10/sap-announces-q3-2026-results/" />
+    <published>2026-10-21T21:09:07Z</published>
+    <updated>2026-10-21T21:09:07Z</updated>
+    <summary>At a glance · Current cloud backlog of €24.1 billion, up 28% and up 26% at constant currencies · Cloud revenue up 26% and up 25% at constant currencies · Cloud ERP ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/</id>
     <title>SAP LeanIX: 6-Time Leader in Magic Quadrant for EA Tools</title>
@@ -795,13 +803,5 @@
     <published>2026-10-13T16:12:23Z</published>
     <updated>2026-10-13T16:12:23Z</updated>
     <summary>Com o SAP Business Data Cloud e o SAP Datasphere, centralizamos nossa base de dados de forma governada e escalável, reduzimos a complexidade da replicação e ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/2026/10/sap-cloud-erp-private-2025-fps02-foundation-autonomous-enterprise/</id>
-    <title>SAP Strengthens the Foundation for the Autonomous ...</title>
-    <link href="https://news.sap.com/2026/10/sap-cloud-erp-private-2025-fps02-foundation-autonomous-enterprise/" />
-    <published>2026-10-13T16:12:23Z</published>
-    <updated>2026-10-13T16:12:23Z</updated>
-    <summary>The release combines AI agents that can work directly with core business processes and adds new regulatory compliance capabilities and industry-specific ...</summary>
   </entry>
 </feed>
