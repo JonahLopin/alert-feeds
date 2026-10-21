@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 12739,
+  "credits_used": 12789,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T03:51:00Z",
+  "last_run": "2026-10-21T04:49:51Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 261
+  "runs": 262
  },
  "feeds": {
   "adp-help": {},
@@ -797,6 +797,15 @@
     "page": 2,
     "summary": "Data center operator AirTrunk is delaying a planned initial public offering of a real estate investment trust in Singapore until next year as higher ...",
     "title": "Data Center Operator AirTrunk Is Said to Delay $1.5 Billion ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/dayone-is-said-to-weigh-options-for-us-ipo-amid-data-center-rout": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-21T04:49:51Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/dayone-is-said-to-weigh-options-for-us-ipo-amid-data-center-rout",
+    "page": 4,
+    "summary": "DayOne Data Centers Ltd. is weighing options for its US initial public offering, including a potential delay or size cut, amid increasing volatility around ...",
+    "title": "DayOne Is Said to Weigh Options for US IPO Amid Data ..."
    },
    "news.bloomberglaw.com/business-and-practice/debevoise-picks-up-freshfields-private-capital-group-leaders": {
     "baseline": true,

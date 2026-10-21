@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-21T01:39:42Z</updated>
+  <updated>2026-10-21T04:49:51Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/dayone-is-said-to-weigh-options-for-us-ipo-amid-data-center-rout</id>
+    <title>DayOne Is Said to Weigh Options for US IPO Amid Data ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/dayone-is-said-to-weigh-options-for-us-ipo-amid-data-center-rout" />
+    <published>2026-10-21T04:49:51Z</published>
+    <updated>2026-10-21T04:49:51Z</updated>
+    <summary>DayOne Data Centers Ltd. is weighing options for its US initial public offering, including a potential delay or size cut, amid increasing volatility around ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/two-key-lawyers-at-murdochs-fox-exit-ahead-of-roku-merger</id>
     <title>Two Key Lawyers at Murdoch's Fox Exit Ahead of Roku ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-16T11:45:46Z</published>
     <updated>2026-10-16T11:45:46Z</updated>
     <summary>Concerns over CoreWeave Inc. 's high borrowing costs are common for young companies raising money when interest rates are elevated, but investing in the AI ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/a-blockbuster-era-law-wont-save-your-privacy-stephen-l-carter</id>
-    <title>A Blockbuster-Era Law Won't Save Your Privacy: Stephen ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/a-blockbuster-era-law-wont-save-your-privacy-stephen-l-carter" />
-    <published>2026-10-16T11:45:46Z</published>
-    <updated>2026-10-16T11:45:46Z</updated>
-    <summary>Paramount Global, Inc., a dispute over a 1988 statute that purports to regulate what information about its customers a “video tape service provider” might share ...</summary>
   </entry>
 </feed>
