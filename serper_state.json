@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 12889,
+  "credits_used": 12938,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T06:48:24Z",
+  "last_run": "2026-10-21T07:53:11Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 264
+  "runs": 265
  },
  "feeds": {
   "adp-help": {},
@@ -2321,6 +2321,15 @@
     "page": 1,
     "summary": "Massachusetts' high court upheld a conviction under a state law restricting permits for handguns to those older than 21. Photographer: Bing Guan/Bloomberg.",
     "title": "Split Massachusetts High Court Upholds Handgun-Permit ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/starbucks-china-will-require-purchases-to-sit-in-its-cafes": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-21T07:53:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/starbucks-china-will-require-purchases-to-sit-in-its-cafes",
+    "page": 2,
+    "summary": "The new seating policy will take effect nationwide from Oct. 22, with stores displaying notices informing customers of the change, Starbucks China said on ...",
+    "title": "Starbucks China Will Require Purchases to Sit in Its Cafes"
    },
    "news.bloomberglaw.com/business-and-practice/starbucks-unlawfully-limited-facial-piercings-nlrb-judge-finds": {
     "baseline": true,
@@ -6245,6 +6254,15 @@
     "summary": "Customer lifetime value (CLV) shows what each customer is worth over time. Get the CLV formula, worked examples, and where to find CLV in Shopify.",
     "title": "Customer Lifetime Value: How To Calculate CLV (2026)"
    },
+   "shopify.com/blog/data-management-platform": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-10-21T07:53:11Z",
+    "link": "https://www.shopify.com/blog/data-management-platform",
+    "page": 1,
+    "summary": "A data management platform (DMP) is a platform that builds audiences for advertisers from anonymous browsing data aggregated from internet users. Websites carry ...",
+    "title": "How Data Management Platforms Work: 2026 Guide to DMPs"
+   },
    "shopify.com/blog/entrepreneurial-mindset": {
     "baseline": true,
     "date_hint": "4 days ago",
@@ -8579,6 +8597,15 @@
     "page": 2,
     "summary": "Wolters Kluwer Legal & Regulatory U.S. today announced the appointment of Ken Crutchfield as Vice President & General Manager of Legal Markets, effective ...",
     "title": "Wolters Kluwer Legal & Regulatory Names Ken Crutchfield ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-makes-libra-ai-capabilities-available-in-inview-legal-and-inview-tax": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T07:53:11Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-makes-libra-ai-capabilities-available-in-inview-legal-and-inview-tax",
+    "page": 1,
+    "summary": "Libra by Wolters Kluwer is an all-in-one legal AI workspace that brings research, analysis, review and drafting together in a single environment. It has been ...",
+    "title": "Wolters Kluwer makes Libra AI capabilities available in ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-named-a-great-place-to-work-by-the-secured-lender": {
     "baseline": false,
