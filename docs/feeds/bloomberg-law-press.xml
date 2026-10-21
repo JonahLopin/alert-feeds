@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-21T20:47:08Z</updated>
+  <updated>2026-10-21T21:46:16Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:5197692547377704634</id>
+    <title>Oil Company Unlikely to Revive Suit Against California County - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/oil-company-unlikely-to-revive-suit-against-california-county" />
+    <published>2026-10-21T21:46:16Z</published>
+    <updated>2026-10-21T21:46:16Z</updated>
+    <summary>A federal appeals panel appeared unlikely to reverse a lower court's default judgment against a California oil company for violating Ventura ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:17560132422129908449</id>
     <title>Environmental Coalition Sues Over Species 'Blanket' Rule Repeal - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-10-19T10:10:29Z</published>
     <updated>2026-10-19T10:10:29Z</updated>
     <summary>The Trump administration's move to integrate artificial intelligence agents with Medicare patient data is facing concerns the tech push could put ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:15259969602702000485</id>
-    <title>Judge Rejects 'Baseless' DOJ Bid to Recuse From Golf Course Case</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/judge-rejects-baseless-doj-bid-to-recuse-from-golf-course-case" />
-    <published>2026-10-19T10:10:29Z</published>
-    <updated>2026-10-19T10:10:29Z</updated>
-    <summary>A federal judge rejected a Justice Department official's request to recuse herself from a court challenge to President Donald Trump's proposed ...</summary>
   </entry>
 </feed>
