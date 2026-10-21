@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13573,
+  "credits_used": 13624,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T21:09:07Z",
+  "last_run": "2026-10-21T22:09:24Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 278
+  "runs": 279
  },
  "feeds": {
   "adp-help": {},
@@ -2214,6 +2214,15 @@
     "summary": "Businesses opting to use low-cost Chinese artificial intelligence models are taking a cybersecurity risk, said OpenAI Chief Financial Officer Sarah Friar ...",
     "title": "OpenAI CFO Says Firms Using Chinese AI Models Are ..."
    },
+   "news.bloomberglaw.com/business-and-practice/openai-proposes-cybersecurity-measures-for-governments-industry": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-21T22:09:24Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/openai-proposes-cybersecurity-measures-for-governments-industry",
+    "page": 1,
+    "summary": "OpenAI has released a cybersecurity blueprint outlining concrete proposals for governments and industry to strengthen defenses before advanced offensive AI ...",
+    "title": "OpenAI Proposes Cybersecurity Measures for ..."
+   },
    "news.bloomberglaw.com/business-and-practice/openai-says-ai-agents-weakened-misalignment-monitoring": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -3513,6 +3522,15 @@
     "summary": "Learn how to create a great restaurant website design that attracts customers and boosts your restaurant's growth, plus see real restaurant website examples. ...",
     "title": "How to Create a Restaurant Website Design (With Examples)"
    },
+   "merchants.doordash.com/en-us/blog/restaurant-website-examples": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-21T22:09:24Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-website-examples",
+    "page": 1,
+    "summary": "Every strong restaurant website starts with the same question: what do you want a visitor to do next? Order takeout, book a table, or just fall for your ...",
+    "title": "220+ Restaurant Website Examples: 2026 Design ..."
+   },
    "merchants.doordash.com/en-us/blog/saas-for-restaurants": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -3847,6 +3865,15 @@
     "page": 2,
     "summary": "Invite your contractors to complete their own profile and tax info in QuickBooks Onlineand QuickBooks Online Contractor Payments. This isn't available in ...",
     "title": "Invite a contractor to add their own tax info - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/request-rate-review-quickbooks-payments-discount/L8ypAmskg_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-21T22:09:24Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/account-management/request-rate-review-quickbooks-payments-discount/L8ypAmskg_US_en_US",
+    "page": 2,
+    "summary": "Here's how to request a rate review of QuickBooks Payments discount fees \u2014 and save hours on bookkeeping. A quick, simple walkthrough.",
+    "title": "Request a rate review of QuickBooks Payments discount fees"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/use-ready-post-quickbooks-online/L9jzjf8Xe_US_en_US": {
     "baseline": true,
@@ -5474,6 +5501,15 @@
     "summary": "Optimieren Sie Ihre Lieferkette mit autonomem Supply Chain Management und steigern Sie die Reaktionsf\u00e4higkeit auf Kundenanforderungen.",
     "title": "Autonomes Supply Chain Management zur ..."
    },
+   "news.sap.com/germany/2026/10/autonomes-supply-chain-management?amp=1": {
+    "baseline": false,
+    "date_hint": "16 hours ago",
+    "first_seen": "2026-10-21T22:09:24Z",
+    "link": "https://news.sap.com/germany/2026/10/autonomes-supply-chain-management/?amp=1",
+    "page": 1,
+    "summary": "Optimieren Sie Ihre Lieferkette mit autonomem Supply Chain Management und steigern Sie die Reaktionsf\u00e4higkeit auf Kundenanforderungen.",
+    "title": "Autonomes Supply Chain Management zur ..."
+   },
    "news.sap.com/germany/2026/10/ki-autonomous-cx": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -6196,6 +6232,15 @@
     "page": 1,
     "summary": "Feature articles, press releases, blogs, news, information & stories from SAP about about cloud trends and topics, cloud software, cloud solutions, ...",
     "title": "SAP Cloud Computing News & Stories"
+   },
+   "news.sap.com/topics/crm-customer-experience": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T22:09:24Z",
+    "link": "https://news.sap.com/topics/crm-customer-experience/",
+    "page": 1,
+    "summary": "Autonomous CX Arrives: What's New in SAP Customer Experience Q3 2026 \u00b7 The Suite Advantage: Why Enterprises Don't Evaluate CRM in Isolation \u00b7 From Two Weeks to ...",
+    "title": "CRM and customer experience Archives"
    },
    "news.sap.com/topics/erp": {
     "baseline": true,
@@ -8199,6 +8244,15 @@
     "link": "https://docs.stripe.com/tax/file-with-stripe-outside-us",
     "summary": "Use Stripe Tax to prepare and file supported tax returns outside the US. Manage compliance Monitor your obligations Register File and remit File with Stripe in ...",
     "title": "File taxes outside the US"
+   },
+   "docs.stripe.com/tax/third-party-apps/agentic-commerce?locale=ja-JP": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-21T22:09:24Z",
+    "link": "https://docs.stripe.com/tax/third-party-apps/agentic-commerce?locale=ja-JP",
+    "page": 2,
+    "summary": "\u30b5\u30fc\u30c9\u30d1\u30fc\u30c6\u30a3\u306e\u7a0e\u30d7\u30ed\u30d0\u30a4\u30c0\u30fc\u3092\u4f7f\u7528\u3057\u3066\u3001\u30a8\u30fc\u30b8\u30a7\u30f3\u30c6\u30a3\u30c3\u30af\u30b3\u30de\u30fc\u30b9\u53d6\u5f15\u306e\u7a0e\u3092\u8a08\u7b97\u3067\u304d\u307e\u3059\u3002\u3053\u306e\u30ac\u30a4\u30c9\u3067\u306f\u3001\u5546\u54c1\u30d5\u30a3\u30fc\u30c9\u306e\u8a2d\u5b9a\u3084\u30d7\u30ed\u30d0\u30a4\u30c0\u30fc\u56fa\u6709\u306e ...",
+    "title": "\u30a8\u30fc\u30b8\u30a7\u30f3\u30c6\u30a3\u30c3\u30af\u30b3\u30de\u30fc\u30b9\u5411\u3051\u306e\u30b5\u30fc\u30c9\u30d1\u30fc\u30c6\u30a3\u7a0e"
    },
    "docs.stripe.com/terminal/features/apps-on-devices/changelog": {
     "baseline": false,

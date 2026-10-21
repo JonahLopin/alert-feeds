@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-21T21:09:07Z</updated>
+  <updated>2026-10-21T22:09:24Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/openai-proposes-cybersecurity-measures-for-governments-industry</id>
+    <title>OpenAI Proposes Cybersecurity Measures for ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/openai-proposes-cybersecurity-measures-for-governments-industry" />
+    <published>2026-10-21T22:09:24Z</published>
+    <updated>2026-10-21T22:09:24Z</updated>
+    <summary>OpenAI has released a cybersecurity blueprint outlining concrete proposals for governments and industry to strengthen defenses before advanced offensive AI ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/congressional-power-tested-in-argument-over-fcc-data-breach-rule-43</id>
     <title>Congressional Power Tested in Argument Over FCC Data ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-19T10:31:57Z</published>
     <updated>2026-10-19T10:31:57Z</updated>
     <summary>A federal judge rejected a Justice Department official's request to recuse herself from a court challenge to President Donald Trump's proposed changes</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/gc-x-ai-retrospective-the-billable-hour-like-a-twinkie-endures</id>
-    <title>GC x AI Retrospective: The Billable Hour, Like a Twinkie, ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/gc-x-ai-retrospective-the-billable-hour-like-a-twinkie-endures" />
-    <published>2026-10-19T10:31:57Z</published>
-    <updated>2026-10-19T10:31:57Z</updated>
-    <summary>GC x AI, arguing that artificial intelligence would remake the substance, process, and economics of legal services</summary>
   </entry>
 </feed>
