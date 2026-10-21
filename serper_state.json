@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 12840,
+  "credits_used": 12889,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T05:47:42Z",
+  "last_run": "2026-10-21T06:48:24Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 263
+  "runs": 264
  },
  "feeds": {
   "adp-help": {},
@@ -6484,6 +6484,15 @@
     "page": 1,
     "summary": "RFM analysis scores customers so you can target your marketing more effectively. Learn how to calculate RFM scores and build segments that sell.",
     "title": "RFM Analysis: Definition and Segmentation Guide (2026)"
+   },
+   "shopify.com/blog/service-marketing-vs-product-marketing": {
+    "baseline": false,
+    "date_hint": "11 hours ago",
+    "first_seen": "2026-10-21T06:48:24Z",
+    "link": "https://www.shopify.com/blog/service-marketing-vs-product-marketing",
+    "page": 1,
+    "summary": "Learn the differences between service marketing and product marketing, plus expert tips for building successful strategies for each business type.",
+    "title": "Service Marketing vs. Product Marketing Strategies (2026)"
    },
    "shopify.com/blog/shopify-retail-roundup-september-2026-v11-15-11-16": {
     "baseline": false,
