@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 12938,
+  "credits_used": 12987,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T07:53:11Z",
+  "last_run": "2026-10-21T08:54:28Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 265
+  "runs": 266
  },
  "feeds": {
   "adp-help": {},
@@ -5041,6 +5041,15 @@
     "summary": "Nachrichten und Pressemitteilungen von SAP: Lesen Sie Artikel \u00fcber Unternehmens- und Technologietrends, Kundenberichte und interessante Videos im SAP-TV!",
     "title": "SAP News Center Deutschland | Unternehmensberichte & ..."
    },
+   "news.sap.com/germany/2026/10/autonomes-supply-chain-management": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-21T08:54:28Z",
+    "link": "https://news.sap.com/germany/2026/10/autonomes-supply-chain-management/",
+    "page": 1,
+    "summary": "Optimieren Sie Ihre Lieferkette mit autonomem Supply Chain Management und steigern Sie die Reaktionsf\u00e4higkeit auf Kundenanforderungen.",
+    "title": "Autonomes Supply Chain Management zur ..."
+   },
    "news.sap.com/germany/2026/10/ki-autonomous-cx": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -8193,6 +8202,15 @@
     "page": 1,
     "summary": "The partnership brings UpToDate Expert AI to Doximity Ask, giving clinicians access to trusted, evidence-based AI answers, drawing on UpToDate's 13000+topics ...",
     "title": "Doximity and Wolters Kluwer Sign Partnership to Bring ..."
+   },
+   "wolterskluwer.com/en/news/educating-for-the-future-economics-and-law-as-key-to-understanding-today-and-shaping-tomorrow": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-21T08:54:28Z",
+    "link": "https://www.wolterskluwer.com/en/news/educating-for-the-future-economics-and-law-as-key-to-understanding-today-and-shaping-tomorrow",
+    "page": 1,
+    "summary": "The objective is to equip teachers with the tools needed to critically interpret the phenomena transforming contemporary society and translate this knowledge ...",
+    "title": "Educating for the future: economics and law as key to ..."
    },
    "wolterskluwer.com/en/news/enablon-operational-risk-vision-verdantix-ehs-software-recognition": {
     "baseline": false,
