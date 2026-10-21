@@ -2520,6 +2520,12 @@
    "summary": "Learn how Stripe events work, set up event destinations, and manage your integration. Direct events to webhook endpoints, Amazon EventBridge, ...",
    "title": "Events | Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:8445983965687604615": {
+   "first_seen": "2026-10-21T23:09:53Z",
+   "link": "https://docs.stripe.com/connect/manage-connected-account-payouts",
+   "summary": "For connected accounts with access to the full Stripe Dashboard or Express Dashboard, the account holder manages their external payout accounts (bank ...",
+   "title": "Manage connected account payouts - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:8539933108500043529": {
    "first_seen": "2026-10-19T22:44:10Z",
    "link": "https://docs.stripe.com/api/identity/verification_sessions/object?api-version=2026-07-29.preview",

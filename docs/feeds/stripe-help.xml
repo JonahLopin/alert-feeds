@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-21T11:47:05Z</updated>
+  <updated>2026-10-21T23:09:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8445983965687604615</id>
+    <title>Manage connected account payouts - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/connect/manage-connected-account-payouts" />
+    <published>2026-10-21T23:09:53Z</published>
+    <updated>2026-10-21T23:09:53Z</updated>
+    <summary>For connected accounts with access to the full Stripe Dashboard or Express Dashboard, the account holder manages their external payout accounts (bank ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:914212263924450625</id>
     <title>Financial Accounts v2 - Stripe API Reference</title>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13624,
+  "credits_used": 13675,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T22:09:24Z",
+  "last_run": "2026-10-21T23:08:40Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 279
+  "runs": 280
  },
  "feeds": {
   "adp-help": {},
@@ -1944,6 +1944,15 @@
     "summary": "The man whom the Trump administration twice deported to El Salvador in violation of court orders has decided not to pursue a return to the US, ...",
     "title": "Man Twice Illegally Deported To El Salvador Declines to ..."
    },
+   "news.bloomberglaw.com/business-and-practice/manchester-citys-threatened-exile-dwarfs-rivals-past-sanctions": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-21T23:08:40Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/manchester-citys-threatened-exile-dwarfs-rivals-past-sanctions",
+    "page": 1,
+    "summary": "The Premier League has found the soccer club guilty of 114 charges of financial irregularities deemed so serious that it may kick City out of the league and ...",
+    "title": "Manchester City's Threatened Exile Dwarfs Rivals' Past ..."
+   },
    "news.bloomberglaw.com/business-and-practice/mastercard-ceo-sees-cross-border-payments-as-top-stablecoin-use": {
     "baseline": false,
     "date_hint": "12 hours ago",
@@ -2204,6 +2213,15 @@
     "page": 1,
     "summary": "Culkar's practice focuses on traditional labor law, representing employers in union campaigns, contract negotiations, grievance arbitrations, unfair labor ...",
     "title": "Ogletree Deakins Secures Six Fisher Phillips Labor Lawyers"
+   },
+   "news.bloomberglaw.com/business-and-practice/oil-company-unlikely-to-revive-suit-against-california-county": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T23:08:40Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/oil-company-unlikely-to-revive-suit-against-california-county",
+    "page": 1,
+    "summary": "A federal appeals panel appeared unlikely to reverse a lower court's default judgment against a California oil company for violating Ventura County's zoning ...",
+    "title": "Oil Company Unlikely to Revive Suit Against California ..."
    },
    "news.bloomberglaw.com/business-and-practice/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety": {
     "baseline": false,
@@ -2634,6 +2652,24 @@
     "page": 3,
     "summary": "A merger between Elon Musk 's Tesla Inc. and SpaceX could be announced ahead of the electric-vehicle maker's annual general meeting, according to analysts ...",
     "title": "Tesla-SpaceX Deal News Possible This Year, Barclays ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/teslas-spending-lags-estimates-in-shift-toward-ai-and-robotics": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T23:08:40Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/teslas-spending-lags-estimates-in-shift-toward-ai-and-robotics",
+    "page": 2,
+    "summary": "Tesla Inc.'s spending again fell short of Wall Street expectations, clouding Elon Musk's plan to transform the electric vehicle maker into an AI and ...",
+    "title": "Tesla's Spending Lags Estimates in Shift Toward AI and ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/texas-camp-hit-by-fatal-floods-must-have-new-manager-judge-says": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T23:08:40Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/texas-camp-hit-by-fatal-floods-must-have-new-manager-judge-says",
+    "page": 4,
+    "summary": "Camp Mystic, the Texas girls camp where 28 people were killed in flash floods last summer, must have a new management team with the power to settle lawsuits ...",
+    "title": "Texas Camp Hit by Fatal Floods Must Have New Manager ..."
    },
    "news.bloomberglaw.com/business-and-practice/texas-energy-lawyer-jolly-joins-troutman-pepper-in-austin-office": {
     "baseline": false,
@@ -3628,6 +3664,15 @@
     "page": 1,
     "summary": "Writing, at its core, is a problem-solving discipline. We focus on how copy and content on the Gusto platform will appear to our users. 1) terminology, 2) ...",
     "title": "Rethinking what it means to write"
+   },
+   "gusto.com/company-news/start-your-business": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T23:08:40Z",
+    "link": "https://gusto.com/company-news/start-your-business",
+    "page": 1,
+    "summary": "Gusto helps small businesses start, run and grow \u2013 and business formation and banking is where that support now begins.2",
+    "title": "Gusto Launches Business Formation and Banking ..."
    }
   },
   "igen-blog": {},
@@ -5159,6 +5204,15 @@
     "summary": "At a glance \u00b7 Current cloud backlog of \u20ac24.1 billion, up 28% and up 26% at constant currencies \u00b7 Cloud revenue up 26% and up 25% at constant currencies \u00b7 Cloud ERP ...",
     "title": "SAP Announces Q3 2026 Results"
    },
+   "news.sap.com/2026/10/sap-announces-q3-2026-results?amp=1": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-21T23:08:40Z",
+    "link": "https://news.sap.com/2026/10/sap-announces-q3-2026-results/?amp=1",
+    "page": 1,
+    "summary": "WALLDORF \u2014 SAP SE (NYSE: SAP) today announced its financial results for the third quarter 2026. At a glance. Current cloud backlog of \u20ac24.1 billion, up 28% and ...",
+    "title": "SAP Announces Q3 2026 Results"
+   },
    "news.sap.com/2026/10/sap-cloud-erp-private-2025-fps02-foundation-autonomous-enterprise": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -6268,6 +6322,15 @@
     "summary": "Feature articles, press releases, blogs, information & stories from SAP about human resource business trends and topics, software solutions, hr software ...",
     "title": "Human Resources News & Stories"
    },
+   "news.sap.com/topics/investor-relations": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-21T23:08:40Z",
+    "link": "https://news.sap.com/topics/investor-relations/",
+    "page": 1,
+    "summary": "SAP SE (NYSE: SAP) today announced its financial results for the third quarter 2026. Half-Year 2026 Results \u2026 +1-800-872-1727",
+    "title": "Investor relations Archives"
+   },
    "news.sap.com/topics/sap-connect": {
     "baseline": false,
     "date_hint": "16 hours ago",
@@ -6758,6 +6821,15 @@
     "page": 1,
     "summary": "Domain authority is a score from 1 to 100 that predicts how likely a website is to rank in search engine results pages compared to competitors.",
     "title": "Domain Authority: How To Check and Improve It (2026)"
+   },
+   "shopify.com/blog/email-accessibility-guidelines": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-21T23:08:40Z",
+    "link": "https://www.shopify.com/blog/email-accessibility-guidelines",
+    "page": 1,
+    "summary": "Email accessibility is the practice of making your marketing messages readable for users with visual disabilities and screen reader users.",
+    "title": "Email Accessibility Guidelines for Ecommerce Marketers"
    },
    "shopify.com/blog/entrepreneurial-mindset": {
     "baseline": true,
