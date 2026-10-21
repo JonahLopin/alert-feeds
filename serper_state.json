@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 12987,
+  "credits_used": 13036,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T08:54:28Z",
+  "last_run": "2026-10-21T10:10:18Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 266
+  "runs": 267
  },
  "feeds": {
   "adp-help": {},
@@ -851,6 +851,15 @@
     "summary": "Salmon's practice focuses on FDA regulatory and corporate transactional matters, including product development, advertising and promotion, medical ...",
     "title": "Dentons Employs FDA and Health Care Transactions ..."
    },
+   "news.bloomberglaw.com/business-and-practice/dhs-bans-deepseek-but-replacing-model-wont-erase-its-history": {
+    "baseline": false,
+    "date_hint": "20 hours ago",
+    "first_seen": "2026-10-21T10:10:18Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/dhs-bans-deepseek-but-replacing-model-wont-erase-its-history",
+    "page": 3,
+    "summary": "The Trump administration has banned DeepSeek products from federal civilian agency information technology systems. The removal order from the Department of ...",
+    "title": "DHS Bans DeepSeek, but Replacing Model Won't Erase Its ..."
+   },
    "news.bloomberglaw.com/business-and-practice/dhs-rejects-guidance-for-body-cameras-to-turn-on-automatically": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1065,6 +1074,15 @@
     "page": 1,
     "summary": "Extreme Networks Inc. agreed to fork over $51 million to resolve investor class allegations that the computer connectivity company overstated demand",
     "title": "Extreme Networks Reaches $51 Million Investor Class ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/family-offices-pursue-litigation-funds-as-portfolio-diversifier": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-21T10:10:18Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/family-offices-pursue-litigation-funds-as-portfolio-diversifier",
+    "page": 1,
+    "summary": "During an uncertain economy with rising inflation and interest rates, family offices are viewing litigation finance as a way to diversify their portfolios.",
+    "title": "Family Offices Pursue Litigation Funds as Portfolio Diversifier"
    },
    "news.bloomberglaw.com/business-and-practice/fcc-rural-telecom-subsidies-nonprofit-rejected-by-appeals-court": {
     "baseline": false,
@@ -3915,6 +3933,15 @@
     "summary": "Searching how to depreciate an asset? Follow this quick guide in QuickBooks Online \u2014 so everything reconciles cleanly. Clear, step-by-step instructions.",
     "title": "Set up an asset depreciation account in QuickBooks Online"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/loans/quickbooks-capital-faq/L9pC4w8h4_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T10:10:18Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/loans/quickbooks-capital-faq/L9pC4w8h4_US_en_US",
+    "page": 1,
+    "summary": "QuickBooks Capital offers small business lending options to help you manage cash flow, cover business expenses, or invest in growth.",
+    "title": "Learn about QuickBooks Capital Loans - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/manage-client/e-file-tax-returns-clients/L7KiE5BlY_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -6324,6 +6351,15 @@
     "page": 2,
     "summary": "Learn how to design a shirt in nine easy steps, from concept to print-ready files, with a printing method comparison and print spec checklist.",
     "title": "How To Design a Shirt in 9 Steps (2026)"
+   },
+   "shopify.com/blog/how-to-start-a-landscaping-business": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-21T10:10:18Z",
+    "link": "https://www.shopify.com/blog/how-to-start-a-landscaping-business",
+    "page": 1,
+    "summary": "Learn how to start a landscaping business in 12 steps, including necessary licenses, insurance, equipment, startup costs, and what to charge per hour.",
+    "title": "How To Start a Landscaping Business in 2026 in 12 Easy ..."
    },
    "shopify.com/blog/how-to-work-from-home": {
     "baseline": false,
