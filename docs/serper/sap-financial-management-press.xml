@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-21T02:52:26Z</updated>
+  <updated>2026-10-21T05:47:42Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/sea/2026/10/supply-through-disruption-as-normal/</id>
+    <title>Supply Through Disruption-as-Normal</title>
+    <link href="https://news.sap.com/sea/2026/10/supply-through-disruption-as-normal/" />
+    <published>2026-10-21T05:47:42Z</published>
+    <updated>2026-10-21T05:47:42Z</updated>
+    <summary>Supply chain resilience cannot remain a contingency plan activated during crisis. It is a shift from visibility to coordinated action.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/tags/sap-service-card/</id>
     <title>SAP Service Card Archives</title>
@@ -795,13 +803,5 @@
     <published>2026-10-13T14:13:20Z</published>
     <updated>2026-10-13T14:13:20Z</updated>
     <summary>HR Meat &amp; More is een Belgisch voedingsbedrijf met hoofdzetel in Aalter, bekend van de winkelformules Buurtslagers en Bon'Ap.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/belgie/2026/10/hoe-de-rtbf-haar-medewerkers-en-medewerksters-helpt-om-nieuwe-carrieremogelijkheden-te-ontdekken/?amp=1</id>
-    <title>Hoe de RTBF haar medewerkers en medewerksters helpt ...</title>
-    <link href="https://news.sap.com/belgie/2026/10/hoe-de-rtbf-haar-medewerkers-en-medewerksters-helpt-om-nieuwe-carrieremogelijkheden-te-ontdekken/?amp=1" />
-    <published>2026-10-13T14:13:20Z</published>
-    <updated>2026-10-13T14:13:20Z</updated>
-    <summary>Een cameraman die in een studio van de RTBF werkt, heeft misschien vaardigheden die ook bij een heel andere functie passen, zonder dat hij dat per se weet.</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 12789,
+  "credits_used": 12840,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T04:49:51Z",
+  "last_run": "2026-10-21T05:47:42Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 262
+  "runs": 263
  },
  "feeds": {
   "adp-help": {},
@@ -1423,6 +1423,15 @@
     "page": 1,
     "summary": "Alphabet Inc. 's Google, Meta Platforms Inc. and other tech giants now are borrowing heavily to build the technology that makes chatbots run.",
     "title": "How Big Tech's AI Race Fueled a Borrowing Boom: Explainer"
+   },
+   "news.bloomberglaw.com/business-and-practice/how-coca-cola-got-burned-with-a-5-billion-bet-on-costa-coffee": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-21T05:47:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/how-coca-cola-got-burned-with-a-5-billion-bet-on-costa-coffee",
+    "page": 4,
+    "summary": "Coca-Cola Co. took a $5 billion swing at the coffee market and whiffed. The acquisition of Costa Coffee, often referred to as the \u201cStarbucks of the UK,\u201d was ...",
+    "title": "How Coca-Cola Got Burned With a $5 Billion Bet on Costa ..."
    },
    "news.bloomberglaw.com/business-and-practice/humana-members-advance-privacy-suit-over-health-data-disclosures": {
     "baseline": false,
@@ -5570,6 +5579,15 @@
     "page": 1,
     "summary": "In-person event | October 27-29. Messe Berlin Berlin, Germany. Aerial View of the TV tower, Berlin town hall and Cathedral at dusk ...",
     "title": "SAP TechEd: 2026 Media & Analyst Program"
+   },
+   "news.sap.com/sea/2026/10/supply-through-disruption-as-normal": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-21T05:47:42Z",
+    "link": "https://news.sap.com/sea/2026/10/supply-through-disruption-as-normal/",
+    "page": 1,
+    "summary": "Supply chain resilience cannot remain a contingency plan activated during crisis. It is a shift from visibility to coordinated action.",
+    "title": "Supply Through Disruption-as-Normal"
    },
    "news.sap.com/spain/2026/10/escalabilidad-empresarial": {
     "baseline": false,

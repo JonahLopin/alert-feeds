@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com)</title>
-  <updated>2026-10-15T21:11:04Z</updated>
+  <updated>2026-10-21T05:48:47Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sovos-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:2010948894371412860</id>
+    <title>Documents endpoints | Product Documentation Documentation - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/e-invoicing/indirect-tax-api/e-invoicing/documents-endpoints" />
+    <published>2026-10-21T05:48:47Z</published>
+    <updated>2026-10-21T05:48:47Z</updated>
+    <summary>To process a new document, such as issuing an invoice, Sovos recommends configuring the business process of the XML to "default". This tells Sovos to ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:11087591224261397916</id>
     <title>User dashboard | Product Documentation Documentation - Sovos Docs</title>
