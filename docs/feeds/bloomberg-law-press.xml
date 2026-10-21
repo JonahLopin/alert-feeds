@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-21T15:48:23Z</updated>
+  <updated>2026-10-21T16:48:52Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:16759675568843161830</id>
+    <title>Citigroup Hires Former BofA Banker Mee as Global Chair of M&amp;A - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/citigroup-hires-former-bofa-banker-mee-as-global-chair-of-m-a" />
+    <published>2026-10-21T16:48:52Z</published>
+    <updated>2026-10-21T16:48:52Z</updated>
+    <summary>Citigroup Inc. has hired former Bank of America Corp. investment banker Adrian Mee as global chair of mergers and acquisitions.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:9491634763956786211</id>
     <title>Surging Yields Bring Biggest Spate of Debt Sale Delays This Year - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-10-16T23:09:37Z</published>
     <updated>2026-10-16T23:09:37Z</updated>
     <summary>Anthropic PBC has quietly presented its own draft AI safety bill to US lawmakers with a plan for regulating artificial intelligence safety and ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:16074132511136944972</id>
-    <title>Compass Files Suit Over California Home Listing Service Rules - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/compass-files-suit-over-california-home-listing-service-rules" />
-    <published>2026-10-16T22:10:07Z</published>
-    <updated>2026-10-16T22:10:07Z</updated>
-    <summary>Compass Inc., the top US broker for residential properties, sued California's largest real estate listing service in the latest escalation of a ...</summary>
   </entry>
 </feed>
