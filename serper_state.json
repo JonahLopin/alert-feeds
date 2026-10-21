@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13377,
+  "credits_used": 13426,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T17:08:32Z",
+  "last_run": "2026-10-21T18:13:00Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 274
+  "runs": 275
  },
  "feeds": {
   "adp-help": {},
@@ -591,6 +591,15 @@
     "page": 2,
     "summary": "China's currency is having a good year, and Beijing wants everyone to know it.",
     "title": "China Is Too Defensive Over the Yuan: Daniel Moss"
+   },
+   "news.bloomberglaw.com/business-and-practice/citigroup-hires-former-bofa-banker-mee-as-global-chair-of-m-a": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-21T18:13:00Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/citigroup-hires-former-bofa-banker-mee-as-global-chair-of-m-a",
+    "page": 3,
+    "summary": "Citigroup Inc. has hired former Bank of America Corp. investment banker Adrian Mee as global chair of mergers and acquisitions.",
+    "title": "Citigroup Hires Former BofA Banker Mee as Global Chair ..."
    },
    "news.bloomberglaw.com/business-and-practice/clear-blue-is-off-the-hook-for-auto-dealers-privacy-litigation": {
     "baseline": false,
@@ -1343,6 +1352,15 @@
     "summary": "A federal judge overseeing a proposed class action claiming Google LLC unlawfully eavesdropped on customer support calls for a variety of businesses, ...",
     "title": "Google AI Customer Service Privacy Lawsuit Gets Doubtful ..."
    },
+   "news.bloomberglaw.com/business-and-practice/google-ends-68-million-privacy-suit-over-assistant-technology": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T18:13:00Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/google-ends-68-million-privacy-suit-over-assistant-technology",
+    "page": 2,
+    "summary": "Google LLC received final approval from a federal court for its $68 million settlement of a lawsuit alleging its Google Assistant technology captured users' ...",
+    "title": "Google Ends $68 Million Privacy Suit Over Assistant ..."
+   },
    "news.bloomberglaw.com/business-and-practice/grants-dispute-opinion-highlights-supreme-courts-loose-ends": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -1773,6 +1791,15 @@
     "page": 3,
     "summary": "Kroger says it spent more than $1 billion to pursue the merger and its litigation fight with antitrust regulators. The deal envisioned Kroger, the largest US ...",
     "title": "Kroger's Ex-CEO Defends Effort to Close Failed Albertsons ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/kyverna-therapeutics-investor-advances-kidney-drug-data-ipo-suit": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T18:13:00Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kyverna-therapeutics-investor-advances-kidney-drug-data-ipo-suit",
+    "page": 2,
+    "summary": "Kyverna Therapeutics Inc. and architects of its 2024 market debut must contend with investor allegations they omitted clinical trial data about a ...",
+    "title": "Kyverna Therapeutics Investor Advances Kidney Drug ..."
    },
    "news.bloomberglaw.com/business-and-practice/law-firms-must-quash-perfectionism-not-treat-its-toxic-symptoms": {
     "baseline": false,
