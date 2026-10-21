@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 12594,
+  "credits_used": 12644,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T00:25:22Z",
+  "last_run": "2026-10-21T01:39:42Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 258
+  "runs": 259
  },
  "feeds": {
   "adp-help": {},
@@ -2034,6 +2034,24 @@
     "summary": "Businesses opting to use low-cost Chinese artificial intelligence models are taking a cybersecurity risk, said OpenAI Chief Financial Officer Sarah Friar ...",
     "title": "OpenAI CFO Says Firms Using Chinese AI Models Are ..."
    },
+   "news.bloomberglaw.com/business-and-practice/openai-says-ai-agents-weakened-misalignment-monitoring": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T01:39:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/openai-says-ai-agents-weakened-misalignment-monitoring",
+    "page": 1,
+    "summary": "OpenAI disclosed that two internal AI agents \u2014 GPT-6.1 Sol and GPT-6 Astra \u2014 independently disabled or suppressed misalignment monitoring safeguards while ...",
+    "title": "OpenAI Says AI Agents Weakened Misalignment Monitoring"
+   },
+   "news.bloomberglaw.com/business-and-practice/openai-says-its-agents-weakened-system-that-flags-ai-misbehavior": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-21T01:39:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/openai-says-its-agents-weakened-system-that-flags-ai-misbehavior",
+    "page": 2,
+    "summary": "OpenAI found instances in which its AI agents weakened and turned off alerts for an internal monitoring system that's meant to flag when its AI models ...",
+    "title": "OpenAI Says Its Agents Weakened System That Flags AI ..."
+   },
    "news.bloomberglaw.com/business-and-practice/pacts-protect-attorney-client-privilege-across-company-families": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -2187,6 +2205,15 @@
     "summary": "Trial firm Robins Kaplan is increasing its incentives for lawyers who complete federal judicial clerkships, the firm announced Tuesday.",
     "title": "Robins Kaplan Boosts Clerkship Bonuses Past Big Law ..."
    },
+   "news.bloomberglaw.com/business-and-practice/sally-yates-vows-independent-review-of-cornell-sex-assault-case": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-21T01:39:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/sally-yates-vows-independent-review-of-cornell-sex-assault-case",
+    "page": 2,
+    "summary": "Former US Deputy Attorney General Sally Yates pledged to conduct an independent investigation into Cornell University 's handling of sexual assault ...",
+    "title": "Sally Yates Vows Independent Review of Cornell Sex ..."
+   },
    "news.bloomberglaw.com/business-and-practice/scotus-passes-on-ruby-tuesday-benefits-suit-following-advice": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -2337,6 +2364,15 @@
     "page": 1,
     "summary": "New York Attorney General Letitia James (D) should be removed as the special prosecutor in the high-profile Cornell University rape investigation, according to ...",
     "title": "Supreme Court Today, Oct. 15, 2026"
+   },
+   "news.bloomberglaw.com/business-and-practice/supreme-courts-kagan-says-election-rulings-creating-nightmare": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-21T01:39:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/supreme-courts-kagan-says-election-rulings-creating-nightmare",
+    "page": 1,
+    "summary": "Elena Kagan accused the court's conservative supermajority of undercutting democracy, saying recent rulings had created a \u201crace to the bottom\u201d in redistricting",
+    "title": "Supreme Court's Kagan Says Election Rulings Creating ' ..."
    },
    "news.bloomberglaw.com/business-and-practice/taiwans-lai-urges-democracies-to-unite-after-trump-xi-summit": {
     "baseline": false,
@@ -2580,6 +2616,15 @@
     "page": 2,
     "summary": "The Tennessee Valley Authority can continue building its multibillion-dollar natural gas plant that's replacing a coal power plant while a challenge to its ...",
     "title": "TVA Secures Court OK to Continue Natural Gas Plant ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/two-key-lawyers-at-murdochs-fox-exit-ahead-of-roku-merger": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-21T01:39:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/two-key-lawyers-at-murdochs-fox-exit-ahead-of-roku-merger",
+    "page": 3,
+    "summary": "Two Key Lawyers at Murdoch's Fox Exit Ahead of Roku Merger ... Fox Corp. chairman and CEO Lachlan Murdoch, shown July 9 during tech executives' annual conference ...",
+    "title": "Two Key Lawyers at Murdoch's Fox Exit Ahead of Roku ..."
    },
    "news.bloomberglaw.com/business-and-practice/uk-tax-authority-clarifies-vat-treatment-for-cryptoasset-sales": {
     "baseline": false,
