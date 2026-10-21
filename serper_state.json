@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13230,
+  "credits_used": 13279,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T14:11:43Z",
+  "last_run": "2026-10-21T15:10:12Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 271
+  "runs": 272
  },
  "feeds": {
   "adp-help": {},
@@ -2481,6 +2481,15 @@
     "page": 1,
     "summary": "Elena Kagan accused the court's conservative supermajority of undercutting democracy, saying recent rulings had created a \u201crace to the bottom\u201d in redistricting",
     "title": "Supreme Court's Kagan Says Election Rulings Creating ' ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/surging-yields-bring-biggest-spate-of-debt-sale-delays-this-year": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T15:10:12Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/surging-yields-bring-biggest-spate-of-debt-sale-delays-this-year",
+    "page": 3,
+    "summary": "Companies have postponed more than $5 billion in US and European debt sales this month as investors grow increasingly alarmed about rising interest rates, ...",
+    "title": "Surging Yields Bring Biggest Spate of Debt Sale Delays ..."
    },
    "news.bloomberglaw.com/business-and-practice/taiwans-lai-urges-democracies-to-unite-after-trump-xi-summit": {
     "baseline": false,
