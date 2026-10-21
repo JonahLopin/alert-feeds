@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-20T22:44:24Z</updated>
+  <updated>2026-10-21T11:47:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:914212263924450625</id>
+    <title>Financial Accounts v2 - Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/financial-accounts?api-version=2026-09-30.preview" />
+    <published>2026-10-21T11:47:05Z</published>
+    <updated>2026-10-21T11:47:05Z</updated>
+    <summary>Financial Accounts v2 ... A FinancialAccount represents a balance and can be used as the source or destination for the money management ( /v2/ ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8795633782096771871</id>
+    <title>Tax Forms | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/tax_reporting/forms" />
+    <published>2026-10-21T11:47:05Z</published>
+    <updated>2026-10-21T11:47:05Z</updated>
+    <summary>Tax forms are legal documents which are delivered to one or more tax authorities for information reporting purposes. Related guide: US tax reporting ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:7878525142762493498</id>
+    <title>Connection Tokens | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/terminal/connection_tokens?api-version=2026-09-30.preview" />
+    <published>2026-10-21T11:47:05Z</published>
+    <updated>2026-10-21T11:47:05Z</updated>
+    <summary>A Connection Token is used by the Stripe Terminal SDK to connect to a reader. Related guide: Fleet management. Was this section helpful?YesNo.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:9904860476252276244</id>
     <title>Subscription Items | Stripe API Reference</title>
