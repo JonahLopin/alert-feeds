@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13426,
+  "credits_used": 13475,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T18:13:00Z",
+  "last_run": "2026-10-21T19:08:30Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 275
+  "runs": 276
  },
  "feeds": {
   "adp-help": {},
@@ -331,6 +331,15 @@
     "page": 2,
     "summary": "The US Court of Appeals for the Eleventh District vacated a lower court's judgment in a lawsuit brought by Bear Warriors United Inc. against the Florida ...",
     "title": "Appeals Court Vacates Manatee Harm Decision After Rule ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/appeals-judges-probe-irs-discretion-in-whistleblower-award-case-42": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-21T19:08:30Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/appeals-judges-probe-irs-discretion-in-whistleblower-award-case-42",
+    "page": 2,
+    "summary": "Sixth Circuit judges Wednesday questioned the dismissal of a whistleblower's bid for $240 million from the IRS, which capped the award at $10 million ...",
+    "title": "Appeals Judges Probe IRS Discretion in Whistleblower ..."
    },
    "news.bloomberglaw.com/business-and-practice/apple-tries-to-fend-off-california-trade-secrets-suit-on-appeal": {
     "baseline": false,
@@ -986,6 +995,15 @@
     "summary": "The US Justice Department is seeking a criminal indictment of former White House aide Cassidy Hutchinson for lying to Congress, according to a person ...",
     "title": "DOJ Seeking Criminal Indictment of Former White House ..."
    },
+   "news.bloomberglaw.com/business-and-practice/doj-seeks-judge-recusals-in-immigration-cases-over-media-remarks": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-21T19:08:30Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-seeks-judge-recusals-in-immigration-cases-over-media-remarks",
+    "page": 3,
+    "summary": "The Justice Department is demanding that two Minnesota federal judges recuse from ongoing immigration cases after giving recent interviews to the New York ...",
+    "title": "DOJ Seeks Judge Recusals in Immigration Cases Over ..."
+   },
    "news.bloomberglaw.com/business-and-practice/doj-watchdog-probing-alleged-grand-jury-misconduct-in-chicago": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1020,6 +1038,15 @@
     "page": 1,
     "summary": "Enroll Confidently Inc. will pay $990,000 to settle a class action alleging it negligently failed to protect the personal information of more than 63,000 people",
     "title": "Enroll Confidently Settles Data Breach Lawsuit for $990000"
+   },
+   "news.bloomberglaw.com/business-and-practice/environmental-coalition-sues-over-species-blanket-rule-repeal": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T19:08:30Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/environmental-coalition-sues-over-species-blanket-rule-repeal",
+    "page": 1,
+    "summary": "Six environmental groups led by the Sierra Club sued the Interior Department Wednesday over its rollback of the Endangered Species Act's \u201cblanket\u201d rule,",
+    "title": "Environmental Coalition Sues Over Species 'Blanket' Rule ..."
    },
    "news.bloomberglaw.com/business-and-practice/epa-aims-to-let-refrigerant-makers-others-keep-using-solvent": {
     "baseline": false,
@@ -1719,6 +1746,15 @@
     "page": 1,
     "summary": "Kalshi wants the full Sixth Circuit to review a three-judge panel's ruling that said Ohio and Tennessee can take regulatory action against it for offering ...",
     "title": "Kalshi Seeks Full 6th Circuit Review of States' Regulation ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/kalshi-to-allow-futures-bets-with-bitcoin-backed-loans-1": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-21T19:08:30Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kalshi-to-allow-futures-bets-with-bitcoin-backed-loans-1",
+    "page": 2,
+    "summary": "Prediction markets platform Kalshi Inc. will offer some clients the ability to post collateral for leveraged perpetual-futures trades using cryptocurrencies ...",
+    "title": "Kalshi to Allow Futures Bets With Bitcoin-Backed Loans (1)"
    },
    "news.bloomberglaw.com/business-and-practice/kansas-highway-patrol-reaches-deal-to-end-traffic-stop-lawsuit": {
     "baseline": false,
@@ -2842,6 +2878,15 @@
     "summary": "Federal agents across California on Monday arrested 11 non-citizens who were charged with crimes including fraudulently registering to vote in US elections, ...",
     "title": "US Agents Arrest 11 in California Over Alleged Illegal Voting"
    },
+   "news.bloomberglaw.com/business-and-practice/us-audit-watchdogs-leader-scrutinizes-chinese-firm-inspections": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-21T19:08:30Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-audit-watchdogs-leader-scrutinizes-chinese-firm-inspections",
+    "page": 1,
+    "summary": "The US audit watchdog's leader got a closer look at an inspection of an audit firm in Shanghai last week and stressed the importance of that oversight in ...",
+    "title": "US Audit Watchdog's Leader Scrutinizes Chinese Firm ..."
+   },
    "news.bloomberglaw.com/business-and-practice/us-china-blame-game-over-global-economy-tilts-in-beijings-favor": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -2895,6 +2940,15 @@
     "page": 4,
     "summary": "The Trump administration imposed fresh sanctions against the International Criminal Court, signaling its determination to cripple the organization on the ...",
     "title": "US Sanctions ICC After Former Judge Gets Nobel Peace ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/us-urges-fix-for-widely-used-software-after-critical-alerts-2": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-21T19:08:30Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-urges-fix-for-widely-used-software-after-critical-alerts-2",
+    "page": 3,
+    "summary": "The US government is working to address and stop any potential cybersecurity issues stemming from flaws in PHP, a widely used open-source software, ...",
+    "title": "US Urges Fix for Widely Used Software After Critical Alerts (2)"
    },
    "news.bloomberglaw.com/business-and-practice/usa-today-news-outlets-join-openai-copyright-infringement-fight": {
     "baseline": true,
@@ -7566,6 +7620,15 @@
     "page": 1,
     "summary": "Pricing Events automatically adjust Menu Item prices based on selected Order Types, dates, days, and times. Pricing Events can apply four Percent",
     "title": "Configure Pricing Events for Menu Items and Modifiers"
+   },
+   "help.spoton.com/space/SK/5670830482": {
+    "baseline": false,
+    "date_hint": "19 hours ago",
+    "first_seen": "2026-10-21T19:08:30Z",
+    "link": "https://help.spoton.com/space/SK/5670830482",
+    "page": 1,
+    "summary": "The Deposit Reconciliation shows which sales make up a deposit and which deposit contains a day's sales. It answers the questions: \"Why is my deposit this ...",
+    "title": "SpotOn Deposit Reconciliation | SpotOn Express"
    },
    "help.spoton.com/space/SK/5707038725": {
     "baseline": false,
