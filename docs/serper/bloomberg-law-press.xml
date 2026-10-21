@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-21T15:10:12Z</updated>
+  <updated>2026-10-21T16:10:57Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/krogers-ex-ceo-defends-effort-to-close-failed-albertsons-deal</id>
+    <title>Kroger's Ex-CEO Defends Effort to Close Failed Albertsons ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/krogers-ex-ceo-defends-effort-to-close-failed-albertsons-deal" />
+    <published>2026-10-21T16:10:57Z</published>
+    <updated>2026-10-21T16:10:57Z</updated>
+    <summary>Kroger says it spent more than $1 billion to pursue the merger and its litigation fight with antitrust regulators. The deal envisioned Kroger, the largest US ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/surging-yields-bring-biggest-spate-of-debt-sale-delays-this-year</id>
     <title>Surging Yields Bring Biggest Spate of Debt Sale Delays ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-16T22:09:06Z</published>
     <updated>2026-10-16T22:09:06Z</updated>
     <summary>A panel of appeals court judges on Friday questioned Trump administration lawyers on what requirements, if any, Congress could impose on the preservation of ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/compass-files-suit-over-california-home-listing-service-rules</id>
-    <title>Compass Files Suit Over California Home Listing Service ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/compass-files-suit-over-california-home-listing-service-rules" />
-    <published>2026-10-16T22:09:06Z</published>
-    <updated>2026-10-16T22:09:06Z</updated>
-    <summary>Compass alleged the requirement that agents list homes for sale within one business day or face fines violates US antitrust laws.</summary>
   </entry>
 </feed>

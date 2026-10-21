@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13279,
+  "credits_used": 13328,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T15:10:12Z",
+  "last_run": "2026-10-21T16:10:57Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 272
+  "runs": 273
  },
  "feeds": {
   "adp-help": {},
@@ -1747,6 +1747,15 @@
     "summary": "Payward Inc., the parent of cryptocurrency exchange Kraken, is set to acquire the holding company behind Saldo Bank UAB,",
     "title": "Kraken Parent to Acquire Lithuania-Based Saldo Bank"
    },
+   "news.bloomberglaw.com/business-and-practice/krogers-ex-ceo-defends-effort-to-close-failed-albertsons-deal": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-21T16:10:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/krogers-ex-ceo-defends-effort-to-close-failed-albertsons-deal",
+    "page": 3,
+    "summary": "Kroger says it spent more than $1 billion to pursue the merger and its litigation fight with antitrust regulators. The deal envisioned Kroger, the largest US ...",
+    "title": "Kroger's Ex-CEO Defends Effort to Close Failed Albertsons ..."
+   },
    "news.bloomberglaw.com/business-and-practice/law-firms-must-quash-perfectionism-not-treat-its-toxic-symptoms": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -3167,7 +3176,17 @@
     "title": "How to Build a Restaurant Loyalty & Membership Program ..."
    }
   },
-  "chownow-blog": {},
+  "chownow-blog": {
+   "get.chownow.com/blog/real-mediterranean-kitchen-catering-case-study": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T16:10:57Z",
+    "link": "https://get.chownow.com/blog/real-mediterranean-kitchen-catering-case-study/",
+    "page": 1,
+    "summary": "With ChowNow Catering, Real Mediterranean Kitchen turned its biggest orders into a high-margin revenue stream it controls.",
+    "title": "How One Restaurant Grew Direct Catering Sales to $73K ..."
+   }
+  },
   "csc-blog": {
    "blog.cscglobal.com/how-to-change-your-registered-agent-with-confidence": {
     "baseline": false,
@@ -3780,6 +3799,15 @@
     "summary": "Accountants and bookkeepers can use templates to set up a chart of accounts for new or existing clients in minutes. Templates give each client a standard ...",
     "title": "How to create chart of accounts templates in Intuit Accountant ..."
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/customer-refunds-credits/handle-customer-credit-overpayment-quickbooks/L1Z4OZkKB_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T16:10:57Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/customer-refunds-credits/handle-customer-credit-overpayment-quickbooks/L1Z4OZkKB_US_en_US",
+    "page": 2,
+    "summary": "You can use QuickBooks Online to issue credits to your customers. You might want to do this to reduce what a customer owes on an invoice, or to write off the ...",
+    "title": "Handle a customer credit or overpayment in QuickBooks Online"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/direct-deposits/set-manage-direct-deposit-contractors/L63N4nBv9_US_en_US": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -3986,6 +4014,15 @@
     "page": 5,
     "summary": "Intuit Intelligence is your built-in AI assistant in QuickBooks Online and Intuit Enterprise Suite. Type a question or request in plain language and Intuit ...",
     "title": "Ask Intuit Intelligence for help with common tasks - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-billing-updates/upgrade-downgrade-quickbooks-online-subscription/L7LN5zzbs_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T16:10:57Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/intuit-billing-updates/upgrade-downgrade-quickbooks-online-subscription/L7LN5zzbs_US_en_US",
+    "page": 2,
+    "summary": "Find the best accounting tools for your business as QuickBooks grows with it. Upgrade your subscription when you're ready for more features.",
+    "title": "Upgrade or change your subscription - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-subscriptions/delete-data-start-quickbooks-online/L0cpXkDlh_US_en_US": {
     "baseline": false,
