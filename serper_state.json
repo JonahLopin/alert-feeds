@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 12644,
+  "credits_used": 12692,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T01:39:42Z",
+  "last_run": "2026-10-21T02:52:26Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 259
+  "runs": 260
  },
  "feeds": {
   "adp-help": {},
@@ -4378,6 +4378,15 @@
     "summary": "Colorado narrows its software exemption on January 1, 2027, which pulls most SaaS into sales tax. What changes, what stays exempt, and what to do first.",
     "title": "Colorado SaaS Sales Tax Starts Jan 1, 2027"
    },
+   "trykintsugi.com/blog/how-kintsugis-infrastructure-is-different": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-21T02:52:26Z",
+    "link": "https://trykintsugi.com/blog/how-kintsugis-infrastructure-is-different",
+    "page": 1,
+    "summary": "How Kintsugi built its sales tax infrastructure: API answers within 100 ms, deterministic tax calculations, and SOC 2 Type II security for every customer.",
+    "title": "Kintsugi Infrastructure: Speed, AI and Security"
+   },
    "trykintsugi.com/blog/how-to-verify-a-tax-id-number": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -5613,6 +5622,15 @@
     "link": "https://news.sap.com/tags/sap-pay/",
     "summary": "SAP Pay \u00b7 SAP Puts the Autonomous Enterprise to Work \u00b7 Quick links. Quick links \u00b7 Trending Trending \u00b7 About SAP About SAP \u00b7 Site information. Site information.",
     "title": "SAP Pay Archives"
+   },
+   "news.sap.com/tags/sap-service-card": {
+    "baseline": false,
+    "date_hint": "16 hours ago",
+    "first_seen": "2026-10-21T02:52:26Z",
+    "link": "https://news.sap.com/tags/sap-service-card/",
+    "page": 1,
+    "summary": "SAP Service Card \u00b7 The Suite Advantage: Why Enterprises Don't Evaluate CRM in Isolation \u00b7 Quick links. Quick links \u00b7 Trending Trending \u00b7 About SAP About SAP \u00b7 Site ...",
+    "title": "SAP Service Card Archives"
    },
    "news.sap.com/tags/sap-walkme": {
     "baseline": true,
