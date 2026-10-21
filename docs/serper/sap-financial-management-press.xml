@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-21T12:15:15Z</updated>
+  <updated>2026-10-21T13:11:39Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/</id>
+    <title>SAP LeanIX: 6-Time Leader in Magic Quadrant for EA Tools</title>
+    <link href="https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/" />
+    <published>2026-10-21T13:11:39Z</published>
+    <updated>2026-10-21T13:11:39Z</updated>
+    <summary>SAP LeanIX is positioned as a Leader in the 2026 Gartner Magic Quadrant for EA Tools. Learn why it has been named for six years running.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/</id>
     <title>What's New: SAP CX Q3 2026 | SAP News Center</title>
@@ -795,13 +803,5 @@
     <published>2026-10-13T16:12:23Z</published>
     <updated>2026-10-13T16:12:23Z</updated>
     <summary>The release combines AI agents that can work directly with core business processes and adds new regulatory compliance capabilities and industry-specific ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/netherlands/2026/10/hoe-ai-hcm-en-de-manier-waarop-we-werken-verandert/harriet-newlyn-en-andras-csik/</id>
-    <title>Harriet Newlyn en András Csík</title>
-    <link href="https://news.sap.com/netherlands/2026/10/hoe-ai-hcm-en-de-manier-waarop-we-werken-verandert/harriet-newlyn-en-andras-csik/" />
-    <published>2026-10-13T15:11:45Z</published>
-    <updated>2026-10-13T15:11:45Z</updated>
-    <summary>Harriet Newlyn en András Csík. SAP. Nederland 0800 020 0009. Voor technische support zijn we bereikbaar op 0800 0220683. Of bekijk onze complete lijst van ...</summary>
   </entry>
 </feed>

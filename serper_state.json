@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13133,
+  "credits_used": 13182,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T12:15:15Z",
+  "last_run": "2026-10-21T13:11:39Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 269
+  "runs": 270
  },
  "feeds": {
   "adp-help": {},
@@ -1567,6 +1567,15 @@
     "summary": "Iowa and Michigan are among US states with competitive Senate races that appear hardest hit by President Donald Trump's tariff agenda, with exports falling ...",
     "title": "Iowa, Michigan Hit by Weak Exports Ahead of Tight ..."
    },
+   "news.bloomberglaw.com/business-and-practice/iran-urges-us-to-lift-blockade-to-break-deadlock-as-threats-grow": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-21T13:11:39Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/iran-urges-us-to-lift-blockade-to-break-deadlock-as-threats-grow",
+    "page": 4,
+    "summary": "Iran said the US must lift its naval blockade and show it's serious about ending the war diplomatically, as a deadlock over talks and growing threats from ...",
+    "title": "Iran Urges US to Lift Blockade to Break Deadlock as ..."
+   },
    "news.bloomberglaw.com/business-and-practice/is-an-ev-actually-cheaper-the-new-math-of-car-ownership": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -2321,6 +2330,15 @@
     "page": 1,
     "summary": "Sidley Austin has bolstered its global finance practice with the acquisition of Mayer Brown partner Glenn Kunkes in Charlotte, North Carolina.",
     "title": "Sidley Lands Mayer Brown Partner Kunkes to Grow ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/silicon-data-plans-tradable-token-index-products-with-cme": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-21T13:11:39Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/silicon-data-plans-tradable-token-index-products-with-cme",
+    "page": 2,
+    "summary": "The new tradable products will be based on the company's LLM token indexes, which track token prices across various AI models weighted by usage, Silicon Data ...",
+    "title": "Silicon Data Plans Tradable Token Index Products With CME"
    },
    "news.bloomberglaw.com/business-and-practice/skadden-brings-on-four-mass-tort-and-product-liability-lawyers": {
     "baseline": false,
@@ -4816,6 +4834,15 @@
     "summary": "SAP expands Stay Certified with AI-powered roleplays, practical skill validation, and a more flexible certification renewal experience.",
     "title": "AI-Powered Roleplays to Help Learners Stay SAP Certified"
    },
+   "news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T13:11:39Z",
+    "link": "https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/",
+    "page": 1,
+    "summary": "SAP LeanIX is positioned as a Leader in the 2026 Gartner Magic Quadrant for EA Tools. Learn why it has been named for six years running.",
+    "title": "SAP LeanIX: 6-Time Leader in Magic Quadrant for EA Tools"
+   },
    "news.sap.com/2026/10/sap-recognized-leader-gartner-magic-quadrant-cloud-erp-finance": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -6106,6 +6133,15 @@
     "summary": "The Signature Shift4 Gift Card Service pricing outlines all costs associated with managing your gift card program, including gift card pricing, onboarding fees, ...",
     "title": "Signature Shift4 Gift Cards Service Pricing"
    },
+   "shift4.zendesk.com/hc/en-us/articles/45583591662995-Shift4-Gift-Card-Portal-Overview-Canada": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-21T13:11:39Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/45583591662995-Shift4-Gift-Card-Portal-Overview-Canada",
+    "page": 1,
+    "summary": "The portal is a centralized tool that allows you to generate reports covering every aspect of your gift card program's performance. In addition, you can perform ...",
+    "title": "Shift4 Gift Card Portal Overview"
+   },
    "shift4.zendesk.com/hc/en-us/articles/47961339906579-Payment-Links-in-Lighthouse-Business-Manager-Europe": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -6442,6 +6478,15 @@
     "summary": "Imgur is an image hosting and sharing community where users upload images, including memes andGIFs. It's popular with Reddit users, but brands and marketers ...",
     "title": "8 Best Image Hosting Sites and How To Choose One (2026)"
    },
+   "shopify.com/blog/interchange-plus-pricing": {
+    "baseline": false,
+    "date_hint": "17 hours ago",
+    "first_seen": "2026-10-21T13:11:39Z",
+    "link": "https://www.shopify.com/blog/interchange-plus-pricing",
+    "page": 1,
+    "summary": "Interchange-plus pricing is a card transaction fee structure that passes variable interchange fees directly to businesses. Learn the pros and cons.",
+    "title": "Interchange-Plus Pricing: How Interchange-Plus Fees Work"
+   },
    "shopify.com/blog/make-money-podcasting": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -6703,6 +6748,24 @@
    }
   },
   "sovos-blog": {
+   "sovos.com/blog/company/india-extends-e-invoicing-to-reverse-charge-self-invoices": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-21T13:11:39Z",
+    "link": "https://sovos.com/blog/company/india-extends-e-invoicing-to-reverse-charge-self-invoices/",
+    "page": 1,
+    "summary": "On October 16, 2026, the Goods and Services Tax Network (GSTN) published an advisory introducing two new supply types for India e-invoicing.",
+    "title": "India extends e-invoicing to reverse charge self-invoices | Sovos"
+   },
+   "sovos.com/blog/company/united-arab-emirates-ministry-of-finance-amends-e-invoicing-rules": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-21T13:11:39Z",
+    "link": "https://sovos.com/blog/company/united-arab-emirates-ministry-of-finance-amends-e-invoicing-rules/",
+    "page": 1,
+    "summary": "The decision removes the requirement to store electronic invoices, electronic credit notes, and associated data within the UAE. Persons subject to the system ...",
+    "title": "United Arab Emirates: Ministry of Finance amends e-invoicing ..."
+   },
    "sovos.com/blog/ship/customer-volume-limits-key-facts-for-dtc-alcohol-shippers": {
     "baseline": false,
     "date_hint": "6 hours ago",
