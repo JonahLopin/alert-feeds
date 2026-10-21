@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-20T21:09:47Z</updated>
+  <updated>2026-10-21T00:25:22Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/js/custom_checkout/load_fonts?___SID=U</id>
+    <title>Load additional custom fonts into Elements</title>
+    <link href="https://docs.stripe.com/js/custom_checkout/load_fonts?___SID=U" />
+    <published>2026-10-21T00:25:22Z</published>
+    <updated>2026-10-21T00:25:22Z</updated>
+    <summary>checkout.loadFonts(fonts). Load an additional array of custom fonts into Elements after it loads.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/tax_reporting/forms</id>
+    <title>Tax Forms | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/tax_reporting/forms" />
+    <published>2026-10-21T00:25:22Z</published>
+    <updated>2026-10-21T00:25:22Z</updated>
+    <summary>Tax forms are legal documents which are delivered to one or more tax authorities for information reporting purposes. Related guide: US tax reporting for Connect ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payments/checkout/customization/card-brands?payment-ui=elements&amp;locale=es-419</id>
     <title>Personalizar marcas de tarjetas | Documentación de Stripe</title>

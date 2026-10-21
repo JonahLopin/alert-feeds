@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 12545,
+  "credits_used": 12594,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-20T23:08:46Z",
+  "last_run": "2026-10-21T00:25:22Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 257
+  "runs": 258
  },
  "feeds": {
   "adp-help": {},
@@ -1145,6 +1145,15 @@
     "page": 3,
     "summary": "Nvidia Corp. -backed Firmus and its advisers are in talks with existing investors to help raise $2 billion to $3 billion in a private round, the people said, ...",
     "title": "Firmus Is Said to Explore Raising $3 Billion After Shelving ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/flock-safety-increases-lobbying-spend-amid-bipartisan-backlash": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T00:25:22Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/flock-safety-increases-lobbying-spend-amid-bipartisan-backlash",
+    "page": 1,
+    "summary": "Flock reported spending $220,000 on federal lobbying during the second quarter of 2026. The company brought on two new outside firms as scrutiny of its ...",
+    "title": "Flock Safety Increases Lobbying Spend Amid Bipartisan ..."
    },
    "news.bloomberglaw.com/business-and-practice/florida-bar-exam-fees-for-veteran-lawyers-ruled-constitutional": {
     "baseline": false,
@@ -6253,6 +6262,15 @@
     "summary": "A marketing strategy is a necessary part of running a business, whether you're a scrappy startup or an established brand. It's what keeps your team focused ...",
     "title": "Marketing Strategies: Types & How To Build One (2026)"
    },
+   "shopify.com/blog/mija-books-community-over-volume": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-10-21T00:25:22Z",
+    "link": "https://www.shopify.com/blog/mija-books-community-over-volume",
+    "page": 1,
+    "summary": "When Stephanie and Muammar Reed couldn't find diverse books for their biracial daughter, they built the store they wished existed.",
+    "title": "Meet the Power Couple Changing What Kids See on Their ..."
+   },
    "shopify.com/blog/neuro-from-reddit-to-retail": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -7262,6 +7280,15 @@
     "summary": "Tax locations represent venues for services, tickets, or other product types. Need help? Contact Support. Chat with Stripe developers on Discord.",
     "title": "Tax Locations | Stripe API Reference"
    },
+   "docs.stripe.com/api/tax_reporting/forms": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T00:25:22Z",
+    "link": "https://docs.stripe.com/api/tax_reporting/forms",
+    "page": 1,
+    "summary": "Tax forms are legal documents which are delivered to one or more tax authorities for information reporting purposes. Related guide: US tax reporting for Connect ...",
+    "title": "Tax Forms | Stripe API Reference"
+   },
    "docs.stripe.com/api/three-d-secure/authentication": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -7372,6 +7399,15 @@
     "page": 1,
     "summary": "Payment Element \u00b7 Create a Payment Element \u00b7 Express Checkout Element \u00b7 Create an Express Checkout Element \u00b7 Contact Details Element \u00b7 Create a Contact Details ...",
     "title": "Stripe JS Reference"
+   },
+   "docs.stripe.com/js/custom_checkout/load_fonts?___SID=U": {
+    "baseline": false,
+    "date_hint": "17 hours ago",
+    "first_seen": "2026-10-21T00:25:22Z",
+    "link": "https://docs.stripe.com/js/custom_checkout/load_fonts?___SID=U",
+    "page": 2,
+    "summary": "checkout.loadFonts(fonts). Load an additional array of custom fonts into Elements after it loads.",
+    "title": "Load additional custom fonts into Elements"
    },
    "docs.stripe.com/js/react_stripe_js/checkout_form/checkout_form?type=payment": {
     "baseline": false,

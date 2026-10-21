@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-20T23:08:46Z</updated>
+  <updated>2026-10-21T00:25:22Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/flock-safety-increases-lobbying-spend-amid-bipartisan-backlash</id>
+    <title>Flock Safety Increases Lobbying Spend Amid Bipartisan ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/flock-safety-increases-lobbying-spend-amid-bipartisan-backlash" />
+    <published>2026-10-21T00:25:22Z</published>
+    <updated>2026-10-21T00:25:22Z</updated>
+    <summary>Flock reported spending $220,000 on federal lobbying during the second quarter of 2026. The company brought on two new outside firms as scrutiny of its ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/robins-kaplan-boosts-clerkship-bonuses-past-big-law-standard</id>
     <title>Robins Kaplan Boosts Clerkship Bonuses Past Big Law ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-15T23:08:00Z</published>
     <updated>2026-10-15T23:08:00Z</updated>
     <summary>White House Press Secretary Katie Zacharia appeared to acknowledge Thursday that she did not pass the California bar exam,</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/ripple-opens-9-billion-perps-boom-to-wall-street-clients-1</id>
-    <title>Ripple Opens $9 Billion Perps Boom to Wall Street Clients (1)</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/ripple-opens-9-billion-perps-boom-to-wall-street-clients-1" />
-    <published>2026-10-15T23:08:00Z</published>
-    <updated>2026-10-15T23:08:00Z</updated>
-    <summary>The offering from the unit, Ripple Prime, comes with more than 100 reference markets spanning stocks, various indexes, ETFs , commodities and more, and comes as ...</summary>
   </entry>
 </feed>
