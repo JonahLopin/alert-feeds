@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 12692,
+  "credits_used": 12739,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T02:52:26Z",
+  "last_run": "2026-10-21T03:51:00Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 260
+  "runs": 261
  },
  "feeds": {
   "adp-help": {},
@@ -7719,6 +7719,15 @@
   "taxcloud-help": {},
   "taxjar-help": {},
   "thomson-reuters-tax-blog": {
+   "tax.thomsonreuters.com/blog/5-corporate-tax-compliance-challenges-after-a-rough-season": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-21T03:51:00Z",
+    "link": "https://tax.thomsonreuters.com/blog/5-corporate-tax-compliance-challenges-after-a-rough-season/",
+    "page": 1,
+    "summary": "Filing on time doesn't mean the season went well. See 5 corporate tax compliance challenges it exposed, backed by new Thomson Reuters data.",
+    "title": "5 corporate tax compliance challenges after a rough season"
+   },
    "tax.thomsonreuters.com/blog/ai-glossary-for-audit-professionals-ai-terms-every-auditor-should-know": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -7745,6 +7754,15 @@
     "summary": "Before choosing a tax workflow platform, ask these 7 questions about integrations, AI, automation, ROI, client adoption, and busy season performance.",
     "title": "Can you trust your tax workflow platform? 7 questions to ask."
    },
+   "tax.thomsonreuters.com/blog/cost-of-outdated-tax-technology": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-21T03:51:00Z",
+    "link": "https://tax.thomsonreuters.com/blog/cost-of-outdated-tax-technology/",
+    "page": 1,
+    "summary": "Tax tech dissatisfaction jumped from 34% to 56% in a year. See the true cost of outdated tech: penalties, external support, and lost forecasting.",
+    "title": "Why 56% of tax leaders are dissatisfied with their tech stack"
+   },
    "tax.thomsonreuters.com/blog/does-your-tax-software-recognize-new-w-2-box-codes-for-2027": {
     "baseline": true,
     "date_hint": "11 hours ago",
@@ -7761,6 +7779,15 @@
     "page": 1,
     "summary": "Most importers overpay 3\u20138% in duties without realizing it. See how to unlock duty optimization savings already inside your ONESOURCE investment.",
     "title": "Duty optimization: Unlock savings inside ONESOURCE"
+   },
+   "tax.thomsonreuters.com/blog/hidden-cost-legacy-trade-compliance-platform": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-21T03:51:00Z",
+    "link": "https://tax.thomsonreuters.com/blog/hidden-cost-legacy-trade-compliance-platform/",
+    "page": 1,
+    "summary": "Staying on a legacy trade compliance platform can cost 3% to 8% in overpaid duties and leave free trade agreement savings unclaimed. See the hidden costs, and how to switch.",
+    "title": "How to switch from legacy trade compliance software"
    },
    "tax.thomsonreuters.com/blog/how-to-bridge-the-experience-gap-in-accounting-firms": {
     "baseline": false,
@@ -7840,6 +7867,15 @@
     "page": 1,
     "summary": "Successful audit transformation starts with trust, governance, and repeatable processes,",
     "title": "What does audit workflow transformation actually take?"
+   },
+   "tax.thomsonreuters.com/blog/what-the-october-15-crunch-told-you-about-your-tax-workflow-bottlenecks": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-21T03:51:00Z",
+    "link": "https://tax.thomsonreuters.com/blog/what-the-october-15-crunch-told-you-about-your-tax-workflow-bottlenecks/",
+    "page": 1,
+    "summary": "October's extension crunch reveals valuable clues about tax workflow bottlenecks. Learn how to find delays across five key workflow stages and fix them.",
+    "title": "What October 15 told you about your tax workflow bottlenecks"
    },
    "tax.thomsonreuters.com/blog/why-cheap-ai-for-tax-work-costs-more-than-you-think": {
     "baseline": true,
