@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13085,
+  "credits_used": 13133,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T11:09:37Z",
+  "last_run": "2026-10-21T12:15:15Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 268
+  "runs": 269
  },
  "feeds": {
   "adp-help": {},
@@ -2878,6 +2878,15 @@
     "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
     "title": "Wake Up Call: PE Firm Charlesbank Invests Big in LA Law ..."
    },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-sullivan-eyes-pricey-space-to-bolster-uk-presence": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-21T12:15:15Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-sullivan-eyes-pricey-space-to-bolster-uk-presence",
+    "page": 4,
+    "summary": "American firms' incursion into the UK market has helped to drive demand for premium offices in London, where Sullivan & Cromwell is in advanced talks to lease ...",
+    "title": "Wake Up Call: Sullivan Eyes Pricey Space to Bolster UK ..."
+   },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-top-trade-official-reports-millions-after-big-law": {
     "baseline": false,
     "date_hint": "15 hours ago",
@@ -4752,6 +4761,15 @@
     "page": 1,
     "summary": "We solve high-stakes challenges that have no off-the-shelf answers, then turn those proven solutions into scalable software capabilities for entire industries.",
     "title": "Industry AI: Deep Industry Knowledge, Forward-Deployed ..."
+   },
+   "news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T12:15:15Z",
+    "link": "https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/",
+    "page": 1,
+    "summary": "New in SAP CX for Q3 2026: assistants and agents analyze, recommend, coordinate work, and execute tasks across sales, service, and marketing.",
+    "title": "What's New: SAP CX Q3 2026 | SAP News Center"
    },
    "news.sap.com/2026/10/next-chapter-spend-management-ai-innovations-sap-ariba-sap-fieldglass-sap-concur": {
     "baseline": false,

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-21T08:54:28Z</updated>
+  <updated>2026-10-21T12:15:15Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/</id>
+    <title>What's New: SAP CX Q3 2026 | SAP News Center</title>
+    <link href="https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/" />
+    <published>2026-10-21T12:15:15Z</published>
+    <updated>2026-10-21T12:15:15Z</updated>
+    <summary>New in SAP CX for Q3 2026: assistants and agents analyze, recommend, coordinate work, and execute tasks across sales, service, and marketing.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/germany/2026/10/autonomes-supply-chain-management/</id>
     <title>Autonomes Supply Chain Management zur ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-13T15:11:45Z</published>
     <updated>2026-10-13T15:11:45Z</updated>
     <summary>Harriet Newlyn en András Csík. SAP. Nederland 0800 020 0009. Voor technische support zijn we bereikbaar op 0800 0220683. Of bekijk onze complete lijst van ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/belgie/2026/10/hoe-meat-more-hr-laat-meegroeien-met-de-organisatie/?amp=1</id>
-    <title>Hoe Meat &amp; More HR laat meegroeien met de organisatie</title>
-    <link href="https://news.sap.com/belgie/2026/10/hoe-meat-more-hr-laat-meegroeien-met-de-organisatie/?amp=1" />
-    <published>2026-10-13T15:11:45Z</published>
-    <updated>2026-10-13T15:11:45Z</updated>
-    <summary>Meat &amp; More is een Belgisch voedingsbedrijf met hoofdzetel in Aalter, bekend van de winkelformules Buurtslagers en Bon'Ap. Het bedrijf beheert verschillende ...</summary>
   </entry>
 </feed>
