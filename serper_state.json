@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13182,
+  "credits_used": 13230,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T13:11:39Z",
+  "last_run": "2026-10-21T14:11:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 270
+  "runs": 271
  },
  "feeds": {
   "adp-help": {},
@@ -1111,6 +1111,15 @@
     "summary": "The Food and Drug Administration is advancing an effort to revamp regulations governing the nutrient profiles of infant formula products.",
     "title": "FDA's Infant Formula Standards Revamp Gets White ..."
    },
+   "news.bloomberglaw.com/business-and-practice/fear-inside-trumps-doj-how-a-lawyer-reached-her-breaking-point": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T14:11:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/fear-inside-trumps-doj-how-a-lawyer-reached-her-breaking-point",
+    "page": 3,
+    "summary": "What happens when a government lawyer stands before a judge without the answers she needs and fears her own credibility is slipping away? Former Justice ...",
+    "title": "Fear Inside Trump's DOJ: How a Lawyer Reached Her ..."
+   },
    "news.bloomberglaw.com/business-and-practice/federal-agents-search-representative-ilhan-omars-home-1": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -1280,6 +1289,15 @@
     "page": 1,
     "summary": "GC x AI, arguing that artificial intelligence would remake the substance, process, and economics of legal services",
     "title": "GC x AI Retrospective: The Billable Hour, Like a Twinkie, ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/genentech-novartis-regeneron-shed-false-claims-kickback-suit": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-21T14:11:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/genentech-novartis-regeneron-shed-false-claims-kickback-suit",
+    "page": 1,
+    "summary": "A federal judge dismissed a False Claims Act suit against Genentech Inc., Novartis Pharmaceuticals Corp., because the whistleblower missed a filing deadline.",
+    "title": "Genentech, Novartis, Regeneron Shed False Claims ..."
    },
    "news.bloomberglaw.com/business-and-practice/georgia-wins-bid-to-end-injunction-blocking-age-verification-law": {
     "baseline": false,
@@ -2195,6 +2213,15 @@
     "page": 3,
     "summary": "Thoma Bravo-backed Proofpoint Inc. agreed to buy cybersecurity company Varonis Systems Inc. for about $6.3 billion.",
     "title": "Proofpoint to Buy Varonis for $6.3 Billion as Tech M&A ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/realtors-top-k-street-spending-while-ai-companies-smash-records": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-21T14:11:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/realtors-top-k-street-spending-while-ai-companies-smash-records",
+    "page": 2,
+    "summary": "The National Association of REALTORS displaced the US Chamber of Commerce as the top spender on federal lobbying through the third quarter of 2026. Joe Raedle/ ...",
+    "title": "Realtors Top K Street Spending, While AI Companies ..."
    },
    "news.bloomberglaw.com/business-and-practice/regenxbio-penn-end-revived-sarepta-gene-therapy-patent-fight": {
     "baseline": true,
@@ -6487,6 +6514,15 @@
     "summary": "Interchange-plus pricing is a card transaction fee structure that passes variable interchange fees directly to businesses. Learn the pros and cons.",
     "title": "Interchange-Plus Pricing: How Interchange-Plus Fees Work"
    },
+   "shopify.com/blog/lgbtq-business-grants": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-21T14:11:43Z",
+    "link": "https://www.shopify.com/blog/lgbtq-business-grants",
+    "page": 1,
+    "summary": "Learn about 7 LGBTQ+ business grants you can apply for, plus other resources and alternatives to grant funding for LGBTQ+ entrepreneurs.",
+    "title": "7 LGBTQ+ Business Grants to Apply for in 2026"
+   },
    "shopify.com/blog/make-money-podcasting": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -6540,6 +6576,15 @@
     "page": 1,
     "summary": "Mobile commerce is the buying and selling of goods and services on phones or tablets. Also known as mobile ecommerce or m-commerce, it covers marketplace apps,",
     "title": "What is Mobile Commerce? Types and Examples (2026)"
+   },
+   "shopify.com/blog/monetize-facebook-page": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-21T14:11:43Z",
+    "link": "https://www.shopify.com/blog/monetize-facebook-page",
+    "page": 1,
+    "summary": "You can monetize your Facebook page by joining Facebook's creator program, landing a monetization invite, setting up a Facebook Shop, and more.",
+    "title": "How To Monetize a Facebook Page (2026)"
    },
    "shopify.com/blog/neuro-from-reddit-to-retail": {
     "baseline": true,
