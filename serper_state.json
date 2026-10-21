@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13475,
+  "credits_used": 13524,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T19:08:30Z",
+  "last_run": "2026-10-21T20:09:54Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 276
+  "runs": 277
  },
  "feeds": {
   "adp-help": {},
@@ -2878,6 +2878,24 @@
     "summary": "Federal agents across California on Monday arrested 11 non-citizens who were charged with crimes including fraudulently registering to vote in US elections, ...",
     "title": "US Agents Arrest 11 in California Over Alleged Illegal Voting"
    },
+   "news.bloomberglaw.com/business-and-practice/us-aims-iran-shadow-fleet-sanctions-at-law-firm-shippers": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-21T20:09:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-aims-iran-shadow-fleet-sanctions-at-law-firm-shippers",
+    "page": 2,
+    "summary": "The Treasury Department took action against participants in Iran's shadow fleet as well as a Greek law firm as part of efforts to further isolate the ...",
+    "title": "US Aims Iran 'Shadow Fleet' Sanctions at Law Firm, Shippers"
+   },
+   "news.bloomberglaw.com/business-and-practice/us-asks-federal-court-to-remand-avangrid-wind-project-approval": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-21T20:09:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-asks-federal-court-to-remand-avangrid-wind-project-approval",
+    "page": 3,
+    "summary": "The Trump administration wants to reconsider an approval for a wind farm proposed off the Massachusetts coast by Avangrid Inc., threatening to stoke more ...",
+    "title": "US Asks Federal Court to Reconsider Another Wind Farm ..."
+   },
    "news.bloomberglaw.com/business-and-practice/us-audit-watchdogs-leader-scrutinizes-chinese-firm-inspections": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -4212,6 +4230,15 @@
     "page": 2,
     "summary": "If you're still using QuickBooks Online Accountant, update to Intuit Accountant Suite (IAS) before you follow the steps in this article.",
     "title": "Check your firm's ProAdvisor certification status and projected ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/manage-users/manage-credly-account-proadvisor-academy/L1aquRcXu_US_en_US": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-21T20:09:54Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-users/manage-credly-account-proadvisor-academy/L1aquRcXu_US_en_US",
+    "page": 2,
+    "summary": "Learn how to manage your Credly account for ProAdvisor Academy \u2014 without the usual headaches. Follow our step-by-step guide.",
+    "title": "Manage your Credly account for ProAdvisor Academy"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/matching-rules/learn-updates-new-ai-powered-banking-page/L0hR7A9Zf_US_en_US": {
     "baseline": false,
