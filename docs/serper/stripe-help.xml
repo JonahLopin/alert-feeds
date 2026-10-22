@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-22T03:51:19Z</updated>
+  <updated>2026-10-22T04:49:11Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/tax_reporting/forms/object</id>
+    <title>The Tax form object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/tax_reporting/forms/object" />
+    <published>2026-10-22T04:49:11Z</published>
+    <updated>2026-10-22T04:49:11Z</updated>
+    <summary>NZ-MRDP statements are used to report payment transactions for New Zealand sellers. us_1099_k. 1099-K forms are typically used to report payment transactions.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/billing/testing/bestpractices?locale=de-DE</id>
     <title>Test-Abonnements schlank halten</title>

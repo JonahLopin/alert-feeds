@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-22T01:39:19Z</updated>
+  <updated>2026-10-22T04:49:11Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/dhss-voter-fraud-operation-barred-in-nine-states-through-nov-3</id>
+    <title>DHS's Voter Fraud Operation Barred in Nine States ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/dhss-voter-fraud-operation-barred-in-nine-states-through-nov-3" />
+    <published>2026-10-22T04:49:11Z</published>
+    <updated>2026-10-22T04:49:11Z</updated>
+    <summary>The US Department of Homeland Security was barred by a federal judge from conducting voting-related field operations through election day that involve known ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/judge-keeps-block-on-border-wall-teeing-up-supreme-court-row</id>
     <title>Trump Asks High Court to Lift Block on Big Bend Border ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-19T14:48:50Z</published>
     <updated>2026-10-19T14:48:50Z</updated>
     <summary>Merck KGaA agreed to acquire Silence Therapeutics Plc for about $1.1 billion in a cash transaction as the German science company looks to beef up in rare ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/kimberly-clark-offers-bonds-to-help-fund-tylenol-maker-takeover</id>
-    <title>Kimberly-Clark Offers Bonds to Help Fund Tylenol Maker ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/kimberly-clark-offers-bonds-to-help-fund-tylenol-maker-takeover" />
-    <published>2026-10-19T14:48:50Z</published>
-    <updated>2026-10-19T14:48:50Z</updated>
-    <summary>Kimberly-Clark Corp. is selling investment-grade bonds in as many as five parts to help fund its pending acquisition of Tylenol maker Kenvue Inc.</summary>
   </entry>
 </feed>

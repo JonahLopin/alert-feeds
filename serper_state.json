@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13883,
+  "credits_used": 13935,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T03:51:19Z",
+  "last_run": "2026-10-22T04:49:11Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 284
+  "runs": 285
  },
  "feeds": {
   "adp-help": {},
@@ -913,6 +913,15 @@
     "page": 2,
     "summary": "The Department of Homeland Security dismissed a watchdog's recommendation that ICE use automated technology to ensure officers' body cameras are turned on ...",
     "title": "DHS Rejects Guidance for Body Cameras to Turn on ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/dhss-voter-fraud-operation-barred-in-nine-states-through-nov-3": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T04:49:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/dhss-voter-fraud-operation-barred-in-nine-states-through-nov-3",
+    "page": 3,
+    "summary": "The US Department of Homeland Security was barred by a federal judge from conducting voting-related field operations through election day that involve known ...",
+    "title": "DHS's Voter Fraud Operation Barred in Nine States ..."
    },
    "news.bloomberglaw.com/business-and-practice/diesel-supplies-to-remain-constrained-well-into-2027-iea-warns": {
     "baseline": false,
@@ -4044,6 +4053,15 @@
     "summary": "Searching forecasting as a planning tool? Follow this quick guide in QuickBooks Online \u2014 and save hours on bookkeeping. Easier than you'd expect.",
     "title": "Create and manage forecasts in QuickBooks Online Advanced"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/budget-forecast-reports/use-cash-flow-planner-quickbooks-online/L2l59mIqe_US_en_US": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-22T04:49:11Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/budget-forecast-reports/use-cash-flow-planner-quickbooks-online/L2l59mIqe_US_en_US",
+    "page": 3,
+    "summary": "Learn how to use the cash flow planner. Track your income and expenses with the cash flow planner. Manage transactions within the planner without affecting ...",
+    "title": "Use the cash flow planner in QuickBooks Online and Intuit ..."
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/business-automation/automate-tasks-custom-automations/L6qv3odlt_US_en_US": {
     "baseline": true,
     "date_hint": "2 days ago",
@@ -5860,6 +5878,15 @@
     "page": 1,
     "summary": "SAP\u306f\u3001\u300c2026 Fosway 9-Grid\u2122 for Cloud HR\u300d\u306b\u304a\u3044\u3066\u3001\u5f15\u304d\u7d9a\u304d\u300cStrategic Leader\uff08\u6226\u7565\u7684\u30ea\u30fc\u30c0\u30fc\uff09\u300d\u306b\u9078\u51fa\u3055\u308c\u307e\u3057\u305f\u3002\u3053\u308c\u306f\u3001\u4eba\u4e8b\u5909\u9769\u306b\u53d6\u308a\u7d44\u3080\u4f01\u696d\u306b\u3068\u3063\u3066\u3001SAP ...",
     "title": "SAP\u3001\u300c2026 Fosway 9-Grid\u2122 for Cloud HR\u300d\u3067 Strategic ..."
+   },
+   "news.sap.com/japan/2026/10/1022_sanwa-needle-bearing-adopts-sap-cloud-erp-to-modernize-30-year-old-core-system": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T04:49:11Z",
+    "link": "https://news.sap.com/japan/2026/10/1022_sanwa-needle-bearing-adopts-sap-cloud-erp-to-modernize-30-year-old-core-system/",
+    "page": 2,
+    "summary": "\u4e09\u548c\u30cb\u30fc\u30c9\u30eb\u30fb\u30d9\u30a2\u30ea\u30f3\u30b0\u306f1946\u5e74\u306e\u5275\u696d\u4ee5\u6765\u3001\u30de\u30a4\u30af\u30ed\u30b7\u30e3\u30d5\u30c8\u3084\u30b3\u30ed\uff08\u30cb\u30fc\u30c9\u30eb\u30d9\u30a2\u30ea\u30f3\u30b0\u7528\u306e\u8ee2\u52d5\u4f53\uff09\u306a\u3069\u306e\u7cbe\u5bc6\u91d1\u5c5e\u90e8\u54c1\u3092\u88fd\u9020\u3057\u3001\u81ea\u52d5\u8eca\u3001\u7523\u696d\u6a5f\u68b0\u3001\u533b\u7642\u6a5f\u5668\u3068\u3044\u3063\u305f ...",
+    "title": "\u5275\u696d80\u5e74\u306e\u7cbe\u5bc6\u90e8\u54c1\u30e1\u30fc\u30ab\u30fc\u30fb\u4e09\u548c\u30cb\u30fc\u30c9\u30eb\u30fb\u30d9\u30a2\u30ea\u30f3\u30b0"
    },
    "news.sap.com/korea/2026/10/%ED%8C%8C%ED%8A%B8%EB%84%88-5%EA%B3%B3%EA%B3%BC-%EC%A4%91%EC%86%8C%C2%B7%EC%A4%91%EA%B2%AC-%EC%84%B1%EC%9E%A5%EA%B8%B0%EC%97%85-%EC%A7%80%EC%9B%90-sap-next-100-%EB%B3%B8%EA%B2%A9": {
     "baseline": false,
@@ -8126,6 +8153,15 @@
     "page": 1,
     "summary": "Tax forms are legal documents which are delivered to one or more tax authorities for information reporting purposes. Related guide: US tax reporting for Connect ...",
     "title": "Tax Forms | Stripe API Reference"
+   },
+   "docs.stripe.com/api/tax_reporting/forms/object": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-22T04:49:11Z",
+    "link": "https://docs.stripe.com/api/tax_reporting/forms/object",
+    "page": 2,
+    "summary": "NZ-MRDP statements are used to report payment transactions for New Zealand sellers. us_1099_k. 1099-K forms are typically used to report payment transactions.",
+    "title": "The Tax form object | Stripe API Reference"
    },
    "docs.stripe.com/api/three-d-secure/authentication": {
     "baseline": false,
