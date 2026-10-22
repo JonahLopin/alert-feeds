@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 14341,
+  "credits_used": 14391,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T13:11:30Z",
+  "last_run": "2026-10-22T14:10:45Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 293
+  "runs": 294
  },
  "feeds": {
   "adp-help": {},
@@ -3748,6 +3748,15 @@
     "summary": "DoorDash Ads today announced it has earned incrementality certification from the Alliance for Audited Media (AAM), alongside new research with Circana and Ipsos ...",
     "title": "DoorDash Earns AAM Incrementality Certification and ..."
    },
+   "about.doordash.com/en-us/news/doordash-introduces-brand-center": {
+    "baseline": false,
+    "date_hint": "56 minutes ago",
+    "first_seen": "2026-10-22T14:10:45Z",
+    "link": "https://about.doordash.com/en-us/news/doordash-introduces-brand-center",
+    "page": 1,
+    "summary": "Today, DoorDash introduced Brand Center, a platform built for the marketing, supply chain, category, ecommerce, and national account teams to get a clearer view ...",
+    "title": "DoorDash Introduces Brand Center: A Platform For Retailer ..."
+   },
    "about.doordash.com/en-us/news/national-pizza-month-2026": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -4997,6 +5006,15 @@
     "page": 1,
     "summary": "You can manage your accounting, pay your team, track time, and offer employee benefits all in one connected platform:",
     "title": "Understand the QuickBooks Desktop release process - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/vendor-credits/enter-refund-vendor/L2y1KARni_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-22T14:10:45Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/vendor-credits/enter-refund-vendor/L2y1KARni_US_en_US",
+    "page": 1,
+    "summary": "Searching vendor credit? Follow this quick guide \u2014 and avoid common mistakes. Easier than you'd expect.",
+    "title": "Enter vendor credits and refunds in QuickBooks Online - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/vendor-list/add-vendor-foreign-currency-quickbooks-online/L2vFi09Uh_US_en_US": {
     "baseline": true,
