@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13779,
+  "credits_used": 13831,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T01:39:19Z",
+  "last_run": "2026-10-22T02:52:49Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 282
+  "runs": 283
  },
  "feeds": {
   "adp-help": {},
@@ -4168,6 +4168,15 @@
     "summary": "If one of the contractors you set up in QuickBooks is missing or not showing correctly when you create your 1099s, we can help. Follow these steps and ...",
     "title": "Troubleshoot missing contractors or wrong amounts on 1099s"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/employee-management/add-new-employee-payroll/L7Rhd07JU_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T02:52:49Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/employee-management/add-new-employee-payroll/L7Rhd07JU_US_en_US",
+    "page": 1,
+    "summary": "Searching how to put an employee on payroll? Follow this quick guide \u2014 and save hours on bookkeeping. Clear, step-by-step instructions.",
+    "title": "Add your new employee to QuickBooks Payroll - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/employee-management/get-answers-common-questions-quickbooks-workforce/L4eJ2QD8K_US_en_US": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -5681,6 +5690,15 @@
     "summary": "Erfahren Sie, wie SAP Unternehmen auf dem Weg zu KI-gesteuerten, autonomen L\u00f6sungen unterst\u00fctzt und beeindruckende Ergebnisse zeigt.",
     "title": "SAP zeigt Erfolgsgeschichten autonomer Unternehmen"
    },
+   "news.sap.com/germany/2026/10/sap-veroeffentlicht-ergebnisse-fuer-q3-2026": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-22T02:52:49Z",
+    "link": "https://news.sap.com/germany/2026/10/sap-veroeffentlicht-ergebnisse-fuer-q3-2026/",
+    "page": 1,
+    "summary": "Current Cloud Backlog steigt um 28 % auf 24,1 Mrd. \u00b7 Clouderl\u00f6se steigen um 26 % bzw. \u00b7 Erl\u00f6se f\u00fcr Cloud ERP Suite steigen um 29 % bzw. \u00b7 Umsatzerl\u00f6se erh\u00f6hen sich ...",
+    "title": "SAP ver\u00f6ffentlicht Ergebnisse f\u00fcr Q3 2026"
+   },
    "news.sap.com/germany/2026/10/sap-veroeffentlicht-ergebnisse-fuer-q3-2026?amp=1": {
     "baseline": false,
     "date_hint": "6 hours ago",
@@ -6120,6 +6138,15 @@
     "page": 3,
     "summary": "Smiling entrepreneur in a modern office lobby holding a phone. SAP. Nederland 0800 020 0009. Voor technische support zijn we bereikbaar op 0800 0220683.",
     "title": "Smiling entrepreneur in a modern office lobby holding ..."
+   },
+   "news.sap.com/poland/2026/10/grupa-azoty-i-jedna-z-najwiekszych-transformacji-cyfrowych-w-polskim-przemysle/mixed-race-businesswoman-using-digital-tablet-on-balcony-over-server-room-4": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-10-22T02:52:49Z",
+    "link": "https://news.sap.com/poland/2026/10/grupa-azoty-i-jedna-z-najwiekszych-transformacji-cyfrowych-w-polskim-przemysle/mixed-race-businesswoman-using-digital-tablet-on-balcony-over-server-room-4/",
+    "page": 2,
+    "summary": "Mixed race businesswoman using digital tablet on balcony over server room. SAP. Polska 00 800 491 1525. Lub wy\u015bwietl pe\u0142n\u0105 list\u0119 numer\u00f3w dla poszczeg\u00f3lnych ...",
+    "title": "Mixed race businesswoman using digital tablet on balcony ..."
    },
    "news.sap.com/poland/2026/10/sap-z-nowym-dyrektorem-zarzadzajacym-na-europe-srodkowo-wschodnia-jest-nim-hermann-erlach/herman-erlach_header": {
     "baseline": false,
