@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 14638,
+  "credits_used": 14686,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T19:07:55Z",
+  "last_run": "2026-10-22T20:10:32Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 299
+  "runs": 300
  },
  "feeds": {
   "adp-help": {},
@@ -538,6 +538,15 @@
     "summary": "Blackstone Inc. has raised $8.7 billion for a fund dedicated to cleaner energy, less than two years after wrapping up an earlier version of the strategy.",
     "title": "Blackstone Hauls in $8.7 Billion for Energy Transition Fund"
    },
+   "news.bloomberglaw.com/business-and-practice/blanche-says-more-states-could-face-doj-suits-over-elections": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T20:10:32Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/blanche-says-more-states-could-face-doj-suits-over-elections",
+    "page": 3,
+    "summary": "The attorney general said more court fights are possible with states that refuse to work with DOJ on administration efforts to bolster the reliability of voting ...",
+    "title": "Blanche Says More States Could Face DOJ Suits Over ..."
+   },
    "news.bloomberglaw.com/business-and-practice/blank-rome-absorbs-two-hogan-lovells-commodity-partners-in-ny": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -824,6 +833,15 @@
     "page": 3,
     "summary": "When transatlantic law firms merge, they must integrate intentionally in order to reap any benefits. Otherwise, two merging firms could inherit one firm's ...",
     "title": "Cross-Pond Law Firm Mergers Face Cultural and Hiring ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/crowell-moring-adds-doj-health-care-litigator-jeff-mcsorley": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-22T20:10:32Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/crowell-moring-adds-doj-health-care-litigator-jeff-mcsorley",
+    "page": 1,
+    "summary": "Jeff McSorley joined Crowell & Moring as a partner in its health care group in Washington, D.C., the firm announced Thursday.",
+    "title": "Crowell & Moring Adds DOJ Health Care Litigator Jeff ..."
    },
    "news.bloomberglaw.com/business-and-practice/crowell-moring-hires-sheppard-mullin-m-a-partner-bowers-in-la": {
     "baseline": false,
@@ -2655,6 +2673,15 @@
     "summary": "Trial firm Robins Kaplan is increasing its incentives for lawyers who complete federal judicial clerkships, the firm announced Tuesday.",
     "title": "Robins Kaplan Boosts Clerkship Bonuses Past Big Law ..."
    },
+   "news.bloomberglaw.com/business-and-practice/rulemakers-unveil-nature-reporting-guidelines-for-public-comment": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T20:10:32Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/rulemakers-unveil-nature-reporting-guidelines-for-public-comment",
+    "page": 1,
+    "summary": "The International Sustainability Standards Board released nature reporting guidelines as a practice statement, meaning companies are not required to follow them ...",
+    "title": "Rulemakers Unveil Nature Reporting Guidelines for Public ..."
+   },
    "news.bloomberglaw.com/business-and-practice/sally-yates-vows-independent-review-of-cornell-sex-assault-case": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -2878,6 +2905,15 @@
     "summary": "Taiwan President Lai Ching-te called on democracies in the region to unite against threats to stability, as the island faces pressure from Beijing and ...",
     "title": "Taiwan's Lai Urges Democracies to Unite After Trump-Xi ..."
    },
+   "news.bloomberglaw.com/business-and-practice/taxpayer-win-on-right-to-jury-trial-vacated-by-appeals-court": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T20:10:32Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/taxpayer-win-on-right-to-jury-trial-vacated-by-appeals-court",
+    "page": 3,
+    "summary": "A federal district court needs to reconsider its ruling that found a taxpayer assessed certain penalties by the IRS has a right to a jury trial, ...",
+    "title": "Taxpayer Win on Right to Jury Trial Vacated by Appeals ..."
+   },
    "news.bloomberglaw.com/business-and-practice/tech-earnings-loom-large-for-funds-packed-into-dispersion-trade": {
     "baseline": false,
     "date_hint": "8 hours ago",
@@ -3004,6 +3040,15 @@
     "summary": "The justices declined to review the US Court of Appeals for the District of Columbia's ruling that allowed Trump to fire Wilcox at-will",
     "title": "Top US Court Rejects Fired NLRB Member's Challenge to ..."
    },
+   "news.bloomberglaw.com/business-and-practice/treasury-unveils-rule-to-ban-large-investors-from-homebuying-1": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T20:10:32Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/treasury-unveils-rule-to-ban-large-investors-from-homebuying-1",
+    "page": 2,
+    "summary": "Under the law, the ban \u2014 which prohibits investors with more than 350 houses from purchasing additional single-family homes \u2013 goes into effect Jan. 7, a short ...",
+    "title": "Treasury Unveils Rule to Ban Large Investors From ..."
+   },
    "news.bloomberglaw.com/business-and-practice/troutman-pepper-locke-employs-three-insurance-litigation-lawyers": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -3066,6 +3111,15 @@
     "page": 2,
     "summary": "Katie Zacharia will no longer serve as President Donald Trump 's press secretary after spending less than a week on the job, thrusting the White House's ...",
     "title": "Trump's New White House Press Secretary Out After Five ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trump-ordered-to-sit-for-deposition-by-dec-11-in-bbc-lawsuit": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T20:10:32Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-ordered-to-sit-for-deposition-by-dec-11-in-bbc-lawsuit",
+    "page": 4,
+    "summary": "Trump sued the BBC in December over the broadcaster's misleading edit of a speech he gave to his supporters shortly before the Jan. 6, 2021, assault on the US ...",
+    "title": "Trump Ordered to Sit for Deposition by Dec. 11 in BBC ..."
    },
    "news.bloomberglaw.com/business-and-practice/trump-pac-paid-dla-piper-sullivan-cromwell-fec-filings-show": {
     "baseline": false,
@@ -8358,6 +8412,15 @@
     "page": 1,
     "summary": "Create an Item-Level Discount \u00b7 Log in to the SpotOn Dashboard. \u00b7 Navigate to Menu & Tables > Discounts. \u00b7 Select Add Discount in the upper-right corner.",
     "title": "Create and Manage Discounts | Dashboard | SpotOn Express"
+   },
+   "help.spoton.com/space/SK/4714954760/Job+Positions:+Permissions,+FAQs,+and+Best+Practices+%7C+SpotOn+Restaurant+BOH": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-22T20:10:32Z",
+    "link": "https://help.spoton.com/space/SK/4714954760/Job+Positions:+Permissions,+FAQs,+and+Best+Practices+%7C+SpotOn+Restaurant+BOH",
+    "page": 1,
+    "summary": "This guide explains how to configure Job Position permissions in SpotOn Restaurant, including time clock access, order and payment permissions, cash management,",
+    "title": "Manage Job Positions | SpotOn Restaurant BOH"
    },
    "help.spoton.com/space/SK/5040406703/Menu+Best+Practices+for+Subitem+Groups+(Combos+&+Pizza)+RPOS": {
     "baseline": false,
