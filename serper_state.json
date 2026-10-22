@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13675,
+  "credits_used": 13727,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-21T23:08:40Z",
+  "last_run": "2026-10-22T00:26:09Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 280
+  "runs": 281
  },
  "feeds": {
   "adp-help": {},
@@ -2868,6 +2868,15 @@
     "page": 3,
     "summary": "President Donald Trump is set to direct the federal government to seek ways to overcome state obstacles to energy projects, following efforts threatening ...",
     "title": "Trump to Direct Agencies to Counter States Blocking ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trumps-dhs-asks-supreme-court-to-allow-border-wall-in-big-bend": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T00:26:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trumps-dhs-asks-supreme-court-to-allow-border-wall-in-big-bend",
+    "page": 3,
+    "summary": "President Donald Trump 's administration asked the US Supreme Court to let border-wall construction resume in Big Bend National Park in west Texas, ...",
+    "title": "Trump's DHS Asks Supreme Court to Allow Border Wall in ..."
    },
    "news.bloomberglaw.com/business-and-practice/trumps-medicare-ai-push-raises-patient-data-privacy-concerns": {
     "baseline": false,
@@ -7270,6 +7279,15 @@
     "page": 1,
     "summary": "South Carolina sales tax rates, nexus thresholds, taxable sales, exemptions, filing requirements, and retail license registration.",
     "title": "South Carolina Sales Tax Guide - Sovos"
+   },
+   "sovos.com/blog/trr/unclaimed-property-what-are-relationship-codes": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T00:26:09Z",
+    "link": "https://sovos.com/blog/trr/unclaimed-property-what-are-relationship-codes/",
+    "page": 1,
+    "summary": "Relationship codes are used in electronic reporting (NAUPA format) to tell states how owners are linked on an account when the report pertains to unclaimed ...",
+    "title": "Understanding Relationship Codes for Unclaimed Property - Sovos"
    }
   },
   "sovos-help": {
@@ -8072,6 +8090,15 @@
     "page": 1,
     "summary": "R\u00e9duire les risques de fraude et de non-paiement li\u00e9s aux abonnements. Configurez les mises \u00e0 jour d'abonnement, les cr\u00e9dits, le recouvrement des paiements ...",
     "title": "R\u00e9duire les risques de fraude et de non-paiement li\u00e9s aux ..."
+   },
+   "docs.stripe.com/billing/testing/bestpractices?locale=fr-FR": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-22T00:26:09Z",
+    "link": "https://docs.stripe.com/billing/testing/bestpractices?locale=fr-FR",
+    "page": 1,
+    "summary": "Une horloge de simulation vous permet de faire passer un ensemble d'objets associ\u00e9s par plusieurs \u00e9tats de cycle de vie au lieu de cr\u00e9er un abonnement distinct ...",
+    "title": "Limiter les abonnements de test"
    },
    "docs.stripe.com/connect/manage-connected-account-payouts": {
     "baseline": false,

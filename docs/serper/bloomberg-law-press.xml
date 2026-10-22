@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-21T23:08:40Z</updated>
+  <updated>2026-10-22T00:26:09Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/trumps-dhs-asks-supreme-court-to-allow-border-wall-in-big-bend</id>
+    <title>Trump's DHS Asks Supreme Court to Allow Border Wall in ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/trumps-dhs-asks-supreme-court-to-allow-border-wall-in-big-bend" />
+    <published>2026-10-22T00:26:09Z</published>
+    <updated>2026-10-22T00:26:09Z</updated>
+    <summary>President Donald Trump 's administration asked the US Supreme Court to let border-wall construction resume in Big Bend National Park in west Texas, ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/texas-camp-hit-by-fatal-floods-must-have-new-manager-judge-says</id>
     <title>Texas Camp Hit by Fatal Floods Must Have New Manager ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-19T13:52:10Z</published>
     <updated>2026-10-19T13:52:10Z</updated>
     <summary>Blackstone Inc. has raised $8.7 billion for a fund dedicated to cleaner energy, less than two years after wrapping up an earlier version of the strategy.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/volkswagen-pushes-for-pay-freeze-as-union-talks-get-underway</id>
-    <title>Volkswagen Pushes for Pay Freeze as Union Talks Get ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/volkswagen-pushes-for-pay-freeze-as-union-talks-get-underway" />
-    <published>2026-10-19T12:44:53Z</published>
-    <updated>2026-10-19T12:44:53Z</updated>
-    <summary>Volkswagen AG is pushing for a global pay freeze through 2030, according to the automaker's worker representatives, setting up a clash with labor as fresh ...</summary>
   </entry>
 </feed>

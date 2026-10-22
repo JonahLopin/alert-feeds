@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-21T22:09:24Z</updated>
+  <updated>2026-10-22T00:26:09Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/billing/testing/bestpractices?locale=fr-FR</id>
+    <title>Limiter les abonnements de test</title>
+    <link href="https://docs.stripe.com/billing/testing/bestpractices?locale=fr-FR" />
+    <published>2026-10-22T00:26:09Z</published>
+    <updated>2026-10-22T00:26:09Z</updated>
+    <summary>Une horloge de simulation vous permet de faire passer un ensemble d'objets associés par plusieurs états de cycle de vie au lieu de créer un abonnement distinct ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/tax/third-party-apps/agentic-commerce?locale=ja-JP</id>
     <title>エージェンティックコマース向けのサードパーティ税</title>
