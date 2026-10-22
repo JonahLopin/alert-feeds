@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 14039,
+  "credits_used": 14089,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T06:48:25Z",
+  "last_run": "2026-10-22T07:52:20Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 287
+  "runs": 288
  },
  "feeds": {
   "adp-help": {},
@@ -5112,6 +5112,15 @@
     "page": 1,
     "summary": "Ryan, an award-winning global tax services and software provider, is the largest Firm in the world dedicated exclusively to business taxes.",
     "title": "Ryan Marks 35\u1d57\u02b0 Anniversary with Refreshed Brand and ..."
+   },
+   "ryan.com/insights/press-room/ryan-2026-best-places-to-work-north-texas": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T07:52:20Z",
+    "link": "https://ryan.com/insights/press-room/ryan-2026-best-places-to-work-north-texas",
+    "page": 1,
+    "summary": "Founded in Texas and headquartered in Plano, Ryan has grown from a regional tax services Firm into one of the world's largest providers of tax services and ...",
+    "title": "Ryan Named One of the Best Places to Work in North ..."
    },
    "ryan.com/insights/press-room/ryan-2026-fortune-best-workplaces-consulting-professional-services-list": {
     "baseline": false,
