@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 14391,
+  "credits_used": 14442,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T14:10:45Z",
+  "last_run": "2026-10-22T15:11:02Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 294
+  "runs": 295
  },
  "feeds": {
   "adp-help": {},
@@ -1755,6 +1755,15 @@
     "page": 3,
     "summary": "Sen. Jim Justice (R-W.Va.) is liable to Lexon Insurance Co. for more than $25 million to cover a surety bond issued to coal companies the senator and his ...",
     "title": "Jim Justice Owes Insurer $25 Million in Coal Surety Bond ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/jon-gray-rebuts-ai-bubble-warnings-calls-demand-parabolic": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T15:11:02Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/jon-gray-rebuts-ai-bubble-warnings-calls-demand-parabolic",
+    "page": 1,
+    "summary": "President Jon Gray pushed back on the notion that there's an AI bubble, just days after billionaire Ken Griffin said investors are \u201calmost certainly\u201d in the ...",
+    "title": "Jon Gray Rebuts AI Bubble Warnings, Calls Demand ..."
    },
    "news.bloomberglaw.com/business-and-practice/judge-keeps-block-on-border-wall-teeing-up-supreme-court-row": {
     "baseline": false,
@@ -3740,6 +3749,15 @@
    }
   },
   "doordash-press": {
+   "about.doordash.com/en-us/news/doordash-crash-out-corners-data": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T15:11:02Z",
+    "link": "https://about.doordash.com/en-us/news/doordash-crash-out-corners-data",
+    "page": 1,
+    "summary": "DoorDash is launching Crash Out Corners to help people reset, including a pop-up in one of New York City's top cry spots.",
+    "title": "DoorDash Launches \"Crash Out Corners,\u201d Backed by Data ..."
+   },
    "about.doordash.com/en-us/news/doordash-earns-aam-incrementality-certification": {
     "baseline": true,
     "date_hint": "5 days ago",
@@ -7109,6 +7127,15 @@
     "page": 1,
     "summary": "Domain authority is a score from 1 to 100 that predicts how likely a website is to rank in search engine results pages compared to competitors.",
     "title": "Domain Authority: How To Check and Improve It (2026)"
+   },
+   "shopify.com/blog/ecommerce-virtual-assistant": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-22T15:11:02Z",
+    "link": "https://www.shopify.com/blog/ecommerce-virtual-assistant",
+    "page": 1,
+    "summary": "An ecommerce virtual assistant (EVA) is a remote worker or AI-powered tool that takes on the daily operational tasks of running an online store,",
+    "title": "5 Reasons to Use an Ecommerce Virtual Assistant (2026)"
    },
    "shopify.com/blog/email-accessibility-guidelines": {
     "baseline": false,

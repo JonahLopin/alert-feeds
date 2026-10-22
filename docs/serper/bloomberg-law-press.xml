@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-22T12:16:10Z</updated>
+  <updated>2026-10-22T15:11:02Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/jon-gray-rebuts-ai-bubble-warnings-calls-demand-parabolic</id>
+    <title>Jon Gray Rebuts AI Bubble Warnings, Calls Demand ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/jon-gray-rebuts-ai-bubble-warnings-calls-demand-parabolic" />
+    <published>2026-10-22T15:11:02Z</published>
+    <updated>2026-10-22T15:11:02Z</updated>
+    <summary>President Jon Gray pushed back on the notion that there's an AI bubble, just days after billionaire Ken Griffin said investors are “almost certainly” in the ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/wake-up-call-maryland-cant-track-fees-paid-to-outside-firms</id>
     <title>Wake Up Call: Maryland Can't Track Fees Paid to Outside ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-19T17:45:04Z</published>
     <updated>2026-10-19T17:45:04Z</updated>
     <summary>Chalon N. Clark joined Hunton Andrews Kurth as a partner in its commercial litigation practice in Dallas, the firm announced Monday.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/ashurst-perkins-coie-nets-bracewell-pair-for-houston-launch</id>
-    <title>Ashurst Perkins Coie Nets Bracewell Pair for Houston ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/ashurst-perkins-coie-nets-bracewell-pair-for-houston-launch" />
-    <published>2026-10-19T17:45:04Z</published>
-    <updated>2026-10-19T17:45:04Z</updated>
-    <summary>Ashurst Perkins Coie is hiring an additional Bracewell partner for its entrance into Houston, powering up the recently-merged global firm in one of ...</summary>
   </entry>
 </feed>
