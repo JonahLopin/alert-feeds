@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 14492,
+  "credits_used": 14541,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T16:11:43Z",
+  "last_run": "2026-10-22T17:08:51Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 296
+  "runs": 297
  },
  "feeds": {
   "adp-help": {},
@@ -7074,6 +7074,15 @@
     "page": 1,
     "summary": "Content writer and strategist in the SaaS space. Try Shopify for free, and explore all the tools you need to start, run, and grow your business.",
     "title": "Lizzie Davey author & reviewer at Shopify"
+   },
+   "shopify.com/blog/best-dropshipping-apps": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-22T17:08:51Z",
+    "link": "https://www.shopify.com/blog/best-dropshipping-apps",
+    "page": 2,
+    "summary": "Dropshipping apps connect you with suppliers who can package and deliver your product to consumers. They help online store owners design, promote, ...",
+    "title": "13 Best Shopify Dropshipping Apps for 2026"
    },
    "shopify.com/blog/brand-activation": {
     "baseline": false,
