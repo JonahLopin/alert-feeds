@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13831,
+  "credits_used": 13883,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T02:52:49Z",
+  "last_run": "2026-10-22T03:51:19Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 283
+  "runs": 284
  },
  "feeds": {
   "adp-help": {},
@@ -8153,6 +8153,15 @@
     "page": 1,
     "summary": "R\u00e9duire les risques de fraude et de non-paiement li\u00e9s aux abonnements. Configurez les mises \u00e0 jour d'abonnement, les cr\u00e9dits, le recouvrement des paiements ...",
     "title": "R\u00e9duire les risques de fraude et de non-paiement li\u00e9s aux ..."
+   },
+   "docs.stripe.com/billing/testing/bestpractices?locale=de-DE": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-22T03:51:19Z",
+    "link": "https://docs.stripe.com/billing/testing/bestpractices?locale=de-DE",
+    "page": 1,
+    "summary": "Bereinigen Sie Test-Abonnements, um unn\u00f6tige Aktivit\u00e4ten zu reduzieren und Kapazit\u00e4ten f\u00fcr Live-Workloads zu erhalten. Stellen Sie Fragen zu dieser Seite.",
+    "title": "Test-Abonnements schlank halten"
    },
    "docs.stripe.com/billing/testing/bestpractices?locale=fr-FR": {
     "baseline": false,
