@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-22T05:47:48Z</updated>
+  <updated>2026-10-22T10:09:55Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/education-agency-targets-student-abuse-as-other-cases-languish</id>
+    <title>Education Agency Targets Student Abuse as Other Cases ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/education-agency-targets-student-abuse-as-other-cases-languish" />
+    <published>2026-10-22T10:09:55Z</published>
+    <updated>2026-10-22T10:09:55Z</updated>
+    <summary>Sexual abuse of students by K-12 school employees has emerged as a new Education Department civil rights enforcement priority</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/metas-25-billion-penalty-is-massive-win-for-ag-in-small-state</id>
     <title>Meta's $25 Billion Penalty Is Massive Win for AG in Small ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-19T14:48:50Z</published>
     <updated>2026-10-19T14:48:50Z</updated>
     <summary>The justices declined to review the US Court of Appeals for the District of Columbia's ruling that allowed Trump to fire Wilcox at-will</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/nebraska-trans-school-sports-initiative-remains-on-ballot</id>
-    <title>Nebraska Trans School Sports Initiative Remains on Ballot</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/nebraska-trans-school-sports-initiative-remains-on-ballot" />
-    <published>2026-10-19T14:48:50Z</published>
-    <updated>2026-10-19T14:48:50Z</updated>
-    <summary>A Nebraska ballot initiative meant to prohibit transgender athletes from playing on school sports teams consistent with their gender identity will remain on ...</summary>
   </entry>
 </feed>

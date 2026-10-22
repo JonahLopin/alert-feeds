@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 14139,
+  "credits_used": 14189,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T08:55:37Z",
+  "last_run": "2026-10-22T10:09:55Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 289
+  "runs": 290
  },
  "feeds": {
   "adp-help": {},
@@ -1056,6 +1056,15 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/dojs-transgender-care-subpoena-appeal-confronts-doubtful-judges",
     "summary": "The First Circuit on Wednesday heard the government's appeals of rulings that quashed sweeping subpoenas into the provision of care for transgender minors at ...",
     "title": "DOJ's Transgender Care Subpoena Appeal Confronts ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/education-agency-targets-student-abuse-as-other-cases-languish": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-22T10:09:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/education-agency-targets-student-abuse-as-other-cases-languish",
+    "page": 1,
+    "summary": "Sexual abuse of students by K-12 school employees has emerged as a new Education Department civil rights enforcement priority",
+    "title": "Education Agency Targets Student Abuse as Other Cases ..."
    },
    "news.bloomberglaw.com/business-and-practice/enroll-confidently-settles-data-breach-lawsuit-for-990-000": {
     "baseline": true,
@@ -5654,6 +5663,15 @@
     "summary": "Entdecken Sie die Partnerschaft von NVIDIA und SAP zur F\u00f6rderung sicherer, kontrollierbarer KI-Agenten f\u00fcr Unternehmen.",
     "title": "NVIDIA und SAP: Zusammenarbeit f\u00fcr sichere KI"
    },
+   "news.sap.com/germany/2026/10/ki-agenten-sap-und-nvidia-openshell?amp=1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-22T10:09:55Z",
+    "link": "https://news.sap.com/germany/2026/10/ki-agenten-sap-und-nvidia-openshell/?amp=1",
+    "page": 2,
+    "summary": "Entdecken Sie die Partnerschaft von NVIDIA und SAP zur F\u00f6rderung sicherer, kontrollierbarer KI-Agenten f\u00fcr Unternehmen.",
+    "title": "NVIDIA und SAP: Zusammenarbeit f\u00fcr sichere KI"
+   },
    "news.sap.com/germany/2026/10/ki-autonomous-cx": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -9534,6 +9552,15 @@
     "page": 3,
     "summary": "\u201cFifty years ago, this renowned text originated as an idea by the founding editor, Dr. Harold Kaplan, who felt it was absolutely necessary that there be a book ...",
     "title": "Wolters Kluwer Publishes 10th Edition Kaplan and ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-shows-its-ecosystem-in-italy-at-national-notaries-congress": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T10:09:55Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-shows-its-ecosystem-in-italy-at-national-notaries-congress",
+    "page": 1,
+    "summary": "Wolters Kluwer reaffirms its position as a trusted leader in innovation and digital transformation for the notarial profession in Italy.",
+    "title": "Wolters Kluwer shows its ecosystem in Italy at this year's ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-teammate-capabilities-enhance-internal-audit-efficiency-data-quality": {
     "baseline": false,

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-22T08:55:37Z</updated>
+  <updated>2026-10-22T10:09:55Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/2026/10/ki-agenten-sap-und-nvidia-openshell/?amp=1</id>
+    <title>NVIDIA und SAP: Zusammenarbeit für sichere KI</title>
+    <link href="https://news.sap.com/germany/2026/10/ki-agenten-sap-und-nvidia-openshell/?amp=1" />
+    <published>2026-10-22T10:09:55Z</published>
+    <updated>2026-10-22T10:09:55Z</updated>
+    <summary>Entdecken Sie die Partnerschaft von NVIDIA und SAP zur Förderung sicherer, kontrollierbarer KI-Agenten für Unternehmen.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/japan/2026/10/30349/</id>
     <title>ヤマハ株式会社：SAP Business AI Platform を活用して</title>
@@ -795,13 +803,5 @@
     <published>2026-10-13T23:42:51Z</published>
     <updated>2026-10-13T23:42:51Z</updated>
     <summary>Smiling entrepreneur in a modern office lobby holding a phone. SAP. España 902 52 54 56. O vea nuestra lista completa de números locales de países.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/belgie/2026/09/sap-en-nvidia-openshell-werken-samen-aan-governance-en-beveiliging-voor-controleerbare-ai-agents-in-bedrijfssystemen/computer-and-network-data-connection/</id>
-    <title>Computer and network data connection</title>
-    <link href="https://news.sap.com/belgie/2026/09/sap-en-nvidia-openshell-werken-samen-aan-governance-en-beveiliging-voor-controleerbare-ai-agents-in-bedrijfssystemen/computer-and-network-data-connection/" />
-    <published>2026-10-13T23:42:51Z</published>
-    <updated>2026-10-13T23:42:51Z</updated>
-    <summary>Computer and network data connection. SAP. Belgium (0)800 50 550. Of bekijk onze complete lijst van lokale landnummers.</summary>
   </entry>
 </feed>
