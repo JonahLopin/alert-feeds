@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13987,
+  "credits_used": 14039,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T05:47:48Z",
+  "last_run": "2026-10-22T06:48:25Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 286
+  "runs": 287
  },
  "feeds": {
   "adp-help": {},
@@ -7224,6 +7224,15 @@
     "summary": "RFM analysis scores customers so you can target your marketing more effectively. Learn how to calculate RFM scores and build segments that sell.",
     "title": "RFM Analysis: Definition and Segmentation Guide (2026)"
    },
+   "shopify.com/blog/sales-tools-small-business": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-22T06:48:25Z",
+    "link": "https://www.shopify.com/blog/sales-tools-small-business",
+    "page": 1,
+    "summary": "Learn about the best sales tools for small business operations, including top CRM software, live chat tools, and POS and payment processing systems.",
+    "title": "Top Sales Tools for Small Business Owners (2026)"
+   },
    "shopify.com/blog/service-marketing-vs-product-marketing": {
     "baseline": false,
     "date_hint": "11 hours ago",
@@ -7560,6 +7569,15 @@
     "page": 1,
     "summary": "You can manage your exemptions entirely in CertManager. When you save a complete exemption, CertManager sends it to Tax Determination automatically.",
     "title": "Exemptions in Tax Determination are now managed in ..."
+   },
+   "docs.sovos.com/en/tax-determination/tax-determination-rest-api/geo-code-endpoints": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-10-22T06:48:25Z",
+    "link": "https://docs.sovos.com/en/tax-determination/tax-determination-rest-api/geo-code-endpoints",
+    "page": 1,
+    "summary": "A Geo Code represents the unique combination of these jurisdictions and is one of the primary factors in determining which tax rules apply to a transaction.",
+    "title": "Geo Code endpoints | Product Documentation Documentation"
    },
    "docs.sovos.com/en/tax-determination/tax-determination-rest-api/tax-calculation-endpoints": {
     "baseline": false,
