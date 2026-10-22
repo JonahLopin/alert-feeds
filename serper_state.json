@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 14290,
+  "credits_used": 14341,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T12:16:10Z",
+  "last_run": "2026-10-22T13:11:30Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 292
+  "runs": 293
  },
  "feeds": {
   "adp-help": {},
@@ -4091,6 +4091,15 @@
     "summary": "Learn how to manage clients from the new client list in Intuit Accountant Suite. Get a fast, responsive view with useful sorting and filtering, ...",
     "title": "Manage your clients with the new client list - QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/use-quickbooks-connector-claude/L3YBlo6Ht_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-22T13:11:30Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/use-quickbooks-connector-claude/L3YBlo6Ht_US_en_US",
+    "page": 1,
+    "summary": "Note: The QuickBooks connector for Claude is currently available to US customers only. We're working to bring it to other regions soon.",
+    "title": "Use Claude to enter transactions and get insights in QuickBooks"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/ai-agents/pre-file-check-works/L1dN5PLUo_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -4248,6 +4257,15 @@
     "page": 2,
     "summary": "You can use QuickBooks Online to issue credits to your customers. You might want to do this to reduce what a customer owes on an invoice, or to write off the ...",
     "title": "Handle a customer credit or overpayment in QuickBooks Online"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/customer-refunds-credits/record-customer-refund-quickbooks-online/L5PbCkJk8_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-22T13:11:30Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/customer-refunds-credits/record-customer-refund-quickbooks-online/L5PbCkJk8_US_en_US",
+    "page": 2,
+    "summary": "If you know the customer's name, enter it here. But you can also leave this blank. Enter when you refunded your customer. Then enter the payment method, which ...",
+    "title": "Refund your customer for a paid invoice in QuickBooks Online"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/direct-deposits/set-manage-direct-deposit-contractors/L63N4nBv9_US_en_US": {
     "baseline": false,
@@ -5879,6 +5897,15 @@
     "summary": "Autonomous HCM ist die Zukunft des Human Capital Management. Dabei sorgt KI f\u00fcr eine Automatisierung durchg\u00e4ngiger Prozesse, erm\u00f6glicht kontextbezogene ...",
     "title": "Autonomous HCM: Die Zukunft der Personalabteilungen"
    },
+   "news.sap.com/germany/features": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-22T13:11:30Z",
+    "link": "https://news.sap.com/germany/features/",
+    "page": 1,
+    "summary": "SAP Unternehmensinformationen Verzeichnis der weltweiten Niederlassungen Investor Relations Jobs & Karriere News und Presse Blogs und Ressourcen Veranstaltungen",
+    "title": "Feature Archiv"
+   },
    "news.sap.com/germany/tags/autonomous-hcm": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -6300,6 +6327,15 @@
     "page": 3,
     "summary": "Smiling entrepreneur in a modern office lobby holding a phone. SAP. Nederland 0800 020 0009. Voor technische support zijn we bereikbaar op 0800 0220683.",
     "title": "Smiling entrepreneur in a modern office lobby holding ..."
+   },
+   "news.sap.com/poland/2026/10/95-mniej-papierowych-dokumentow-czyli-jak-press-glass-cyfryzuje-hr-na-skale-miedzynarodowa/office-building": {
+    "baseline": false,
+    "date_hint": "22 hours ago",
+    "first_seen": "2026-10-22T13:11:30Z",
+    "link": "https://news.sap.com/poland/2026/10/95-mniej-papierowych-dokumentow-czyli-jak-press-glass-cyfryzuje-hr-na-skale-miedzynarodowa/office-building/",
+    "page": 2,
+    "summary": "Polska 00 800 491 1525. Lub wy\u015bwietl pe\u0142n\u0105 list\u0119 numer\u00f3w dla poszczeg\u00f3lnych kraj\u00f3w \u00b7 Skontaktuj si\u0119 z nami. Szybkie \u0142\u0105cza. Szybkie \u0142\u0105cza.",
+    "title": "Office building - SAP Poland Centrum Wiadomo\u015bci"
    },
    "news.sap.com/poland/2026/10/grupa-azoty-i-jedna-z-najwiekszych-transformacji-cyfrowych-w-polskim-przemysle/mixed-race-businesswoman-using-digital-tablet-on-balcony-over-server-room-4": {
     "baseline": false,
