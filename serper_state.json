@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 14787,
+  "credits_used": 14837,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T22:09:09Z",
+  "last_run": "2026-10-22T23:08:48Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 302
+  "runs": 303
  },
  "feeds": {
   "adp-help": {
@@ -2126,6 +2126,15 @@
     "summary": "A group of House Democrats and one Republican representative introduce a bill to block President Trump's deal to purchase and import Russian diesel, ...",
     "title": "Lawmakers Introduce Bipartisan Bill to Block Russia Diesel ..."
    },
+   "news.bloomberglaw.com/business-and-practice/lawmakers-urged-to-probe-metas-reported-influence-in-drug-case": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-22T23:08:48Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/lawmakers-urged-to-probe-metas-reported-influence-in-drug-case",
+    "page": 3,
+    "summary": "More than a dozen organizations are calling on Congress to investigate Meta's reported involvement in the sidelining of an active criminal investigation ...",
+    "title": "Lawmakers Urged to Probe Meta's Reported Influence in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/lawyer-charged-with-insider-trading-wants-to-subpoena-ex-firms": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -2987,6 +2996,15 @@
     "summary": "The US Supreme Court Monday affirmed a Fifth Circuit ruling that a songwriter could and had reclaimed worldwide rights after noting that it lacked a quorum.",
     "title": "Supreme Court Affirms Foreign Rights Ruling After Lacking ..."
    },
+   "news.bloomberglaw.com/business-and-practice/supreme-court-backs-republicans-in-new-hampshire-voter-id-clash": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-22T23:08:48Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/supreme-court-backs-republicans-in-new-hampshire-voter-id-clash",
+    "page": 4,
+    "summary": "The US Supreme Court lifted a ruling that would have allowed use of student-ID cards to help show eligibility to vote in New Hampshire, ...",
+    "title": "Supreme Court Backs Republicans in New Hampshire ..."
+   },
    "news.bloomberglaw.com/business-and-practice/supreme-court-to-hear-claim-of-bias-in-school-admissions-policy": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -3274,6 +3292,15 @@
     "page": 2,
     "summary": "President Donald Trump on Tuesday pardoned two Alaska men who were convicted of violating the Clean Air Act for removing air pollution monitors from diesel ...",
     "title": "Trump Pardons Two Alaska Mechanics Over Clean Air Act ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trump-punts-on-wind-turbine-tariffs-allows-180-days-for-talks": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T23:08:48Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-punts-on-wind-turbine-tariffs-allows-180-days-for-talks",
+    "page": 5,
+    "summary": "President Donald Trump said he will hold off on imposing tariffs on wind turbines and their components on national security grounds, instead ordering the US ...",
+    "title": "Trump Punts on Wind Turbine Tariffs, Allows 180 Days for ..."
    },
    "news.bloomberglaw.com/business-and-practice/trump-says-putin-to-supply-us-with-diesel-ahead-of-midterms-3": {
     "baseline": false,
@@ -7153,6 +7180,15 @@
     "summary": "Description: Learn how to download a LogMeIn application and begin a remote session with a support agent to help you install software or...",
     "title": "LogMeIn Application Download and Remote Session Start"
    },
+   "shift4.zendesk.com/hc/en-us/articles/32201572061587-View-the-Kiosk-Dashboard": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-22T23:08:48Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/32201572061587-View-the-Kiosk-Dashboard",
+    "page": 1,
+    "summary": "The Kiosk dashboard provides a real-time overview of order statuses, types, daily revenue, top-selling items, and other helpful data to optimize",
+    "title": "View the Kiosk Dashboard"
+   },
    "shift4.zendesk.com/hc/en-us/articles/34232480009875-Finalize-Tips-Immediately-on-Shift4-Dine": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -7507,6 +7543,15 @@
     "summary": "Domain authority is a score from 1 to 100 that predicts how likely a website is to rank in search engine results pages compared to competitors.",
     "title": "Domain Authority: How To Check and Improve It (2026)"
    },
+   "shopify.com/blog/ebitda-vs-net-income": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-22T23:08:48Z",
+    "link": "https://www.shopify.com/blog/ebitda-vs-net-income",
+    "page": 3,
+    "summary": "Compare EBITDA and net income with formulas, a worked retail example, and industry margin benchmarks to see when to use each metric.",
+    "title": "EBITDA vs. Net Income: Key Differences (2026)"
+   },
    "shopify.com/blog/ecommerce-virtual-assistant": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -7586,6 +7631,15 @@
     "page": 1,
     "summary": "Learn how to start a landscaping business in 12 steps, including necessary licenses, insurance, equipment, startup costs, and what to charge per hour.",
     "title": "How To Start a Landscaping Business in 2026 in 12 Easy ..."
+   },
+   "shopify.com/blog/how-to-start-an-llc-in-minnesota": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-22T23:08:48Z",
+    "link": "https://www.shopify.com/blog/how-to-start-an-llc-in-minnesota",
+    "page": 3,
+    "summary": "How to start a Minnesota LLC \u00b7 1. Name your Minnesota LLC \u00b7 2. Set up your registered office and registered agent \u00b7 3. File your Minnesota articles of ...",
+    "title": "Minnesota LLC: How To Start an LLC in 9 Steps (2026)"
    },
    "shopify.com/blog/how-to-work-from-home": {
     "baseline": false,
@@ -7747,6 +7801,15 @@
     "page": 1,
     "summary": "Paid media works by exchanging dollars for attention on platforms like social media, search engines, display networks, and streaming sites.",
     "title": "Paid Media: Guide for Ecommerce Business Owners (2026)"
+   },
+   "shopify.com/blog/payment-reconciliation": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-22T23:08:48Z",
+    "link": "https://www.shopify.com/blog/payment-reconciliation",
+    "page": 2,
+    "summary": "Unmatched payments can hide fraud and bookkeeping errors. See how payment reconciliation catches them and learn how to automate the process.",
+    "title": "Payment Reconciliation: Types & Example (2026)"
    },
    "shopify.com/blog/plan-a-bfcm-campaign-that-runs-itself-with-rollouts": {
     "baseline": true,
@@ -9383,6 +9446,15 @@
     "page": 1,
     "summary": "From research and document review to risk assessment and data analysis, AI has the potential to help firms work more efficiently and increase capacity. But as ...",
     "title": "Not all AI is built for auditing \u2014 here's the difference"
+   },
+   "tax.thomsonreuters.com/blog/season-proofing-the-team-protecting-tax-compliance-continuity-through-turnover": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T23:08:48Z",
+    "link": "https://tax.thomsonreuters.com/blog/season-proofing-the-team-protecting-tax-compliance-continuity-through-turnover/",
+    "page": 1,
+    "summary": "A connected, traceable record from data collection through filing keeps compliance season moving and strengthens team communication despite staffing changes.",
+    "title": "Tax compliance continuity: Season-proofing the team"
    },
    "tax.thomsonreuters.com/blog/section-301-exclusions-expiration": {
     "baseline": false,
