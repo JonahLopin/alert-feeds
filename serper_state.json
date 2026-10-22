@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 14686,
+  "credits_used": 14737,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T20:10:32Z",
+  "last_run": "2026-10-22T21:09:57Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 300
+  "runs": 301
  },
  "feeds": {
   "adp-help": {},
@@ -888,6 +888,15 @@
     "summary": "A year after crypto's historic crash, leveraged trading has yet to regain its old swagger. But the appetite for outsize bets hasn't disappeared.",
     "title": "Crypto's Leverage Machine Finds New Life Beyond Bitcoin ..."
    },
+   "news.bloomberglaw.com/business-and-practice/cryptos-newest-trading-boom-is-taking-hold-in-tokenized-stocks": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-22T21:09:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cryptos-newest-trading-boom-is-taking-hold-in-tokenized-stocks",
+    "page": 3,
+    "summary": "Tokenized stocks and exchange-traded funds recorded more than $37 billion in onchain trading volume in the third quarter, an 18-fold increase since January, ...",
+    "title": "Crypto's Newest Trading Boom Is Taking Hold in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/cryptos-push-into-stocks-fuels-new-wall-street-lending-plan-1": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -1227,6 +1236,15 @@
     "page": 2,
     "summary": "CEO Albert Bourla over his getting banned from Twitter for skepticism about the drug company's Covid-19 vaccine. Photographer: Vanessa Leroy/Bloomberg.",
     "title": "Ex-White House, Pfizer Execs Squelch Vaccine Skeptic's ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/exchanges-urge-cftc-to-block-kalshis-perpetual-oil-futures-plan": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-22T21:09:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/exchanges-urge-cftc-to-block-kalshis-perpetual-oil-futures-plan",
+    "page": 3,
+    "summary": "Commodity exchanges are urging US regulators to withhold approval of Kalshi Inc.'s proposed perpetual oil futures contract and close a loophole that gives ...",
+    "title": "Exchanges Urge CFTC to Block Kalshi's Perpetual Oil ..."
    },
    "news.bloomberglaw.com/business-and-practice/extreme-networks-reaches-51-million-investor-class-settlement": {
     "baseline": false,
@@ -1630,6 +1648,15 @@
     "page": 1,
     "summary": "The US Supreme Court declined to examine judicial authority to decide the validity of an arbitration agreement between a signatory and a non-signatory, ...",
     "title": "High Court Skips Case on Non-Signatories Compelling ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/hims-seeks-dismissal-of-ftc-suit-over-user-data-subscriptions": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T21:09:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/hims-seeks-dismissal-of-ftc-suit-over-user-data-subscriptions",
+    "page": 3,
+    "summary": "Hims & Hers Health Inc. asked a California federal judge to throw out a US Federal Trade Commission complaint alleging the company misled consumers about ...",
+    "title": "Hims Seeks Dismissal of FTC Suit Over User Data ..."
    },
    "news.bloomberglaw.com/business-and-practice/hodgson-russ-adds-daniel-johnson-as-state-and-local-tax-partner": {
     "baseline": false,
@@ -2160,6 +2187,15 @@
     "summary": "The Premier League has found the soccer club guilty of 114 charges of financial irregularities deemed so serious that it may kick City out of the league and ...",
     "title": "Manchester City's Threatened Exile Dwarfs Rivals' Past ..."
    },
+   "news.bloomberglaw.com/business-and-practice/mark-zuckerberg-plots-deal-to-pay-wealth-tax-keep-meta-control": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T21:09:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/mark-zuckerberg-plots-deal-to-pay-wealth-tax-keep-meta-control",
+    "page": 4,
+    "summary": "Mark Zuckerberg's months of wrangling with his own board came to a head with a dinner-table ultimatum.",
+    "title": "Mark Zuckerberg Plots Deal to Pay Wealth Tax, Keep Meta ..."
+   },
    "news.bloomberglaw.com/business-and-practice/mastercard-ceo-sees-cross-border-payments-as-top-stablecoin-use": {
     "baseline": false,
     "date_hint": "12 hours ago",
@@ -2186,6 +2222,15 @@
     "page": 3,
     "summary": "As the economy grows, their profits will grow. If you buy their stocks, you will get a share of that growth. If you are a normal person saving for retirement, ...",
     "title": "Matt Levine's Money Stuff: Private Markets Are the New AI ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/matt-levines-money-stuff-zuckerberg-wants-to-keep-his-votes": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T21:09:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/matt-levines-money-stuff-zuckerberg-wants-to-keep-his-votes",
+    "page": 3,
+    "summary": "The basic deal is that if you found a company, and you want to raise money, you will probably have to give up some ownership of it.",
+    "title": "Matt Levine's Money Stuff: Zuckerberg Wants to Keep His ..."
    },
    "news.bloomberglaw.com/business-and-practice/mayer-brown-brings-on-sheppard-mullin-fda-life-sciences-partners": {
     "baseline": false,
@@ -2574,6 +2619,15 @@
     "summary": "Phillips 66 General Counsel Vanessa Sutherland juggles topics ranging from employment to intellectual property while navigating an evolving regulatory ...",
     "title": "Phillips 66 GC Vanessa Sutherland Executes Her Vision of ..."
    },
+   "news.bloomberglaw.com/business-and-practice/phrma-drugmakers-can-intervene-in-fight-over-hhs-rebate-pilot": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T21:09:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/phrma-drugmakers-can-intervene-in-fight-over-hhs-rebate-pilot",
+    "page": 3,
+    "summary": "A federal judge granted the pharmaceutical industry's top trade association and other drugmakers' request to intervene in a lawsuit over a government rebate ...",
+    "title": "PhRMA, Drugmakers Can Intervene in Fight Over HHS ..."
+   },
    "news.bloomberglaw.com/business-and-practice/plan-to-broadcast-fort-hood-killers-execution-spurs-criticism": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -2645,6 +2699,15 @@
     "page": 2,
     "summary": "Chief Executive Officer Nik Storonsky said he wants the digital bank to hold a primary listing in the US, if it chooses to pursue a public offering in the ...",
     "title": "Revolut CEO Storonsky Says He's Targeting US Primary ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/rfk-jr-s-peptide-plan-makes-compounders-report-side-effects": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T21:09:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/rfk-jr-s-peptide-plan-makes-compounders-report-side-effects",
+    "page": 3,
+    "summary": "The White House is reviewing a proposal to broaden access to peptides that includes more patient protections than initially expected, according to people ...",
+    "title": "RFK Jr.'s Peptide Plan Makes Compounders Report Side ..."
    },
    "news.bloomberglaw.com/business-and-practice/ripple-opens-9-billion-perps-boom-to-wall-street-clients-1": {
     "baseline": false,
@@ -2781,6 +2844,15 @@
     "summary": "SoftBank Group Corp. is considering an acquisition of Allied Universal , the largest security services company in the US, people familiar with the matter ...",
     "title": "SoftBank Is Said to Weigh Buying Largest US Security Firm ..."
    },
+   "news.bloomberglaw.com/business-and-practice/southwest-pilots-union-objects-to-spirits-data-sale-to-google": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T21:09:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/southwest-pilots-union-objects-to-spirits-data-sale-to-google",
+    "page": 3,
+    "summary": "The Southwest Airlines Pilots Association joined growing pushback over Spirit Aviation Holdings Inc.'s proposed bankruptcy sale of a trove of deindentified ...",
+    "title": "Southwest Pilots Union Objects to Spirit's Data Sale to ..."
+   },
    "news.bloomberglaw.com/business-and-practice/split-massachusetts-high-court-upholds-handgun-permit-age-limit": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -2806,6 +2878,15 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/starbucks-unlawfully-limited-facial-piercings-nlrb-judge-finds",
     "summary": "A Starbucks Corp. store in Florida violated federal labor law by enforcing a policy limiting employees to one facial piercing without first bargaining",
     "title": "Starbucks Unlawfully Limited Facial Piercings, NLRB ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/steptoe-role-in-hughes-bankruptcy-challenged-over-echostar-ties": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T21:09:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/steptoe-role-in-hughes-bankruptcy-challenged-over-echostar-ties",
+    "page": 1,
+    "summary": "The Justice Department's bankruptcy watchdog pushed back against Steptoe LLP's bid to advise Hughes Satellite Systems Corp. in Chapter 11, citing an alleged ...",
+    "title": "Steptoe Role in Hughes Bankruptcy Challenged Over ..."
    },
    "news.bloomberglaw.com/business-and-practice/strategys-saylor-sees-bitcoin-moving-back-up-beyond-100-000": {
     "baseline": false,
@@ -3067,6 +3148,15 @@
     "summary": "His practice spans the full litigation lifecycle, from pleadings and discovery through depositions, expert challenges, summary judgment, and trial preparation.",
     "title": "Troutman Pepper Locke Lands Two Health Care Litigation ..."
    },
+   "news.bloomberglaw.com/business-and-practice/trump-and-crypto-firm-sued-for-profiting-from-foreign-government": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T21:09:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-and-crypto-firm-sued-for-profiting-from-foreign-government",
+    "page": 4,
+    "summary": "The suit claims Trump violated the Foreign Emoluments Clause, a provision of the US Constitution that bars presidents from taking payments from foreign ...",
+    "title": "Trump and Crypto Firm Sued for Profiting From Foreign ..."
+   },
    "news.bloomberglaw.com/business-and-practice/trump-diesel-deal-faces-fresh-legislative-challenge-in-congress": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -3148,6 +3238,15 @@
     "summary": "President Donald Trump is working with Vladimir Putin to release Russian diesel supplies into global markets, a move that upends years of sanctions as the ...",
     "title": "Trump Says Putin to Supply US With Diesel Ahead of ..."
    },
+   "news.bloomberglaw.com/business-and-practice/trump-sec-enforcement-dip-prompts-scrutiny-over-wall-street-cop": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T21:09:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-sec-enforcement-dip-prompts-scrutiny-over-wall-street-cop",
+    "page": 4,
+    "summary": "Securities and Exchange Commission enforcement actions have dropped under Chairman Paul Atkins. Wall Street's top regulator brought about a third fewer cases ...",
+    "title": "Trump SEC Enforcement Dip Prompts Scrutiny Over Wall ..."
+   },
    "news.bloomberglaw.com/business-and-practice/trump-sued-by-democrats-over-effort-to-purge-state-voter-rolls": {
     "baseline": false,
     "date_hint": "8 hours ago",
@@ -3219,6 +3318,15 @@
     "page": 3,
     "summary": "Two Key Lawyers at Murdoch's Fox Exit Ahead of Roku Merger ... Fox Corp. chairman and CEO Lachlan Murdoch, shown July 9 during tech executives' annual conference ...",
     "title": "Two Key Lawyers at Murdoch's Fox Exit Ahead of Roku ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/ubs-defeats-ex-credit-suisse-managing-directors-back-pay-claims": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T21:09:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ubs-defeats-ex-credit-suisse-managing-directors-back-pay-claims",
+    "page": 4,
+    "summary": "UBS Group AG prevailed against two former Credit Suisse Group AG managing directors who argued their deferred-compensation certificates shouldn't have been ...",
+    "title": "UBS Defeats Ex-Credit Suisse Managing Directors' Back ..."
    },
    "news.bloomberglaw.com/business-and-practice/uk-tax-authority-clarifies-vat-treatment-for-cryptoasset-sales": {
     "baseline": false,
@@ -5407,6 +5515,15 @@
     "summary": "Based on findings from a survey of over 1,500 North American consumers aged 18+, the research shows Halloween is increasingly competing with Christmas in ...",
     "title": "Halloween Challenges Christmas as the Bigger Holiday for ..."
    },
+   "lightspeedhq.com/news/lightspeed-advances-its-connected-commerce-platform-to-help-merchants-run-smarter-and-capture-more-demand": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T21:09:57Z",
+    "link": "https://www.lightspeedhq.com/news/lightspeed-advances-its-connected-commerce-platform-to-help-merchants-run-smarter-and-capture-more-demand/",
+    "page": 1,
+    "summary": "From connecting digital advertising to in-store sales and simplifying fulfillment, to helping restaurants convert more searches into reservations and golf ...",
+    "title": "Lightspeed Advances Its Connected Commerce Platform to ..."
+   },
    "lightspeedhq.com/news/lightspeed-ai-expands-from-insights-to-action-with-new-agentic-capabilities-for-retail": {
     "baseline": false,
     "date_hint": "8 hours ago",
@@ -7273,6 +7390,15 @@
     "summary": "A company's break-even point is the line between generating a net profit and operating at a net loss. It identifies the exact sales volume or revenue that ...",
     "title": "How To Calculate the Break-Even Point for Your Products"
    },
+   "shopify.com/blog/business-acronyms-list": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-22T21:09:57Z",
+    "link": "https://www.shopify.com/blog/business-acronyms-list",
+    "page": 1,
+    "summary": "Knowing these business acronyms can improve your business communications and how well you understand documents, reports, and business software.",
+    "title": "The Essential Business Acronyms List for Entrepreneurs"
+   },
    "shopify.com/blog/business-license": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -8448,6 +8574,15 @@
     "page": 1,
     "summary": "Choice Modifiers, also known as Forced Modifiers, are used when a guest must make a selection before an item can be ordered.",
     "title": "Choice Modifiers (Forced Modifiers) | SpotOn Restaurant"
+   },
+   "help.spoton.com/space/SK/5276336130": {
+    "baseline": false,
+    "date_hint": "23 hours ago",
+    "first_seen": "2026-10-22T21:09:57Z",
+    "link": "https://help.spoton.com/space/SK/5276336130",
+    "page": 1,
+    "summary": "The Close Report Summaries report provides a detailed view of employee and register closeout activity for a selected date range. This report allows managers to ...",
+    "title": "Close Report Summaries | SpotOn Restaurant Reporting"
    },
    "help.spoton.com/space/SK/5529468936": {
     "baseline": false,

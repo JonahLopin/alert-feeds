@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-10-22T20:10:32Z</updated>
+  <updated>2026-10-22T21:09:57Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/5276336130</id>
+    <title>Close Report Summaries | SpotOn Restaurant Reporting</title>
+    <link href="https://help.spoton.com/space/SK/5276336130" />
+    <published>2026-10-22T21:09:57Z</published>
+    <updated>2026-10-22T21:09:57Z</updated>
+    <summary>The Close Report Summaries report provides a detailed view of employee and register closeout activity for a selected date range. This report allows managers to ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/4714954760/Job+Positions:+Permissions,+FAQs,+and+Best+Practices+%7C+SpotOn+Restaurant+BOH</id>
     <title>Manage Job Positions | SpotOn Restaurant BOH</title>
