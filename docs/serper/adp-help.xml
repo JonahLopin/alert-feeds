@@ -2,6 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:adp-help</id>
   <title>ADP help (site:adp.com/about-adp/data-security/alerts/) via Serper</title>
-  <updated>2026-10-11T03:05:00Z</updated>
+  <updated>2026-10-22T22:09:09Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/adp-help.xml" />
+  <entry>
+    <id>https://www.adp.com/about-adp/data-security/alerts/php-vulnerability.aspx</id>
+    <title>PHP vulnerability</title>
+    <link href="https://www.adp.com/about-adp/data-security/alerts/php-vulnerability.aspx" />
+    <published>2026-10-22T22:09:09Z</published>
+    <updated>2026-10-22T22:09:09Z</updated>
+    <summary>ADP is aware of recent reports regarding a vulnerability in PHP, a scripting language used to build and run web applications and websites.</summary>
+  </entry>
 </feed>

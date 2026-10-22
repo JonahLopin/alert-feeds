@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 14737,
+  "credits_used": 14787,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T21:09:57Z",
+  "last_run": "2026-10-22T22:09:09Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,10 +127,20 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 301
+  "runs": 302
  },
  "feeds": {
-  "adp-help": {},
+  "adp-help": {
+   "adp.com/about-adp/data-security/alerts/php-vulnerability.aspx": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T22:09:09Z",
+    "link": "https://www.adp.com/about-adp/data-security/alerts/php-vulnerability.aspx",
+    "page": 1,
+    "summary": "ADP is aware of recent reports regarding a vulnerability in PHP, a scripting language used to build and run web applications and websites.",
+    "title": "PHP vulnerability"
+   }
+  },
   "adp-press": {
    "mediacenter.adp.com/2026-10-06-ADP-National-Employment-Report-Preliminary-Estimate-for-September-19,-2026": {
     "baseline": true,
@@ -637,6 +647,15 @@
     "summary": "The Norte Fire burned nearly 500 acres and destroyed multiple structures in a matter of hours, as high winds have aggressively pushed it into neighborhoods.",
     "title": "California Utility Sued Over Still Smoldering Orange ..."
    },
+   "news.bloomberglaw.com/business-and-practice/chemical-companies-doj-seek-to-withdraw-test-order-lawsuit": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T22:09:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/chemical-companies-doj-seek-to-withdraw-test-order-lawsuit",
+    "page": 2,
+    "summary": "The Department of Justice and EPA have asked a federal appeals court to let them withdraw a lawsuit challenging an EPA order requiring chemical ...",
+    "title": "Chemical Companies, DOJ Seek to Withdraw Test Order ..."
+   },
    "news.bloomberglaw.com/business-and-practice/china-buys-spot-lng-shipments-to-refill-storage-ahead-of-winter": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -654,6 +673,15 @@
     "page": 2,
     "summary": "China's currency is having a good year, and Beijing wants everyone to know it.",
     "title": "China Is Too Defensive Over the Yuan: Daniel Moss"
+   },
+   "news.bloomberglaw.com/business-and-practice/citigroup-convenes-analysts-in-mexico-to-prepare-for-banamex-ipo": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T22:09:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/citigroup-convenes-analysts-in-mexico-to-prepare-for-banamex-ipo",
+    "page": 2,
+    "summary": "Wall Street analysts flew to Mexico City this week for meetings with Grupo Financiero Banamex management ahead of Citigroup Inc. 's planned share offering ...",
+    "title": "Citigroup Convenes Analysts in Mexico to Prepare for ..."
    },
    "news.bloomberglaw.com/business-and-practice/citigroup-hires-former-bofa-banker-mee-as-global-chair-of-m-a": {
     "baseline": false,
@@ -1506,6 +1534,15 @@
     "summary": "Georgia can enforce its age-verification law for social media platforms while NetChoice Inc.'s challenge to the law proceeds, a federal appeals court ruled.",
     "title": "Georgia Wins Bid to End Injunction Blocking Age- ..."
    },
+   "news.bloomberglaw.com/business-and-practice/gilead-will-pay-45-million-to-end-texas-medicaid-kickback-suit": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-22T22:09:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/gilead-will-pay-45-million-to-end-texas-medicaid-kickback-suit",
+    "page": 5,
+    "summary": "Gilead Sciences Inc. will pay $45 million to resolve claims the pharmaceutical company paid illegal kickbacks influencing the prescription of drugs paid for ...",
+    "title": "Gilead Will Pay $45 Million to End Texas Medicaid ..."
+   },
    "news.bloomberglaw.com/business-and-practice/global-forum-releases-cybersecurity-guidance-for-tax-authorities": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -2115,6 +2152,15 @@
     "page": 3,
     "summary": "A divided Second Circuit revived a former Lidl US LLC grocery store clerk's unpaid wage claims over a policy requiring employees to report to work before ...",
     "title": "Lidl Must Face 'Time-Shaving' Wage Lawsuit, Split Court ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/linqto-wins-new-bankruptcy-plan-trustee-bonuses-for-executives": {
+    "baseline": false,
+    "date_hint": "39 minutes ago",
+    "first_seen": "2026-10-22T22:09:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/linqto-wins-new-bankruptcy-plan-trustee-bonuses-for-executives",
+    "page": 2,
+    "summary": "Fintech Linqto Texas LLC won approval to appoint a replacement liquidating trustee in its bankruptcy and potentially award more than $2 million in bonuses ...",
+    "title": "Linqto Wins New Bankruptcy Plan Trustee, Bonuses for ..."
    },
    "news.bloomberglaw.com/business-and-practice/live-nation-empire-that-music-fans-hate-is-at-risk-of-a-break-up": {
     "baseline": false,
@@ -7719,6 +7765,15 @@
     "summary": "Podcast advertising is when a business pays to promote its product or service during a podcast, either through a produced commercial or a mention read out ...",
     "title": "Podcast Advertising: Costs and How To Buy (2026)"
    },
+   "shopify.com/blog/premium-brand-strategy": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-22T22:09:09Z",
+    "link": "https://www.shopify.com/blog/premium-brand-strategy",
+    "page": 1,
+    "summary": "A premium brand strategy is a plan for positioning a company as the superior, more expensive choice in its category.",
+    "title": "How To Build a Premium Brand Strategy (2026)"
+   },
    "shopify.com/blog/product-availability": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -7808,6 +7863,15 @@
     "page": 1,
     "summary": "SWOT stands for strengths, weaknesses, opportunities, and threats. A SWOT analysis is a planning tool that assesses these four factors in your business. It's a ...",
     "title": "SWOT Analysis Examples and a Free Template (2026)"
+   },
+   "shopify.com/blog/tax-id-number": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-22T22:09:09Z",
+    "link": "https://www.shopify.com/blog/tax-id-number",
+    "page": 2,
+    "summary": "A tax ID number is a unique identifier that connects an individual or business with their federal tax records. The IRS or Social Security Administration may ...",
+    "title": "Tax ID Number: How To Apply and Look One Up (2026)"
    },
    "shopify.com/blog/the-entrepreneur-effect": {
     "baseline": false,
