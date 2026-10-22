@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 14589,
+  "credits_used": 14638,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T18:12:37Z",
+  "last_run": "2026-10-22T19:07:55Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 298
+  "runs": 299
  },
  "feeds": {
   "adp-help": {},
@@ -618,6 +618,15 @@
     "page": 1,
     "summary": "California is seeking to block the Trump administration's practice of making immigration arrests in and around state courthouses with a new lawsuit",
     "title": "California Sues to End Continued Courthouse Immigration ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/california-utility-sued-over-still-smoldering-orange-county-fire": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T19:07:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/california-utility-sued-over-still-smoldering-orange-county-fire",
+    "page": 2,
+    "summary": "The Norte Fire burned nearly 500 acres and destroyed multiple structures in a matter of hours, as high winds have aggressively pushed it into neighborhoods.",
+    "title": "California Utility Sued Over Still Smoldering Orange ..."
    },
    "news.bloomberglaw.com/business-and-practice/china-buys-spot-lng-shipments-to-refill-storage-ahead-of-winter": {
     "baseline": false,
@@ -1246,6 +1255,15 @@
     "summary": "What happens when a government lawyer stands before a judge without the answers she needs and fears her own credibility is slipping away? Former Justice ...",
     "title": "Fear Inside Trump's DOJ: How a Lawyer Reached Her ..."
    },
+   "news.bloomberglaw.com/business-and-practice/fed-debit-card-swipe-fee-rule-vexes-judges-over-possible-redo": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T19:07:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/fed-debit-card-swipe-fee-rule-vexes-judges-over-possible-redo",
+    "page": 3,
+    "summary": "A federal appeals court is weighing whether the Federal Reserve has to rewrite its debit card \"swipe fee\" rule. Photographer: Andrew Harrer/Bloomberg.",
+    "title": "Fed Debit Card 'Swipe Fee' Rule Vexes Judges Over ..."
+   },
    "news.bloomberglaw.com/business-and-practice/federal-agents-search-representative-ilhan-omars-home-1": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -1864,6 +1882,15 @@
     "summary": "A US trade judge approved class-action status for a legal fight over refunds for President Donald Trump's global tariffs, siding with importers who contend ...",
     "title": "Judge Sides With Importers to Expand Trump Tariff Refund ..."
    },
+   "news.bloomberglaw.com/business-and-practice/judge-targeted-in-trump-golf-course-case-known-for-no-bs-style": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T19:07:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/judge-targeted-in-trump-golf-course-case-known-for-no-bs-style",
+    "page": 3,
+    "summary": "President Donald Trump called the judge, a former Williams & Connolly partner and Joe Biden appointee, a \u201ccrazed lunatic\u201d days after she snapped at government .",
+    "title": "Judge Targeted in Trump Golf Course Case Known for 'No ..."
+   },
    "news.bloomberglaw.com/business-and-practice/jump-drw-bet-on-new-compute-market-as-ai-boom-faces-scrutiny": {
     "baseline": false,
     "date_hint": "11 hours ago",
@@ -1953,6 +1980,15 @@
     "page": 1,
     "summary": "Alex Kaplan joined Kirkland & Ellis as a partner in its litigation practice group, He represents clients in high-stakes energy, antitrust, financial services, ...",
     "title": "Kirkland Poaches Veteran Susman Trial Lawyer Kaplan in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/kkr-hires-goldmans-mcdonald-as-fund-finance-push-grows": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T19:07:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kkr-hires-goldmans-mcdonald-as-fund-finance-push-grows",
+    "page": 2,
+    "summary": "Sarah McDonald has joined KKR & Co. 's asset-based finance commercial team, where she will focus on fund finance, among other areas, according to people ...",
+    "title": "KKR Hires Goldman's McDonald as Fund Finance Push ..."
    },
    "news.bloomberglaw.com/business-and-practice/kraken-parent-to-acquire-lithuania-based-saldo-bank": {
     "baseline": false,
@@ -2394,6 +2430,15 @@
     "summary": "Culkar's practice focuses on traditional labor law, representing employers in union campaigns, contract negotiations, grievance arbitrations, unfair labor ...",
     "title": "Ogletree Deakins Secures Six Fisher Phillips Labor Lawyers"
    },
+   "news.bloomberglaw.com/business-and-practice/ogletree-recruits-privacy-partner-khan-for-san-francisco-office": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T19:07:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ogletree-recruits-privacy-partner-khan-for-san-francisco-office",
+    "page": 2,
+    "summary": "Anne Yarovoy Khan joined Ogletree Deakins as a shareholder in its privacy, cybersecurity, and artificial intelligence practice in San Francisco, ...",
+    "title": "Ogletree Recruits Privacy Partner Khan for San Francisco ..."
+   },
    "news.bloomberglaw.com/business-and-practice/ohio-strawmen-shine-light-on-odd-property-tax-appeal-rules": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -2752,6 +2797,15 @@
     "page": 1,
     "summary": "Secretary of Defense Pete Hegseth announced that convicted murderer Nidal Hasan will be executed by firing squad on Dec. 3, 2026, and that it would be ...",
     "title": "Streaming Execution Would Be a National Security, Moral ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/sullivan-cromwell-brings-on-private-wealth-partner-lacaria": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T19:07:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/sullivan-cromwell-brings-on-private-wealth-partner-lacaria",
+    "page": 1,
+    "summary": "Lacaria, who joins from White & Case, advises high net worth individuals and families, family offices and fiduciaries on estate and tax planning,",
+    "title": "Sullivan & Cromwell Brings on Private Wealth Partner ..."
    },
    "news.bloomberglaw.com/business-and-practice/sullivan-cromwell-brings-vivek-ratnam-as-new-york-tax-partner": {
     "baseline": false,
@@ -3846,6 +3900,15 @@
     "page": 1,
     "summary": "Today, DoorDash introduced Brand Center, a platform built for the marketing, supply chain, category, ecommerce, and national account teams to get a clearer view ...",
     "title": "DoorDash Introduces Brand Center: A Platform For Retailer ..."
+   },
+   "about.doordash.com/en-us/news/multiple-grocery-partners": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T19:07:55Z",
+    "link": "https://about.doordash.com/en-us/news/multiple-grocery-partners",
+    "page": 1,
+    "summary": "DoorDash, the local commerce platform, today announced multiple new grocery partners, continuing its swift acceleration in the category. From the largest ...",
+    "title": "DoorDash Broadens Grocery Selection with Multiple New ..."
    },
    "about.doordash.com/en-us/news/national-pizza-month-2026": {
     "baseline": false,
