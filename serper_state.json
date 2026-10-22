@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13727,
+  "credits_used": 13779,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T00:26:09Z",
+  "last_run": "2026-10-22T01:39:19Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 281
+  "runs": 282
  },
  "feeds": {
   "adp-help": {},
@@ -636,6 +636,15 @@
     "page": 1,
     "summary": "CNN moved to shut down an unusual defamation case over its reporting on the Iran war, saying Azerbaijan is trying to export its own censorship policies. CNN ...",
     "title": "CNN Blasts Azerbaijan's 'Dangerous' Lawsuit Over Iran ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/coinbase-crypto-lobbies-cut-spending-in-q3-after-bill-fails": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T01:39:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/coinbase-crypto-lobbies-cut-spending-in-q3-after-bill-fails",
+    "page": 2,
+    "summary": "Coinbase and some of the largest crypto groups spent more than $4 million on federal lobbying in the third quarter, marking the sixth consecutive quarter they' ...",
+    "title": "Coinbase, Crypto Lobbies Cut Spending in Q3 After Bill Fails"
    },
    "news.bloomberglaw.com/business-and-practice/colorado-battleground-race-shaped-by-immigration-latino-voters": {
     "baseline": false,
@@ -1397,6 +1406,15 @@
     "summary": "Google LLC received final approval from a federal court for its $68 million settlement of a lawsuit alleging its Google Assistant technology captured users' ...",
     "title": "Google Ends $68 Million Privacy Suit Over Assistant ..."
    },
+   "news.bloomberglaw.com/business-and-practice/google-is-unlikely-to-axe-ex-npr-hosts-ai-voice-use-lawsuit": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T01:39:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/google-is-unlikely-to-axe-ex-npr-hosts-ai-voice-use-lawsuit",
+    "page": 4,
+    "summary": "All four of David Greene's claims that Google used his voice without permission in an artificial intelligence tool were overruled in the court's tentative ...",
+    "title": "Google Is Unlikely to Axe Ex-NPR Host's AI Voice Use ..."
+   },
    "news.bloomberglaw.com/business-and-practice/grants-dispute-opinion-highlights-supreme-courts-loose-ends": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -1692,6 +1710,15 @@
     "page": 3,
     "summary": "Sen. Jim Justice (R-W.Va.) is liable to Lexon Insurance Co. for more than $25 million to cover a surety bond issued to coal companies the senator and his ...",
     "title": "Jim Justice Owes Insurer $25 Million in Coal Surety Bond ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/judge-keeps-block-on-border-wall-teeing-up-supreme-court-row": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-10-22T01:39:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/judge-keeps-block-on-border-wall-teeing-up-supreme-court-row",
+    "page": 3,
+    "summary": "A Texas judge on Tuesday affirmed her decision preventing US-Mexico border wall construction through Big Bend National Park, prompting the Justice ...",
+    "title": "Trump Asks High Court to Lift Block on Big Bend Border ..."
    },
    "news.bloomberglaw.com/business-and-practice/judge-nixes-dougherty-electrics-surviving-post-fraud-refund-bid": {
     "baseline": false,
@@ -5654,6 +5681,15 @@
     "summary": "Erfahren Sie, wie SAP Unternehmen auf dem Weg zu KI-gesteuerten, autonomen L\u00f6sungen unterst\u00fctzt und beeindruckende Ergebnisse zeigt.",
     "title": "SAP zeigt Erfolgsgeschichten autonomer Unternehmen"
    },
+   "news.sap.com/germany/2026/10/sap-veroeffentlicht-ergebnisse-fuer-q3-2026?amp=1": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-22T01:39:19Z",
+    "link": "https://news.sap.com/germany/2026/10/sap-veroeffentlicht-ergebnisse-fuer-q3-2026/?amp=1",
+    "page": 2,
+    "summary": "Erl\u00f6se f\u00fcr Cloud ERP Suite steigen um 29 % bzw. w\u00e4hrungsbereinigt um 28 %. Umsatzerl\u00f6se erh\u00f6hen sich um 13 % bzw. w\u00e4hrungsbereinigt um 12 %. Betriebsergebnis ...",
+    "title": "SAP ver\u00f6ffentlicht Ergebnisse f\u00fcr Q3 2026"
+   },
    "news.sap.com/germany/2026/10/schatten-ki-krankenhaus": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -8108,6 +8144,15 @@
     "page": 1,
     "summary": "Learn how to manage payouts for your platform's connected accounts. help with your payout settings and status. manages their external payout accounts (bank ...",
     "title": "Manage connected account payouts"
+   },
+   "docs.stripe.com/connect/platform-tax-reporting/dashboard": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-22T01:39:19Z",
+    "link": "https://docs.stripe.com/connect/platform-tax-reporting/dashboard",
+    "page": 1,
+    "summary": "View and filter sellers in the Stripe Dashboard and understand tax form filing and identity verification statuses.",
+    "title": "Platform tax reporting dashboard (non-US)"
    },
    "docs.stripe.com/data/write-queries": {
     "baseline": true,
