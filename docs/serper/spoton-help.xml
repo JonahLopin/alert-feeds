@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-10-21T19:08:30Z</updated>
+  <updated>2026-10-22T08:55:37Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2664890372</id>
+    <title>Change Item Price in an Order</title>
+    <link href="https://help.spoton.com/space/SK/2664890372" />
+    <published>2026-10-22T08:55:37Z</published>
+    <updated>2026-10-22T08:55:37Z</updated>
+    <summary>Overview. This feature allows you to change the price of a menu item on an open order. The price adjustment applies only to the current check and does not ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/5670830482</id>
     <title>SpotOn Deposit Reconciliation | SpotOn Express</title>
