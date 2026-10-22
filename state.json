@@ -1276,6 +1276,12 @@
    "summary": "Massachusetts' requirement that people be 21 years old to get a license to carry a handgun is consistent with the nation's historical tradition of ...",
    "title": "Split Massachusetts High Court Upholds Handgun-Permit Age Limit - Bloomberg Law News"
   },
+  "tag:google.com,2013:googlealerts/feed:6773470081505229724": {
+   "first_seen": "2026-10-22T10:47:14Z",
+   "link": "https://news.bloomberglaw.com/business-and-practice/jan-6-rioters-pardoned-for-assaulting-cops-want-taxpayer-money",
+   "summary": "Police guarding the US Capitol against riots on Jan. 6, 2021, as Congress certified the 2020 election results, were punched, shoved, dragged down ...",
+   "title": "Jan. 6 Rioters Pardoned for Assaulting Cops Want Taxpayer Money - Bloomberg Law News"
+  },
   "tag:google.com,2013:googlealerts/feed:6794797088467202614": {
    "first_seen": "2026-10-19T14:50:05Z",
    "link": "https://news.bloomberglaw.com/business-and-practice/merck-kgaa-to-buy-silence-therapeutics-for-1-1-billion",
@@ -2448,6 +2454,12 @@
    "summary": "Attributes \u00b7 idstring. Unique identifier for the object. \u00b7 objectstring. String representing the object's type. \u00b7 actionableboolean. An EFW is actionable ...",
    "title": "The Early Fraud Warning object | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:14608277971951863919": {
+   "first_seen": "2026-10-22T10:47:14Z",
+   "link": "https://docs.stripe.com/agentic-commerce/protocols/ucp/stripe-payments-handler",
+   "summary": "How it works. The following card flow shows a checkout served by the seller. The agent sends a shared payment token (SPT) in the Complete Checkout ...",
+   "title": "Stripe Payments handler for UCP"
+  },
   "tag:google.com,2013:googlealerts/feed:14608542408383698896": {
    "first_seen": "2026-10-19T22:44:10Z",
    "link": "https://docs.stripe.com/agentic-commerce/agents/webmcp",
@@ -2489,6 +2501,18 @@
    "link": "https://docs.stripe.com/workload-identity-federation",
    "summary": "Learn how Workload Identity Federation differs from bearer-token API key authentication, and how to set up a trusted workload identity provider ...",
    "title": "Workload Identity Federation | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:1542134788171224504": {
+   "first_seen": "2026-10-22T10:47:14Z",
+   "link": "https://docs.stripe.com/api/tax_reporting/forms/retrieve",
+   "summary": "Retrieves the details of a tax form that has previously been created. Supply the unique tax form ID that was returned from your previous request, and ...",
+   "title": "Retrieve a tax form | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:15469719450204992676": {
+   "first_seen": "2026-10-22T10:47:14Z",
+   "link": "https://docs.stripe.com/api/tax_reporting/forms/pdf",
+   "summary": "Download the PDF for a tax form. Parameters. No parameters. Returns. The PDF file for the tax form.",
+   "title": "Download tax form PDF | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:16429654010882360719": {
    "first_seen": "2026-10-15T10:47:01Z",
@@ -2562,6 +2586,12 @@
    "summary": "Setting up \u00b7 The Elements object \u00b7 The Element \u00b7 Embedded Checkout \u00b7 Checkout \u00b7 React Stripe.js \u00b7 Payment Intents \u00b7 Setup Intents.",
    "title": "Using the embedded form provider - Stripe JS Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:2967307062386745037": {
+   "first_seen": "2026-10-22T10:47:14Z",
+   "link": "https://docs.stripe.com/api/tax_reporting/forms/list",
+   "summary": "Specifies the payee type. Possible enum values. account. A Stripe connected account. external_reference. A payee not associated ...",
+   "title": "List all tax forms | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:3030721683110167856": {
    "first_seen": "2026-10-17T22:43:04Z",
    "link": "https://docs.stripe.com/api/cards?api-version=2026-09-30.preview",
@@ -2604,11 +2634,23 @@
    "summary": "This method creates an instance of an embedded form. Call initCheckoutFormSdk first to obtain the checkoutFormSdk object. Method parameters. options ...",
    "title": "Embedded form methods - Stripe JS Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:4204707729561775986": {
+   "first_seen": "2026-10-22T10:47:14Z",
+   "link": "https://docs.stripe.com/radar/customer-risk",
+   "summary": "Radar assigns a fraud and abuse risk level to a Stripe Customer object. The assessment considers fraudulent and abusive activity throughout the ...",
+   "title": "Customer risk - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:4216220952474935809": {
    "first_seen": "2026-10-15T10:47:01Z",
    "link": "https://docs.stripe.com/agentic-commerce/concepts/catalog-feed/sftp-catalog-ingestion",
    "summary": "How Stripe delivers data \u00b7 Stripe overwrites the contents of catalog and updates each cycle. The SFTP directory always reflects the latest batch.",
    "title": "SFTP catalog ingestion - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:4365805185404618254": {
+   "first_seen": "2026-10-22T10:47:14Z",
+   "link": "https://docs.stripe.com/api/tax_reporting/forms/object",
+   "summary": "NZ-MRDP statements are used to report payment transactions for New Zealand sellers. us_1099_k. 1099-K forms are typically used to report payment ...",
+   "title": "The Tax form object | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:5075244174158080457": {
    "first_seen": "2026-10-09T11:10:19Z",

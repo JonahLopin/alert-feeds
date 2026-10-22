@@ -2,8 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-21T23:09:53Z</updated>
+  <updated>2026-10-22T10:47:14Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:4365805185404618254</id>
+    <title>The Tax form object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/tax_reporting/forms/object" />
+    <published>2026-10-22T10:47:14Z</published>
+    <updated>2026-10-22T10:47:14Z</updated>
+    <summary>NZ-MRDP statements are used to report payment transactions for New Zealand sellers. us_1099_k. 1099-K forms are typically used to report payment ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:4204707729561775986</id>
+    <title>Customer risk - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/radar/customer-risk" />
+    <published>2026-10-22T10:47:14Z</published>
+    <updated>2026-10-22T10:47:14Z</updated>
+    <summary>Radar assigns a fraud and abuse risk level to a Stripe Customer object. The assessment considers fraudulent and abusive activity throughout the ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:2967307062386745037</id>
+    <title>List all tax forms | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/tax_reporting/forms/list" />
+    <published>2026-10-22T10:47:14Z</published>
+    <updated>2026-10-22T10:47:14Z</updated>
+    <summary>Specifies the payee type. Possible enum values. account. A Stripe connected account. external_reference. A payee not associated ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:15469719450204992676</id>
+    <title>Download tax form PDF | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/tax_reporting/forms/pdf" />
+    <published>2026-10-22T10:47:14Z</published>
+    <updated>2026-10-22T10:47:14Z</updated>
+    <summary>Download the PDF for a tax form. Parameters. No parameters. Returns. The PDF file for the tax form.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:1542134788171224504</id>
+    <title>Retrieve a tax form | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/tax_reporting/forms/retrieve" />
+    <published>2026-10-22T10:47:14Z</published>
+    <updated>2026-10-22T10:47:14Z</updated>
+    <summary>Retrieves the details of a tax form that has previously been created. Supply the unique tax form ID that was returned from your previous request, and ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14608277971951863919</id>
+    <title>Stripe Payments handler for UCP</title>
+    <link href="https://docs.stripe.com/agentic-commerce/protocols/ucp/stripe-payments-handler" />
+    <published>2026-10-22T10:47:14Z</published>
+    <updated>2026-10-22T10:47:14Z</updated>
+    <summary>How it works. The following card flow shows a checkout served by the seller. The agent sends a shared payment token (SPT) in the Complete Checkout ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8445983965687604615</id>
     <title>Manage connected account payouts - Stripe Documentation</title>
