@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 14442,
+  "credits_used": 14492,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T15:11:02Z",
+  "last_run": "2026-10-22T16:11:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 295
+  "runs": 296
  },
  "feeds": {
   "adp-help": {},
@@ -175,6 +175,15 @@
     "page": 1,
     "summary": "The NER Pulse is an estimate of the week-over-week change in employment based on a four-week moving average. These estimates are based on ADP's finely tuned ...",
     "title": "Oct 20, 2026"
+   },
+   "mediacenter.adp.com/adp-launches-new-ai-powered-tools-to-accelerate-intelligent-workforce-automation": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T16:11:43Z",
+    "link": "https://mediacenter.adp.com/adp-launches-new-ai-powered-tools-to-accelerate-intelligent-workforce-automation",
+    "page": 1,
+    "summary": "API Central simplifies how organizations connect workforce data, applications and artificial intelligence solutions by providing access to APIs, MCP servers, AI ...",
+    "title": "ADP Launches New AI-powered Tools to Accelerate ..."
    },
    "mediacenter.adp.com/thinking-of-ai-as-a-teammate": {
     "baseline": false,
@@ -1550,6 +1559,15 @@
     "summary": "The US Supreme Court declined to examine judicial authority to decide the validity of an arbitration agreement between a signatory and a non-signatory, ...",
     "title": "High Court Skips Case on Non-Signatories Compelling ..."
    },
+   "news.bloomberglaw.com/business-and-practice/hodgson-russ-adds-daniel-johnson-as-state-and-local-tax-partner": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T16:11:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/hodgson-russ-adds-daniel-johnson-as-state-and-local-tax-partner",
+    "page": 2,
+    "summary": "Daniel B. Johnson joined Hodgson Russ as a partner in its state and local tax practice in Sacramento, Calif., the firm announced Wednesday.",
+    "title": "Hodgson Russ Adds Daniel Johnson as State and Local ..."
+   },
    "news.bloomberglaw.com/business-and-practice/hogan-lovells-brings-on-thalhammer-as-new-york-banking-partner": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1926,6 +1944,15 @@
     "page": 2,
     "summary": "Kyverna Therapeutics Inc. and architects of its 2024 market debut must contend with investor allegations they omitted clinical trial data about a ...",
     "title": "Kyverna Therapeutics Investor Advances Kidney Drug ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/land-bureau-scraps-environmental-review-of-solar-wind-corridors": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T16:11:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/land-bureau-scraps-environmental-review-of-solar-wind-corridors",
+    "page": 1,
+    "summary": "The Trump administration is canceling an environmental review of energy corridors that would accommodate solar and wind power transmission lines on public ...",
+    "title": "Land Bureau Scraps Environmental Review of Solar, Wind ..."
    },
    "news.bloomberglaw.com/business-and-practice/law-firms-must-quash-perfectionism-not-treat-its-toxic-symptoms": {
     "baseline": false,
@@ -3810,6 +3837,15 @@
   "grubhub-help": {},
   "grubhub-press": {},
   "gusto-press": {
+   "gusto.com/company-news/fall-showcase-2026": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-22T16:11:43Z",
+    "link": "https://gusto.com/company-news/fall-showcase-2026",
+    "page": 1,
+    "summary": "Gusto helps more than half a million small businesses pay their teams, stay compliant, and offer benefits.",
+    "title": "Helping Small Business Owners Start, Run, and Grow"
+   },
    "gusto.com/company-news/introducing-the-new-gusto-pro": {
     "baseline": true,
     "date_hint": "2 days ago",
@@ -7603,6 +7639,15 @@
     "page": 1,
     "summary": "Relationship codes are used in electronic reporting (NAUPA format) to tell states how owners are linked on an account when the report pertains to unclaimed ...",
     "title": "Understanding Relationship Codes for Unclaimed Property - Sovos"
+   },
+   "sovos.com/blog/vat/global-tax-compliance-q3-2026-regulatory-updates": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-22T16:11:43Z",
+    "link": "https://sovos.com/blog/vat/global-tax-compliance-q3-2026-regulatory-updates/",
+    "page": 1,
+    "summary": "Explore Q3 2026 global tax compliance updates, from e-invoicing mandates to tax reform, reporting deadlines and emerging regulations.",
+    "title": "Global Tax Compliance: Q3 2026 Regulatory Updates - Sovos"
    }
   },
   "sovos-help": {
@@ -8844,6 +8889,15 @@
     "page": 1,
     "summary": "Filing on time doesn't mean the season went well. See 5 corporate tax compliance challenges it exposed, backed by new Thomson Reuters data.",
     "title": "5 corporate tax compliance challenges after a rough season"
+   },
+   "tax.thomsonreuters.com/blog/6-signs-your-real-time-compliance-architecture-may-not-scale-and-what-good-looks-like": {
+    "baseline": false,
+    "date_hint": "19 hours ago",
+    "first_seen": "2026-10-22T16:11:43Z",
+    "link": "https://tax.thomsonreuters.com/blog/6-signs-your-real-time-compliance-architecture-may-not-scale-and-what-good-looks-like/",
+    "page": 2,
+    "summary": "Assess your real-time compliance architecture with six warning signs\u2014and discover how connected systems can help your team adapt.",
+    "title": "6 signs your real-time compliance architecture may not scale"
    },
    "tax.thomsonreuters.com/blog/ai-glossary-for-audit-professionals-ai-terms-every-auditor-should-know": {
     "baseline": false,

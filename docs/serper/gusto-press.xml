@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:gusto-press</id>
   <title>Gusto press (site:gusto.com/company-news/) via Serper</title>
-  <updated>2026-10-21T23:08:40Z</updated>
+  <updated>2026-10-22T16:11:43Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/gusto-press.xml" />
+  <entry>
+    <id>https://gusto.com/company-news/fall-showcase-2026</id>
+    <title>Helping Small Business Owners Start, Run, and Grow</title>
+    <link href="https://gusto.com/company-news/fall-showcase-2026" />
+    <published>2026-10-22T16:11:43Z</published>
+    <updated>2026-10-22T16:11:43Z</updated>
+    <summary>Gusto helps more than half a million small businesses pay their teams, stay compliant, and offer benefits.</summary>
+  </entry>
   <entry>
     <id>https://gusto.com/company-news/start-your-business</id>
     <title>Gusto Launches Business Formation and Banking ...</title>
