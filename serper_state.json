@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 13935,
+  "credits_used": 13987,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T04:49:11Z",
+  "last_run": "2026-10-22T05:47:48Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 285
+  "runs": 286
  },
  "feeds": {
   "adp-help": {},
@@ -2078,6 +2078,15 @@
     "page": 1,
     "summary": "Meta Platforms Inc . was hit with a new privacy lawsuit alleging the company recorded a California man's private conversations via its AI-enabled smart glasses",
     "title": "Meta Glasses Accused of Secretly Recording Private ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/metas-25-billion-penalty-is-massive-win-for-ag-in-small-state": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-22T05:47:48Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/metas-25-billion-penalty-is-massive-win-for-ag-in-small-state",
+    "page": 4,
+    "summary": "With one landmark courtroom victory this week against Meta Platforms Inc., New Mexico Attorney General Ra\u00fal Torrez is poised to bring in almost double the ...",
+    "title": "Meta's $25 Billion Penalty Is Massive Win for AG in Small ..."
    },
    "news.bloomberglaw.com/business-and-practice/milbank-hires-white-cases-doe-for-project-finance-in-chicago": {
     "baseline": false,
