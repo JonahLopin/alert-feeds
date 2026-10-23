@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 14886,
+  "credits_used": 14938,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T00:27:19Z",
+  "last_run": "2026-10-23T01:41:09Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 304
+  "runs": 305
  },
  "feeds": {
   "adp-help": {
@@ -1758,6 +1758,15 @@
     "summary": "Coca-Cola Co. took a $5 billion swing at the coffee market and whiffed. The acquisition of Costa Coffee, often referred to as the \u201cStarbucks of the UK,\u201d was ...",
     "title": "How Coca-Cola Got Burned With a $5 Billion Bet on Costa ..."
    },
+   "news.bloomberglaw.com/business-and-practice/how-skadden-gibson-dunn-helped-mark-zuckerberg-keep-his-house": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-23T01:41:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/how-skadden-gibson-dunn-helped-mark-zuckerberg-keep-his-house",
+    "page": 3,
+    "summary": "The massive corporate firm had minimal ties to the parties: Skadden took in $4 million in legal fees from a 2025 deal with the Chan Zuckerberg Initiative and ...",
+    "title": "How Skadden, Gibson Dunn Helped Mark Zuckerberg ..."
+   },
    "news.bloomberglaw.com/business-and-practice/humana-members-advance-privacy-suit-over-health-data-disclosures": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1981,6 +1990,15 @@
     "page": 3,
     "summary": "President Donald Trump called the judge, a former Williams & Connolly partner and Joe Biden appointee, a \u201ccrazed lunatic\u201d days after she snapped at government .",
     "title": "Judge Targeted in Trump Golf Course Case Known for 'No ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/judges-ponder-jurisdiction-in-migrant-child-legal-aid-funds-case": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-23T01:41:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/judges-ponder-jurisdiction-in-migrant-child-legal-aid-funds-case",
+    "page": 4,
+    "summary": "A federal appeals court heard oral arguments in a dispute over Department of Health and Human Services funding for legal aid for migrant children. Photographer: ...",
+    "title": "Judges Ponder Jurisdiction in Migrant Child Legal Aid ..."
    },
    "news.bloomberglaw.com/business-and-practice/jump-drw-bet-on-new-compute-market-as-ai-boom-faces-scrutiny": {
     "baseline": false,
@@ -3373,6 +3391,15 @@
     "page": 3,
     "summary": "President Donald Trump 's administration asked the US Supreme Court to let border-wall construction resume in Big Bend National Park in west Texas, ...",
     "title": "Trump's DHS Asks Supreme Court to Allow Border Wall in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trumps-former-top-air-regulator-aaron-szabo-lands-at-pillsbury": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-23T01:41:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trumps-former-top-air-regulator-aaron-szabo-lands-at-pillsbury",
+    "page": 3,
+    "summary": "A Trump political appointee who served as the US government's top air regulator has joined Pillsbury Winthrop Shaw Pittman as a partner in Washington, DC.",
+    "title": "Trump's Former Top Air Regulator Aaron Szabo Lands at ..."
    },
    "news.bloomberglaw.com/business-and-practice/trumps-medicare-ai-push-raises-patient-data-privacy-concerns": {
     "baseline": false,
@@ -6501,6 +6528,24 @@
     "summary": "SAP NEXT 100\uc740 \uc131\uc7a5 \uc9c4\ub2e8\ubd80\ud130 \uc2dc\uc2a4\ud15c \ub3c4\uc785\uae4c\uc9c0 \uc774\uc5b4\uc9c0\ub294 \ub2e8\uacc4\ubcc4 \uc9c0\uc6d0 \ud504\ub85c\uadf8\ub7a8\uc73c\ub85c \ud558\ub098\uc740\ud589, \ube44\uc790 \ucf54\ub9ac\uc544, PwC \ucf54\ub9ac\uc544, ASPN, \ube14\ub8e8\uc5b4\ub4dc \ub4f1 5\uac1c \ud30c\ud2b8\ub108\uc0ac\uc758 \uc804\ubb38 \uc5ed\ub7c9\uc744 ...",
     "title": "\ud30c\ud2b8\ub108 5\uacf3\uacfc \uc911\uc18c\u00b7\uc911\uacac \uc131\uc7a5\uae30\uc5c5 \uc9c0\uc6d0 'SAP NEXT 100' \ubcf8\uaca9\ud654"
    },
+   "news.sap.com/korea/2026/10/%ED%8C%8C%ED%8A%B8%EB%84%88-5%EA%B3%B3%EA%B3%BC-%EC%A4%91%EC%86%8C%C2%B7%EC%A4%91%EA%B2%AC-%EC%84%B1%EC%9E%A5%EA%B8%B0%EC%97%85-%EC%A7%80%EC%9B%90-sap-next-100-%EB%B3%B8%EA%B2%A9/sap-next-100-first-round-2026": {
+    "baseline": false,
+    "date_hint": "13 hours ago",
+    "first_seen": "2026-10-23T01:41:09Z",
+    "link": "https://news.sap.com/korea/2026/10/%ED%8C%8C%ED%8A%B8%EB%84%88-5%EA%B3%B3%EA%B3%BC-%EC%A4%91%EC%86%8C%C2%B7%EC%A4%91%EA%B2%AC-%EC%84%B1%EC%9E%A5%EA%B8%B0%EC%97%85-%EC%A7%80%EC%9B%90-sap-next-100-%EB%B3%B8%EA%B2%A9/sap-next-100-first-round-2026/",
+    "page": 1,
+    "summary": "sap-next-100-first-round-2026. SAP. \ub300\ud55c\ubbfc\uad6d 080-219-2400. \uc9c0\uc5ed\ubcc4 \uad6d\uac00 \ubc88\ud638 \uc804\uccb4 \ubaa9\ub85d \ubcf4\uae30 \u00b7 SAP\uc5d0 \ubb38\uc758. \ube60\ub978 \uc5f0\uacb0 \ub9c1\ud06c \ube60\ub978 \uc5f0\uacb0 \ub9c1\ud06c.",
+    "title": "sap-next-100-first-round-2026 - SAP Korea \ub274\uc2a4\uc13c\ud130"
+   },
+   "news.sap.com/korea/2026/10/%ED%8C%8C%ED%8A%B8%EB%84%88-5%EA%B3%B3%EA%B3%BC-%EC%A4%91%EC%86%8C%C2%B7%EC%A4%91%EA%B2%AC-%EC%84%B1%EC%9E%A5%EA%B8%B0%EC%97%85-%EC%A7%80%EC%9B%90-sap-next-100-%EB%B3%B8%EA%B2%A9/sap-next-100-five-partners": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-10-23T01:41:09Z",
+    "link": "https://news.sap.com/korea/2026/10/%ED%8C%8C%ED%8A%B8%EB%84%88-5%EA%B3%B3%EA%B3%BC-%EC%A4%91%EC%86%8C%C2%B7%EC%A4%91%EA%B2%AC-%EC%84%B1%EC%9E%A5%EA%B8%B0%EC%97%85-%EC%A7%80%EC%9B%90-sap-next-100-%EB%B3%B8%EA%B2%A9/sap-next-100-five-partners/",
+    "page": 1,
+    "summary": "SAP\uc758 \ubaa8\ub4e0 \uc601\uc5ed \uc0b4\ud3b4\ubcf4\uae30. \ud559\uc2b5 \ubc0f \uc9c0\uc6d0. \ud559\uc2b5 \ubc0f \uc778\uc99d \u00b7 \uc9c0\uc6d0 \u00b7 \ubb38\uc11c \u00b7 \ucee4\ubba4\ub2c8\ud2f0. \uc815\ubcf4. \ud68c\uc0ac \uc815\ubcf4 \u00b7 \ucee4\ub9ac\uc5b4 \u00b7 \uace0\uac1d \uc0ac\ub840 \u00b7 \uc724\ub9ac \ubc0f \uaddc\uc81c\uc900\uc218 \u00b7 \uc774\ubca4\ud2b8 ...",
+    "title": "sap-next-100-five-partners - SAP Korea \ub274\uc2a4\uc13c\ud130"
+   },
    "news.sap.com/korea/2026/10/%ED%8C%8C%ED%8A%B8%EB%84%88-5%EA%B3%B3%EA%B3%BC-%EC%A4%91%EC%86%8C%C2%B7%EC%A4%91%EA%B2%AC-%EC%84%B1%EC%9E%A5%EA%B8%B0%EC%97%85-%EC%A7%80%EC%9B%90-sap-next-100-%EB%B3%B8%EA%B2%A9?amp=1": {
     "baseline": false,
     "date_hint": "6 hours ago",
@@ -6823,6 +6868,24 @@
     "page": 1,
     "summary": "In-person event | October 27-29. Messe Berlin Berlin, Germany. Aerial View of the TV tower, Berlin town hall and Cathedral at dusk ...",
     "title": "SAP TechEd: 2026 Media & Analyst Program"
+   },
+   "news.sap.com/sea/2026/10/sap-showcases-q3-customers-as-organizations-across-asia-pacific-embrace-the-autonomous-enterprise": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-23T01:41:09Z",
+    "link": "https://news.sap.com/sea/2026/10/sap-showcases-q3-customers-as-organizations-across-asia-pacific-embrace-the-autonomous-enterprise/",
+    "page": 1,
+    "summary": "SAP today showcased new customers in Asia Pacific that showcase how organizations across the region are beginning to build truly Autonomous Enterprises.",
+    "title": "SAP showcases Q3 customers as organizations across ..."
+   },
+   "news.sap.com/sea/2026/10/sap-showcases-q3-customers-as-organizations-across-asia-pacific-embrace-the-autonomous-enterprise?amp=1": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-23T01:41:09Z",
+    "link": "https://news.sap.com/sea/2026/10/sap-showcases-q3-customers-as-organizations-across-asia-pacific-embrace-the-autonomous-enterprise/?amp=1",
+    "page": 1,
+    "summary": "SAP today showcased new customers in Asia Pacific that showcase how organizations across the region are beginning to build truly Autonomous Enterprises.",
+    "title": "SAP showcases Q3 customers as organizations across ..."
    },
    "news.sap.com/sea/2026/10/supply-through-disruption-as-normal": {
     "baseline": false,
@@ -7428,6 +7491,15 @@
     "summary": "AI marketing uses artificial intelligence tools to plan, create, and run marketing across channels. The goal is to get more out of the time and budget you ...",
     "title": "AI Marketing: How To Use AI Tools for Marketing (2026)"
    },
+   "shopify.com/blog/alabama-business-license": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-23T01:41:09Z",
+    "link": "https://www.shopify.com/blog/alabama-business-license",
+    "page": 3,
+    "summary": "Apply for an Alabama business license with step-by-step guidance on state and local requirements, privilege licenses, sales tax, and costs.",
+    "title": "How to Get an Alabama Business License (2026)"
+   },
    "shopify.com/blog/appointment-booking-app": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -7863,6 +7935,15 @@
     "page": 1,
     "summary": "A premium brand strategy is a plan for positioning a company as the superior, more expensive choice in its category.",
     "title": "How To Build a Premium Brand Strategy (2026)"
+   },
+   "shopify.com/blog/primary-stakeholders": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-10-23T01:41:09Z",
+    "link": "https://www.shopify.com/blog/primary-stakeholders",
+    "page": 1,
+    "summary": "Primary stakeholders are key players whose work impacts the success of the business and who, in turn, are impacted by your business's successes and failures ...",
+    "title": "What Are Primary Stakeholders? Types of ..."
    },
    "shopify.com/blog/product-availability": {
     "baseline": false,
@@ -10166,6 +10247,15 @@
     "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-expands-professional-services-for-teammate-expert-solutions-with-protiviti-in-europe",
     "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting;",
     "title": "Wolters Kluwer expands professional services for ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-experts-forecast-deeper-healthcare-ai-penetration-in-2026": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-23T01:41:09Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-experts-forecast-deeper-healthcare-ai-penetration-in-2026",
+    "page": 1,
+    "summary": "To highlight what obstacles and opportunities in healthcare technology lie ahead in 2026, leading experts from Wolters Kluwer Health share their outlook on an ...",
+    "title": "Wolters Kluwer experts forecast deeper healthcare AI ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-future-ready-healthcare-survey-report": {
     "baseline": false,
