@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 15350,
+  "credits_used": 15402,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T09:48:34Z",
+  "last_run": "2026-10-23T10:46:04Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 313
+  "runs": 314
  },
  "feeds": {
   "adp-help": {
@@ -493,6 +493,15 @@
     "page": 1,
     "summary": "Marissa Perlmutter joined Barnes & Thornburg as a partner in Washington, DC, the firm announced Wednesday.",
     "title": "Barnes & Thornburg Recruits Public Finance Partner in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/bgov-onpoint-trump-court-prospects-hinge-on-tight-senate-races": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-23T10:46:04Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/bgov-onpoint-trump-court-prospects-hinge-on-tight-senate-races",
+    "page": 3,
+    "summary": "Control of the Senate is up for grabs, and a Democratic majority starting in January could hamper President Donald Trump's ability to fill any US Supreme ...",
+    "title": "Trump Court Prospects Hinge on Tight Senate Races"
    },
    "news.bloomberglaw.com/business-and-practice/big-law-class-of-2011-survivors-offer-lessons-for-the-ai-era": {
     "baseline": false,
@@ -1031,6 +1040,15 @@
     "page": 1,
     "summary": "The Trump administration was on track to complete about 660,000 deportations last fiscal year, far lower than the goal of 1 million, according to a ...",
     "title": "Deportations Lag Behind Aggressive Trump Targets, ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/devon-energy-draws-m-a-speculation-as-activist-pressure-builds": {
+    "baseline": false,
+    "date_hint": "13 hours ago",
+    "first_seen": "2026-10-23T10:46:04Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/devon-energy-draws-m-a-speculation-as-activist-pressure-builds",
+    "page": 4,
+    "summary": "Just five months after buying Coterra Energy Inc. to create one of the world's biggest shale producers, Devon Energy Corp. is under pressure from activist ...",
+    "title": "Devon Draws M&A Speculation as Activist Pressure Grows ..."
    },
    "news.bloomberglaw.com/business-and-practice/dhs-bans-deepseek-but-replacing-model-wont-erase-its-history": {
     "baseline": false,
@@ -1767,6 +1785,15 @@
     "summary": "Coca-Cola Co. took a $5 billion swing at the coffee market and whiffed. The acquisition of Costa Coffee, often referred to as the \u201cStarbucks of the UK,\u201d was ...",
     "title": "How Coca-Cola Got Burned With a $5 Billion Bet on Costa ..."
    },
+   "news.bloomberglaw.com/business-and-practice/how-prediction-markets-upstaged-election-polls-explainer": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-23T10:46:04Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/how-prediction-markets-upstaged-election-polls-explainer",
+    "page": 1,
+    "summary": "Voters, donors and media increasingly use the betting platforms Kalshi and Polymarket to forecast election outcomes. Critics warn of new risks to democracy.",
+    "title": "How Prediction Markets Upstaged Election Polls: Explainer"
+   },
    "news.bloomberglaw.com/business-and-practice/how-skadden-gibson-dunn-helped-mark-zuckerberg-keep-his-house": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -2313,6 +2340,15 @@
     "page": 3,
     "summary": "Cross-border payments are currently the clearest use case for stablecoins and are where Mastercard Inc. is seeing the most traction for the new form of ...",
     "title": "Mastercard CEO Sees Cross-Border Payments as Top ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/mastercard-us-bank-state-tax-losses-put-finance-firms-on-notice": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-23T10:46:04Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/mastercard-us-bank-state-tax-losses-put-finance-firms-on-notice",
+    "page": 5,
+    "summary": "South Carolina appellate rulings upholding tax assessments against Mastercard International Inc. and US Bank NA highlight a nationwide shift toward states ...",
+    "title": "Mastercard, US Bank State Tax Losses Put Finance Firms ..."
    },
    "news.bloomberglaw.com/business-and-practice/matt-levines-money-stuff-pre-ipo-perpetual-futures-swap-etf": {
     "baseline": false,
@@ -8036,6 +8072,15 @@
     "page": 1,
     "summary": "Mobile commerce is the buying and selling of goods and services on phones or tablets. Also known as mobile ecommerce or m-commerce, it covers marketplace apps,",
     "title": "What is Mobile Commerce? Types and Examples (2026)"
+   },
+   "shopify.com/blog/mobile-payment": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-23T10:46:04Z",
+    "link": "https://www.shopify.com/blog/mobile-payment",
+    "page": 2,
+    "summary": "Mobile payments can be used to purchase goods and services in person or online. In person, a customer can pay with a mobile wallet app or mobile payment service ...",
+    "title": "Mobile Payments: How to Accept Them (2026)"
    },
    "shopify.com/blog/monetize-facebook-page": {
     "baseline": false,

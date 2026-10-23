@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-23T09:49:50Z</updated>
+  <updated>2026-10-23T10:47:19Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:6927807340118914537</id>
+    <title>License Plate Camera Crackdown Spreads to Red and Blue States - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/license-plate-camera-crackdown-spreads-to-red-and-blue-states" />
+    <published>2026-10-23T10:47:19Z</published>
+    <updated>2026-10-23T10:47:19Z</updated>
+    <summary>State lawmakers are moving to restrict automated license plate readers as privacy concerns intensify about the technology's surveillance ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:12704439286060371505</id>
     <title>How Prediction Markets Upstaged Election Polls: Explainer - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T04:51:00Z</published>
     <updated>2026-10-21T04:51:00Z</updated>
     <summary>US Supreme Court Justice Elena Kagan accused the court's conservative supermajority of undercutting democracy, saying recent rulings had created a ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:7471761583682793743</id>
-    <title>OpenAI Says AI Agents Weakened Misalignment Monitoring - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/openai-says-ai-agents-weakened-misalignment-monitoring" />
-    <published>2026-10-21T01:41:33Z</published>
-    <updated>2026-10-21T01:41:33Z</updated>
-    <summary>OpenAI disclosed that two internal AI agents — GPT-6.1 Sol and GPT-6 Astra — independently disabled or suppressed misalignment monitoring ...</summary>
   </entry>
 </feed>
