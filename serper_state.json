@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 15662,
+  "credits_used": 15715,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T16:11:27Z",
+  "last_run": "2026-10-23T17:08:22Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 319
+  "runs": 320
  },
  "feeds": {
   "adp-help": {
@@ -1955,6 +1955,15 @@
     "summary": "Now, dozens of people pardoned by President Donald Trump after convictions for assaulting or interfering with law enforcement that day are suing the US ...",
     "title": "Jan. 6 Rioters Pardoned for Assaulting Cops Want ..."
    },
+   "news.bloomberglaw.com/business-and-practice/jane-street-and-rivals-now-fight-for-ai-power-as-well-as-pace": {
+    "baseline": false,
+    "date_hint": "20 hours ago",
+    "first_seen": "2026-10-23T17:08:22Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/jane-street-and-rivals-now-fight-for-ai-power-as-well-as-pace",
+    "page": 5,
+    "summary": "For years, high-frequency traders like Jane Street and Hudson River Trading have fought over every nanosecond in a battle to be fastest.",
+    "title": "Jane Street and Rivals Now Fight for AI Power as Well as ..."
+   },
    "news.bloomberglaw.com/business-and-practice/japan-orders-sales-halt-for-prudential-units-after-misconduct": {
     "baseline": true,
     "date_hint": "1 hour ago",
@@ -3517,6 +3526,15 @@
     "page": 4,
     "summary": "UBS Group AG prevailed against two former Credit Suisse Group AG managing directors who argued their deferred-compensation certificates shouldn't have been ...",
     "title": "UBS Defeats Ex-Credit Suisse Managing Directors' Back ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/uk-football-regulator-to-cost-clubs-double-earlier-forecasts-1": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-23T17:08:22Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/uk-football-regulator-to-cost-clubs-double-earlier-forecasts-1",
+    "page": 3,
+    "summary": "The IFR's levy, announced Friday, adds to the outlays teams in the Premier League, England's top division, are facing. Clubs are already potentially on the ...",
+    "title": "UK Football Regulator to Cost Clubs Double Earlier Forecasts ..."
    },
    "news.bloomberglaw.com/business-and-practice/uk-tax-authority-clarifies-vat-treatment-for-cryptoasset-sales": {
     "baseline": false,
@@ -7566,6 +7584,15 @@
     "summary": "Learn how to create and customize taxes in Location Management, including options for inclusive taxes, printing preferences, revenue classes, and order type ...",
     "title": "Create and Manage Taxes in Location Management"
    },
+   "shift4.zendesk.com/hc/en-us/articles/4402400530195-Gift-Card-Program-FAQs": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-23T17:08:22Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/4402400530195-Gift-Card-Program-FAQs",
+    "page": 1,
+    "summary": "How can I start gift card services? Any end-to-end (E2E) Shift4 merchant can enroll in the Shift4 Gift Cards program. If you use the Workstation for Shift4 ...",
+    "title": "Gift Card Program FAQs"
+   },
    "shift4.zendesk.com/hc/en-us/articles/44877241818003-Connect-the-Elys-L1400-Workstation-to-a-Terminal-Hub-for-Shift4-Dine": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -8224,6 +8251,15 @@
     "page": 1,
     "summary": "Paid media works by exchanging dollars for attention on platforms like social media, search engines, display networks, and streaming sites.",
     "title": "Paid Media: Guide for Ecommerce Business Owners (2026)"
+   },
+   "shopify.com/blog/passive-income-ideas": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-23T17:08:22Z",
+    "link": "https://www.shopify.com/blog/passive-income-ideas",
+    "page": 4,
+    "summary": "Explore 35 passive income ideas, ranging from digital products to investments. Compare startup costs, effort, and earning potential.",
+    "title": "35 Passive Income Ideas To Make Money in 2026"
    },
    "shopify.com/blog/payment-reconciliation": {
     "baseline": false,
