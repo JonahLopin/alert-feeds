@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-23T11:46:12Z</updated>
+  <updated>2026-10-23T13:09:31Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/wake-up-call-legora-ceo-says-theres-enough-work-to-go-around</id>
+    <title>Wake Up Call: Legora CEO Says There's Enough Work to ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/wake-up-call-legora-ceo-says-theres-enough-work-to-go-around" />
+    <published>2026-10-23T13:09:31Z</published>
+    <updated>2026-10-23T13:09:31Z</updated>
+    <summary>Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/license-plate-camera-crackdown-spreads-to-red-and-blue-states</id>
     <title>License Plate Camera Crackdown Spreads to Red and ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T10:10:18Z</published>
     <updated>2026-10-21T10:10:18Z</updated>
     <summary>The Trump administration has banned DeepSeek products from federal civilian agency information technology systems. The removal order from the Department of ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/starbucks-china-will-require-purchases-to-sit-in-its-cafes</id>
-    <title>Starbucks China Will Require Purchases to Sit in Its Cafes</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/starbucks-china-will-require-purchases-to-sit-in-its-cafes" />
-    <published>2026-10-21T07:53:11Z</published>
-    <updated>2026-10-21T07:53:11Z</updated>
-    <summary>The new seating policy will take effect nationwide from Oct. 22, with stores displaying notices informing customers of the change, Starbucks China said on ...</summary>
   </entry>
 </feed>

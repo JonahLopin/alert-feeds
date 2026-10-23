@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 15454,
+  "credits_used": 15506,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T11:46:12Z",
+  "last_run": "2026-10-23T13:09:31Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 315
+  "runs": 316
  },
  "feeds": {
   "adp-help": {
@@ -3707,6 +3707,15 @@
     "summary": "Wake Up Call: Foley Hoag to Defend Gov. Moore in Defamation Case \u00b7 The Maryland Board of Public Works approved a $50,000 contract to hire Foley Hoag to defend ...",
     "title": "Foley Hoag to Defend Gov. Moore in Defamation Case"
    },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-legora-ceo-says-theres-enough-work-to-go-around": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-23T13:09:31Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-legora-ceo-says-theres-enough-work-to-go-around",
+    "page": 5,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
+    "title": "Wake Up Call: Legora CEO Says There's Enough Work to ..."
+   },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-maryland-cant-track-fees-paid-to-outside-firms": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -5961,6 +5970,15 @@
     "summary": "S.Public, the new SAP Experience Center location for the public sector, brings these capabilities to life. It officially opened in Berlin on October 12, 2026.",
     "title": "The Next Leap in Public Services Starts Behind the Scenes"
    },
+   "news.sap.com/2026/10/sap-a-leader-in-gartner-magic-quadrant-digital-commerce-platform-12th-time": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-23T13:09:31Z",
+    "link": "https://news.sap.com/2026/10/sap-a-leader-in-gartner-magic-quadrant-digital-commerce-platform-12th-time/",
+    "page": 1,
+    "summary": "SAP Commerce Cloud helps bring AI into customer experiences and commerce workflows while maintaining the business controls required for enterprise transactions.",
+    "title": "SAP a Leader in Magic Quadrant for Digital Commerce ..."
+   },
    "news.sap.com/2026/10/sap-advances-finance-operations-embedded-payments-new-consolidation-capabilities-expanded-ai": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -7511,6 +7529,15 @@
     "page": 2,
     "summary": "Description: Learn how to create and customize discounts in Location Management, including settings for discount amounts, order types,...",
     "title": "Create and Manage Discounts in Location Management"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/43163850213651-Create-and-Manage-Taxes-in-Multi-Location-Management": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-23T13:09:31Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/43163850213651-Create-and-Manage-Taxes-in-Multi-Location-Management",
+    "page": 1,
+    "summary": "Learn how to create and customize taxes in Location Management, including options for inclusive taxes, printing preferences, revenue classes, and order type ...",
+    "title": "Create and Manage Taxes in Location Management"
    },
    "shift4.zendesk.com/hc/en-us/articles/44877241818003-Connect-the-Elys-L1400-Workstation-to-a-Terminal-Hub-for-Shift4-Dine": {
     "baseline": false,

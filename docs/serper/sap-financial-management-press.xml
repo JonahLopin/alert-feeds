@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-23T09:48:34Z</updated>
+  <updated>2026-10-23T13:09:31Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/2026/10/sap-a-leader-in-gartner-magic-quadrant-digital-commerce-platform-12th-time/</id>
+    <title>SAP a Leader in Magic Quadrant for Digital Commerce ...</title>
+    <link href="https://news.sap.com/2026/10/sap-a-leader-in-gartner-magic-quadrant-digital-commerce-platform-12th-time/" />
+    <published>2026-10-23T13:09:31Z</published>
+    <updated>2026-10-23T13:09:31Z</updated>
+    <summary>SAP Commerce Cloud helps bring AI into customer experiences and commerce workflows while maintaining the business controls required for enterprise transactions.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/spain/2026/10/sap-espana-premiada-en-los-digital-skills-awards-2026-de-ametic-por-su-impulso-al-talento-y-el-empleo-digital/</id>
     <title>SAP España, premiada en los Digital Skills Awards 2026 ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-15T01:07:07Z</published>
     <updated>2026-10-15T01:07:07Z</updated>
     <summary>Dalla sua fondazione nel 1975, l'azienda ha realizzato oltre 1.300 linee produttive, installate in 72 Paesi: nel 2025, 1 pannolino baby open su 4 venduto nel ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/topics/sap-connect/</id>
-    <title>SAP Connect Archives</title>
-    <link href="https://news.sap.com/topics/sap-connect/" />
-    <published>2026-10-14T22:43:53Z</published>
-    <updated>2026-10-14T22:43:53Z</updated>
-    <summary>SAP Showcases the Autonomous Enterprise in Action · Feature · Industry AI: Deep Industry Knowledge, Forward-Deployed Engineering, Measurable Value · Feature ...</summary>
   </entry>
 </feed>
