@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 15143,
+  "credits_used": 15196,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T05:31:05Z",
+  "last_run": "2026-10-23T06:48:20Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 309
+  "runs": 310
  },
  "feeds": {
   "adp-help": {
@@ -4735,6 +4735,15 @@
     "page": 2,
     "summary": "If you know the customer's name, enter it here. But you can also leave this blank. Enter when you refunded your customer. Then enter the payment method, which ...",
     "title": "Refund your customer for a paid invoice in QuickBooks Online"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/customize-reports/create-custom-reports-quickbooks-online-advanced/L1LHo5Ti2_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-23T06:48:20Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/customize-reports/create-custom-reports-quickbooks-online-advanced/L1LHo5Ti2_US_en_US",
+    "page": 3,
+    "summary": "Step-by-step: customize your reports with a modern view in QuickBooks Online \u2014 without the usual headaches. Get it done in minutes.",
+    "title": "Customize your reports with a modern view in QuickBooks"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/direct-deposits/set-manage-direct-deposit-contractors/L63N4nBv9_US_en_US": {
     "baseline": false,

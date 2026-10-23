@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-23T03:51:10Z</updated>
+  <updated>2026-10-23T06:49:40Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:6699255767430781845</id>
+    <title>AI Tech Fears Push Global Credit Spreads to 17-Month High (1) - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/ai-tech-fears-push-global-credit-spreads-to-17-month-high-1" />
+    <published>2026-10-23T06:49:40Z</published>
+    <updated>2026-10-23T06:49:40Z</updated>
+    <summary>Metrics across global bond markets are signaling their biggest risk-off sentiment in more than a year, as a selloff in AI stocks and growing ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:7662425759306810398</id>
     <title>Mark Walter Wins Partial Nod to Slash Pile of Scrutinized Loans - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T00:26:51Z</published>
     <updated>2026-10-21T00:26:51Z</updated>
     <summary>Meta Platforms Inc. was hit with a new privacy lawsuit alleging the company recorded a California man's private conversations via its AI-enabled ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:12330901317052494081</id>
-    <title>Flock Safety Increases Lobbying Spend Amid Bipartisan Backlash - Bloomberg Government</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/flock-safety-increases-lobbying-spend-amid-bipartisan-backlash" />
-    <published>2026-10-20T23:10:01Z</published>
-    <updated>2026-10-20T23:10:01Z</updated>
-    <summary>Flock Safety poured $360000 into federal lobbying during the third quarter of the year, as broad privacy concerns over the company's automated ...</summary>
   </entry>
 </feed>
