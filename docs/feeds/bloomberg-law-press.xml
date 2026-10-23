@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-23T08:53:51Z</updated>
+  <updated>2026-10-23T09:49:50Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12704439286060371505</id>
+    <title>How Prediction Markets Upstaged Election Polls: Explainer - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/how-prediction-markets-upstaged-election-polls-explainer" />
+    <published>2026-10-23T09:49:50Z</published>
+    <updated>2026-10-23T09:49:50Z</updated>
+    <summary>Voters, donors and media increasingly use the betting platforms Kalshi and Polymarket to forecast election outcomes. Critics warn of new risks to ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12543333693223808922</id>
+    <title>BGOV OnPoint: Trump Court Prospects Hinge on Tight Senate Races</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/bgov-onpoint-trump-court-prospects-hinge-on-tight-senate-races" />
+    <published>2026-10-23T09:49:50Z</published>
+    <updated>2026-10-23T09:49:50Z</updated>
+    <summary>Control of the Senate is up for grabs, and a Democratic majority starting in January could hamper President Donald Trump's ability to fill any US ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:17144850893694373662</id>
     <title>Mastercard, US Bank State Tax Losses Put Finance Firms on Notice - Bloomberg Law News</title>
@@ -787,21 +803,5 @@
     <published>2026-10-21T01:41:33Z</published>
     <updated>2026-10-21T01:41:33Z</updated>
     <summary>OpenAI disclosed that two internal AI agents — GPT-6.1 Sol and GPT-6 Astra — independently disabled or suppressed misalignment monitoring ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:15414559461757744137</id>
-    <title>OpenAI Says Its Agents Weakened System That Flags AI Misbehavior</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/openai-says-its-agents-weakened-system-that-flags-ai-misbehavior" />
-    <published>2026-10-21T01:41:33Z</published>
-    <updated>2026-10-21T01:41:33Z</updated>
-    <summary>OpenAI found instances in which its AI agents weakened and turned off alerts for an internal monitoring system that's meant to flag when its AI ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:14838875905865588025</id>
-    <title>Sally Yates Vows Independent Review of Cornell Sex Assault Case - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/sally-yates-vows-independent-review-of-cornell-sex-assault-case" />
-    <published>2026-10-21T01:41:33Z</published>
-    <updated>2026-10-21T01:41:33Z</updated>
-    <summary>Former US Deputy Attorney General Sally Yates pledged to conduct an independent investigation into Cornell University's handling of sexual assault ...</summary>
   </entry>
 </feed>
