@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:chowbus-blog</id>
   <title>Chowbus blog (site:chowbus.com/blog/) via Serper</title>
-  <updated>2026-10-21T11:09:37Z</updated>
+  <updated>2026-10-23T14:11:13Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/chowbus-blog.xml" />
+  <entry>
+    <id>https://www.chowbus.com/blog/cloud-based-restaurant-management-explained</id>
+    <title>Cloud-Based Restaurant Management, Explained Without ...</title>
+    <link href="https://www.chowbus.com/blog/cloud-based-restaurant-management-explained" />
+    <published>2026-10-23T14:11:13Z</published>
+    <updated>2026-10-23T14:11:13Z</updated>
+    <summary>An on-premise system runs on a physical machine inside your restaurant. It holds the real database — every menu item, every price, every transaction — and the ...</summary>
+  </entry>
   <entry>
     <id>https://www.chowbus.com/blog/bar-pos-izakaya-ktv-asian-nightlife-2026</id>
     <title>Bar POS for Izakayas, KTV Lounges &amp; Asian Nightlife (2026)</title>

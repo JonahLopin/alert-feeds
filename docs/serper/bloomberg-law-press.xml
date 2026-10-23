@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-23T13:09:31Z</updated>
+  <updated>2026-10-23T14:11:13Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/weil-gotshal-and-willkie-farr-have-ended-merger-discussions</id>
+    <title>Weil Gotshal and Willkie Farr Have Ended Merger ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/weil-gotshal-and-willkie-farr-have-ended-merger-discussions" />
+    <published>2026-10-23T14:11:13Z</published>
+    <updated>2026-10-23T14:11:13Z</updated>
+    <summary>Weil Gotshal &amp; Manges and Willkie Farr &amp; Gallagher have ended discussions over a possible merger, according to two sources familiar with the matter.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/wake-up-call-legora-ceo-says-theres-enough-work-to-go-around</id>
     <title>Wake Up Call: Legora CEO Says There's Enough Work to ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T10:10:18Z</published>
     <updated>2026-10-21T10:10:18Z</updated>
     <summary>During an uncertain economy with rising inflation and interest rates, family offices are viewing litigation finance as a way to diversify their portfolios.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/dhs-bans-deepseek-but-replacing-model-wont-erase-its-history</id>
-    <title>DHS Bans DeepSeek, but Replacing Model Won't Erase Its ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/dhs-bans-deepseek-but-replacing-model-wont-erase-its-history" />
-    <published>2026-10-21T10:10:18Z</published>
-    <updated>2026-10-21T10:10:18Z</updated>
-    <summary>The Trump administration has banned DeepSeek products from federal civilian agency information technology systems. The removal order from the Department of ...</summary>
   </entry>
 </feed>

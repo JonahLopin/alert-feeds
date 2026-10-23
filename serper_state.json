@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 15506,
+  "credits_used": 15558,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T13:09:31Z",
+  "last_run": "2026-10-23T14:11:13Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 316
+  "runs": 317
  },
  "feeds": {
   "adp-help": {
@@ -3824,6 +3824,15 @@
     "summary": "Weil, Gotshal & Manges is adding private equity partner Rebecca Ward to its London office after she spent more than four years at Freshfields.",
     "title": "Weil Adds London Private Equity Partner After String of Exits"
    },
+   "news.bloomberglaw.com/business-and-practice/weil-gotshal-and-willkie-farr-have-ended-merger-discussions": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-23T14:11:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/weil-gotshal-and-willkie-farr-have-ended-merger-discussions",
+    "page": 1,
+    "summary": "Weil Gotshal & Manges and Willkie Farr & Gallagher have ended discussions over a possible merger, according to two sources familiar with the matter.",
+    "title": "Weil Gotshal and Willkie Farr Have Ended Merger ..."
+   },
    "news.bloomberglaw.com/business-and-practice/weil-is-engaged-in-merger-talks-leadership-tells-partners": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -3933,6 +3942,15 @@
     "page": 1,
     "summary": "An all-in-one restaurant platform is more than a POS with separate add-ons. It connects core operations across multiple order sources and service formats.",
     "title": "Choosing All-in-One Restaurant Platforms for Dine- ..."
+   },
+   "chowbus.com/blog/cloud-based-restaurant-management-explained": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-23T14:11:13Z",
+    "link": "https://www.chowbus.com/blog/cloud-based-restaurant-management-explained",
+    "page": 1,
+    "summary": "An on-premise system runs on a physical machine inside your restaurant. It holds the real database \u2014 every menu item, every price, every transaction \u2014 and the ...",
+    "title": "Cloud-Based Restaurant Management, Explained Without ..."
    },
    "chowbus.com/blog/custom-gift-cards-for-business": {
     "baseline": true,
@@ -7600,6 +7618,15 @@
     "page": 1,
     "summary": "A Future Order is an order scheduled for fulfillment at a later time instead of immediately. For example, a catering order for tomorrow or a large pickup order",
     "title": "Future Orders Overview"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/54194805387155": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-23T14:11:13Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/54194805387155",
+    "page": 1,
+    "summary": "Description: Learn how to sort the modifiers within a Modifier Set alphabetically using the A\u2013Z Sort option in Location Management.",
+    "title": "Sort Modifiers Alphabetically in Location Management"
    },
    "shift4.zendesk.com/hc/en-us/articles/54523989258387-Shift4-Checkout-FAQs": {
     "baseline": false,
