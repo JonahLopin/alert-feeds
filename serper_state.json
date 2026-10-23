@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 15766,
+  "credits_used": 15819,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T18:12:24Z",
+  "last_run": "2026-10-23T19:08:54Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 321
+  "runs": 322
  },
  "feeds": {
   "adp-help": {
@@ -1193,6 +1193,15 @@
     "page": 1,
     "summary": "The US Justice Department is starting a six-month pilot program to encourage healthcare companies to self-disclose potential False Claims Act violations.",
     "title": "DOJ Starts Self-Disclosure Program for Potential False ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/doj-sues-to-block-alaska-senate-race-certification-if-gop-loses": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-23T19:08:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-sues-to-block-alaska-senate-race-certification-if-gop-loses",
+    "page": 3,
+    "summary": "The Trump administration is suing to preemptively stop Alaska election officials from certifying the results of next month's US Senate contest if the ...",
+    "title": "DOJ Sues to Block Alaska Senate Race Certification If GOP ..."
    },
    "news.bloomberglaw.com/business-and-practice/doj-watchdog-probing-alleged-grand-jury-misconduct-in-chicago": {
     "baseline": false,
@@ -2331,6 +2340,15 @@
     "page": 2,
     "summary": "Louisiana is moving toward statewide property tax valuation guidelines for lifecycles for data center equipment and infrastructure. Photographer: Jason Alden/ ...",
     "title": "Louisiana Inches Toward State Data Center Property Tax ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/magic-johnson-linked-firm-loaned-billions-to-walter-amid-probe": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-23T19:08:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/magic-johnson-linked-firm-loaned-billions-to-walter-amid-probe",
+    "page": 2,
+    "summary": "Amistad Financial Group, a holding company that counts Johnson as a board member and minority shareholder, loaned about $1.26 billion to Walter's companies ...",
+    "title": "Magic Johnson-Linked Firm Loaned Billions to Walter Amid ..."
    },
    "news.bloomberglaw.com/business-and-practice/man-twice-illegally-deported-to-el-salvador-declines-to-return": {
     "baseline": false,
@@ -4739,6 +4757,15 @@
     "summary": "Video transcript. [0:00] Let's go over how automatic matching works in QuickBooks Online. When you download bank transactions, new ones normally need to be ...",
     "title": "How to use automatic matching in QuickBooks Online - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/bankruptcy/quickbooks-capital/L0JimF3kW_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-23T19:08:54Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/bankruptcy/quickbooks-capital/L0JimF3kW_US_en_US",
+    "page": 1,
+    "summary": "QuickBooks Capital is a service offered by Intuit Financing Inc. that provides business loans to eligible QuickBooks customers.",
+    "title": "What is QuickBooks Capital - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/billing-solutions/virtual-card-faq/L4IXxyPga_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -4852,6 +4879,15 @@
     "page": 2,
     "summary": "Accountants and bookkeepers can use templates to set up a chart of accounts for new or existing clients in minutes. Templates give each client a standard ...",
     "title": "How to create chart of accounts templates in Intuit Accountant ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/customer-refunds-credits/create-apply-credit-memos-delayed-credits-online/L5kne9EiI_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-23T19:08:54Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/customer-refunds-credits/create-apply-credit-memos-delayed-credits-online/L5kne9EiI_US_en_US",
+    "page": 4,
+    "summary": "Send customers credit memos to reduce how much they owe you after a return, discount, or billing error. This keeps the customer's accounts receivable ...",
+    "title": "Create and apply credit memos or delayed ... - QuickBooks"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/customer-refunds-credits/handle-customer-credit-overpayment-quickbooks/L1Z4OZkKB_US_en_US": {
     "baseline": false,
@@ -5432,6 +5468,15 @@
     "page": 3,
     "summary": "Learn what to do in Intuit QuickBooks Workforce and QuickBooks Desktop Payroll when you have a new company file. If you have a new company you need payroll ...",
     "title": "Add a new company to your payroll subscription - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/payroll-setup/get-started-quickbooks-online-payroll/L0Tgxbdg0_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-23T19:08:54Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll-setup/get-started-quickbooks-online-payroll/L0Tgxbdg0_US_en_US",
+    "page": 2,
+    "summary": "How to set up payroll made easy in QuickBooks Online Payroll \u2014 and save hours on bookkeeping. Clear, step-by-step instructions.",
+    "title": "Get started with QuickBooks Online Payroll - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/payroll-setup/set-contractors-track-1099s-quickbooks/L4wX1Ge0e_US_en_US": {
     "baseline": false,
