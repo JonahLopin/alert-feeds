@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-23T06:49:40Z</updated>
+  <updated>2026-10-23T08:53:51Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:17144850893694373662</id>
+    <title>Mastercard, US Bank State Tax Losses Put Finance Firms on Notice - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/mastercard-us-bank-state-tax-losses-put-finance-firms-on-notice" />
+    <published>2026-10-23T08:53:51Z</published>
+    <updated>2026-10-23T08:53:51Z</updated>
+    <summary>South Carolina appellate rulings upholding tax assessments against Mastercard International Inc. and US Bank NA highlight a nationwide shift ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:6699255767430781845</id>
     <title>AI Tech Fears Push Global Credit Spreads to 17-Month High (1) - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T01:41:33Z</published>
     <updated>2026-10-21T01:41:33Z</updated>
     <summary>Former US Deputy Attorney General Sally Yates pledged to conduct an independent investigation into Cornell University's handling of sexual assault ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:11143726527177182797</id>
-    <title>Meta Glasses Accused of Secretly Recording Private Conversations - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/meta-glasses-accused-of-secretly-recording-private-conversations" />
-    <published>2026-10-21T00:26:51Z</published>
-    <updated>2026-10-21T00:26:51Z</updated>
-    <summary>Meta Platforms Inc. was hit with a new privacy lawsuit alleging the company recorded a California man's private conversations via its AI-enabled ...</summary>
   </entry>
 </feed>

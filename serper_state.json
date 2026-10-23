@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 15247,
+  "credits_used": 15298,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T07:51:10Z",
+  "last_run": "2026-10-23T08:52:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 311
+  "runs": 312
  },
  "feeds": {
   "adp-help": {
@@ -278,6 +278,15 @@
     "page": 1,
     "summary": "Data center developers have started touting new technologies that slash the amount of water needed to cool hot-running servers in drought-stressed places ...",
     "title": "AI Data Centers' Water Use Grows in Drought-Stricken Areas"
+   },
+   "news.bloomberglaw.com/business-and-practice/ai-tech-fears-push-global-credit-spreads-to-17-month-high-1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-23T08:52:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ai-tech-fears-push-global-credit-spreads-to-17-month-high-1",
+    "page": 5,
+    "summary": "Metrics across global bond markets are signaling their biggest risk-off sentiment in more than a year, as a selloff in AI stocks and growing geopolitical ...",
+    "title": "AI Tech Fears Push Global Credit Spreads to 17-Month ..."
    },
    "news.bloomberglaw.com/business-and-practice/american-samoa-deep-sea-lease-auction-notice-draws-new-lawsuit": {
     "baseline": false,
@@ -5477,6 +5486,15 @@
     "summary": "Learn how to set up and manage work locations \u2014 so everything reconciles cleanly. Easier than you'd expect.",
     "title": "Set up and manage work locations - QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/taxation/set-local-taxes-online-payroll/L2RWrCe86_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-23T08:52:53Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/taxation/set-local-taxes-online-payroll/L2RWrCe86_US_en_US",
+    "page": 1,
+    "summary": "Searching local payroll taxes? Follow this quick guide in QuickBooks Online Payroll \u2014 so everything reconciles cleanly. Clear, step-by-step instructions.",
+    "title": "Set up local taxes in \u200bQuickBooks Online Payroll\u200b - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/time-tracking/override-employee-salary-online-payroll/L6DPVk80p_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -6573,6 +6591,15 @@
     "summary": "\u4e16\u754c\u6700\u5927\u7d1a\u306e\u7dcf\u5408\u697d\u5668\u30e1\u30fc\u30ab\u30fc\u3068\u3057\u3066\u3001\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u30d3\u30b8\u30cd\u30b9\u3092\u5c55\u958b\u3059\u308b\u30e4\u30de\u30cf\u682a\u5f0f\u4f1a\u793e\u3002SAP Cloud ERP Private \u3092\u4e2d\u6838\u3068\u3057\u305f\u30b0\u30ed\u30fc\u30d0\u30eb ERP \u57fa\u76e4\u306e\u5237\u65b0\u3092\u63a8\u9032\u3059\u308b\u540c\u793e ...",
     "title": "\u30e4\u30de\u30cf\u682a\u5f0f\u4f1a\u793e\uff1aSAP Business AI Platform \u3092\u6d3b\u7528\u3057\u3066"
    },
+   "news.sap.com/korea/2026/10/%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%97%94-%EA%B0%99%EC%9D%80-%EB%8B%B5-sap-%ED%91%9C-%ED%98%95%EC%8B%9D-ai%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%88%98": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-23T08:52:53Z",
+    "link": "https://news.sap.com/korea/2026/10/%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%97%94-%EA%B0%99%EC%9D%80-%EB%8B%B5-sap-%ED%91%9C-%ED%98%95%EC%8B%9D-ai%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%88%98/",
+    "page": 1,
+    "summary": "\uac19\uc740 \ub370\uc774\ud130\uc5d0 \uac19\uc740 \uc9c8\ubb38\uc744 \ub358\uc9c0\uba74 \uac19\uc740 \uc608\uce21, \uac19\uc740 \uc2e0\ub8b0\ub3c4\ub85c \ub2f5\ud569\ub2c8\ub2e4. LLM\uc774 \ub2ff\uc9c0 \ubabb\ud558\ub294 \uae30\uc5c5\uc758 \ud45c \ub370\uc774\ud130\ub97c SAP-RPT-1.6\uacfc TabPFN-3 \uae30\ubc18 \ud45c \ud615\uc2dd AI\uac00 \uc5b4\ub5bb\uac8c ...",
+    "title": "\uac19\uc740 \uc9c8\ubb38\uc5d4 \uac19\uc740 \ub2f5, SAP \ud45c \ud615\uc2dd AI\uc758 \uc2b9\ubd80\uc218"
+   },
    "news.sap.com/korea/2026/10/%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%97%94-%EA%B0%99%EC%9D%80-%EB%8B%B5-sap-%ED%91%9C-%ED%98%95%EC%8B%9D-ai%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%88%98?amp=1": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -6994,6 +7021,15 @@
     "page": 3,
     "summary": "Smiling entrepreneur in a modern office lobby holding a phone. SAP. Espa\u00f1a 902 52 54 56. O vea nuestra lista completa de n\u00fameros locales de pa\u00edses.",
     "title": "Smiling entrepreneur in a modern office lobby holding ..."
+   },
+   "news.sap.com/spain/2026/10/sap-espana-premiada-en-los-digital-skills-awards-2026-de-ametic-por-su-impulso-al-talento-y-el-empleo-digital?amp=1": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-23T08:52:53Z",
+    "link": "https://news.sap.com/spain/2026/10/sap-espana-premiada-en-los-digital-skills-awards-2026-de-ametic-por-su-impulso-al-talento-y-el-empleo-digital/?amp=1",
+    "page": 1,
+    "summary": "SAP Impulsa Empleo ofrece formaci\u00f3n oficial gratuita o subvencionada, con pr\u00e1cticas en sistemas reales, tutor\u00edas, certificaci\u00f3n y contacto directo con empresas, ...",
+    "title": "SAP Espa\u00f1a, premiada en los Digital Skills Awards 2026 ..."
    },
    "news.sap.com/sweden": {
     "baseline": true,

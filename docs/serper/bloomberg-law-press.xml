@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-23T02:40:33Z</updated>
+  <updated>2026-10-23T08:52:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/ai-tech-fears-push-global-credit-spreads-to-17-month-high-1</id>
+    <title>AI Tech Fears Push Global Credit Spreads to 17-Month ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/ai-tech-fears-push-global-credit-spreads-to-17-month-high-1" />
+    <published>2026-10-23T08:52:53Z</published>
+    <updated>2026-10-23T08:52:53Z</updated>
+    <summary>Metrics across global bond markets are signaling their biggest risk-off sentiment in more than a year, as a selloff in AI stocks and growing geopolitical ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/mark-walter-wins-partial-nod-to-slash-pile-of-scrutinized-loans</id>
     <title>Mark Walter Wins Partial Nod to Slash Pile of Scrutinized ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T01:39:42Z</published>
     <updated>2026-10-21T01:39:42Z</updated>
     <summary>Former US Deputy Attorney General Sally Yates pledged to conduct an independent investigation into Cornell University 's handling of sexual assault ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/openai-says-its-agents-weakened-system-that-flags-ai-misbehavior</id>
-    <title>OpenAI Says Its Agents Weakened System That Flags AI ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/openai-says-its-agents-weakened-system-that-flags-ai-misbehavior" />
-    <published>2026-10-21T01:39:42Z</published>
-    <updated>2026-10-21T01:39:42Z</updated>
-    <summary>OpenAI found instances in which its AI agents weakened and turned off alerts for an internal monitoring system that's meant to flag when its AI models ...</summary>
   </entry>
 </feed>
