@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 15819,
+  "credits_used": 15870,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T19:08:54Z",
+  "last_run": "2026-10-23T20:10:24Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 322
+  "runs": 323
  },
  "feeds": {
   "adp-help": {
@@ -1533,6 +1533,15 @@
     "page": 1,
     "summary": "Former WWE \u201cring boys\u201d can sue the company's owners and executives for damages arising out of alleged child sexual abuse, after a federal judge said a ...",
     "title": "Former WWE Ring Workers Advance Child Sexual Abuse ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/four-litigation-lawyers-join-grsm-in-san-francisco-walnut-creek": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-23T20:10:24Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/four-litigation-lawyers-join-grsm-in-san-francisco-walnut-creek",
+    "page": 2,
+    "summary": "Vladimir Andric, Samuel Kim, Karim Manji, and Kara Wild joined Gordon Rees Scully Mansukhani as partners, the firm announced.",
+    "title": "Four Litigation Lawyers Join GRSM in San Francisco, ..."
    },
    "news.bloomberglaw.com/business-and-practice/from-cfo-bots-to-analyst-prep-ai-aids-earnings-call-readiness": {
     "baseline": false,
