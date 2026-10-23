@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 15091,
+  "credits_used": 15143,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T04:35:27Z",
+  "last_run": "2026-10-23T05:31:05Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 308
+  "runs": 309
  },
  "feeds": {
   "adp-help": {
@@ -4979,6 +4979,15 @@
     "summary": "How to understand your subscription rates and charges, explained clearly \u2014 and what it means for your business. Clear answers, no jargon.",
     "title": "Understand your subscription rates and charges - QuickBooks"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/invoicing/enter-billable-time-job-quickbooks-online/L7Rliz6dh_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-23T05:31:05Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/invoicing/enter-billable-time-job-quickbooks-online/L7Rliz6dh_US_en_US",
+    "page": 2,
+    "summary": "Here's how to enter billable time by job in QuickBooks Online \u2014 and avoid common mistakes. A quick, simple walkthrough.",
+    "title": "Enter billable time by job in QuickBooks Online - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/invoicing/send-invoice-reminders-automatically-manually/L84cQjpxo_US_en_US": {
     "baseline": true,
     "date_hint": "4 days ago",
@@ -7642,6 +7651,15 @@
     "summary": "How do you make a buyers guide? Start by defining whom the guide is for, then build the content around your own products. Format the guide for fast scanning, ...",
     "title": "Buyers Guide: How To Create One for Your Store (2026)"
    },
+   "shopify.com/blog/common-shipping-questions": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-23T05:31:05Z",
+    "link": "https://www.shopify.com/blog/common-shipping-questions",
+    "page": 3,
+    "summary": "Learn how to calculate small-business shipping costs with a simple formula. Review carrier rates and get pricing strategies that protect your margins.",
+    "title": "How to Calculate Shipping Costs for Online Store (2026)"
+   },
    "shopify.com/blog/content-templates": {
     "baseline": false,
     "date_hint": "12 hours ago",
@@ -7650,6 +7668,15 @@
     "page": 1,
     "summary": "These content templates help you create social media posts, articles, videos, marketing emails, press releases, and more. Learn how to use each type.",
     "title": "19 Practical Content Templates to Improve Your Marketing"
+   },
+   "shopify.com/blog/curbside-pickup": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-23T05:31:05Z",
+    "link": "https://www.shopify.com/blog/curbside-pickup",
+    "page": 2,
+    "summary": "Learn how to offer curbside pickup at your store. Get the step-by-step setup in Shopify, plus real merchant examples, tech options, and operating tips.",
+    "title": "How To Offer Curbside Pickup: Retail Guide (2026)"
    },
    "shopify.com/blog/customer-connection": {
     "baseline": false,
