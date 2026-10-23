@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-23T18:51:11Z</updated>
+  <updated>2026-10-23T20:46:08Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:84469612501214036</id>
+    <title>OpenAI to Train AI Models Without Internet After Cyber Incidents - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/openai-to-train-ai-models-without-internet-after-cyber-incidents" />
+    <published>2026-10-23T20:46:08Z</published>
+    <updated>2026-10-23T20:46:08Z</updated>
+    <summary>OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process in response to prior ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:14545612867527133215</id>
     <title>Magic Johnson-Linked Firm Loaned Billions to Walter Amid Probe - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T13:31:49Z</published>
     <updated>2026-10-21T13:31:49Z</updated>
     <summary>Starbucks Corp. will require customers to make a purchase to sit in its China cafes, part of a push to revive its fortunes in the competitive ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:2549097011686540586</id>
-    <title>Realtors Top K Street Spending, While AI Companies Smash Records</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/realtors-top-k-street-spending-while-ai-companies-smash-records" />
-    <published>2026-10-21T13:31:49Z</published>
-    <updated>2026-10-21T13:31:49Z</updated>
-    <summary>The National Association of Realtors ousted the US Chamber of Commerce as the top spender on federal lobbying this year through the third quarter, ...</summary>
   </entry>
 </feed>
