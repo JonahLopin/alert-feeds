@@ -3013,6 +3013,12 @@
    "summary": "Download the PDF for a tax form. Parameters. No parameters. Returns. The PDF file for the tax form.",
    "title": "Download tax form PDF | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:16183938699034417944": {
+   "first_seen": "2026-10-23T22:44:13Z",
+   "link": "https://docs.stripe.com/api/tax/transactions/object?api-version=2026-09-30.preview",
+   "summary": "customer_details.address.line1nullable string. Address line 1, such as the street, PO Box, or company name.",
+   "title": "The Tax Transaction object | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:16429654010882360719": {
    "first_seen": "2026-10-15T10:47:01Z",
    "link": "https://docs.stripe.com/payments/accept-a-payment-intent-first",
