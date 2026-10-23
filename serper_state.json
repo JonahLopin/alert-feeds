@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 14837,
+  "credits_used": 14886,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-22T23:08:48Z",
+  "last_run": "2026-10-23T00:27:19Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 303
+  "runs": 304
  },
  "feeds": {
   "adp-help": {
@@ -825,6 +825,15 @@
     "page": 1,
     "summary": "The scandal engulfing Cornell University underscores the importance of handling internal reviews and taking steps to ensure the credibility of the reviewer ...",
     "title": "Cornell Scandal Offers Lessons For High-Stakes Internal ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/corteva-gets-asset-freeze-lifted-during-pfas-liability-appeal": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-23T00:27:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/corteva-gets-asset-freeze-lifted-during-pfas-liability-appeal",
+    "page": 2,
+    "summary": "A temporary restraining order preventing agriculture giant Corteva Inc. from making stock buybacks or issuing dividends will be halted while the company ...",
+    "title": "Corteva Gets Asset Freeze Lifted During PFAS Liability ..."
    },
    "news.bloomberglaw.com/business-and-practice/court-allows-trumps-latest-anti-dei-federal-contracting-order": {
     "baseline": false,
@@ -2035,6 +2044,15 @@
     "page": 1,
     "summary": "A spate of cyberattacks that has rocked Japan Inc. in recent weeks is alarming not because of some novel artificial intelligence hacking methods, ...",
     "title": "Karaoke Hack Shows Routine Cybercrime: Catherine ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/keurig-must-face-coffee-pod-monopoly-allegations-judge-says": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-23T00:27:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/keurig-must-face-coffee-pod-monopoly-allegations-judge-says",
+    "page": 1,
+    "summary": "Keurig Green Mountain Inc. must face monopolization allegations raised by rival coffee pod makers and distributors that it illegally dominated the market ...",
+    "title": "Keurig Must Face Coffee-Pod Monopoly Allegations, Judge ..."
    },
    "news.bloomberglaw.com/business-and-practice/kimberly-clark-offers-bonds-to-help-fund-tylenol-maker-takeover": {
     "baseline": false,
@@ -7641,6 +7659,15 @@
     "summary": "How to start a Minnesota LLC \u00b7 1. Name your Minnesota LLC \u00b7 2. Set up your registered office and registered agent \u00b7 3. File your Minnesota articles of ...",
     "title": "Minnesota LLC: How To Start an LLC in 9 Steps (2026)"
    },
+   "shopify.com/blog/how-to-start-an-llc-in-south-carolina": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-23T00:27:19Z",
+    "link": "https://www.shopify.com/blog/how-to-start-an-llc-in-south-carolina",
+    "page": 3,
+    "summary": "Learn how to start a South Carolina LLC: name your business, file articles of organization, and plan for costs, taxes, and ongoing requirements.",
+    "title": "How To Start a South Carolina LLC in 11 Steps (2026)"
+   },
    "shopify.com/blog/how-to-work-from-home": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -7882,6 +7909,15 @@
     "summary": "RFM analysis scores customers so you can target your marketing more effectively. Learn how to calculate RFM scores and build segments that sell.",
     "title": "RFM Analysis: Definition and Segmentation Guide (2026)"
    },
+   "shopify.com/blog/sales-pitch": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-23T00:27:19Z",
+    "link": "https://www.shopify.com/blog/sales-pitch",
+    "page": 2,
+    "summary": "How to write a sales pitch \u00b7 1. Know your target audience \u00b7 2. Tailor the pitch to the buyer in front of you \u00b7 3. Choose your opening line \u00b7 4. Start with the ...",
+    "title": "Sales Pitch Examples, Templates, and How To Write One ..."
+   },
    "shopify.com/blog/sales-tools-small-business": {
     "baseline": false,
     "date_hint": "1 day ago",
@@ -7890,6 +7926,15 @@
     "page": 1,
     "summary": "Learn about the best sales tools for small business operations, including top CRM software, live chat tools, and POS and payment processing systems.",
     "title": "Top Sales Tools for Small Business Owners (2026)"
+   },
+   "shopify.com/blog/serial-entrepreneur": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-23T00:27:19Z",
+    "link": "https://www.shopify.com/blog/serial-entrepreneur",
+    "page": 2,
+    "summary": "Learn what separates serial entrepreneurs from the rest\u2014and how to build your next venture with proven strategies from successful founders.",
+    "title": "How To Become a Successful Serial Entrepreneur: 5 Tips"
    },
    "shopify.com/blog/service-marketing-vs-product-marketing": {
     "baseline": false,
