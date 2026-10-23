@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-23T01:41:09Z</updated>
+  <updated>2026-10-23T07:51:10Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/korea/2026/10/%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%97%94-%EA%B0%99%EC%9D%80-%EB%8B%B5-sap-%ED%91%9C-%ED%98%95%EC%8B%9D-ai%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%88%98/?amp=1</id>
+    <title>같은 질문엔 같은 답, SAP 표 형식 AI의 승부수</title>
+    <link href="https://news.sap.com/korea/2026/10/%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%97%94-%EA%B0%99%EC%9D%80-%EB%8B%B5-sap-%ED%91%9C-%ED%98%95%EC%8B%9D-ai%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%88%98/?amp=1" />
+    <published>2026-10-23T07:51:10Z</published>
+    <updated>2026-10-23T07:51:10Z</updated>
+    <summary>같은 데이터에 같은 질문을 던지면 같은 예측, 같은 신뢰도로 답합니다. LLM이 닿지 못하는 기업의 표 데이터를 SAP-RPT-1.6과 TabPFN-3 기반 표 형식 AI가 어떻게 ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/sea/2026/10/sap-showcases-q3-customers-as-organizations-across-asia-pacific-embrace-the-autonomous-enterprise/?amp=1</id>
     <title>SAP showcases Q3 customers as organizations across ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-14T12:16:10Z</published>
     <updated>2026-10-14T12:16:10Z</updated>
     <summary>SAP bringt Unternehmen auf dem Weg zu Autonomous HCM voran. von Siva Sundaresan. 13. Oktober 2026. Keine weiteren Beiträge vorhanden.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/belgie/2026/10/hoe-de-rtbf-haar-medewerkers-en-medewerksters-helpt-om-nieuwe-carrieremogelijkheden-te-ontdekken/cameraman-records-show-in-a-tv-studio/</id>
-    <title>Cameraman records show in a TV Studio</title>
-    <link href="https://news.sap.com/belgie/2026/10/hoe-de-rtbf-haar-medewerkers-en-medewerksters-helpt-om-nieuwe-carrieremogelijkheden-te-ontdekken/cameraman-records-show-in-a-tv-studio/" />
-    <published>2026-10-14T09:12:09Z</published>
-    <updated>2026-10-14T09:12:09Z</updated>
-    <summary>Cameraman records show in a TV Studio. SAP. Belgium (0)800 50 550. Of bekijk onze complete lijst van lokale landnummers.</summary>
   </entry>
 </feed>
