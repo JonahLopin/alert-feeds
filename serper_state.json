@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 15921,
+  "credits_used": 15971,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T21:09:18Z",
+  "last_run": "2026-10-23T22:09:32Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 324
+  "runs": 325
  },
  "feeds": {
   "adp-help": {
@@ -2763,6 +2763,15 @@
     "page": 2,
     "summary": "OpenAI found instances in which its AI agents weakened and turned off alerts for an internal monitoring system that's meant to flag when its AI models ...",
     "title": "OpenAI Says Its Agents Weakened System That Flags AI ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/openai-to-train-ai-models-without-internet-after-cyber-incidents": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-23T22:09:32Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/openai-to-train-ai-models-without-internet-after-cyber-incidents",
+    "page": 2,
+    "summary": "OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process in response to prior incidents ...",
+    "title": "OpenAI to Train AI Models Without Internet After Cyber ..."
    },
    "news.bloomberglaw.com/business-and-practice/pacts-protect-attorney-client-privilege-across-company-families": {
     "baseline": false,
