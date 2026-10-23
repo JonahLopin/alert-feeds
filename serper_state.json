@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 15402,
+  "credits_used": 15454,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T10:46:04Z",
+  "last_run": "2026-10-23T11:46:12Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 314
+  "runs": 315
  },
  "feeds": {
   "adp-help": {
@@ -2224,6 +2224,15 @@
     "page": 1,
     "summary": "Updates on legal ops & tech news for in-house counsel and law firms.",
     "title": "Legal Ops & Tech: Jockeying for Cred"
+   },
+   "news.bloomberglaw.com/business-and-practice/license-plate-camera-crackdown-spreads-to-red-and-blue-states": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-23T11:46:12Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/license-plate-camera-crackdown-spreads-to-red-and-blue-states",
+    "page": 4,
+    "summary": "State lawmakers are moving to restrict automated license plate readers as privacy concerns intensify about the technology's surveillance potential.",
+    "title": "License Plate Camera Crackdown Spreads to Red and ..."
    },
    "news.bloomberglaw.com/business-and-practice/lidl-must-face-time-shaving-wage-lawsuit-split-court-says": {
     "baseline": false,
@@ -8525,6 +8534,15 @@
     "summary": "Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.",
     "title": "Fix XML schema validation errors - Sovos Docs"
    },
+   "docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/transmit-to-the-irs": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-23T11:46:12Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/transmit-to-the-irs",
+    "page": 1,
+    "summary": "Learn how to transmit your forms to the IRS. After adding your data and printing your forms, the last step in your tax reporting process is to transmit your ...",
+    "title": "Transmit to the IRS - Sovos Docs"
+   },
    "docs.sovos.com/en/1099-reporting/tincheck/manage-billing-and-subscription/update-billing-information/update-billing-information-in-tincheck": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -9252,6 +9270,15 @@
     "page": 1,
     "summary": "Thanx is a third-party ordering and loyalty platform that integrates with Square as a managed online sales channel.",
     "title": "Set up your Thanx integration with Square"
+   },
+   "squareup.com/help/us/en/article/8708-php-security-updates-for-your-online-store": {
+    "baseline": false,
+    "date_hint": "45 minutes ago",
+    "first_seen": "2026-10-23T11:46:12Z",
+    "link": "https://squareup.com/help/us/en/article/8708-php-security-updates-for-your-online-store",
+    "page": 1,
+    "summary": "PHP is software that runs many online stores. Two new vulnerabilities in PHP could let an attacker without a login run code on an affected server.",
+    "title": "PHP Security Updates for Your Online Store"
    }
   },
   "stripe-help": {

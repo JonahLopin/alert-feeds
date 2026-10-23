@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-23T10:46:04Z</updated>
+  <updated>2026-10-23T11:46:12Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/license-plate-camera-crackdown-spreads-to-red-and-blue-states</id>
+    <title>License Plate Camera Crackdown Spreads to Red and ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/license-plate-camera-crackdown-spreads-to-red-and-blue-states" />
+    <published>2026-10-23T11:46:12Z</published>
+    <updated>2026-10-23T11:46:12Z</updated>
+    <summary>State lawmakers are moving to restrict automated license plate readers as privacy concerns intensify about the technology's surveillance potential.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/mastercard-us-bank-state-tax-losses-put-finance-firms-on-notice</id>
     <title>Mastercard, US Bank State Tax Losses Put Finance Firms ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T07:53:11Z</published>
     <updated>2026-10-21T07:53:11Z</updated>
     <summary>The new seating policy will take effect nationwide from Oct. 22, with stores displaying notices informing customers of the change, Starbucks China said on ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/how-coca-cola-got-burned-with-a-5-billion-bet-on-costa-coffee</id>
-    <title>How Coca-Cola Got Burned With a $5 Billion Bet on Costa ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/how-coca-cola-got-burned-with-a-5-billion-bet-on-costa-coffee" />
-    <published>2026-10-21T05:47:42Z</published>
-    <updated>2026-10-21T05:47:42Z</updated>
-    <summary>Coca-Cola Co. took a $5 billion swing at the coffee market and whiffed. The acquisition of Costa Coffee, often referred to as the “Starbucks of the UK,” was ...</summary>
   </entry>
 </feed>

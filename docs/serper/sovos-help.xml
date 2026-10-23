@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-22T06:48:25Z</updated>
+  <updated>2026-10-23T11:46:12Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/transmit-to-the-irs</id>
+    <title>Transmit to the IRS - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/transmit-to-the-irs" />
+    <published>2026-10-23T11:46:12Z</published>
+    <updated>2026-10-23T11:46:12Z</updated>
+    <summary>Learn how to transmit your forms to the IRS. After adding your data and printing your forms, the last step in your tax reporting process is to transmit your ...</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/tax-determination/tax-determination-rest-api/geo-code-endpoints</id>
     <title>Geo Code endpoints | Product Documentation Documentation</title>

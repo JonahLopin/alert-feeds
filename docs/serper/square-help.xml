@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:square-help</id>
   <title>Square help (site:squareup.com/help/us/en/article/) via Serper</title>
-  <updated>2026-10-15T19:08:34Z</updated>
+  <updated>2026-10-23T11:46:12Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/square-help.xml" />
+  <entry>
+    <id>https://squareup.com/help/us/en/article/8708-php-security-updates-for-your-online-store</id>
+    <title>PHP Security Updates for Your Online Store</title>
+    <link href="https://squareup.com/help/us/en/article/8708-php-security-updates-for-your-online-store" />
+    <published>2026-10-23T11:46:12Z</published>
+    <updated>2026-10-23T11:46:12Z</updated>
+    <summary>PHP is software that runs many online stores. Two new vulnerabilities in PHP could let an attacker without a login run code on an affected server.</summary>
+  </entry>
   <entry>
     <id>https://squareup.com/help/us/en/article/8684-set-up-menus-for-square-kiosk</id>
     <title>Set up menus for Square Kiosk</title>
