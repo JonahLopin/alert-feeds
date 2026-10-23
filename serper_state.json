@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 15040,
+  "credits_used": 15091,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T03:36:42Z",
+  "last_run": "2026-10-23T04:35:27Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 307
+  "runs": 308
  },
  "feeds": {
   "adp-help": {
@@ -7642,6 +7642,15 @@
     "summary": "How do you make a buyers guide? Start by defining whom the guide is for, then build the content around your own products. Format the guide for fast scanning, ...",
     "title": "Buyers Guide: How To Create One for Your Store (2026)"
    },
+   "shopify.com/blog/content-templates": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-10-23T04:35:27Z",
+    "link": "https://www.shopify.com/blog/content-templates",
+    "page": 1,
+    "summary": "These content templates help you create social media posts, articles, videos, marketing emails, press releases, and more. Learn how to use each type.",
+    "title": "19 Practical Content Templates to Improve Your Marketing"
+   },
    "shopify.com/blog/customer-connection": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -7811,6 +7820,15 @@
     "page": 1,
     "summary": "Imgur is an image hosting and sharing community where users upload images, including memes andGIFs. It's popular with Reddit users, but brands and marketers ...",
     "title": "8 Best Image Hosting Sites and How To Choose One (2026)"
+   },
+   "shopify.com/blog/immersive-retail-experience": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-10-23T04:35:27Z",
+    "link": "https://www.shopify.com/blog/immersive-retail-experience",
+    "page": 1,
+    "summary": "An immersive retail experience blends art-designed physical spaces and unique services or events to attract customers and make in-store shopping more engaging ...",
+    "title": "How To Create an Immersive Retail Experience: Tips & ..."
    },
    "shopify.com/blog/interchange-plus-pricing": {
     "baseline": false,
@@ -8133,6 +8151,15 @@
     "page": 1,
     "summary": "Americans are starting businesses at record rates. Explore new Shopify data tracking the rising economic impact and reach of US entrepreneurship.",
     "title": "US Entrepreneurship is Surging: What New Shopify Data ..."
+   },
+   "shopify.com/blog/usage-rights": {
+    "baseline": false,
+    "date_hint": "14 hours ago",
+    "first_seen": "2026-10-23T04:35:27Z",
+    "link": "https://www.shopify.com/blog/usage-rights",
+    "page": 1,
+    "summary": "Usage rights define how your brand is allowed to use content are, how they differ from copyright and traditional licensing, and how to manage them via usage ...",
+    "title": "Understanding Usage Rights Agreements (2026)"
    },
    "shopify.com/blog/utm-parameters": {
     "baseline": false,
@@ -9627,6 +9654,15 @@
     "summary": "Busy doesn't always mean productive. Learn how better audit workflows, targeted training, and technology can reduce rework and support audit quality.",
     "title": "Your audit team is busy. But is it productive?"
    },
+   "tax.thomsonreuters.com/blog/more-than-a-research-tool-how-cocounsel-tax-empowers-junior-colleagues": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-23T04:35:27Z",
+    "link": "https://tax.thomsonreuters.com/blog/more-than-a-research-tool-how-cocounsel-tax-empowers-junior-colleagues/",
+    "page": 2,
+    "summary": "Learn how corporate direct tax teams use CoCounsel Tax alongside junior tax staff, from cited research and document analysis to real-world scenarios.",
+    "title": "How CoCounsel Tax empowers corporate junior tax staff"
+   },
    "tax.thomsonreuters.com/blog/not-all-ai-is-built-for-auditing-heres-the-difference": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -9678,6 +9714,15 @@
     "link": "https://tax.thomsonreuters.com/blog/tax-provision-how-to-calculate-it/",
     "summary": "A tax provision is the estimated income tax a company expects to pay for the current year. Your provision combines current income tax expense and deferred ...",
     "title": "What is a provision for income tax and how do you ..."
+   },
+   "tax.thomsonreuters.com/blog/the-3-benchmarks-changing-how-tax-leaders-justify-automation": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-23T04:35:27Z",
+    "link": "https://tax.thomsonreuters.com/blog/the-3-benchmarks-changing-how-tax-leaders-justify-automation/",
+    "page": 1,
+    "summary": "Learn 3 tax automation benchmarks changing how leaders justify investment: 50% faster prep, $275K/year compliance savings, and $1.1M+ avoided headcount.",
+    "title": "Tax automation benchmarks: 3 Metrics to justify investment"
    },
    "tax.thomsonreuters.com/blog/what-changed-in-the-pcaob-qc-1000-amendments": {
     "baseline": false,
