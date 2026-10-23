@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-23T21:44:23Z</updated>
+  <updated>2026-10-23T23:43:43Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:11634390386208389599</id>
+    <title>Trump DOJ Clashes With Fired Seattle US Attorney on Appeal - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/trump-doj-clashes-with-fired-seattle-us-attorney-on-appeal" />
+    <published>2026-10-23T23:43:43Z</published>
+    <updated>2026-10-23T23:43:43Z</updated>
+    <summary>The Trump administration on Friday asked a federal appeals court to rule the president had the authority to fire the court-appointed US Attorney ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:240855895733028641</id>
     <title>Crowell Partners Rejected Szabo for Job Before Pillsbury Hire - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T13:31:49Z</published>
     <updated>2026-10-21T13:31:49Z</updated>
     <summary>During an uncertain economy with rising inflation and interest rates, family offices are viewing litigation finance as a way to diversify their ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:5520798589749948586</id>
-    <title>Trump Sued by Democrats Over Effort to Purge State Voter Rolls - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/trump-sued-by-democrats-over-effort-to-purge-state-voter-rolls" />
-    <published>2026-10-21T13:31:49Z</published>
-    <updated>2026-10-21T13:31:49Z</updated>
-    <summary>National Democrats sued President Donald Trump and the US Justice Department over what they say is a coordinated effort to erode confidence in the ...</summary>
   </entry>
 </feed>
