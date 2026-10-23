@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 14989,
+  "credits_used": 15040,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T02:40:33Z",
+  "last_run": "2026-10-23T03:36:42Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 306
+  "runs": 307
  },
  "feeds": {
   "adp-help": {
@@ -7553,6 +7553,15 @@
     "summary": "Content writer and strategist in the SaaS space. Try Shopify for free, and explore all the tools you need to start, run, and grow your business.",
     "title": "Lizzie Davey author & reviewer at Shopify"
    },
+   "shopify.com/blog/b2b-marketing-kpis": {
+    "baseline": false,
+    "date_hint": "11 hours ago",
+    "first_seen": "2026-10-23T03:36:42Z",
+    "link": "https://www.shopify.com/blog/b2b-marketing-kpis",
+    "page": 1,
+    "summary": "Use these marketing KPIs to assess the success of your B2B marketing efforts and see where your marketing and sales teams can make improvements.",
+    "title": "10 Essential Marketing KPIs B2B Businesses Should Track"
+   },
    "shopify.com/blog/best-dropshipping-apps": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -7712,6 +7721,15 @@
     "page": 1,
     "summary": "Chris Hudak built Escapod into a multimillion-dollar camper brand by skipping dealerships, vertically integrating manufacturing, and leveraging AI tools.",
     "title": "Inside Escapod's High-Tech Camper Revolution (2026)"
+   },
+   "shopify.com/blog/eur-1-certificate": {
+    "baseline": false,
+    "date_hint": "11 hours ago",
+    "first_seen": "2026-10-23T03:36:42Z",
+    "link": "https://www.shopify.com/blog/eur-1-certificate",
+    "page": 1,
+    "summary": "An EUR.1 certificate is a document that helps customs officials determine if a shipment of goods qualifies for a reduced or waived import duty.",
+    "title": "What Is an EUR.1 Certificate and When Do You Need One?"
    },
    "shopify.com/blog/free-domain-name": {
     "baseline": false,
