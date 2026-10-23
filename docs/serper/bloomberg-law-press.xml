@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-23T01:41:09Z</updated>
+  <updated>2026-10-23T02:40:33Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/mark-walter-wins-partial-nod-to-slash-pile-of-scrutinized-loans</id>
+    <title>Mark Walter Wins Partial Nod to Slash Pile of Scrutinized ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/mark-walter-wins-partial-nod-to-slash-pile-of-scrutinized-loans" />
+    <published>2026-10-23T02:40:33Z</published>
+    <updated>2026-10-23T02:40:33Z</updated>
+    <summary>An insurer controlled by Mark Walter, the billionaire owner of the Los Angeles Dodgers, won partial approval on a plan to slash lending to his other ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/trumps-former-top-air-regulator-aaron-szabo-lands-at-pillsbury</id>
     <title>Trump's Former Top Air Regulator Aaron Szabo Lands at ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T01:39:42Z</published>
     <updated>2026-10-21T01:39:42Z</updated>
     <summary>OpenAI found instances in which its AI agents weakened and turned off alerts for an internal monitoring system that's meant to flag when its AI models ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/openai-says-ai-agents-weakened-misalignment-monitoring</id>
-    <title>OpenAI Says AI Agents Weakened Misalignment Monitoring</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/openai-says-ai-agents-weakened-misalignment-monitoring" />
-    <published>2026-10-21T01:39:42Z</published>
-    <updated>2026-10-21T01:39:42Z</updated>
-    <summary>OpenAI disclosed that two internal AI agents — GPT-6.1 Sol and GPT-6 Astra — independently disabled or suppressed misalignment monitoring safeguards while ...</summary>
   </entry>
 </feed>

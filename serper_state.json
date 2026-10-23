@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 14938,
+  "credits_used": 14989,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T01:41:09Z",
+  "last_run": "2026-10-23T02:40:33Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 305
+  "runs": 306
  },
  "feeds": {
   "adp-help": {
@@ -2278,6 +2278,15 @@
     "summary": "The Premier League has found the soccer club guilty of 114 charges of financial irregularities deemed so serious that it may kick City out of the league and ...",
     "title": "Manchester City's Threatened Exile Dwarfs Rivals' Past ..."
    },
+   "news.bloomberglaw.com/business-and-practice/mark-walter-wins-partial-nod-to-slash-pile-of-scrutinized-loans": {
+    "baseline": false,
+    "date_hint": "58 minutes ago",
+    "first_seen": "2026-10-23T02:40:33Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/mark-walter-wins-partial-nod-to-slash-pile-of-scrutinized-loans",
+    "page": 5,
+    "summary": "An insurer controlled by Mark Walter, the billionaire owner of the Los Angeles Dodgers, won partial approval on a plan to slash lending to his other ...",
+    "title": "Mark Walter Wins Partial Nod to Slash Pile of Scrutinized ..."
+   },
    "news.bloomberglaw.com/business-and-practice/mark-zuckerberg-plots-deal-to-pay-wealth-tax-keep-meta-control": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -4155,6 +4164,15 @@
    }
   },
   "doordash-press": {
+   "about.doordash.com/en-us/news/culvers-now-available-for-delivery-on-doordash": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-23T02:40:33Z",
+    "link": "https://about.doordash.com/en-us/news/culvers-now-available-for-delivery-on-doordash",
+    "page": 1,
+    "summary": "Culver's fans can get their favorites delivered with DoorDash wherever they are, from more than 900 participating restaurants nationwide. Culver's,",
+    "title": "Culver's Now Available for Delivery on DoorDash"
+   },
    "about.doordash.com/en-us/news/doordash-crash-out-corners-data": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -5342,6 +5360,15 @@
     "page": 1,
     "summary": "QuickBooks Online performance relies on browser efficiency, computer processing power, available memory (RAM), and internet bandwidth.",
     "title": "Why is my QuickBooks Online slow? - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/purchase-orders/create-edit-custom-fields-quickbooks-online/L56PQNif3_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-23T02:40:33Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/purchase-orders/create-edit-custom-fields-quickbooks-online/L56PQNif3_US_en_US",
+    "page": 2,
+    "summary": "Here's how to create and edit custom fields in QuickBooks Online \u2014 the right way, the first time. See exactly how below.",
+    "title": "Create and edit custom fields - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/report-management/view-edit-management-reports-quickbooks-online/L90RAh2XZ_US_en_US": {
     "baseline": true,
@@ -7544,6 +7571,15 @@
     "summary": "Brand activations are marketing activities that bring consumers into direct contact with a brand.",
     "title": "Brand Activation Guide: Creative Ideas for Brand Activations (2026)"
    },
+   "shopify.com/blog/brand-differentiation": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-10-23T02:40:33Z",
+    "link": "https://www.shopify.com/blog/brand-differentiation",
+    "page": 1,
+    "summary": "A brand differentiation strategy aims to set your brand apart from the competition and attract the right customers.",
+    "title": "Brand Differentiation Strategies for Small Businesses (2026)"
+   },
    "shopify.com/blog/branded-dropshipping": {
     "baseline": false,
     "date_hint": "1 day ago",
@@ -7926,6 +7962,15 @@
     "page": 1,
     "summary": "Podcast advertising is when a business pays to promote its product or service during a podcast, either through a produced commercial or a mention read out ...",
     "title": "Podcast Advertising: Costs and How To Buy (2026)"
+   },
+   "shopify.com/blog/pop-up-shop-display-ideas": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-10-23T02:40:33Z",
+    "link": "https://www.shopify.com/blog/pop-up-shop-display-ideas",
+    "page": 2,
+    "summary": "A pop-up shop display is the visual layout and signage used to sell products in a temporary retail space. These displays draw customers into pop-up stores by ...",
+    "title": "Pop-Up Shop Display Ideas With Real-World Examples"
    },
    "shopify.com/blog/premium-brand-strategy": {
     "baseline": false,
