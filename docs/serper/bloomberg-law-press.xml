@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-23T17:08:22Z</updated>
+  <updated>2026-10-23T18:12:24Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/grsm-recruits-three-litigation-partners-for-sacramento-office</id>
+    <title>GRSM Recruits Three Litigation Partners for Sacramento ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/grsm-recruits-three-litigation-partners-for-sacramento-office" />
+    <published>2026-10-23T18:12:24Z</published>
+    <updated>2026-10-23T18:12:24Z</updated>
+    <summary>Sebastian Kaplan, Ronald Minassian, and Ryan Vandernaald joined Gordon Rees Scully Mansukhani as partners in its Sacramento office, the firm announced.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/uk-football-regulator-to-cost-clubs-double-earlier-forecasts-1</id>
     <title>UK Football Regulator to Cost Clubs Double Earlier Forecasts ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T12:15:15Z</published>
     <updated>2026-10-21T12:15:15Z</updated>
     <summary>American firms' incursion into the UK market has helped to drive demand for premium offices in London, where Sullivan &amp; Cromwell is in advanced talks to lease ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/trump-sued-by-democrats-over-effort-to-purge-state-voter-rolls</id>
-    <title>Trump Sued by Democrats Over Effort to Purge State Voter ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/trump-sued-by-democrats-over-effort-to-purge-state-voter-rolls" />
-    <published>2026-10-21T11:09:37Z</published>
-    <updated>2026-10-21T11:09:37Z</updated>
-    <summary>National Democrats sued President Donald Trump and the US Justice Department over what they say is a coordinated effort to erode confidence in the upcoming ...</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 15715,
+  "credits_used": 15766,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T17:08:22Z",
+  "last_run": "2026-10-23T18:12:24Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 320
+  "runs": 321
  },
  "feeds": {
   "adp-help": {
@@ -1676,6 +1676,15 @@
     "page": 1,
     "summary": "Roscoe advises clients across the energy and infrastructure sectors on mergers and acquisitions, joint ventures, commercial arrangements, restructurings,",
     "title": "Greenberg Traurig Snares Energy Lawyer Hannah Roscoe ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/grsm-recruits-three-litigation-partners-for-sacramento-office": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-23T18:12:24Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/grsm-recruits-three-litigation-partners-for-sacramento-office",
+    "page": 1,
+    "summary": "Sebastian Kaplan, Ronald Minassian, and Ryan Vandernaald joined Gordon Rees Scully Mansukhani as partners in its Sacramento office, the firm announced.",
+    "title": "GRSM Recruits Three Litigation Partners for Sacramento ..."
    },
    "news.bloomberglaw.com/business-and-practice/half-dozen-states-hit-openai-with-kids-online-safety-lawsuits": {
     "baseline": false,
@@ -5087,6 +5096,15 @@
     "summary": "Intuit Intelligence is your built-in AI assistant in QuickBooks Online and Intuit Enterprise Suite. Type a question or request in plain language and Intuit ...",
     "title": "Ask Intuit Intelligence for help with common tasks - QuickBooks"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-assist/introducing-intuit-intelligence/L189976Da_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-23T18:12:24Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/intuit-assist/introducing-intuit-intelligence/L189976Da_US_en_US",
+    "page": 1,
+    "summary": "Intuit Intelligence combines artificial intelligence (AI) and business intelligence (BI) to give answers and automate financial tasks in QuickBooks.",
+    "title": "Introducing Intuit Intelligence - QuickBooks"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-billing-updates/upgrade-downgrade-quickbooks-online-subscription/L7LN5zzbs_US_en_US": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -5318,6 +5336,15 @@
     "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/pay-bills/pay-bills-across-companies-intuit-enterprise-suite/L5ewQGkkJ_US_en_US",
     "summary": "Learn how to pay a bill in one company using another company's bank account in Intuit Enterprise Suite, with the intercompany journal entries recorded for ...",
     "title": "Pay bills across companies in Intuit Enterprise Suite"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/pay-bills/pay-bills-quickbooks-bill-pay/L4XfPGnJl_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-23T18:12:24Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/pay-bills/pay-bills-quickbooks-bill-pay/L4XfPGnJl_US_en_US",
+    "page": 2,
+    "summary": "Learn how to pay bills online with QuickBooks Bill Pay. QuickBooks Bill Pay helps you pay your bills in one place. You can select a single or multiple bills ...",
+    "title": "Pay bills with QuickBooks Bill Pay - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/pay-bills/pay-bills-vendor-direct-payment-method/L8WVnsuuY_US_en_US": {
     "baseline": true,
@@ -9986,6 +10013,15 @@
     "page": 1,
     "summary": "A connected, traceable record from data collection through filing keeps compliance season moving and strengthens team communication despite staffing changes.",
     "title": "Tax compliance continuity: Season-proofing the team"
+   },
+   "tax.thomsonreuters.com/blog/section-232-supplier-data-reduced-tariff-treatment": {
+    "baseline": false,
+    "date_hint": "56 minutes ago",
+    "first_seen": "2026-10-23T18:12:24Z",
+    "link": "https://tax.thomsonreuters.com/blog/section-232-supplier-data-reduced-tariff-treatment/",
+    "page": 1,
+    "summary": "The April 2026 Section 232 reset made supplier-origin data the key to reduced tariff treatment. Learn what supplier data you need and how to manage it.",
+    "title": "Section 232 Supplier data: Key to reduced tariff treatment"
    },
    "tax.thomsonreuters.com/blog/section-301-exclusions-expiration": {
     "baseline": false,
