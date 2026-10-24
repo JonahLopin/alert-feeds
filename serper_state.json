@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 16313,
+  "credits_used": 16361,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-24T05:29:57Z",
+  "last_run": "2026-10-24T06:43:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 332
+  "runs": 333
  },
  "feeds": {
   "adp-help": {
@@ -8664,6 +8664,15 @@
     "page": 2,
     "summary": "What is a website title? It's the HTML title tag that names a page in browser tabs and search results. Learn how to write one that earns clicks.",
     "title": "What Is a Website Title: Definition and Examples (2026)"
+   },
+   "shopify.com/blog/what-is-shopify": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-24T06:43:43Z",
+    "link": "https://www.shopify.com/blog/what-is-shopify",
+    "page": 4,
+    "summary": "Shopify is a commerce platform that helps you sell online and in person. Entrepreneurs, retailers, and global brands use Shopify to make sales, run stores, and ...",
+    "title": "What Is Shopify and How Does It Work? (2026)"
    },
    "shopify.com/blog/xero-vs-quickbooks": {
     "baseline": false,
