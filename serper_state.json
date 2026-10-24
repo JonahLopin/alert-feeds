@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 16069,
+  "credits_used": 16118,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-24T00:25:52Z",
+  "last_run": "2026-10-24T01:38:22Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 327
+  "runs": 328
  },
  "feeds": {
   "adp-help": {
@@ -3401,6 +3401,15 @@
     "summary": "A group of House Democrats and one Republican introduced legislation Friday to block President Donald Trump's diesel deal with Vladimir Putin.",
     "title": "Trump Diesel Deal Faces Fresh Legislative Challenge in ..."
    },
+   "news.bloomberglaw.com/business-and-practice/trump-doj-clashes-with-fired-seattle-us-attorney-on-appeal": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-24T01:38:22Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-doj-clashes-with-fired-seattle-us-attorney-on-appeal",
+    "page": 2,
+    "summary": "The Trump administration on Friday asked a federal appeals court to rule the president had the authority to fire the court-appointed US Attorney in Seattle ...",
+    "title": "Trump DOJ Clashes With Fired Seattle US Attorney on ..."
+   },
    "news.bloomberglaw.com/business-and-practice/trump-faces-growing-gop-revolt-over-his-russian-diesel-deal": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -4261,6 +4270,15 @@
     "summary": "6 ready-to-use restaurant email templates for newsletters, promotions, loyalty, and more \u2014 plus tips to grow your list and boost opens. October 8, 2026.",
     "title": "6 Restaurant Email Marketing Templates to Use Now"
    },
+   "merchants.doordash.com/en-us/blog/restaurant-marketing-automation": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-24T01:38:22Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-marketing-automation",
+    "page": 1,
+    "summary": "See how restaurant marketing automation turns first-time guests into regulars, with real workflows, setup steps, and metrics that matter.",
+    "title": "Restaurant Marketing Automation: Guide for Owners"
+   },
    "merchants.doordash.com/en-us/blog/restaurant-marketing-budget": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -5104,6 +5122,15 @@
     "page": 2,
     "summary": "How to prepare 1099s made easy in QuickBooks Desktop \u2014 the right way, the first time. Set it up with confidence.",
     "title": "Create and file 1099s with QuickBooks Desktop - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/form-940/tax-payments-forms-intuit-payroll-submits/L6iNooqb9_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-24T01:38:22Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/form-940/tax-payments-forms-intuit-payroll-submits/L6iNooqb9_US_en_US",
+    "page": 3,
+    "summary": "This article gives you an overview of the payroll taxes and forms that Intuit QuickBooks Workforce or QuickBooks Desktop Payroll handles for you. It'll help you ...",
+    "title": "Understand the taxes and forms that payroll submits for you"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/form-941/understand-federal-forms-941-944-943-940/L7meyjNUR_US_en_US": {
     "baseline": false,
