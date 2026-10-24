@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 16553,
+  "credits_used": 16601,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-24T10:44:37Z",
+  "last_run": "2026-10-24T11:44:32Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 337
+  "runs": 338
  },
  "feeds": {
   "adp-help": {
@@ -4459,6 +4459,15 @@
     "page": 1,
     "summary": "State leaders and food bank partners highlight public-private collaboration to address food insecurity and transportation barriers.",
     "title": "Los Angeles Regional Food Bank and ..."
+   },
+   "about.doordash.com/en-us/news/paige-bueckers-doordash-creative-director": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-24T11:44:32Z",
+    "link": "https://about.doordash.com/en-us/news/paige-bueckers-doordash-creative-director",
+    "page": 1,
+    "summary": "Today, DoorDash announced that WNBA star Paige Bueckers will be the first-ever athlete to take on a Creative Director role with the brand.",
+    "title": "Paige Bueckers Joins DoorDash as Creative Director for ..."
    },
    "about.doordash.com/en-us/news/snap-report-2026": {
     "baseline": false,
