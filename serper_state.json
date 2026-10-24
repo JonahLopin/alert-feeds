@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 16743,
+  "credits_used": 16790,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-24T15:08:18Z",
+  "last_run": "2026-10-24T16:09:29Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 341
+  "runs": 342
  },
  "feeds": {
   "adp-help": {
@@ -8146,6 +8146,15 @@
     "summary": "Compare EBITDA and net income with formulas, a worked retail example, and industry margin benchmarks to see when to use each metric.",
     "title": "EBITDA vs. Net Income: Key Differences (2026)"
    },
+   "shopify.com/blog/ecommerce-brands": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-24T16:09:29Z",
+    "link": "https://www.shopify.com/blog/ecommerce-brands",
+    "page": 2,
+    "summary": "14 ecommerce brands to inspire your online store \u00b7 7. Olipop \u00b7 8. Meow Meow Tweet \u00b7 9. Welly \u00b7 10. KOI \u00b7 11. Nerdwax \u00b7 12. Tsuno \u00b7 13. Velasca \u00b7 14. Our Place.",
+    "title": "14 Ecommerce Brands To Inspire You in 2026"
+   },
    "shopify.com/blog/ecommerce-virtual-assistant": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -9361,6 +9370,15 @@
     "summary": "Use the Include in Sales and Apply Taxes checkboxes to configure if the combined surcharge will be included in the sale and how taxes are applied. Use the ...",
     "title": "Create a Combined Surcharge |SpotOn Restaurant Back of ..."
    },
+   "help.spoton.com/space/SK/4292608001": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-24T16:09:29Z",
+    "link": "https://help.spoton.com/space/SK/4292608001",
+    "page": 1,
+    "summary": "The Split Check function lets you divide one check into multiple checks quickly, perfect for groups who want to pay separately.",
+    "title": "How to Split a Check | SpotOn Express (FOH)"
+   },
    "help.spoton.com/space/SK/4292608001/How+to+Split+a+Check+on+SpotOn+Express+%7C+SpotOn+Express+(FOH)": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -10124,6 +10142,33 @@
   "taxcloud-help": {},
   "taxjar-help": {},
   "thomson-reuters-tax-blog": {
+   "google.com/goto?url=CAESnAEB6zswFVtMUeU0J1FOXUUGo1uAnxI-smXSIX-DoLjYcDy9-fvoSSh-L-4IraB4O7uFTta1k7GW5cCFzW33-nMu1IpQS6v7SfvavDr6kDIxGhtPKa5Ib7RCtSpxJvEdjJ3BxVUbEDSNpiySc_pveQesIdAdvp4keok_9G3dGJuQOv7Uq6iYLK1twlo88hL2yyJOoZjA4PeJ_labF5c": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-24T16:09:29Z",
+    "link": "https://www.google.com/goto?url=CAESnAEB6zswFVtMUeU0J1FOXUUGo1uAnxI-smXSIX-DoLjYcDy9-fvoSSh-L-4IraB4O7uFTta1k7GW5cCFzW33-nMu1IpQS6v7SfvavDr6kDIxGhtPKa5Ib7RCtSpxJvEdjJ3BxVUbEDSNpiySc_pveQesIdAdvp4keok_9G3dGJuQOv7Uq6iYLK1twlo88hL2yyJOoZjA4PeJ_labF5c",
+    "page": 1,
+    "summary": "Learn 3 tax automation benchmarks changing how leaders justify investment: 50% faster prep, $275K/year compliance savings, and $1.1M+ avoided headcount.",
+    "title": "Tax automation benchmarks: 3 Metrics to justify investment"
+   },
+   "google.com/goto?url=CAESpgEB6zswFcbyju8pmiL7uqzoC2PmlToE0xZUX9artjgDsM2kFqs_nktcOYRtQxNnCwFDngN0gAC4JjAOaDzXZVqcyVxhMy75e0KaHHiGaLsnm_QulncpsJRUskUZYXtZrxEO6dCJ1ckvpu11JBQeXIhNvjSWZU-JkThL_2WiQWLxAVWvuapnRlY2AY97_ncDSkhaFE5CqAz5chA0g2506w-1p2GM13vz": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-24T16:09:29Z",
+    "link": "https://www.google.com/goto?url=CAESpgEB6zswFcbyju8pmiL7uqzoC2PmlToE0xZUX9artjgDsM2kFqs_nktcOYRtQxNnCwFDngN0gAC4JjAOaDzXZVqcyVxhMy75e0KaHHiGaLsnm_QulncpsJRUskUZYXtZrxEO6dCJ1ckvpu11JBQeXIhNvjSWZU-JkThL_2WiQWLxAVWvuapnRlY2AY97_ncDSkhaFE5CqAz5chA0g2506w-1p2GM13vz",
+    "page": 1,
+    "summary": "Learn how corporate direct tax teams use CoCounsel Tax alongside junior tax staff, from cited research and document analysis to real-world scenarios.",
+    "title": "How CoCounsel Tax empowers corporate junior tax staff"
+   },
+   "google.com/goto?url=CAEStQEB6zswFV2o7g_5TyeavG9CnrvsMpAaUgOjMeRUrWJE-ZIAdDfepvZmVD57Z0XZZzNicIYDYOg9rXjI0T_GKoePC3LnCxnDcoqjz7EpZdlwuzpHV4siAbLBCTjz75w1FSRK9_Xst4b3MpZTl5TQIiP3U_ocTPGslaqtCiBB0I3XjMf-j6rJapaPvkIJZBDwCxFyqcTlKs2NdsLh_X3krdTHN9MmfjWmcI8d-D33qQe-3_n2zb6N": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-24T16:09:29Z",
+    "link": "https://www.google.com/goto?url=CAEStQEB6zswFV2o7g_5TyeavG9CnrvsMpAaUgOjMeRUrWJE-ZIAdDfepvZmVD57Z0XZZzNicIYDYOg9rXjI0T_GKoePC3LnCxnDcoqjz7EpZdlwuzpHV4siAbLBCTjz75w1FSRK9_Xst4b3MpZTl5TQIiP3U_ocTPGslaqtCiBB0I3XjMf-j6rJapaPvkIJZBDwCxFyqcTlKs2NdsLh_X3krdTHN9MmfjWmcI8d-D33qQe-3_n2zb6N",
+    "page": 1,
+    "summary": "Assess your real-time compliance architecture with six warning signs\u2014and discover how connected systems can help your team adapt.",
+    "title": "6 signs your real-time compliance architecture may not scale"
+   },
    "tax.thomsonreuters.com/blog/5-corporate-tax-compliance-challenges-after-a-rough-season": {
     "baseline": false,
     "date_hint": "1 day ago",
