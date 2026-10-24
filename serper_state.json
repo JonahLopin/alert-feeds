@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 16216,
+  "credits_used": 16265,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-24T03:34:38Z",
+  "last_run": "2026-10-24T04:32:35Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 330
+  "runs": 331
  },
  "feeds": {
   "adp-help": {
@@ -8280,6 +8280,15 @@
     "summary": "Learn about 7 LGBTQ+ business grants you can apply for, plus other resources and alternatives to grant funding for LGBTQ+ entrepreneurs.",
     "title": "7 LGBTQ+ Business Grants to Apply for in 2026"
    },
+   "shopify.com/blog/lifestyle-photography": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-24T04:32:35Z",
+    "link": "https://www.shopify.com/blog/lifestyle-photography",
+    "page": 3,
+    "summary": "Lifestyle photography shows your products in real-life settings. See ecommerce examples and get tips on how to shoot your own.",
+    "title": "What Is Lifestyle Photography? Examples & Tips (2026)"
+   },
    "shopify.com/blog/make-money-podcasting": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -8413,6 +8422,15 @@
     "page": 1,
     "summary": "Paid media works by exchanging dollars for attention on platforms like social media, search engines, display networks, and streaming sites.",
     "title": "Paid Media: Guide for Ecommerce Business Owners (2026)"
+   },
+   "shopify.com/blog/passive-income": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-24T04:32:35Z",
+    "link": "https://www.shopify.com/blog/passive-income",
+    "page": 2,
+    "summary": "Learn what counts as passive income under IRS rules, what common streams pay, and how each type is taxed.",
+    "title": "What Is Passive Income? Types and Examples (2026)"
    },
    "shopify.com/blog/passive-income-ideas": {
     "baseline": false,
@@ -10957,6 +10975,15 @@
     "page": 2,
     "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting; ...",
     "title": "Compliance Solutions is recognized for its leadership in ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-partners-with-inscope-to-launch-agentic-financial-statement": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-24T04:32:35Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-partners-with-inscope-to-launch-agentic-financial-statement",
+    "page": 1,
+    "summary": "New CCH Axcess capability helps accounting firms produce review-ready financial statements faster, with less manual work and stronger quality control.",
+    "title": "Wolters Kluwer partners with Inscope to launch agentic ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-publishes-10th-edition-kaplan-and-sadock-s-comprehensive-textbook-of-psychiatry": {
     "baseline": false,
