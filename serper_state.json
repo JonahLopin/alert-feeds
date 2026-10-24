@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 16457,
+  "credits_used": 16505,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-24T08:47:51Z",
+  "last_run": "2026-10-24T09:45:04Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 335
+  "runs": 336
  },
  "feeds": {
   "adp-help": {
@@ -4084,6 +4084,15 @@
     "page": 1,
     "summary": "A loyalty and membership program flips that priority: it turns one-time visitors into repeat customers, and repeat customers into a database you can actually ...",
     "title": "How to Build a Restaurant Loyalty & Membership Program ..."
+   },
+   "chowbus.com/blog/standalone-vs-integrated-delivery-management-cost-time-framework": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-24T09:45:04Z",
+    "link": "https://www.chowbus.com/blog/standalone-vs-integrated-delivery-management-cost-time-framework",
+    "page": 1,
+    "summary": "Every delivery order routed through a separate tablet costs a restaurant real labor time, even when commission rates stay the same.",
+    "title": "Standalone vs Integrated Delivery Management \u2014 A Cost- ..."
    }
   },
   "chownow-blog": {
