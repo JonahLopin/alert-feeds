@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com)</title>
-  <updated>2026-10-21T05:48:47Z</updated>
+  <updated>2026-10-24T15:43:41Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sovos-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8048525309844955168</id>
+    <title>Activate users | Product Documentation Documentation - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/1099-reporting/tax-information-reporting/add-and-manage-users/activate-users" />
+    <published>2026-10-24T15:43:41Z</published>
+    <updated>2026-10-24T15:43:41Z</updated>
+    <summary>Click Activate. The Activate button is highlighted. In the pop-up, click Confirm. Troubleshoot activating users.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:2010948894371412860</id>
     <title>Documents endpoints | Product Documentation Documentation - Sovos Docs</title>
