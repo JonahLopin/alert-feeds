@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 16649,
+  "credits_used": 16696,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-24T12:50:49Z",
+  "last_run": "2026-10-24T14:08:36Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 339
+  "runs": 340
  },
  "feeds": {
   "adp-help": {
@@ -9272,6 +9272,15 @@
     "link": "https://help.spoton.com/space/SK/2666660428",
     "summary": "The Split Check by Guest feature allows you to divide a single check based on the items each guest ordered. This ensures accurate billing and allows each guest ...",
     "title": "Split Check by Guest"
+   },
+   "help.spoton.com/space/SK/2705096726": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-24T14:08:36Z",
+    "link": "https://help.spoton.com/space/SK/2705096726",
+    "page": 1,
+    "summary": "Fresh KDS offers restaurant kitchen display solutions that allow orders to be sent directly from the POS to a screen in the kitchen, rather than relying on ...",
+    "title": "Fresh KDS Overview | SpotOn Restaurant Integrations"
    },
    "help.spoton.com/space/SK/2908258591": {
     "baseline": false,
