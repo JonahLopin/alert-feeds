@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 16118,
+  "credits_used": 16167,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-24T01:38:22Z",
+  "last_run": "2026-10-24T02:36:57Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 328
+  "runs": 329
  },
  "feeds": {
   "adp-help": {
@@ -4288,6 +4288,15 @@
     "summary": "How much should you spend on restaurant marketing? Get a sourced benchmark, a spend breakdown by budget size, and when paid ads pay off.",
     "title": "Restaurant Marketing Budget Breakdown: Tips to Maximize It"
    },
+   "merchants.doordash.com/en-us/blog/restaurant-pos-systems-cost": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-24T02:36:57Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-pos-systems-cost",
+    "page": 1,
+    "summary": "See the true cost of a restaurant POS system \u2014 software, hardware, processing fees, and the hidden costs vendors don't advertise.",
+    "title": "Restaurant POS System Cost: What You'll Really Pay"
+   },
    "merchants.doordash.com/en-us/blog/restaurant-seo": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -4305,6 +4314,15 @@
     "page": 1,
     "summary": "SMS marketing (Short Message Service marketing) means sending promotional text messages to customers who have agreed to receive them.",
     "title": "SMS Marketing for Restaurants: Drive More Orders With ..."
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-waitlist-app": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-24T02:36:57Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-waitlist-app",
+    "page": 1,
+    "summary": "A restaurant waitlist app swaps a paper list for a digital waitlist, so your host can keep up. Look for five features: party size, SMS notifications, QR code ...",
+    "title": "Restaurant Waiting List App: 5 Must-Have Features for 2026"
    },
    "merchants.doordash.com/en-us/blog/restaurant-website-design": {
     "baseline": false,
