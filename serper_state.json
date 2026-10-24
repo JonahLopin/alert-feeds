@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 16409,
+  "credits_used": 16457,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-24T07:45:41Z",
+  "last_run": "2026-10-24T08:47:51Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 334
+  "runs": 335
  },
  "feeds": {
   "adp-help": {
@@ -8777,6 +8777,15 @@
    }
   },
   "sovos-help": {
+   "docs.sovos.com/e-invoicing/compliance-network-implementation-guide/working-with-sovos-canonical-invoice/about-compliance-tools-hub": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-24T08:47:51Z",
+    "link": "https://docs.sovos.com/e-invoicing/compliance-network-implementation-guide/working-with-sovos-canonical-invoice/about-compliance-tools-hub",
+    "page": 1,
+    "summary": "Compliance Tools Hub is a self-service portal that centralizes all compliance tools in one place. Use it to look up requirements, test your documents, and ...",
+    "title": "About Compliance Tools Hub - Sovos Docs"
+   },
    "docs.sovos.com/en/1099-reporting/efilemyforms": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -9403,6 +9412,15 @@
     "page": 1,
     "summary": "You can now manage your online ordering settings directly from the SpotOn Dashboard\u2014no. Easily access your ordering link, update branding, generate QR codes, ...",
     "title": "Manage Your Online Ordering Settings in Dashboard (RPOS)"
+   },
+   "help.spoton.com/space/SK/5062950950": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-24T08:47:51Z",
+    "link": "https://help.spoton.com/space/SK/5062950950",
+    "page": 1,
+    "summary": "SpotOn Profit AI helps you understand what impacted your revenue and labor last week and what you can do next.",
+    "title": "SpotOn Profit AI: Revenue & Labor Insights"
    },
    "help.spoton.com/space/SK/5254742018": {
     "baseline": false,

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-23T11:46:12Z</updated>
+  <updated>2026-10-24T08:47:51Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/e-invoicing/compliance-network-implementation-guide/working-with-sovos-canonical-invoice/about-compliance-tools-hub</id>
+    <title>About Compliance Tools Hub - Sovos Docs</title>
+    <link href="https://docs.sovos.com/e-invoicing/compliance-network-implementation-guide/working-with-sovos-canonical-invoice/about-compliance-tools-hub" />
+    <published>2026-10-24T08:47:51Z</published>
+    <updated>2026-10-24T08:47:51Z</updated>
+    <summary>Compliance Tools Hub is a self-service portal that centralizes all compliance tools in one place. Use it to look up requirements, test your documents, and ...</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/transmit-to-the-irs</id>
     <title>Transmit to the IRS - Sovos Docs</title>
