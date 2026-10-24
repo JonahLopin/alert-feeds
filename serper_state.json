@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 16696,
+  "credits_used": 16743,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-24T14:08:36Z",
+  "last_run": "2026-10-24T15:08:18Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 340
+  "runs": 341
  },
  "feeds": {
   "adp-help": {
@@ -8225,6 +8225,15 @@
     "page": 2,
     "summary": "Learn how to design a shirt in nine easy steps, from concept to print-ready files, with a printing method comparison and print spec checklist.",
     "title": "How To Design a Shirt in 9 Steps (2026)"
+   },
+   "shopify.com/blog/how-to-make-money-using-ai": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-24T15:08:18Z",
+    "link": "https://www.shopify.com/blog/how-to-make-money-using-ai",
+    "page": 4,
+    "summary": "Learn how to make money with AI in 13 different ways, such as launching a product or scaling a services business, with startup costs for each.",
+    "title": "How To Make Money With AI: 13 Ideas for 2026"
    },
    "shopify.com/blog/how-to-start-a-landscaping-business": {
     "baseline": false,
