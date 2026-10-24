@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 16601,
+  "credits_used": 16649,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-24T11:44:32Z",
+  "last_run": "2026-10-24T12:50:49Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 338
+  "runs": 339
  },
  "feeds": {
   "adp-help": {
@@ -8619,6 +8619,15 @@
     "page": 1,
     "summary": "A standard operating procedure (SOP) is a written document that outlines the steps a team needs to follow to complete a task. This helps outcomes stay ...",
     "title": "How To Write a Standard Operating Procedure (2026)"
+   },
+   "shopify.com/blog/start-online-tshirt-business": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-24T12:50:49Z",
+    "link": "https://www.shopify.com/blog/start-online-tshirt-business",
+    "page": 4,
+    "summary": "Looking to sell t-shirts? Read expert tips on finding customers, designing graphics, and selling shirts online.",
+    "title": "How To Start a T-Shirt Business: 2026 Guide"
    },
    "shopify.com/blog/swot-analysis": {
     "baseline": false,
