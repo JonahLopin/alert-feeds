@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 16020,
+  "credits_used": 16069,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-23T23:08:58Z",
+  "last_run": "2026-10-24T00:25:52Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 326
+  "runs": 327
  },
  "feeds": {
   "adp-help": {
@@ -906,6 +906,15 @@
     "page": 3,
     "summary": "Bowers advises clients on a wide range of corporate and commercial matters, including M&A, joint ventures, strategic alliances, and licensing transactions. He ...",
     "title": "Crowell & Moring Hires Sheppard Mullin M&A Partner ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/crowell-partners-rejected-szabo-for-job-before-pillsbury-hire": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-24T00:25:52Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/crowell-partners-rejected-szabo-for-job-before-pillsbury-hire",
+    "page": 1,
+    "summary": "Crowell & Moring partners rejected President Donald Trump's ex-top air regulator Aaron Szabo for a job because they took issue with his tenure in the ...",
+    "title": "Crowell Partners Rejected Szabo for Job Before Pillsbury ..."
    },
    "news.bloomberglaw.com/business-and-practice/crypto-fraudster-fund-owe-cftc-penalty-over-249-million-scheme": {
     "baseline": false,
@@ -4343,6 +4352,15 @@
     "page": 1,
     "summary": "Culver's fans can get their favorites delivered with DoorDash wherever they are, from more than 900 participating restaurants nationwide. Culver's,",
     "title": "Culver's Now Available for Delivery on DoorDash"
+   },
+   "about.doordash.com/en-us/news/doordash-adds-new-grocery-partners": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-24T00:25:52Z",
+    "link": "https://about.doordash.com/en-us/news/doordash-adds-new-grocery-partners",
+    "page": 1,
+    "summary": "Five beloved local grocers are now available on DoorDash for on-demand delivery. of fresh, local, and affordable grocery options available",
+    "title": "DoorDash Expands Grocery Selection with New Partnerships"
    },
    "about.doordash.com/en-us/news/doordash-crash-out-corners-data": {
     "baseline": false,
@@ -10805,6 +10823,15 @@
     "page": 2,
     "summary": "With the introduction of Ovid Guidelines AI, Wolters Kluwer is developing an agentic Generative AI (GenAI) workflow solution to accelerate this process and ...",
     "title": "Wolters Kluwer introduces Ovid Guidelines AI"
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-launches-agentic-tax-preparation-in-cch-axcess": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-24T00:25:52Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-launches-agentic-tax-preparation-in-cch-axcess",
+    "page": 1,
+    "summary": "Expert AI agents prepare and calculate Form 1040 returns inside the platform where firms already work, helping firms increase capacity while keeping ...",
+    "title": "Wolters Kluwer launches agentic tax preparation in CCH ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-launches-ai-enhanced-uptodate-enterprise-edition-in-apac": {
     "baseline": false,
