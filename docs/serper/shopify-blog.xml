@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-24T16:09:29Z</updated>
+  <updated>2026-10-24T17:08:26Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/marketing-analytics</id>
+    <title>Ecommerce Analytics: A Beginner's Guide (2026)</title>
+    <link href="https://www.shopify.com/blog/marketing-analytics" />
+    <published>2026-10-24T17:08:26Z</published>
+    <updated>2026-10-24T17:08:26Z</updated>
+    <summary>Learn about ecommerce analytics and the process of collecting, analyzing, and interpreting data for more insights into your online store.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/ecommerce-brands</id>
     <title>14 Ecommerce Brands To Inspire You in 2026</title>

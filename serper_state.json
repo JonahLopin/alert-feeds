@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 16790,
+  "credits_used": 16836,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-24T16:09:29Z",
+  "last_run": "2026-10-24T17:08:26Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 342
+  "runs": 343
  },
  "feeds": {
   "adp-help": {
@@ -4093,6 +4093,15 @@
     "page": 1,
     "summary": "Every delivery order routed through a separate tablet costs a restaurant real labor time, even when commission rates stay the same.",
     "title": "Standalone vs Integrated Delivery Management \u2014 A Cost- ..."
+   },
+   "chowbus.com/blog/standalone-vs-pos-integrated-kiosk": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-24T17:08:26Z",
+    "link": "https://www.chowbus.com/blog/standalone-vs-pos-integrated-kiosk",
+    "page": 1,
+    "summary": "A self-ordering kiosk is either reading its menu live from your point-of-sale system, or it's keeping a separate copy of that menu somewhere else \u2014 one that a ...",
+    "title": "Standalone Kiosk or POS-Integrated? How to Decide"
    }
   },
   "chownow-blog": {
@@ -4829,6 +4838,15 @@
     "page": 2,
     "summary": "How the pre-file check works explained \u2014 so you can make the right call. Everything you need to know.",
     "title": "How to reconcile your sales numbers on QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/balance-sheet/run-balance-sheet-class-location/L2wj2NQT2_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-24T17:08:26Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/balance-sheet/run-balance-sheet-class-location/L2wj2NQT2_US_en_US",
+    "page": 2,
+    "summary": "Before you run your balance sheet report by class or location, it's good to know which part of the transaction QuickBooks gets the data from.",
+    "title": "Run a balance sheet by class or location in QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/bank-deposits/change-direct-deposit-paycheck-regular-paycheck/L9Yhp9n9v_US_en_US": {
     "baseline": true,
@@ -8342,6 +8360,15 @@
     "page": 2,
     "summary": "Pay per click (PPC) is an online advertising model where advertisers pay a fee each time a user clicks on their ad. It has also become an umbrella term for ...",
     "title": "How To Make Money With Pay-Per-Click Advertising (2026)"
+   },
+   "shopify.com/blog/marketing-analytics": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-24T17:08:26Z",
+    "link": "https://www.shopify.com/blog/marketing-analytics",
+    "page": 3,
+    "summary": "Learn about ecommerce analytics and the process of collecting, analyzing, and interpreting data for more insights into your online store.",
+    "title": "Ecommerce Analytics: A Beginner's Guide (2026)"
    },
    "shopify.com/blog/marketing-collateral": {
     "baseline": false,
