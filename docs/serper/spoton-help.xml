@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-10-22T21:09:57Z</updated>
+  <updated>2026-10-24T03:34:38Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/5620826115</id>
+    <title>Tip Adjustments | SpotOn Express</title>
+    <link href="https://help.spoton.com/space/SK/5620826115" />
+    <published>2026-10-24T03:34:38Z</published>
+    <updated>2026-10-24T03:34:38Z</updated>
+    <summary>Overview. Adjust tips after payment for paid orders in receipt-based tipping workflows. Receipt-Tip Line workflows apply to hardware setups with EMV (Edge ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/5276336130</id>
     <title>Close Report Summaries | SpotOn Restaurant Reporting</title>

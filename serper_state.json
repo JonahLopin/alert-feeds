@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 16167,
+  "credits_used": 16216,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-24T02:36:57Z",
+  "last_run": "2026-10-24T03:34:38Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 329
+  "runs": 330
  },
  "feeds": {
   "adp-help": {
@@ -8494,6 +8494,15 @@
     "summary": "Learn how to go from idea to launch with this eight-step product development guide. Validate, test, and bring your product to market.",
     "title": "Product Development Process: An 8-Step Guide (2026)"
    },
+   "shopify.com/blog/product-taxonomy": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-24T03:34:38Z",
+    "link": "https://www.shopify.com/blog/product-taxonomy",
+    "page": 2,
+    "summary": "Product taxonomy is the system an online store uses to organize its products into categories, subcategories, and attributes so shoppers can quickly find what ...",
+    "title": "Product Taxonomy: Examples & Best Practices (2026)"
+   },
    "shopify.com/blog/promote-your-website-tips": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -9394,6 +9403,15 @@
     "page": 1,
     "summary": "Pricing Events automatically adjust Menu Item prices based on selected Order Types, dates, days, and times. Pricing Events can apply four Percent",
     "title": "Configure Pricing Events for Menu Items and Modifiers"
+   },
+   "help.spoton.com/space/SK/5620826115": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-24T03:34:38Z",
+    "link": "https://help.spoton.com/space/SK/5620826115",
+    "page": 1,
+    "summary": "Overview. Adjust tips after payment for paid orders in receipt-based tipping workflows. Receipt-Tip Line workflows apply to hardware setups with EMV (Edge ...",
+    "title": "Tip Adjustments | SpotOn Express"
    },
    "help.spoton.com/space/SK/5670830482": {
     "baseline": false,
