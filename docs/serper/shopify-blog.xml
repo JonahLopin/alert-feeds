@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-24T20:08:41Z</updated>
+  <updated>2026-10-24T21:08:24Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/ar-viewer</id>
+    <title>AR Viewer Guide for Ecommerce: Implementation Tips</title>
+    <link href="https://www.shopify.com/blog/ar-viewer" />
+    <published>2026-10-24T21:08:24Z</published>
+    <updated>2026-10-24T21:08:24Z</updated>
+    <summary>Augmented reality (AR) entered the public imagination with whimsy in the form of the game Pokémon Go, but its practical applications have since made it a ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/what-is-warehousing</id>
     <title>Warehousing Guide: Types and Tips for Ecommerce ...</title>

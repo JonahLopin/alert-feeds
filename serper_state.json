@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 16977,
+  "credits_used": 17024,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-24T20:08:41Z",
+  "last_run": "2026-10-24T21:08:24Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 346
+  "runs": 347
  },
  "feeds": {
   "adp-help": {
@@ -8003,6 +8003,15 @@
     "page": 1,
     "summary": "Start for free Shopify appointment booking apps allow customers to schedule and manage appointments with your business directly from your site.",
     "title": "8 Top-Rated Shopify Appointment Booking Apps in 2026"
+   },
+   "shopify.com/blog/ar-viewer": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-24T21:08:24Z",
+    "link": "https://www.shopify.com/blog/ar-viewer",
+    "page": 3,
+    "summary": "Augmented reality (AR) entered the public imagination with whimsy in the form of the game Pok\u00e9mon Go, but its practical applications have since made it a ...",
+    "title": "AR Viewer Guide for Ecommerce: Implementation Tips"
    },
    "shopify.com/blog/authors/anne.harris@shopify.com-user": {
     "baseline": true,
