@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-23T22:44:13Z</updated>
+  <updated>2026-10-24T16:45:23Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:1579658284861607203</id>
+    <title>Account Activities | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/signals/account-activities?api-version=2026-09-30.preview" />
+    <published>2026-10-24T16:45:23Z</published>
+    <updated>2026-10-24T16:45:23Z</updated>
+    <summary>Account Activities v2 ... Account Activity resource for the Signals API. ... Need help? Contact Support. Chat with Stripe developers on Discord. Check out ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:16183938699034417944</id>
     <title>The Tax Transaction object | Stripe API Reference</title>

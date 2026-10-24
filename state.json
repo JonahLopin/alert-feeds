@@ -3061,6 +3061,12 @@
    "summary": "Download the PDF for a tax form. Parameters. No parameters. Returns. The PDF file for the tax form.",
    "title": "Download tax form PDF | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:1579658284861607203": {
+   "first_seen": "2026-10-24T16:45:23Z",
+   "link": "https://docs.stripe.com/api/v2/signals/account-activities?api-version=2026-09-30.preview",
+   "summary": "Account Activities v2 ... Account Activity resource for the Signals API. ... Need help? Contact Support. Chat with Stripe developers on Discord. Check out ...",
+   "title": "Account Activities | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:16183938699034417944": {
    "first_seen": "2026-10-23T22:44:13Z",
    "link": "https://docs.stripe.com/api/tax/transactions/object?api-version=2026-09-30.preview",
