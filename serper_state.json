@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 17024,
+  "credits_used": 17072,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-24T21:08:24Z",
+  "last_run": "2026-10-24T22:08:32Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 347
+  "runs": 348
  },
  "feeds": {
   "adp-help": {
@@ -6950,6 +6950,15 @@
     "page": 1,
     "summary": "\uac19\uc740 \ub370\uc774\ud130\uc5d0 \uac19\uc740 \uc9c8\ubb38\uc744 \ub358\uc9c0\uba74 \uac19\uc740 \uc608\uce21, \uac19\uc740 \uc2e0\ub8b0\ub3c4\ub85c \ub2f5\ud569\ub2c8\ub2e4. LLM\uc774 \ub2ff\uc9c0 \ubabb\ud558\ub294 \uae30\uc5c5\uc758 \ud45c \ub370\uc774\ud130\ub97c SAP-RPT-1.6\uacfc TabPFN-3 \uae30\ubc18 \ud45c \ud615\uc2dd AI\uac00 \uc5b4\ub5bb\uac8c ...",
     "title": "\uac19\uc740 \uc9c8\ubb38\uc5d4 \uac19\uc740 \ub2f5, SAP \ud45c \ud615\uc2dd AI\uc758 \uc2b9\ubd80\uc218"
+   },
+   "news.sap.com/korea/2026/10/%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%97%94-%EA%B0%99%EC%9D%80-%EB%8B%B5-sap-%ED%91%9C-%ED%98%95%EC%8B%9D-ai%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%88%98/295495_gettyimages-474104229": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-24T22:08:32Z",
+    "link": "https://news.sap.com/korea/2026/10/%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%97%94-%EA%B0%99%EC%9D%80-%EB%8B%B5-sap-%ED%91%9C-%ED%98%95%EC%8B%9D-ai%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%88%98/295495_gettyimages-474104229/",
+    "page": 1,
+    "summary": "\ub514\uc9c0\ud138 \ud0dc\ube14\ub9bf\uc73c\ub85c \uc791\uc5c5\ud558\uba70 \ud1b5\ud654 \uc911\uc778 \uc5ec\uc131. SAP. \ub300\ud55c\ubbfc\uad6d 080-219-2400. \uc9c0\uc5ed\ubcc4 \uad6d\uac00 \ubc88\ud638 \uc804\uccb4 \ubaa9\ub85d \ubcf4\uae30 \u00b7 SAP\uc5d0 \ubb38\uc758. \ube60\ub978 \uc5f0\uacb0 \ub9c1\ud06c \ube60\ub978 \uc5f0\uacb0 \ub9c1\ud06c.",
+    "title": "295495_GettyImages-474104229 - SAP Korea \ub274\uc2a4\uc13c\ud130"
    },
    "news.sap.com/korea/2026/10/%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%97%94-%EA%B0%99%EC%9D%80-%EB%8B%B5-sap-%ED%91%9C-%ED%98%95%EC%8B%9D-ai%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%88%98?amp=1": {
     "baseline": false,
