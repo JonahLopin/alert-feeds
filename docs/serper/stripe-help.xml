@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-22T08:55:37Z</updated>
+  <updated>2026-10-25T01:39:43Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/reports/reserves?locale=id-ID</id>
+    <title>Laporan pencairan dana cadangan</title>
+    <link href="https://docs.stripe.com/reports/reserves?locale=id-ID" />
+    <published>2026-10-25T01:39:43Z</published>
+    <updated>2026-10-25T01:39:43Z</updated>
+    <summary>Laporan pencairan dana cadangan menunjukkan kapan Stripe dijadwalkan untuk mencairkan setiap jumlah yang ditahannya di cadangan pada akun Anda ke saldo ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/radar/analytics/transaction-fraud-alerts?locale=fr-FR</id>
     <title>Alertes de fraude sur les transactions</title>

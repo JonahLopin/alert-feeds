@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 17167,
+  "credits_used": 17215,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-25T00:28:27Z",
+  "last_run": "2026-10-25T01:39:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 350
+  "runs": 351
  },
  "feeds": {
   "adp-help": {
@@ -10082,6 +10082,15 @@
     "page": 2,
     "summary": "Stripe surveille en permanence votre activit\u00e9 de paiement pour d\u00e9tecter les attaques de fraude. Lorsque nous identifions des sch\u00e9mas inhabituels, ...",
     "title": "Alertes de fraude sur les transactions"
+   },
+   "docs.stripe.com/reports/reserves?locale=id-ID": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-25T01:39:43Z",
+    "link": "https://docs.stripe.com/reports/reserves?locale=id-ID",
+    "page": 1,
+    "summary": "Laporan pencairan dana cadangan menunjukkan kapan Stripe dijadwalkan untuk mencairkan setiap jumlah yang ditahannya di cadangan pada akun Anda ke saldo ...",
+    "title": "Laporan pencairan dana cadangan"
    },
    "docs.stripe.com/risk?locale=ja-JP": {
     "baseline": false,
