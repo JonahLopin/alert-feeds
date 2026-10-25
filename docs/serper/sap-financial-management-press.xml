@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-24T22:08:32Z</updated>
+  <updated>2026-10-25T02:52:35Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/japan/2026/10/1022_sanwa-needle-bearing-adopts-sap-cloud-erp-to-modernize-30-year-old-core-system/three-businessmen-meeting-in-a-conference-room/</id>
+    <title>Three businessmen meeting in a conference room.</title>
+    <link href="https://news.sap.com/japan/2026/10/1022_sanwa-needle-bearing-adopts-sap-cloud-erp-to-modernize-30-year-old-core-system/three-businessmen-meeting-in-a-conference-room/" />
+    <published>2026-10-25T02:52:35Z</published>
+    <updated>2026-10-25T02:52:35Z</updated>
+    <summary>Three businessmen meeting in a conference room. 共有とフォロー. Facebook の SAP に従ってください · このページを共有する · Twitter の SAP に従ってください ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/korea/2026/10/%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%97%94-%EA%B0%99%EC%9D%80-%EB%8B%B5-sap-%ED%91%9C-%ED%98%95%EC%8B%9D-ai%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%88%98/295495_gettyimages-474104229/</id>
     <title>295495_GettyImages-474104229 - SAP Korea 뉴스센터</title>
@@ -795,13 +803,5 @@
     <published>2026-10-15T08:14:16Z</published>
     <updated>2026-10-15T08:14:16Z</updated>
     <summary>News, information, feature articles, press releases, blogs &amp; stories about SAP solutions for industries, lines of business, small and medium enterprises, ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/topics/human-resources/</id>
-    <title>Human Resources News &amp; Stories</title>
-    <link href="https://news.sap.com/topics/human-resources/" />
-    <published>2026-10-15T03:12:06Z</published>
-    <updated>2026-10-15T03:12:06Z</updated>
-    <summary>Feature articles, press releases, blogs, information &amp; stories from SAP about human resource business trends and topics, software solutions, hr software ...</summary>
   </entry>
 </feed>

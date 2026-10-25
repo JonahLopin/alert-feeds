@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 17215,
+  "credits_used": 17264,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-25T01:39:43Z",
+  "last_run": "2026-10-25T02:52:35Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 351
+  "runs": 352
  },
  "feeds": {
   "adp-help": {
@@ -6915,6 +6915,15 @@
     "summary": "\u4e09\u548c\u30cb\u30fc\u30c9\u30eb\u30fb\u30d9\u30a2\u30ea\u30f3\u30b0\u306f1946\u5e74\u306e\u5275\u696d\u4ee5\u6765\u3001\u30de\u30a4\u30af\u30ed\u30b7\u30e3\u30d5\u30c8\u3084\u30b3\u30ed\uff08\u30cb\u30fc\u30c9\u30eb\u30d9\u30a2\u30ea\u30f3\u30b0\u7528\u306e\u8ee2\u52d5\u4f53\uff09\u306a\u3069\u306e\u7cbe\u5bc6\u91d1\u5c5e\u90e8\u54c1\u3092\u88fd\u9020\u3057\u3001\u81ea\u52d5\u8eca\u3001\u7523\u696d\u6a5f\u68b0\u3001\u533b\u7642\u6a5f\u5668\u3068\u3044\u3063\u305f ...",
     "title": "\u5275\u696d80\u5e74\u306e\u7cbe\u5bc6\u90e8\u54c1\u30e1\u30fc\u30ab\u30fc\u30fb\u4e09\u548c\u30cb\u30fc\u30c9\u30eb\u30fb\u30d9\u30a2\u30ea\u30f3\u30b0"
    },
+   "news.sap.com/japan/2026/10/1022_sanwa-needle-bearing-adopts-sap-cloud-erp-to-modernize-30-year-old-core-system/three-businessmen-meeting-in-a-conference-room": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-25T02:52:35Z",
+    "link": "https://news.sap.com/japan/2026/10/1022_sanwa-needle-bearing-adopts-sap-cloud-erp-to-modernize-30-year-old-core-system/three-businessmen-meeting-in-a-conference-room/",
+    "page": 1,
+    "summary": "Three businessmen meeting in a conference room. \u5171\u6709\u3068\u30d5\u30a9\u30ed\u30fc. Facebook \u306e SAP \u306b\u5f93\u3063\u3066\u304f\u3060\u3055\u3044 \u00b7 \u3053\u306e\u30da\u30fc\u30b8\u3092\u5171\u6709\u3059\u308b \u00b7 Twitter \u306e SAP \u306b\u5f93\u3063\u3066\u304f\u3060\u3055\u3044 ...",
+    "title": "Three businessmen meeting in a conference room."
+   },
    "news.sap.com/japan/2026/10/1022_sap-announces-q3-2026-results": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -7729,6 +7738,15 @@
     "summary": "Description: Learn how to download a LogMeIn application and begin a remote session with a support agent to help you install software or...",
     "title": "LogMeIn Application Download and Remote Session Start"
    },
+   "shift4.zendesk.com/hc/en-us/articles/30548852009363-Configure-Kiosk-Admin-Settings": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-25T02:52:35Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/30548852009363-Configure-Kiosk-Admin-Settings",
+    "page": 1,
+    "summary": "Learn how to set up and start using the Kiosk in your restaurant. Here you can customize the appearance, language, and order settings.",
+    "title": "Configure Kiosk Admin Settings"
+   },
    "shift4.zendesk.com/hc/en-us/articles/32201572061587-View-the-Kiosk-Dashboard": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -8182,6 +8200,24 @@
     "summary": "A data management platform (DMP) is a platform that builds audiences for advertisers from anonymous browsing data aggregated from internet users. Websites carry ...",
     "title": "How Data Management Platforms Work: 2026 Guide to DMPs"
    },
+   "shopify.com/blog/ddp-shipping": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-25T02:52:35Z",
+    "link": "https://www.shopify.com/blog/ddp-shipping",
+    "page": 3,
+    "summary": "Delivered Duty Paid (DDP) shipping puts freight, import duties, and taxes on the seller. Learn how DDP shipping works, what a DDP price covers, and when ...",
+    "title": "DDP Shipping: Pros & Cons for Buyers and Sellers (2026)"
+   },
+   "shopify.com/blog/digital-marketing-strategy": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-25T02:52:35Z",
+    "link": "https://www.shopify.com/blog/digital-marketing-strategy",
+    "page": 4,
+    "summary": "Learn what a digital marketing strategy is. Discover frameworks, see how to refine your strategy, and review examples from real brands.",
+    "title": "Digital Marketing Strategy: Build Your Plan in 6 Steps (2026)"
+   },
    "shopify.com/blog/domain-authority": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -8208,6 +8244,15 @@
     "page": 2,
     "summary": "14 ecommerce brands to inspire your online store \u00b7 7. Olipop \u00b7 8. Meow Meow Tweet \u00b7 9. Welly \u00b7 10. KOI \u00b7 11. Nerdwax \u00b7 12. Tsuno \u00b7 13. Velasca \u00b7 14. Our Place.",
     "title": "14 Ecommerce Brands To Inspire You in 2026"
+   },
+   "shopify.com/blog/ecommerce-seo-audit": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-25T02:52:35Z",
+    "link": "https://www.shopify.com/blog/ecommerce-seo-audit",
+    "page": 4,
+    "summary": "Follow an ecommerce SEO audit checklist for Shopify stores covering technical SEO, on-page fixes, duplicate content, and prioritization.",
+    "title": "Ecommerce SEO Audit: Shopify Checklist (2026)"
    },
    "shopify.com/blog/ecommerce-virtual-assistant": {
     "baseline": false,
@@ -8647,6 +8692,15 @@
     "summary": "Website promotion is the work of getting people to your site. See 11 free and paid ways to promote your store, and what each one costs.",
     "title": "Website Promotion: 11 Ways to Promote Your Store (2026)"
    },
+   "shopify.com/blog/reputation-management": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-25T02:52:35Z",
+    "link": "https://www.shopify.com/blog/reputation-management",
+    "page": 2,
+    "summary": "Reviews, mentions, and search results shape customer trust. Explore strategies and software to manage your brand online.",
+    "title": "Online Reputation Management: A Business Guide (2026)"
+   },
    "shopify.com/blog/retail-release-roundup": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -8790,6 +8844,15 @@
     "page": 2,
     "summary": "What is a website title? It's the HTML title tag that names a page in browser tabs and search results. Learn how to write one that earns clicks.",
     "title": "What Is a Website Title: Definition and Examples (2026)"
+   },
+   "shopify.com/blog/what-is-marketing-automation": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-25T02:52:35Z",
+    "link": "https://www.shopify.com/blog/what-is-marketing-automation",
+    "page": 5,
+    "summary": "Discover how marketing automation works for online stores, including key types, useful tools, best practices, and how AI is shaping automation.",
+    "title": "Marketing Automation: A Guide for Online Stores (2026)"
    },
    "shopify.com/blog/what-is-shopify": {
     "baseline": false,
