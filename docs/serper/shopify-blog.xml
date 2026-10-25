@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-25T12:51:10Z</updated>
+  <updated>2026-10-25T16:09:52Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/sales-tools</id>
+    <title>Sales Tools: 10 Types and Which Your Store Needs (2026)</title>
+    <link href="https://www.shopify.com/blog/sales-tools" />
+    <published>2026-10-25T16:09:52Z</published>
+    <updated>2026-10-25T16:09:52Z</updated>
+    <summary>A sales tool is software that helps you sell with less manual work, like a CRM that stores customer data or an automation app that sends follow-up emails. If ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.shopify.com/blog/ecommerce-cms</id>
+    <title>Best Ecommerce CMS Platforms 2026: Top 9 Solutions</title>
+    <link href="https://www.shopify.com/blog/ecommerce-cms" />
+    <published>2026-10-25T16:09:52Z</published>
+    <updated>2026-10-25T16:09:52Z</updated>
+    <summary>Shopify is an all-in-one ecommerce CMS solution designed to help store owners easily build and manage their online businesses. With affordable plans, beautiful ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/shopping-cart</id>
     <title>Ecommerce Shopping Cart: Types and How To Choose ...</title>
@@ -787,21 +803,5 @@
     <published>2026-10-12T08:09:28Z</published>
     <updated>2026-10-12T08:09:28Z</updated>
     <summary>A corporation is a legal entity created under state law that exists separately from the individuals who establish, own, and manage it.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/standard-operating-procedure</id>
-    <title>How To Write a Standard Operating Procedure (2026)</title>
-    <link href="https://www.shopify.com/blog/standard-operating-procedure" />
-    <published>2026-10-12T04:01:41Z</published>
-    <updated>2026-10-12T04:01:41Z</updated>
-    <summary>A standard operating procedure (SOP) is a written document that outlines the steps a team needs to follow to complete a task. This helps outcomes stay ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/how-to-design-a-shirt</id>
-    <title>How To Design a Shirt in 9 Steps (2026)</title>
-    <link href="https://www.shopify.com/blog/how-to-design-a-shirt" />
-    <published>2026-10-11T19:44:45Z</published>
-    <updated>2026-10-11T19:44:45Z</updated>
-    <summary>Learn how to design a shirt in nine easy steps, from concept to print-ready files, with a printing method comparison and print spec checklist.</summary>
   </entry>
 </feed>

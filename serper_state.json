@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 17853,
+  "credits_used": 17903,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-25T15:08:25Z",
+  "last_run": "2026-10-25T16:09:52Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 364
+  "runs": 365
  },
  "feeds": {
   "adp-help": {
@@ -4093,6 +4093,15 @@
     "page": 1,
     "summary": "A loyalty and membership program flips that priority: it turns one-time visitors into repeat customers, and repeat customers into a database you can actually ...",
     "title": "How to Build a Restaurant Loyalty & Membership Program ..."
+   },
+   "chowbus.com/blog/restaurant-reservation-waitlist-system-2026": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-25T16:09:52Z",
+    "link": "https://www.chowbus.com/blog/restaurant-reservation-waitlist-system-2026",
+    "page": 1,
+    "summary": "A full dining room looks like a good problem \u2014 until you watch what a reservation and waitlist system that doesn't work actually costs you: no-shows that ...",
+    "title": "Restaurant Reservation & Waitlist System (2026): How It ..."
    },
    "chowbus.com/blog/standalone-vs-integrated-delivery-management-cost-time-framework": {
     "baseline": false,
@@ -8326,6 +8335,15 @@
     "summary": "14 ecommerce brands to inspire your online store \u00b7 7. Olipop \u00b7 8. Meow Meow Tweet \u00b7 9. Welly \u00b7 10. KOI \u00b7 11. Nerdwax \u00b7 12. Tsuno \u00b7 13. Velasca \u00b7 14. Our Place.",
     "title": "14 Ecommerce Brands To Inspire You in 2026"
    },
+   "shopify.com/blog/ecommerce-cms": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-25T16:09:52Z",
+    "link": "https://www.shopify.com/blog/ecommerce-cms",
+    "page": 3,
+    "summary": "Shopify is an all-in-one ecommerce CMS solution designed to help store owners easily build and manage their online businesses. With affordable plans, beautiful ...",
+    "title": "Best Ecommerce CMS Platforms 2026: Top 9 Solutions"
+   },
    "shopify.com/blog/ecommerce-schema": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -8835,6 +8853,15 @@
     "page": 2,
     "summary": "How to write a sales pitch \u00b7 1. Know your target audience \u00b7 2. Tailor the pitch to the buyer in front of you \u00b7 3. Choose your opening line \u00b7 4. Start with the ...",
     "title": "Sales Pitch Examples, Templates, and How To Write One ..."
+   },
+   "shopify.com/blog/sales-tools": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-25T16:09:52Z",
+    "link": "https://www.shopify.com/blog/sales-tools",
+    "page": 3,
+    "summary": "A sales tool is software that helps you sell with less manual work, like a CRM that stores customer data or an automation app that sends follow-up emails. If ...",
+    "title": "Sales Tools: 10 Types and Which Your Store Needs (2026)"
    },
    "shopify.com/blog/sales-tools-small-business": {
     "baseline": false,
