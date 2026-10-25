@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-25T02:52:35Z</updated>
+  <updated>2026-10-25T03:53:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/japan/2026/10/30349/yamaha_resize2/</id>
+    <title>yamaha_resize2 - SAP Japan プレスルーム</title>
+    <link href="https://news.sap.com/japan/2026/10/30349/yamaha_resize2/" />
+    <published>2026-10-25T03:53:05Z</published>
+    <updated>2026-10-25T03:53:05Z</updated>
+    <summary>"&gt; Middle East and Africa "&gt; Choose your Region Americas "&gt; … プレス フィーチャー トピック yamaha_resize2 動画プレーヤー. This site uses cookies and related ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/japan/2026/10/1022_sanwa-needle-bearing-adopts-sap-cloud-erp-to-modernize-30-year-old-core-system/three-businessmen-meeting-in-a-conference-room/</id>
     <title>Three businessmen meeting in a conference room.</title>
@@ -795,13 +803,5 @@
     <published>2026-10-15T10:10:26Z</published>
     <updated>2026-10-15T10:10:26Z</updated>
     <summary>Entdecken Sie, wie SAP künstliche Intelligenz für öffentliche Verwaltungen nutzt, um effiziente Dienstleistungen zu bieten.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/topics/solutions/</id>
-    <title>SAP Solutions News &amp; Articles</title>
-    <link href="https://news.sap.com/topics/solutions/" />
-    <published>2026-10-15T08:14:16Z</published>
-    <updated>2026-10-15T08:14:16Z</updated>
-    <summary>News, information, feature articles, press releases, blogs &amp; stories about SAP solutions for industries, lines of business, small and medium enterprises, ...</summary>
   </entry>
 </feed>
