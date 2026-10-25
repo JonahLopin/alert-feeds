@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 17558,
+  "credits_used": 17607,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-25T08:48:02Z",
+  "last_run": "2026-10-25T09:45:25Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 358
+  "runs": 359
  },
  "feeds": {
   "adp-help": {
@@ -4927,6 +4927,15 @@
     "summary": "Automate QuickBooks Online tasks with Custom Automations -- describe what you want in plain English and Intuit Intelligence builds it.",
     "title": "Automate tasks with Custom Automations - QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/business-reports/create-dashboards-view-key-business-insights/L7C4Ftrzx_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-25T09:45:25Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/business-reports/create-dashboards-view-key-business-insights/L7C4Ftrzx_US_en_US",
+    "page": 3,
+    "summary": "Dashboards show key business info like sales, profit, and cash flow. They use visuals like charts, graphs, and summaries. This helps you check your business ...",
+    "title": "Create and manage dashboards - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/case-management/use-resolution-center-manage-support-cases/L7uOjgKXA_US_en_US": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -8200,6 +8209,15 @@
     "summary": "See what merchants pay in card processing fees. Compare six provider rates, and learn how to calculate your effective rate.",
     "title": "Credit Card Processing Fees in 2026"
    },
+   "shopify.com/blog/cro-statistics": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-25T09:45:25Z",
+    "link": "https://www.shopify.com/blog/cro-statistics",
+    "page": 3,
+    "summary": "Conversion rate optimization strategically improves your website to turn visitors into buyers\u2014and the stats don't lie.",
+    "title": "CRO Statistics: Conversion Rate Optimization Stats (2026)"
+   },
    "shopify.com/blog/curbside-pickup": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -11264,6 +11282,15 @@
     "page": 1,
     "summary": "Huerth \u2013 October 2, 2026 \u2013 Three days, countless ideas and one shared goal: to actively shape the future of the legal market. Around 70 participants from the ...",
     "title": "Wolters Kluwer hosts Legal Hackathon 2026 in Germany"
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-integrates-libra-ai-workflows-into-monkey-for-belgian-tax-professionals": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-25T09:45:25Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-integrates-libra-ai-workflows-into-monkey-for-belgian-tax-professionals",
+    "page": 1,
+    "summary": "The add-in of Libra by Wolters Kluwer brings AI capabilities directly into monKEY's trusted tax research environment and marks an important milestone in ...",
+    "title": "Wolters Kluwer Integrates Libra AI Workflows into monKEY"
    },
    "wolterskluwer.com/en/news/wolters-kluwer-introduces-ovid-guidelines-ai-transforming-clinical-guideline-development-agentic-ai": {
     "baseline": false,
