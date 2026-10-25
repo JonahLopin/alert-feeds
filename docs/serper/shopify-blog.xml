@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-25T19:07:10Z</updated>
+  <updated>2026-10-25T20:09:13Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/ecommerce-strategy</id>
+    <title>How To Build an Ecommerce Strategy in 2026</title>
+    <link href="https://www.shopify.com/blog/ecommerce-strategy" />
+    <published>2026-10-25T20:09:13Z</published>
+    <updated>2026-10-25T20:09:13Z</updated>
+    <summary>An ecommerce strategy helps brands tap into the growing global market. Whether your website supports a physical store or is exclusively an online business, ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.shopify.com/blog/discounts-and-coupons</id>
+    <title>21 Discount Code Ideas to Boost Sales in 2026</title>
+    <link href="https://www.shopify.com/blog/discounts-and-coupons" />
+    <published>2026-10-25T20:09:13Z</published>
+    <updated>2026-10-25T20:09:13Z</updated>
+    <summary>Discover 21 discount code ideas that drive sales without hurting your margins. Get code examples and learn naming tips and best practices.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/digital-product-passport</id>
     <title>Digital Product Passport (DPP): Rules and Dates (2026)</title>
@@ -787,21 +803,5 @@
     <published>2026-10-13T07:46:46Z</published>
     <updated>2026-10-13T07:46:46Z</updated>
     <summary>No top-level domain is permanently free. Here's how to get a domain name for free, what each really costs, and which fits a store.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/on-page-seo</id>
-    <title>On-Page SEO: How To Optimize Your Store (2026)</title>
-    <link href="https://www.shopify.com/blog/on-page-seo" />
-    <published>2026-10-13T01:23:17Z</published>
-    <updated>2026-10-13T01:23:17Z</updated>
-    <summary>On-page SEO helps search engines understand your pages. Explore six key optimizations and how to apply them across your online store.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/marketing-strategies</id>
-    <title>Marketing Strategies: Types &amp; How To Build One (2026)</title>
-    <link href="https://www.shopify.com/blog/marketing-strategies" />
-    <published>2026-10-12T17:10:20Z</published>
-    <updated>2026-10-12T17:10:20Z</updated>
-    <summary>A marketing strategy is a necessary part of running a business, whether you're a scrappy startup or an established brand. It's what keeps your team focused ...</summary>
   </entry>
 </feed>

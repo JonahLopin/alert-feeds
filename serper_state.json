@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 18051,
+  "credits_used": 18101,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-25T19:07:10Z",
+  "last_run": "2026-10-25T20:09:13Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 368
+  "runs": 369
  },
  "feeds": {
   "adp-help": {
@@ -8353,6 +8353,15 @@
     "summary": "What is a digital wallet? A digital wallet is an app or online service that allows users to securely store payment methods like credit cards and debit cards, as ...",
     "title": "What Are Digital Wallets and How They Work (2026)"
    },
+   "shopify.com/blog/discounts-and-coupons": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-25T20:09:13Z",
+    "link": "https://www.shopify.com/blog/discounts-and-coupons",
+    "page": 5,
+    "summary": "Discover 21 discount code ideas that drive sales without hurting your margins. Get code examples and learn naming tips and best practices.",
+    "title": "21 Discount Code Ideas to Boost Sales in 2026"
+   },
    "shopify.com/blog/domain-authority": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -8406,6 +8415,15 @@
     "page": 4,
     "summary": "Follow an ecommerce SEO audit checklist for Shopify stores covering technical SEO, on-page fixes, duplicate content, and prioritization.",
     "title": "Ecommerce SEO Audit: Shopify Checklist (2026)"
+   },
+   "shopify.com/blog/ecommerce-strategy": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-25T20:09:13Z",
+    "link": "https://www.shopify.com/blog/ecommerce-strategy",
+    "page": 4,
+    "summary": "An ecommerce strategy helps brands tap into the growing global market. Whether your website supports a physical store or is exclusively an online business, ...",
+    "title": "How To Build an Ecommerce Strategy in 2026"
    },
    "shopify.com/blog/ecommerce-virtual-assistant": {
     "baseline": false,
