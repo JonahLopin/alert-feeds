@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 17656,
+  "credits_used": 17705,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-25T10:44:41Z",
+  "last_run": "2026-10-25T11:43:18Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 360
+  "runs": 361
  },
  "feeds": {
   "adp-help": {
@@ -7890,6 +7890,15 @@
     "summary": "The portal is a centralized tool that allows you to generate reports covering every aspect of your gift card program's performance. In addition, you can perform ...",
     "title": "Shift4 Gift Card Portal Overview"
    },
+   "shift4.zendesk.com/hc/en-us/articles/46403757430931-Ticket-Detail-Open-Report-on-SkyTab-Lighthouse-Business-Manager": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-25T11:43:18Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/46403757430931-Ticket-Detail-Open-Report-on-SkyTab-Lighthouse-Business-Manager",
+    "page": 1,
+    "summary": "The Ticket Detail (Open) Report provides detailed information about all open tickets in the system. Each ticket includes details such as items, discounts, ...",
+    "title": "Ticket Detail (Open) Report on Shift4 Dine Customer Hub"
+   },
    "shift4.zendesk.com/hc/en-us/articles/47961339906579-Payment-Links-in-Lighthouse-Business-Manager-Europe": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -8926,6 +8935,15 @@
     "summary": "The six elements of effective website management cover everything from protecting customer data and testing page speed to updating product information. Some ...",
     "title": "Website Management: Elements, Costs, and Tools (2026)"
    },
+   "shopify.com/blog/welcome-email": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-25T11:43:18Z",
+    "link": "https://www.shopify.com/blog/welcome-email",
+    "page": 3,
+    "summary": "Connect with customers and drive sales with these welcome email examples, templates, and tips.",
+    "title": "Welcome Email Examples, Templates, and Tips (2026)"
+   },
    "shopify.com/blog/what-is-a-corporation": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -8988,6 +9006,15 @@
     "page": 1,
     "summary": "Xero vs. QuickBooks: compare pricing, users, payroll, and integrations to find the accounting software that fits your store best.",
     "title": "Xero vs. QuickBooks: Which Is Better in 2026?"
+   },
+   "shopify.com/blog/youtube-marketing": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-25T11:43:18Z",
+    "link": "https://www.shopify.com/blog/youtube-marketing",
+    "page": 3,
+    "summary": "Learn how to create a YouTube channel, promote videos effectively, and use proven marketing strategies to drive traffic and sales to your business.",
+    "title": "YouTube Marketing: Strategies and Tips (2026)"
    }
   },
   "sovos-blog": {
