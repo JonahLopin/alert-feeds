@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 18001,
+  "credits_used": 18051,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-25T18:11:07Z",
+  "last_run": "2026-10-25T19:07:10Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 367
+  "runs": 368
  },
  "feeds": {
   "adp-help": {
@@ -8334,6 +8334,15 @@
     "page": 4,
     "summary": "Learn what a digital marketing strategy is. Discover frameworks, see how to refine your strategy, and review examples from real brands.",
     "title": "Digital Marketing Strategy: Build Your Plan in 6 Steps (2026)"
+   },
+   "shopify.com/blog/digital-product-passport": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-25T19:07:10Z",
+    "link": "https://www.shopify.com/blog/digital-product-passport",
+    "page": 5,
+    "summary": "EU rules will require digital product passports for a growing list of products. See what a DPP holds, who is covered, and when deadlines land.",
+    "title": "Digital Product Passport (DPP): Rules and Dates (2026)"
    },
    "shopify.com/blog/digital-wallets": {
     "baseline": false,
