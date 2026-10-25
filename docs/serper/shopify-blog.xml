@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-25T16:09:52Z</updated>
+  <updated>2026-10-25T17:08:16Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/barcode-inventory-management</id>
+    <title>Barcode Inventory Management: How It Works (2026)</title>
+    <link href="https://www.shopify.com/blog/barcode-inventory-management" />
+    <published>2026-10-25T17:08:16Z</published>
+    <updated>2026-10-25T17:08:16Z</updated>
+    <summary>To set up barcode inventory management for your store, compare systems, scanners, software, and apps to cut errors and keep stock counts accurate.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/sales-tools</id>
     <title>Sales Tools: 10 Types and Which Your Store Needs (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-12T10:40:01Z</published>
     <updated>2026-10-12T10:40:01Z</updated>
     <summary>Imgur is an image hosting and sharing community where users upload images, including memes andGIFs. It's popular with Reddit users, but brands and marketers ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/what-is-a-corporation</id>
-    <title>Corporation Definition and How To Form a Corporation</title>
-    <link href="https://www.shopify.com/blog/what-is-a-corporation" />
-    <published>2026-10-12T08:09:28Z</published>
-    <updated>2026-10-12T08:09:28Z</updated>
-    <summary>A corporation is a legal entity created under state law that exists separately from the individuals who establish, own, and manage it.</summary>
   </entry>
 </feed>

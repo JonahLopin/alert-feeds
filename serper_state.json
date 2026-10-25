@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 17903,
+  "credits_used": 17953,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-25T16:09:52Z",
+  "last_run": "2026-10-25T17:08:16Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 365
+  "runs": 366
  },
  "feeds": {
   "adp-help": {
@@ -5622,6 +5622,15 @@
     "summary": "You can create and run payroll for your employees in Intuit QuickBooks Workforce. This process involves entering employee hours, reviewing pay details, ...",
     "title": "Run payroll in QuickBooks Online Payroll - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/payroll-processes/file-w-2-forms/L8dtYAwC9_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-25T17:08:16Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll-processes/file-w-2-forms/L8dtYAwC9_US_en_US",
+    "page": 1,
+    "summary": "Step 1: Set up your W-2 E-filing \u00b7 Select Employees, then Payroll Center. \u00b7 Open the QuickBooks Desktop Payroll Setup. \u00b7 From the Payroll Center, select the ...",
+    "title": "File your W-2 and W-3 forms - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/payroll-processes/use-auto-payroll-pay-employees/L0ddM31Hs_US_en_US": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -7445,6 +7454,15 @@
     "summary": "SAP Impulsa Empleo ofrece formaci\u00f3n oficial gratuita o subvencionada, con pr\u00e1cticas en sistemas reales, tutor\u00edas, certificaci\u00f3n y contacto directo con empresas, ...",
     "title": "SAP Espa\u00f1a, premiada en los Digital Skills Awards 2026 ..."
    },
+   "news.sap.com/spain/2026/10/sap-espana-premiada-en-los-digital-skills-awards-2026-de-ametic-por-su-impulso-al-talento-y-el-empleo-digital/blue-curtain-stage-background": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-10-25T17:08:16Z",
+    "link": "https://news.sap.com/spain/2026/10/sap-espana-premiada-en-los-digital-skills-awards-2026-de-ametic-por-su-impulso-al-talento-y-el-empleo-digital/blue-curtain-stage-background/",
+    "page": 1,
+    "summary": "Explore todas las \u00e1reas de SAP. Capacitaci\u00f3n y soporte. Capacitaci\u00f3n y certificaci\u00f3n \u00b7 Soporte \u00b7 Documentaci\u00f3n \u00b7 Comunidad. Acerca de.",
+    "title": "Blue Curtain Stage Background - SAP Espa\u00f1a News Center"
+   },
    "news.sap.com/spain/2026/10/sap-espana-premiada-en-los-digital-skills-awards-2026-de-ametic-por-su-impulso-al-talento-y-el-empleo-digital?amp=1": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -7716,6 +7734,15 @@
     "page": 1,
     "summary": "\u041a\u0418\u0407\u0412, 7 \u0436\u043e\u0432\u0442\u043d\u044f 2026 \u0440\u043e\u043a\u0443 \u2014 SAP \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0430\u043b\u0430 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u043d\u044f Social Impact Award Ukraine 2026 \u2014 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0457 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438 \u0440\u043e\u0437\u0432\u0438\u0442\u043a\u0443 \u043c\u043e\u043b\u043e\u0434\u043e\u0433\u043e \u0441\u043e\u0446\u0456\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u043d\u0438\u0446\u0442\u0432\u0430.",
     "title": "\u043e\u0433\u043e\u043b\u043e\u0441\u0438\u043b\u0438 \u043f\u0435\u0440\u0435\u043c\u043e\u0436\u0446\u0456\u0432 Social Impact Award Ukraine 2026"
+   },
+   "news.sap.com/ukraine/2026/10/sap-%D0%BF%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D1%83%D1%94-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D1%85-%D1%81%D0%BE%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D1%85-%D0%BF%D1%96%D0%B4%D0%BF%D1%80%D0%B8/sap-social-impact-award-cover-5-1": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-10-25T17:08:16Z",
+    "link": "https://news.sap.com/ukraine/2026/10/sap-%D0%BF%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D1%83%D1%94-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D1%85-%D1%81%D0%BE%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D1%85-%D0%BF%D1%96%D0%B4%D0%BF%D1%80%D0%B8/sap-social-impact-award-cover-5-1/",
+    "page": 1,
+    "summary": "Impact Award Cover (5) may include site operation, analytics, enhanced user experience, or advertising.",
+    "title": "SAP Social Impact Award Cover (5) (1)"
    },
    "news.sap.com/wp-admin/*": {
     "baseline": false,
@@ -8128,6 +8155,15 @@
     "page": 1,
     "summary": "Use these marketing KPIs to assess the success of your B2B marketing efforts and see where your marketing and sales teams can make improvements.",
     "title": "10 Essential Marketing KPIs B2B Businesses Should Track"
+   },
+   "shopify.com/blog/barcode-inventory-management": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-25T17:08:16Z",
+    "link": "https://www.shopify.com/blog/barcode-inventory-management",
+    "page": 5,
+    "summary": "To set up barcode inventory management for your store, compare systems, scanners, software, and apps to cut errors and keep stock counts accurate.",
+    "title": "Barcode Inventory Management: How It Works (2026)"
    },
    "shopify.com/blog/best-dropshipping-apps": {
     "baseline": false,
