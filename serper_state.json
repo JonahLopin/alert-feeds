@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 17313,
+  "credits_used": 17362,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-25T03:53:05Z",
+  "last_run": "2026-10-25T04:48:30Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 353
+  "runs": 354
  },
  "feeds": {
   "adp-help": {
@@ -5249,6 +5249,15 @@
     "summary": "Searching third party sick pay taxable? Follow this quick guide \u2014 the right way, the first time. Easier than you'd expect.",
     "title": "Report third-party sick pay in QuickBooks Online Payroll and ..."
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/insurance-medical-benefits/update-state-unemployment-insurance-sui-rate/L0VwoJdv1_US_en_US": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-25T04:48:30Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/insurance-medical-benefits/update-state-unemployment-insurance-sui-rate/L0VwoJdv1_US_en_US",
+    "page": 4,
+    "summary": "Searching get my UI rate? Follow this quick guide \u2014 and avoid common mistakes. Easier than you'd expect.",
+    "title": "Update your State Unemployment Insurance (SUI) rate"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-account-management/evolution-quickbooks-online-accountant-updating-intuit-accountant-suite/L6jm9Au47_US_en_US": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -8495,6 +8504,15 @@
     "page": 1,
     "summary": "Marketing collateral is print or digital material that promotes your business. See the main types, which to use at each stage, and where to share it.",
     "title": "Marketing Collateral: Types, Examples, and Tips (2026)"
+   },
+   "shopify.com/blog/marketing-research-process": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-25T04:48:30Z",
+    "link": "https://www.shopify.com/blog/marketing-research-process",
+    "page": 5,
+    "summary": "Master the marketing research process with six practical steps, plus an ecommerce example that shows how to turn insights into action.",
+    "title": "The Marketing Research Process in 6 Steps (2026)"
    },
    "shopify.com/blog/marketing-strategies": {
     "baseline": false,

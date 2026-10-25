@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-25T03:53:05Z</updated>
+  <updated>2026-10-25T04:48:30Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/marketing-research-process</id>
+    <title>The Marketing Research Process in 6 Steps (2026)</title>
+    <link href="https://www.shopify.com/blog/marketing-research-process" />
+    <published>2026-10-25T04:48:30Z</published>
+    <updated>2026-10-25T04:48:30Z</updated>
+    <summary>Master the marketing research process with six practical steps, plus an ecommerce example that shows how to turn insights into action.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/what-is-giclee-print</id>
     <title>What Is a Giclee Print? Meaning and How to Sell (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-11T03:05:00Z</published>
     <updated>2026-10-11T03:05:00Z</updated>
     <summary>Paid media works by exchanging dollars for attention on platforms like social media, search engines, display networks, and streaming sites.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/online-payment-methods</id>
-    <title>Online Payment Methods: What To Accept (2026)</title>
-    <link href="https://www.shopify.com/blog/online-payment-methods" />
-    <published>2026-10-11T03:05:00Z</published>
-    <updated>2026-10-11T03:05:00Z</updated>
-    <summary>Online payment methods are the ways customers pay for an order on your website. These include credit or debit cards, digital wallets, buy now, ...</summary>
   </entry>
 </feed>
