@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 17509,
+  "credits_used": 17558,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-25T07:45:43Z",
+  "last_run": "2026-10-25T08:48:02Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 357
+  "runs": 358
  },
  "feeds": {
   "adp-help": {
@@ -8289,6 +8289,15 @@
     "page": 2,
     "summary": "14 ecommerce brands to inspire your online store \u00b7 7. Olipop \u00b7 8. Meow Meow Tweet \u00b7 9. Welly \u00b7 10. KOI \u00b7 11. Nerdwax \u00b7 12. Tsuno \u00b7 13. Velasca \u00b7 14. Our Place.",
     "title": "14 Ecommerce Brands To Inspire You in 2026"
+   },
+   "shopify.com/blog/ecommerce-schema": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-25T08:48:02Z",
+    "link": "https://www.shopify.com/blog/ecommerce-schema",
+    "page": 3,
+    "summary": "Ecommerce schema markup helps Google and AI tools read your product data accurately, powering rich snippets. This guide covers structured data types, ...",
+    "title": "Ecommerce Schema: Your Structured Data Guide for 2026"
    },
    "shopify.com/blog/ecommerce-seo-audit": {
     "baseline": false,
