@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 17607,
+  "credits_used": 17656,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-25T09:45:25Z",
+  "last_run": "2026-10-25T10:44:41Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 359
+  "runs": 360
  },
  "feeds": {
   "adp-help": {
@@ -8343,6 +8343,15 @@
     "page": 1,
     "summary": "Email accessibility is the practice of making your marketing messages readable for users with visual disabilities and screen reader users.",
     "title": "Email Accessibility Guidelines for Ecommerce Marketers"
+   },
+   "shopify.com/blog/entrepreneur-quotes": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-25T10:44:41Z",
+    "link": "https://www.shopify.com/blog/entrepreneur-quotes",
+    "page": 3,
+    "summary": "Entrepreneur quotes shed light on how business leaders harness inspiration and tackle challenges. This might include words of encouragement, inspiration, ...",
+    "title": "41 Entrepreneur Quotes for Inspiration from Business Owners"
    },
    "shopify.com/blog/entrepreneurial-mindset": {
     "baseline": true,

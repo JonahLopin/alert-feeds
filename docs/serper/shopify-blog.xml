@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-25T09:45:25Z</updated>
+  <updated>2026-10-25T10:44:41Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/entrepreneur-quotes</id>
+    <title>41 Entrepreneur Quotes for Inspiration from Business Owners</title>
+    <link href="https://www.shopify.com/blog/entrepreneur-quotes" />
+    <published>2026-10-25T10:44:41Z</published>
+    <updated>2026-10-25T10:44:41Z</updated>
+    <summary>Entrepreneur quotes shed light on how business leaders harness inspiration and tackle challenges. This might include words of encouragement, inspiration, ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/cro-statistics</id>
     <title>CRO Statistics: Conversion Rate Optimization Stats (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-11T09:10:42Z</published>
     <updated>2026-10-11T09:10:42Z</updated>
     <summary>SWOT stands for strengths, weaknesses, opportunities, and threats. A SWOT analysis is a planning tool that assesses these four factors in your business. It's a ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/gross-merchandise-value</id>
-    <title>Gross Merchandise Value (GMV): Meaning and Formula ...</title>
-    <link href="https://www.shopify.com/blog/gross-merchandise-value" />
-    <published>2026-10-11T06:17:37Z</published>
-    <updated>2026-10-11T06:17:37Z</updated>
-    <summary>Gross merchandise value (GMV) measures the total value of goods sold through your store or platform, before expenses and fees, over a specific period of time.</summary>
   </entry>
 </feed>
