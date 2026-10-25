@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 17362,
+  "credits_used": 17411,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-25T04:48:30Z",
+  "last_run": "2026-10-25T05:46:23Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 354
+  "runs": 355
  },
  "feeds": {
   "adp-help": {
@@ -493,6 +493,15 @@
     "page": 1,
     "summary": "Marissa Perlmutter joined Barnes & Thornburg as a partner in Washington, DC, the firm announced Wednesday.",
     "title": "Barnes & Thornburg Recruits Public Finance Partner in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/bcs-left-wing-leader-loses-to-conservatives-in-vote-he-called": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-25T05:46:23Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/bcs-left-wing-leader-loses-to-conservatives-in-vote-he-called",
+    "page": 1,
+    "summary": "British Columbia is set. BC's Left-Wing Leader Loses to Conservatives in Vote He Called Oct. 24, 2026, defeat for David Eby , the leader of the BC NDP",
+    "title": "BC's Left-Wing Leader Loses to Conservatives in Vote He ..."
    },
    "news.bloomberglaw.com/business-and-practice/bgov-onpoint-trump-court-prospects-hinge-on-tight-senate-races": {
     "baseline": false,
