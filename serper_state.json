@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 18201,
+  "credits_used": 18251,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-25T22:08:27Z",
+  "last_run": "2026-10-25T23:08:17Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 371
+  "runs": 372
  },
  "feeds": {
   "adp-help": {
@@ -8666,6 +8666,15 @@
     "page": 3,
     "summary": "Lifestyle photography shows your products in real-life settings. See ecommerce examples and get tips on how to shoot your own.",
     "title": "What Is Lifestyle Photography? Examples & Tips (2026)"
+   },
+   "shopify.com/blog/loyalty-program": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-25T23:08:17Z",
+    "link": "https://www.shopify.com/blog/loyalty-program",
+    "page": 3,
+    "summary": "A loyalty program is a marketing strategy that encourages repeat business by rewarding customers for their continued patronage. Typically, with a brand loyalty ...",
+    "title": "Loyalty Programs: Real Examples & Best Practices (2026)"
    },
    "shopify.com/blog/make-money-podcasting": {
     "baseline": false,
