@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-26T03:41:37Z</updated>
+  <updated>2026-10-26T14:09:26Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/user-persona</id>
+    <title>User Persona: Definition, Examples, and Template (2026)</title>
+    <link href="https://www.shopify.com/blog/user-persona" />
+    <published>2026-10-26T14:09:26Z</published>
+    <updated>2026-10-26T14:09:26Z</updated>
+    <summary>A user persona is a research-based fictional profile that represents a group of people who use your product or website. Say you sell running shoes.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/the-ultimate-guide-to-retail-store-layouts</id>
     <title>Store Layout: Ideas, Types &amp; Design Tips (2026) - Shopify</title>
@@ -795,13 +803,5 @@
     <published>2026-10-15T16:11:19Z</published>
     <updated>2026-10-15T16:11:19Z</updated>
     <summary>Pay per click (PPC) is an online advertising model where advertisers pay a fee each time a user clicks on their ad. It has also become an umbrella term for ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/break-even-point</id>
-    <title>How To Calculate the Break-Even Point for Your Products</title>
-    <link href="https://www.shopify.com/blog/break-even-point" />
-    <published>2026-10-15T10:10:26Z</published>
-    <updated>2026-10-15T10:10:26Z</updated>
-    <summary>A company's break-even point is the line between generating a net profit and operating at a net loss. It identifies the exact sales volume or revenue that ...</summary>
   </entry>
 </feed>
