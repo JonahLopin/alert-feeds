@@ -3067,6 +3067,12 @@
    "summary": "ReserveReleases represent the release of funds from a ReserveHold. Was this section helpful?YesNo. EndpointsEvents. More.",
    "title": "Reserve Releases | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:12702875758723858066": {
+   "first_seen": "2026-10-26T16:50:44Z",
+   "link": "https://docs.stripe.com/global-payouts/send-money/paper-checks",
+   "summary": "Send a USD payout from your financial account to a recipient as a paper check. You can customize the check with a signature, a memo, ...",
+   "title": "Send payouts by paper check - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:13168888411314708221": {
    "first_seen": "2026-10-17T22:43:04Z",
    "link": "https://docs.stripe.com/api/radar/early_fraud_warnings/object?api-version=2026-09-30.preview",
@@ -3168,6 +3174,12 @@
    "link": "https://docs.stripe.com/workload-identity-federation",
    "summary": "Learn how Workload Identity Federation differs from bearer-token API key authentication, and how to set up a trusted workload identity provider ...",
    "title": "Workload Identity Federation | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:15270659600566303246": {
+   "first_seen": "2026-10-26T16:50:44Z",
+   "link": "https://docs.stripe.com/global-payouts/send-money/crypto-wallets",
+   "summary": "Learn how to use Global Payouts to send USDC and OUSD stablecoin payouts from your financial account to recipients' crypto wallets in more than ...",
+   "title": "Send payouts with crypto - stablecoin - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:1542134788171224504": {
    "first_seen": "2026-10-22T10:47:14Z",

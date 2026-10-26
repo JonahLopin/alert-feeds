@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-24T16:45:23Z</updated>
+  <updated>2026-10-26T16:50:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:15270659600566303246</id>
+    <title>Send payouts with crypto - stablecoin - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/global-payouts/send-money/crypto-wallets" />
+    <published>2026-10-26T16:50:44Z</published>
+    <updated>2026-10-26T16:50:44Z</updated>
+    <summary>Learn how to use Global Payouts to send USDC and OUSD stablecoin payouts from your financial account to recipients' crypto wallets in more than ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12702875758723858066</id>
+    <title>Send payouts by paper check - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/global-payouts/send-money/paper-checks" />
+    <published>2026-10-26T16:50:44Z</published>
+    <updated>2026-10-26T16:50:44Z</updated>
+    <summary>Send a USD payout from your financial account to a recipient as a paper check. You can customize the check with a signature, a memo, ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:1579658284861607203</id>
     <title>Account Activities | Stripe API Reference</title>
