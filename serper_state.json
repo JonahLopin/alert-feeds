@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 18955,
+  "credits_used": 19008,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-26T16:13:45Z",
+  "last_run": "2026-10-26T17:09:42Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 386
+  "runs": 387
  },
  "feeds": {
   "adp-help": {
@@ -1946,6 +1946,15 @@
     "summary": "The plaintiffs sued after an IEC Group employee emailed a spreadsheet containing their health information to other plan members, according to the complaint. The ...",
     "title": "IEC Group Privacy Suit Over Spreadsheet Leak Revived on ..."
    },
+   "news.bloomberglaw.com/business-and-practice/illinois-health-system-settles-meta-google-info-sharing-suit": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-26T17:09:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/illinois-health-system-settles-meta-google-info-sharing-suit",
+    "page": 1,
+    "summary": "Deaconess Health System has settled a proposed class action alleging the Illinois-based health care provider disclosed patient data to Meta Platforms Inc.",
+    "title": "Illinois Health System Settles Meta, Google Info Sharing Suit"
+   },
    "news.bloomberglaw.com/business-and-practice/imf-world-bank-tout-bangkok-blueprint-against-digital-fraud-1": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -2782,6 +2791,15 @@
     "summary": "Culkar's practice focuses on traditional labor law, representing employers in union campaigns, contract negotiations, grievance arbitrations, unfair labor ...",
     "title": "Ogletree Deakins Secures Six Fisher Phillips Labor Lawyers"
    },
+   "news.bloomberglaw.com/business-and-practice/ogletree-enlists-laner-muchin-labor-lawyer-for-chicago-practice": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-26T17:09:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ogletree-enlists-laner-muchin-labor-lawyer-for-chicago-practice",
+    "page": 1,
+    "summary": "She advises and counsels management on collective bargaining negotiations, grievance and arbitration proceedings, and jurisdictional disputes, and represents ...",
+    "title": "Ogletree Enlists Laner Muchin Labor Lawyer for Chicago ..."
+   },
    "news.bloomberglaw.com/business-and-practice/ogletree-recruits-privacy-partner-khan-for-san-francisco-office": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -3168,6 +3186,15 @@
     "page": 1,
     "summary": "Massachusetts' high court upheld a conviction under a state law restricting permits for handguns to those older than 21. Photographer: Bing Guan/Bloomberg.",
     "title": "Split Massachusetts High Court Upholds Handgun-Permit ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/squire-patton-boggs-hires-gowlings-poynter-for-infrastructure": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-26T17:09:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/squire-patton-boggs-hires-gowlings-poynter-for-infrastructure",
+    "page": 1,
+    "summary": "Alexandra Poynter joined Squire Patton Boggs as a partner in its infrastructure practice in Birmingham, the firm announced Monday.",
+    "title": "Squire Patton Boggs Hires Gowling's Poynter for ..."
    },
    "news.bloomberglaw.com/business-and-practice/starbucks-china-will-require-purchases-to-sit-in-its-cafes": {
     "baseline": false,
@@ -7552,6 +7579,15 @@
     "page": 2,
     "summary": "Meteen naar de inhoud. Blogs & Nieuws \u00b7 Press \u00b7 Artikelen \u00b7 Onderwerpen \u00b7 Volg. Ontdek SAP. Verken alle gebieden van SAP. Training en support.",
     "title": "SAP Mensura 1 - SAP Nederland Blogs & Nieuws"
+   },
+   "news.sap.com/netherlands/2026/10/sap-presenteert-kwartaalcijfers-over-derde-kwartaal-2026": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-26T17:09:42Z",
+    "link": "https://news.sap.com/netherlands/2026/10/sap-presenteert-kwartaalcijfers-over-derde-kwartaal-2026/",
+    "page": 1,
+    "summary": "SAP heeft vandaag de financi\u00eble resultaten over het derde kwartaal van 2026 bekendgemaakt. 28% tot \u20ac24,1 miljard.",
+    "title": "SAP presenteert kwartaalcijfers over derde kwartaal 2026"
    },
    "news.sap.com/netherlands/2026/10/sap-sluit-overeenkomst-voor-overname-techwolf-beter-inzicht-in-werk-en-vaardigheden/smiling-entrepreneur-in-a-modern-office-lobby-holding-a-phone": {
     "baseline": false,

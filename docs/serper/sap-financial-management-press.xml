@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-26T15:14:23Z</updated>
+  <updated>2026-10-26T17:09:42Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/netherlands/2026/10/sap-presenteert-kwartaalcijfers-over-derde-kwartaal-2026/</id>
+    <title>SAP presenteert kwartaalcijfers over derde kwartaal 2026</title>
+    <link href="https://news.sap.com/netherlands/2026/10/sap-presenteert-kwartaalcijfers-over-derde-kwartaal-2026/" />
+    <published>2026-10-26T17:09:42Z</published>
+    <updated>2026-10-26T17:09:42Z</updated>
+    <summary>SAP heeft vandaag de financiële resultaten over het derde kwartaal van 2026 bekendgemaakt. 28% tot €24,1 miljard.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/spain/2026/10/aceleracion-de-la-transformacion-en-los-procesos-de-fabricacion-despliegue-estrategico-de-ia-y-arquitectura-en-la-nube-y-edge-computing/</id>
     <title>despliegue estratégico de IA y arquitectura en la nube y ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-16T09:47:17Z</published>
     <updated>2026-10-16T09:47:17Z</updated>
     <summary>Deploying agents turns out to be the easy part. more than 40% of agentic AI projects will be cancelled before the end of next year.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/cz/2026/10/pardubicky-panasonic-presel-na-rizeni-vyroby-v-realnem-case-zamestnanci-ziskali-detailni-prehled-o-vykonu-linek/_jan8573-edit/</id>
-    <title>_JAN8573-Edit - SAP Czech Republic Pro novináře</title>
-    <link href="https://news.sap.com/cz/2026/10/pardubicky-panasonic-presel-na-rizeni-vyroby-v-realnem-case-zamestnanci-ziskali-detailni-prehled-o-vykonu-linek/_jan8573-edit/" />
-    <published>2026-10-16T06:48:03Z</published>
-    <updated>2026-10-16T06:48:03Z</updated>
-    <summary>Tiskové zprávy a novinky · Tiskové materiály. Seznámit se se SAP. Prozkoumejte všechny oblasti společnosti SAP. Vzdělávání a podpora.</summary>
   </entry>
 </feed>
