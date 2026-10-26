@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 19008,
+  "credits_used": 19060,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-26T17:09:42Z",
+  "last_run": "2026-10-26T18:16:23Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 387
+  "runs": 388
  },
  "feeds": {
   "adp-help": {
@@ -1282,6 +1282,15 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/dojs-transgender-care-subpoena-appeal-confronts-doubtful-judges",
     "summary": "The First Circuit on Wednesday heard the government's appeals of rulings that quashed sweeping subpoenas into the provision of care for transgender minors at ...",
     "title": "DOJ's Transgender Care Subpoena Appeal Confronts ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/dutch-investors-poised-to-flee-crypto-over-wealth-tax-carveout": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-26T18:16:23Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/dutch-investors-poised-to-flee-crypto-over-wealth-tax-carveout",
+    "page": 2,
+    "summary": "Dutch investors will likely ditch their cryptocurrency if the asset class is carved out of a shift to a new investor-friendly wealth tax, industry groups ...",
+    "title": "Dutch Investors Poised to Flee Crypto Over Wealth-Tax ..."
    },
    "news.bloomberglaw.com/business-and-practice/education-agency-targets-student-abuse-as-other-cases-languish": {
     "baseline": false,
@@ -2890,6 +2899,15 @@
     "summary": "An intercompany legal services agreement, or ILSA, provides real-time evidence of an attorney-client relationships among both in-house and external counsel, as ...",
     "title": "Pacts Protect Attorney-Client Privilege Across Company ..."
    },
+   "news.bloomberglaw.com/business-and-practice/paul-hastings-lands-reed-smith-fund-finance-partner-mac-campbell": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-26T18:16:23Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/paul-hastings-lands-reed-smith-fund-finance-partner-mac-campbell",
+    "page": 1,
+    "summary": "Maccailein (Mac) Campbell joined Paul Hastings as a partner in its fund finance practice in London, the firm announced Monday.",
+    "title": "Paul Hastings Lands Reed Smith Fund Finance Partner ..."
+   },
    "news.bloomberglaw.com/business-and-practice/paul-hastings-nabs-sheppard-mullin-california-litigation-trio": {
     "baseline": false,
     "date_hint": "58 minutes ago",
@@ -4129,6 +4147,15 @@
     "page": 1,
     "summary": "Raphael Kuyler joined Willkie as a partner in its power and renewable energy practice in Washington, D.C., the firm announced Tuesday.",
     "title": "Willkie Taps Westinghouse Nuclear Lawyer Kuyler in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/wilson-sonsini-eyes-2-billion-anthropic-stake-in-leading-ipo": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-26T18:16:23Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wilson-sonsini-eyes-2-billion-anthropic-stake-in-leading-ipo",
+    "page": 1,
+    "summary": "Wilson Sonsini Eyes $2 Billion Anthropic Stake in Leading IPO ... Anthropic PBC turned to a handful of Big Law firms ahead of its Monday filing of a prospectus ...",
+    "title": "Wilson Sonsini Eyes $2 Billion Anthropic Stake in Leading ..."
    },
    "news.bloomberglaw.com/business-and-practice/winston-taylor-brings-on-corporate-m-a-partner-mestre-in-dallas": {
     "baseline": false,
@@ -10621,6 +10648,15 @@
     "summary": "Learn how to manage payouts for your platform's connected accounts. help with your payout settings and status. manages their external payout accounts (bank ...",
     "title": "Manage connected account payouts"
    },
+   "docs.stripe.com/connect/platform-tax-reporting/collection?locale=fr-FR": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-26T18:16:23Z",
+    "link": "https://docs.stripe.com/connect/platform-tax-reporting/collection?locale=fr-FR",
+    "page": 1,
+    "summary": "Connect collecte des informations \u00e0 l'inscription pour assurer la conformit\u00e9 de vos comptes en mati\u00e8re de paiements. Votre plateforme peut exiger des ...",
+    "title": "Collecte, validation et v\u00e9rification des informations de ..."
+   },
    "docs.stripe.com/connect/platform-tax-reporting/dashboard": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -10696,6 +10732,15 @@
     "page": 1,
     "summary": "Deprecate when you need to make an extension version unavailable for new activations while allowing extensions already activated on that version to continue ...",
     "title": "Deprecate and archive extensions"
+   },
+   "docs.stripe.com/global-payouts/send-money/crypto-wallets": {
+    "baseline": false,
+    "date_hint": "15 hours ago",
+    "first_seen": "2026-10-26T18:16:23Z",
+    "link": "https://docs.stripe.com/global-payouts/send-money/crypto-wallets",
+    "page": 1,
+    "summary": "Send payouts to your recipients' crypto wallets, or pay out your crypto balance to bank accounts in local currency.",
+    "title": "Send payouts with crypto - stablecoin"
    },
    "docs.stripe.com/global-payouts/send-money/recipient-countries": {
     "baseline": false,
