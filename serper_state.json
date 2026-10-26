@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 18500,
+  "credits_used": 18550,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-26T04:38:40Z",
+  "last_run": "2026-10-26T05:34:41Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 377
+  "runs": 378
  },
  "feeds": {
   "adp-help": {
@@ -4050,6 +4050,15 @@
     "page": 1,
     "summary": "This guide isn't a generic \"best bar POS\" list. It's about the specific tab, room, and check-management problems of Asian nightlife venues \u2014 izakayas, KTV/ ...",
     "title": "Bar POS for Izakayas, KTV Lounges & Asian Nightlife (2026)"
+   },
+   "chowbus.com/blog/best-self-ordering-kiosk-for-restaurants-2026": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-26T05:34:41Z",
+    "link": "https://www.chowbus.com/blog/best-self-ordering-kiosk-for-restaurants-2026",
+    "page": 1,
+    "summary": "Quick answer: the best restaurant self-ordering kiosk is fully integrated with your POS, menu, kitchen, and loyalty; supports multilingual ordering and deep ...",
+    "title": "Best Self-Ordering Kiosk for Restaurants in 2026"
    },
    "chowbus.com/blog/choosing-all-in-one-restaurant-platforms-for-dine-in-takeout-and-third-party-delivery": {
     "baseline": false,
