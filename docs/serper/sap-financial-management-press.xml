@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-26T19:30:01Z</updated>
+  <updated>2026-10-26T22:32:11Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/2026/10/ai-release-highlights-q3-2026/</id>
+    <title>AI Release Highlights Q3 2026</title>
+    <link href="https://news.sap.com/2026/10/ai-release-highlights-q3-2026/" />
+    <published>2026-10-26T22:32:11Z</published>
+    <updated>2026-10-26T22:32:11Z</updated>
+    <summary>In Q3 2026, SAP marks a major step in delivering on the Autonomous Enterprise, with 45000 cloud customers now using our AI solutions.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/netherlands/2026/10/sap-presenteert-kwartaalcijfers-over-derde-kwartaal-2026/?amp=1</id>
     <title>SAP presenteert kwartaalcijfers over derde kwartaal 2026</title>
@@ -795,13 +803,5 @@
     <published>2026-10-16T10:46:23Z</published>
     <updated>2026-10-16T10:46:23Z</updated>
     <summary>Deploying agents turns out to be the easy part. Proving what they are worth is where projects are coming undone.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/germany/2026/10/schatten-ki-krankenhaus/</id>
-    <title>Schatten-KI im Krankenhaus: Warum die Antwort nicht das ...</title>
-    <link href="https://news.sap.com/germany/2026/10/schatten-ki-krankenhaus/" />
-    <published>2026-10-16T09:47:17Z</published>
-    <updated>2026-10-16T09:47:17Z</updated>
-    <summary>KI im Gesundheitswesen kann Entscheidungsunterstützung für Fachpersonal bieten. Erfahren Sie mehr über die Wichtigkeit kuratierter Daten.</summary>
   </entry>
 </feed>

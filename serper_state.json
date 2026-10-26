@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 19220,
+  "credits_used": 19274,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-26T21:30:25Z",
+  "last_run": "2026-10-26T22:32:11Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 391
+  "runs": 392
  },
  "feeds": {
   "adp-help": {
@@ -377,6 +377,15 @@
     "page": 4,
     "summary": "The company generated $16.8 billion in quarterly revenue and positive free cash flow, with an adjusted gross margin of 85%, according to people familiar with ...",
     "title": "Anthropic Results May Aid IPO but Not AI Trade, Analysts Say"
+   },
+   "news.bloomberglaw.com/business-and-practice/anthropic-warns-of-existential-risk-liability-and-slowing-sales": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-26T22:32:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/anthropic-warns-of-existential-risk-liability-and-slowing-sales",
+    "page": 2,
+    "summary": "The list included everything from slowing revenue growth and government regulation to \u201ccatastrophic or existential risks to humanity.\u201d The scope of the risks ...",
+    "title": "Anthropic Warns of Existential Risk, Liability and Slowing ..."
    },
    "news.bloomberglaw.com/business-and-practice/appeals-court-debates-its-ability-to-hear-immigration-challenge": {
     "baseline": false,
@@ -1076,6 +1085,15 @@
     "page": 2,
     "summary": "George \u201cChip\u201d Nierlich joined Debevoise & Plimpton as a partner in its antitrust group in Washington, D.C., the firm announced Tuesday.",
     "title": "Debevoise Recruits Ex-DOJ Antitrust Lawyer Chip Nierlich ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/defunct-law-firms-retirement-plan-pays-out-funds-after-dol-suit": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-26T22:32:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/defunct-law-firms-retirement-plan-pays-out-funds-after-dol-suit",
+    "page": 3,
+    "summary": "A defunct Chicago law firm's retirement plan paid out nearly $6.5 million in assets to 40 employees after the US Department of Labor alleged its fiduciaries ...",
+    "title": "Defunct Law Firm's Retirement Plan Pays Out Funds After ..."
    },
    "news.bloomberglaw.com/business-and-practice/delawares-ai-run-company-proposal-draws-congressional-scrutiny": {
     "baseline": false,
@@ -3400,6 +3418,15 @@
     "page": 4,
     "summary": "The US Supreme Court lifted a ruling that would have allowed use of student-ID cards to help show eligibility to vote in New Hampshire, ...",
     "title": "Supreme Court Backs Republicans in New Hampshire ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/supreme-court-passes-on-louisianas-fight-over-coastal-damages": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-26T22:32:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/supreme-court-passes-on-louisianas-fight-over-coastal-damages",
+    "page": 2,
+    "summary": "The US Supreme Court on Monday denied Louisiana's bid for the high court to scrap a Fifth Circuit order pausing one of its suits against an oil and gas ...",
+    "title": "Supreme Court Passes on Louisiana's Fight Over Coastal ..."
    },
    "news.bloomberglaw.com/business-and-practice/supreme-court-to-hear-claim-of-bias-in-school-admissions-policy": {
     "baseline": false,
@@ -6081,6 +6108,15 @@
     "summary": "QuickBooks Online performance relies on browser efficiency, computer processing power, available memory (RAM), and internet bandwidth.",
     "title": "Why is my QuickBooks Online slow? - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/progress-invoicing/set-send-progress-invoices-quickbooks-desktop/L4uENow3f_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-26T22:32:11Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/progress-invoicing/set-send-progress-invoices-quickbooks-desktop/L4uENow3f_US_en_US",
+    "page": 3,
+    "summary": "Create progress invoices for a job on QuickBooks for Mac \u00b7 Open estimate and select Customers, then select Create Invoice. \u00b7 Select the info you want on the ...",
+    "title": "Set up and send progress invoices in QuickBooks Desktop"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/purchase-orders/create-edit-custom-fields-quickbooks-online/L56PQNif3_US_en_US": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -6509,6 +6545,15 @@
     "page": 1,
     "summary": "SAP challenged partners to build AI agents, and the response far exceeded expectations. Learn about the 1k AI agent goal for SAP TechEd.",
     "title": "1k AI Agents by SAP TechEd: Accelerating with Partners"
+   },
+   "news.sap.com/2026/10/ai-release-highlights-q3-2026": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-26T22:32:11Z",
+    "link": "https://news.sap.com/2026/10/ai-release-highlights-q3-2026/",
+    "page": 1,
+    "summary": "In Q3 2026, SAP marks a major step in delivering on the Autonomous Enterprise, with 45000 cloud customers now using our AI solutions.",
+    "title": "AI Release Highlights Q3 2026"
    },
    "news.sap.com/2026/10/back-to-the-future-30-years-of-sap-teched": {
     "baseline": false,

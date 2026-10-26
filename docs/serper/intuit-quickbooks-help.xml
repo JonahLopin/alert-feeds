@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-10-26T04:38:40Z</updated>
+  <updated>2026-10-26T22:32:11Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/progress-invoicing/set-send-progress-invoices-quickbooks-desktop/L4uENow3f_US_en_US</id>
+    <title>Set up and send progress invoices in QuickBooks Desktop</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/progress-invoicing/set-send-progress-invoices-quickbooks-desktop/L4uENow3f_US_en_US" />
+    <published>2026-10-26T22:32:11Z</published>
+    <updated>2026-10-26T22:32:11Z</updated>
+    <summary>Create progress invoices for a job on QuickBooks for Mac · Open estimate and select Customers, then select Create Invoice. · Select the info you want on the ...</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/login-and-password/reactivate-intuit-account/L4O9lZ14r_US_en_US</id>
     <title>Reactivate your Intuit Account - QuickBooks</title>
@@ -795,13 +803,5 @@
     <published>2026-10-11T03:05:00Z</published>
     <updated>2026-10-11T03:05:00Z</updated>
     <summary>Running into trouble? Here's how to fix error message 15XXX when downloading payroll updates in QuickBooks Workforce. Get unstuck in minutes.</summary>
-  </entry>
-  <entry>
-    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/taxation/set-assign-new-work-location/L1IfLvvLv_US_en_US</id>
-    <title>Set up and manage work locations - QuickBooks - Intuit</title>
-    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/taxation/set-assign-new-work-location/L1IfLvvLv_US_en_US" />
-    <published>2026-10-11T03:05:00Z</published>
-    <updated>2026-10-11T03:05:00Z</updated>
-    <summary>Learn how to set up and manage work locations — so everything reconciles cleanly. Easier than you'd expect.</summary>
   </entry>
 </feed>
