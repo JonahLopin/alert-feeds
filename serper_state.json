@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 18251,
+  "credits_used": 18301,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-25T23:08:17Z",
+  "last_run": "2026-10-26T00:27:35Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 372
+  "runs": 373
  },
  "feeds": {
   "adp-help": {
@@ -5366,6 +5366,15 @@
     "summary": "Learn how to automatically or manually send reminders to customers when your invoices are, or soon to be, overdue. There's an easy way to gently remind ...",
     "title": "Send invoice reminders automatically or manually in ..."
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/job-estimates/automate-invoices-intuit-intelligence/L6mh8JHg5_US_en_US": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-26T00:27:35Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/job-estimates/automate-invoices-intuit-intelligence/L6mh8JHg5_US_en_US",
+    "page": 1,
+    "summary": "Use Intuit Intelligence to create and edit invoices and estimates in bulk, set up smart payment reminders, and track invoice status automatically.",
+    "title": "Automate invoices with Intuit Intelligence - QuickBooks"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/journal-posting/switch-quickbooks-workforce-adp-gusto/L8djZk1E4_US_en_US": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -7872,6 +7881,15 @@
     "page": 1,
     "summary": "Description: Learn how to create and customize departments in Location Management to organize your menu across locations.",
     "title": "Create and Manage Departments in Location Management"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/43076584598419-Configure-Dynamic-Pricing-and-Menu-Availability-in-Multi-Location-Management": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-26T00:27:35Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/43076584598419-Configure-Dynamic-Pricing-and-Menu-Availability-in-Multi-Location-Management",
+    "page": 1,
+    "summary": "Menu Sets allow you to control item availability and pricing by assigning different menus to specific days, times, and optional date ranges.",
+    "title": "Configure Dynamic Pricing and Menu Availability ..."
    },
    "shift4.zendesk.com/hc/en-us/articles/43106955069971-Create-and-Manage-Modifier-Sets-in-Multi-Location-Management": {
     "baseline": true,
@@ -10425,6 +10443,15 @@
     "page": 2,
     "summary": "Para Elements con Checkout Sessions, puedes personalizar las marcas de tarjetas y los tipos de financiaci\u00f3n que quieres restringir cuando creas una sesi\u00f3n ...",
     "title": "Personalizar marcas de tarjetas | Documentaci\u00f3n de Stripe"
+   },
+   "docs.stripe.com/payments/electronic-commerce-indicator?locale=fr-FR": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-26T00:27:35Z",
+    "link": "https://docs.stripe.com/payments/electronic-commerce-indicator?locale=fr-FR",
+    "page": 1,
+    "summary": "Consultez l'indicateur de commerce \u00e9lectronique (ECI) de la r\u00e9ponse du r\u00e9seau de cartes sur l'objet Charge pour les paiements par carte Visa et Mastercard.",
+    "title": "Indicateur de commerce \u00e9lectronique sur les paiements ..."
    },
    "docs.stripe.com/payments/migrations?locale=ja-JP": {
     "baseline": true,

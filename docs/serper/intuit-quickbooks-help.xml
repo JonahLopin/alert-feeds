@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-10-25T17:08:16Z</updated>
+  <updated>2026-10-26T00:27:35Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/job-estimates/automate-invoices-intuit-intelligence/L6mh8JHg5_US_en_US</id>
+    <title>Automate invoices with Intuit Intelligence - QuickBooks</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/job-estimates/automate-invoices-intuit-intelligence/L6mh8JHg5_US_en_US" />
+    <published>2026-10-26T00:27:35Z</published>
+    <updated>2026-10-26T00:27:35Z</updated>
+    <summary>Use Intuit Intelligence to create and edit invoices and estimates in bulk, set up smart payment reminders, and track invoice status automatically.</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll-processes/file-w-2-forms/L8dtYAwC9_US_en_US</id>
     <title>File your W-2 and W-3 forms - QuickBooks - Intuit</title>
@@ -795,13 +803,5 @@
     <published>2026-10-11T03:05:00Z</published>
     <updated>2026-10-11T03:05:00Z</updated>
     <summary>Create a new Intuit account with your email and a password. If you have an existing account, sign in using those credentials. Enter your personal information to ...</summary>
-  </entry>
-  <entry>
-    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-client/transfer-clients-intuit-accountant-suite/L2a0pk1mS_US_en_US</id>
-    <title>Transfer clients in Intuit Accountant Suite (IAS)</title>
-    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-client/transfer-clients-intuit-accountant-suite/L2a0pk1mS_US_en_US" />
-    <published>2026-10-11T03:05:00Z</published>
-    <updated>2026-10-11T03:05:00Z</updated>
-    <summary>You can move clients between Intuit Accountant Suite (IAS) accounts. All their info, client numbers, and team access move with them.</summary>
   </entry>
 </feed>

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-25T01:39:43Z</updated>
+  <updated>2026-10-26T00:27:35Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/payments/electronic-commerce-indicator?locale=fr-FR</id>
+    <title>Indicateur de commerce électronique sur les paiements ...</title>
+    <link href="https://docs.stripe.com/payments/electronic-commerce-indicator?locale=fr-FR" />
+    <published>2026-10-26T00:27:35Z</published>
+    <updated>2026-10-26T00:27:35Z</updated>
+    <summary>Consultez l'indicateur de commerce électronique (ECI) de la réponse du réseau de cartes sur l'objet Charge pour les paiements par carte Visa et Mastercard.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/reports/reserves?locale=id-ID</id>
     <title>Laporan pencairan dana cadangan</title>
