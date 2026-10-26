@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 18902,
+  "credits_used": 18955,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-26T15:14:23Z",
+  "last_run": "2026-10-26T16:13:45Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 385
+  "runs": 386
  },
  "feeds": {
   "adp-help": {
@@ -1166,6 +1166,15 @@
     "page": 1,
     "summary": "The Justice Department's plan to place more than 1,000 poll monitors at locations nationwide constitutes voter intimidation, the NAACP is alleging in a new ...",
     "title": "DOJ Aims to Intimidate Voters With Poll Monitors, NAACP ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/doj-cant-access-utahs-unredacted-voter-rolls-judge-says": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-26T16:13:45Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-cant-access-utahs-unredacted-voter-rolls-judge-says",
+    "page": 1,
+    "summary": "The Justice Department can't force Utah's lieutenant governor to turn over the state's unredacted voter rolls, a federal judge said",
+    "title": "DOJ Can't Access Utah's Unredacted Voter Rolls, Judge ..."
    },
    "news.bloomberglaw.com/business-and-practice/doj-challenges-legality-of-presidential-records-act-on-appeal-104": {
     "baseline": false,
@@ -2845,6 +2854,15 @@
     "summary": "OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process in response to prior incidents ...",
     "title": "OpenAI to Train AI Models Without Internet After Cyber ..."
    },
+   "news.bloomberglaw.com/business-and-practice/orrick-adds-kirkland-data-center-real-estate-partner-in-chicago": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-26T16:13:45Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/orrick-adds-kirkland-data-center-real-estate-partner-in-chicago",
+    "page": 1,
+    "summary": "TJ Kuban joined Orrick as a partner in its data center practice and energy & infrastructure team in Chicago, the firm announced Monday.",
+    "title": "Orrick Adds Kirkland Data Center Real Estate Partner in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/pacts-protect-attorney-client-privilege-across-company-families": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -4084,6 +4102,15 @@
     "page": 1,
     "summary": "Raphael Kuyler joined Willkie as a partner in its power and renewable energy practice in Washington, D.C., the firm announced Tuesday.",
     "title": "Willkie Taps Westinghouse Nuclear Lawyer Kuyler in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/winston-taylor-brings-on-corporate-m-a-partner-mestre-in-dallas": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-26T16:13:45Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/winston-taylor-brings-on-corporate-m-a-partner-mestre-in-dallas",
+    "page": 1,
+    "summary": "Mestre advises public and private companies on complex domestic and cross-border M&A transactions, guiding buyers and sellers through every stage of the deal ...",
+    "title": "Winston Taylor Brings On Corporate M&A Partner Mestre in ..."
    },
    "news.bloomberglaw.com/business-and-practice/womble-adds-three-k-l-gates-finance-litigation-lawyers-in-boston": {
     "baseline": false,
