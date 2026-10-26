@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-10-26T01:42:49Z</updated>
+  <updated>2026-10-26T02:45:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/bank-deposits/print-batch-detail-report-merchant-service-center/L8iOu0BJ8_US_en_US</id>
+    <title>Print a batch detail report from the Merchant Service Center</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/bank-deposits/print-batch-detail-report-merchant-service-center/L8iOu0BJ8_US_en_US" />
+    <published>2026-10-26T02:45:44Z</published>
+    <updated>2026-10-26T02:45:44Z</updated>
+    <summary>Learn how to print a batch detail report from the Merchant Service Center. You can get a detailed breakdown of transactions within a batch and print a report of ...</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/customer-refunds-credits/give-customers-credit-credit-memos/L6YvqplsS_US_en_US</id>
     <title>How to give customers credit in QuickBooks Online - Intuit</title>
@@ -795,13 +803,5 @@
     <published>2026-10-11T03:05:00Z</published>
     <updated>2026-10-11T03:05:00Z</updated>
     <summary>Learn about the different key performance indicators (KPIs) available in the KPI Scorecard. You can use the KPI Scorecard with a QuickBooks Online Essentials, ...</summary>
-  </entry>
-  <entry>
-    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll-processes/use-auto-payroll-pay-employees/L0ddM31Hs_US_en_US</id>
-    <title>Set up and manage your Auto Payroll - QuickBooks - Intuit</title>
-    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll-processes/use-auto-payroll-pay-employees/L0ddM31Hs_US_en_US" />
-    <published>2026-10-11T03:05:00Z</published>
-    <updated>2026-10-11T03:05:00Z</updated>
-    <summary>Intuit QuickBooks Workforce saves you time by automatically making paychecks for your salaried and hourly team members who work a set number of hours.</summary>
   </entry>
 </feed>
