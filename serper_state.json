@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 19274,
+  "credits_used": 19327,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-26T22:32:11Z",
+  "last_run": "2026-10-26T23:27:58Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 392
+  "runs": 393
  },
  "feeds": {
   "adp-help": {
@@ -2396,6 +2396,15 @@
     "summary": "The Trump administration is canceling an environmental review of energy corridors that would accommodate solar and wind power transmission lines on public ...",
     "title": "Land Bureau Scraps Environmental Review of Solar, Wind ..."
    },
+   "news.bloomberglaw.com/business-and-practice/latham-watkins-taps-hogan-lovells-cadwalader-pe-partner-in-ny": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-26T23:27:58Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/latham-watkins-taps-hogan-lovells-cadwalader-pe-partner-in-ny",
+    "page": 2,
+    "summary": "Kevin Burke joined Latham & Watkins as a partner in its mergers & acquisitions and private equity practice in New York, the firm announced Monday.",
+    "title": "Latham & Watkins Taps Hogan Lovells Cadwalader PE ..."
+   },
    "news.bloomberglaw.com/business-and-practice/law-firm-weils-incoming-boss-decides-against-role-ft-reports": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -3006,6 +3015,15 @@
     "page": 1,
     "summary": "An intercompany legal services agreement, or ILSA, provides real-time evidence of an attorney-client relationships among both in-house and external counsel, as ...",
     "title": "Pacts Protect Attorney-Client Privilege Across Company ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/patent-chief-denies-challenge-over-ties-to-chinas-government": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-26T23:27:58Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/patent-chief-denies-challenge-over-ties-to-chinas-government",
+    "page": 1,
+    "summary": "US Patent and Trademark Office Director John Squires rejected a bid to invalidate a blind fastener patent because of the petitioner's ties to China's ...",
+    "title": "Patent Chief Denies Challenge Over Ties to China's ..."
    },
    "news.bloomberglaw.com/business-and-practice/paul-hastings-lands-reed-smith-fund-finance-partner-mac-campbell": {
     "baseline": false,
