@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 19060,
+  "credits_used": 19113,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-26T18:16:23Z",
+  "last_run": "2026-10-26T19:30:01Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 388
+  "runs": 389
  },
  "feeds": {
   "adp-help": {
@@ -350,6 +350,15 @@
     "page": 2,
     "summary": "Anthropic PBC could spend $750 billion on additional computing power in the coming years, according to a Wall Street Journal report, as the company prepares ...",
     "title": "Anthropic Could Spend $750 Billion on Computing Costs ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/anthropic-ipo-filing-cites-reliance-on-google-amazon-microsoft": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-26T19:30:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/anthropic-ipo-filing-cites-reliance-on-google-amazon-microsoft",
+    "page": 1,
+    "summary": "Anthropic PBC is relying more and more on Alphabet Inc.'s Google, Amazon.com Inc. and Microsoft Corp. to sell its artificial intelligence technology to ...",
+    "title": "Anthropic IPO Filing Cites Reliance on Google, Amazon ..."
    },
    "news.bloomberglaw.com/business-and-practice/anthropic-pitches-ai-safety-bill-to-lawmakers-politico-says": {
     "baseline": false,
@@ -1167,6 +1176,15 @@
     "summary": "The Justice Department's plan to place more than 1,000 poll monitors at locations nationwide constitutes voter intimidation, the NAACP is alleging in a new ...",
     "title": "DOJ Aims to Intimidate Voters With Poll Monitors, NAACP ..."
    },
+   "news.bloomberglaw.com/business-and-practice/doj-appeals-court-ruling-lifting-ban-on-agency-anthropic-use": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-26T19:30:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-appeals-court-ruling-lifting-ban-on-agency-anthropic-use",
+    "page": 2,
+    "summary": "The Trump administration is asking an appeals court to overturn a federal judge's order lifting the government's ban on Anthropic PBC's artificial ...",
+    "title": "DOJ Appeals Court Ruling Lifting Ban on Agency Anthropic ..."
+   },
    "news.bloomberglaw.com/business-and-practice/doj-cant-access-utahs-unredacted-voter-rolls-judge-says": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1820,6 +1838,15 @@
     "page": 3,
     "summary": "Adam L. Hirst joined Haynes Boone as a partner in its real estate practice in New York, the firm announced Tuesday.",
     "title": "Haynes Boone Corrals Real Estate Partner Adam Hirst in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/healthequity-members-dismiss-suit-over-massive-2024-data-breach": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-26T19:30:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/healthequity-members-dismiss-suit-over-massive-2024-data-breach",
+    "page": 1,
+    "summary": "HealthEquity Inc. members dropped their proposed class action alleging the health-benefits manager failed to protect the personal information of more than 4 ...",
+    "title": "HealthEquity Members Dismiss Suit Over Massive 2024 ..."
    },
    "news.bloomberglaw.com/business-and-practice/high-court-skips-case-on-non-signatories-compelling-arbitration": {
     "baseline": false,
@@ -2619,6 +2646,15 @@
     "page": 2,
     "summary": "Jarrett Doe joined Milbank LLP as a partner in its global project, energy and infrastructure finance group in Chicago, the firm announced Monday.",
     "title": "Milbank Hires White & Case's Doe for Project Finance in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/milbank-nabs-sdny-securities-task-force-chief-thomas-in-new-york": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-26T19:30:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/milbank-nabs-sdny-securities-task-force-chief-thomas-in-new-york",
+    "page": 3,
+    "summary": "Andrew Thomas joined Milbank LLP as a partner in its litigation and arbitration group in New York, the firm announced Monday.",
+    "title": "Milbank Nabs SDNY Securities Task Force Chief Thomas ..."
    },
    "news.bloomberglaw.com/business-and-practice/moderna-sheds-investor-lawsuit-over-rsv-vaccine-efficacy-figure": {
     "baseline": true,
@@ -7616,6 +7652,15 @@
     "summary": "SAP heeft vandaag de financi\u00eble resultaten over het derde kwartaal van 2026 bekendgemaakt. 28% tot \u20ac24,1 miljard.",
     "title": "SAP presenteert kwartaalcijfers over derde kwartaal 2026"
    },
+   "news.sap.com/netherlands/2026/10/sap-presenteert-kwartaalcijfers-over-derde-kwartaal-2026?amp=1": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-10-26T19:30:01Z",
+    "link": "https://news.sap.com/netherlands/2026/10/sap-presenteert-kwartaalcijfers-over-derde-kwartaal-2026/?amp=1",
+    "page": 1,
+    "summary": "SAP heeft vandaag de financi\u00eble resultaten over het derde kwartaal van 2026 bekendgemaakt. 28% tot \u20ac24,1 miljard.",
+    "title": "SAP presenteert kwartaalcijfers over derde kwartaal 2026"
+   },
    "news.sap.com/netherlands/2026/10/sap-sluit-overeenkomst-voor-overname-techwolf-beter-inzicht-in-werk-en-vaardigheden/smiling-entrepreneur-in-a-modern-office-lobby-holding-a-phone": {
     "baseline": false,
     "date_hint": "16 hours ago",
@@ -11407,6 +11452,15 @@
     "page": 1,
     "summary": "Vertex O Series Tax Engine streamlines tax calculation across Oracle Cloud ERP and SCM - now Oracle Validated and available on Oracle Marketplace.",
     "title": "Vertex O Series Tax Engine for Oracle Cloud Now Validated"
+   },
+   "vertexinc.com/company/news/latest-news/vertex-introduces-vertex-soltm-connected-ai-powered-tax-and-compliance-experience": {
+    "baseline": false,
+    "date_hint": "58 minutes ago",
+    "first_seen": "2026-10-26T19:30:01Z",
+    "link": "https://www.vertexinc.com/company/news/latest-news/vertex-introduces-vertex-soltm-connected-ai-powered-tax-and-compliance-experience",
+    "page": 1,
+    "summary": "Vertex launches Vertex S\u014dl, an AI-powered tax compliance experience that connects tax determination, workflows and audit-ready evidence. Learn more here.",
+    "title": "Introducing Vertex S\u014dl: AI-Powered Tax Compliance"
    }
   },
   "wolters-kluwer-tax-press": {

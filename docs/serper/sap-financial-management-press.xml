@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-26T17:09:42Z</updated>
+  <updated>2026-10-26T19:30:01Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/netherlands/2026/10/sap-presenteert-kwartaalcijfers-over-derde-kwartaal-2026/?amp=1</id>
+    <title>SAP presenteert kwartaalcijfers over derde kwartaal 2026</title>
+    <link href="https://news.sap.com/netherlands/2026/10/sap-presenteert-kwartaalcijfers-over-derde-kwartaal-2026/?amp=1" />
+    <published>2026-10-26T19:30:01Z</published>
+    <updated>2026-10-26T19:30:01Z</updated>
+    <summary>SAP heeft vandaag de financiële resultaten over het derde kwartaal van 2026 bekendgemaakt. 28% tot €24,1 miljard.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/netherlands/2026/10/sap-presenteert-kwartaalcijfers-over-derde-kwartaal-2026/</id>
     <title>SAP presenteert kwartaalcijfers over derde kwartaal 2026</title>
@@ -795,13 +803,5 @@
     <published>2026-10-16T09:47:17Z</published>
     <updated>2026-10-16T09:47:17Z</updated>
     <summary>KI im Gesundheitswesen kann Entscheidungsunterstützung für Fachpersonal bieten. Erfahren Sie mehr über die Wichtigkeit kuratierter Daten.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/africa/2026/10/bloody-agents/</id>
-    <title>Bloody agents</title>
-    <link href="https://news.sap.com/africa/2026/10/bloody-agents/" />
-    <published>2026-10-16T09:47:17Z</published>
-    <updated>2026-10-16T09:47:17Z</updated>
-    <summary>Deploying agents turns out to be the easy part. more than 40% of agentic AI projects will be cancelled before the end of next year.</summary>
   </entry>
 </feed>
