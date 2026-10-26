@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-26T14:09:26Z</updated>
+  <updated>2026-10-26T15:14:23Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/king-spalding-recruits-clifford-chances-frastai-in-new-york</id>
+    <title>King &amp; Spalding Recruits Clifford Chance's Frastai in New ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/king-spalding-recruits-clifford-chances-frastai-in-new-york" />
+    <published>2026-10-26T15:14:23Z</published>
+    <updated>2026-10-26T15:14:23Z</updated>
+    <summary>Eddie Frastai joined King &amp; Spalding as a partner in its real estate &amp; funds practice group in New York, the firm announced Monday.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/wake-up-call-la-attorney-race-pits-underdog-against-progressive</id>
     <title>Wake Up Call: LA Attorney Race Pits Underdog Against ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T19:08:30Z</published>
     <updated>2026-10-21T19:08:30Z</updated>
     <summary>Six environmental groups led by the Sierra Club sued the Interior Department Wednesday over its rollback of the Endangered Species Act's “blanket” rule,</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/doj-seeks-judge-recusals-in-immigration-cases-over-media-remarks</id>
-    <title>DOJ Seeks Judge Recusals in Immigration Cases Over ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/doj-seeks-judge-recusals-in-immigration-cases-over-media-remarks" />
-    <published>2026-10-21T19:08:30Z</published>
-    <updated>2026-10-21T19:08:30Z</updated>
-    <summary>The Justice Department is demanding that two Minnesota federal judges recuse from ongoing immigration cases after giving recent interviews to the New York ...</summary>
   </entry>
 </feed>

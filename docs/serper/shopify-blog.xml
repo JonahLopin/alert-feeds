@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-26T14:09:26Z</updated>
+  <updated>2026-10-26T15:14:23Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/dropshipping-niches</id>
+    <title>Dropshipping Niches: 8 Profitable Ideas for 2026</title>
+    <link href="https://www.shopify.com/blog/dropshipping-niches" />
+    <published>2026-10-26T15:14:23Z</published>
+    <updated>2026-10-26T15:14:23Z</updated>
+    <summary>Explore the most profitable dropshipping niches, plus how to find one that fits your store, product ideas, and niches to avoid.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/user-persona</id>
     <title>User Persona: Definition, Examples, and Template (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-15T17:09:09Z</published>
     <updated>2026-10-15T17:09:09Z</updated>
     <summary>Branded dropshipping is an ecommerce model where you sell supplier-fulfilled items with your own logo, custom packaging, and product upgrades.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/make-money-with-pay-per-click</id>
-    <title>How To Make Money With Pay-Per-Click Advertising (2026)</title>
-    <link href="https://www.shopify.com/blog/make-money-with-pay-per-click" />
-    <published>2026-10-15T16:11:19Z</published>
-    <updated>2026-10-15T16:11:19Z</updated>
-    <summary>Pay per click (PPC) is an online advertising model where advertisers pay a fee each time a user clicks on their ad. It has also become an umbrella term for ...</summary>
   </entry>
 </feed>
