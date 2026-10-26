@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-25T05:46:23Z</updated>
+  <updated>2026-10-26T01:42:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/law-firm-weils-incoming-boss-decides-against-role-ft-reports</id>
+    <title>Law Firm Weil's Incoming Boss Decides Against Role, FT ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/law-firm-weils-incoming-boss-decides-against-role-ft-reports" />
+    <published>2026-10-26T01:42:49Z</published>
+    <updated>2026-10-26T01:42:49Z</updated>
+    <summary>The federal government sued a former Willkie Farr &amp; Gallagher LLP partner and his wife over more than $14.5 million in unpaid federal income taxes, seeking to ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/bcs-left-wing-leader-loses-to-conservatives-in-vote-he-called</id>
     <title>BC's Left-Wing Leader Loses to Conservatives in Vote He ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T17:08:32Z</published>
     <updated>2026-10-21T17:08:32Z</updated>
     <summary>Food commodity prices are rising, and economists are revising estimates for inflation and deficits. These impacts are now feeding into markets already stressed ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/krogers-ex-ceo-defends-effort-to-close-failed-albertsons-deal</id>
-    <title>Kroger's Ex-CEO Defends Effort to Close Failed Albertsons ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/krogers-ex-ceo-defends-effort-to-close-failed-albertsons-deal" />
-    <published>2026-10-21T16:10:57Z</published>
-    <updated>2026-10-21T16:10:57Z</updated>
-    <summary>Kroger says it spent more than $1 billion to pursue the merger and its litigation fight with antitrust regulators. The deal envisioned Kroger, the largest US ...</summary>
   </entry>
 </feed>

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-25T23:08:17Z</updated>
+  <updated>2026-10-26T01:42:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/retail-math</id>
+    <title>Retail Math: Meaning and 15 Formulas (2026)</title>
+    <link href="https://www.shopify.com/blog/retail-math" />
+    <published>2026-10-26T01:42:49Z</published>
+    <updated>2026-10-26T01:42:49Z</updated>
+    <summary>Successful retail businesses are built on numbers, not hunches, and retail math is how you keep score. It helps you determine what's selling, ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/loyalty-program</id>
     <title>Loyalty Programs: Real Examples &amp; Best Practices (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-14T08:14:08Z</published>
     <updated>2026-10-14T08:14:08Z</updated>
     <summary>How do you make a buyers guide? Start by defining whom the guide is for, then build the content around your own products. Format the guide for fast scanning, ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/shopify-retail-roundup-september-2026-v11-15-11-16</id>
-    <title>Shopify Retail Roundup (September 2026 - v11.15 &amp; 11.16)</title>
-    <link href="https://www.shopify.com/blog/shopify-retail-roundup-september-2026-v11-15-11-16" />
-    <published>2026-10-14T07:14:54Z</published>
-    <updated>2026-10-14T07:14:54Z</updated>
-    <summary>Shopify is always evolving, with new features and updates rolling out regularly to help retailers stay ahead—but keeping up shouldn't be a chore.</summary>
   </entry>
 </feed>

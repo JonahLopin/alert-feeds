@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 18301,
+  "credits_used": 18351,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-26T00:27:35Z",
+  "last_run": "2026-10-26T01:42:49Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 373
+  "runs": 374
  },
  "feeds": {
   "adp-help": {
@@ -2242,6 +2242,15 @@
     "page": 1,
     "summary": "The Trump administration is canceling an environmental review of energy corridors that would accommodate solar and wind power transmission lines on public ...",
     "title": "Land Bureau Scraps Environmental Review of Solar, Wind ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/law-firm-weils-incoming-boss-decides-against-role-ft-reports": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-26T01:42:49Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/law-firm-weils-incoming-boss-decides-against-role-ft-reports",
+    "page": 1,
+    "summary": "The federal government sued a former Willkie Farr & Gallagher LLP partner and his wife over more than $14.5 million in unpaid federal income taxes, seeking to ...",
+    "title": "Law Firm Weil's Incoming Boss Decides Against Role, FT ..."
    },
    "news.bloomberglaw.com/business-and-practice/law-firms-must-quash-perfectionism-not-treat-its-toxic-symptoms": {
     "baseline": false,
@@ -5050,6 +5059,15 @@
     "page": 4,
     "summary": "Send customers credit memos to reduce how much they owe you after a return, discount, or billing error. This keeps the customer's accounts receivable ...",
     "title": "Create and apply credit memos or delayed ... - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/customer-refunds-credits/give-customers-credit-credit-memos/L6YvqplsS_US_en_US": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-26T01:42:49Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/customer-refunds-credits/give-customers-credit-credit-memos/L6YvqplsS_US_en_US",
+    "page": 4,
+    "summary": "Simplify payday and set payroll to run automatically on QuickBooks. Explore Intuit QuickBooks Workforce. Green Circle Icon with Stylized White Letters.",
+    "title": "How to give customers credit in QuickBooks Online - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/customer-refunds-credits/handle-customer-credit-overpayment-quickbooks/L1Z4OZkKB_US_en_US": {
     "baseline": false,
@@ -8979,6 +8997,15 @@
     "page": 2,
     "summary": "Reviews, mentions, and search results shape customer trust. Explore strategies and software to manage your brand online.",
     "title": "Online Reputation Management: A Business Guide (2026)"
+   },
+   "shopify.com/blog/retail-math": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-26T01:42:49Z",
+    "link": "https://www.shopify.com/blog/retail-math",
+    "page": 5,
+    "summary": "Successful retail businesses are built on numbers, not hunches, and retail math is how you keep score. It helps you determine what's selling, ...",
+    "title": "Retail Math: Meaning and 15 Formulas (2026)"
    },
    "shopify.com/blog/retail-release-roundup": {
     "baseline": false,
