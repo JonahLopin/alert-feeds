@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-26T01:42:49Z</updated>
+  <updated>2026-10-26T03:41:37Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/weils-incoming-leader-ramona-nee-turns-down-job-amid-departures</id>
+    <title>Weil's Incoming Leader Ramona Nee Turns Down Job ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/weils-incoming-leader-ramona-nee-turns-down-job-amid-departures" />
+    <published>2026-10-26T03:41:37Z</published>
+    <updated>2026-10-26T03:41:37Z</updated>
+    <summary>Weil Gotshal's incoming executive partner, Ramona Nee, has told her firm's leadership committee she will not take the position, according to two people ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/law-firm-weils-incoming-boss-decides-against-role-ft-reports</id>
     <title>Law Firm Weil's Incoming Boss Decides Against Role, FT ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T17:08:32Z</published>
     <updated>2026-10-21T17:08:32Z</updated>
     <summary>Italy's financial police uncovered a network that combined cash from drug trafficking, fraudulent corporate invoices and conventional bank accounts to move ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/fund-managers-say-theres-nowhere-to-hide-as-super-el-nino-forms</id>
-    <title>Fund Managers Say There's Nowhere to Hide as Super El ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/fund-managers-say-theres-nowhere-to-hide-as-super-el-nino-forms" />
-    <published>2026-10-21T17:08:32Z</published>
-    <updated>2026-10-21T17:08:32Z</updated>
-    <summary>Food commodity prices are rising, and economists are revising estimates for inflation and deficits. These impacts are now feeding into markets already stressed ...</summary>
   </entry>
 </feed>

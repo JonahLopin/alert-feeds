@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 18401,
+  "credits_used": 18450,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-26T02:45:44Z",
+  "last_run": "2026-10-26T03:41:37Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 375
+  "runs": 376
  },
  "feeds": {
   "adp-help": {
@@ -3958,6 +3958,15 @@
     "page": 2,
     "summary": "Yuni Yan Sobel joined Weil, Gotshal & Manges as a partner in its US antitrust practice in New York, the firm announced Monday.",
     "title": "Weil Recruits Paul Weiss Antitrust Lawyer Sobel in New York"
+   },
+   "news.bloomberglaw.com/business-and-practice/weils-incoming-leader-ramona-nee-turns-down-job-amid-departures": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-26T03:41:37Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/weils-incoming-leader-ramona-nee-turns-down-job-amid-departures",
+    "page": 1,
+    "summary": "Weil Gotshal's incoming executive partner, Ramona Nee, has told her firm's leadership committee she will not take the position, according to two people ...",
+    "title": "Weil's Incoming Leader Ramona Nee Turns Down Job ..."
    },
    "news.bloomberglaw.com/business-and-practice/what-should-ai-guardrails-look-like-a-guide-to-the-proposals": {
     "baseline": false,
@@ -8685,6 +8694,15 @@
     "summary": "An immersive retail experience blends art-designed physical spaces and unique services or events to attract customers and make in-store shopping more engaging ...",
     "title": "How To Create an Immersive Retail Experience: Tips & ..."
    },
+   "shopify.com/blog/instagram-algorithm": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-26T03:41:37Z",
+    "link": "https://www.shopify.com/blog/instagram-algorithm",
+    "page": 3,
+    "summary": "Instagram's Explore page algorithm is designed to help users discover new things. It uses the same signals as the feed and Stories, but uses them to curate and ...",
+    "title": "Instagram Algorithm 2026: What You Need To Know"
+   },
    "shopify.com/blog/interchange-plus-pricing": {
     "baseline": false,
     "date_hint": "17 hours ago",
@@ -8873,6 +8891,15 @@
     "summary": "Online payment methods are the ways customers pay for an order on your website. These include credit or debit cards, digital wallets, buy now, ...",
     "title": "Online Payment Methods: What To Accept (2026)"
    },
+   "shopify.com/blog/opening-a-new-retail-location": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-26T03:41:37Z",
+    "link": "https://www.shopify.com/blog/opening-a-new-retail-location",
+    "page": 4,
+    "summary": "Plan your new retail location launch with Shopify POS \u2014 admin setup, network, devices, staff training, and your first week checklist.",
+    "title": "Opening a New Retail Location with Shopify POS: The Complete ..."
+   },
    "shopify.com/blog/paid-media": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -9016,6 +9043,15 @@
     "summary": "Successful retail businesses are built on numbers, not hunches, and retail math is how you keep score. It helps you determine what's selling, ...",
     "title": "Retail Math: Meaning and 15 Formulas (2026)"
    },
+   "shopify.com/blog/retail-optimization": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-26T03:41:37Z",
+    "link": "https://www.shopify.com/blog/retail-optimization",
+    "page": 4,
+    "summary": "Retail Optimization: Guide to Efficient Operations Learn how retail optimization improves efficiency, inventory management, and sales. Discover strategies, tools, and real-world success stories.",
+    "title": "Retail Optimization: Guide to Efficient Operations (2026 ..."
+   },
    "shopify.com/blog/retail-release-roundup": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -9150,6 +9186,15 @@
     "page": 1,
     "summary": "Americans are starting businesses at record rates. Explore new Shopify data tracking the rising economic impact and reach of US entrepreneurship.",
     "title": "US Entrepreneurship is Surging: What New Shopify Data ..."
+   },
+   "shopify.com/blog/the-ultimate-guide-to-retail-store-layouts": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-26T03:41:37Z",
+    "link": "https://www.shopify.com/blog/the-ultimate-guide-to-retail-store-layouts",
+    "page": 4,
+    "summary": "Store layout shapes how customers shop and buy. Get proven layout types, real store examples, and expert tips on flow, fixtures, and design that boost sales.",
+    "title": "Store Layout: Ideas, Types & Design Tips (2026) - Shopify"
    },
    "shopify.com/blog/usage-rights": {
     "baseline": false,
