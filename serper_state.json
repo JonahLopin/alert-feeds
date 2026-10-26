@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 19166,
+  "credits_used": 19220,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-26T20:32:50Z",
+  "last_run": "2026-10-26T21:30:25Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 390
+  "runs": 391
  },
  "feeds": {
   "adp-help": {
@@ -2207,6 +2207,15 @@
     "summary": "President Donald Trump called the judge, a former Williams & Connolly partner and Joe Biden appointee, a \u201ccrazed lunatic\u201d days after she snapped at government .",
     "title": "Judge Targeted in Trump Golf Course Case Known for 'No ..."
    },
+   "news.bloomberglaw.com/business-and-practice/judges-eye-jurisdiction-in-covid-19-tax-credit-guidance-dispute-42": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-26T21:30:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/judges-eye-jurisdiction-in-covid-19-tax-credit-guidance-dispute-42",
+    "page": 3,
+    "summary": "A Ninth Circuit panel Monday questioned whether a tax advisory firm can directly challenge IRS employee retention credit guidance under the Administrative ...",
+    "title": "Judges Eye Jurisdiction in Covid-19 Tax Credit Guidance ..."
+   },
    "news.bloomberglaw.com/business-and-practice/judges-ponder-jurisdiction-in-migrant-child-legal-aid-funds-case": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -3249,6 +3258,15 @@
     "page": 2,
     "summary": "Pruitt's practice focuses on representing pharmaceutical and medical device companies, as well as other companies in consumer class actions and toxic tort ...",
     "title": "Skadden Brings On Four Mass Tort and Product Liability ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/skydance-asks-staff-to-take-voluntary-buyouts-before-wider-cuts": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-26T21:30:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/skydance-asks-staff-to-take-voluntary-buyouts-before-wider-cuts",
+    "page": 2,
+    "summary": "Skydance Corp. co-Chief Executive Officer David Ellison told employees of the newly merged company that they will be expected to come into the office five ...",
+    "title": "Skydance Asks Staff to Take Voluntary Buyouts Before ..."
    },
    "news.bloomberglaw.com/business-and-practice/snell-wilmer-opens-mexico-city-office-with-four-partner-group-1": {
     "baseline": false,
