@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 18702,
+  "credits_used": 18752,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-26T09:28:57Z",
+  "last_run": "2026-10-26T10:36:02Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 381
+  "runs": 382
  },
  "feeds": {
   "adp-help": {
@@ -6708,6 +6708,15 @@
     "summary": "Nachrichten und Pressemitteilungen von SAP: Lesen Sie Artikel \u00fcber Unternehmens- und Technologietrends, Kundenberichte und interessante Videos im SAP-TV!",
     "title": "SAP News Center Deutschland | Unternehmensberichte & ..."
    },
+   "news.sap.com/germany/2026/10/30-jahre-teched": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-26T10:36:02Z",
+    "link": "https://news.sap.com/germany/2026/10/30-jahre-teched/",
+    "page": 1,
+    "summary": "Entdecken Sie die L\u00f6sungen und Technologien, die SAP TechEd antreiben und die Zukunft der Unternehmenssoftware gestalten.",
+    "title": "Zur\u00fcck in die Zukunft: 30 Jahre TechEd"
+   },
    "news.sap.com/germany/2026/10/30-jahre-teched?amp=1": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -10471,6 +10480,15 @@
     "page": 1,
     "summary": "Deprecate when you need to make an extension version unavailable for new activations while allowing extensions already activated on that version to continue ...",
     "title": "Deprecate and archive extensions"
+   },
+   "docs.stripe.com/global-payouts/send-money/recipient-countries": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-26T10:36:02Z",
+    "link": "https://docs.stripe.com/global-payouts/send-money/recipient-countries",
+    "page": 1,
+    "summary": "Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).",
+    "title": "Supported recipient countries - Global Payouts"
    },
    "docs.stripe.com/js/custom_checkout/checkout_form_methods?ref=spectralwebservices.com": {
     "baseline": true,

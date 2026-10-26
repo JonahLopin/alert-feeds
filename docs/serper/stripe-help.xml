@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-26T00:27:35Z</updated>
+  <updated>2026-10-26T10:36:02Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/global-payouts/send-money/recipient-countries</id>
+    <title>Supported recipient countries - Global Payouts</title>
+    <link href="https://docs.stripe.com/global-payouts/send-money/recipient-countries" />
+    <published>2026-10-26T10:36:02Z</published>
+    <updated>2026-10-26T10:36:02Z</updated>
+    <summary>Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payments/electronic-commerce-indicator?locale=fr-FR</id>
     <title>Indicateur de commerce électronique sur les paiements ...</title>

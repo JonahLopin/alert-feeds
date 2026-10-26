@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-26T09:28:57Z</updated>
+  <updated>2026-10-26T10:36:02Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/2026/10/30-jahre-teched/</id>
+    <title>Zurück in die Zukunft: 30 Jahre TechEd</title>
+    <link href="https://news.sap.com/germany/2026/10/30-jahre-teched/" />
+    <published>2026-10-26T10:36:02Z</published>
+    <updated>2026-10-26T10:36:02Z</updated>
+    <summary>Entdecken Sie die Lösungen und Technologien, die SAP TechEd antreiben und die Zukunft der Unternehmenssoftware gestalten.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/germany/2026/10/30-jahre-teched/?amp=1</id>
     <title>Zurück in die Zukunft: 30 Jahre TechEd</title>
@@ -795,13 +803,5 @@
     <published>2026-10-15T21:09:55Z</published>
     <updated>2026-10-15T21:09:55Z</updated>
     <summary>AI is creating new possibilities for how commercial work gets done. +1-800-872-1727</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/spain/2026/10/escalabilidad-empresarial/</id>
-    <title>Escalabilidad empresarial: cómo preparar tu operativa ...</title>
-    <link href="https://news.sap.com/spain/2026/10/escalabilidad-empresarial/" />
-    <published>2026-10-15T18:13:24Z</published>
-    <updated>2026-10-15T18:13:24Z</updated>
-    <summary>La escalabilidad empresarial es la capacidad de una organización para aumentar su actividad manteniendo una operativa preparada para asumir nuevas exigencias.</summary>
   </entry>
 </feed>
