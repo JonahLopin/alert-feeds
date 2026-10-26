@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-26T07:12:47Z</updated>
+  <updated>2026-10-26T09:28:57Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/2026/10/30-jahre-teched/?amp=1</id>
+    <title>Zurück in die Zukunft: 30 Jahre TechEd</title>
+    <link href="https://news.sap.com/germany/2026/10/30-jahre-teched/?amp=1" />
+    <published>2026-10-26T09:28:57Z</published>
+    <updated>2026-10-26T09:28:57Z</updated>
+    <summary>Entdecken Sie die Lösungen und Technologien, die SAP TechEd antreiben und die Zukunft der Unternehmenssoftware gestalten.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/japan/2026/10/1026_shimamura-music-enhances-cx-and-decision-making/?amp=1</id>
     <title>島村楽器、顧客体験と経営判断の高度化に向けて SAPの小売 ...</title>
@@ -794,14 +802,6 @@
     <link href="https://news.sap.com/spain/2026/10/escalabilidad-empresarial/" />
     <published>2026-10-15T18:13:24Z</published>
     <updated>2026-10-15T18:13:24Z</updated>
-    <summary>La escalabilidad empresarial es la capacidad de una organización para aumentar su actividad manteniendo una operativa preparada para asumir nuevas exigencias.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/spain/2026/10/escalabilidad-empresarial/?amp=1</id>
-    <title>cómo preparar tu operativa para un crecimiento sin límites</title>
-    <link href="https://news.sap.com/spain/2026/10/escalabilidad-empresarial/?amp=1" />
-    <published>2026-10-15T17:09:09Z</published>
-    <updated>2026-10-15T17:09:09Z</updated>
     <summary>La escalabilidad empresarial es la capacidad de una organización para aumentar su actividad manteniendo una operativa preparada para asumir nuevas exigencias.</summary>
   </entry>
 </feed>

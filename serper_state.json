@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 18651,
+  "credits_used": 18702,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-26T08:20:08Z",
+  "last_run": "2026-10-26T09:28:57Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 380
+  "runs": 381
  },
  "feeds": {
   "adp-help": {
@@ -6707,6 +6707,15 @@
     "page": 1,
     "summary": "Nachrichten und Pressemitteilungen von SAP: Lesen Sie Artikel \u00fcber Unternehmens- und Technologietrends, Kundenberichte und interessante Videos im SAP-TV!",
     "title": "SAP News Center Deutschland | Unternehmensberichte & ..."
+   },
+   "news.sap.com/germany/2026/10/30-jahre-teched?amp=1": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-26T09:28:57Z",
+    "link": "https://news.sap.com/germany/2026/10/30-jahre-teched/?amp=1",
+    "page": 1,
+    "summary": "Entdecken Sie die L\u00f6sungen und Technologien, die SAP TechEd antreiben und die Zukunft der Unternehmenssoftware gestalten.",
+    "title": "Zur\u00fcck in die Zukunft: 30 Jahre TechEd"
    },
    "news.sap.com/germany/2026/10/autonomes-supply-chain-management": {
     "baseline": false,
