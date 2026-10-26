@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 18752,
+  "credits_used": 18803,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-26T10:36:02Z",
+  "last_run": "2026-10-26T11:36:32Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 382
+  "runs": 383
  },
  "feeds": {
   "adp-help": {
@@ -278,6 +278,15 @@
     "page": 1,
     "summary": "Data center developers have started touting new technologies that slash the amount of water needed to cool hot-running servers in drought-stressed places ...",
     "title": "AI Data Centers' Water Use Grows in Drought-Stricken Areas"
+   },
+   "news.bloomberglaw.com/business-and-practice/ai-safety-emerges-as-midterm-flashpoint-in-battleground-races": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-26T11:36:32Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ai-safety-emerges-as-midterm-flashpoint-in-battleground-races",
+    "page": 1,
+    "summary": "The fears bubbling on Capitol Hill about AI disrupting the economy or wiping out humanity are seeping into the midterm elections,",
+    "title": "AI Safety Emerges as Midterm Flashpoint in Battleground ..."
    },
    "news.bloomberglaw.com/business-and-practice/ai-tech-fears-push-global-credit-spreads-to-17-month-high-1": {
     "baseline": false,
@@ -1255,6 +1264,15 @@
     "page": 1,
     "summary": "Sexual abuse of students by K-12 school employees has emerged as a new Education Department civil rights enforcement priority",
     "title": "Education Agency Targets Student Abuse as Other Cases ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/eli-lilly-toughens-legal-game-plan-over-next-weight-loss-drug": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-26T11:36:32Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/eli-lilly-toughens-legal-game-plan-over-next-weight-loss-drug",
+    "page": 1,
+    "summary": "Eli Lilly & Co. is forming a new battlefront over a weight loss treatment that has yet to secure FDA approval, intensifying a legal drive to protect its ...",
+    "title": "Eli Lilly Toughens Legal Game Plan Over Next Weight ..."
    },
    "news.bloomberglaw.com/business-and-practice/enroll-confidently-settles-data-breach-lawsuit-for-990-000": {
     "baseline": true,
@@ -3535,6 +3553,15 @@
     "page": 2,
     "summary": "Trump in a social media post on Monday said he would nominate Eric Hamilton to the US District Court for the District of Nebraska, and federal prosecutor Joseph ...",
     "title": "Trump Taps Prosecutor, DOJ Civil Division Official for ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trump-tied-firms-gear-up-for-investigation-blitz-from-democrats": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-26T11:36:32Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-tied-firms-gear-up-for-investigation-blitz-from-democrats",
+    "page": 1,
+    "summary": "Companies with ties to President Donald Trump and his family are staffing up with lawyers and lobbyists, as Democrats threaten sweeping probes",
+    "title": "Trump-Tied Firms Gear Up for Investigation Blitz From ..."
    },
    "news.bloomberglaw.com/business-and-practice/trump-to-direct-agencies-to-counter-states-blocking-energy-plans": {
     "baseline": false,
@@ -9496,6 +9523,15 @@
     "page": 1,
     "summary": "Reset password \u00b7 Go to Sovos Home. \u00b7 On the login screen, click Forgot password. \u00b7 Enter your email address, then click Continue. \u00b7 Check your email for a message ...",
     "title": "Manage your password - Sovos Docs"
+   },
+   "docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/check-the-status-of-irs-transmittals": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-26T11:36:32Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/check-the-status-of-irs-transmittals",
+    "page": 1,
+    "summary": "View whether your transmittals were accepted or need action directly in Sovos's Tax Information Reporting software.",
+    "title": "Check the status of IRS transmittals - Sovos Docs"
    },
    "docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/fix-iris-transmittal-errors": {
     "baseline": false,
