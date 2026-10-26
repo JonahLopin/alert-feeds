@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 18450,
+  "credits_used": 18500,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-26T03:41:37Z",
+  "last_run": "2026-10-26T04:38:40Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 376
+  "runs": 377
  },
  "feeds": {
   "adp-help": {
@@ -5437,6 +5437,15 @@
     "page": 1,
     "summary": "QuickBooks Capital offers small business lending options to help you manage cash flow, cover business expenses, or invest in growth.",
     "title": "Learn about QuickBooks Capital Loans - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/login-and-password/reactivate-intuit-account/L4O9lZ14r_US_en_US": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-26T04:38:40Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/login-and-password/reactivate-intuit-account/L4O9lZ14r_US_en_US",
+    "page": 5,
+    "summary": "Intuit deactivates accounts when security checks detect unusual activity. This helps protect your business and financial data. You'll know your account is ...",
+    "title": "Reactivate your Intuit Account - QuickBooks"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/manage-client/e-file-tax-returns-clients/L7KiE5BlY_US_en_US": {
     "baseline": true,
