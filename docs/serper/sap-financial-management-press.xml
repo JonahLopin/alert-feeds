@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-27T02:41:43Z</updated>
+  <updated>2026-10-27T06:49:58Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/topics/supply-chain-management/</id>
+    <title>Supply chain management Archives</title>
+    <link href="https://news.sap.com/topics/supply-chain-management/" />
+    <published>2026-10-27T06:49:58Z</published>
+    <updated>2026-10-27T06:49:58Z</updated>
+    <summary>SAP Positioned as a Leader in the Inaugural Gartner® Magic Quadrant™ for Supply Chain Management Suites. by Devesh Mishra. August 13, 2026.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/germany/tags/business-ai/</id>
     <title>Business AI Archiv</title>
@@ -795,13 +803,5 @@
     <published>2026-10-16T10:46:23Z</published>
     <updated>2026-10-16T10:46:23Z</updated>
     <summary>Reportagen, Pressemitteilungen, Success Stories, Veranstaltungsberichte, Blogs, Videos von SAP über Cloud, Lösungen, Produkte, Software, Trends, SAP HANA ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/germany/2026/10/schatten-ki-krankenhaus/?amp=1</id>
-    <title>Medizinische KI für Klinische Entscheidungsfindung</title>
-    <link href="https://news.sap.com/germany/2026/10/schatten-ki-krankenhaus/?amp=1" />
-    <published>2026-10-16T10:46:23Z</published>
-    <updated>2026-10-16T10:46:23Z</updated>
-    <summary>KI im Gesundheitswesen kann Entscheidungsunterstützung für Fachpersonal bieten. Erfahren Sie mehr über die Wichtigkeit kuratierter Daten.</summary>
   </entry>
 </feed>

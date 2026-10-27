@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 19646,
+  "credits_used": 19699,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T05:33:02Z",
+  "last_run": "2026-10-27T06:49:58Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 399
+  "runs": 400
  },
  "feeds": {
   "adp-help": {
@@ -4640,6 +4640,15 @@
     "summary": "By using menu data and AI insights, you can turn your menu into a true business tool \u2014 highlighting bestsellers, adjusting underperformers, and updating in ...",
     "title": "How Restaurants Can Use Data to Optimize Menu Items"
    },
+   "merchants.doordash.com/en-us/blog/qsr-meaning": {
+    "baseline": false,
+    "date_hint": "11 hours ago",
+    "first_seen": "2026-10-27T06:49:58Z",
+    "link": "https://merchants.doordash.com/en-us/blog/qsr-meaning",
+    "page": 1,
+    "summary": "A QSR, or quick service restaurant, is the restaurant industry's term for fast food. QSRs focus on speed of service, a limited menu, and a low price point.",
+    "title": "QSR Meaning: What Is a Quick Service Restaurant?"
+   },
    "merchants.doordash.com/en-us/blog/restaurant-advertisement": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -8248,6 +8257,15 @@
     "page": 1,
     "summary": "News, information, feature articles, press releases, blogs & stories about SAP solutions for industries, lines of business, small and medium enterprises, ...",
     "title": "SAP Solutions News & Articles"
+   },
+   "news.sap.com/topics/supply-chain-management": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-27T06:49:58Z",
+    "link": "https://news.sap.com/topics/supply-chain-management/",
+    "page": 1,
+    "summary": "SAP Positioned as a Leader in the Inaugural Gartner\u00ae Magic Quadrant\u2122 for Supply Chain Management Suites. by Devesh Mishra. August 13, 2026.",
+    "title": "Supply chain management Archives"
    },
    "news.sap.com/type/feature-article": {
     "baseline": false,
