@@ -3271,6 +3271,12 @@
    "summary": "On the login screen, enter and confirm your password. Then click Continue. Enter your email address and password. Then click Log In.",
    "title": "Log in | Product Documentation Documentation - Sovos Docs"
   },
+  "tag:google.com,2013:googlealerts/feed:4598948941378886327": {
+   "first_seen": "2026-10-27T21:08:17Z",
+   "link": "https://docs.sovos.com/en/e-invoicing/indirect-tax-api/how-indirect-tax-api-works/synchronous-and-asynchronous-transactions",
+   "summary": "An asynchronous transaction starts when the client application sends a POST request. The Indirect Tax API responds with a JSON response that has a 202 ...",
+   "title": "Synchronous and asynchronous transactions - Sovos Docs"
+  },
   "tag:google.com,2013:googlealerts/feed:8048525309844955168": {
    "first_seen": "2026-10-24T15:43:41Z",
    "link": "https://docs.sovos.com/en/1099-reporting/tax-information-reporting/add-and-manage-users/activate-users",

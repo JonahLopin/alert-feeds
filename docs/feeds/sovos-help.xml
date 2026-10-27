@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com)</title>
-  <updated>2026-10-24T15:43:41Z</updated>
+  <updated>2026-10-27T21:08:17Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sovos-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:4598948941378886327</id>
+    <title>Synchronous and asynchronous transactions - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/e-invoicing/indirect-tax-api/how-indirect-tax-api-works/synchronous-and-asynchronous-transactions" />
+    <published>2026-10-27T21:08:17Z</published>
+    <updated>2026-10-27T21:08:17Z</updated>
+    <summary>An asynchronous transaction starts when the client application sends a POST request. The Indirect Tax API responds with a JSON response that has a 202 ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8048525309844955168</id>
     <title>Activate users | Product Documentation Documentation - Sovos Docs</title>

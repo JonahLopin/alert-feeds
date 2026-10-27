@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-27T05:33:02Z</updated>
+  <updated>2026-10-27T21:06:48Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/hobby-to-business</id>
+    <title>How to Turn Your Hobby Into a Business in 2026</title>
+    <link href="https://www.shopify.com/blog/hobby-to-business" />
+    <published>2026-10-27T21:06:48Z</published>
+    <updated>2026-10-27T21:06:48Z</updated>
+    <summary>You should turn your hobby into a business if the opportunity still makes sense after you account for demand, pricing, compliance, customer service, and your ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.shopify.com/blog/101-ecommerce-basics</id>
+    <title>Ecommerce Basics: Start Selling Online (2026)</title>
+    <link href="https://www.shopify.com/blog/101-ecommerce-basics" />
+    <published>2026-10-27T21:06:48Z</published>
+    <updated>2026-10-27T21:06:48Z</updated>
+    <summary>An ecommerce platform is the software that lets you build, run, and grow an online business. It includes your online storefront, checkout, payments, inventory, ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/mobile-wallets</id>
     <title>Mobile Wallets: How to Accept Them in 2026</title>
@@ -787,21 +803,5 @@
     <published>2026-10-18T11:43:01Z</published>
     <updated>2026-10-18T11:43:01Z</updated>
     <summary>Learn how to identify high-demand products with low competition for your ecommerce store, with tips and examples from a successful dropshipping coach.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/brand-activation</id>
-    <title>Brand Activation Guide: Creative Ideas for Brand Activations (2026)</title>
-    <link href="https://www.shopify.com/blog/brand-activation" />
-    <published>2026-10-18T07:44:57Z</published>
-    <updated>2026-10-18T07:44:57Z</updated>
-    <summary>Brand activations are marketing activities that bring consumers into direct contact with a brand.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/online-marketing</id>
-    <title>Online Marketing Strategies and Tips for Small Businesses</title>
-    <link href="https://www.shopify.com/blog/online-marketing" />
-    <published>2026-10-17T22:08:30Z</published>
-    <updated>2026-10-17T22:08:30Z</updated>
-    <summary>Online marketing is a catch-all term for the collection of marketing strategies you can use to expand your business via the internet.</summary>
   </entry>
 </feed>

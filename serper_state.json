@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 20379,
+  "credits_used": 20432,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T20:08:25Z",
+  "last_run": "2026-10-27T21:06:48Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 413
+  "runs": 414
  },
  "feeds": {
   "adp-help": {
@@ -1158,6 +1158,15 @@
     "page": 2,
     "summary": "Data center operator AirTrunk is delaying a planned initial public offering of a real estate investment trust in Singapore until next year as higher ...",
     "title": "Data Center Operator AirTrunk Is Said to Delay $1.5 Billion ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/davis-polk-team-advising-weil-includes-restructuring-pro-resnick": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-27T21:06:48Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/davis-polk-team-advising-weil-includes-restructuring-pro-resnick",
+    "page": 1,
+    "summary": "Davis Polk & Wardwell lawyers including restructuring partner Brian Rensick and chair Neil Barr are advising Weil Gotshal & Manges as it assesses its future,",
+    "title": "Davis Polk Team Advising Weil Includes Restructuring Pro ..."
    },
    "news.bloomberglaw.com/business-and-practice/dayone-is-said-to-weigh-options-for-us-ipo-amid-data-center-rout": {
     "baseline": false,
@@ -7482,6 +7491,15 @@
     "summary": "Entdecken Sie die L\u00f6sungen und Technologien, die SAP TechEd antreiben und die Zukunft der Unternehmenssoftware gestalten.",
     "title": "Zur\u00fcck in die Zukunft: 30 Jahre TechEd"
    },
+   "news.sap.com/germany/2026/10/__trashed-2": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-27T21:06:48Z",
+    "link": "https://news.sap.com/germany/2026/10/__trashed-2/",
+    "page": 1,
+    "summary": "Entdecken Sie die Vorteile von KI in SAP. Erfahren Sie, wie neue Tools zur Erweiterung von KI-Agenten bereitgestellt werden.",
+    "title": "Neue M\u00f6glichkeiten f\u00fcr Entwickler bei SAP"
+   },
    "news.sap.com/germany/2026/10/autonomes-supply-chain-management": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -8708,6 +8726,15 @@
     "summary": "SAP Advances Finance Operations with Embedded Payments, New Consolidation Capabilities, and Expanded AI. Finance teams can move quickly from insight to ...",
     "title": "Feature Archives"
    },
+   "news.sap.com/type/innovation-news-guide": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-27T21:06:48Z",
+    "link": "https://news.sap.com/type/innovation-news-guide/",
+    "page": 1,
+    "summary": "Developers are being equipped to build, connect and govern enterprise AI, from intent to trusted execution. +1-800-872-1727",
+    "title": "Innovation News Guide Archives"
+   },
    "news.sap.com/uk": {
     "baseline": true,
     "date_hint": "18 hours ago",
@@ -9120,6 +9147,15 @@
    }
   },
   "shopify-blog": {
+   "shopify.com/blog/101-ecommerce-basics": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-27T21:06:48Z",
+    "link": "https://www.shopify.com/blog/101-ecommerce-basics",
+    "page": 5,
+    "summary": "An ecommerce platform is the software that lets you build, run, and grow an online business. It includes your online storefront, checkout, payments, inventory, ...",
+    "title": "Ecommerce Basics: Start Selling Online (2026)"
+   },
    "shopify.com/blog/14288561-how-to-build-a-massive-following-on-instagram": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -9629,6 +9665,15 @@
     "page": 2,
     "summary": "Learn how to identify high-demand products with low competition for your ecommerce store, with tips and examples from a successful dropshipping coach.",
     "title": "How To Find High-Demand Products With Low Competition"
+   },
+   "shopify.com/blog/hobby-to-business": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-27T21:06:48Z",
+    "link": "https://www.shopify.com/blog/hobby-to-business",
+    "page": 5,
+    "summary": "You should turn your hobby into a business if the opportunity still makes sense after you account for demand, pricing, compliance, customer service, and your ...",
+    "title": "How to Turn Your Hobby Into a Business in 2026"
    },
    "shopify.com/blog/how-to-design-a-shirt": {
     "baseline": false,
@@ -11542,6 +11587,15 @@
     "page": 1,
     "summary": "Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).",
     "title": "Supported recipient countries - Global Payouts"
+   },
+   "docs.stripe.com/issuing/agents/mcp": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-27T21:06:48Z",
+    "link": "https://docs.stripe.com/issuing/agents/mcp",
+    "page": 1,
+    "summary": "Connect an AI agent to Stripe MCP to create Issuing cardholders and physical or virtual cards with the permissions you choose.",
+    "title": "Manage Issuing cards with AI agents"
    },
    "docs.stripe.com/js/custom_checkout/checkout_form_methods?ref=spectralwebservices.com": {
     "baseline": true,
