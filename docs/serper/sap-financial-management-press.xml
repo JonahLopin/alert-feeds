@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-26T22:32:11Z</updated>
+  <updated>2026-10-27T02:41:43Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/tags/business-ai/</id>
+    <title>Business AI Archiv</title>
+    <link href="https://news.sap.com/germany/tags/business-ai/" />
+    <published>2026-10-27T02:41:43Z</published>
+    <updated>2026-10-27T02:41:43Z</updated>
+    <summary>SAP erweitert Joule Assistants und Joule Agents für ein autonomes Supply Chain Management auf der SAP Connect. von Devesh Mishra. 21. Oktober 2026.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/2026/10/ai-release-highlights-q3-2026/</id>
     <title>AI Release Highlights Q3 2026</title>
@@ -795,13 +803,5 @@
     <published>2026-10-16T10:46:23Z</published>
     <updated>2026-10-16T10:46:23Z</updated>
     <summary>KI im Gesundheitswesen kann Entscheidungsunterstützung für Fachpersonal bieten. Erfahren Sie mehr über die Wichtigkeit kuratierter Daten.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/africa/2026/10/bloody-agents/?amp=1</id>
-    <title>Bloody agents - SAP Africa News Center</title>
-    <link href="https://news.sap.com/africa/2026/10/bloody-agents/?amp=1" />
-    <published>2026-10-16T10:46:23Z</published>
-    <updated>2026-10-16T10:46:23Z</updated>
-    <summary>Deploying agents turns out to be the easy part. Proving what they are worth is where projects are coming undone.</summary>
   </entry>
 </feed>

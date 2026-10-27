@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 19433,
+  "credits_used": 19486,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T01:42:50Z",
+  "last_run": "2026-10-27T02:41:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 395
+  "runs": 396
  },
  "feeds": {
   "adp-help": {
@@ -2170,6 +2170,15 @@
     "page": 1,
     "summary": "President Jon Gray pushed back on the notion that there's an AI bubble, just days after billionaire Ken Griffin said investors are \u201calmost certainly\u201d in the ...",
     "title": "Jon Gray Rebuts AI Bubble Warnings, Calls Demand ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/judge-deals-trump-new-setback-in-dc-golf-course-overhaul-case": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T02:41:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/judge-deals-trump-new-setback-in-dc-golf-course-overhaul-case",
+    "page": 4,
+    "summary": "Reyes, a Joe Biden appointee, blocked the government from removing or damaging trees on the East Potomac Park golf course while a legal challenge progresses.",
+    "title": "Judge Deals Trump New Setback in DC Golf Course ..."
    },
    "news.bloomberglaw.com/business-and-practice/judge-keeps-block-on-border-wall-teeing-up-supreme-court-row": {
     "baseline": false,
@@ -4594,6 +4603,15 @@
     "page": 1,
     "summary": "Gamified loyalty programs are structured systems that reward customers in playful, game-like ways for making purchases. Think: earning points, unlocking tiers,",
     "title": "Gamified Loyalty Programs: How To Level Up Customer ..."
+   },
+   "merchants.doordash.com/en-us/blog/increase-holiday-sales": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-27T02:41:43Z",
+    "link": "https://merchants.doordash.com/en-us/blog/increase-holiday-sales",
+    "page": 1,
+    "summary": "1. Plan Your Holiday Inventory Early 2. Build a Black Friday Marketing Strategy That Fits a Local Store 3. Run Holiday Promotions That Protect Your Margins",
+    "title": "How to Increase Holiday Sales: 10 Strategies for Retail ..."
    },
    "merchants.doordash.com/en-us/blog/menu-food-descriptions": {
     "baseline": false,
@@ -7301,6 +7319,15 @@
     "page": 1,
     "summary": "SAP bringt Unternehmen auf dem Weg zu Autonomous HCM voran. von Siva Sundaresan. 13. Oktober 2026. Keine weiteren Beitr\u00e4ge vorhanden.",
     "title": "Autonomous HCM Archiv"
+   },
+   "news.sap.com/germany/tags/business-ai": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-27T02:41:43Z",
+    "link": "https://news.sap.com/germany/tags/business-ai/",
+    "page": 1,
+    "summary": "SAP erweitert Joule Assistants und Joule Agents f\u00fcr ein autonomes Supply Chain Management auf der SAP Connect. von Devesh Mishra. 21. Oktober 2026.",
+    "title": "Business AI Archiv"
    },
    "news.sap.com/germany/topics/cloud": {
     "baseline": false,
