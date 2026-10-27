@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-26T16:50:44Z</updated>
+  <updated>2026-10-27T22:42:43Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:27652468315077744</id>
+    <title>Create a PaymentMethod from an Issuing card - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/issuing/cards/create-payment-method" />
+    <published>2026-10-27T22:42:43Z</published>
+    <updated>2026-10-27T22:42:43Z</updated>
+    <summary>If you use Stripe Issuing, you can create a card PaymentMethod from an Issuing card in the same Stripe account without retrieving the card number or ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:2144877956246236942</id>
+    <title>Search data resources - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/data/api/search" />
+    <published>2026-10-27T22:42:43Z</published>
+    <updated>2026-10-27T22:42:43Z</updated>
+    <summary>The Data Search API returns ranked resource metadata, not query results. It doesn't execute SQL or reports. Request to join the preview for the Data ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:1193763513144688692</id>
+    <title>Manage Issuing cards with AI agents | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/issuing/agents/mcp" />
+    <published>2026-10-27T22:42:43Z</published>
+    <updated>2026-10-27T22:42:43Z</updated>
+    <summary>Connect an AI agent to Stripe MCP to create Issuing cardholders and physical or virtual cards with the permissions you choose.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:15270659600566303246</id>
     <title>Send payouts with crypto - stablecoin - Stripe Documentation</title>

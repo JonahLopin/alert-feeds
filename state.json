@@ -3403,6 +3403,12 @@
    "summary": "Simulate OutboundPayment state changes with the /v1/test_helpers/treasury/outbound_payments endpoints. These methods can only be called on test mode ...",
    "title": "Outbound Payments | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:1193763513144688692": {
+   "first_seen": "2026-10-27T22:42:43Z",
+   "link": "https://docs.stripe.com/issuing/agents/mcp",
+   "summary": "Connect an AI agent to Stripe MCP to create Issuing cardholders and physical or virtual cards with the permissions you choose.",
+   "title": "Manage Issuing cards with AI agents | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:12263656120145640542": {
    "first_seen": "2026-10-09T11:10:19Z",
    "link": "https://docs.stripe.com/agentic-commerce/protocols/ucp",
@@ -3607,6 +3613,12 @@
    "summary": "Payout Methods v2 ... Use the PayoutMethods API to list and interact with PayoutMethod objects. ... Need help? Contact Support. Chat with Stripe ...",
    "title": "Payout Methods | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:2144877956246236942": {
+   "first_seen": "2026-10-27T22:42:43Z",
+   "link": "https://docs.stripe.com/data/api/search",
+   "summary": "The Data Search API returns ranked resource metadata, not query results. It doesn't execute SQL or reports. Request to join the preview for the Data ...",
+   "title": "Search data resources - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:2378811954673993430": {
    "first_seen": "2026-10-11T11:29:08Z",
    "link": "https://docs.stripe.com/payments/accept-a-payment-intent-first?api-integration=paymentintents&payment-ui=elements",
@@ -3624,6 +3636,12 @@
    "link": "https://docs.stripe.com/extensions/manage-extension-lifecycle",
    "summary": "Understand extension lifecycle changes \u00b7 Deprecation scheduled: The extension remains available for new activations and activated extensions continue ...",
    "title": "Deprecate and archive extensions | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:27652468315077744": {
+   "first_seen": "2026-10-27T22:42:43Z",
+   "link": "https://docs.stripe.com/issuing/cards/create-payment-method",
+   "summary": "If you use Stripe Issuing, you can create a card PaymentMethod from an Issuing card in the same Stripe account without retrieving the card number or ...",
+   "title": "Create a PaymentMethod from an Issuing card - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:290258394636359139": {
    "first_seen": "2026-10-17T22:43:04Z",
