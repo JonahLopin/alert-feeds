@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-26T23:27:58Z</updated>
+  <updated>2026-10-27T00:26:15Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/texas-sued-by-voter-groups-over-registration-backlog-records</id>
+    <title>Texas Sued by Voter Groups Over Registration Backlog ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/texas-sued-by-voter-groups-over-registration-backlog-records" />
+    <published>2026-10-27T00:26:15Z</published>
+    <updated>2026-10-27T00:26:15Z</updated>
+    <summary>Texas' chief election officer has failed to produce records involving a technical error that resulted in a backlog of 15,000 voter registrations,</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/patent-chief-denies-challenge-over-ties-to-chinas-government</id>
     <title>Patent Chief Denies Challenge Over Ties to China's ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-22T15:11:02Z</published>
     <updated>2026-10-22T15:11:02Z</updated>
     <summary>President Jon Gray pushed back on the notion that there's an AI bubble, just days after billionaire Ken Griffin said investors are “almost certainly” in the ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/wake-up-call-maryland-cant-track-fees-paid-to-outside-firms</id>
-    <title>Wake Up Call: Maryland Can't Track Fees Paid to Outside ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/wake-up-call-maryland-cant-track-fees-paid-to-outside-firms" />
-    <published>2026-10-22T12:16:10Z</published>
-    <updated>2026-10-22T12:16:10Z</updated>
-    <summary>Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.</summary>
   </entry>
 </feed>

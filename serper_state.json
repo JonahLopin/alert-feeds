@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 19327,
+  "credits_used": 19380,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-26T23:27:58Z",
+  "last_run": "2026-10-27T00:26:15Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 393
+  "runs": 394
  },
  "feeds": {
   "adp-help": {
@@ -3553,6 +3553,15 @@
     "page": 3,
     "summary": "Identifying legal deserts should be the first step in bringing more legal resources into rural Texas, Lone Star Legal Aid's Ashley Oborn says.",
     "title": "Texas Is Investing in Rural Justice. Better Data Can Grow ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/texas-sued-by-voter-groups-over-registration-backlog-records": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T00:26:15Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/texas-sued-by-voter-groups-over-registration-backlog-records",
+    "page": 1,
+    "summary": "Texas' chief election officer has failed to produce records involving a technical error that resulted in a backlog of 15,000 voter registrations,",
+    "title": "Texas Sued by Voter Groups Over Registration Backlog ..."
    },
    "news.bloomberglaw.com/business-and-practice/the-burden-of-putins-war-is-mounting-on-russias-oil-giant": {
     "baseline": false,
