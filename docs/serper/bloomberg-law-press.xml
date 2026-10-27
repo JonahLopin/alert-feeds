@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-27T12:16:08Z</updated>
+  <updated>2026-10-27T13:14:51Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/white-house-will-fail-to-overturn-any-elections-noah-feldman</id>
+    <title>White House Will Fail to Overturn Any Elections: Noah ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/white-house-will-fail-to-overturn-any-elections-noah-feldman" />
+    <published>2026-10-27T13:14:51Z</published>
+    <updated>2026-10-27T13:14:51Z</updated>
+    <summary>If you're a lawyer and your client tells you to file a meritless case, you're supposed to say no. The US Justice Department is apparently not constrained by ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/paypal-raises-guidance-as-turnaround-strategy-shows-promise</id>
     <title>PayPal Raises Guidance as Turnaround Strategy Shows ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-22T19:07:55Z</published>
     <updated>2026-10-22T19:07:55Z</updated>
     <summary>A federal appeals court is weighing whether the Federal Reserve has to rewrite its debit card "swipe fee" rule. Photographer: Andrew Harrer/Bloomberg.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/california-utility-sued-over-still-smoldering-orange-county-fire</id>
-    <title>California Utility Sued Over Still Smoldering Orange ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/california-utility-sued-over-still-smoldering-orange-county-fire" />
-    <published>2026-10-22T19:07:55Z</published>
-    <updated>2026-10-22T19:07:55Z</updated>
-    <summary>The Norte Fire burned nearly 500 acres and destroyed multiple structures in a matter of hours, as high winds have aggressively pushed it into neighborhoods.</summary>
   </entry>
 </feed>
