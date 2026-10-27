@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-27T16:09:31Z</updated>
+  <updated>2026-10-27T18:09:43Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/2026/10/joule-work-und-ki-innovationen-von-sap-revolutionieren-die-entwicklung-und-nutzung-von-unternehmenssoftware/</id>
+    <title>Neue Möglichkeiten für Entwickler bei SAP</title>
+    <link href="https://news.sap.com/germany/2026/10/joule-work-und-ki-innovationen-von-sap-revolutionieren-die-entwicklung-und-nutzung-von-unternehmenssoftware/" />
+    <published>2026-10-27T18:09:43Z</published>
+    <updated>2026-10-27T18:09:43Z</updated>
+    <summary>Entdecken Sie die Vorteile von KI in SAP. Erfahren Sie, wie neue Tools zur Erweiterung von KI-Agenten bereitgestellt werden.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/topics/ecosystem/</id>
     <title>SAP Ecosystem News &amp; Stories</title>
@@ -795,13 +803,5 @@
     <published>2026-10-19T09:16:52Z</published>
     <updated>2026-10-19T09:16:52Z</updated>
     <summary>Die Partnerschaft zwischen ÖBB und SAP zeigt beispielhaft, wie eine umfassende digitale Transformation geplant werden muss, um langfristig Mehrwert zu schaffen.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/mena/2026/10/business-ai-takes-center-stage-as-saudi-organizations-advancehr-transformation-at-sap-hr-connect-ksa-2026/no-262/</id>
-    <title>no-262 - SAP MENA Press Room</title>
-    <link href="https://news.sap.com/mena/2026/10/business-ai-takes-center-stage-as-saudi-organizations-advancehr-transformation-at-sap-hr-connect-ksa-2026/no-262/" />
-    <published>2026-10-18T21:08:02Z</published>
-    <updated>2026-10-18T21:08:02Z</updated>
-    <summary>Press Releases &amp; Newsbytes · Press Resources. Choose your Region. Americas "&gt;. Asia Pacific "&gt;. Europe "&gt;. Middle East and Africa "&gt;. Choose your Region.</summary>
   </entry>
 </feed>

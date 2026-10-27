@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 20220,
+  "credits_used": 20273,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T17:07:30Z",
+  "last_run": "2026-10-27T18:09:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 410
+  "runs": 411
  },
  "feeds": {
   "adp-help": {
@@ -2486,6 +2486,15 @@
     "summary": "The Trump administration is canceling an environmental review of energy corridors that would accommodate solar and wind power transmission lines on public ...",
     "title": "Land Bureau Scraps Environmental Review of Solar, Wind ..."
    },
+   "news.bloomberglaw.com/business-and-practice/latham-watkins-lends-lawyer-funds-expertise-for-harvey-ai-tool": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-27T18:09:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/latham-watkins-lends-lawyer-funds-expertise-for-harvey-ai-tool",
+    "page": 2,
+    "summary": "Latham & Watkins will work with Harvey to design an artificial intelligence tool for private funds work, as the law firm deepens its relationship with the ...",
+    "title": "Latham & Watkins Lends Lawyer Funds Expertise for ..."
+   },
    "news.bloomberglaw.com/business-and-practice/latham-watkins-taps-hogan-lovells-cadwalader-pe-partner-in-ny": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -3994,6 +4003,15 @@
     "page": 3,
     "summary": "Two Key Lawyers at Murdoch's Fox Exit Ahead of Roku Merger ... Fox Corp. chairman and CEO Lachlan Murdoch, shown July 9 during tech executives' annual conference ...",
     "title": "Two Key Lawyers at Murdoch's Fox Exit Ahead of Roku ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/two-weil-gotshal-partners-jump-to-skaddens-regulatory-practice": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T18:09:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/two-weil-gotshal-partners-jump-to-skaddens-regulatory-practice",
+    "page": 1,
+    "summary": "Weil Gotshal & Manges and Willkie Farr & Gallagher have ended discussions over a possible merger, intensifying pressure on Weil's leaders as many of its top ...",
+    "title": "Two Weil Gotshal Partners Jump to Skadden's Regulatory ..."
    },
    "news.bloomberglaw.com/business-and-practice/ubs-defeats-ex-credit-suisse-managing-directors-back-pay-claims": {
     "baseline": false,
@@ -7436,6 +7454,15 @@
     "page": 1,
     "summary": "Optimieren Sie Ihre Lieferkette mit autonomem Supply Chain Management und steigern Sie die Reaktionsf\u00e4higkeit auf Kundenanforderungen.",
     "title": "Autonomes Supply Chain Management zur ..."
+   },
+   "news.sap.com/germany/2026/10/joule-work-und-ki-innovationen-von-sap-revolutionieren-die-entwicklung-und-nutzung-von-unternehmenssoftware": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-27T18:09:43Z",
+    "link": "https://news.sap.com/germany/2026/10/joule-work-und-ki-innovationen-von-sap-revolutionieren-die-entwicklung-und-nutzung-von-unternehmenssoftware/",
+    "page": 2,
+    "summary": "Entdecken Sie die Vorteile von KI in SAP. Erfahren Sie, wie neue Tools zur Erweiterung von KI-Agenten bereitgestellt werden.",
+    "title": "Neue M\u00f6glichkeiten f\u00fcr Entwickler bei SAP"
    },
    "news.sap.com/germany/2026/10/ki-agenten-sap-und-nvidia-openshell": {
     "baseline": false,
