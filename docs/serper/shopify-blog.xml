@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-27T04:35:00Z</updated>
+  <updated>2026-10-27T05:33:02Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/mobile-wallets</id>
+    <title>Mobile Wallets: How to Accept Them in 2026</title>
+    <link href="https://www.shopify.com/blog/mobile-wallets" />
+    <published>2026-10-27T05:33:02Z</published>
+    <updated>2026-10-27T05:33:02Z</updated>
+    <summary>Mobile wallets are a key contactless payment method. Learn what they are, which types your customers use, and how to accept services like Apple Pay and ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/live-selling</id>
     <title>Live Selling in 2026: How To Boost Engagement and Sales</title>
@@ -795,13 +803,5 @@
     <published>2026-10-17T22:08:30Z</published>
     <updated>2026-10-17T22:08:30Z</updated>
     <summary>Online marketing is a catch-all term for the collection of marketing strategies you can use to expand your business via the internet.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/make-money-podcasting</id>
-    <title>How To Make Money Podcasting: Methods + Expert Tips</title>
-    <link href="https://www.shopify.com/blog/make-money-podcasting" />
-    <published>2026-10-17T21:08:16Z</published>
-    <updated>2026-10-17T21:08:16Z</updated>
-    <summary>Learn how to make money podcasting, using sponsorships, affiliate marketing, subscriptions, and other channels. Plus expert podcast monetization tips.</summary>
   </entry>
 </feed>

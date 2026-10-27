@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 19593,
+  "credits_used": 19646,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T04:35:00Z",
+  "last_run": "2026-10-27T05:33:02Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 398
+  "runs": 399
  },
  "feeds": {
   "adp-help": {
@@ -4792,6 +4792,15 @@
     "summary": "Learn how to get more Google reviews for your restaurant with proven tactics that improve local rankings, build trust, and bring in more orders.",
     "title": "How to Get More Restaurant Reviews From Clients"
    },
+   "merchants.doordash.com/en-us/blog/third-party-delivery-services": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-27T05:33:02Z",
+    "link": "https://merchants.doordash.com/en-us/blog/third-party-delivery-services",
+    "page": 1,
+    "summary": "Understand third-party delivery platforms and how integration can eliminate tablet chaos, reduce errors, and help you manage all delivery orders in one ...",
+    "title": "3rd Party Delivery Platform, and Integration Guide (2026)"
+   },
    "merchants.doordash.com/en-us/blog/valentines-day-restaurant-trends": {
     "baseline": false,
     "date_hint": "20 hours ago",
@@ -4809,6 +4818,15 @@
     "page": 1,
     "summary": "A gastropub is a public house (pub) that serves high-quality food alongside craft beer, wine, and cocktails. It blends the casual vibe of a regular pub with ...",
     "title": "What Is a Gastropub? Meaning, Food & Why They're ..."
+   },
+   "merchants.doordash.com/en-us/blog/which-delivery-service-is-best-for-restaurants": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T05:33:02Z",
+    "link": "https://merchants.doordash.com/en-us/blog/which-delivery-service-is-best-for-restaurants",
+    "page": 2,
+    "summary": "Comparing DoorDash, Uber Eats, Grubhub, and more? See how fees, reach, and data ownership stack up so you can pick the right fit.",
+    "title": "Which Delivery Service Is Best for Restaurants in 2026?"
    }
   },
   "doordash-press": {
@@ -9377,6 +9395,15 @@
     "page": 2,
     "summary": "Mobile payments can be used to purchase goods and services in person or online. In person, a customer can pay with a mobile wallet app or mobile payment service ...",
     "title": "Mobile Payments: How to Accept Them (2026)"
+   },
+   "shopify.com/blog/mobile-wallets": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-27T05:33:02Z",
+    "link": "https://www.shopify.com/blog/mobile-wallets",
+    "page": 5,
+    "summary": "Mobile wallets are a key contactless payment method. Learn what they are, which types your customers use, and how to accept services like Apple Pay and ...",
+    "title": "Mobile Wallets: How to Accept Them in 2026"
    },
    "shopify.com/blog/monetize-facebook-page": {
     "baseline": false,
