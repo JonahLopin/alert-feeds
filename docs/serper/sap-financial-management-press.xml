@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-27T06:49:58Z</updated>
+  <updated>2026-10-27T09:12:30Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/2026/10/30-jahre-sap-zertifizierung/?amp=1</id>
+    <title>Zertifizierung bei SAP: Ein 30 Jahre Erfolg</title>
+    <link href="https://news.sap.com/germany/2026/10/30-jahre-sap-zertifizierung/?amp=1" />
+    <published>2026-10-27T09:12:30Z</published>
+    <updated>2026-10-27T09:12:30Z</updated>
+    <summary>Erfahren Sie, wie die SAP-Zertifizierung Fachleuten seit 30 Jahren hilft, ihre Kenntnisse und Fähigkeiten im KI-Zeitalter zu validieren.</summary>
+  </entry>
+  <entry>
+    <id>https://news.sap.com/germany/2026/10/30-jahre-sap-zertifizierung/</id>
+    <title>Zertifizierung bei SAP: Ein 30 Jahre Erfolg</title>
+    <link href="https://news.sap.com/germany/2026/10/30-jahre-sap-zertifizierung/" />
+    <published>2026-10-27T09:12:30Z</published>
+    <updated>2026-10-27T09:12:30Z</updated>
+    <summary>Erfahren Sie, wie die SAP-Zertifizierung Fachleuten seit 30 Jahren hilft, ihre Kenntnisse und Fähigkeiten im KI-Zeitalter zu validieren.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/topics/supply-chain-management/</id>
     <title>Supply chain management Archives</title>
@@ -787,21 +803,5 @@
     <published>2026-10-16T17:44:54Z</published>
     <updated>2026-10-16T17:44:54Z</updated>
     <summary>SAP News · SAP Brings SAP SuccessFactors and Joule to NTT DATA's Global People and Culture Transformation · Power Partnership: SAP and OpenText's 30-Plus Year ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/2026/10/next-leap-public-services-behind-the-scenes-spublic-berlin/</id>
-    <title>The Next Leap in Public Services Starts Behind the Scenes</title>
-    <link href="https://news.sap.com/2026/10/next-leap-public-services-behind-the-scenes-spublic-berlin/" />
-    <published>2026-10-16T11:45:46Z</published>
-    <updated>2026-10-16T11:45:46Z</updated>
-    <summary>S.Public, the new SAP Experience Center location for the public sector, brings these capabilities to life. It officially opened in Berlin on October 12, 2026.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/germany/topics/cloud/</id>
-    <title>Cloud News &amp; Stories</title>
-    <link href="https://news.sap.com/germany/topics/cloud/" />
-    <published>2026-10-16T10:46:23Z</published>
-    <updated>2026-10-16T10:46:23Z</updated>
-    <summary>Reportagen, Pressemitteilungen, Success Stories, Veranstaltungsberichte, Blogs, Videos von SAP über Cloud, Lösungen, Produkte, Software, Trends, SAP HANA ...</summary>
   </entry>
 </feed>

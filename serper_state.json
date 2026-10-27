@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 19750,
+  "credits_used": 19802,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T08:14:38Z",
+  "last_run": "2026-10-27T09:12:30Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 401
+  "runs": 402
  },
  "feeds": {
   "adp-help": {
@@ -4684,6 +4684,15 @@
     "summary": "The no-fluff guide to restaurant digital marketing: website, email, SMS, Google, social, and reviews, for operators running marketing solo.",
     "title": "Restaurant Digital Marketing: Your Ultimate Strategy Guide"
    },
+   "merchants.doordash.com/en-us/blog/restaurant-email-list": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-27T09:12:30Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-email-list",
+    "page": 1,
+    "summary": "Learn how to build a restaurant email list for free, manage your database, and turn it into a customer retention engine. Tools and tips inside.",
+    "title": "Restaurant Email List: Build Yours & Drive Repeat Orders"
+   },
    "merchants.doordash.com/en-us/blog/restaurant-email-marketing": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -7131,6 +7140,24 @@
     "summary": "Nachrichten und Pressemitteilungen von SAP: Lesen Sie Artikel \u00fcber Unternehmens- und Technologietrends, Kundenberichte und interessante Videos im SAP-TV!",
     "title": "SAP News Center Deutschland | Unternehmensberichte & ..."
    },
+   "news.sap.com/germany/2026/10/30-jahre-sap-zertifizierung": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T09:12:30Z",
+    "link": "https://news.sap.com/germany/2026/10/30-jahre-sap-zertifizierung/",
+    "page": 1,
+    "summary": "Erfahren Sie, wie die SAP-Zertifizierung Fachleuten seit 30 Jahren hilft, ihre Kenntnisse und F\u00e4higkeiten im KI-Zeitalter zu validieren.",
+    "title": "Zertifizierung bei SAP: Ein 30 Jahre Erfolg"
+   },
+   "news.sap.com/germany/2026/10/30-jahre-sap-zertifizierung?amp=1": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T09:12:30Z",
+    "link": "https://news.sap.com/germany/2026/10/30-jahre-sap-zertifizierung/?amp=1",
+    "page": 1,
+    "summary": "Erfahren Sie, wie die SAP-Zertifizierung Fachleuten seit 30 Jahren hilft, ihre Kenntnisse und F\u00e4higkeiten im KI-Zeitalter zu validieren.",
+    "title": "Zertifizierung bei SAP: Ein 30 Jahre Erfolg"
+   },
    "news.sap.com/germany/2026/10/30-jahre-teched": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -8421,6 +8448,15 @@
     "page": 1,
     "summary": "Learn how to set up and start using the Kiosk in your restaurant. Here you can customize the appearance, language, and order settings.",
     "title": "Configure Kiosk Admin Settings"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/32194697970579-Kiosk-Tip-Configuration": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-27T09:12:30Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/32194697970579-Kiosk-Tip-Configuration",
+    "page": 1,
+    "summary": "Learn how to configure Kiosk tip settings. select Marketplace > Kiosk > Manage. Navigate to Tip Settings.",
+    "title": "Kiosk Tip Configuration"
    },
    "shift4.zendesk.com/hc/en-us/articles/32201572061587-View-the-Kiosk-Dashboard": {
     "baseline": false,
