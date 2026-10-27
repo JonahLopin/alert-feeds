@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 19854,
+  "credits_used": 19906,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T10:10:54Z",
+  "last_run": "2026-10-27T11:09:56Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 403
+  "runs": 404
  },
  "feeds": {
   "adp-help": {
@@ -745,6 +745,15 @@
     "page": 2,
     "summary": "The Norte Fire burned nearly 500 acres and destroyed multiple structures in a matter of hours, as high winds have aggressively pushed it into neighborhoods.",
     "title": "California Utility Sued Over Still Smoldering Orange ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/cftc-relief-opens-prediction-market-floodgates-for-app-makers": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T11:09:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cftc-relief-opens-prediction-market-floodgates-for-app-makers",
+    "page": 2,
+    "summary": "The US derivatives regulator said it's not going to crack down on software companies offering access to trading forums without certain registration ...",
+    "title": "CFTC Relief Opens Prediction Market Floodgates for App ..."
    },
    "news.bloomberglaw.com/business-and-practice/chemical-companies-doj-seek-to-withdraw-test-order-lawsuit": {
     "baseline": false,
@@ -4639,6 +4648,15 @@
     "page": 1,
     "summary": "Get more Google reviews for your restaurant: learn the 3 ranking signals, 7 proven tactics, and how to respond, to rank higher and win more diners.",
     "title": "Google Reviews for Restaurants: Get More Stars in 2026"
+   },
+   "merchants.doordash.com/en-us/blog/how-to-create-online-ordering-for-restaurants": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-27T11:09:56Z",
+    "link": "https://merchants.doordash.com/en-us/blog/how-to-create-online-ordering-for-restaurants",
+    "page": 2,
+    "summary": "Learn how to set up online ordering for your restaurant in a few simple steps, with tips to launch fast and start growing direct sales.",
+    "title": "How to Create Online Ordering for Your Restaurant"
    },
    "merchants.doordash.com/en-us/blog/increase-holiday-sales": {
     "baseline": false,
@@ -10324,6 +10342,15 @@
     "page": 1,
     "summary": "The tax calculation endpoints are used to calculate sales and use tax for each line item on a document based on product characteristics, shipping addresses,",
     "title": "Tax calculation endpoints - Sovos Docs"
+   },
+   "docs.sovos.com/en/tax-determination/tax-determination/map-products-exemptions-and-locations/geo-codes": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-27T11:09:56Z",
+    "link": "https://docs.sovos.com/en/tax-determination/tax-determination/map-products-exemptions-and-locations/geo-codes",
+    "page": 1,
+    "summary": "A Geo Code represents a unique combination of taxing jurisdictions to which an address belongs. Geo Codes play a key role in assigning the correct tax rate.",
+    "title": "Geo Codes | Product Documentation Documentation"
    },
    "docs.sovos.com/en/tax-determination/tax-determination/release-notes/create-your-new-sovos-login": {
     "baseline": false,
