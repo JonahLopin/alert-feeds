@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 19802,
+  "credits_used": 19854,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T09:12:30Z",
+  "last_run": "2026-10-27T10:10:54Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 402
+  "runs": 403
  },
  "feeds": {
   "adp-help": {
@@ -3779,6 +3779,15 @@
     "summary": "President Donald Trump said he will hold off on imposing tariffs on wind turbines and their components on national security grounds, instead ordering the US ...",
     "title": "Trump Punts on Wind Turbine Tariffs, Allows 180 Days for ..."
    },
+   "news.bloomberglaw.com/business-and-practice/trump-says-golf-course-project-will-proceed-despite-court-order": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-27T10:10:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-says-golf-course-project-will-proceed-despite-court-order",
+    "page": 3,
+    "summary": "President Donald Trump vowed to appeal a federal judge's order to restrict his sweeping plan to transform a municipal golf course in Washington into a ...",
+    "title": "Trump Says Golf Course Project Will Proceed Despite ..."
+   },
    "news.bloomberglaw.com/business-and-practice/trump-says-putin-to-supply-us-with-diesel-ahead-of-midterms-3": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -4613,6 +4622,24 @@
     "summary": "Gamified loyalty programs are structured systems that reward customers in playful, game-like ways for making purchases. Think: earning points, unlocking tiers,",
     "title": "Gamified Loyalty Programs: How To Level Up Customer ..."
    },
+   "merchants.doordash.com/en-us/blog/ghost-kitchen": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-27T10:10:54Z",
+    "link": "https://merchants.doordash.com/en-us/blog/ghost-kitchen",
+    "page": 1,
+    "summary": "Discover how ghost kitchens work and learn about profit margins, business models, and how to launch a successful delivery-only brand with DoorDash.",
+    "title": "Ghost Kitchen 101: How to Start a Delivery-Only Business"
+   },
+   "merchants.doordash.com/en-us/blog/google-reviews-restaurant": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-27T10:10:54Z",
+    "link": "https://merchants.doordash.com/en-us/blog/google-reviews-restaurant",
+    "page": 1,
+    "summary": "Get more Google reviews for your restaurant: learn the 3 ranking signals, 7 proven tactics, and how to respond, to rank higher and win more diners.",
+    "title": "Google Reviews for Restaurants: Get More Stars in 2026"
+   },
    "merchants.doordash.com/en-us/blog/increase-holiday-sales": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -4728,6 +4755,15 @@
     "page": 1,
     "summary": "How much should you spend on restaurant marketing? Get a sourced benchmark, a spend breakdown by budget size, and when paid ads pay off.",
     "title": "Restaurant Marketing Budget Breakdown: Tips to Maximize It"
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-order-management-system": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-27T10:10:54Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-order-management-system",
+    "page": 2,
+    "summary": "POS, KDS, aggregators, direct ordering \u2014 here's what restaurant order management actually means, and how to stop the tablet chaos costing you money.",
+    "title": "What Is a Restaurant Order Management System?"
    },
    "merchants.doordash.com/en-us/blog/restaurant-pos-systems-cost": {
     "baseline": false,
@@ -6798,6 +6834,15 @@
     "summary": "The release combines AI agents that can work directly with core business processes and adds new regulatory compliance capabilities and industry-specific ...",
     "title": "SAP Strengthens the Foundation for the Autonomous ..."
    },
+   "news.sap.com/2026/10/sap-hpe-orbit-to-enterprise-next-tabular-ai-frontier": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T10:10:54Z",
+    "link": "https://news.sap.com/2026/10/sap-hpe-orbit-to-enterprise-next-tabular-ai-frontier/",
+    "page": 1,
+    "summary": "Today, SAP announced the planned deployment of SAP-RPT, our tabular AI foundation model, on HPE Spaceborne Computer-2 aboard the International Space Station ...",
+    "title": "SAP and HPE: The Next Tabular AI Frontier"
+   },
    "news.sap.com/2026/10/sap-introduces-ai-powered-roleplays-learners-stay-certified": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -6833,6 +6878,24 @@
     "page": 1,
     "summary": "SAP SuccessFactors 2H 2026 brings Autonomous HCM to life with Joule Assistants that automate, redesign, and reinvent work. Find out how.",
     "title": "SAP SuccessFactors 2H 2026 Release"
+   },
+   "news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T10:10:54Z",
+    "link": "https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/",
+    "page": 1,
+    "summary": "From SAP TechEd, SAP has announced a series of AI innovations that expands its portfolio for developers. Get all the news from the event.",
+    "title": "SAP Empowers AI Developers | SAP TechEd"
+   },
+   "news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T10:10:54Z",
+    "link": "https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/",
+    "page": 1,
+    "summary": "Physical AI by SAP turns physical execution into an extension of your business, extending the Autonomous Enterprise into the real world.",
+    "title": "SAP Unveils Physical AI at SAP TechEd in 2026"
    },
    "news.sap.com/2026/10/suite-advantage-why-enterprises-do-not-evaluate-crm-in-isolation": {
     "baseline": false,

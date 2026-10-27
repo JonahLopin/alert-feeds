@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-27T03:37:35Z</updated>
+  <updated>2026-10-27T10:10:54Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/trump-says-golf-course-project-will-proceed-despite-court-order</id>
+    <title>Trump Says Golf Course Project Will Proceed Despite ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/trump-says-golf-course-project-will-proceed-despite-court-order" />
+    <published>2026-10-27T10:10:54Z</published>
+    <updated>2026-10-27T10:10:54Z</updated>
+    <summary>President Donald Trump vowed to appeal a federal judge's order to restrict his sweeping plan to transform a municipal golf course in Washington into a ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/berkeley-can-remove-homeless-encampment-ninth-circuit-rules</id>
     <title>Berkeley Can Remove Homeless Encampment, Ninth ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-22T18:12:37Z</published>
     <updated>2026-10-22T18:12:37Z</updated>
     <summary>Apple Inc. and director M. Night Shyamalan thwarted an effort to revive a lawsuit alleging Apple TV+'s 2019 series “Servant” copied from a writer's 2013 ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/agencies-review-obama-biden-education-civil-rights-guidance</id>
-    <title>Agencies Review Obama, Biden Education Civil Rights ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/agencies-review-obama-biden-education-civil-rights-guidance" />
-    <published>2026-10-22T18:12:37Z</published>
-    <updated>2026-10-22T18:12:37Z</updated>
-    <summary>The seven guidance documents address racial discrimination in student discipline, how colleges can still pursue diverse student bodies following the high ...</summary>
   </entry>
 </feed>
