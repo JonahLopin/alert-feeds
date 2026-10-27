@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 20432,
+  "credits_used": 20485,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T21:06:48Z",
+  "last_run": "2026-10-27T22:07:13Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 414
+  "runs": 415
  },
  "feeds": {
   "adp-help": {
@@ -790,6 +790,15 @@
     "page": 2,
     "summary": "The Norte Fire burned nearly 500 acres and destroyed multiple structures in a matter of hours, as high winds have aggressively pushed it into neighborhoods.",
     "title": "California Utility Sued Over Still Smoldering Orange ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/cattle-grazing-now-a-primary-public-lands-use-to-boost-beef": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T22:07:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cattle-grazing-now-a-primary-public-lands-use-to-boost-beef",
+    "page": 3,
+    "summary": "Commercial beef production will be a top priority on federal lands, including in national parks and wildlife refuges, under an order Interior Secretary Doug ...",
+    "title": "Cattle Grazing Now a Primary Public Lands Use to Boost ..."
    },
    "news.bloomberglaw.com/business-and-practice/cftc-relief-opens-prediction-market-floodgates-for-app-makers": {
     "baseline": false,
@@ -2396,6 +2405,15 @@
     "summary": "Kalshi wants the full Sixth Circuit to review a three-judge panel's ruling that said Ohio and Tennessee can take regulatory action against it for offering ...",
     "title": "Kalshi Seeks Full 6th Circuit Review of States' Regulation ..."
    },
+   "news.bloomberglaw.com/business-and-practice/kalshi-sets-2-500-monthly-deposit-limits-for-users-under-21": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T22:07:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kalshi-sets-2-500-monthly-deposit-limits-for-users-under-21",
+    "page": 2,
+    "summary": "Kalshi Inc., the leading prediction market operator in the US, said it's adding restrictions for users who are 18 to 20 years old, including a $2500 monthly ...",
+    "title": "Kalshi Sets $2500 Monthly Deposit Limits for Users Under 21"
+   },
    "news.bloomberglaw.com/business-and-practice/kalshi-to-allow-futures-bets-with-bitcoin-backed-loans-1": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -2799,6 +2817,15 @@
     "page": 1,
     "summary": "Danielle Abada joined Mayer Brown as a partner in its capital markets practice in New York, the firm announced Monday.",
     "title": "Mayer Brown Recruits Former CFTC Lawyer Abada in New ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/mcdermott-partner-promotions-dip-in-year-after-schulte-merger": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T22:07:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/mcdermott-partner-promotions-dip-in-year-after-schulte-merger",
+    "page": 2,
+    "summary": "McDermott Will & Schulte slashed new partner promotions by more than half in its first full year since the merger that created the law firm.",
+    "title": "McDermott Partner Promotions Dip in Year After Schulte ..."
    },
    "news.bloomberglaw.com/business-and-practice/mckinsey-partner-quits-ngo-as-fallout-from-online-posts-widens": {
     "baseline": false,
@@ -3267,6 +3294,15 @@
     "page": 1,
     "summary": "Politicians on both sides of the aisle criticized Defense Secretary Pete Hegseth for his plan to livestream the execution of a former Army major who killed ...",
     "title": "Plan to Broadcast Fort Hood Killer's Execution Spurs ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/powerschool-fails-to-toss-claim-in-suit-over-massive-data-breach": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-27T22:07:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/powerschool-fails-to-toss-claim-in-suit-over-massive-data-breach",
+    "page": 2,
+    "summary": "PowerSchool Holdings Inc. failed to convince a federal court to dismiss one claim of a multi-district proposed class action alleging it didn't protect the ...",
+    "title": "PowerSchool Fails to Toss Claim in Suit Over Massive ..."
    },
    "news.bloomberglaw.com/business-and-practice/proofpoint-to-buy-varonis-for-6-3-billion-as-tech-m-a-rebounds": {
     "baseline": false,
@@ -4945,6 +4981,15 @@
     "summary": "This guide gives you 60+ restaurant feedback questions, sorted by category. You'll find questions on your overall experience, food quality, service, ambiance, ...",
     "title": "60+ Restaurant Feedback Questions to Ask Your Guests"
    },
+   "merchants.doordash.com/en-us/blog/restaurant-loyalty-programs": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-27T22:07:13Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-loyalty-programs",
+    "page": 1,
+    "summary": "66% of consumers order more often from restaurants where they're loyalty members. This guide covers the loyalty program types that work, the reward math ...",
+    "title": "Restaurant loyalty programs: how to start one in 2026"
+   },
    "merchants.doordash.com/en-us/blog/restaurant-marketing-automation": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -6013,6 +6058,15 @@
     "page": 1,
     "summary": "Intuit Intelligence combines artificial intelligence (AI) and business intelligence (BI) to give answers and automate financial tasks in QuickBooks.",
     "title": "Introducing Intuit Intelligence - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-assist/request-information-transaction/L8ZXmgZYM_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-27T22:07:13Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/intuit-assist/request-information-transaction/L8ZXmgZYM_US_en_US",
+    "page": 1,
+    "summary": "QuickBooks Online lets you request for more information about a transaction. You can ask for details and files except QuickBooks Solopreneur.",
+    "title": "Request more information on a transaction - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-billing-updates/upgrade-downgrade-quickbooks-online-subscription/L7LN5zzbs_US_en_US": {
     "baseline": false,

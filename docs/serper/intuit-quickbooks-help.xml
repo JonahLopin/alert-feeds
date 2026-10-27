@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-10-27T16:09:31Z</updated>
+  <updated>2026-10-27T22:07:13Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/intuit-assist/request-information-transaction/L8ZXmgZYM_US_en_US</id>
+    <title>Request more information on a transaction - QuickBooks - Intuit</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/intuit-assist/request-information-transaction/L8ZXmgZYM_US_en_US" />
+    <published>2026-10-27T22:07:13Z</published>
+    <updated>2026-10-27T22:07:13Z</updated>
+    <summary>QuickBooks Online lets you request for more information about a transaction. You can ask for details and files except QuickBooks Solopreneur.</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/direct-deposits/pay-contractors-direct-deposit-quickbooks-online/L1yfULhFL_US_en_US</id>
     <title>How to pay contractors with direct deposit in QuickBooks Online</title>
@@ -795,13 +803,5 @@
     <published>2026-10-11T06:17:37Z</published>
     <updated>2026-10-11T06:17:37Z</updated>
     <summary>California requires employers to assign wage plan codes to each employee for state payroll reporting. The code indicates the type of coverage an employee ...</summary>
-  </entry>
-  <entry>
-    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/expense-accounts/personal-use-company-car-pucc/L6QJN8iM5_US_en_US</id>
-    <title>Set up and record Personal Use of a Company Car (PUCC)</title>
-    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/expense-accounts/personal-use-company-car-pucc/L6QJN8iM5_US_en_US" />
-    <published>2026-10-11T06:17:37Z</published>
-    <updated>2026-10-11T06:17:37Z</updated>
-    <summary>If your employees use the company car for personal reasons, it's called Personal Use of a Company Car (PUCC). PUCC is a non cash fringe benefit that counts ...</summary>
   </entry>
 </feed>
