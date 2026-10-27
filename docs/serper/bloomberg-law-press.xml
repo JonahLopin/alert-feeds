@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-27T22:07:13Z</updated>
+  <updated>2026-10-27T23:06:52Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/virginias-officer-mask-ban-gets-mixed-fourth-circuit-reception</id>
+    <title>Virginia's Officer Mask Ban Gets Mixed Fourth Circuit ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/virginias-officer-mask-ban-gets-mixed-fourth-circuit-reception" />
+    <published>2026-10-27T23:06:52Z</published>
+    <updated>2026-10-27T23:06:52Z</updated>
+    <summary>Virginia brought the consolidated appeals to undo district court orders largely barring the state from enforcing the two recently enacted laws implicating ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/powerschool-fails-to-toss-claim-in-suit-over-massive-data-breach</id>
     <title>PowerSchool Fails to Toss Claim in Suit Over Massive ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-22T21:09:57Z</published>
     <updated>2026-10-22T21:09:57Z</updated>
     <summary>The Southwest Airlines Pilots Association joined growing pushback over Spirit Aviation Holdings Inc.'s proposed bankruptcy sale of a trove of deindentified ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/rfk-jr-s-peptide-plan-makes-compounders-report-side-effects</id>
-    <title>RFK Jr.'s Peptide Plan Makes Compounders Report Side ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/rfk-jr-s-peptide-plan-makes-compounders-report-side-effects" />
-    <published>2026-10-22T21:09:57Z</published>
-    <updated>2026-10-22T21:09:57Z</updated>
-    <summary>The White House is reviewing a proposal to broaden access to peptides that includes more patient protections than initially expected, according to people ...</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 20485,
+  "credits_used": 20539,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T22:07:13Z",
+  "last_run": "2026-10-27T23:06:52Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 415
+  "runs": 416
  },
  "feeds": {
   "adp-help": {
@@ -4256,6 +4256,15 @@
     "summary": "Vietnam has \u201cessentially completed\u201d talks on a US trade deal and submitted its final remarks to Washington after months of negotiations over tariffs and ...",
     "title": "Vietnam Says US Trade Deal Nearly Done With Final Text ..."
    },
+   "news.bloomberglaw.com/business-and-practice/virginias-officer-mask-ban-gets-mixed-fourth-circuit-reception": {
+    "baseline": false,
+    "date_hint": "57 minutes ago",
+    "first_seen": "2026-10-27T23:06:52Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/virginias-officer-mask-ban-gets-mixed-fourth-circuit-reception",
+    "page": 1,
+    "summary": "Virginia brought the consolidated appeals to undo district court orders largely barring the state from enforcing the two recently enacted laws implicating ...",
+    "title": "Virginia's Officer Mask Ban Gets Mixed Fourth Circuit ..."
+   },
    "news.bloomberglaw.com/business-and-practice/visa-billing-firms-team-up-for-ai-agent-payments-for-companies": {
     "baseline": false,
     "date_hint": "7 hours ago",
@@ -5568,6 +5577,15 @@
     "summary": "Note: The QuickBooks connector for Claude is currently available to US customers only. We're working to bring it to other regions soon.",
     "title": "Use Claude to enter transactions and get insights in QuickBooks"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/verify-principal-officer-business-identity-payroll/L82qAb3me_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-27T23:06:52Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/verify-principal-officer-business-identity-payroll/L82qAb3me_US_en_US",
+    "page": 3,
+    "summary": "Your guide to verify the business identity in QuickBooks Payroll \u2014 and save hours on bookkeeping. See exactly how below.",
+    "title": "Verify the business identity for QuickBooks Online Payroll ..."
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/ai-agents/pre-file-check-works/L1dN5PLUo_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -5977,6 +5995,15 @@
     "page": 2,
     "summary": "Searching federal 941? Follow this quick guide \u2014 and avoid common mistakes. Clear, step-by-step instructions.",
     "title": "Understand federal forms and tax payments for 941, 943, 944 ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/form-w-2/invite-employees-quickbooks-workforce-see-pay-w-2s/L2kUDcEJs_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-27T23:06:52Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/form-w-2/invite-employees-quickbooks-workforce-see-pay-w-2s/L2kUDcEJs_US_en_US",
+    "page": 4,
+    "summary": "Learn how to invite your employees to see pay stubs, W-2s and more in QuickBooks Workforce \u2014 without the usual headaches. Do it in just a few clicks.",
+    "title": "Invite your employees to see pay stubs, W-2s and more"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/form-w-2/view-print-w-2s-quickbooks-workforce/L0fCqetxm_US_en_US": {
     "baseline": true,
@@ -6868,6 +6895,15 @@
    }
   },
   "ncr-voyix-press": {
+   "ncrvoyix.com/newsroom/first-watch-extends-long-term-partnership-with-ncr-voyix-to-implement-aloha-next-across-nearly-600-restaurants": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T23:06:52Z",
+    "link": "https://www.ncrvoyix.com/newsroom/first-watch-extends-long-term-partnership-with-ncr-voyix-to-implement-aloha-next-across-nearly-600-restaurants",
+    "page": 1,
+    "summary": "NCR Voyix Corporation (NYSE: VYX) is a global platform-powered leader in unified commerce for shopping and dining. Combining a flexible, intelligent platform ...",
+    "title": "First Watch extends long-term partnership with NCR Voyix."
+   },
    "ncrvoyix.com/newsroom/sbarro-expands-partnership-with-ncr-voyix-to-modernize-restaurant-operations-and-streamline-payments": {
     "baseline": false,
     "date_hint": "3 hours ago",
