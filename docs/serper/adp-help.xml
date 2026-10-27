@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:adp-help</id>
   <title>ADP help (site:adp.com/about-adp/data-security/alerts/) via Serper</title>
-  <updated>2026-10-22T22:09:09Z</updated>
+  <updated>2026-10-27T20:08:25Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/adp-help.xml" />
+  <entry>
+    <id>https://www.adp.com/about-adp/data-security/alerts/phishing-campaign-employee-payroll-review-and-ach-payment-remittance.aspx</id>
+    <title>“Employee Payroll Review” and “ACH Payment Remittance”</title>
+    <link href="https://www.adp.com/about-adp/data-security/alerts/phishing-campaign-employee-payroll-review-and-ach-payment-remittance.aspx" />
+    <published>2026-10-27T20:08:25Z</published>
+    <updated>2026-10-27T20:08:25Z</updated>
+    <summary>ADP's Global Security Organization is aware of phishing emails being sent to ADP clients. These messages may contain malicious content and do not originate from ...</summary>
+  </entry>
   <entry>
     <id>https://www.adp.com/about-adp/data-security/alerts/php-vulnerability.aspx</id>
     <title>PHP vulnerability</title>

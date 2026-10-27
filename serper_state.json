@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 20326,
+  "credits_used": 20379,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T19:07:04Z",
+  "last_run": "2026-10-27T20:08:25Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,10 +127,19 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 412
+  "runs": 413
  },
  "feeds": {
   "adp-help": {
+   "adp.com/about-adp/data-security/alerts/phishing-campaign-employee-payroll-review-and-ach-payment-remittance.aspx": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-27T20:08:25Z",
+    "link": "https://www.adp.com/about-adp/data-security/alerts/phishing-campaign-employee-payroll-review-and-ach-payment-remittance.aspx",
+    "page": 1,
+    "summary": "ADP's Global Security Organization is aware of phishing emails being sent to ADP clients. These messages may contain malicious content and do not originate from ...",
+    "title": "\u201cEmployee Payroll Review\u201d and \u201cACH Payment Remittance\u201d"
+   },
    "adp.com/about-adp/data-security/alerts/php-vulnerability.aspx": {
     "baseline": false,
     "date_hint": "3 hours ago",
