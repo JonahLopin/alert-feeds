@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 20062,
+  "credits_used": 20114,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T14:12:15Z",
+  "last_run": "2026-10-27T15:11:42Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 407
+  "runs": 408
  },
  "feeds": {
   "adp-help": {
@@ -817,6 +817,15 @@
     "page": 4,
     "summary": "The proposed class action plaintiff sued the auto dealerships in 2025, seeking damages for alleged violations of the Illinois Biometric Information Privacy Act.",
     "title": "Clear Blue Is Off the Hook for Auto Dealers' Privacy Litigation"
+   },
+   "news.bloomberglaw.com/business-and-practice/cleary-snags-simpson-thacher-private-equity-partner-pflug": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T15:11:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cleary-snags-simpson-thacher-private-equity-partner-pflug",
+    "page": 1,
+    "summary": "Mark Pflug joined Cleary Gottlieb as a partner in its Americas M&A and private equity transactions groups in New York, the firm announced Tuesday.",
+    "title": "Cleary Snags Simpson Thacher Private Equity Partner Pflug"
    },
    "news.bloomberglaw.com/business-and-practice/clinic-violated-labor-law-during-union-election-nlrb-judge-says": {
     "baseline": false,
@@ -7149,6 +7158,15 @@
     "summary": "SAP TechEd helpen ontwikkelaars met de ontwikkeling, koppeling en veilige inzet van AI-agents.",
     "title": "SAP introduceert nieuwe AI-technologie\u00ebn voor autonome ..."
    },
+   "news.sap.com/belgie/2026/10/sap-introduceert-nieuwe-ai-technologieen-voor-autonome-bedrijfsprocessen?amp=1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-27T15:11:42Z",
+    "link": "https://news.sap.com/belgie/2026/10/sap-introduceert-nieuwe-ai-technologieen-voor-autonome-bedrijfsprocessen/?amp=1",
+    "page": 2,
+    "summary": "SAP heeft nieuwe mogelijkheden aangekondigd voor de ontwikkeling en inzet van AI-agents. Met uitbreidingen van Joule Studio, Joule Work en SAP Business AI ...",
+    "title": "SAP introduceert nieuwe AI-technologie\u00ebn voor autonome ..."
+   },
    "news.sap.com/belgie/2026/10/sap-laat-zien-hoe-ai-de-autonomous-enterprise-mogelijk-maakt/a-handsome-young-man-standing-at-night-in-the-street-illuminated-signboards-neon-lights": {
     "baseline": false,
     "date_hint": "6 hours ago",
@@ -7220,6 +7238,15 @@
     "page": 1,
     "summary": "Pardubick\u00fd Panasonic p\u0159e\u0161el na \u0159\u00edzen\u00ed v\u00fdroby v re\u00e1ln\u00e9m \u010dase. Zam\u011bstnanci z\u00edskali detailn\u00ed p\u0159ehled o v\u00fdkonu linek. SAP News. 6 hodin ago.",
     "title": "Pardubick\u00fd Panasonic p\u0159e\u0161el na \u0159\u00edzen\u00ed v\u00fdroby v re\u00e1ln\u00e9m ..."
+   },
+   "news.sap.com/cz/2026/10/sap-rozsiruje-moznosti-ai-agentu-jeho-technologie-zamiri-i-na-vesmirnou-stanici-iss": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-27T15:11:42Z",
+    "link": "https://news.sap.com/cz/2026/10/sap-rozsiruje-moznosti-ai-agentu-jeho-technologie-zamiri-i-na-vesmirnou-stanici-iss/",
+    "page": 2,
+    "summary": "Ontologie v \u0159e\u0161en\u00ed SAP umo\u017e\u0148uje snadnou spolupr\u00e1ci AI agent\u016f a zlep\u0161en\u00ed anal\u00fdzy podnikov\u00fdch dat pro firmy.",
+    "title": "Ontologie pro efektivn\u00ed \u0159\u00edzen\u00ed AI agent\u016f"
    },
    "news.sap.com/cz/2026/10/sap-rozsiruje-moznosti-ai-agentu-jeho-technologie-zamiri-i-na-vesmirnou-stanici-iss?amp=1": {
     "baseline": false,
@@ -7616,6 +7643,15 @@
     "page": 1,
     "summary": "Maintenance engineers in server room. SAP. Italia 800 789 088. Oppure consulta l'elenco completo dei nostri recapiti \u00b7 Contatta SAP Italia ...",
     "title": "Maintenance engineers in server room"
+   },
+   "news.sap.com/italy/2026/10/sap-potenzia-gli-sviluppatori-di-ai-per-costruire-cio-che-conta-e-trasformare-lintenzione-in-esecuzione-autonoma?amp=1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-27T15:11:42Z",
+    "link": "https://news.sap.com/italy/2026/10/sap-potenzia-gli-sviluppatori-di-ai-per-costruire-cio-che-conta-e-trasformare-lintenzione-in-esecuzione-autonoma/?amp=1",
+    "page": 2,
+    "summary": "SAP Business AI Platform fornisce alle organizzazioni un unico ambiente in cui sviluppare, contestualizzare e governare l'AI in ambienti SAP e di terze parti.",
+    "title": "SAP potenzia gli sviluppatori di AI per costruire ci\u00f2 che ..."
    },
    "news.sap.com/italy/2026/10/sap-quality-award-2026-lai-agentica-protagonista-dei-progetti-premiati": {
     "baseline": false,

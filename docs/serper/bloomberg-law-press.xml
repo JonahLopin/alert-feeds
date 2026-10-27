@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-27T13:14:51Z</updated>
+  <updated>2026-10-27T15:11:42Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/cleary-snags-simpson-thacher-private-equity-partner-pflug</id>
+    <title>Cleary Snags Simpson Thacher Private Equity Partner Pflug</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/cleary-snags-simpson-thacher-private-equity-partner-pflug" />
+    <published>2026-10-27T15:11:42Z</published>
+    <updated>2026-10-27T15:11:42Z</updated>
+    <summary>Mark Pflug joined Cleary Gottlieb as a partner in its Americas M&amp;A and private equity transactions groups in New York, the firm announced Tuesday.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/white-house-will-fail-to-overturn-any-elections-noah-feldman</id>
     <title>White House Will Fail to Overturn Any Elections: Noah ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-22T19:07:55Z</published>
     <updated>2026-10-22T19:07:55Z</updated>
     <summary>President Donald Trump called the judge, a former Williams &amp; Connolly partner and Joe Biden appointee, a “crazed lunatic” days after she snapped at government .</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/fed-debit-card-swipe-fee-rule-vexes-judges-over-possible-redo</id>
-    <title>Fed Debit Card 'Swipe Fee' Rule Vexes Judges Over ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/fed-debit-card-swipe-fee-rule-vexes-judges-over-possible-redo" />
-    <published>2026-10-22T19:07:55Z</published>
-    <updated>2026-10-22T19:07:55Z</updated>
-    <summary>A federal appeals court is weighing whether the Federal Reserve has to rewrite its debit card "swipe fee" rule. Photographer: Andrew Harrer/Bloomberg.</summary>
   </entry>
 </feed>
