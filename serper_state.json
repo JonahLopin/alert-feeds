@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 20167,
+  "credits_used": 20220,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T16:09:31Z",
+  "last_run": "2026-10-27T17:07:30Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 409
+  "runs": 410
  },
  "feeds": {
   "adp-help": {
@@ -862,6 +862,15 @@
     "page": 2,
     "summary": "Coinbase and some of the largest crypto groups spent more than $4 million on federal lobbying in the third quarter, marking the sixth consecutive quarter they' ...",
     "title": "Coinbase, Crypto Lobbies Cut Spending in Q3 After Bill Fails"
+   },
+   "news.bloomberglaw.com/business-and-practice/cole-schotz-brings-on-commercial-litigator-ikpe-in-miami-office": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-27T17:07:30Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cole-schotz-brings-on-commercial-litigator-ikpe-in-miami-office",
+    "page": 3,
+    "summary": "Ikpe represents businesses, executives, and stakeholders in sophisticated commercial disputes. She also handles disputes involving emerging technologies and ...",
+    "title": "Cole Schotz Brings on Commercial Litigator Ikpe in Miami ..."
    },
    "news.bloomberglaw.com/business-and-practice/colorado-battleground-race-shaped-by-immigration-latino-voters": {
     "baseline": false,
@@ -2782,6 +2791,15 @@
     "summary": "With one landmark courtroom victory this week against Meta Platforms Inc., New Mexico Attorney General Ra\u00fal Torrez is poised to bring in almost double the ...",
     "title": "Meta's $25 Billion Penalty Is Massive Win for AG in Small ..."
    },
+   "news.bloomberglaw.com/business-and-practice/metas-25-billion-stock-sale-ended-five-times-oversubscribed": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-27T17:07:30Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/metas-25-billion-stock-sale-ended-five-times-oversubscribed",
+    "page": 2,
+    "summary": "Meta Platforms Inc.'s upsized $25 billion share sale attracted demand for about five times the available shares, according to people familiar with the ...",
+    "title": "Meta's $25 Billion Stock Sale Ended Five Times ..."
+   },
    "news.bloomberglaw.com/business-and-practice/milbank-hires-white-cases-doe-for-project-finance-in-chicago": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -3411,6 +3429,15 @@
     "page": 2,
     "summary": "SoftBank Group Corp. is considering an acquisition of Allied Universal , the largest security services company in the US, people familiar with the matter ...",
     "title": "SoftBank Is Said to Weigh Buying Largest US Security Firm ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/soldier-fails-to-toss-insider-trading-charges-over-maduro-raid": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-27T17:07:30Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/soldier-fails-to-toss-insider-trading-charges-over-maduro-raid",
+    "page": 3,
+    "summary": "A US Army special forces master sergeant must face charges of insider trading after he allegedly made more than $400,000 from Polymarket bets related to the ...",
+    "title": "Soldier Fails to Toss Insider Trading Charges Over Maduro ..."
    },
    "news.bloomberglaw.com/business-and-practice/southwest-pilots-union-objects-to-spirits-data-sale-to-google": {
     "baseline": false,
