@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 20114,
+  "credits_used": 20167,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T15:11:42Z",
+  "last_run": "2026-10-27T16:09:31Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 408
+  "runs": 409
  },
  "feeds": {
   "adp-help": {
@@ -203,6 +203,15 @@
     "page": 1,
     "summary": "API Central simplifies how organizations connect workforce data, applications and artificial intelligence solutions by providing access to APIs, MCP servers, AI ...",
     "title": "ADP Launches New AI-powered Tools to Accelerate ..."
+   },
+   "mediacenter.adp.com/the-power-of-data": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-27T16:09:31Z",
+    "link": "https://mediacenter.adp.com/the-power-of-data",
+    "page": 1,
+    "summary": "Journalist Patricia Stark interviews three ADP AI experts about the need for good data and data privacy. Chief product and data officer Amin Venjara shares ...",
+    "title": "The power of data"
    },
    "mediacenter.adp.com/thinking-of-ai-as-a-teammate": {
     "baseline": false,
@@ -1086,6 +1095,15 @@
     "page": 3,
     "summary": "As cryptocurrency platforms push into stock trading, a brokerage technology startup is preparing to enter a Wall Street business long dominated by major ...",
     "title": "Crypto's Push Into Stocks Fuels New Wall Street Lending ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/cvs-health-sues-trumps-hhs-over-medicare-star-rating-exclusion": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T16:09:31Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cvs-health-sues-trumps-hhs-over-medicare-star-rating-exclusion",
+    "page": 3,
+    "summary": "Insurance giant CVS Health is suing the Trump administration over allegedly excluding the company from Medicare bonus payments granted to a competitor.",
+    "title": "CVS Health Sues Trump's HHS Over Medicare Star Rating ..."
    },
    "news.bloomberglaw.com/business-and-practice/dallas-dealmaker-pleitz-joins-munsch-hardt-from-dorsey-whitney": {
     "baseline": false,
@@ -4148,6 +4166,15 @@
     "summary": "Three Big Law firms steered Salesforce Inc.'s agreement to buy an artificial intelligence-powered marketing platform Braze Inc. for nearly $5.7 billion.",
     "title": "Wachtell, Covington, Davis Polk Guide Salesforce's Braze ..."
    },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-big-tech-joins-big-law-in-the-legal-talent-wars": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-27T16:09:31Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-big-tech-joins-big-law-in-the-legal-talent-wars",
+    "page": 3,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
+    "title": "Wake Up Call: Big Tech Joins Big Law in the Legal Talent ..."
+   },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-firms-leverage-what-they-know-with-custom-ai": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -5635,6 +5662,15 @@
     "page": 3,
     "summary": "Step-by-step: customize your reports with a modern view in QuickBooks Online \u2014 without the usual headaches. Get it done in minutes.",
     "title": "Customize your reports with a modern view in QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/direct-deposits/pay-contractors-direct-deposit-quickbooks-online/L1yfULhFL_US_en_US": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-27T16:09:31Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/direct-deposits/pay-contractors-direct-deposit-quickbooks-online/L1yfULhFL_US_en_US",
+    "page": 3,
+    "summary": "Simplify payday and set payroll to run automatically on QuickBooks. Explore Intuit QuickBooks Workforce. Green Circle Icon with Stylized White Letters.",
+    "title": "How to pay contractors with direct deposit in QuickBooks Online"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/direct-deposits/set-manage-direct-deposit-contractors/L63N4nBv9_US_en_US": {
     "baseline": false,
@@ -7644,6 +7680,15 @@
     "summary": "Maintenance engineers in server room. SAP. Italia 800 789 088. Oppure consulta l'elenco completo dei nostri recapiti \u00b7 Contatta SAP Italia ...",
     "title": "Maintenance engineers in server room"
    },
+   "news.sap.com/italy/2026/10/sap-potenzia-gli-sviluppatori-di-ai-per-costruire-cio-che-conta-e-trasformare-lintenzione-in-esecuzione-autonoma": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-27T16:09:31Z",
+    "link": "https://news.sap.com/italy/2026/10/sap-potenzia-gli-sviluppatori-di-ai-per-costruire-cio-che-conta-e-trasformare-lintenzione-in-esecuzione-autonoma/",
+    "page": 2,
+    "summary": "SAP Business AI Platform fornisce alle organizzazioni un unico ambiente in cui sviluppare, contestualizzare e governare l'AI in ambienti SAP e di terze parti.",
+    "title": "SAP potenzia gli sviluppatori di AI per costruire ci\u00f2 che ..."
+   },
    "news.sap.com/italy/2026/10/sap-potenzia-gli-sviluppatori-di-ai-per-costruire-cio-che-conta-e-trasformare-lintenzione-in-esecuzione-autonoma?amp=1": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -8093,6 +8138,15 @@
     "summary": "Meteen naar de inhoud. Blogs & Nieuws \u00b7 Press \u00b7 Artikelen \u00b7 Onderwerpen \u00b7 Volg. Ontdek SAP. Verken alle gebieden van SAP. Training en support.",
     "title": "SAP Mensura 1 - SAP Nederland Blogs & Nieuws"
    },
+   "news.sap.com/netherlands/2026/10/sap-introduceert-nieuwe-ai-technologieen-voor-autonome-bedrijfsprocessen": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-27T16:09:31Z",
+    "link": "https://news.sap.com/netherlands/2026/10/sap-introduceert-nieuwe-ai-technologieen-voor-autonome-bedrijfsprocessen/",
+    "page": 1,
+    "summary": "SAP heeft nieuwe mogelijkheden aangekondigd voor de ontwikkeling en inzet van AI-agents. Met uitbreidingen van Joule Studio, Joule Work en SAP Business AI ...",
+    "title": "SAP introduceert nieuwe AI-technologie\u00ebn voor autonome ..."
+   },
    "news.sap.com/netherlands/2026/10/sap-presenteert-kwartaalcijfers-over-derde-kwartaal-2026": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -8155,6 +8209,24 @@
     "page": 2,
     "summary": "LISBOA \u2013 A SAP SE (NYSE: SAP) anunciou um acordo para adquirir a TechWolf, empresa belga especializada em intelig\u00eancia artificial (IA) aplicada \u00e0 an\u00e1lise do ...",
     "title": "SAP anuncia aquisi\u00e7\u00e3o da TechWolf para refor\u00e7ar a gest\u00e3o ..."
+   },
+   "news.sap.com/portugal/2026/10/sap-reforca-ia-de-negocio-para-transformar-intencoes-em-execucao-autonoma-e-acelerar-a-inovacao-empresarial": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-27T16:09:31Z",
+    "link": "https://news.sap.com/portugal/2026/10/sap-reforca-ia-de-negocio-para-transformar-intencoes-em-execucao-autonoma-e-acelerar-a-inovacao-empresarial/",
+    "page": 2,
+    "summary": "A SAP Business AI Platform disponibiliza \u00e0s organiza\u00e7\u00f5es um ambiente unificado para desenvolver, contextualizar e governar solu\u00e7\u00f5es de IA em sistemas SAP e de ...",
+    "title": "SAP refor\u00e7a IA de neg\u00f3cio para transformar inten\u00e7\u00f5es em ..."
+   },
+   "news.sap.com/portugal/2026/10/sap-reforca-ia-de-negocio-para-transformar-intencoes-em-execucao-autonoma-e-acelerar-a-inovacao-empresarial?amp=1": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-27T16:09:31Z",
+    "link": "https://news.sap.com/portugal/2026/10/sap-reforca-ia-de-negocio-para-transformar-intencoes-em-execucao-autonoma-e-acelerar-a-inovacao-empresarial/?amp=1",
+    "page": 2,
+    "summary": "A SAP Business AI Platform disponibiliza \u00e0s organiza\u00e7\u00f5es um ambiente unificado para desenvolver, contextualizar e governar solu\u00e7\u00f5es de IA em sistemas SAP e de ...",
+    "title": "SAP refor\u00e7a IA de neg\u00f3cio para transformar inten\u00e7\u00f5es em ..."
    },
    "news.sap.com/portugal/2026/10/sap-transforma-a-empresa-autonoma-em-realidade/a-handsome-young-man-standing-at-night-in-the-street-illuminated-signboards-neon-lights": {
     "baseline": false,
@@ -8447,6 +8519,15 @@
     "page": 1,
     "summary": "Autonomous CX Arrives: What's New in SAP Customer Experience Q3 2026 \u00b7 The Suite Advantage: Why Enterprises Don't Evaluate CRM in Isolation \u00b7 From Two Weeks to ...",
     "title": "CRM and customer experience Archives"
+   },
+   "news.sap.com/topics/ecosystem": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-27T16:09:31Z",
+    "link": "https://news.sap.com/topics/ecosystem/",
+    "page": 1,
+    "summary": "Feature articles, press releases, news, information & stories from SAP about the SAP Ecosystem, partners, customers, solution providers, resources, etc.",
+    "title": "SAP Ecosystem News & Stories"
    },
    "news.sap.com/topics/erp": {
     "baseline": true,
