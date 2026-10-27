@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 20010,
+  "credits_used": 20062,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T13:14:51Z",
+  "last_run": "2026-10-27T14:12:15Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 406
+  "runs": 407
  },
  "feeds": {
   "adp-help": {
@@ -8245,6 +8245,15 @@
     "page": 1,
     "summary": "SAP Impulsa Empleo ofrece formaci\u00f3n oficial gratuita o subvencionada, con pr\u00e1cticas en sistemas reales, tutor\u00edas, certificaci\u00f3n y contacto directo con empresas, ...",
     "title": "SAP Espa\u00f1a, premiada en los Digital Skills Awards 2026 ..."
+   },
+   "news.sap.com/spain/2026/10/sap-impulsa-a-los-desarrolladores-de-ia-para-crear-soluciones-de-valor-y-transformar-la-intencion-en-ejecucion-autonoma": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-27T14:12:15Z",
+    "link": "https://news.sap.com/spain/2026/10/sap-impulsa-a-los-desarrolladores-de-ia-para-crear-soluciones-de-valor-y-transformar-la-intencion-en-ejecucion-autonoma/",
+    "page": 2,
+    "summary": "SAP Business AI Platform ofrece a las organizaciones un \u00fanico entorno para desarrollar, contextualizar y gobernar la IA, tanto en entornos SAP como de terceros.",
+    "title": "SAP impulsa a los desarrolladores de IA para crear ..."
    },
    "news.sap.com/spain/2026/10/sap-impulsa-a-los-desarrolladores-de-ia-para-crear-soluciones-de-valor-y-transformar-la-intencion-en-ejecucion-autonoma?amp=1": {
     "baseline": false,

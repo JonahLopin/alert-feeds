@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-27T13:14:51Z</updated>
+  <updated>2026-10-27T14:12:15Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/spain/2026/10/sap-impulsa-a-los-desarrolladores-de-ia-para-crear-soluciones-de-valor-y-transformar-la-intencion-en-ejecucion-autonoma/</id>
+    <title>SAP impulsa a los desarrolladores de IA para crear ...</title>
+    <link href="https://news.sap.com/spain/2026/10/sap-impulsa-a-los-desarrolladores-de-ia-para-crear-soluciones-de-valor-y-transformar-la-intencion-en-ejecucion-autonoma/" />
+    <published>2026-10-27T14:12:15Z</published>
+    <updated>2026-10-27T14:12:15Z</updated>
+    <summary>SAP Business AI Platform ofrece a las organizaciones un único entorno para desarrollar, contextualizar y gobernar la IA, tanto en entornos SAP como de terceros.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/ukraine/2026/10/sap-%D1%80%D0%BE%D0%B7%D0%B2%D0%B8%D0%B2%D0%B0%D1%94-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D1%96%D1%8E-%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%96%D0%B4%D0%BF/</id>
     <title>SAP розвиває концепцію автономного підприємства на ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-18T11:43:01Z</published>
     <updated>2026-10-18T11:43:01Z</updated>
     <summary>SAP United States +1-800-872-1727. News and press Blogs and resources Events</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/wp-admin/*</id>
-    <title>https://news.sap.com/wp-admin/*</title>
-    <link href="https://news.sap.com/wp-admin/*" />
-    <published>2026-10-18T08:46:57Z</published>
-    <updated>2026-10-18T08:46:57Z</updated>
-    <summary>No information is available for this page.</summary>
   </entry>
 </feed>
