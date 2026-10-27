@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:adp-press</id>
   <title>ADP press (site:mediacenter.adp.com)</title>
-  <updated>2026-10-22T16:34:44Z</updated>
+  <updated>2026-10-27T09:35:55Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/adp-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:1495252642198131930</id>
+    <title>Press Releases - ADP in the Media</title>
+    <link href="https://mediacenter.adp.com/press-releases?o=752" />
+    <published>2026-10-27T09:35:55Z</published>
+    <updated>2026-10-27T09:35:55Z</updated>
+    <summary>ROSELAND, NJ -- (Marketwired) -- 11/23/16 -- ADP (NASDAQ: ADP) WHAT: ADP® will release the November 2016 findings of the ADP National Employment ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:14038006044077319284</id>
     <title>ADP Launches New AI-powered Tools to Accelerate Intelligent Workforce Automation</title>
