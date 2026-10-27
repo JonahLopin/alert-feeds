@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 19486,
+  "credits_used": 19540,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T02:41:43Z",
+  "last_run": "2026-10-27T03:37:35Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 396
+  "runs": 397
  },
  "feeds": {
   "adp-help": {
@@ -547,6 +547,15 @@
     "page": 1,
     "summary": "British Columbia is set. BC's Left-Wing Leader Loses to Conservatives in Vote He Called Oct. 24, 2026, defeat for David Eby , the leader of the BC NDP",
     "title": "BC's Left-Wing Leader Loses to Conservatives in Vote He ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/berkeley-can-remove-homeless-encampment-ninth-circuit-rules": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-27T03:37:35Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/berkeley-can-remove-homeless-encampment-ninth-circuit-rules",
+    "page": 1,
+    "summary": "Berkeley, Calif. was within its right to begin clearing a homeless encampment in a city park where a bacterial disease was detected, the Ninth Circuit ruled ...",
+    "title": "Berkeley Can Remove Homeless Encampment, Ninth ..."
    },
    "news.bloomberglaw.com/business-and-practice/bgov-onpoint-trump-court-prospects-hinge-on-tight-senate-races": {
     "baseline": false,
