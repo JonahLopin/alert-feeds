@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-27T18:09:43Z</updated>
+  <updated>2026-10-27T19:07:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/netherlands/2026/10/sap-presenteert-kwartaalcijfers-over-derde-kwartaal-2026/businessman-checking-stock-market-data/</id>
+    <title>Businessman checking stock market data</title>
+    <link href="https://news.sap.com/netherlands/2026/10/sap-presenteert-kwartaalcijfers-over-derde-kwartaal-2026/businessman-checking-stock-market-data/" />
+    <published>2026-10-27T19:07:04Z</published>
+    <updated>2026-10-27T19:07:04Z</updated>
+    <summary>Businessman checking stock market data. SAP. Nederland 0800 020 0009. Voor technische support zijn we bereikbaar op 0800 0220683.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/germany/2026/10/joule-work-und-ki-innovationen-von-sap-revolutionieren-die-entwicklung-und-nutzung-von-unternehmenssoftware/</id>
     <title>Neue Möglichkeiten für Entwickler bei SAP</title>
@@ -795,13 +803,5 @@
     <published>2026-10-19T10:31:57Z</published>
     <updated>2026-10-19T10:31:57Z</updated>
     <summary>Gemeinsam auf digitaler Schiene: ÖBB erneuert SAP-Systeme · Feature · Schatten-KI im Krankenhaus: Warum die Antwort nicht das Verbot ist · Feature · Joule Work ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/germany/2026/10/oebb-erneuert-sap-systeme/</id>
-    <title>RISE with SAP: Innovationen für die ÖBB</title>
-    <link href="https://news.sap.com/germany/2026/10/oebb-erneuert-sap-systeme/" />
-    <published>2026-10-19T09:16:52Z</published>
-    <updated>2026-10-19T09:16:52Z</updated>
-    <summary>Die Partnerschaft zwischen ÖBB und SAP zeigt beispielhaft, wie eine umfassende digitale Transformation geplant werden muss, um langfristig Mehrwert zu schaffen.</summary>
   </entry>
 </feed>
