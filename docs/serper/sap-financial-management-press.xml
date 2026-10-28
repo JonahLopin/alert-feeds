@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-28T17:42:55Z</updated>
+  <updated>2026-10-28T18:43:14Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/2026/10/sap-teched-developers-you-can-build-autonomous-enterprise/</id>
+    <title>SAP TechEd: Developers Can Build the Autonomous ...</title>
+    <link href="https://news.sap.com/2026/10/sap-teched-developers-you-can-build-autonomous-enterprise/" />
+    <published>2026-10-28T18:43:14Z</published>
+    <updated>2026-10-28T18:43:14Z</updated>
+    <summary>developers, customers, and partners can use SAP's comprehensive AI tools and SAP Business AI Platform to build the Autonomous Enterprise.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/brazil/2026/10/sap-anuncia-novos-recursos-de-ia-para-acelerar-a-transformacao-das-empresas-em-organizacoes-autonomas/?amp=1</id>
     <title>SAP anuncia novos recursos de IA para acelerar a ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T02:52:26Z</published>
     <updated>2026-10-21T02:52:26Z</updated>
     <summary>SAP Service Card · The Suite Advantage: Why Enterprises Don't Evaluate CRM in Isolation · Quick links. Quick links · Trending Trending · About SAP About SAP · Site ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/spain/2026/10/escalabilidad-empresarial/escalabilidad-empresarial/</id>
-    <title>escalabilidad-empresarial - SAP España News Center</title>
-    <link href="https://news.sap.com/spain/2026/10/escalabilidad-empresarial/escalabilidad-empresarial/" />
-    <published>2026-10-20T18:50:42Z</published>
-    <updated>2026-10-20T18:50:42Z</updated>
-    <summary>Explore todas las áreas de SAP. Capacitación y soporte. Capacitación y certificación · Soporte · Documentación · Comunidad. Acerca de.</summary>
   </entry>
 </feed>

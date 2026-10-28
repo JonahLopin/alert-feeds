@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 21479,
+  "credits_used": 21529,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-28T17:42:55Z",
+  "last_run": "2026-10-28T18:43:14Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 434
+  "runs": 435
  },
  "feeds": {
   "adp-help": {
@@ -212,6 +212,15 @@
     "page": 1,
     "summary": "ADP (Nasdaq: ADP), a global leader in HR and payroll solutions, today announced its first quarter fiscal 2027 financial results. As a global leader in HR and ...",
     "title": "ADP Reports First Quarter Fiscal 2027 Results - Oct 28, 2026"
+   },
+   "mediacenter.adp.com/2026-10-28-PNC-Bank-and-ADP-Announce-Embedded-Payroll-Solution-for-Small-Businesses": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-28T18:43:14Z",
+    "link": "https://mediacenter.adp.com/2026-10-28-PNC-Bank-and-ADP-Announce-Embedded-Payroll-Solution-for-Small-Businesses",
+    "page": 1,
+    "summary": "PNC Payroll by ADP\u00ae will connect payroll, HR and benefits with the banking, payments and cash management capabilities businesses use every day in one ...",
+    "title": "PNC Bank and ADP Announce Embedded Payroll Solution ..."
    },
    "mediacenter.adp.com/adp-launches-new-ai-powered-tools-to-accelerate-intelligent-workforce-automation": {
     "baseline": false,
@@ -3637,6 +3646,15 @@
     "summary": "The new tradable products will be based on the company's LLM token indexes, which track token prices across various AI models weighted by usage, Silicon Data ...",
     "title": "Silicon Data Plans Tradable Token Index Products With CME"
    },
+   "news.bloomberglaw.com/business-and-practice/simpson-kicks-off-chicago-growth-plan-with-four-partner-hires": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T18:43:14Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/simpson-kicks-off-chicago-growth-plan-with-four-partner-hires",
+    "page": 2,
+    "summary": "Simpson Thacher & Bartlett has hired four partners to its new Chicago office, beginning a growth plan intended to fill roughly 100,000 square feet of office ...",
+    "title": "Simpson Kicks Off Chicago Growth Plan With Four Partner ..."
+   },
    "news.bloomberglaw.com/business-and-practice/skadden-brings-on-four-mass-tort-and-product-liability-lawyers": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -3645,6 +3663,15 @@
     "page": 2,
     "summary": "Pruitt's practice focuses on representing pharmaceutical and medical device companies, as well as other companies in consumer class actions and toxic tort ...",
     "title": "Skadden Brings On Four Mass Tort and Product Liability ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/skadden-latham-guide-ge-vernovas-9-billion-grid-supplier-buy": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T18:43:14Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/skadden-latham-guide-ge-vernovas-9-billion-grid-supplier-buy",
+    "page": 2,
+    "summary": "Skadden steered GE Vernova Inc. in its $9 billion agreement to buy Trench Group from buyout firm Triton Partners, which was advised by Latham & Watkins.",
+    "title": "Skadden, Latham Guide GE Vernova's $9 Billion Grid ..."
    },
    "news.bloomberglaw.com/business-and-practice/skydance-asks-staff-to-take-voluntary-buyouts-before-wider-cuts": {
     "baseline": false,
@@ -7499,6 +7526,15 @@
     "page": 1,
     "summary": "From SAP TechEd, SAP has announced a series of AI innovations that expands its portfolio for developers. Get all the news from the event.",
     "title": "SAP Empowers AI Developers | SAP TechEd"
+   },
+   "news.sap.com/2026/10/sap-teched-developers-you-can-build-autonomous-enterprise": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T18:43:14Z",
+    "link": "https://news.sap.com/2026/10/sap-teched-developers-you-can-build-autonomous-enterprise/",
+    "page": 1,
+    "summary": "developers, customers, and partners can use SAP's comprehensive AI tools and SAP Business AI Platform to build the Autonomous Enterprise.",
+    "title": "SAP TechEd: Developers Can Build the Autonomous ..."
    },
    "news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched": {
     "baseline": false,
