@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-28T10:42:41Z</updated>
+  <updated>2026-10-28T11:42:48Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/californias-compete-act-widens-antitrust-law-but-adds-unknowns</id>
+    <title>California's COMPETE Act Widens Antitrust Law but Adds ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/californias-compete-act-widens-antitrust-law-but-adds-unknowns" />
+    <published>2026-10-28T11:42:48Z</published>
+    <updated>2026-10-28T11:42:48Z</updated>
+    <summary>The COMPETE Act expands California's antitrust law by allowing state enforcers to pursue monopolization and monopsonization claims, while introducing legal ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/suspended-tech-visa-program-offers-a-warning-on-hiring-records</id>
     <title>Suspended Tech Visa Program Offers a Warning on Hiring ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-22T23:08:48Z</published>
     <updated>2026-10-22T23:08:48Z</updated>
     <summary>President Donald Trump said he will hold off on imposing tariffs on wind turbines and their components on national security grounds, instead ordering the US ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/supreme-court-backs-republicans-in-new-hampshire-voter-id-clash</id>
-    <title>Supreme Court Backs Republicans in New Hampshire ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/supreme-court-backs-republicans-in-new-hampshire-voter-id-clash" />
-    <published>2026-10-22T23:08:48Z</published>
-    <updated>2026-10-22T23:08:48Z</updated>
-    <summary>The US Supreme Court lifted a ruling that would have allowed use of student-ID cards to help show eligibility to vote in New Hampshire, ...</summary>
   </entry>
 </feed>

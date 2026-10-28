@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 21128,
+  "credits_used": 21179,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-28T10:42:41Z",
+  "last_run": "2026-10-28T11:42:48Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 427
+  "runs": 428
  },
  "feeds": {
   "adp-help": {
@@ -817,6 +817,15 @@
     "page": 2,
     "summary": "The Norte Fire burned nearly 500 acres and destroyed multiple structures in a matter of hours, as high winds have aggressively pushed it into neighborhoods.",
     "title": "California Utility Sued Over Still Smoldering Orange ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/californias-compete-act-widens-antitrust-law-but-adds-unknowns": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-28T11:42:48Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/californias-compete-act-widens-antitrust-law-but-adds-unknowns",
+    "page": 1,
+    "summary": "The COMPETE Act expands California's antitrust law by allowing state enforcers to pursue monopolization and monopsonization claims, while introducing legal ...",
+    "title": "California's COMPETE Act Widens Antitrust Law but Adds ..."
    },
    "news.bloomberglaw.com/business-and-practice/cattle-grazing-now-a-primary-public-lands-use-to-boost-beef": {
     "baseline": false,
@@ -5729,6 +5738,15 @@
     "page": 2,
     "summary": "How the pre-file check works explained \u2014 so you can make the right call. Everything you need to know.",
     "title": "How to reconcile your sales numbers on QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/audit-log/clients-accountants-view-audit-log/L8wWnKPK3_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-28T11:42:48Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/audit-log/clients-accountants-view-audit-log/L8wWnKPK3_US_en_US",
+    "page": 1,
+    "summary": "How clients and accountants view the audit log, explained clearly \u2014 minus the accounting jargon. Everything you need to know.",
+    "title": "How clients and accountants view the audit log - QuickBooks"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/audit-log/use-centralized-audit-log-intuit-accountant-suite/L2vtXilIF_US_en_US": {
     "baseline": false,

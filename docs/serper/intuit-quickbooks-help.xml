@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-10-28T09:42:50Z</updated>
+  <updated>2026-10-28T11:42:48Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/audit-log/clients-accountants-view-audit-log/L8wWnKPK3_US_en_US</id>
+    <title>How clients and accountants view the audit log - QuickBooks</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/audit-log/clients-accountants-view-audit-log/L8wWnKPK3_US_en_US" />
+    <published>2026-10-28T11:42:48Z</published>
+    <updated>2026-10-28T11:42:48Z</updated>
+    <summary>How clients and accountants view the audit log, explained clearly — minus the accounting jargon. Everything you need to know.</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-appointments/schedule-appointments-quickbooks-online/L7pZhPDEP_US_en_US</id>
     <title>Schedule appointments with your customers - QuickBooks</title>
@@ -795,13 +803,5 @@
     <published>2026-10-11T17:28:34Z</published>
     <updated>2026-10-11T17:28:34Z</updated>
     <summary>Learn how to create, customize, preview, and send professional proposals to your customers directly from QuickBooks Online. Use the proposal builder to create a ...</summary>
-  </entry>
-  <entry>
-    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll/view-change-direct-deposit-funding-time/L2QoK2Y75_US_en_US</id>
-    <title>When to send your direct deposit payroll - QuickBooks - Intuit</title>
-    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll/view-change-direct-deposit-funding-time/L2QoK2Y75_US_en_US" />
-    <published>2026-10-11T14:31:01Z</published>
-    <updated>2026-10-11T14:31:01Z</updated>
-    <summary>Searching pt deposit? Follow this quick guide — so everything reconciles cleanly. Get it done in minutes.</summary>
   </entry>
 </feed>
