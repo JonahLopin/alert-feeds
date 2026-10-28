@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 21229,
+  "credits_used": 21279,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-28T12:45:19Z",
+  "last_run": "2026-10-28T13:42:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 429
+  "runs": 430
  },
  "feeds": {
   "adp-help": {
@@ -203,6 +203,15 @@
     "page": 1,
     "summary": "The NER Pulse is an estimate of the week-over-week change in employment based on a four-week moving average. These estimates are based on ADP's finely tuned, ...",
     "title": "ADP National Employment Report Preliminary Estimate for ..."
+   },
+   "mediacenter.adp.com/2026-10-28-ADP-Reports-First-Quarter-Fiscal-2027-Results": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-28T13:42:43Z",
+    "link": "https://mediacenter.adp.com/2026-10-28-ADP-Reports-First-Quarter-Fiscal-2027-Results",
+    "page": 1,
+    "summary": "ADP (Nasdaq: ADP), a global leader in HR and payroll solutions, today announced its first quarter fiscal 2027 financial results. As a global leader in HR and ...",
+    "title": "ADP Reports First Quarter Fiscal 2027 Results - Oct 28, 2026"
    },
    "mediacenter.adp.com/adp-launches-new-ai-powered-tools-to-accelerate-intelligent-workforce-automation": {
     "baseline": false,
