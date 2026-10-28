@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 20702,
+  "credits_used": 20757,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-28T02:29:16Z",
+  "last_run": "2026-10-28T03:28:08Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 419
+  "runs": 420
  },
  "feeds": {
   "adp-help": {
@@ -1489,6 +1489,15 @@
     "page": 2,
     "summary": "Dutch investors will likely ditch their cryptocurrency if the asset class is carved out of a shift to a new investor-friendly wealth tax, industry groups ...",
     "title": "Dutch Investors Poised to Flee Crypto Over Wealth-Tax ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/edison-must-face-jury-over-equipments-role-in-massive-2025-fire": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-28T03:28:08Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/edison-must-face-jury-over-equipments-role-in-massive-2025-fire",
+    "page": 3,
+    "summary": "A judge ruled that Southern California Edison cannot escape a trial over a central claim in lawsuits over 2025's Eaton Fire, the most destructive blaze in ...",
+    "title": "Edison Must Face Jury Over Equipment's Role in Massive ..."
    },
    "news.bloomberglaw.com/business-and-practice/education-agency-targets-student-abuse-as-other-cases-languish": {
     "baseline": false,

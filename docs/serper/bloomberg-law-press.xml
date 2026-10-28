@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-28T02:29:16Z</updated>
+  <updated>2026-10-28T03:28:08Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/edison-must-face-jury-over-equipments-role-in-massive-2025-fire</id>
+    <title>Edison Must Face Jury Over Equipment's Role in Massive ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/edison-must-face-jury-over-equipments-role-in-massive-2025-fire" />
+    <published>2026-10-28T03:28:08Z</published>
+    <updated>2026-10-28T03:28:08Z</updated>
+    <summary>A judge ruled that Southern California Edison cannot escape a trial over a central claim in lawsuits over 2025's Eaton Fire, the most destructive blaze in ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/judge-questions-doj-bid-to-set-aside-20-000-california-ballots</id>
     <title>Judge Questions DOJ Bid to Set Aside 20000 California ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-22T22:09:09Z</published>
     <updated>2026-10-22T22:09:09Z</updated>
     <summary>Gilead Sciences Inc. will pay $45 million to resolve claims the pharmaceutical company paid illegal kickbacks influencing the prescription of drugs paid for ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/citigroup-convenes-analysts-in-mexico-to-prepare-for-banamex-ipo</id>
-    <title>Citigroup Convenes Analysts in Mexico to Prepare for ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/citigroup-convenes-analysts-in-mexico-to-prepare-for-banamex-ipo" />
-    <published>2026-10-22T22:09:09Z</published>
-    <updated>2026-10-22T22:09:09Z</updated>
-    <summary>Wall Street analysts flew to Mexico City this week for meetings with Grupo Financiero Banamex management ahead of Citigroup Inc. 's planned share offering ...</summary>
   </entry>
 </feed>
