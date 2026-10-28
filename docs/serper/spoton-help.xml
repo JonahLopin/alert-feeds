@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-10-26T14:09:26Z</updated>
+  <updated>2026-10-28T05:25:28Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/3393126402</id>
+    <title>Auto Gratuity | SpotOn Restaurant BOH</title>
+    <link href="https://help.spoton.com/space/SK/3393126402" />
+    <published>2026-10-28T05:25:28Z</published>
+    <updated>2026-10-28T05:25:28Z</updated>
+    <summary>Auto Gratuity allows you to automatically apply a gratuity to guest checks based on guest count or order total. This feature helps ensure consistent service ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/1020199060/How+to+Cancel+an+Order+(Sent+vs.+Unsent+Items)+%7C+SpotOn+Restaurant+POS</id>
     <title>How to Cancel an Order (Sent vs. Unsent Items)</title>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 20812,
+  "credits_used": 20867,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-28T04:27:53Z",
+  "last_run": "2026-10-28T05:25:28Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 421
+  "runs": 422
  },
  "feeds": {
   "adp-help": {
@@ -11259,6 +11259,15 @@
     "page": 2,
     "summary": "Quick Links \u00b7 View Billing Statements \u00b7 Add Menu Item \u00b7 View Orders \u00b7 Add Employee \u00b7 Edit Taxes and Fees \u00b7 Online Ordering. Quick Links also appear in the side ...",
     "title": "Home | Dashboard | SpotOn Express"
+   },
+   "help.spoton.com/space/SK/3393126402": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-28T05:25:28Z",
+    "link": "https://help.spoton.com/space/SK/3393126402",
+    "page": 1,
+    "summary": "Auto Gratuity allows you to automatically apply a gratuity to guest checks based on guest count or order total. This feature helps ensure consistent service ...",
+    "title": "Auto Gratuity | SpotOn Restaurant BOH"
    },
    "help.spoton.com/space/SK/3683876865": {
     "baseline": false,
