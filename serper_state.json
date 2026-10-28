@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 20539,
+  "credits_used": 20593,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-27T23:06:52Z",
+  "last_run": "2026-10-28T00:20:39Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 416
+  "runs": 417
  },
  "feeds": {
   "adp-help": {
@@ -5594,6 +5594,15 @@
     "page": 2,
     "summary": "How the pre-file check works explained \u2014 so you can make the right call. Everything you need to know.",
     "title": "How to reconcile your sales numbers on QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/audit-log/use-centralized-audit-log-intuit-accountant-suite/L2vtXilIF_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-28T00:20:39Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/audit-log/use-centralized-audit-log-intuit-accountant-suite/L2vtXilIF_US_en_US",
+    "page": 4,
+    "summary": "The Centralized Audit Log in Intuit Accountant Suite gives your firm a single dashboard to track workflows and manage staff productivity across your entire ...",
+    "title": "Use the Centralized Audit Log in Intuit Accountant Suite"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/balance-sheet/run-balance-sheet-class-location/L2wj2NQT2_US_en_US": {
     "baseline": false,
