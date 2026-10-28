@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:taxcloud-blog</id>
   <title>TaxCloud blog (site:taxcloud.com/blog/) via Serper</title>
-  <updated>2026-10-28T02:29:16Z</updated>
+  <updated>2026-10-28T22:43:02Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/taxcloud-blog.xml" />
+  <entry>
+    <id>https://taxcloud.com/blog/new-transactions-page/</id>
+    <title>TaxCloud's new Transactions page: orders and lookups together</title>
+    <link href="https://taxcloud.com/blog/new-transactions-page/" />
+    <published>2026-10-28T22:43:02Z</published>
+    <updated>2026-10-28T22:43:02Z</updated>
+    <summary>Search up to 2 years of orders, lookups, and test transactions in one place, using AI search and flexible filters, on the new TaxCloud Transactions page.</summary>
+  </entry>
   <entry>
     <id>https://taxcloud.com/blog/best-software-for-economic-nexus-tracking/</id>
     <title>6 Best Software Solutions for Tracking Economic Nexus in 2026</title>

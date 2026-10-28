@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-28T21:42:58Z</updated>
+  <updated>2026-10-28T22:43:02Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/video/whats-new-in-ai-joule-and-the-autonomous-enterprise-sap-teched-in-2026/</id>
+    <title>What's New in AI, Joule, and the Autonomous Enterprise</title>
+    <link href="https://news.sap.com/video/whats-new-in-ai-joule-and-the-autonomous-enterprise-sap-teched-in-2026/" />
+    <published>2026-10-28T22:43:02Z</published>
+    <updated>2026-10-28T22:43:02Z</updated>
+    <summary>From building and extending AI agents to connecting business data and governing AI experiences, see how SAP helps customers move towards the Autonomous ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/video/whats-new-in-ai-joule-and-the-autonomous-enterprise-sap-teched-in-2026/?amp=1</id>
     <title>What's New in AI, Joule, and the Autonomous Enterprise</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T12:15:15Z</published>
     <updated>2026-10-21T12:15:15Z</updated>
     <summary>New in SAP CX for Q3 2026: assistants and agents analyze, recommend, coordinate work, and execute tasks across sales, service, and marketing.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/germany/2026/10/autonomes-supply-chain-management/</id>
-    <title>Autonomes Supply Chain Management zur ...</title>
-    <link href="https://news.sap.com/germany/2026/10/autonomes-supply-chain-management/" />
-    <published>2026-10-21T08:54:28Z</published>
-    <updated>2026-10-21T08:54:28Z</updated>
-    <summary>Optimieren Sie Ihre Lieferkette mit autonomem Supply Chain Management und steigern Sie die Reaktionsfähigkeit auf Kundenanforderungen.</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 21685,
+  "credits_used": 21737,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-28T21:42:58Z",
+  "last_run": "2026-10-28T22:43:02Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 438
+  "runs": 439
  },
  "feeds": {
   "adp-help": {
@@ -7300,6 +7300,15 @@
    }
   },
   "ncr-voyix-press": {
+   "ncrvoyix.com/newsroom/brusters-real-ice-cream-adopts-aloha-next-by-ncr-voyix-to-modernize-technology-across-its-230-stores": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T22:43:02Z",
+    "link": "https://www.ncrvoyix.com/newsroom/brusters-real-ice-cream-adopts-aloha-next-by-ncr-voyix-to-modernize-technology-across-its-230-stores",
+    "page": 1,
+    "summary": "Bruster's Real Ice Cream features over 150 flavors of premium, handcrafted ice cream, non-dairy oat milk flavors, sherbet, Italian ice, and sorbet",
+    "title": "Bruster's Real Ice Cream Adopts Aloha Next by ..."
+   },
    "ncrvoyix.com/newsroom/first-watch-extends-long-term-partnership-with-ncr-voyix-to-implement-aloha-next-across-nearly-600-restaurants": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -9552,6 +9561,15 @@
     "page": 1,
     "summary": "\u0417\u0430\u0432\u0434\u044f\u043a\u0438 Joule \u0442\u0430 SAP Autonomous Suite \u043d\u0430 \u0431\u0430\u0437\u0456 SAP Business AI Platform \u043c\u0438 \u0434\u043e\u043f\u043e\u043c\u0430\u0433\u0430\u0454\u043c\u043e \u0442\u0430\u043a\u0438\u043c \u043a\u043e\u043c\u043f\u0430\u043d\u0456\u044f\u043c, \u044f\u043a Novartis, Morgan Foods, Nestl\u00e9 \u0442\u0430 PwC, \u043e\u0431'\u0454\u0434\u043d\u0443\u0432\u0430\u0442\u0438 ...",
     "title": "SAP \u0440\u043e\u0437\u0432\u0438\u0432\u0430\u0454 \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0456\u044e \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u043e\u0433\u043e \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u0441\u0442\u0432\u0430 \u043d\u0430 ..."
+   },
+   "news.sap.com/video/whats-new-in-ai-joule-and-the-autonomous-enterprise-sap-teched-in-2026": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-28T22:43:02Z",
+    "link": "https://news.sap.com/video/whats-new-in-ai-joule-and-the-autonomous-enterprise-sap-teched-in-2026/",
+    "page": 1,
+    "summary": "From building and extending AI agents to connecting business data and governing AI experiences, see how SAP helps customers move towards the Autonomous ...",
+    "title": "What's New in AI, Joule, and the Autonomous Enterprise"
    },
    "news.sap.com/video/whats-new-in-ai-joule-and-the-autonomous-enterprise-sap-teched-in-2026?amp=1": {
     "baseline": false,
@@ -12792,6 +12810,15 @@
     "page": 1,
     "summary": "Learn how marketplace sales tax works, which states have facilitator laws, and what sellers on Amazon, Walmart, Etsy, and other platforms need to know.",
     "title": "Marketplace Sales Tax Explained: How Facilitator Laws Works"
+   },
+   "taxcloud.com/blog/new-transactions-page": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-28T22:43:02Z",
+    "link": "https://taxcloud.com/blog/new-transactions-page/",
+    "page": 1,
+    "summary": "Search up to 2 years of orders, lookups, and test transactions in one place, using AI search and flexible filters, on the new TaxCloud Transactions page.",
+    "title": "TaxCloud's new Transactions page: orders and lookups together"
    },
    "taxcloud.com/blog/sales-tax-calculation": {
     "baseline": false,
