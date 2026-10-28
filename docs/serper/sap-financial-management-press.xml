@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-27T21:06:48Z</updated>
+  <updated>2026-10-28T01:24:58Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/latinamerica/2026/10/empresas-mexicanas-llevan-su-nucleo-a-la-nube-con-sap-para-avanzar-hacia-la-empresa-autonoma/?amp=1</id>
+    <title>Empresas mexicanas llevan su núcleo a la nube con ...</title>
+    <link href="https://news.sap.com/latinamerica/2026/10/empresas-mexicanas-llevan-su-nucleo-a-la-nube-con-sap-para-avanzar-hacia-la-empresa-autonoma/?amp=1" />
+    <published>2026-10-28T01:24:58Z</published>
+    <updated>2026-10-28T01:24:58Z</updated>
+    <summary>Los sectores automotriz y de autotransporte, energía, refrigeración comercial y alimentos y bebidas encabezan los nuevos proyectos en México. Las compañías ...</summary>
+  </entry>
+  <entry>
+    <id>https://news.sap.com/latinamerica/2026/10/empresas-mexicanas-llevan-su-nucleo-a-la-nube-con-sap-para-avanzar-hacia-la-empresa-autonoma/</id>
+    <title>Empresas mexicanas llevan su núcleo a la nube con ...</title>
+    <link href="https://news.sap.com/latinamerica/2026/10/empresas-mexicanas-llevan-su-nucleo-a-la-nube-con-sap-para-avanzar-hacia-la-empresa-autonoma/" />
+    <published>2026-10-28T01:24:58Z</published>
+    <updated>2026-10-28T01:24:58Z</updated>
+    <summary>Los sectores automotriz y de autotransporte, energía, refrigeración comercial y alimentos y bebidas encabezan los nuevos proyectos en México. Las compañías ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/type/innovation-news-guide/</id>
     <title>Innovation News Guide Archives</title>
@@ -787,21 +803,5 @@
     <published>2026-10-19T15:46:25Z</published>
     <updated>2026-10-19T15:46:25Z</updated>
     <summary>Al centro la visione dell'Autonomous Enterprise, un modello in cui dati, applicazioni e intelligenza artificiale lavorano insieme per rendere i processi ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/2026/10/sap-recognized-leader-gartner-magic-quadrant-cloud-erp-finance/</id>
-    <title>SAP Recognized as a Leader by Gartner for Cloud ERP ...</title>
-    <link href="https://news.sap.com/2026/10/sap-recognized-leader-gartner-magic-quadrant-cloud-erp-finance/" />
-    <published>2026-10-19T13:52:10Z</published>
-    <updated>2026-10-19T13:52:10Z</updated>
-    <summary>SAP has been recognized as a Leader in the 2026 Gartner Magic Quadrant for Cloud ERP for Finance. ERP is a unified data model and common journal</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/2026/10/gap-no-llm-can-close/</id>
-    <title>The Gap That No LLMs Can Close | Tabular AI</title>
-    <link href="https://news.sap.com/2026/10/gap-no-llm-can-close/" />
-    <published>2026-10-19T13:52:10Z</published>
-    <updated>2026-10-19T13:52:10Z</updated>
-    <summary>Generative AI helps people to write, research, program, or evaluate content faster. in helping companies detect risks, defaults, losses, and liquidity ...</summary>
   </entry>
 </feed>

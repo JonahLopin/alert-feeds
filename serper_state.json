@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 20593,
+  "credits_used": 20647,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-28T00:20:39Z",
+  "last_run": "2026-10-28T01:24:58Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 417
+  "runs": 418
  },
  "feeds": {
   "adp-help": {
@@ -278,6 +278,15 @@
     "page": 3,
     "summary": "Christopher Kwan and Dan O'Shea joined A&O Shearman as partners in New York, the firm announced Monday.",
     "title": "A&O Recruits Debt Finances, Capital Markets Partners in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/abbott-gets-pause-of-elon-musk-communications-order-on-appeal": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T01:24:58Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/abbott-gets-pause-of-elon-musk-communications-order-on-appeal",
+    "page": 2,
+    "summary": "An order requiring Texas Gov. Greg Abbott (R) to turn over his unredacted communications with billionaire Elon Musk was paused Tuesday.",
+    "title": "Abbott Gets Pause of Elon Musk Communications Order on ..."
    },
    "news.bloomberglaw.com/business-and-practice/aerospace-firm-hits-back-at-insurers-over-california-tank-scare": {
     "baseline": false,
@@ -1678,6 +1687,15 @@
     "page": 4,
     "summary": "Federal Reserve Governor Lisa Cook says she will be unable to attend a Nov. 5 hearing at the White House that's part of a new investigation into mortgage ...",
     "title": "Fed's Cook Puts Off White House Hearing Over Trump's ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/fifth-circuit-denies-nlrbs-bid-to-block-cvs-subsidiarys-appeal": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T01:24:58Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/fifth-circuit-denies-nlrbs-bid-to-block-cvs-subsidiarys-appeal",
+    "page": 2,
+    "summary": "The Fifth Circuit will hear a Rhode Island-based pharmacy's challenge to a union's election victory over the National Labor Relations Board's objection.",
+    "title": "Fifth Circuit Denies NLRB's Bid to Block CVS Subsidiary's ..."
    },
    "news.bloomberglaw.com/business-and-practice/financial-services-chairmans-race-downgraded-to-likely-gop": {
     "baseline": true,
@@ -3312,6 +3330,15 @@
     "page": 3,
     "summary": "Thoma Bravo-backed Proofpoint Inc. agreed to buy cybersecurity company Varonis Systems Inc. for about $6.3 billion.",
     "title": "Proofpoint to Buy Varonis for $6.3 Billion as Tech M&A ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/rbc-to-block-ai-agents-calling-out-unacceptable-client-risk": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-28T01:24:58Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/rbc-to-block-ai-agents-calling-out-unacceptable-client-risk",
+    "page": 2,
+    "summary": "Royal Bank of Canada is blocking third-party artificial intelligence agents such as Meta Platform Inc.'s Muse from accessing its banking systems, ...",
+    "title": "RBC to Block AI Agents, Calling Out 'Unacceptable' Client ..."
    },
    "news.bloomberglaw.com/business-and-practice/realtors-top-k-street-spending-while-ai-companies-smash-records": {
     "baseline": false,
@@ -8157,6 +8184,24 @@
     "summary": "Con SAP GROW, Bold encontr\u00f3 una plataforma que le permite integrar diferentes procesos y funcionalidades, en lugar de abordarlos como soluciones aisladas. Para ...",
     "title": "Bold simplifica sus operaciones con SAP GROW para ..."
    },
+   "news.sap.com/latinamerica/2026/10/empresas-mexicanas-llevan-su-nucleo-a-la-nube-con-sap-para-avanzar-hacia-la-empresa-autonoma": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T01:24:58Z",
+    "link": "https://news.sap.com/latinamerica/2026/10/empresas-mexicanas-llevan-su-nucleo-a-la-nube-con-sap-para-avanzar-hacia-la-empresa-autonoma/",
+    "page": 2,
+    "summary": "Los sectores automotriz y de autotransporte, energ\u00eda, refrigeraci\u00f3n comercial y alimentos y bebidas encabezan los nuevos proyectos en M\u00e9xico. Las compa\u00f1\u00edas ...",
+    "title": "Empresas mexicanas llevan su n\u00facleo a la nube con ..."
+   },
+   "news.sap.com/latinamerica/2026/10/empresas-mexicanas-llevan-su-nucleo-a-la-nube-con-sap-para-avanzar-hacia-la-empresa-autonoma?amp=1": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-28T01:24:58Z",
+    "link": "https://news.sap.com/latinamerica/2026/10/empresas-mexicanas-llevan-su-nucleo-a-la-nube-con-sap-para-avanzar-hacia-la-empresa-autonoma/?amp=1",
+    "page": 3,
+    "summary": "Los sectores automotriz y de autotransporte, energ\u00eda, refrigeraci\u00f3n comercial y alimentos y bebidas encabezan los nuevos proyectos en M\u00e9xico. Las compa\u00f1\u00edas ...",
+    "title": "Empresas mexicanas llevan su n\u00facleo a la nube con ..."
+   },
    "news.sap.com/mena/2026/10/business-ai-takes-center-stage-as-saudi-organizations-advancehr-transformation-at-sap-hr-connect-ksa-2026/no-111-2": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -11574,6 +11619,15 @@
     "page": 1,
     "summary": "Une horloge de simulation vous permet de faire passer un ensemble d'objets associ\u00e9s par plusieurs \u00e9tats de cycle de vie au lieu de cr\u00e9er un abonnement distinct ...",
     "title": "Limiter les abonnements de test"
+   },
+   "docs.stripe.com/connect/connect-cross-border-payouts": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-28T01:24:58Z",
+    "link": "https://docs.stripe.com/connect/connect-cross-border-payouts",
+    "page": 1,
+    "summary": "Use cross-border payouts to pay sellers, freelancers, content creators, and service providers in supported regions in their local currencies.",
+    "title": "Connect cross-border payouts"
    },
    "docs.stripe.com/connect/manage-connected-account-payouts": {
     "baseline": false,
