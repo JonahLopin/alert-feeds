@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 21329,
+  "credits_used": 21379,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-28T14:43:18Z",
+  "last_run": "2026-10-28T15:42:57Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 431
+  "runs": 432
  },
  "feeds": {
   "adp-help": {
@@ -4381,6 +4381,15 @@
     "page": 5,
     "summary": "Vietnam has \u201cessentially completed\u201d talks on a US trade deal and submitted its final remarks to Washington after months of negotiations over tariffs and ...",
     "title": "Vietnam Says US Trade Deal Nearly Done With Final Text ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/vinson-elkins-hires-corporate-m-a-partner-lisa-morales-in-ny": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T15:42:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/vinson-elkins-hires-corporate-m-a-partner-lisa-morales-in-ny",
+    "page": 2,
+    "summary": "Lisa Morales joined Vinson & Elkins as a partner in its corporate practice in New York, the firm announced Wednesday.",
+    "title": "Vinson & Elkins Hires Corporate M&A Partner Lisa Morales ..."
    },
    "news.bloomberglaw.com/business-and-practice/virginias-officer-mask-ban-gets-mixed-fourth-circuit-reception": {
     "baseline": false,
@@ -10036,6 +10045,15 @@
     "summary": "Follow an ecommerce SEO audit checklist for Shopify stores covering technical SEO, on-page fixes, duplicate content, and prioritization.",
     "title": "Ecommerce SEO Audit: Shopify Checklist (2026)"
    },
+   "shopify.com/blog/ecommerce-skills": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-28T15:42:57Z",
+    "link": "https://www.shopify.com/blog/ecommerce-skills",
+    "page": 4,
+    "summary": "Hard and soft ecommerce skills can help you thrive in a crowded marketplace. Learn about skills ranging from data analysis to leadership.",
+    "title": "Skills for Ecommerce: 13 Essentials for Store Owners (2026)"
+   },
    "shopify.com/blog/ecommerce-strategy": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -10925,6 +10943,15 @@
     "page": 1,
     "summary": "They help prevent illegal distribution outside regulated channels, reduce the risk of overconsumption, and encourage consumers to buy locally.",
     "title": "Customer Volume Limits: Key Facts for DtC Alcohol Shippers"
+   },
+   "sovos.com/blog/ship/five-years-of-proof-the-case-for-dtc-spirits-shipping": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T15:42:57Z",
+    "link": "https://sovos.com/blog/ship/five-years-of-proof-the-case-for-dtc-spirits-shipping/",
+    "page": 1,
+    "summary": "Support for expanded DtC spirits shipping among regular craft spirits drinkers has stayed in a 79%-82% range for five years (81% in 2026). Among all Americans ...",
+    "title": "DtC Spirits Shipping 2026: 5 Years of Data | Sovos"
    },
    "sovos.com/blog/sut/delaware-sales-tax-guide": {
     "baseline": false,
