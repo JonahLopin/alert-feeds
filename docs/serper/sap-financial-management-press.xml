@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-28T01:24:58Z</updated>
+  <updated>2026-10-28T04:27:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/korea/2026/10/sap-ai-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%9D%98%EB%8F%84-%EA%B8%B0%EB%B0%98-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89/?amp=1</id>
+    <title>SAP, AI 개발자의 핵심 솔루션 구축 및 의도 기반 자율 실행 ...</title>
+    <link href="https://news.sap.com/korea/2026/10/sap-ai-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%9D%98%EB%8F%84-%EA%B8%B0%EB%B0%98-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89/?amp=1" />
+    <published>2026-10-28T04:27:53Z</published>
+    <updated>2026-10-28T04:27:53Z</updated>
+    <summary>SAP 비즈니스 AI 플랫폼은 조직이 SAP 및 서드파티 환경 전반에서 AI를 구축하고 맥락을 더하며 거버넌스를 적용할 수 있는 단일 공간을 제공한다. 비즈니스 사용자와 ...</summary>
+  </entry>
+  <entry>
+    <id>https://news.sap.com/korea/2026/10/ai%EC%9D%98-%EB%AF%B8%EB%9E%98%EB%8A%94-%EC%A7%80%EC%86%8D%EA%B0%80%EB%8A%A5%EC%84%B1%EC%97%90-%EB%8B%AC%EB%A0%B8%EB%8B%A4/</id>
+    <title>AI의 미래는 지속가능성에 달렸다 - SAP Korea 뉴스센터</title>
+    <link href="https://news.sap.com/korea/2026/10/ai%EC%9D%98-%EB%AF%B8%EB%9E%98%EB%8A%94-%EC%A7%80%EC%86%8D%EA%B0%80%EB%8A%A5%EC%84%B1%EC%97%90-%EB%8B%AC%EB%A0%B8%EB%8B%A4/" />
+    <published>2026-10-28T04:27:53Z</published>
+    <updated>2026-10-28T04:27:53Z</updated>
+    <summary>산업용 제조업체 HARTING은 지속가능성 데이터를 기존 시스템에 연결해 제품 탄소발자국 계산을 수작업에서 AI 기반 매핑으로 바꿨습니다. 멘델슨의 말처럼 모든 기후 목표 ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/latinamerica/2026/10/empresas-mexicanas-llevan-su-nucleo-a-la-nube-con-sap-para-avanzar-hacia-la-empresa-autonoma/?amp=1</id>
     <title>Empresas mexicanas llevan su núcleo a la nube con ...</title>
@@ -787,21 +803,5 @@
     <published>2026-10-19T23:08:53Z</published>
     <updated>2026-10-19T23:08:53Z</updated>
     <summary>SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Finance · Feature · SAP Advances Finance Operations with Embedded Payments, ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/topics/cloud/</id>
-    <title>SAP Cloud Computing News &amp; Stories</title>
-    <link href="https://news.sap.com/topics/cloud/" />
-    <published>2026-10-19T23:08:53Z</published>
-    <updated>2026-10-19T23:08:53Z</updated>
-    <summary>Feature articles, press releases, blogs, news, information &amp; stories from SAP about about cloud trends and topics, cloud software, cloud solutions, ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/italy/2026/10/its-the-beginning-of-better-al-sap-now-ai-tour-milan-lautonomous-enterprise-prende-vita/</id>
-    <title>It's the beginning of better: al SAP NOW AI Tour Milan, l ...</title>
-    <link href="https://news.sap.com/italy/2026/10/its-the-beginning-of-better-al-sap-now-ai-tour-milan-lautonomous-enterprise-prende-vita/" />
-    <published>2026-10-19T15:46:25Z</published>
-    <updated>2026-10-19T15:46:25Z</updated>
-    <summary>Al centro la visione dell'Autonomous Enterprise, un modello in cui dati, applicazioni e intelligenza artificiale lavorano insieme per rendere i processi ...</summary>
   </entry>
 </feed>

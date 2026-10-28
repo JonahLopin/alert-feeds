@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 20757,
+  "credits_used": 20812,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-28T03:28:08Z",
+  "last_run": "2026-10-28T04:27:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 420
+  "runs": 421
  },
  "feeds": {
   "adp-help": {
@@ -8184,6 +8184,15 @@
     "summary": "SAP NEXT 100\uc740 \uc131\uc7a5 \uc9c4\ub2e8\ubd80\ud130 \uc2dc\uc2a4\ud15c \ub3c4\uc785\uae4c\uc9c0 \uc774\uc5b4\uc9c0\ub294 \ub2e8\uacc4\ubcc4 \uc9c0\uc6d0 \ud504\ub85c\uadf8\ub7a8\uc73c\ub85c \ud558\ub098\uc740\ud589, \ube44\uc790 \ucf54\ub9ac\uc544, PwC \ucf54\ub9ac\uc544, ASPN, \ube14\ub8e8\uc5b4\ub4dc \ub4f1 5\uac1c \ud30c\ud2b8\ub108\uc0ac\uc758 \uc804\ubb38 \uc5ed\ub7c9\uc744 ...",
     "title": "\ud30c\ud2b8\ub108 5\uacf3\uacfc \uc911\uc18c\u00b7\uc911\uacac \uc131\uc7a5\uae30\uc5c5 \uc9c0\uc6d0 'SAP NEXT 100' \ubcf8\uaca9\ud654"
    },
+   "news.sap.com/korea/2026/10/ai%EC%9D%98-%EB%AF%B8%EB%9E%98%EB%8A%94-%EC%A7%80%EC%86%8D%EA%B0%80%EB%8A%A5%EC%84%B1%EC%97%90-%EB%8B%AC%EB%A0%B8%EB%8B%A4": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-28T04:27:53Z",
+    "link": "https://news.sap.com/korea/2026/10/ai%EC%9D%98-%EB%AF%B8%EB%9E%98%EB%8A%94-%EC%A7%80%EC%86%8D%EA%B0%80%EB%8A%A5%EC%84%B1%EC%97%90-%EB%8B%AC%EB%A0%B8%EB%8B%A4/",
+    "page": 2,
+    "summary": "\uc0b0\uc5c5\uc6a9 \uc81c\uc870\uc5c5\uccb4 HARTING\uc740 \uc9c0\uc18d\uac00\ub2a5\uc131 \ub370\uc774\ud130\ub97c \uae30\uc874 \uc2dc\uc2a4\ud15c\uc5d0 \uc5f0\uacb0\ud574 \uc81c\ud488 \ud0c4\uc18c\ubc1c\uc790\uad6d \uacc4\uc0b0\uc744 \uc218\uc791\uc5c5\uc5d0\uc11c AI \uae30\ubc18 \ub9e4\ud551\uc73c\ub85c \ubc14\uafe8\uc2b5\ub2c8\ub2e4. \uba58\ub378\uc2a8\uc758 \ub9d0\ucc98\ub7fc \ubaa8\ub4e0 \uae30\ud6c4 \ubaa9\ud45c ...",
+    "title": "AI\uc758 \ubbf8\ub798\ub294 \uc9c0\uc18d\uac00\ub2a5\uc131\uc5d0 \ub2ec\ub838\ub2e4 - SAP Korea \ub274\uc2a4\uc13c\ud130"
+   },
    "news.sap.com/korea/2026/10/joule-work-%EC%A0%84%EB%A9%B4-%EC%B6%9C%EC%8B%9C-%EC%9E%90%EC%9C%A8%ED%98%95-%EA%B8%B0%EC%97%85%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%90%EB%8B%A4/sapconnect26_mkr16504": {
     "baseline": false,
     "date_hint": "13 hours ago",
@@ -8228,6 +8237,15 @@
     "page": 1,
     "summary": "SAP\uc758 \ubaa8\ub4e0 \uc601\uc5ed \uc0b4\ud3b4\ubcf4\uae30. \ud559\uc2b5 \ubc0f \uc9c0\uc6d0. \ud559\uc2b5 \ubc0f \uc778\uc99d \u00b7 \uc9c0\uc6d0 \u00b7 \ubb38\uc11c \u00b7 \ucee4\ubba4\ub2c8\ud2f0. \uc815\ubcf4. \ud68c\uc0ac \uc815\ubcf4 \u00b7 \ucee4\ub9ac\uc5b4 \u00b7 \uace0\uac1d \uc0ac\ub840 \u00b7 \uc724\ub9ac \ubc0f \uaddc\uc81c\uc900\uc218 \u00b7 \uc774\ubca4\ud2b8 ...",
     "title": "SAP-Connect-2026-Hero - SAP Korea \ub274\uc2a4\uc13c\ud130"
+   },
+   "news.sap.com/korea/2026/10/sap-ai-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%9D%98%EB%8F%84-%EA%B8%B0%EB%B0%98-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89?amp=1": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-28T04:27:53Z",
+    "link": "https://news.sap.com/korea/2026/10/sap-ai-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%9D%98%EB%8F%84-%EA%B8%B0%EB%B0%98-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89/?amp=1",
+    "page": 2,
+    "summary": "SAP \ube44\uc988\ub2c8\uc2a4 AI \ud50c\ub7ab\ud3fc\uc740 \uc870\uc9c1\uc774 SAP \ubc0f \uc11c\ub4dc\ud30c\ud2f0 \ud658\uacbd \uc804\ubc18\uc5d0\uc11c AI\ub97c \uad6c\ucd95\ud558\uace0 \ub9e5\ub77d\uc744 \ub354\ud558\uba70 \uac70\ubc84\ub10c\uc2a4\ub97c \uc801\uc6a9\ud560 \uc218 \uc788\ub294 \ub2e8\uc77c \uacf5\uac04\uc744 \uc81c\uacf5\ud55c\ub2e4. \ube44\uc988\ub2c8\uc2a4 \uc0ac\uc6a9\uc790\uc640 ...",
+    "title": "SAP, AI \uac1c\ubc1c\uc790\uc758 \ud575\uc2ec \uc194\ub8e8\uc158 \uad6c\ucd95 \ubc0f \uc758\ub3c4 \uae30\ubc18 \uc790\uc728 \uc2e4\ud589 ..."
    },
    "news.sap.com/latinamerica/2026/10/bold-simplifica-sus-operaciones-con-sap-grow-para-potenciar-su-crecimiento": {
     "baseline": false,
