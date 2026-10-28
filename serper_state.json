@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 21179,
+  "credits_used": 21229,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-28T11:42:48Z",
+  "last_run": "2026-10-28T12:45:19Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 428
+  "runs": 429
  },
  "feeds": {
   "adp-help": {
@@ -4400,6 +4400,15 @@
     "summary": "Three Big Law firms steered Salesforce Inc.'s agreement to buy an artificial intelligence-powered marketing platform Braze Inc. for nearly $5.7 billion.",
     "title": "Wachtell, Covington, Davis Polk Guide Salesforce's Braze ..."
    },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-big-law-backs-democrat-in-georgia-senate-race": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T12:45:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-big-law-backs-democrat-in-georgia-senate-race",
+    "page": 3,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
+    "title": "Wake Up Call: Big Law Backs Democrat in Georgia Senate ..."
+   },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-big-tech-joins-big-law-in-the-legal-talent-wars": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -8668,6 +8677,24 @@
     "page": 3,
     "summary": "Smiling entrepreneur in a modern office lobby holding a phone. SAP. Nederland 0800 020 0009. Voor technische support zijn we bereikbaar op 0800 0220683.",
     "title": "Smiling entrepreneur in a modern office lobby holding ..."
+   },
+   "news.sap.com/norway/2026/10/sap-utvider-ai-plattform-med-nye-verktoy-og-agenter-og-sender-ai-modell-ut-i-rommet": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T12:45:19Z",
+    "link": "https://news.sap.com/norway/2026/10/sap-utvider-ai-plattform-med-nye-verktoy-og-agenter-og-sender-ai-modell-ut-i-rommet/",
+    "page": 2,
+    "summary": "Oppdag hvordan SAP utvider AI-plattform med nye verkt\u00f8y og agenter for bedre forretningsanalyse og datastyring.",
+    "title": "SAP utvider AI-plattform med nye verkt\u00f8y og agenter og ..."
+   },
+   "news.sap.com/norway/2026/10/sap-utvider-ai-plattform-med-nye-verktoy-og-agenter-og-sender-ai-modell-ut-i-rommet?amp=1": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-28T12:45:19Z",
+    "link": "https://news.sap.com/norway/2026/10/sap-utvider-ai-plattform-med-nye-verktoy-og-agenter-og-sender-ai-modell-ut-i-rommet/?amp=1",
+    "page": 2,
+    "summary": "Oppdag hvordan SAP utvider AI-plattform med nye verkt\u00f8y og agenter for bedre forretningsanalyse og datastyring.",
+    "title": "SAP utvider AI-plattform med nye verkt\u00f8y og agenter og ..."
    },
    "news.sap.com/poland/2026/10/95-mniej-papierowych-dokumentow-czyli-jak-press-glass-cyfryzuje-hr-na-skale-miedzynarodowa/office-building": {
     "baseline": false,
