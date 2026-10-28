@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-28T09:42:50Z</updated>
+  <updated>2026-10-28T10:42:41Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/</id>
+    <title>SAP and NTT to Cooperate on Sovereign Cloud and AI ...</title>
+    <link href="https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/" />
+    <published>2026-10-28T10:42:41Z</published>
+    <updated>2026-10-28T10:42:41Z</updated>
+    <summary>TOKYO — SAP SE (NYSE: SAP) and NTT Inc. today announced their intention to cooperate in the areas of SAP Sovereign Cloud and SAP Business AI.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/type/press-release/</id>
     <title>Press Release Archives</title>
@@ -795,13 +803,5 @@
     <published>2026-10-20T14:48:20Z</published>
     <updated>2026-10-20T14:48:20Z</updated>
     <summary>Mensura ondersteunt werkgevers en medewerkers rond preventie en welzijn op het werk. Die mensgerichte aanpak wil de organisatie ook intern doortrekken. Met ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/belgie/2026/10/hoe-atlas-copco-group-skills-zichtbaar-maakt-in-de-hele-organisatie/?amp=1</id>
-    <title>Hoe Atlas Copco Group skills zichtbaar maakt in de hele ...</title>
-    <link href="https://news.sap.com/belgie/2026/10/hoe-atlas-copco-group-skills-zichtbaar-maakt-in-de-hele-organisatie/?amp=1" />
-    <published>2026-10-20T14:48:20Z</published>
-    <updated>2026-10-20T14:48:20Z</updated>
-    <summary>Atlas Copco Group omschrijft zijn aanpak bewust als skills-enabled en niet als skills-based. Jobs en rollen blijven structuur geven aan de organisatie. “Jobs ...</summary>
   </entry>
 </feed>

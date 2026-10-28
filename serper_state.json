@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 21077,
+  "credits_used": 21128,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-28T09:42:50Z",
+  "last_run": "2026-10-28T10:42:41Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 426
+  "runs": 427
  },
  "feeds": {
   "adp-help": {
@@ -314,6 +314,15 @@
     "page": 1,
     "summary": "Data center developers have started touting new technologies that slash the amount of water needed to cool hot-running servers in drought-stressed places ...",
     "title": "AI Data Centers' Water Use Grows in Drought-Stricken Areas"
+   },
+   "news.bloomberglaw.com/business-and-practice/ai-diversion-theories-emerge-as-new-securities-lawsuit-risk-zone": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T10:42:41Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ai-diversion-theories-emerge-as-new-securities-lawsuit-risk-zone",
+    "page": 2,
+    "summary": "The surge in artificial intelligence-related cases demonstrates how the securities litigation landscape has shifted decisively over the past year.",
+    "title": "AI Diversion Theories Emerge as New Securities Lawsuit ..."
    },
    "news.bloomberglaw.com/business-and-practice/ai-safety-emerges-as-midterm-flashpoint-in-battleground-races": {
     "baseline": false,
@@ -3751,6 +3760,15 @@
     "page": 3,
     "summary": "Companies have postponed more than $5 billion in US and European debt sales this month as investors grow increasingly alarmed about rising interest rates, ...",
     "title": "Surging Yields Bring Biggest Spate of Debt Sale Delays ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/suspended-tech-visa-program-offers-a-warning-on-hiring-records": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T10:42:41Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/suspended-tech-visa-program-offers-a-warning-on-hiring-records",
+    "page": 2,
+    "summary": "The Labor Department's Oct. 8 suspension of eight employers from the PERM labor certification program \u2014 including Microsoft Corp., Adobe Inc., ...",
+    "title": "Suspended Tech Visa Program Offers a Warning on Hiring ..."
    },
    "news.bloomberglaw.com/business-and-practice/taiwans-lai-urges-democracies-to-unite-after-trump-xi-summit": {
     "baseline": false,
@@ -7301,6 +7319,15 @@
     "page": 1,
     "summary": "SAP LeanIX is positioned as a Leader in the 2026 Gartner Magic Quadrant for EA Tools. Learn why it has been named for six years running.",
     "title": "SAP LeanIX: 6-Time Leader in Magic Quadrant for EA Tools"
+   },
+   "news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-28T10:42:41Z",
+    "link": "https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/",
+    "page": 2,
+    "summary": "TOKYO \u2014 SAP SE (NYSE: SAP) and NTT Inc. today announced their intention to cooperate in the areas of SAP Sovereign Cloud and SAP Business AI.",
+    "title": "SAP and NTT to Cooperate on Sovereign Cloud and AI ..."
    },
    "news.sap.com/2026/10/sap-recognized-leader-gartner-magic-quadrant-cloud-erp-finance": {
     "baseline": false,
