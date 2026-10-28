@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-28T06:13:02Z</updated>
+  <updated>2026-10-28T10:08:02Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:2320894341170129106</id>
+    <title>Crypto Tax Lobbying Grows Even After Market Structure Fails - Daily Tax Report ®</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/crypto-tax-lobbying-grows-even-after-market-structure-fails" />
+    <published>2026-10-28T10:08:02Z</published>
+    <updated>2026-10-28T10:08:02Z</updated>
+    <summary>Federal lobbying on cryptocurrency taxation issues remained strong even as crypto companies pulled back on spending after senators torpedoed long ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:6188649054041126125</id>
     <title>Anthropic Said to Pick JPMorgan to Lead IPO's US Retail Offering - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-10-22T22:44:33Z</published>
     <updated>2026-10-22T22:44:33Z</updated>
     <summary>President Donald Trump said he will hold off on imposing tariffs on wind turbines and their components on national security grounds, ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:9543354332499768172</id>
-    <title>Mark Zuckerberg Plots Deal to Pay Wealth Tax, Keep Meta Control - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/mark-zuckerberg-plots-deal-to-pay-wealth-tax-keep-meta-control" />
-    <published>2026-10-22T21:44:51Z</published>
-    <updated>2026-10-22T21:44:51Z</updated>
-    <summary>Mark Zuckerberg's months of wrangling with his own board came to a head with a dinner-table ultimatum.</summary>
   </entry>
 </feed>
