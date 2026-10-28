@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-28T18:28:36Z</updated>
+  <updated>2026-10-28T19:23:51Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8716577646152038654</id>
+    <title>Trump's Noncitizen Voting Probe Program Challenged in Court - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/trumps-noncitizen-voting-probe-program-challenged-in-court" />
+    <published>2026-10-28T19:23:51Z</published>
+    <updated>2026-10-28T19:23:51Z</updated>
+    <summary>Voting rights groups sued the Trump administration Wednesday seeking to halt its program allegedly targeting thousands of non-native US citizens ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:10168248244718277915</id>
     <title>Activist Announces Interim CEO for Ethan Allen (Correct) - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-10-23T15:48:09Z</published>
     <updated>2026-10-23T15:48:09Z</updated>
     <summary>For years, high-frequency traders like Jane Street and Hudson River Trading have fought over every nanosecond in a battle to be fastest.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:17304169740604313831</id>
-    <title>Weil Gotshal and Willkie Farr Have Ended Merger Discussions - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/weil-gotshal-and-willkie-farr-have-ended-merger-discussions" />
-    <published>2026-10-23T13:48:04Z</published>
-    <updated>2026-10-23T13:48:04Z</updated>
-    <summary>Weil Gotshal &amp; Manges and Willkie Farr &amp; Gallagher have ended discussions over a possible merger, according to two sources familiar with the ...</summary>
   </entry>
 </feed>
