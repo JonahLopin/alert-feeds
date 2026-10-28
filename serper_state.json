@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 20922,
+  "credits_used": 20974,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-28T06:36:15Z",
+  "last_run": "2026-10-28T07:43:06Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 423
+  "runs": 424
  },
  "feeds": {
   "adp-help": {
@@ -4864,6 +4864,15 @@
     "page": 1,
     "summary": "A restaurant POS system is the hardware and software that takes orders, sends them to the kitchen, and processes payments. It also records every sale.",
     "title": "Benefits of POS Systems in Restaurants: Are They Worth It?"
+   },
+   "merchants.doordash.com/en-us/blog/best-platforms-for-retail-delivery-integration": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-28T07:43:06Z",
+    "link": "https://merchants.doordash.com/en-us/blog/best-platforms-for-retail-delivery-integration",
+    "page": 2,
+    "summary": "Compare the best retail delivery platforms for your store, from delivery apps to couriers, and see how each one connects to your POS or online store.",
+    "title": "Best Delivery Platforms for Small Retail Stores"
    },
    "merchants.doordash.com/en-us/blog/black-friday-checklist": {
     "baseline": false,
@@ -12165,7 +12174,17 @@
    }
   },
   "taxcloud-help": {},
-  "taxjar-help": {},
+  "taxjar-help": {
+   "support.taxjar.com/article/1051-what-do-i-need-to-know-about-colorado-suts": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-28T07:43:06Z",
+    "link": "https://support.taxjar.com/article/1051-what-do-i-need-to-know-about-colorado-suts",
+    "page": 1,
+    "summary": "The Colorado Department of Revenue has created a Sales and Use Tax System (SUTS) remittance portal which will to help retailers streamline their statewide ...",
+    "title": "What do I need to know about Colorado SUTS?"
+   }
+  },
   "thomson-reuters-tax-blog": {
    "google.com/goto?url=CAESlgEB6zswFUobYLlJbuOltGo1lGMnzkyDaYn7Uiu3juC6Xquyoy8Lh-uke9S8HcLkebttR-HiUch__HZ8uq2v8y9drjpmgV062qa9XR8v7V2TQPJbh-SDpeDJdm39iYip90dgeD1E4hhw6mH4nWJxV7pWqONUeINDk5wCGdZ-hMd_XtvSKOPpyc7Gk9fK7KUmCN5Gxyo_460": {
     "baseline": false,
