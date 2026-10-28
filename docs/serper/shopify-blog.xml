@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-28T08:43:03Z</updated>
+  <updated>2026-10-28T14:43:18Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/hamburger-menu</id>
+    <title>Hamburger Menu: Ecommerce Examples and Tips (2026)</title>
+    <link href="https://www.shopify.com/blog/hamburger-menu" />
+    <published>2026-10-28T14:43:18Z</published>
+    <updated>2026-10-28T14:43:18Z</updated>
+    <summary>A hamburger menu is a navigational icon. Learn when it can help or hurt your ecommerce store navigation, plus get hamburger menu examples and design tips.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/cash-register-pos</id>
     <title>Cash Register POS: Which Setup Fits Your Store (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-20T08:53:32Z</published>
     <updated>2026-10-20T08:53:32Z</updated>
     <summary>Product availability affects sales and customer loyalty. Learn how to measure it, reduce stockouts, and improve inventory planning.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/how-to-work-from-home</id>
-    <title>How To Work From Home: Tips &amp; Remote Jobs (2026)</title>
-    <link href="https://www.shopify.com/blog/how-to-work-from-home" />
-    <published>2026-10-20T03:35:51Z</published>
-    <updated>2026-10-20T03:35:51Z</updated>
-    <summary>See how to work from home, find remote opportunities, set up your workspace, and stay productive. Explore the best work-from-home jobs.</summary>
   </entry>
 </feed>

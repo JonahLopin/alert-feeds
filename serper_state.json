@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 21279,
+  "credits_used": 21329,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-28T13:42:43Z",
+  "last_run": "2026-10-28T14:43:18Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 430
+  "runs": 431
  },
  "feeds": {
   "adp-help": {
@@ -1472,6 +1472,15 @@
     "page": 1,
     "summary": "The US Justice Department is starting a six-month pilot program to encourage healthcare companies to self-disclose potential False Claims Act violations.",
     "title": "DOJ Starts Self-Disclosure Program for Potential False ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/doj-sues-maryland-county-over-secret-student-gender-policies": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-28T14:43:18Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-sues-maryland-county-over-secret-student-gender-policies",
+    "page": 1,
+    "summary": "The Trump administration is suing a Maryland county's school system for facilitating what the government alleges is the \u201csecret\u201d transitioning of children's ...",
+    "title": "DOJ Sues Maryland County Over 'Secret' Student Gender ..."
    },
    "news.bloomberglaw.com/business-and-practice/doj-sues-to-block-alaska-senate-race-certification-if-gop-loses": {
     "baseline": false,
@@ -2871,6 +2880,15 @@
     "page": 3,
     "summary": "The basic deal is that if you found a company, and you want to raise money, you will probably have to give up some ownership of it.",
     "title": "Matt Levine's Money Stuff: Zuckerberg Wants to Keep His ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/mayer-brown-adds-commodities-derivatives-partner-nazario-in-dc": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-28T14:43:18Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/mayer-brown-adds-commodities-derivatives-partner-nazario-in-dc",
+    "page": 1,
+    "summary": "Edwin Nazario joined Mayer Brown. Nazario concentrates his practice on commodities trading, derivatives transactions and Dodd-Frank compliance matters.",
+    "title": "Mayer Brown Adds Commodities Derivatives Partner ..."
    },
    "news.bloomberglaw.com/business-and-practice/mayer-brown-brings-on-sheppard-mullin-fda-life-sciences-partners": {
     "baseline": false,
@@ -7257,6 +7275,15 @@
     "summary": "We solve high-stakes challenges that have no off-the-shelf answers, then turn those proven solutions into scalable software capabilities for entire industries.",
     "title": "Industry AI: Deep Industry Knowledge, Forward-Deployed ..."
    },
+   "news.sap.com/2026/10/migration-and-modernization-assistants-sap-customer-cloud-erp-transformations": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-28T14:43:18Z",
+    "link": "https://news.sap.com/2026/10/migration-and-modernization-assistants-sap-customer-cloud-erp-transformations/",
+    "page": 1,
+    "summary": "To help customers accelerate their move to cloud ERP, SAP is bringing to life its migration and modernization assistants for transformation projects.",
+    "title": "SAP Brings Migration and Modernization Assistants to ..."
+   },
    "news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -10097,6 +10124,15 @@
     "page": 1,
     "summary": "Gross merchandise value (GMV) measures the total value of goods sold through your store or platform, before expenses and fees, over a specific period of time.",
     "title": "Gross Merchandise Value (GMV): Meaning and Formula ..."
+   },
+   "shopify.com/blog/hamburger-menu": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-28T14:43:18Z",
+    "link": "https://www.shopify.com/blog/hamburger-menu",
+    "page": 3,
+    "summary": "A hamburger menu is a navigational icon. Learn when it can help or hurt your ecommerce store navigation, plus get hamburger menu examples and design tips.",
+    "title": "Hamburger Menu: Ecommerce Examples and Tips (2026)"
    },
    "shopify.com/blog/high-demand-products-with-low-competition": {
     "baseline": false,
