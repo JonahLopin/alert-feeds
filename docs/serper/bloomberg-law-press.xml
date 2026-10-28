@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-28T21:42:58Z</updated>
+  <updated>2026-10-28T23:42:55Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/alabamas-app-store-age-check-law-challenged-as-unconstitutional</id>
+    <title>Alabama's App-Store Age-Check Law Challenged as Unconstitutional</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/alabamas-app-store-age-check-law-challenged-as-unconstitutional" />
+    <published>2026-10-28T23:42:55Z</published>
+    <updated>2026-10-28T23:42:55Z</updated>
+    <summary>Alabama's new law requiring age verification and parental consent for all mobile-app store access and downloads came under fire Wednesday from a tech trade ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/trumps-noncitizen-voting-probe-program-challenged-in-court</id>
     <title>Trump's Noncitizen Voting Probe Program Challenged in ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-23T22:09:32Z</published>
     <updated>2026-10-23T22:09:32Z</updated>
     <summary>OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process in response to prior incidents ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/four-litigation-lawyers-join-grsm-in-san-francisco-walnut-creek</id>
-    <title>Four Litigation Lawyers Join GRSM in San Francisco, ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/four-litigation-lawyers-join-grsm-in-san-francisco-walnut-creek" />
-    <published>2026-10-23T20:10:24Z</published>
-    <updated>2026-10-23T20:10:24Z</updated>
-    <summary>Vladimir Andric, Samuel Kim, Karim Manji, and Kara Wild joined Gordon Rees Scully Mansukhani as partners, the firm announced.</summary>
   </entry>
 </feed>

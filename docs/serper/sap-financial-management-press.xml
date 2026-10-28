@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-28T22:43:02Z</updated>
+  <updated>2026-10-28T23:42:55Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/netherlands/2026/10/nederlandse-defensie-kiest-sap-sovereign-cloud-om-digitale-weerbaarheid-en-militaire-inzetbaarheid-te-versterken/</id>
+    <title>Nederlandse Defensie kiest SAP Sovereign Cloud om ...</title>
+    <link href="https://news.sap.com/netherlands/2026/10/nederlandse-defensie-kiest-sap-sovereign-cloud-om-digitale-weerbaarheid-en-militaire-inzetbaarheid-te-versterken/" />
+    <published>2026-10-28T23:42:55Z</published>
+    <updated>2026-10-28T23:42:55Z</updated>
+    <summary>SAP en het Nederlandse ministerie van Defensie hebben een strategische overeenkomst gesloten voor de ontwikkeling en het beheer van een soevereine cloudomgeving ...</summary>
+  </entry>
+  <entry>
+    <id>https://news.sap.com/finland/2026/10/sap-laajentaa-tekoalyalustaansa-uusilla-tyokaluilla-ja-agenteilla-seka-lahettaa-tekoalymallin-avaruuteen/?amp=1</id>
+    <title>SAP laajentaa tekoälyalustaansa uusilla työkaluilla ja ...</title>
+    <link href="https://news.sap.com/finland/2026/10/sap-laajentaa-tekoalyalustaansa-uusilla-tyokaluilla-ja-agenteilla-seka-lahettaa-tekoalymallin-avaruuteen/?amp=1" />
+    <published>2026-10-28T23:42:55Z</published>
+    <updated>2026-10-28T23:42:55Z</updated>
+    <summary>Kansainvälisen avaruusaseman (ISS) tabulaarimuotoisen tekoälyn käyttö ja laajentuneet kumppanuudet osoittavat SAP:n tekoälyn mahdollisuudet.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/video/whats-new-in-ai-joule-and-the-autonomous-enterprise-sap-teched-in-2026/</id>
     <title>What's New in AI, Joule, and the Autonomous Enterprise</title>
@@ -787,21 +803,5 @@
     <published>2026-10-21T21:09:07Z</published>
     <updated>2026-10-21T21:09:07Z</updated>
     <summary>At a glance · Current cloud backlog of €24.1 billion, up 28% and up 26% at constant currencies · Cloud revenue up 26% and up 25% at constant currencies · Cloud ERP ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/</id>
-    <title>SAP LeanIX: 6-Time Leader in Magic Quadrant for EA Tools</title>
-    <link href="https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/" />
-    <published>2026-10-21T13:11:39Z</published>
-    <updated>2026-10-21T13:11:39Z</updated>
-    <summary>SAP LeanIX is positioned as a Leader in the 2026 Gartner Magic Quadrant for EA Tools. Learn why it has been named for six years running.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/</id>
-    <title>What's New: SAP CX Q3 2026 | SAP News Center</title>
-    <link href="https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/" />
-    <published>2026-10-21T12:15:15Z</published>
-    <updated>2026-10-21T12:15:15Z</updated>
-    <summary>New in SAP CX for Q3 2026: assistants and agents analyze, recommend, coordinate work, and execute tasks across sales, service, and marketing.</summary>
   </entry>
 </feed>

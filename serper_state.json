@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 21737,
+  "credits_used": 21788,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-28T22:43:02Z",
+  "last_run": "2026-10-28T23:42:55Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 439
+  "runs": 440
  },
  "feeds": {
   "adp-help": {
@@ -386,6 +386,15 @@
     "page": 1,
     "summary": "Arutiunov's practice focuses on federal income tax matters, particularly energy transactions and financings, including project finance, tax equity transactions,",
     "title": "Akin Adds Greg Arutiunov as Tax Partner in New York Office"
+   },
+   "news.bloomberglaw.com/business-and-practice/alabamas-app-store-age-check-law-challenged-as-unconstitutional": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-28T23:42:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/alabamas-app-store-age-check-law-challenged-as-unconstitutional",
+    "page": 1,
+    "summary": "Alabama's new law requiring age verification and parental consent for all mobile-app store access and downloads came under fire Wednesday from a tech trade ...",
+    "title": "Alabama's App-Store Age-Check Law Challenged as Unconstitutional"
    },
    "news.bloomberglaw.com/business-and-practice/alvin-hellerstein-judge-in-archegos-and-9-11-trials-dies-at-92": {
     "baseline": false,
@@ -8031,6 +8040,15 @@
     "summary": "Udforsk alle omr\u00e5der af SAP. Uddannelse og support. Uddannelse og certificering \u00b7 Support \u00b7 Dokumentation \u00b7 Community.",
     "title": "F_304302_GettyImages-1331794262_medium_jpg"
    },
+   "news.sap.com/finland/2026/10/sap-laajentaa-tekoalyalustaansa-uusilla-tyokaluilla-ja-agenteilla-seka-lahettaa-tekoalymallin-avaruuteen?amp=1": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-28T23:42:55Z",
+    "link": "https://news.sap.com/finland/2026/10/sap-laajentaa-tekoalyalustaansa-uusilla-tyokaluilla-ja-agenteilla-seka-lahettaa-tekoalymallin-avaruuteen/?amp=1",
+    "page": 2,
+    "summary": "Kansainv\u00e4lisen avaruusaseman (ISS) tabulaarimuotoisen teko\u00e4lyn k\u00e4ytt\u00f6 ja laajentuneet kumppanuudet osoittavat SAP:n teko\u00e4lyn mahdollisuudet.",
+    "title": "SAP laajentaa teko\u00e4lyalustaansa uusilla ty\u00f6kaluilla ja ..."
+   },
    "news.sap.com/finland/2026/10/sap-vauhdittaa-yritysten-autonomista-tekoalyn-kayttoa/a-handsome-young-man-standing-at-night-in-the-street-illuminated-signboards-neon-lights": {
     "baseline": false,
     "date_hint": "7 hours ago",
@@ -8938,6 +8956,15 @@
     "page": 2,
     "summary": "Meteen naar de inhoud. Blogs & Nieuws \u00b7 Press \u00b7 Artikelen \u00b7 Onderwerpen \u00b7 Volg. Ontdek SAP. Verken alle gebieden van SAP. Training en support.",
     "title": "SAP Mensura 1 - SAP Nederland Blogs & Nieuws"
+   },
+   "news.sap.com/netherlands/2026/10/nederlandse-defensie-kiest-sap-sovereign-cloud-om-digitale-weerbaarheid-en-militaire-inzetbaarheid-te-versterken": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T23:42:55Z",
+    "link": "https://news.sap.com/netherlands/2026/10/nederlandse-defensie-kiest-sap-sovereign-cloud-om-digitale-weerbaarheid-en-militaire-inzetbaarheid-te-versterken/",
+    "page": 2,
+    "summary": "SAP en het Nederlandse ministerie van Defensie hebben een strategische overeenkomst gesloten voor de ontwikkeling en het beheer van een soevereine cloudomgeving ...",
+    "title": "Nederlandse Defensie kiest SAP Sovereign Cloud om ..."
    },
    "news.sap.com/netherlands/2026/10/sap-introduceert-nieuwe-ai-technologieen-voor-autonome-bedrijfsprocessen": {
     "baseline": false,
