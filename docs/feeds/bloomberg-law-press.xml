@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-28T00:22:21Z</updated>
+  <updated>2026-10-28T02:10:46Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:3939329519365098509</id>
+    <title>Fifth Circuit Denies NLRB's Bid to Block CVS Subsidiary's Appeal - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/fifth-circuit-denies-nlrbs-bid-to-block-cvs-subsidiarys-appeal" />
+    <published>2026-10-28T02:10:46Z</published>
+    <updated>2026-10-28T02:10:46Z</updated>
+    <summary>The Fifth Circuit will hear a Rhode Island-based pharmacy's challenge to a union's election victory over the National Labor Relations Board's ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8303266920589833974</id>
     <title>Judge Questions DOJ Bid to Set Aside 20,000 California Ballots - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-10-22T21:44:51Z</published>
     <updated>2026-10-22T21:44:51Z</updated>
     <summary>A temporary restraining order preventing agriculture giant Corteva Inc. from making stock buybacks or issuing dividends will be halted while the ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:8743361195820727399</id>
-    <title>Southwest Pilots Union Objects to Spirit's Data Sale to Google</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/southwest-pilots-union-objects-to-spirits-data-sale-to-google" />
-    <published>2026-10-22T20:45:41Z</published>
-    <updated>2026-10-22T20:45:41Z</updated>
-    <summary>The Southwest Airlines Pilots Association joined growing pushback over Spirit Aviation Holdings Inc.'s proposed bankruptcy sale of a trove of ...</summary>
   </entry>
 </feed>
