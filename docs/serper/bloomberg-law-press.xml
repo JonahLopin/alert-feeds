@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-28T20:42:52Z</updated>
+  <updated>2026-10-28T21:42:58Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/trumps-noncitizen-voting-probe-program-challenged-in-court</id>
+    <title>Trump's Noncitizen Voting Probe Program Challenged in ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/trumps-noncitizen-voting-probe-program-challenged-in-court" />
+    <published>2026-10-28T21:42:58Z</published>
+    <updated>2026-10-28T21:42:58Z</updated>
+    <summary>Voting rights groups sued the Trump administration Wednesday seeking to halt its program allegedly targeting thousands of non-native US citizens in ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/weil-gotshal-to-wind-down-in-stunning-fall-for-heavyweight-firm</id>
     <title>Weil Gotshal to Wind Down in Stunning Fall for ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-23T20:10:24Z</published>
     <updated>2026-10-23T20:10:24Z</updated>
     <summary>Vladimir Andric, Samuel Kim, Karim Manji, and Kara Wild joined Gordon Rees Scully Mansukhani as partners, the firm announced.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/magic-johnson-linked-firm-loaned-billions-to-walter-amid-probe</id>
-    <title>Magic Johnson-Linked Firm Loaned Billions to Walter Amid ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/magic-johnson-linked-firm-loaned-billions-to-walter-amid-probe" />
-    <published>2026-10-23T19:08:54Z</published>
-    <updated>2026-10-23T19:08:54Z</updated>
-    <summary>Amistad Financial Group, a holding company that counts Johnson as a board member and minority shareholder, loaned about $1.26 billion to Walter's companies ...</summary>
   </entry>
 </feed>

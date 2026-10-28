@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-28T19:43:17Z</updated>
+  <updated>2026-10-28T21:42:58Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/video/whats-new-in-ai-joule-and-the-autonomous-enterprise-sap-teched-in-2026/?amp=1</id>
+    <title>What's New in AI, Joule, and the Autonomous Enterprise</title>
+    <link href="https://news.sap.com/video/whats-new-in-ai-joule-and-the-autonomous-enterprise-sap-teched-in-2026/?amp=1" />
+    <published>2026-10-28T21:42:58Z</published>
+    <updated>2026-10-28T21:42:58Z</updated>
+    <summary>At SAP TechEd in 2026, SAP announced a series of innovations in Joule Work, Joule Studio, and SAP Business AI Platform.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/taiwan/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/?amp=1</id>
     <title>SAP 賦能AI 開發者打造核心應用，將業務意圖轉變為自主執行</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T08:54:28Z</published>
     <updated>2026-10-21T08:54:28Z</updated>
     <summary>Optimieren Sie Ihre Lieferkette mit autonomem Supply Chain Management und steigern Sie die Reaktionsfähigkeit auf Kundenanforderungen.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/sea/2026/10/supply-through-disruption-as-normal/</id>
-    <title>Supply Through Disruption-as-Normal</title>
-    <link href="https://news.sap.com/sea/2026/10/supply-through-disruption-as-normal/" />
-    <published>2026-10-21T05:47:42Z</published>
-    <updated>2026-10-21T05:47:42Z</updated>
-    <summary>Supply chain resilience cannot remain a contingency plan activated during crisis. It is a shift from visibility to coordinated action.</summary>
   </entry>
 </feed>
