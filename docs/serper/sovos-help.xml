@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-27T11:09:56Z</updated>
+  <updated>2026-10-28T17:42:55Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/filing/sales-tax-filing/support</id>
+    <title>Create a support case - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/filing/sales-tax-filing/support" />
+    <published>2026-10-28T17:42:55Z</published>
+    <updated>2026-10-28T17:42:55Z</updated>
+    <summary>Go to the Sovos Portal. then click Create a case. then click Submit case.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/tax-determination/tax-determination/map-products-exemptions-and-locations/geo-codes</id>
     <title>Geo Codes | Product Documentation Documentation</title>
