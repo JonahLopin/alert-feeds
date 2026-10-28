@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-28T18:43:14Z</updated>
+  <updated>2026-10-28T19:43:17Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/taiwan/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/?amp=1</id>
+    <title>SAP 賦能AI 開發者打造核心應用，將業務意圖轉變為自主執行</title>
+    <link href="https://news.sap.com/taiwan/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/?amp=1" />
+    <published>2026-10-28T19:43:17Z</published>
+    <updated>2026-10-28T19:43:17Z</updated>
+    <summary>SAP 商業AI 平台為企業提供統一的環境，支持在跨SAP 系統和第三方系統中執行建構、打造業務語義上下文，以及全面的AI 治理。借助Joule Studio，業務人員和專業開發者可以 ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/2026/10/sap-teched-developers-you-can-build-autonomous-enterprise/</id>
     <title>SAP TechEd: Developers Can Build the Autonomous ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T05:47:42Z</published>
     <updated>2026-10-21T05:47:42Z</updated>
     <summary>Supply chain resilience cannot remain a contingency plan activated during crisis. It is a shift from visibility to coordinated action.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/tags/sap-service-card/</id>
-    <title>SAP Service Card Archives</title>
-    <link href="https://news.sap.com/tags/sap-service-card/" />
-    <published>2026-10-21T02:52:26Z</published>
-    <updated>2026-10-21T02:52:26Z</updated>
-    <summary>SAP Service Card · The Suite Advantage: Why Enterprises Don't Evaluate CRM in Isolation · Quick links. Quick links · Trending Trending · About SAP About SAP · Site ...</summary>
   </entry>
 </feed>
