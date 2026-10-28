@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 20974,
+  "credits_used": 21026,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-28T07:43:06Z",
+  "last_run": "2026-10-28T08:43:03Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 424
+  "runs": 425
  },
  "feeds": {
   "adp-help": {
@@ -5125,6 +5125,15 @@
     "summary": "See the true cost of a restaurant POS system \u2014 software, hardware, processing fees, and the hidden costs vendors don't advertise.",
     "title": "Restaurant POS System Cost: What You'll Really Pay"
    },
+   "merchants.doordash.com/en-us/blog/restaurant-profit-margin": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-28T08:43:03Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-profit-margin",
+    "page": 2,
+    "summary": "Find out what the average restaurant profit margin is by type, why margins stay thin, and 5 ways to improve yours, backed by data.",
+    "title": "What Is the Average Restaurant Profit Margin? (Guide)"
+   },
    "merchants.doordash.com/en-us/blog/restaurant-seo": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -7608,6 +7617,15 @@
     "summary": "Udforsk alle omr\u00e5der af SAP. Uddannelse og support. Uddannelse og certificering \u00b7 Support \u00b7 Dokumentation \u00b7 Community.",
     "title": "SAPConnect26_MKR16504 - SAP Danmark Nyheder"
    },
+   "news.sap.com/denmark/2026/10/sap-udvider-ai-platform-med-nye-vaerktoejer-og-agenter-og-sender-ai-model-ud-i-rummet": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-28T08:43:03Z",
+    "link": "https://news.sap.com/denmark/2026/10/sap-udvider-ai-platform-med-nye-vaerktoejer-og-agenter-og-sender-ai-model-ud-i-rummet/",
+    "page": 2,
+    "summary": "SAP Business AI Platform udvides med nye agenter, v\u00e6rkt\u00f8jer og en AI-model til tabeldata, der testes p\u00e5 Den Internationale Rumstation.",
+    "title": "SAP udvider AI-platform med nye v\u00e6rkt\u00f8jer og agenter og ..."
+   },
    "news.sap.com/denmark/2026/10/udsaettelsen-af-dommedag-maa-godt-koste-lidt-regulering/compliance-business-concept": {
     "baseline": false,
     "date_hint": "14 hours ago",
@@ -7869,6 +7887,24 @@
     "summary": "KI im Gesundheitswesen kann Entscheidungsunterst\u00fctzung f\u00fcr Fachpersonal bieten. Erfahren Sie mehr \u00fcber die Wichtigkeit kuratierter Daten.",
     "title": "Medizinische KI f\u00fcr Klinische Entscheidungsfindung"
    },
+   "news.sap.com/germany/2026/10/ungefilterte-erfahrungsberichte-autonome-unternehmen": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T08:43:03Z",
+    "link": "https://news.sap.com/germany/2026/10/ungefilterte-erfahrungsberichte-autonome-unternehmen/",
+    "page": 1,
+    "summary": "Entdecken Sie die Lektionen aus dem SAP-Podcast \u00fcber autonome Unternehmen. Lernen Sie von strategischen Einsichten f\u00fchrender Experten.",
+    "title": "Autonomous Enterprise: Lektionen von F\u00fchrungskr\u00e4ften"
+   },
+   "news.sap.com/germany/2026/10/ungefilterte-erfahrungsberichte-autonome-unternehmen?amp=1": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T08:43:03Z",
+    "link": "https://news.sap.com/germany/2026/10/ungefilterte-erfahrungsberichte-autonome-unternehmen/?amp=1",
+    "page": 1,
+    "summary": "Entdecken Sie die Lektionen aus dem SAP-Podcast \u00fcber autonome Unternehmen. Lernen Sie von strategischen Einsichten f\u00fchrender Experten.",
+    "title": "Autonomous Enterprise: Lektionen von F\u00fchrungskr\u00e4ften"
+   },
    "news.sap.com/germany/2026/10/unternehmen-zu-autonomous-hcm": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -7931,6 +7967,15 @@
     "page": 1,
     "summary": "Gemeinsam auf digitaler Schiene: \u00d6BB erneuert SAP-Systeme \u00b7 Feature \u00b7 Schatten-KI im Krankenhaus: Warum die Antwort nicht das Verbot ist \u00b7 Feature \u00b7 Joule Work ...",
     "title": "Feature Archiv"
+   },
+   "news.sap.com/india/2026/10/sap-india-doubles-down-on-ai-skilling-to-prepare-two-million-people-for-the-future-of-work-by-2030?amp=1": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-28T08:43:03Z",
+    "link": "https://news.sap.com/india/2026/10/sap-india-doubles-down-on-ai-skilling-to-prepare-two-million-people-for-the-future-of-work-by-2030/?amp=1",
+    "page": 3,
+    "summary": "By expanding existing learning and community initiatives, SAP's pledge to help 12 million people gain AI-ready skills by 2030 is underway.",
+    "title": "SAP India Doubles Down on AI Skilling to Prepare Two ..."
    },
    "news.sap.com/italy/2026/10/angelini-technologies-fameccanica-sceglie-rise-with-sap-per-accelerare-la-trasformazione-digitale-e-sostenere-la-crescita-futura": {
     "baseline": false,
@@ -8246,6 +8291,15 @@
     "page": 1,
     "summary": "SAP\uc758 \ubaa8\ub4e0 \uc601\uc5ed \uc0b4\ud3b4\ubcf4\uae30. \ud559\uc2b5 \ubc0f \uc9c0\uc6d0. \ud559\uc2b5 \ubc0f \uc778\uc99d \u00b7 \uc9c0\uc6d0 \u00b7 \ubb38\uc11c \u00b7 \ucee4\ubba4\ub2c8\ud2f0. \uc815\ubcf4. \ud68c\uc0ac \uc815\ubcf4 \u00b7 \ucee4\ub9ac\uc5b4 \u00b7 \uace0\uac1d \uc0ac\ub840 \u00b7 \uc724\ub9ac \ubc0f \uaddc\uc81c\uc900\uc218 \u00b7 \uc774\ubca4\ud2b8 ...",
     "title": "SAP-Connect-2026-Hero - SAP Korea \ub274\uc2a4\uc13c\ud130"
+   },
+   "news.sap.com/korea/2026/10/sap-ai-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%9D%98%EB%8F%84-%EA%B8%B0%EB%B0%98-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-28T08:43:03Z",
+    "link": "https://news.sap.com/korea/2026/10/sap-ai-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%9D%98%EB%8F%84-%EA%B8%B0%EB%B0%98-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89/",
+    "page": 2,
+    "summary": "SAP \ube44\uc988\ub2c8\uc2a4 AI \ud50c\ub7ab\ud3fc\uc740 \uc870\uc9c1\uc774 SAP \ubc0f \uc11c\ub4dc\ud30c\ud2f0 \ud658\uacbd \uc804\ubc18\uc5d0\uc11c AI\ub97c \uad6c\ucd95\ud558\uace0 \ub9e5\ub77d\uc744 \ub354\ud558\uba70 \uac70\ubc84\ub10c\uc2a4\ub97c \uc801\uc6a9\ud560 \uc218 \uc788\ub294 \ub2e8\uc77c \uacf5\uac04\uc744 \uc81c\uacf5\ud55c\ub2e4. \ube44\uc988\ub2c8\uc2a4 \uc0ac\uc6a9\uc790\uc640 ...",
+    "title": "SAP, AI \uac1c\ubc1c\uc790\uc758 \ud575\uc2ec \uc194\ub8e8\uc158 \uad6c\ucd95 \ubc0f \uc758\ub3c4 \uae30\ubc18 \uc790\uc728 \uc2e4\ud589 ..."
    },
    "news.sap.com/korea/2026/10/sap-ai-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%9D%98%EB%8F%84-%EA%B8%B0%EB%B0%98-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89?amp=1": {
     "baseline": false,
@@ -9603,6 +9657,15 @@
     "page": 1,
     "summary": "How do you make a buyers guide? Start by defining whom the guide is for, then build the content around your own products. Format the guide for fast scanning, ...",
     "title": "Buyers Guide: How To Create One for Your Store (2026)"
+   },
+   "shopify.com/blog/cash-register-pos": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-10-28T08:43:03Z",
+    "link": "https://www.shopify.com/blog/cash-register-pos",
+    "page": 5,
+    "summary": "A cash register is simply the hardware that rings up a sale and stores cash. A POS system layers software onto that hardware so it can also sync inventory, ...",
+    "title": "Cash Register POS: Which Setup Fits Your Store (2026)"
    },
    "shopify.com/blog/common-shipping-questions": {
     "baseline": false,
