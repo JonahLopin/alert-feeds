@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 21891,
+  "credits_used": 21942,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T02:10:52Z",
+  "last_run": "2026-10-29T03:09:34Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 442
+  "runs": 443
  },
  "feeds": {
   "adp-help": {
@@ -5484,6 +5484,15 @@
     "page": 1,
     "summary": "Copy 50+ sample restaurant text messages for reservations, promos, loyalty, and staff alerts, plus compliance rules and how to send them.",
     "title": "50+ Sample Text Messages for Restaurant Marketing"
+   },
+   "merchants.doordash.com/en-us/blog/secret-menu-magazine": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-29T03:09:34Z",
+    "link": "https://merchants.doordash.com/en-us/blog/secret-menu-magazine",
+    "page": 3,
+    "summary": "Secret Menu is a magazine for the restaurant community with stories that aim to inspire, inform, and connect. From first-hand interviews to features and photo ...",
+    "title": "Secret Menu, a Magazine for and by the Restaurant Industry"
    },
    "merchants.doordash.com/en-us/blog/the-key-to-getting-more-restaurant-reviews": {
     "baseline": false,
