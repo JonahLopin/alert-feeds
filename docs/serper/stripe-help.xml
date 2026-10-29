@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-29T17:07:21Z</updated>
+  <updated>2026-10-29T18:10:00Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/workload-identity-federation/google-cloud</id>
+    <title>Workload Identity Federation with Google Cloud</title>
+    <link href="https://docs.stripe.com/workload-identity-federation/google-cloud" />
+    <published>2026-10-29T18:10:00Z</published>
+    <updated>2026-10-29T18:10:00Z</updated>
+    <summary>Create a Google Cloud service account. By default, every Google service account can get Google-signed identity tokens, Create a Google Cloud project with ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/tax/subscriptions/automatic-tax-default</id>
+    <title>Enable tax by default for subscriptions</title>
+    <link href="https://docs.stripe.com/tax/subscriptions/automatic-tax-default" />
+    <published>2026-10-29T18:10:00Z</published>
+    <updated>2026-10-29T18:10:00Z</updated>
+    <summary>Use the Tax integration configuration API to enable automatic tax on subscriptions and understand how later updates affect tax collection.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/tax/invoicing/automatic-tax-default</id>
+    <title>Enable tax by default for invoices</title>
+    <link href="https://docs.stripe.com/tax/invoicing/automatic-tax-default" />
+    <published>2026-10-29T18:10:00Z</published>
+    <updated>2026-10-29T18:10:00Z</updated>
+    <summary>Use the tax integration configuration API to enable automatic tax on standalone invoices and understand when conflicting parameters disable it.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/reports/report-types/financial-accounts</id>
+    <title>Financial account report type</title>
+    <link href="https://docs.stripe.com/reports/report-types/financial-accounts" />
+    <published>2026-10-29T18:10:00Z</published>
+    <updated>2026-10-29T18:10:00Z</updated>
+    <summary>Use Financial account reports to analyze activity that impacts your financial account balance and view data related to your payments activity.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/payments/qris</id>
+    <title>QRIS payments</title>
+    <link href="https://docs.stripe.com/payments/qris" />
+    <published>2026-10-29T18:10:00Z</published>
+    <updated>2026-10-29T18:10:00Z</updated>
+    <summary>Quick Response Code Indonesian Standard (QRIS) is a real-time payment system developed by Bank Indonesia. Customers pay by scanning a QR code and ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/js/custom_checkout/checkout_form_get_value</id>
+    <title>Get values from the embedded form</title>
+    <link href="https://docs.stripe.com/js/custom_checkout/checkout_form_get_value" />
+    <published>2026-10-29T18:10:00Z</published>
+    <updated>2026-10-29T18:10:00Z</updated>
+    <summary>Validates and retrieves the current values from the embedded form. If there are any input validation errors, the errors display by their respective fields. Call ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/connect/cross-border-payouts-to-recipients/compare-global-payouts</id>
+    <title>Understand differences between Global Payouts and ...</title>
+    <link href="https://docs.stripe.com/connect/cross-border-payouts-to-recipients/compare-global-payouts" />
+    <published>2026-10-29T18:10:00Z</published>
+    <updated>2026-10-29T18:10:00Z</updated>
+    <summary>Compare Global Payouts and Connect cross-border payouts to determine which Stripe payouts integration fits your business model.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/data/data-freshness</id>
     <title>Sigma data freshness | Stripe Documentation</title>

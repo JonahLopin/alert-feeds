@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22647,
+  "credits_used": 22697,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T17:07:21Z",
+  "last_run": "2026-10-29T18:10:00Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 457
+  "runs": 458
  },
  "feeds": {
   "adp-help": {
@@ -3744,6 +3744,15 @@
     "page": 1,
     "summary": "The US Supreme Court won't hear a case by former Ruby Tuesday Inc. executives asking what remedies courts can order in Employee Retirement Income Security Act ...",
     "title": "SCOTUS Passes on Ruby Tuesday Benefits Suit, ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/sec-alleges-200-million-crypto-based-commodities-ponzi-scheme": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T18:10:00Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/sec-alleges-200-million-crypto-based-commodities-ponzi-scheme",
+    "page": 1,
+    "summary": "The Securities and Exchange Commission sued the operators of a cryptocurrency investment platform called DEBT Box, alleging they raised more than $200 ...",
+    "title": "SEC Alleges $200 Million Crypto-Based Commodities ..."
    },
    "news.bloomberglaw.com/business-and-practice/sec-proposal-to-ax-pay-to-play-rule-leaves-many-risks-untouched": {
     "baseline": false,
@@ -12862,6 +12871,15 @@
     "summary": "Use cross-border payouts to pay sellers, freelancers, content creators, and service providers in supported regions in their local currencies.",
     "title": "Connect cross-border payouts"
    },
+   "docs.stripe.com/connect/cross-border-payouts-to-recipients/compare-global-payouts": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T18:10:00Z",
+    "link": "https://docs.stripe.com/connect/cross-border-payouts-to-recipients/compare-global-payouts",
+    "page": 1,
+    "summary": "Compare Global Payouts and Connect cross-border payouts to determine which Stripe payouts integration fits your business model.",
+    "title": "Understand differences between Global Payouts and ..."
+   },
    "docs.stripe.com/connect/manage-connected-account-payouts": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -12992,6 +13010,15 @@
     "summary": "Connect an AI agent to Stripe MCP to create Issuing cardholders and physical or virtual cards with the permissions you choose.",
     "title": "Manage Issuing cards with AI agents"
    },
+   "docs.stripe.com/js/custom_checkout/checkout_form_get_value": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-29T18:10:00Z",
+    "link": "https://docs.stripe.com/js/custom_checkout/checkout_form_get_value",
+    "page": 1,
+    "summary": "Validates and retrieves the current values from the embedded form. If there are any input validation errors, the errors display by their respective fields. Call ...",
+    "title": "Get values from the embedded form"
+   },
    "docs.stripe.com/js/custom_checkout/checkout_form_methods?ref=spectralwebservices.com": {
     "baseline": true,
     "date_hint": "4 hours ago",
@@ -13107,6 +13134,15 @@
     "summary": "\u30ec\u30ac\u30b7\u30fc\u306e\u5b9f\u88c5\u304b\u3089\u63a8\u5968\u3055\u308c\u308b\u65b0\u3057\u3044\u5b9f\u88c5\u30d1\u30b9\u306b\u79fb\u884c\u3059\u308b\u3053\u3068\u3067\u3001\u30b3\u30f3\u30d0\u30fc\u30b8\u30e7\u30f3\u7387\u3092\u5411\u4e0a\u3055\u305b\u3001\u65b0\u6a5f\u80fd\u3092\u5229\u7528\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u3002",
     "title": "\u30ec\u30ac\u30b7\u30fc\u306e\u5b9f\u88c5\u3092\u79fb\u884c\u3059\u308b | Stripe \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8"
    },
+   "docs.stripe.com/payments/qris": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T18:10:00Z",
+    "link": "https://docs.stripe.com/payments/qris",
+    "page": 1,
+    "summary": "Quick Response Code Indonesian Standard (QRIS) is a real-time payment system developed by Bank Indonesia. Customers pay by scanning a QR code and ...",
+    "title": "QRIS payments"
+   },
    "docs.stripe.com/payments/save-and-reuse?payment-ui=elements": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -13142,6 +13178,15 @@
     "page": 2,
     "summary": "Stripe surveille en permanence votre activit\u00e9 de paiement pour d\u00e9tecter les attaques de fraude. Lorsque nous identifions des sch\u00e9mas inhabituels, ...",
     "title": "Alertes de fraude sur les transactions"
+   },
+   "docs.stripe.com/reports/report-types/financial-accounts": {
+    "baseline": false,
+    "date_hint": "16 hours ago",
+    "first_seen": "2026-10-29T18:10:00Z",
+    "link": "https://docs.stripe.com/reports/report-types/financial-accounts",
+    "page": 1,
+    "summary": "Use Financial account reports to analyze activity that impacts your financial account balance and view data related to your payments activity.",
+    "title": "Financial account report type"
    },
    "docs.stripe.com/reports/reserves?locale=id-ID": {
     "baseline": false,
@@ -13186,6 +13231,24 @@
     "link": "https://docs.stripe.com/tax/file-with-stripe-outside-us",
     "summary": "Use Stripe Tax to prepare and file supported tax returns outside the US. Manage compliance Monitor your obligations Register File and remit File with Stripe in ...",
     "title": "File taxes outside the US"
+   },
+   "docs.stripe.com/tax/invoicing/automatic-tax-default": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T18:10:00Z",
+    "link": "https://docs.stripe.com/tax/invoicing/automatic-tax-default",
+    "page": 1,
+    "summary": "Use the tax integration configuration API to enable automatic tax on standalone invoices and understand when conflicting parameters disable it.",
+    "title": "Enable tax by default for invoices"
+   },
+   "docs.stripe.com/tax/subscriptions/automatic-tax-default": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T18:10:00Z",
+    "link": "https://docs.stripe.com/tax/subscriptions/automatic-tax-default",
+    "page": 1,
+    "summary": "Use the Tax integration configuration API to enable automatic tax on subscriptions and understand how later updates affect tax collection.",
+    "title": "Enable tax by default for subscriptions"
    },
    "docs.stripe.com/tax/third-party-apps/agentic-commerce?locale=ja-JP": {
     "baseline": false,
@@ -13249,6 +13312,15 @@
     "page": 1,
     "summary": "Stripe Connector for NetSuite (SCN) lets you synchronize Charges from any native Stripe account to NetSuite with a variety of workflows.",
     "title": "Set up Stripe-initiated payments workflows"
+   },
+   "docs.stripe.com/workload-identity-federation/google-cloud": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T18:10:00Z",
+    "link": "https://docs.stripe.com/workload-identity-federation/google-cloud",
+    "page": 1,
+    "summary": "Create a Google Cloud service account. By default, every Google service account can get Google-signed identity tokens, Create a Google Cloud project with ...",
+    "title": "Workload Identity Federation with Google Cloud"
    }
   },
   "taxcloud-blog": {

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-29T17:07:21Z</updated>
+  <updated>2026-10-29T18:10:00Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/sec-alleges-200-million-crypto-based-commodities-ponzi-scheme</id>
+    <title>SEC Alleges $200 Million Crypto-Based Commodities ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/sec-alleges-200-million-crypto-based-commodities-ponzi-scheme" />
+    <published>2026-10-29T18:10:00Z</published>
+    <updated>2026-10-29T18:10:00Z</updated>
+    <summary>The Securities and Exchange Commission sued the operators of a cryptocurrency investment platform called DEBT Box, alleging they raised more than $200 ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/weil-implosion-shows-lawyers-are-the-new-bankers-chris-bryant</id>
     <title>Weil Implosion Shows Lawyers Are the New Bankers</title>
@@ -795,13 +803,5 @@
     <published>2026-10-26T16:13:45Z</published>
     <updated>2026-10-26T16:13:45Z</updated>
     <summary>TJ Kuban joined Orrick as a partner in its data center practice and energy &amp; infrastructure team in Chicago, the firm announced Monday.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/doj-cant-access-utahs-unredacted-voter-rolls-judge-says</id>
-    <title>DOJ Can't Access Utah's Unredacted Voter Rolls, Judge ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/doj-cant-access-utahs-unredacted-voter-rolls-judge-says" />
-    <published>2026-10-26T16:13:45Z</published>
-    <updated>2026-10-26T16:13:45Z</updated>
-    <summary>The Justice Department can't force Utah's lieutenant governor to turn over the state's unredacted voter rolls, a federal judge said</summary>
   </entry>
 </feed>
