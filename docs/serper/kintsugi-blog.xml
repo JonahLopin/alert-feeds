@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:kintsugi-blog</id>
   <title>Kintsugi blog (site:trykintsugi.com/blog/) via Serper</title>
-  <updated>2026-10-21T02:52:26Z</updated>
+  <updated>2026-10-29T19:06:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/kintsugi-blog.xml" />
+  <entry>
+    <id>https://trykintsugi.com/blog/understanding-input-and-output-vat</id>
+    <title>Sales Tax vs. VAT: Understanding Input and Output VAT</title>
+    <link href="https://trykintsugi.com/blog/understanding-input-and-output-vat" />
+    <published>2026-10-29T19:06:49Z</published>
+    <updated>2026-10-29T19:06:49Z</updated>
+    <summary>Input VAT is the VAT a business pays on its own purchases, expenses, and imports. It's the mirror image of output VAT: the tax a business pays going out the ...</summary>
+  </entry>
   <entry>
     <id>https://trykintsugi.com/blog/how-kintsugis-infrastructure-is-different</id>
     <title>Kintsugi Infrastructure: Speed, AI and Security</title>

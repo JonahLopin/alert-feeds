@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-29T18:10:00Z</updated>
+  <updated>2026-10-29T19:06:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/tax/subscription-schedules/automatic-tax-default</id>
+    <title>Enable tax by default for subscription schedules</title>
+    <link href="https://docs.stripe.com/tax/subscription-schedules/automatic-tax-default" />
+    <published>2026-10-29T19:06:49Z</published>
+    <updated>2026-10-29T19:06:49Z</updated>
+    <summary>The Tax integration configuration lets Stripe calculate tax automatically on subscription schedule phases that don't explicitly set automatic_tax or inherit ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/stripe-apps/in-app-analytics</id>
+    <title>In-app analytics and error monitoring</title>
+    <link href="https://docs.stripe.com/stripe-apps/in-app-analytics" />
+    <published>2026-10-29T19:06:49Z</published>
+    <updated>2026-10-29T19:06:49Z</updated>
+    <summary>App analytics shows how many users install your app and view its listing. To understand how users interact with your app after installing it, ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/payments/qris/accept-a-payment</id>
+    <title>QRIS Payments</title>
+    <link href="https://docs.stripe.com/payments/qris/accept-a-payment" />
+    <published>2026-10-29T19:06:49Z</published>
+    <updated>2026-10-29T19:06:49Z</updated>
+    <summary>(QRIS) is a real time payment system developed by the Bank of Indonesia. The service works by instantly transferring funds between two bank accounts.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/workload-identity-federation/google-cloud</id>
     <title>Workload Identity Federation with Google Cloud</title>

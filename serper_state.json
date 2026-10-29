@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22697,
+  "credits_used": 22748,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T18:10:00Z",
+  "last_run": "2026-10-29T19:06:49Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 458
+  "runs": 459
  },
  "feeds": {
   "adp-help": {
@@ -4832,6 +4832,15 @@
     "summary": "Bessent's \u201cTreasury twist\u201d came in response to surging US yields, a sore spot for a Trump administration that had promised to deliver lower borrowing costs \u2014 ...",
     "title": "Wall Street on Alert for Bessent to Act on Bond Yields Again"
    },
+   "news.bloomberglaw.com/business-and-practice/warren-curtis-press-kalshi-polymarket-on-election-wagers": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T19:06:49Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/warren-curtis-press-kalshi-polymarket-on-election-wagers",
+    "page": 1,
+    "summary": "A bipartisan duo in the Senate is seeking answers from leading prediction market companies on their plans to prevent insider trading on the midterm elections.",
+    "title": "Warren, Curtis Press Kalshi, Polymarket on Election Wagers"
+   },
    "news.bloomberglaw.com/business-and-practice/warsh-boosts-market-expectations-of-fed-rate-hold-in-october-2": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -7429,6 +7438,15 @@
     "page": 1,
     "summary": "Shopify Tax automated filing ends with December 2026 sales. See when your last return is due and how to move sales tax filing to Kintsugi without a gap.",
     "title": "Shopify Automated Filing Ends: What to Do Next"
+   },
+   "trykintsugi.com/blog/understanding-input-and-output-vat": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T19:06:49Z",
+    "link": "https://trykintsugi.com/blog/understanding-input-and-output-vat",
+    "page": 1,
+    "summary": "Input VAT is the VAT a business pays on its own purchases, expenses, and imports. It's the mirror image of output VAT: the tax a business pays going out the ...",
+    "title": "Sales Tax vs. VAT: Understanding Input and Output VAT"
    },
    "trykintsugi.com/blog/what-is-ioss-import-one-stop-shop": {
     "baseline": false,
@@ -13143,6 +13161,15 @@
     "summary": "Quick Response Code Indonesian Standard (QRIS) is a real-time payment system developed by Bank Indonesia. Customers pay by scanning a QR code and ...",
     "title": "QRIS payments"
    },
+   "docs.stripe.com/payments/qris/accept-a-payment": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-29T19:06:49Z",
+    "link": "https://docs.stripe.com/payments/qris/accept-a-payment",
+    "page": 1,
+    "summary": "(QRIS) is a real time payment system developed by the Bank of Indonesia. The service works by instantly transferring funds between two bank accounts.",
+    "title": "QRIS Payments"
+   },
    "docs.stripe.com/payments/save-and-reuse?payment-ui=elements": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -13224,6 +13251,15 @@
     "summary": "Open USD (OUSD) \u306f\u3001\u30aa\u30fc\u30d7\u30f3\u306a\u30a4\u30f3\u30d5\u30e9\u30b9\u30c8\u30e9\u30af\u30c1\u30e3\u30fc\u3068\u3057\u3066\u8a2d\u8a08\u3055\u308c\u305f\u30b9\u30c6\u30fc\u30d6\u30eb\u30b3\u30a4\u30f3\u3067\u3059\u3002Stripe \u30d7\u30ed\u30c0\u30af\u30c8\u3067\u306f\u3001\u8cc7\u91d1\u306e\u53d7\u3051\u53d6\u308a\u3084\u7ba1\u7406\u304b\u3089\u3001\u53d7\u53d6\u4eba\u3078\u306e\u9001\u91d1\u3084 ...",
     "title": "Open USD | Stripe \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8"
    },
+   "docs.stripe.com/stripe-apps/in-app-analytics": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-29T19:06:49Z",
+    "link": "https://docs.stripe.com/stripe-apps/in-app-analytics",
+    "page": 1,
+    "summary": "App analytics shows how many users install your app and view its listing. To understand how users interact with your app after installing it, ...",
+    "title": "In-app analytics and error monitoring"
+   },
    "docs.stripe.com/tax/file-with-stripe-outside-us": {
     "baseline": true,
     "date_hint": "2 days ago",
@@ -13240,6 +13276,15 @@
     "page": 1,
     "summary": "Use the tax integration configuration API to enable automatic tax on standalone invoices and understand when conflicting parameters disable it.",
     "title": "Enable tax by default for invoices"
+   },
+   "docs.stripe.com/tax/subscription-schedules/automatic-tax-default": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-29T19:06:49Z",
+    "link": "https://docs.stripe.com/tax/subscription-schedules/automatic-tax-default",
+    "page": 1,
+    "summary": "The Tax integration configuration lets Stripe calculate tax automatically on subscription schedule phases that don't explicitly set automatic_tax or inherit ...",
+    "title": "Enable tax by default for subscription schedules"
    },
    "docs.stripe.com/tax/subscriptions/automatic-tax-default": {
     "baseline": false,

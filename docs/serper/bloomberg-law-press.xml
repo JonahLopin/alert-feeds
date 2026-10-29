@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-29T18:10:00Z</updated>
+  <updated>2026-10-29T19:06:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/warren-curtis-press-kalshi-polymarket-on-election-wagers</id>
+    <title>Warren, Curtis Press Kalshi, Polymarket on Election Wagers</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/warren-curtis-press-kalshi-polymarket-on-election-wagers" />
+    <published>2026-10-29T19:06:49Z</published>
+    <updated>2026-10-29T19:06:49Z</updated>
+    <summary>A bipartisan duo in the Senate is seeking answers from leading prediction market companies on their plans to prevent insider trading on the midterm elections.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/sec-alleges-200-million-crypto-based-commodities-ponzi-scheme</id>
     <title>SEC Alleges $200 Million Crypto-Based Commodities ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-26T16:13:45Z</published>
     <updated>2026-10-26T16:13:45Z</updated>
     <summary>Mestre advises public and private companies on complex domestic and cross-border M&amp;A transactions, guiding buyers and sellers through every stage of the deal ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/orrick-adds-kirkland-data-center-real-estate-partner-in-chicago</id>
-    <title>Orrick Adds Kirkland Data Center Real Estate Partner in ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/orrick-adds-kirkland-data-center-real-estate-partner-in-chicago" />
-    <published>2026-10-26T16:13:45Z</published>
-    <updated>2026-10-26T16:13:45Z</updated>
-    <summary>TJ Kuban joined Orrick as a partner in its data center practice and energy &amp; infrastructure team in Chicago, the firm announced Monday.</summary>
   </entry>
 </feed>
