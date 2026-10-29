@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22197,
+  "credits_used": 22247,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T08:10:58Z",
+  "last_run": "2026-10-29T09:09:02Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 448
+  "runs": 449
  },
  "feeds": {
   "adp-help": {
@@ -368,6 +368,15 @@
     "page": 5,
     "summary": "Metrics across global bond markets are signaling their biggest risk-off sentiment in more than a year, as a selloff in AI stocks and growing geopolitical ...",
     "title": "AI Tech Fears Push Global Credit Spreads to 17-Month ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/ai-written-job-ads-heighten-citizenship-discrimination-risks": {
+    "baseline": false,
+    "date_hint": "39 minutes ago",
+    "first_seen": "2026-10-29T09:09:02Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ai-written-job-ads-heighten-citizenship-discrimination-risks",
+    "page": 1,
+    "summary": "Take a Virginia-based IT services company's job ads that were written by an AI tool, telling applicants that only H-1B, OPT, or H-4 visa holders need apply.",
+    "title": "AI-Written Job Ads Heighten Citizenship Discrimination Risks"
    },
    "news.bloomberglaw.com/business-and-practice/aig-seeks-rehearing-after-losing-to-walmart-on-opioid-case-costs": {
     "baseline": false,
@@ -8265,6 +8274,15 @@
     "summary": "Die Partnerschaft zwischen \u00d6BB und SAP zeigt beispielhaft, wie eine umfassende digitale Transformation geplant werden muss, um langfristig Mehrwert zu schaffen.",
     "title": "RISE with SAP: Innovationen f\u00fcr die \u00d6BB"
    },
+   "news.sap.com/germany/2026/10/prozesstransformation-mit-ki": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T09:09:02Z",
+    "link": "https://news.sap.com/germany/2026/10/prozesstransformation-mit-ki/",
+    "page": 1,
+    "summary": "Erfahren Sie mehr \u00fcber die Rolle von KI f\u00fcr autonome Unternehmen und wie SAP-Plattformen zur zukunftsorientierten Transformation beitragen.",
+    "title": "Autonome Unternehmen: Effektive KI-Integration im Fokus"
+   },
    "news.sap.com/germany/2026/10/sap-kontinuitaet-support-deutsche-energiemarkt-loesungen-ende-2030": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -8597,6 +8615,24 @@
     "page": 1,
     "summary": "\u5cf6\u6751\u697d\u5668\u306f\u3001\u5e97\u8217\u3067\u306e\u63a5\u5ba2\u3092\u901a\u3058\u3066\u3001\u304a\u5ba2\u69d8\u306e\u97f3\u697d\u751f\u6d3b\u306b\u5bc4\u308a\u6dfb\u3046\u3053\u3068\u3092\u5927\u5207\u306b\u3057\u3066\u304d\u307e\u3057\u305f\u3002\u5e97\u8217\u306b\u52a0\u3048\u3001EC\u3001\u97f3\u697d\u6559\u5ba4\u3001\u4fee\u7406\u306a\u3069\u591a\u69d8\u306a\u63a5\u70b9\u3092\u5c55\u958b\u3059\u308b\u4e2d\u3067\u3001\u540c\u793e\u306f\u3001\u3053\u306e ...",
     "title": "\u5cf6\u6751\u697d\u5668\u3001\u9867\u5ba2\u4f53\u9a13\u3068\u7d4c\u55b6\u5224\u65ad\u306e\u9ad8\u5ea6\u5316\u306b\u5411\u3051\u3066 SAP\u306e\u5c0f\u58f2 ..."
+   },
+   "news.sap.com/japan/2026/10/1029_sap-a-leader-idc-marketscape-worldwide-agentic-marketing-b2c-enterprises": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-29T09:09:02Z",
+    "link": "https://news.sap.com/japan/2026/10/1029_sap-a-leader-idc-marketscape-worldwide-agentic-marketing-b2c-enterprises/",
+    "page": 2,
+    "summary": "SAP \u306f\u3001\u4fe1\u983c\u3067\u304d\u308b\u30c7\u30fc\u30bf\u3068\u3001\u30a8\u30f3\u30c9\u30fb\u30c4\u30fc\u30fb\u30a8\u30f3\u30c9\u3067\u9023\u643a\u3055\u308c\u305f\u30d3\u30b8\u30cd\u30b9\u30d7\u30ed\u30bb\u30b9\u3092\u57fa\u76e4\u306b\u3001\u5b9f\u969b\u306e\u30d3\u30b8\u30cd\u30b9\u30b3\u30f3\u30c6\u30ad\u30b9\u30c8\u306b\u5373\u3057\u3066 AI \u3092\u6d3b\u7528\u3059\u308b\u3053\u3068\u3067\u3001\u4f01\u696d\u304c ...",
+    "title": "SAP\u3001\u300cIDC MarketScape\uff1aB2C\u4f01\u696d\u5411\u3051\u30a8\u30fc\u30b8\u30a7\u30f3\u30c6\u30a3\u30c3\u30af ..."
+   },
+   "news.sap.com/japan/2026/10/1029_sap-a-leader-idc-marketscape-worldwide-agentic-marketing-b2c-enterprises?amp=1": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-10-29T09:09:02Z",
+    "link": "https://news.sap.com/japan/2026/10/1029_sap-a-leader-idc-marketscape-worldwide-agentic-marketing-b2c-enterprises/?amp=1",
+    "page": 1,
+    "summary": "SAP \u306f\u3001\u4fe1\u983c\u3067\u304d\u308b\u30c7\u30fc\u30bf\u3068\u3001\u30a8\u30f3\u30c9\u30fb\u30c4\u30fc\u30fb\u30a8\u30f3\u30c9\u3067\u9023\u643a\u3055\u308c\u305f\u30d3\u30b8\u30cd\u30b9\u30d7\u30ed\u30bb\u30b9\u3092\u57fa\u76e4\u306b\u3001\u5b9f\u969b\u306e\u30d3\u30b8\u30cd\u30b9\u30b3\u30f3\u30c6\u30ad\u30b9\u30c8\u306b\u5373\u3057\u3066 AI \u3092\u6d3b\u7528\u3059\u308b\u3053\u3068\u3067\u3001\u4f01\u696d\u304c ...",
+    "title": "SAP\u3001\u300cIDC MarketScape\uff1aB2C\u4f01\u696d\u5411\u3051\u30a8\u30fc\u30b8\u30a7\u30f3\u30c6\u30a3\u30c3\u30af ..."
    },
    "news.sap.com/japan/2026/10/30349": {
     "baseline": false,

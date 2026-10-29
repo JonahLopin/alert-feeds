@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-29T06:13:13Z</updated>
+  <updated>2026-10-29T09:09:02Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/ai-written-job-ads-heighten-citizenship-discrimination-risks</id>
+    <title>AI-Written Job Ads Heighten Citizenship Discrimination Risks</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/ai-written-job-ads-heighten-citizenship-discrimination-risks" />
+    <published>2026-10-29T09:09:02Z</published>
+    <updated>2026-10-29T09:09:02Z</updated>
+    <summary>Take a Virginia-based IT services company's job ads that were written by an AI tool, telling applicants that only H-1B, OPT, or H-4 visa holders need apply.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/ted-cruz-probes-glass-lewis-iss-after-they-opposed-texas-moves</id>
     <title>Ted Cruz Probes Glass Lewis, ISS After They Opposed ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-24T01:38:22Z</published>
     <updated>2026-10-24T01:38:22Z</updated>
     <summary>The Trump administration on Friday asked a federal appeals court to rule the president had the authority to fire the court-appointed US Attorney in Seattle ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/crowell-partners-rejected-szabo-for-job-before-pillsbury-hire</id>
-    <title>Crowell Partners Rejected Szabo for Job Before Pillsbury ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/crowell-partners-rejected-szabo-for-job-before-pillsbury-hire" />
-    <published>2026-10-24T00:25:52Z</published>
-    <updated>2026-10-24T00:25:52Z</updated>
-    <summary>Crowell &amp; Moring partners rejected President Donald Trump's ex-top air regulator Aaron Szabo for a job because they took issue with his tenure in the ...</summary>
   </entry>
 </feed>
