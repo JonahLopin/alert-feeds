@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22347,
+  "credits_used": 22397,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T11:07:01Z",
+  "last_run": "2026-10-29T12:11:47Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 451
+  "runs": 452
  },
  "feeds": {
   "adp-help": {
@@ -3538,6 +3538,15 @@
     "summary": "PowerSchool Holdings Inc. failed to convince a federal court to dismiss one claim of a multi-district proposed class action alleging it didn't protect the ...",
     "title": "PowerSchool Fails to Toss Claim in Suit Over Massive ..."
    },
+   "news.bloomberglaw.com/business-and-practice/prediction-markets-avoid-australias-tough-line-on-gambling": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-10-29T12:11:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/prediction-markets-avoid-australias-tough-line-on-gambling",
+    "page": 1,
+    "summary": "Australia's corporate regulator has not received a single application from a prediction market provider such platforms would likely face gambling rather than ...",
+    "title": "Prediction Markets Avoid Australia's Tough Line on Gambling"
+   },
    "news.bloomberglaw.com/business-and-practice/proofpoint-to-buy-varonis-for-6-3-billion-as-tech-m-a-rebounds": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -4634,6 +4643,15 @@
     "summary": "Three Big Law firms steered Salesforce Inc.'s agreement to buy an artificial intelligence-powered marketing platform Braze Inc. for nearly $5.7 billion.",
     "title": "Wachtell, Covington, Davis Polk Guide Salesforce's Braze ..."
    },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-biden-antitrust-chiefs-start-legal-ai-company": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-29T12:11:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-biden-antitrust-chiefs-start-legal-ai-company",
+    "page": 2,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
+    "title": "Wake Up Call: Biden Antitrust Chiefs Start Legal AI Company"
+   },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-big-law-backs-democrat-in-georgia-senate-race": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -5014,6 +5032,15 @@
     "summary": "An on-premise system runs on a physical machine inside your restaurant. It holds the real database \u2014 every menu item, every price, every transaction \u2014 and the ...",
     "title": "Cloud-Based Restaurant Management, Explained Without ..."
    },
+   "chowbus.com/blog/countertop-terminal-to-tablet-pos-first-month": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-29T12:11:47Z",
+    "link": "https://www.chowbus.com/blog/countertop-terminal-to-tablet-pos-first-month",
+    "page": 1,
+    "summary": "A week-by-week guide to the first month after moving from a countertop terminal to a tablet-based point of sale, with what to expect and what to do.",
+    "title": "Why Week One Feels Slower, and What Gets Easier After"
+   },
    "chowbus.com/blog/custom-gift-cards-for-business": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -5233,6 +5260,15 @@
     "page": 1,
     "summary": "15 food business ideas to start \u00b7 Restaurant \u00b7 Food truck \u00b7 Coffee shop \u00b7 Bakery \u00b7 Ghost kitchen or virtual restaurant \u00b7 Catering \u00b7 Personal chef \u00b7 Cooking classes.",
     "title": "15 Food Business Ideas: Costs & How to Start"
+   },
+   "merchants.doordash.com/en-us/blog/food-delivery-marketing": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-29T12:11:47Z",
+    "link": "https://merchants.doordash.com/en-us/blog/food-delivery-marketing",
+    "page": 2,
+    "summary": "Check out these food delivery marketing ideas to help you get the word out about your off-premise offerings.",
+    "title": "5 Food Delivery Marketing Tips for Restaurants"
    },
    "merchants.doordash.com/en-us/blog/game-day-menu-ideas": {
     "baseline": false,
@@ -7670,6 +7706,15 @@
     "page": 1,
     "summary": "SAP expands Stay Certified with AI-powered roleplays, practical skill validation, and a more flexible certification renewal experience.",
     "title": "AI-Powered Roleplays to Help Learners Stay SAP Certified"
+   },
+   "news.sap.com/2026/10/sap-lakehouse-new-data-fabric-innovations-sap-bdc-autonomous-enterprise": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-29T12:11:47Z",
+    "link": "https://news.sap.com/2026/10/sap-lakehouse-new-data-fabric-innovations-sap-bdc-autonomous-enterprise/",
+    "page": 1,
+    "summary": "Explore the new lakehouse and business data fabric capabilities that will help enterprises build AI agents act with greater autonomy.",
+    "title": "Lakehouse and Data Fabric Innovations in SAP BDC"
    },
    "news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools": {
     "baseline": false,
@@ -11576,6 +11621,15 @@
    }
   },
   "sovos-help": {
+   "docs.sovos.com/1099-reporting/tir-corporate--1099-professional/transmit/transmit-to-the-irs/check-the-status-of-irs-transmittals": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-29T12:11:47Z",
+    "link": "https://docs.sovos.com/1099-reporting/tir-corporate--1099-professional/transmit/transmit-to-the-irs/check-the-status-of-irs-transmittals",
+    "page": 1,
+    "summary": "View whether your transmittals were accepted or need action directly in Sovos's Tax Information Reporting software.",
+    "title": "Check the status of IRS transmittals - Sovos Docs"
+   },
    "docs.sovos.com/e-invoicing/compliance-network-implementation-guide/working-with-sovos-canonical-invoice/about-compliance-tools-hub": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -11755,6 +11809,15 @@
     "page": 1,
     "summary": "The following updates in VAT Filing will be released in UAT on October 12, 2026, and in PRD on October 14, 2026.",
     "title": "October 12, 2026 | Product Documentation Documentation"
+   },
+   "docs.sovos.com/en/my-user-profile/manage-my-profile/manage-two-factor-authentication": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-29T12:11:47Z",
+    "link": "https://docs.sovos.com/en/my-user-profile/manage-my-profile/manage-two-factor-authentication",
+    "page": 1,
+    "summary": "Two-factor authentication adds a second verification step during login to keep your account secure, even if your password is compromised.",
+    "title": "Manage Two-Factor Authentication - Sovos Docs"
    },
    "docs.sovos.com/en/regulated-shipping/shipcompliant/release-notes/2026/new-sovos-login-for-shipcompliant": {
     "baseline": false,

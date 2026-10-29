@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-29T10:07:43Z</updated>
+  <updated>2026-10-29T12:11:47Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/2026/10/sap-lakehouse-new-data-fabric-innovations-sap-bdc-autonomous-enterprise/</id>
+    <title>Lakehouse and Data Fabric Innovations in SAP BDC</title>
+    <link href="https://news.sap.com/2026/10/sap-lakehouse-new-data-fabric-innovations-sap-bdc-autonomous-enterprise/" />
+    <published>2026-10-29T12:11:47Z</published>
+    <updated>2026-10-29T12:11:47Z</updated>
+    <summary>Explore the new lakehouse and business data fabric capabilities that will help enterprises build AI agents act with greater autonomy.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/germany/2026/10/prozesstransformation-mit-ki/?amp=1</id>
     <title>Autonome Unternehmen: Effektive KI-Integration im Fokus</title>
@@ -795,13 +803,5 @@
     <published>2026-10-22T08:55:37Z</published>
     <updated>2026-10-22T08:55:37Z</updated>
     <summary>世界最大級の総合楽器メーカーとして、グローバルでビジネスを展開するヤマハ株式会社。SAP Cloud ERP Private を中核としたグローバル ERP 基盤の刷新を推進する同社 ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/japan/2026/10/1022_sap-announces-q3-2026-results/</id>
-    <title>SAP、2026 年度第 3 四半期の業績を発表</title>
-    <link href="https://news.sap.com/japan/2026/10/1022_sap-announces-q3-2026-results/" />
-    <published>2026-10-22T08:55:37Z</published>
-    <updated>2026-10-22T08:55:37Z</updated>
-    <summary>SAP SEは2026年9月30日に終了した2026年度第3四半期の業績を発表しました。 WALLDORF — SAP SE (NYSE: SAP) today announced its financial results for the third ...</summary>
   </entry>
 </feed>

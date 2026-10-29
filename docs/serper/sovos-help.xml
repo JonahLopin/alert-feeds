@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-29T05:08:16Z</updated>
+  <updated>2026-10-29T12:11:47Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/my-user-profile/manage-my-profile/manage-two-factor-authentication</id>
+    <title>Manage Two-Factor Authentication - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/my-user-profile/manage-my-profile/manage-two-factor-authentication" />
+    <published>2026-10-29T12:11:47Z</published>
+    <updated>2026-10-29T12:11:47Z</updated>
+    <summary>Two-factor authentication adds a second verification step during login to keep your account secure, even if your password is compromised.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.sovos.com/1099-reporting/tir-corporate--1099-professional/transmit/transmit-to-the-irs/check-the-status-of-irs-transmittals</id>
+    <title>Check the status of IRS transmittals - Sovos Docs</title>
+    <link href="https://docs.sovos.com/1099-reporting/tir-corporate--1099-professional/transmit/transmit-to-the-irs/check-the-status-of-irs-transmittals" />
+    <published>2026-10-29T12:11:47Z</published>
+    <updated>2026-10-29T12:11:47Z</updated>
+    <summary>View whether your transmittals were accepted or need action directly in Sovos's Tax Information Reporting software.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/transmit/transmit-to-the-irs/fix-xml-schema-validation-errors</id>
     <title>Fix XML schema validation errors - Sovos Docs</title>
