@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 21788,
+  "credits_used": 21840,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-28T23:42:55Z",
+  "last_run": "2026-10-29T00:55:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 440
+  "runs": 441
  },
  "feeds": {
   "adp-help": {
@@ -8040,6 +8040,15 @@
     "summary": "Udforsk alle omr\u00e5der af SAP. Uddannelse og support. Uddannelse og certificering \u00b7 Support \u00b7 Dokumentation \u00b7 Community.",
     "title": "F_304302_GettyImages-1331794262_medium_jpg"
    },
+   "news.sap.com/finland/2026/10/sap-laajentaa-tekoalyalustaansa-uusilla-tyokaluilla-ja-agenteilla-seka-lahettaa-tekoalymallin-avaruuteen": {
+    "baseline": false,
+    "date_hint": "19 hours ago",
+    "first_seen": "2026-10-29T00:55:43Z",
+    "link": "https://news.sap.com/finland/2026/10/sap-laajentaa-tekoalyalustaansa-uusilla-tyokaluilla-ja-agenteilla-seka-lahettaa-tekoalymallin-avaruuteen/",
+    "page": 2,
+    "summary": "Kansainv\u00e4lisen avaruusaseman (ISS) tabulaarimuotoisen teko\u00e4lyn k\u00e4ytt\u00f6 ja laajentuneet kumppanuudet osoittavat SAP:n teko\u00e4lyn mahdollisuudet.",
+    "title": "SAP laajentaa teko\u00e4lyalustaansa uusilla ty\u00f6kaluilla ja ..."
+   },
    "news.sap.com/finland/2026/10/sap-laajentaa-tekoalyalustaansa-uusilla-tyokaluilla-ja-agenteilla-seka-lahettaa-tekoalymallin-avaruuteen?amp=1": {
     "baseline": false,
     "date_hint": "18 hours ago",
@@ -8759,6 +8768,15 @@
     "page": 3,
     "summary": "Los sectores automotriz y de autotransporte, energ\u00eda, refrigeraci\u00f3n comercial y alimentos y bebidas encabezan los nuevos proyectos en M\u00e9xico. Las compa\u00f1\u00edas ...",
     "title": "Empresas mexicanas llevan su n\u00facleo a la nube con ..."
+   },
+   "news.sap.com/latinamerica/2026/10/mercedes-amg-petronas-llega-a-mexico-al-frente-del-campeonato-de-constructores-y-con-sap-cloud-erp-en-el-centro-de-su-operacion": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T00:55:43Z",
+    "link": "https://news.sap.com/latinamerica/2026/10/mercedes-amg-petronas-llega-a-mexico-al-frente-del-campeonato-de-constructores-y-con-sap-cloud-erp-en-el-centro-de-su-operacion/",
+    "page": 4,
+    "summary": "La escuder\u00eda llega al Gran Premio de la Ciudad de M\u00e9xico, del 30 de octubre al 1 de noviembre, como l\u00edder del campeonato de constructores que usa soluciones ...",
+    "title": "Mercedes-AMG PETRONAS llega a M\u00e9xico al frente del ..."
    },
    "news.sap.com/mena/2026/10/business-ai-takes-center-stage-as-saudi-organizations-advancehr-transformation-at-sap-hr-connect-ksa-2026/no-111-2": {
     "baseline": false,
