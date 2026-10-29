@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-29T17:07:21Z</updated>
+  <updated>2026-10-29T22:07:33Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/italy/2026/10/sap-commerce-cloud-e-vercel-un-percorso-piu-rapido-per-risultati-migliori/</id>
+    <title>SAP Commerce Cloud e Vercel: un percorso più rapido per ...</title>
+    <link href="https://news.sap.com/italy/2026/10/sap-commerce-cloud-e-vercel-un-percorso-piu-rapido-per-risultati-migliori/" />
+    <published>2026-10-29T22:07:33Z</published>
+    <updated>2026-10-29T22:07:33Z</updated>
+    <summary>La nostra partnership con SAP Commerce Cloud combina la tecnologia web di Vercel, che offre prestazioni di elevato livello, cicli di sviluppo più rapidi e una ...</summary>
+  </entry>
+  <entry>
+    <id>https://news.sap.com/belgie/2026/10/van-ruimtestation-naar-bedrijfsleven-sap-en-hpe-testen-ai-in-de-ruimte/</id>
+    <title>Van ruimtestation naar bedrijfsleven: SAP en HPE testen AI ...</title>
+    <link href="https://news.sap.com/belgie/2026/10/van-ruimtestation-naar-bedrijfsleven-sap-en-hpe-testen-ai-in-de-ruimte/" />
+    <published>2026-10-29T22:07:33Z</published>
+    <updated>2026-10-29T22:07:33Z</updated>
+    <summary>SAP wil zijn AI-model SAP-RPT uiterlijk begin 2027 inzetten aan boord van het internationale ruimtestation ISS. Het model gaat draaien op de Spaceborne ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/netherlands/2026/10/van-ruimtestation-naar-bedrijfsleven-sap-en-hpe-testen-ai-in-de-ruimte/</id>
     <title>Van ruimtestation naar bedrijfsleven: SAP en HPE testen AI ...</title>
@@ -787,21 +803,5 @@
     <published>2026-10-23T08:52:53Z</published>
     <updated>2026-10-23T08:52:53Z</updated>
     <summary>같은 데이터에 같은 질문을 던지면 같은 예측, 같은 신뢰도로 답합니다. LLM이 닿지 못하는 기업의 표 데이터를 SAP-RPT-1.6과 TabPFN-3 기반 표 형식 AI가 어떻게 ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/korea/2026/10/%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%97%94-%EA%B0%99%EC%9D%80-%EB%8B%B5-sap-%ED%91%9C-%ED%98%95%EC%8B%9D-ai%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%88%98/?amp=1</id>
-    <title>같은 질문엔 같은 답, SAP 표 형식 AI의 승부수</title>
-    <link href="https://news.sap.com/korea/2026/10/%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%97%94-%EA%B0%99%EC%9D%80-%EB%8B%B5-sap-%ED%91%9C-%ED%98%95%EC%8B%9D-ai%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%88%98/?amp=1" />
-    <published>2026-10-23T07:51:10Z</published>
-    <updated>2026-10-23T07:51:10Z</updated>
-    <summary>같은 데이터에 같은 질문을 던지면 같은 예측, 같은 신뢰도로 답합니다. LLM이 닿지 못하는 기업의 표 데이터를 SAP-RPT-1.6과 TabPFN-3 기반 표 형식 AI가 어떻게 ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/sea/2026/10/sap-showcases-q3-customers-as-organizations-across-asia-pacific-embrace-the-autonomous-enterprise/?amp=1</id>
-    <title>SAP showcases Q3 customers as organizations across ...</title>
-    <link href="https://news.sap.com/sea/2026/10/sap-showcases-q3-customers-as-organizations-across-asia-pacific-embrace-the-autonomous-enterprise/?amp=1" />
-    <published>2026-10-23T01:41:09Z</published>
-    <updated>2026-10-23T01:41:09Z</updated>
-    <summary>SAP today showcased new customers in Asia Pacific that showcase how organizations across the region are beginning to build truly Autonomous Enterprises.</summary>
   </entry>
 </feed>

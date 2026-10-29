@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22848,
+  "credits_used": 22898,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T21:07:12Z",
+  "last_run": "2026-10-29T22:07:33Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 461
+  "runs": 462
  },
  "feeds": {
   "adp-help": {
@@ -8175,6 +8175,15 @@
     "summary": "SAP heeft vandaag de financi\u00eble resultaten over het derde kwartaal van 2026 bekendgemaakt. 28% tot \u20ac24,1 miljard.",
     "title": "SAP presenteert kwartaalcijfers over derde kwartaal 2026"
    },
+   "news.sap.com/belgie/2026/10/van-ruimtestation-naar-bedrijfsleven-sap-en-hpe-testen-ai-in-de-ruimte": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-10-29T22:07:33Z",
+    "link": "https://news.sap.com/belgie/2026/10/van-ruimtestation-naar-bedrijfsleven-sap-en-hpe-testen-ai-in-de-ruimte/",
+    "page": 1,
+    "summary": "SAP wil zijn AI-model SAP-RPT uiterlijk begin 2027 inzetten aan boord van het internationale ruimtestation ISS. Het model gaat draaien op de Spaceborne ...",
+    "title": "Van ruimtestation naar bedrijfsleven: SAP en HPE testen AI ..."
+   },
    "news.sap.com/brazil/2026/10/bemol-acelera-acesso-a-dados-em-tempo-real-e-fortalece-estrategia-de-ia-com-sap-business-data-cloud": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -8768,6 +8777,15 @@
     "page": 1,
     "summary": "Maintenance engineers in server room. SAP. Italia 800 789 088. Oppure consulta l'elenco completo dei nostri recapiti \u00b7 Contatta SAP Italia ...",
     "title": "Maintenance engineers in server room"
+   },
+   "news.sap.com/italy/2026/10/sap-commerce-cloud-e-vercel-un-percorso-piu-rapido-per-risultati-migliori": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-29T22:07:33Z",
+    "link": "https://news.sap.com/italy/2026/10/sap-commerce-cloud-e-vercel-un-percorso-piu-rapido-per-risultati-migliori/",
+    "page": 2,
+    "summary": "La nostra partnership con SAP Commerce Cloud combina la tecnologia web di Vercel, che offre prestazioni di elevato livello, cicli di sviluppo pi\u00f9 rapidi e una ...",
+    "title": "SAP Commerce Cloud e Vercel: un percorso pi\u00f9 rapido per ..."
    },
    "news.sap.com/italy/2026/10/sap-potenzia-gli-sviluppatori-di-ai-per-costruire-cio-che-conta-e-trasformare-lintenzione-in-esecuzione-autonoma": {
     "baseline": false,
