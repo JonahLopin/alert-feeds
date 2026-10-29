@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22898,
+  "credits_used": 22946,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T22:07:33Z",
+  "last_run": "2026-10-29T23:07:17Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 462
+  "runs": 463
  },
  "feeds": {
   "adp-help": {
@@ -1912,6 +1912,15 @@
     "summary": "A Florida Bar exam penalty for legal experience \u2014 forcing veteran lawyers to pay more than three times what recent law school graduates pay to sit for the ...",
     "title": "Florida Bar Exam Fees for Veteran Lawyers Ruled ..."
    },
+   "news.bloomberglaw.com/business-and-practice/florida-easements-legal-fee-shifting-pacts-ruled-unenforceable": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-29T23:07:17Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/florida-easements-legal-fee-shifting-pacts-ruled-unenforceable",
+    "page": 1,
+    "summary": "Property easements and deeds can't bind the future owners to pay the legal fees of those who challenge access based on that easement, the Florida Supreme ...",
+    "title": "Florida Easements' Legal Fee-shifting Pacts Ruled ..."
+   },
    "news.bloomberglaw.com/business-and-practice/florida-gets-pause-on-teen-social-media-age-restrictions-lifted": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -2719,6 +2728,15 @@
     "page": 1,
     "summary": "Eddie Frastai joined King & Spalding as a partner in its real estate & funds practice group in New York, the firm announced Monday.",
     "title": "King & Spalding Recruits Clifford Chance's Frastai in New ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/kirkland-cravath-guide-7-6-billion-thrive-holdings-adt-buy": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T23:07:17Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kirkland-cravath-guide-7-6-billion-thrive-holdings-adt-buy",
+    "page": 2,
+    "summary": "Cravath, Swaine & Moore and Kirkland & Ellis guided the $7.6 billion all-cash deal for an offshoot of Joshua Kushner's Thrive Capital Management to buy home ...",
+    "title": "Kirkland, Cravath Guide $7.6 Billion Thrive Holdings' ADT ..."
    },
    "news.bloomberglaw.com/business-and-practice/kirkland-hides-riches-as-big-law-clients-scrutinize-rising-costs": {
     "baseline": false,
@@ -12951,6 +12969,24 @@
     "page": 1,
     "summary": "The Standalone 3DS API allows you to run EMV 3D Secure (3DS) authentication using Stripe while authorizing the payment with any PSP. Related guide: Standalone ...",
     "title": "3DS Authentications | Stripe API Reference"
+   },
+   "docs.stripe.com/api/v2/money-management/payout-intents": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-29T23:07:17Z",
+    "link": "https://docs.stripe.com/api/v2/money-management/payout-intents",
+    "page": 2,
+    "summary": "PayoutIntent represents an intent to send funds from a Financial Account to a payout method. Learn more about calling API v2 endpoints. Was this section helpful ...",
+    "title": "Payout Intents v2 - Stripe API Reference"
+   },
+   "docs.stripe.com/api/v2/money-management/recipient-verifications": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-29T23:07:17Z",
+    "link": "https://docs.stripe.com/api/v2/money-management/recipient-verifications",
+    "page": 2,
+    "summary": "RecipientVerification represents a verification of recipient you intend to send funds to. Learn more about calling API v2 endpoints. Was this section helpful?",
+    "title": "Recipient Verifications | Stripe API Reference"
    },
    "docs.stripe.com/billing/subscriptions/manage-fraud": {
     "baseline": false,
