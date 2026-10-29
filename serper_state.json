@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22596,
+  "credits_used": 22647,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T16:09:03Z",
+  "last_run": "2026-10-29T17:07:21Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 456
+  "runs": 457
  },
  "feeds": {
   "adp-help": {
@@ -2774,6 +2774,15 @@
     "summary": "The Trump administration is canceling an environmental review of energy corridors that would accommodate solar and wind power transmission lines on public ...",
     "title": "Land Bureau Scraps Environmental Review of Solar, Wind ..."
    },
+   "news.bloomberglaw.com/business-and-practice/latham-cravath-cooley-aid-17-billion-doordash-instacart-deal": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T17:07:21Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/latham-cravath-cooley-aid-17-billion-doordash-instacart-deal",
+    "page": 1,
+    "summary": "Three Big Law firms guided delivery-app DoorDash Inc.'s $17 billion plan to purchase grocery-focused rival Instacart.",
+    "title": "Latham, Cravath, Cooley Aid $17 Billion DoorDash- ..."
+   },
    "news.bloomberglaw.com/business-and-practice/latham-watkins-lends-lawyer-funds-expertise-for-harvey-ai-tool": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -4868,6 +4877,15 @@
     "summary": "Weil Gotshal & Manges plans to wind down its operations, its leaders told partners on Wednesday, according to a source briefed on the decision.",
     "title": "Weil Gotshal to Wind Down in Stunning Fall for ..."
    },
+   "news.bloomberglaw.com/business-and-practice/weil-implosion-shows-lawyers-are-the-new-bankers-chris-bryant": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-29T17:07:21Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/weil-implosion-shows-lawyers-are-the-new-bankers-chris-bryant",
+    "page": 2,
+    "summary": "Weil Gotshal & Manges plans to wind down its operations, a staggering collapse for a nearly century-old law firm that was once a New York corporate powerhouse.",
+    "title": "Weil Implosion Shows Lawyers Are the New Bankers"
+   },
    "news.bloomberglaw.com/business-and-practice/weil-is-engaged-in-merger-talks-leadership-tells-partners": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -5719,6 +5737,15 @@
     "page": 1,
     "summary": "Today, DoorDash introduced Brand Center, a platform built for the marketing, supply chain, category, ecommerce, and national account teams to get a clearer view ...",
     "title": "DoorDash Introduces Brand Center: A Platform For Retailer ..."
+   },
+   "about.doordash.com/en-us/news/doordash-to-acquire-instacart": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-29T17:07:21Z",
+    "link": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+    "page": 1,
+    "summary": "The combined company will offer grocers and retailers of every size DoorDash's delivery network and Instacart's grocery and fulfillment technology, in both apps ...",
+    "title": "DoorDash to Acquire Instacart to Help Local Stores Win"
    },
    "about.doordash.com/en-us/news/multiple-grocery-partners": {
     "baseline": false,
@@ -8211,6 +8238,15 @@
     "summary": "Udforsk alle omr\u00e5der af SAP. Uddannelse og support. Uddannelse og certificering \u00b7 Support \u00b7 Dokumentation \u00b7 Community.",
     "title": "F_304302_GettyImages-1331794262_medium_jpg"
    },
+   "news.sap.com/finland/2026/10/sap-business-data-cloud-taloussuunnittelu-helsingin-yliopisto": {
+    "baseline": false,
+    "date_hint": "11 hours ago",
+    "first_seen": "2026-10-29T17:07:21Z",
+    "link": "https://news.sap.com/finland/2026/10/sap-business-data-cloud-taloussuunnittelu-helsingin-yliopisto/",
+    "page": 1,
+    "summary": "SAP Business Data Cloud uudisti Helsingin yliopiston taloussuunnittelun \u2013 parempi k\u00e4ytt\u00f6kokemus ja valmius teko\u00e4lylle. Lue lis\u00e4\u00e4.",
+    "title": "SAP Business Data Cloud taloussuunnittelu - SAP Suomi"
+   },
    "news.sap.com/finland/2026/10/sap-business-data-cloud-taloussuunnittelu-helsingin-yliopisto?amp=1": {
     "baseline": false,
     "date_hint": "10 hours ago",
@@ -9262,6 +9298,15 @@
     "page": 3,
     "summary": "Smiling entrepreneur in a modern office lobby holding a phone. SAP. Nederland 0800 020 0009. Voor technische support zijn we bereikbaar op 0800 0220683.",
     "title": "Smiling entrepreneur in a modern office lobby holding ..."
+   },
+   "news.sap.com/netherlands/2026/10/van-ruimtestation-naar-bedrijfsleven-sap-en-hpe-testen-ai-in-de-ruimte": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T17:07:21Z",
+    "link": "https://news.sap.com/netherlands/2026/10/van-ruimtestation-naar-bedrijfsleven-sap-en-hpe-testen-ai-in-de-ruimte/",
+    "page": 2,
+    "summary": "SAP wil zijn AI-model SAP-RPT uiterlijk begin 2027 inzetten aan boord van het internationale ruimtestation ISS. Het model gaat draaien op de Spaceborne ...",
+    "title": "Van ruimtestation naar bedrijfsleven: SAP en HPE testen AI ..."
    },
    "news.sap.com/netherlands/2026/10/van-ruimtestation-naar-bedrijfsleven-sap-en-hpe-testen-ai-in-de-ruimte?amp=1": {
     "baseline": false,
@@ -10415,6 +10460,15 @@
     "summary": "To set up barcode inventory management for your store, compare systems, scanners, software, and apps to cut errors and keep stock counts accurate.",
     "title": "Barcode Inventory Management: How It Works (2026)"
    },
+   "shopify.com/blog/best-barcode-scanners": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-29T17:07:21Z",
+    "link": "https://www.shopify.com/blog/best-barcode-scanners",
+    "page": 5,
+    "summary": "Find the best barcode scanners for your retail store. Compare top picks for POS, wireless, and mobile scanning with pros, cons, and pricing.",
+    "title": "Best Barcode Scanner for Shopify POS (2026)"
+   },
    "shopify.com/blog/best-dropshipping-apps": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -11194,6 +11248,15 @@
     "page": 2,
     "summary": "Unmatched payments can hide fraud and bookkeeping errors. See how payment reconciliation catches them and learn how to automate the process.",
     "title": "Payment Reconciliation: Types & Example (2026)"
+   },
+   "shopify.com/blog/pinterest-affiliate-marketing": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-29T17:07:21Z",
+    "link": "https://www.shopify.com/blog/pinterest-affiliate-marketing",
+    "page": 5,
+    "summary": "Learn Pinterest affiliate marketing rules, set-up steps, and earning expectations. Use affiliate links, product pins, and Shopify tools to drive sales.",
+    "title": "Pinterest Affiliate Marketing: Complete Guide (2026)"
    },
    "shopify.com/blog/plan-a-bfcm-campaign-that-runs-itself-with-rollouts": {
     "baseline": true,
@@ -12825,6 +12888,15 @@
     "page": 1,
     "summary": "View and filter sellers in the Stripe Dashboard and understand tax form filing and identity verification statuses.",
     "title": "Platform tax reporting dashboard (non-US)"
+   },
+   "docs.stripe.com/data/data-freshness": {
+    "baseline": false,
+    "date_hint": "17 hours ago",
+    "first_seen": "2026-10-29T17:07:21Z",
+    "link": "https://docs.stripe.com/data/data-freshness",
+    "page": 1,
+    "summary": "Understand data availability timelines, refresh intervals, and data load times for Sigma queries across all datasets.",
+    "title": "Sigma data freshness | Stripe Documentation"
    },
    "docs.stripe.com/data/write-queries": {
     "baseline": true,

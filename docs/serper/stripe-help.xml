@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-28T01:24:58Z</updated>
+  <updated>2026-10-29T17:07:21Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/data/data-freshness</id>
+    <title>Sigma data freshness | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/data/data-freshness" />
+    <published>2026-10-29T17:07:21Z</published>
+    <updated>2026-10-29T17:07:21Z</updated>
+    <summary>Understand data availability timelines, refresh intervals, and data load times for Sigma queries across all datasets.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/connect/connect-cross-border-payouts</id>
     <title>Connect cross-border payouts</title>
