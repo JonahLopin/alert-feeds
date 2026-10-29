@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 21840,
+  "credits_used": 21891,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T00:55:43Z",
+  "last_run": "2026-10-29T02:10:52Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 441
+  "runs": 442
  },
  "feeds": {
   "adp-help": {
@@ -5620,6 +5620,15 @@
     "page": 1,
     "summary": "Released as part of Hunger Action Month, new report shows how SNAP/EBT delivery helps families get nutritious food they need.",
     "title": "New Research Shows For SNAP/EBT Households Delivery ..."
+   },
+   "about.doordash.com/en-us/news/starbucks-and-doordash-launch-delivery-partnership-in-canada": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-29T02:10:52Z",
+    "link": "https://about.doordash.com/en-us/news/starbucks-and-doordash-launch-delivery-partnership-in-canada",
+    "page": 1,
+    "summary": "Starbucks Canada and DoorDash Canada announced a new partnership to offer on-demand delivery of Starbucks at participating locations.",
+    "title": "Starbucks and DoorDash Launch Delivery Partnership in ..."
    }
   },
   "edicom-blog": {
@@ -8678,6 +8687,15 @@
     "page": 2,
     "summary": "\uc0b0\uc5c5\uc6a9 \uc81c\uc870\uc5c5\uccb4 HARTING\uc740 \uc9c0\uc18d\uac00\ub2a5\uc131 \ub370\uc774\ud130\ub97c \uae30\uc874 \uc2dc\uc2a4\ud15c\uc5d0 \uc5f0\uacb0\ud574 \uc81c\ud488 \ud0c4\uc18c\ubc1c\uc790\uad6d \uacc4\uc0b0\uc744 \uc218\uc791\uc5c5\uc5d0\uc11c AI \uae30\ubc18 \ub9e4\ud551\uc73c\ub85c \ubc14\uafe8\uc2b5\ub2c8\ub2e4. \uba58\ub378\uc2a8\uc758 \ub9d0\ucc98\ub7fc \ubaa8\ub4e0 \uae30\ud6c4 \ubaa9\ud45c ...",
     "title": "AI\uc758 \ubbf8\ub798\ub294 \uc9c0\uc18d\uac00\ub2a5\uc131\uc5d0 \ub2ec\ub838\ub2e4 - SAP Korea \ub274\uc2a4\uc13c\ud130"
+   },
+   "news.sap.com/korea/2026/10/joule-work-%EC%A0%84%EB%A9%B4-%EC%B6%9C%EC%8B%9C-%EC%9E%90%EC%9C%A8%ED%98%95-%EA%B8%B0%EC%97%85%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%90%EB%8B%A4": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-29T02:10:52Z",
+    "link": "https://news.sap.com/korea/2026/10/joule-work-%EC%A0%84%EB%A9%B4-%EC%B6%9C%EC%8B%9C-%EC%9E%90%EC%9C%A8%ED%98%95-%EA%B8%B0%EC%97%85%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%90%EB%8B%A4/",
+    "page": 2,
+    "summary": "\ub9d0\uc774 \uc544\ub2c8\ub77c \ub208\uc55e\uc758 \uc2dc\uc5f0\uc73c\ub85c \ubcf4\uc5ec\uc900 \uc790\uc728\ud615 \uae30\uc5c5 \u00b7 Joule Work, \uc0ac\ub78c\uc774 SAP\ub97c \ubc30\uc6b0\ub358 \uc2dc\ub300\uc758 \ub05d \u00b7 \ud655\ub960\uc774 \uc544\ub2cc '\uc815\ub2f5'\uc774 \ud544\uc694\ud55c \uc5c5\ubb34\ub97c \uc704\ud55c SAP Autonomous Suite.",
+    "title": "Joule Work \uc804\uba74 \ucd9c\uc2dc, \uc790\uc728\ud615 \uae30\uc5c5\uc774 \ud604\uc2e4\uc774 \ub410\ub2e4"
    },
    "news.sap.com/korea/2026/10/joule-work-%EC%A0%84%EB%A9%B4-%EC%B6%9C%EC%8B%9C-%EC%9E%90%EC%9C%A8%ED%98%95-%EA%B8%B0%EC%97%85%EC%9D%B4-%ED%98%84%EC%8B%A4%EC%9D%B4-%EB%90%90%EB%8B%A4/sapconnect26_mkr16504": {
     "baseline": false,
