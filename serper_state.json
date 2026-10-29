@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22546,
+  "credits_used": 22596,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T15:08:04Z",
+  "last_run": "2026-10-29T16:09:03Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 455
+  "runs": 456
  },
  "feeds": {
   "adp-help": {
@@ -2126,6 +2126,15 @@
     "page": 1,
     "summary": "Sebastian Kaplan, Ronald Minassian, and Ryan Vandernaald joined Gordon Rees Scully Mansukhani as partners in its Sacramento office, the firm announced.",
     "title": "GRSM Recruits Three Litigation Partners for Sacramento ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/hackers-expose-the-names-of-tens-of-thousands-of-dhs-employees": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T16:09:03Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/hackers-expose-the-names-of-tens-of-thousands-of-dhs-employees",
+    "page": 2,
+    "summary": "The identities of more than 40,000 Department of Homeland Security employees were exposed in a large-scale data breach on Wednesday.",
+    "title": "Hackers Expose the Names of Tens of Thousands of DHS ..."
    },
    "news.bloomberglaw.com/business-and-practice/hackers-sympathetic-to-russia-are-hitting-utilities-factories": {
     "baseline": false,
@@ -8202,6 +8211,15 @@
     "summary": "Udforsk alle omr\u00e5der af SAP. Uddannelse og support. Uddannelse og certificering \u00b7 Support \u00b7 Dokumentation \u00b7 Community.",
     "title": "F_304302_GettyImages-1331794262_medium_jpg"
    },
+   "news.sap.com/finland/2026/10/sap-business-data-cloud-taloussuunnittelu-helsingin-yliopisto?amp=1": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-10-29T16:09:03Z",
+    "link": "https://news.sap.com/finland/2026/10/sap-business-data-cloud-taloussuunnittelu-helsingin-yliopisto/?amp=1",
+    "page": 1,
+    "summary": "SAP Business Data Cloud uudisti Helsingin yliopiston taloussuunnittelun \u2013 parempi k\u00e4ytt\u00f6kokemus ja valmius teko\u00e4lylle. Lue lis\u00e4\u00e4.",
+    "title": "SAP Business Data Cloud taloussuunnittelu - SAP Suomi"
+   },
    "news.sap.com/finland/2026/10/sap-laajentaa-tekoalyalustaansa-uusilla-tyokaluilla-ja-agenteilla-seka-lahettaa-tekoalymallin-avaruuteen": {
     "baseline": false,
     "date_hint": "19 hours ago",
@@ -9244,6 +9262,15 @@
     "page": 3,
     "summary": "Smiling entrepreneur in a modern office lobby holding a phone. SAP. Nederland 0800 020 0009. Voor technische support zijn we bereikbaar op 0800 0220683.",
     "title": "Smiling entrepreneur in a modern office lobby holding ..."
+   },
+   "news.sap.com/netherlands/2026/10/van-ruimtestation-naar-bedrijfsleven-sap-en-hpe-testen-ai-in-de-ruimte?amp=1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-29T16:09:03Z",
+    "link": "https://news.sap.com/netherlands/2026/10/van-ruimtestation-naar-bedrijfsleven-sap-en-hpe-testen-ai-in-de-ruimte/?amp=1",
+    "page": 2,
+    "summary": "SAP wil zijn AI-model SAP-RPT uiterlijk begin 2027 inzetten aan boord van het internationale ruimtestation ISS. Het model gaat draaien op de Spaceborne ...",
+    "title": "Van ruimtestation naar bedrijfsleven: SAP en HPE testen AI ..."
    },
    "news.sap.com/norway/2026/10/sap-utvider-ai-plattform-med-nye-verktoy-og-agenter-og-sender-ai-modell-ut-i-rommet": {
     "baseline": false,
@@ -14252,6 +14279,15 @@
     "page": 2,
     "summary": "Wolters Kluwer Legal & Regulatory U.S. today announced the appointment of Ken Crutchfield as Vice President & General Manager of Legal Markets, effective ...",
     "title": "Wolters Kluwer Legal & Regulatory Names Ken Crutchfield ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-legalview-insights-finds-billing-rates-tell-only-part-of-the-legal-cost-story": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T16:09:03Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-legalview-insights-finds-billing-rates-tell-only-part-of-the-legal-cost-story",
+    "page": 1,
+    "summary": "Analysis of more than $230 billion in legal invoice data expands beyond rates to examine staffing and billing compliance.",
+    "title": "Wolters Kluwer LegalVIEW Insights finds billing rates tell ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-makes-libra-ai-capabilities-available-in-inview-legal-and-inview-tax": {
     "baseline": false,

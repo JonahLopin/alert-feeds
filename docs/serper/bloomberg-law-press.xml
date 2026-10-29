@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-29T15:08:04Z</updated>
+  <updated>2026-10-29T16:09:03Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/hackers-expose-the-names-of-tens-of-thousands-of-dhs-employees</id>
+    <title>Hackers Expose the Names of Tens of Thousands of DHS ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/hackers-expose-the-names-of-tens-of-thousands-of-dhs-employees" />
+    <published>2026-10-29T16:09:03Z</published>
+    <updated>2026-10-29T16:09:03Z</updated>
+    <summary>The identities of more than 40,000 Department of Homeland Security employees were exposed in a large-scale data breach on Wednesday.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/director-payne-sued-for-plagiarizing-holdovers-screenplay</id>
     <title>Director Payne Sued for Plagiarizing 'Holdovers' Screenplay</title>
@@ -795,13 +803,5 @@
     <published>2026-10-26T14:09:26Z</published>
     <updated>2026-10-26T14:09:26Z</updated>
     <summary>Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/california-privacy-agencys-top-regulator-joins-latham-watkins</id>
-    <title>California Privacy Agency's Top Regulator Joins Latham &amp; ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/california-privacy-agencys-top-regulator-joins-latham-watkins" />
-    <published>2026-10-26T14:09:26Z</published>
-    <updated>2026-10-26T14:09:26Z</updated>
-    <summary>Michael Macko, who built the enforcement team for California's one-of-a-kind privacy agency, has joined Latham &amp; Watkins' privacy and cyber practice.</summary>
   </entry>
 </feed>
