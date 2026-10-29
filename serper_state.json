@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 21993,
+  "credits_used": 22044,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T04:09:25Z",
+  "last_run": "2026-10-29T05:08:16Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 444
+  "runs": 445
  },
  "feeds": {
   "adp-help": {
@@ -11566,6 +11566,15 @@
     "page": 1,
     "summary": "Intermittent issues are not as disruptive as downtime. This simply means that our system has detected some level of degradation from the IRS system that may ...",
     "title": "About IRS intermittent issues - Sovos Docs"
+   },
+   "docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/transmit/transmit-to-the-irs/fix-xml-schema-validation-errors": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-29T05:08:16Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/transmit/transmit-to-the-irs/fix-xml-schema-validation-errors",
+    "page": 1,
+    "summary": "Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.",
+    "title": "Fix XML schema validation errors - Sovos Docs"
    },
    "docs.sovos.com/en/e-invoicing/indirect-tax-api/e-invoicing/documents-endpoints": {
     "baseline": false,
