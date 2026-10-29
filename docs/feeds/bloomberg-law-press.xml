@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-28T21:23:35Z</updated>
+  <updated>2026-10-29T00:20:36Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:2866675558591945354</id>
+    <title>Alabama's App-Store Age-Check Law Challenged as Unconstitutional - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/alabamas-app-store-age-check-law-challenged-as-unconstitutional" />
+    <published>2026-10-29T00:20:36Z</published>
+    <updated>2026-10-29T00:20:36Z</updated>
+    <summary>Alabama's new law requiring age verification and parental consent for all mobile-app store access and downloads came under fire Wednesday from a ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:2037704635096935046</id>
     <title>MSG Sports, Entertainment Giant Pays $11 Million to Four Lawyers - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-10-23T21:44:23Z</published>
     <updated>2026-10-23T21:44:23Z</updated>
     <summary>Vladimir Andric, Samuel Kim, Karim Manji, and Kara Wild joined Gordon Rees Scully Mansukhani as partners, the firm announced.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:84469612501214036</id>
-    <title>OpenAI to Train AI Models Without Internet After Cyber Incidents - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/openai-to-train-ai-models-without-internet-after-cyber-incidents" />
-    <published>2026-10-23T20:46:08Z</published>
-    <updated>2026-10-23T20:46:08Z</updated>
-    <summary>OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process in response to prior ...</summary>
   </entry>
 </feed>
