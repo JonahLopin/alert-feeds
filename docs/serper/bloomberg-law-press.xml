@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-28T23:42:55Z</updated>
+  <updated>2026-10-29T06:13:13Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/ted-cruz-probes-glass-lewis-iss-after-they-opposed-texas-moves</id>
+    <title>Ted Cruz Probes Glass Lewis, ISS After They Opposed ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/ted-cruz-probes-glass-lewis-iss-after-they-opposed-texas-moves" />
+    <published>2026-10-29T06:13:13Z</published>
+    <updated>2026-10-29T06:13:13Z</updated>
+    <summary>Senate Commerce Committee Chairman Ted Cruz is questioning whether investor recommendations by Glass Lewis &amp; Co. and Institutional Shareholder Services Inc.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/alabamas-app-store-age-check-law-challenged-as-unconstitutional</id>
     <title>Alabama's App-Store Age-Check Law Challenged as Unconstitutional</title>
@@ -795,13 +803,5 @@
     <published>2026-10-24T00:25:52Z</published>
     <updated>2026-10-24T00:25:52Z</updated>
     <summary>Crowell &amp; Moring partners rejected President Donald Trump's ex-top air regulator Aaron Szabo for a job because they took issue with his tenure in the ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/openai-to-train-ai-models-without-internet-after-cyber-incidents</id>
-    <title>OpenAI to Train AI Models Without Internet After Cyber ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/openai-to-train-ai-models-without-internet-after-cyber-incidents" />
-    <published>2026-10-23T22:09:32Z</published>
-    <updated>2026-10-23T22:09:32Z</updated>
-    <summary>OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process in response to prior incidents ...</summary>
   </entry>
 </feed>

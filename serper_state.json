@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22044,
+  "credits_used": 22096,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T05:08:16Z",
+  "last_run": "2026-10-29T06:13:13Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 445
+  "runs": 446
  },
  "feeds": {
   "adp-help": {
@@ -3967,6 +3967,15 @@
     "page": 1,
     "summary": "Tech Earnings Loom Large for Funds Packed Into Dispersion Trade Oct. 11, 2026, tech company earnings collide with a Federal Reserve meeting and US midterm ...",
     "title": "Tech Earnings Loom Large for Funds Packed Into ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/ted-cruz-probes-glass-lewis-iss-after-they-opposed-texas-moves": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-29T06:13:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ted-cruz-probes-glass-lewis-iss-after-they-opposed-texas-moves",
+    "page": 3,
+    "summary": "Senate Commerce Committee Chairman Ted Cruz is questioning whether investor recommendations by Glass Lewis & Co. and Institutional Shareholder Services Inc.",
+    "title": "Ted Cruz Probes Glass Lewis, ISS After They Opposed ..."
    },
    "news.bloomberglaw.com/business-and-practice/tesla-spacex-deal-news-possible-this-year-barclays-analyst-says": {
     "baseline": false,
@@ -9145,6 +9154,15 @@
     "page": 1,
     "summary": "In-person event | October 27-29. Messe Berlin Berlin, Germany. Aerial View of the TV tower, Berlin town hall and Cathedral at dusk ...",
     "title": "SAP TechEd: 2026 Media & Analyst Program"
+   },
+   "news.sap.com/sea/2026/10/journal-corp-crafts-its-next-chapter-of-growth-with-sap-grow": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-29T06:13:13Z",
+    "link": "https://news.sap.com/sea/2026/10/journal-corp-crafts-its-next-chapter-of-growth-with-sap-grow/",
+    "page": 1,
+    "summary": "Founded in Chiang Mai in 2017, JOURNAL has built a strong presence in Thailand's lifestyle and personal care market through its distinctive fragrance products ...",
+    "title": "JOURNAL Corp. Crafts Its Next Chapter of Growth with ..."
    },
    "news.sap.com/sea/2026/10/sap-showcases-q3-customers-as-organizations-across-asia-pacific-embrace-the-autonomous-enterprise": {
     "baseline": false,

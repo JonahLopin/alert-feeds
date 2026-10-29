@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com)</title>
-  <updated>2026-10-27T21:08:17Z</updated>
+  <updated>2026-10-29T06:14:17Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sovos-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:18164961061220839085</id>
+    <title>Fix XML schema validation errors - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/transmit/transmit-to-the-irs/fix-xml-schema-validation-errors" />
+    <published>2026-10-29T06:14:17Z</published>
+    <updated>2026-10-29T06:14:17Z</updated>
+    <summary>Fix XML schema validation errors · Go to the File Manager page and select two files: the XML transmittal file and the text file ending in ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:4598948941378886327</id>
     <title>Synchronous and asynchronous transactions - Sovos Docs</title>
