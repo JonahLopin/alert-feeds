@@ -2804,6 +2804,12 @@
  "grubhub-help": {},
  "grubhub-press": {},
  "gusto-press": {
+  "tag:google.com,2013:googlealerts/feed:14202390616956007929": {
+   "first_seen": "2026-10-29T19:42:55Z",
+   "link": "https://gusto.com/company-news/dream-small",
+   "summary": "There's a version of the American success story that's been repeated so often it's treated as fact: dream big, climb the corporate ladder, ...",
+   "title": "Dream Small: Because there's nothing small about small business | Gusto"
+  },
   "tag:google.com,2013:googlealerts/feed:15285347956420477698": {
    "first_seen": "2026-10-09T03:42:38Z",
    "link": "https://gusto.com/company-news/introducing-the-new-gusto-pro",
@@ -3877,11 +3883,23 @@
    "summary": "Simulate OutboundPayment state changes with the /v1/test_helpers/treasury/outbound_payments endpoints. These methods can only be called on test mode ...",
    "title": "Outbound Payments | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:11910439289380234198": {
+   "first_seen": "2026-10-29T19:42:55Z",
+   "link": "https://docs.stripe.com/workload-identity-federation/aws",
+   "summary": "Enable outbound identity federation and configure an IAM role with the AWS Management Console, the AWS CLI, or Terraform, create a matching ...",
+   "title": "Workload Identity Federation with AWS | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:1193763513144688692": {
    "first_seen": "2026-10-27T22:42:43Z",
    "link": "https://docs.stripe.com/issuing/agents/mcp",
    "summary": "Connect an AI agent to Stripe MCP to create Issuing cardholders and physical or virtual cards with the permissions you choose.",
    "title": "Manage Issuing cards with AI agents | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:12067086366711148850": {
+   "first_seen": "2026-10-29T19:42:55Z",
+   "link": "https://docs.stripe.com/connect/cross-border-payouts-to-recipients/compare-global-payouts",
+   "summary": "Global Payouts: Send payouts directly from your platform's financial account to recipients' external bank accounts, debit cards, or crypto wallets.",
+   "title": "Understand differences between Global Payouts and Connect cross-border"
   },
   "tag:google.com,2013:googlealerts/feed:12263656120145640542": {
    "first_seen": "2026-10-09T11:10:19Z",
@@ -3949,11 +3967,23 @@
    "summary": "The money transfers instantly. To learn where this is available, see Availability. Send an instant transfer. To send money to another business's ...",
    "title": "Instant transfers | Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:14054889552386650048": {
+   "first_seen": "2026-10-29T19:42:55Z",
+   "link": "https://docs.stripe.com/tax/subscription-schedules/automatic-tax-default",
+   "summary": "Use the subscriptions Tax integration configuration default for subscription schedules and inspect tax enablement for each phase.",
+   "title": "Enable tax by default for subscription schedules - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:14363745968815405379": {
    "first_seen": "2026-10-15T10:47:01Z",
    "link": "https://docs.stripe.com/api/v2/data/analytics/metric-query-results?api-version=2026-07-29.preview",
    "summary": "The result of a metric query. Learn more about calling API v2 endpoints. Was this section helpful?YesNo.",
    "title": "Metric Query Results | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:14371094541780465897": {
+   "first_seen": "2026-10-29T19:42:55Z",
+   "link": "https://docs.stripe.com/workload-identity-federation/google-cloud",
+   "summary": "Create a Google Cloud service account with the Google Cloud console, the gcloud CLI, or Terraform, create a matching service principal in Stripe, ...",
+   "title": "Workload Identity Federation with Google Cloud | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:14457789205863563794": {
    "first_seen": "2026-10-16T22:44:10Z",
@@ -4051,6 +4081,12 @@
    "summary": "Create a Checkout Session that collects payment and adds prepaid commits to an existing Metronome contract after a payment succeeds.",
    "title": "Sell prepaid usage credits with Checkout - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:16529205696537251733": {
+   "first_seen": "2026-10-29T19:42:55Z",
+   "link": "https://docs.stripe.com/stripe-apps/in-app-analytics",
+   "summary": "Allow an analytics or error monitoring service in your app manifest, then track onboarding progress, route transitions, errors, and blocked ...",
+   "title": "In-app analytics and error monitoring | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:16670148899943601293": {
    "first_seen": "2026-10-19T22:44:10Z",
    "link": "https://docs.stripe.com/agentic-commerce/sellers/use-cases/retail/checkout",
@@ -4062,6 +4098,12 @@
    "link": "https://docs.stripe.com/data/data-pipeline/real-time-sync-to-postgres/schema",
    "summary": "Explore the Stripe API tables, columns, and Postgres data types available through Data Pipeline real-time sync.",
    "title": "Real-time sync schema | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:16934094586706022970": {
+   "first_seen": "2026-10-29T19:42:55Z",
+   "link": "https://docs.stripe.com/tax/invoicing/automatic-tax-default",
+   "summary": "Use the tax integration configuration API to enable automatic tax on standalone invoices and understand when conflicting parameters disable it.",
+   "title": "Enable tax by default for invoices | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:17624767214187221706": {
    "first_seen": "2026-10-12T11:36:05Z",
@@ -4080,6 +4122,12 @@
    "link": "https://docs.stripe.com/api/coupons/object?api-version=2026-09-30.preview",
    "summary": "idstring. Unique identifier for the object. \u00b7 amount_offnullable integer. Amount (in the currency specified) that will be taken off the subtotal of any ...",
    "title": "The Coupon object | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:18131888084454230377": {
+   "first_seen": "2026-10-29T19:42:55Z",
+   "link": "https://docs.stripe.com/reports/report-types/financial-accounts",
+   "summary": "Use Financial account reports to analyze activity that impacts your financial account balance and view data related to your payments activity.",
+   "title": "Financial account report type | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:18392163744034660140": {
    "first_seen": "2026-10-20T22:44:24Z",
@@ -4152,6 +4200,12 @@
    "link": "https://docs.stripe.com/api/radar/reviews/object?api-version=2026-09-30.preview",
    "summary": "ip_address_location.countrynullable string. Two-letter ISO code representing the country where the payment originated.",
    "title": "The Review object | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:3681600417212081977": {
+   "first_seen": "2026-10-29T19:42:55Z",
+   "link": "https://docs.stripe.com/payments/qris/accept-a-payment",
+   "summary": "To pay with QRIS, customers authenticate and approve payments by scanning a QR code in their preferred digital wallet or banking app. Determine ...",
+   "title": "QRIS Payments | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:3860128045443675112": {
    "first_seen": "2026-10-09T11:10:19Z",
@@ -4285,11 +4339,23 @@
    "summary": "Stripe needs to collect certain pieces of information about each account created. These requirements can differ depending on the account's country.",
    "title": "Country Specs | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:9476045716878680636": {
+   "first_seen": "2026-10-29T19:42:55Z",
+   "link": "https://docs.stripe.com/payments/qris",
+   "summary": "Quick Response Code Indonesian Standard (QRIS) is a real-time payment system developed by Bank Indonesia. Customers pay by scanning a QR code and ...",
+   "title": "QRIS payments | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:9850902256530377436": {
    "first_seen": "2026-10-20T22:44:24Z",
    "link": "https://docs.stripe.com/api/issuing/transactions/object?api-version=2026-09-30.preview",
    "summary": "network_data.transaction_idnullable string. Unique identifier for the authorization assigned by the card network used to match subsequent messages, ...",
    "title": "The Transaction object | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:9873323962846185244": {
+   "first_seen": "2026-10-29T19:42:55Z",
+   "link": "https://docs.stripe.com/tax/subscriptions/automatic-tax-default",
+   "summary": "Use the Tax integration configuration API to enable automatic tax on subscriptions and understand how later updates affect tax collection.",
+   "title": "Enable tax by default for subscriptions - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:9904860476252276244": {
    "first_seen": "2026-10-20T22:44:24Z",

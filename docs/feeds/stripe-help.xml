@@ -2,8 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-28T04:42:53Z</updated>
+  <updated>2026-10-29T19:42:55Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:9873323962846185244</id>
+    <title>Enable tax by default for subscriptions - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/tax/subscriptions/automatic-tax-default" />
+    <published>2026-10-29T19:42:55Z</published>
+    <updated>2026-10-29T19:42:55Z</updated>
+    <summary>Use the Tax integration configuration API to enable automatic tax on subscriptions and understand how later updates affect tax collection.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:9476045716878680636</id>
+    <title>QRIS payments | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/qris" />
+    <published>2026-10-29T19:42:55Z</published>
+    <updated>2026-10-29T19:42:55Z</updated>
+    <summary>Quick Response Code Indonesian Standard (QRIS) is a real-time payment system developed by Bank Indonesia. Customers pay by scanning a QR code and ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:3681600417212081977</id>
+    <title>QRIS Payments | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/qris/accept-a-payment" />
+    <published>2026-10-29T19:42:55Z</published>
+    <updated>2026-10-29T19:42:55Z</updated>
+    <summary>To pay with QRIS, customers authenticate and approve payments by scanning a QR code in their preferred digital wallet or banking app. Determine ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:18131888084454230377</id>
+    <title>Financial account report type | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/reports/report-types/financial-accounts" />
+    <published>2026-10-29T19:42:55Z</published>
+    <updated>2026-10-29T19:42:55Z</updated>
+    <summary>Use Financial account reports to analyze activity that impacts your financial account balance and view data related to your payments activity.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:16934094586706022970</id>
+    <title>Enable tax by default for invoices | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/tax/invoicing/automatic-tax-default" />
+    <published>2026-10-29T19:42:55Z</published>
+    <updated>2026-10-29T19:42:55Z</updated>
+    <summary>Use the tax integration configuration API to enable automatic tax on standalone invoices and understand when conflicting parameters disable it.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:16529205696537251733</id>
+    <title>In-app analytics and error monitoring | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/stripe-apps/in-app-analytics" />
+    <published>2026-10-29T19:42:55Z</published>
+    <updated>2026-10-29T19:42:55Z</updated>
+    <summary>Allow an analytics or error monitoring service in your app manifest, then track onboarding progress, route transitions, errors, and blocked ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14371094541780465897</id>
+    <title>Workload Identity Federation with Google Cloud | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/workload-identity-federation/google-cloud" />
+    <published>2026-10-29T19:42:55Z</published>
+    <updated>2026-10-29T19:42:55Z</updated>
+    <summary>Create a Google Cloud service account with the Google Cloud console, the gcloud CLI, or Terraform, create a matching service principal in Stripe, ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14054889552386650048</id>
+    <title>Enable tax by default for subscription schedules - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/tax/subscription-schedules/automatic-tax-default" />
+    <published>2026-10-29T19:42:55Z</published>
+    <updated>2026-10-29T19:42:55Z</updated>
+    <summary>Use the subscriptions Tax integration configuration default for subscription schedules and inspect tax enablement for each phase.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12067086366711148850</id>
+    <title>Understand differences between Global Payouts and Connect cross-border</title>
+    <link href="https://docs.stripe.com/connect/cross-border-payouts-to-recipients/compare-global-payouts" />
+    <published>2026-10-29T19:42:55Z</published>
+    <updated>2026-10-29T19:42:55Z</updated>
+    <summary>Global Payouts: Send payouts directly from your platform's financial account to recipients' external bank accounts, debit cards, or crypto wallets.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:11910439289380234198</id>
+    <title>Workload Identity Federation with AWS | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/workload-identity-federation/aws" />
+    <published>2026-10-29T19:42:55Z</published>
+    <updated>2026-10-29T19:42:55Z</updated>
+    <summary>Enable outbound identity federation and configure an IAM role with the AWS Management Console, the AWS CLI, or Terraform, create a matching ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:7966775261228888181</id>
     <title>Connect cross-border payouts | Stripe Documentation</title>
