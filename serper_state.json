@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22397,
+  "credits_used": 22447,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T12:11:47Z",
+  "last_run": "2026-10-29T13:08:14Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 452
+  "runs": 453
  },
  "feeds": {
   "adp-help": {
@@ -5341,6 +5341,15 @@
     "page": 1,
     "summary": "1. Plan Your Holiday Inventory Early 2. Build a Black Friday Marketing Strategy That Fits a Local Store 3. Run Holiday Promotions That Protect Your Margins",
     "title": "How to Increase Holiday Sales: 10 Strategies for Retail ..."
+   },
+   "merchants.doordash.com/en-us/blog/marketing-kpis-for-restaurants": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-29T13:08:14Z",
+    "link": "https://merchants.doordash.com/en-us/blog/marketing-kpis-for-restaurants",
+    "page": 3,
+    "summary": "Track the 8 marketing KPIs that show whether your restaurant's marketing is actually driving orders, repeat customers, and revenue \u2014 not just likes and ...",
+    "title": "Marketing KPIs for Restaurants: 8 Metrics That Drive ..."
    },
    "merchants.doordash.com/en-us/blog/menu-food-descriptions": {
     "baseline": false,
@@ -12250,6 +12259,15 @@
     "summary": "Use the Include in Sales and Apply Taxes checkboxes to configure if the combined surcharge will be included in the sale and how taxes are applied. Use the ...",
     "title": "Create a Combined Surcharge |SpotOn Restaurant Back of ..."
    },
+   "help.spoton.com/space/SK/4290576385/Loyalty+Setup+Guide+SpotOn+Dashboard": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-29T13:08:14Z",
+    "link": "https://help.spoton.com/space/SK/4290576385/Loyalty+Setup+Guide+SpotOn+Dashboard",
+    "page": 1,
+    "summary": "This quick guide will walk you through customizing your point system, creating exciting rewards, and sharing sign-up links",
+    "title": "Loyalty Setup Guide | SpotOn Dashboard"
+   },
    "help.spoton.com/space/SK/4292608001": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -14171,6 +14189,15 @@
     "page": 2,
     "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting; ...",
     "title": "Compliance Solutions is recognized for its leadership in ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-northface-scoreboard-award-15th-year": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-29T13:08:14Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-northface-scoreboard-award-15th-year",
+    "page": 1,
+    "summary": "Wolters Kluwer earned the NorthFace ScoreBoard Service Award for the 15th consecutive year, a 4.8/5 ScoreBoard Index rating.",
+    "title": "Wolters Kluwer customer support earns NorthFace ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-partners-with-inscope-to-launch-agentic-financial-statement": {
     "baseline": false,
