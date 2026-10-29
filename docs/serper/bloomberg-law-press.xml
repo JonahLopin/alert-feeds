@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-29T19:06:49Z</updated>
+  <updated>2026-10-29T20:08:02Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/crypto-firm-htx-exits-uk-after-settling-lawsuit-with-fca</id>
+    <title>Crypto Firm HTX Exits UK After Settling Lawsuit With FCA</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/crypto-firm-htx-exits-uk-after-settling-lawsuit-with-fca" />
+    <published>2026-10-29T20:08:02Z</published>
+    <updated>2026-10-29T20:08:02Z</updated>
+    <summary>Cryptocurrency firm HTX is no longer active in the UK and can no longer promote cryptoasset services following a settlement with the British financial ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/warren-curtis-press-kalshi-polymarket-on-election-wagers</id>
     <title>Warren, Curtis Press Kalshi, Polymarket on Election Wagers</title>
@@ -795,13 +803,5 @@
     <published>2026-10-26T17:09:42Z</published>
     <updated>2026-10-26T17:09:42Z</updated>
     <summary>Deaconess Health System has settled a proposed class action alleging the Illinois-based health care provider disclosed patient data to Meta Platforms Inc.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/winston-taylor-brings-on-corporate-m-a-partner-mestre-in-dallas</id>
-    <title>Winston Taylor Brings On Corporate M&amp;A Partner Mestre in ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/winston-taylor-brings-on-corporate-m-a-partner-mestre-in-dallas" />
-    <published>2026-10-26T16:13:45Z</published>
-    <updated>2026-10-26T16:13:45Z</updated>
-    <summary>Mestre advises public and private companies on complex domestic and cross-border M&amp;A transactions, guiding buyers and sellers through every stage of the deal ...</summary>
   </entry>
 </feed>

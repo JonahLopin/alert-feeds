@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22748,
+  "credits_used": 22798,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T19:06:49Z",
+  "last_run": "2026-10-29T20:08:02Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 459
+  "runs": 460
  },
  "feeds": {
   "adp-help": {
@@ -1185,6 +1185,15 @@
     "page": 4,
     "summary": "Sherrod Brown is one of several crypto critics who could play a key role on committees following the midterm elections. Photographer: Dustin Franz/Bloomberg.",
     "title": "Crypto Braces for Hostile Climate as Democrats Vie for Top ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/crypto-firm-htx-exits-uk-after-settling-lawsuit-with-fca": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-10-29T20:08:02Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/crypto-firm-htx-exits-uk-after-settling-lawsuit-with-fca",
+    "page": 2,
+    "summary": "Cryptocurrency firm HTX is no longer active in the UK and can no longer promote cryptoasset services following a settlement with the British financial ...",
+    "title": "Crypto Firm HTX Exits UK After Settling Lawsuit With FCA"
    },
    "news.bloomberglaw.com/business-and-practice/crypto-fraudster-fund-owe-cftc-penalty-over-249-million-scheme": {
     "baseline": false,
@@ -5200,6 +5209,15 @@
     "page": 1,
     "summary": "A self-ordering kiosk is either reading its menu live from your point-of-sale system, or it's keeping a separate copy of that menu somewhere else \u2014 one that a ...",
     "title": "Standalone Kiosk or POS-Integrated? How to Decide"
+   },
+   "chowbus.com/blog/switch-to-cloud-point-of-sale-system-without-losing-weekend": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-10-29T20:08:02Z",
+    "link": "https://www.chowbus.com/blog/switch-to-cloud-point-of-sale-system-without-losing-weekend",
+    "page": 1,
+    "summary": "A thirty-day countdown for switching to a cloud POS: contracts, data export, menu rebuild, gift cards, training, and a weeknight cutover before the first ...",
+    "title": "Switch to a Cloud Point of Sale System on a Quiet ..."
    }
   },
   "chownow-blog": {
@@ -7285,6 +7303,15 @@
     "page": 1,
     "summary": "Searching local payroll taxes? Follow this quick guide in QuickBooks Online Payroll \u2014 so everything reconciles cleanly. Clear, step-by-step instructions.",
     "title": "Set up local taxes in \u200bQuickBooks Online Payroll\u200b - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/taxpayer-identification-numbers/ssn-vs-itin/L5s3l7Nhh_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-29T20:08:02Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/taxpayer-identification-numbers/ssn-vs-itin/L5s3l7Nhh_US_en_US",
+    "page": 1,
+    "summary": "Employees must have a valid SSN for payroll You're required to collect each employee's name and Social Security number. This info goes on your employees' W-2s",
+    "title": "Understand the difference between a Social Security number ..."
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/time-tracking/override-employee-salary-online-payroll/L6DPVk80p_US_en_US": {
     "baseline": true,
