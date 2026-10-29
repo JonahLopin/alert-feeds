@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22298,
+  "credits_used": 22347,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T10:07:43Z",
+  "last_run": "2026-10-29T11:07:01Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 450
+  "runs": 451
  },
  "feeds": {
   "adp-help": {
@@ -2217,6 +2217,15 @@
     "summary": "Hospital Sisters Health System has reached a settlement of a proposed class action alleging it required job applicants to disclose their family medical ...",
     "title": "Hospital Sisters Health Reaches Deal in Genetic Privacy Suit"
    },
+   "news.bloomberglaw.com/business-and-practice/how-ai-is-making-cyberattacks-a-bigger-threat-explainer": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-29T11:07:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/how-ai-is-making-cyberattacks-a-bigger-threat-explainer",
+    "page": 1,
+    "summary": "AI models from Anthropic, OpenAI , Meta Platforms Inc. and others are increasingly able to discover serious cybersecurity vulnerabilities. The problem is that ...",
+    "title": "How AI Is Making Cyberattacks a Bigger Threat: Explainer"
+   },
    "news.bloomberglaw.com/business-and-practice/how-big-techs-ai-race-fueled-a-borrowing-boom-explainer": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -2548,6 +2557,15 @@
     "page": 4,
     "summary": "A federal appeals court heard oral arguments in a dispute over Department of Health and Human Services funding for legal aid for migrant children. Photographer: ...",
     "title": "Judges Ponder Jurisdiction in Migrant Child Legal Aid ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/judges-shouldnt-be-shy-about-sanctioning-rogue-doj-attorneys": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-29T11:07:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/judges-shouldnt-be-shy-about-sanctioning-rogue-doj-attorneys",
+    "page": 1,
+    "summary": "Federal judges must start sanctioning US Justice Department attorneys who mislead the courts, ignore court orders, or file complaints without a factual ...",
+    "title": "Judges Shouldn't Be Shy About Sanctioning Rogue DOJ ..."
    },
    "news.bloomberglaw.com/business-and-practice/jump-drw-bet-on-new-compute-market-as-ai-boom-faces-scrutiny": {
     "baseline": false,
@@ -3528,6 +3546,15 @@
     "page": 3,
     "summary": "Thoma Bravo-backed Proofpoint Inc. agreed to buy cybersecurity company Varonis Systems Inc. for about $6.3 billion.",
     "title": "Proofpoint to Buy Varonis for $6.3 Billion as Tech M&A ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/rays-brewers-world-series-posed-unusual-foley-lardner-conflict": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T11:07:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/rays-brewers-world-series-posed-unusual-foley-lardner-conflict",
+    "page": 2,
+    "summary": "The Milwaukee Brewers and Tampa Bay Rays matchup in the World Series forced partners at Foley & Lardner to choose between two clients. The law firm helped keep ...",
+    "title": "Rays-Brewers World Series Posed Unusual Foley & ..."
    },
    "news.bloomberglaw.com/business-and-practice/rbc-to-block-ai-agents-calling-out-unacceptable-client-risk": {
     "baseline": false,
@@ -5011,6 +5038,15 @@
     "link": "https://www.chowbus.com/blog/how-restaurants-prevent-order-errors-during-the-friday-night-rush",
     "summary": "A restaurant can serve dine-in guests, accept website pickup orders, receive marketplace deliveries, and redeem loyalty rewards during the same dinner rush.",
     "title": "How Restaurants Prevent Order Errors During the Friday ..."
+   },
+   "chowbus.com/blog/ipad-pos-software-hot-pot-ayce": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-10-29T11:07:01Z",
+    "link": "https://www.chowbus.com/blog/ipad-pos-software-hot-pot-ayce",
+    "page": 1,
+    "summary": "Follow one hot pot table from seating to split check to see what iPad POS software needs for package pricing, round limits, timers, and multilingual menus.",
+    "title": "iPad POS Software for Hot Pot and AYCE: Why One-Order ..."
    },
    "chowbus.com/blog/loyalty-program-for-small-business": {
     "baseline": false,
