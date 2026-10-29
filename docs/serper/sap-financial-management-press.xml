@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-29T09:09:02Z</updated>
+  <updated>2026-10-29T10:07:43Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/2026/10/prozesstransformation-mit-ki/?amp=1</id>
+    <title>Autonome Unternehmen: Effektive KI-Integration im Fokus</title>
+    <link href="https://news.sap.com/germany/2026/10/prozesstransformation-mit-ki/?amp=1" />
+    <published>2026-10-29T10:07:43Z</published>
+    <updated>2026-10-29T10:07:43Z</updated>
+    <summary>Erfahren Sie mehr über die Rolle von KI für autonome Unternehmen und wie SAP-Plattformen zur zukunftsorientierten Transformation beitragen.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/japan/2026/10/1029_sap-a-leader-idc-marketscape-worldwide-agentic-marketing-b2c-enterprises/?amp=1</id>
     <title>SAP、「IDC MarketScape：B2C企業向けエージェンティック ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-22T08:55:37Z</published>
     <updated>2026-10-22T08:55:37Z</updated>
     <summary>SAP SEは2026年9月30日に終了した2026年度第3四半期の業績を発表しました。 WALLDORF — SAP SE (NYSE: SAP) today announced its financial results for the third ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/germany/2026/10/ki-agenten-sap-und-nvidia-openshell/</id>
-    <title>NVIDIA und SAP: Zusammenarbeit für sichere KI</title>
-    <link href="https://news.sap.com/germany/2026/10/ki-agenten-sap-und-nvidia-openshell/" />
-    <published>2026-10-22T08:55:37Z</published>
-    <updated>2026-10-22T08:55:37Z</updated>
-    <summary>Entdecken Sie die Partnerschaft von NVIDIA und SAP zur Förderung sicherer, kontrollierbarer KI-Agenten für Unternehmen.</summary>
   </entry>
 </feed>

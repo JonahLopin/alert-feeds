@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22247,
+  "credits_used": 22298,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T09:09:02Z",
+  "last_run": "2026-10-29T10:07:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 449
+  "runs": 450
  },
  "feeds": {
   "adp-help": {
@@ -8279,6 +8279,15 @@
     "date_hint": "2 hours ago",
     "first_seen": "2026-10-29T09:09:02Z",
     "link": "https://news.sap.com/germany/2026/10/prozesstransformation-mit-ki/",
+    "page": 1,
+    "summary": "Erfahren Sie mehr \u00fcber die Rolle von KI f\u00fcr autonome Unternehmen und wie SAP-Plattformen zur zukunftsorientierten Transformation beitragen.",
+    "title": "Autonome Unternehmen: Effektive KI-Integration im Fokus"
+   },
+   "news.sap.com/germany/2026/10/prozesstransformation-mit-ki?amp=1": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-29T10:07:43Z",
+    "link": "https://news.sap.com/germany/2026/10/prozesstransformation-mit-ki/?amp=1",
     "page": 1,
     "summary": "Erfahren Sie mehr \u00fcber die Rolle von KI f\u00fcr autonome Unternehmen und wie SAP-Plattformen zur zukunftsorientierten Transformation beitragen.",
     "title": "Autonome Unternehmen: Effektive KI-Integration im Fokus"
