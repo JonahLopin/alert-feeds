@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-29T12:11:47Z</updated>
+  <updated>2026-10-29T14:08:38Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/spain/2026/10/sap-y-ntt-colaboraran-para-ofrecer-capacidades-de-nube-soberana-de-confianza-y-de-sap-business-ai/</id>
+    <title>SAP y NTT colaborarán para ofrecer capacidades de nube ...</title>
+    <link href="https://news.sap.com/spain/2026/10/sap-y-ntt-colaboraran-para-ofrecer-capacidades-de-nube-soberana-de-confianza-y-de-sap-business-ai/" />
+    <published>2026-10-29T14:08:38Z</published>
+    <updated>2026-10-29T14:08:38Z</updated>
+    <summary>El acuerdo refleja la ambición compartida de SAP y NTT de impulsar una transformación digital segura, resiliente y soberana para los sectores regulados.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/2026/10/sap-lakehouse-new-data-fabric-innovations-sap-bdc-autonomous-enterprise/</id>
     <title>Lakehouse and Data Fabric Innovations in SAP BDC</title>
@@ -795,13 +803,5 @@
     <published>2026-10-22T10:09:55Z</published>
     <updated>2026-10-22T10:09:55Z</updated>
     <summary>Entdecken Sie die Partnerschaft von NVIDIA und SAP zur Förderung sicherer, kontrollierbarer KI-Agenten für Unternehmen.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/japan/2026/10/30349/</id>
-    <title>ヤマハ株式会社：SAP Business AI Platform を活用して</title>
-    <link href="https://news.sap.com/japan/2026/10/30349/" />
-    <published>2026-10-22T08:55:37Z</published>
-    <updated>2026-10-22T08:55:37Z</updated>
-    <summary>世界最大級の総合楽器メーカーとして、グローバルでビジネスを展開するヤマハ株式会社。SAP Cloud ERP Private を中核としたグローバル ERP 基盤の刷新を推進する同社 ...</summary>
   </entry>
 </feed>

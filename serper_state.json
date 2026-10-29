@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22447,
+  "credits_used": 22495,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T13:08:14Z",
+  "last_run": "2026-10-29T14:08:38Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 453
+  "runs": 454
  },
  "feeds": {
   "adp-help": {
@@ -1482,6 +1482,15 @@
     "summary": "A panel of appeals court judges on Friday questioned Trump administration lawyers on what requirements, if any, Congress could impose on the preservation of ...",
     "title": "DOJ Challenges Legality of Presidential Records Act on ..."
    },
+   "news.bloomberglaw.com/business-and-practice/doj-confirms-plans-to-close-dc-golf-course-after-trump-posts": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T14:08:38Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-confirms-plans-to-close-dc-golf-course-after-trump-posts",
+    "page": 3,
+    "summary": "The Trump administration will close a Washington community golf course next month to undergo a major renovation, the Justice Department said, less than two ...",
+    "title": "DOJ Confirms Plans to Close DC Golf Course After Trump ..."
+   },
    "news.bloomberglaw.com/business-and-practice/doj-effort-to-save-essayli-from-removal-fails-to-impress-judge": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -1992,6 +2001,15 @@
     "page": 2,
     "summary": "Georgia can enforce its age-verification law for social media platforms while NetChoice Inc.'s challenge to the law proceeds, a federal appeals court ruled.",
     "title": "Georgia Wins Bid to End Injunction Blocking Age- ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/gibson-dunn-adds-jens-hafemann-as-tax-partner-in-frankfurt": {
+    "baseline": false,
+    "date_hint": "28 minutes ago",
+    "first_seen": "2026-10-29T14:08:38Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/gibson-dunn-adds-jens-hafemann-as-tax-partner-in-frankfurt",
+    "page": 2,
+    "summary": "Jens Hafemann joined Gibson Dunn as a partner in its tax practice group in Frankfurt, the firm announced Thursday.",
+    "title": "Gibson Dunn Adds Jens Hafemann as Tax Partner in ..."
    },
    "news.bloomberglaw.com/business-and-practice/gilead-will-pay-45-million-to-end-texas-medicaid-kickback-suit": {
     "baseline": false,
@@ -5755,6 +5773,15 @@
   "grubhub-help": {},
   "grubhub-press": {},
   "gusto-press": {
+   "gusto.com/company-news/dream-small": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T14:08:38Z",
+    "link": "https://gusto.com/company-news/dream-small",
+    "page": 1,
+    "summary": "\u201cDream Small\u201d is our new brand campaign built on one promise: There's nothing small about small business Small business was never the smaller dream",
+    "title": "Because there's nothing small about small business"
+   },
    "gusto.com/company-news/fall-showcase-2026": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -9433,6 +9460,15 @@
     "page": 2,
     "summary": "SAP Business AI Platform ofrece a las organizaciones un \u00fanico entorno para desarrollar, contextualizar y gobernar la IA, tanto en entornos SAP como de terceros.",
     "title": "SAP impulsa a los desarrolladores de IA para crear ..."
+   },
+   "news.sap.com/spain/2026/10/sap-y-ntt-colaboraran-para-ofrecer-capacidades-de-nube-soberana-de-confianza-y-de-sap-business-ai": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-29T14:08:38Z",
+    "link": "https://news.sap.com/spain/2026/10/sap-y-ntt-colaboraran-para-ofrecer-capacidades-de-nube-soberana-de-confianza-y-de-sap-business-ai/",
+    "page": 2,
+    "summary": "El acuerdo refleja la ambici\u00f3n compartida de SAP y NTT de impulsar una transformaci\u00f3n digital segura, resiliente y soberana para los sectores regulados.",
+    "title": "SAP y NTT colaborar\u00e1n para ofrecer capacidades de nube ..."
    },
    "news.sap.com/sweden": {
     "baseline": true,

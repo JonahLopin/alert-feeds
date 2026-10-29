@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:gusto-press</id>
   <title>Gusto press (site:gusto.com/company-news/) via Serper</title>
-  <updated>2026-10-22T16:11:43Z</updated>
+  <updated>2026-10-29T14:08:38Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/gusto-press.xml" />
+  <entry>
+    <id>https://gusto.com/company-news/dream-small</id>
+    <title>Because there's nothing small about small business</title>
+    <link href="https://gusto.com/company-news/dream-small" />
+    <published>2026-10-29T14:08:38Z</published>
+    <updated>2026-10-29T14:08:38Z</updated>
+    <summary>“Dream Small” is our new brand campaign built on one promise: There's nothing small about small business Small business was never the smaller dream</summary>
+  </entry>
   <entry>
     <id>https://gusto.com/company-news/fall-showcase-2026</id>
     <title>Helping Small Business Owners Start, Run, and Grow</title>
