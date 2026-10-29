@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-10-29T14:08:38Z</updated>
+  <updated>2026-10-29T15:08:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/director-payne-sued-for-plagiarizing-holdovers-screenplay</id>
+    <title>Director Payne Sued for Plagiarizing 'Holdovers' Screenplay</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/director-payne-sued-for-plagiarizing-holdovers-screenplay" />
+    <published>2026-10-29T15:08:04Z</published>
+    <updated>2026-10-29T15:08:04Z</updated>
+    <summary>Hollywood director Alexander Payne allegedly stole a screenwriter's underlying story idea for Payne's Academy Award-winning film “The Holdovers,” the ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/gibson-dunn-adds-jens-hafemann-as-tax-partner-in-frankfurt</id>
     <title>Gibson Dunn Adds Jens Hafemann as Tax Partner in ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-26T14:09:26Z</published>
     <updated>2026-10-26T14:09:26Z</updated>
     <summary>Michael Macko, who built the enforcement team for California's one-of-a-kind privacy agency, has joined Latham &amp; Watkins' privacy and cyber practice.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/akin-adds-greg-arutiunov-as-tax-partner-in-new-york-office</id>
-    <title>Akin Adds Greg Arutiunov as Tax Partner in New York Office</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/akin-adds-greg-arutiunov-as-tax-partner-in-new-york-office" />
-    <published>2026-10-26T14:09:26Z</published>
-    <updated>2026-10-26T14:09:26Z</updated>
-    <summary>Arutiunov's practice focuses on federal income tax matters, particularly energy transactions and financings, including project finance, tax equity transactions,</summary>
   </entry>
 </feed>

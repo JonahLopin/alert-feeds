@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22495,
+  "credits_used": 22546,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T14:08:38Z",
+  "last_run": "2026-10-29T15:08:04Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 454
+  "runs": 455
  },
  "feeds": {
   "adp-help": {
@@ -1418,6 +1418,15 @@
     "page": 3,
     "summary": "Global supplies of diesel and other fuels will remain under pressure next year as a result of conflicts in the Middle East and Russia, despite a weaker ...",
     "title": "Diesel Supplies to Remain Constrained Well Into 2027, IEA ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/director-payne-sued-for-plagiarizing-holdovers-screenplay": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-29T15:08:04Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/director-payne-sued-for-plagiarizing-holdovers-screenplay",
+    "page": 1,
+    "summary": "Hollywood director Alexander Payne allegedly stole a screenwriter's underlying story idea for Payne's Academy Award-winning film \u201cThe Holdovers,\u201d the ...",
+    "title": "Director Payne Sued for Plagiarizing 'Holdovers' Screenplay"
    },
    "news.bloomberglaw.com/business-and-practice/disney-pitches-paramount-universal-on-imax-big-screen-rival": {
     "baseline": true,
@@ -8976,6 +8985,15 @@
     "summary": "La escuder\u00eda llega al Gran Premio de la Ciudad de M\u00e9xico, del 30 de octubre al 1 de noviembre, como l\u00edder del campeonato de constructores que usa soluciones ...",
     "title": "Mercedes-AMG PETRONAS llega a M\u00e9xico al frente del ..."
    },
+   "news.sap.com/latinamerica/2026/10/mercedes-amg-petronas-llega-a-mexico-al-frente-del-campeonato-de-constructores-y-con-sap-cloud-erp-en-el-centro-de-su-operacion?amp=1": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-29T15:08:04Z",
+    "link": "https://news.sap.com/latinamerica/2026/10/mercedes-amg-petronas-llega-a-mexico-al-frente-del-campeonato-de-constructores-y-con-sap-cloud-erp-en-el-centro-de-su-operacion/?amp=1",
+    "page": 3,
+    "summary": "La escuder\u00eda llega al Gran Premio de la Ciudad de M\u00e9xico, del 30 de octubre al 1 de noviembre, como l\u00edder del campeonato de constructores que usa soluciones ...",
+    "title": "Mercedes-AMG PETRONAS llega a M\u00e9xico al frente del ..."
+   },
    "news.sap.com/mena/2026/10/business-ai-takes-center-stage-as-saudi-organizations-advancehr-transformation-at-sap-hr-connect-ksa-2026/no-111-2": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -9466,6 +9484,15 @@
     "date_hint": "2 hours ago",
     "first_seen": "2026-10-29T14:08:38Z",
     "link": "https://news.sap.com/spain/2026/10/sap-y-ntt-colaboraran-para-ofrecer-capacidades-de-nube-soberana-de-confianza-y-de-sap-business-ai/",
+    "page": 2,
+    "summary": "El acuerdo refleja la ambici\u00f3n compartida de SAP y NTT de impulsar una transformaci\u00f3n digital segura, resiliente y soberana para los sectores regulados.",
+    "title": "SAP y NTT colaborar\u00e1n para ofrecer capacidades de nube ..."
+   },
+   "news.sap.com/spain/2026/10/sap-y-ntt-colaboraran-para-ofrecer-capacidades-de-nube-soberana-de-confianza-y-de-sap-business-ai?amp=1": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-29T15:08:04Z",
+    "link": "https://news.sap.com/spain/2026/10/sap-y-ntt-colaboraran-para-ofrecer-capacidades-de-nube-soberana-de-confianza-y-de-sap-business-ai/?amp=1",
     "page": 2,
     "summary": "El acuerdo refleja la ambici\u00f3n compartida de SAP y NTT de impulsar una transformaci\u00f3n digital segura, resiliente y soberana para los sectores regulados.",
     "title": "SAP y NTT colaborar\u00e1n para ofrecer capacidades de nube ..."
@@ -10244,6 +10271,15 @@
     "page": 4,
     "summary": "Recover lost sales with abandoned cart emails. Get real examples, subject lines, timing tactics, and templates to help you win back customers.",
     "title": "Abandoned Cart Emails: Best Practices & Examples (2026)"
+   },
+   "shopify.com/blog/accept-payments-online": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-29T15:08:04Z",
+    "link": "https://www.shopify.com/blog/accept-payments-online",
+    "page": 4,
+    "summary": "Accept payments through your website by integrating a payment gateway and processor. Activate Shopify Payments to accept various online payment methods through ...",
+    "title": "How to Accept Payments Online in 6 Steps (2026)"
    },
    "shopify.com/blog/affiliate-marketing": {
     "baseline": false,
@@ -12267,6 +12303,15 @@
     "page": 1,
     "summary": "The Jobs & Wages section in the Dashboard allows you to create and manage job positions, assign employees, configure wage rates, and set your minimum wage for ...",
     "title": "Jobs & Wages | Dashboard | SpotOn Express"
+   },
+   "help.spoton.com/space/SK/4166484081": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-29T15:08:04Z",
+    "link": "https://help.spoton.com/space/SK/4166484081",
+    "page": 1,
+    "summary": "Dual Pricing is a type of cash discount program, so by default it will discount your item price when cash is selected.",
+    "title": "Dual Pricing Overview"
    },
    "help.spoton.com/space/SK/4183130205": {
     "baseline": false,

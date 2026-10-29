@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-10-29T13:08:14Z</updated>
+  <updated>2026-10-29T15:08:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/4166484081</id>
+    <title>Dual Pricing Overview</title>
+    <link href="https://help.spoton.com/space/SK/4166484081" />
+    <published>2026-10-29T15:08:04Z</published>
+    <updated>2026-10-29T15:08:04Z</updated>
+    <summary>Dual Pricing is a type of cash discount program, so by default it will discount your item price when cash is selected.</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/4290576385/Loyalty+Setup+Guide+SpotOn+Dashboard</id>
     <title>Loyalty Setup Guide | SpotOn Dashboard</title>

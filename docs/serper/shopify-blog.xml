@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-29T07:09:00Z</updated>
+  <updated>2026-10-29T15:08:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/accept-payments-online</id>
+    <title>How to Accept Payments Online in 6 Steps (2026)</title>
+    <link href="https://www.shopify.com/blog/accept-payments-online" />
+    <published>2026-10-29T15:08:04Z</published>
+    <updated>2026-10-29T15:08:04Z</updated>
+    <summary>Accept payments through your website by integrating a payment gateway and processor. Activate Shopify Payments to accept various online payment methods through ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/content-management-system</id>
     <title>Content Management System: How To Choose One (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-21T11:09:37Z</published>
     <updated>2026-10-21T11:09:37Z</updated>
     <summary>Mobile commerce is the buying and selling of goods and services on phones or tablets. Also known as mobile ecommerce or m-commerce, it covers marketplace apps,</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/domain-authority</id>
-    <title>Domain Authority: How To Check and Improve It (2026)</title>
-    <link href="https://www.shopify.com/blog/domain-authority" />
-    <published>2026-10-21T11:09:37Z</published>
-    <updated>2026-10-21T11:09:37Z</updated>
-    <summary>Domain authority is a score from 1 to 100 that predicts how likely a website is to rank in search engine results pages compared to competitors.</summary>
   </entry>
 </feed>
