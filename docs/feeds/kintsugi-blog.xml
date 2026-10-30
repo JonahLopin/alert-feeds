@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:kintsugi-blog</id>
   <title>Kintsugi blog (site:trykintsugi.com/blog/)</title>
-  <updated>2026-10-22T07:16:39Z</updated>
+  <updated>2026-10-30T05:26:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/kintsugi-blog.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:6532120328929766820</id>
+    <title>Sales Tax vs. VAT: Understanding Input and Output VAT - Kintsugi</title>
+    <link href="https://trykintsugi.com/blog/understanding-input-and-output-vat" />
+    <published>2026-10-30T05:26:49Z</published>
+    <updated>2026-10-30T05:26:49Z</updated>
+    <summary>What is input VAT and output VAT, how do they net against each other, and how does Kintsugi handle input VAT credits on EU and Canada filings?</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:203810358852557692</id>
     <title>Kintsugi Infrastructure: Speed, AI and Security</title>

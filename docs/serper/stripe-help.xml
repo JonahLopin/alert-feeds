@@ -2,8 +2,128 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-30T04:27:34Z</updated>
+  <updated>2026-10-30T05:25:18Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://www.google.com/goto?url=CAESrAEB6zswFTtbhHsU7Z2ra90GqXD0igFDboGMnzWywmvRe1fm3bGdYbDxY9p44SHUrJWDPsETG9ErT28NVG01v5STVQ4lqwlmOtjTRLWhWAhSLjaOTHsOP1c6ftX8hl4hdmHGIeN2qC4YJmY2Ob_Aq3SBeYgSsEoEHeYXwb8cbP2eAb32Oq6Cajs1emHMzakDFmv9O57qlCvTvPfuX6fUem0ZeXdigB0kLYzyxivA</id>
+    <title>Create a PaymentIntent before collecting payment details</title>
+    <link href="https://www.google.com/goto?url=CAESrAEB6zswFTtbhHsU7Z2ra90GqXD0igFDboGMnzWywmvRe1fm3bGdYbDxY9p44SHUrJWDPsETG9ErT28NVG01v5STVQ4lqwlmOtjTRLWhWAhSLjaOTHsOP1c6ftX8hl4hdmHGIeN2qC4YJmY2Ob_Aq3SBeYgSsEoEHeYXwb8cbP2eAb32Oq6Cajs1emHMzakDFmv9O57qlCvTvPfuX6fUem0ZeXdigB0kLYzyxivA" />
+    <published>2026-10-30T05:25:18Z</published>
+    <updated>2026-10-30T05:25:18Z</updated>
+    <summary>Build a custom payment form using Stripe Elements and the Payment Intents API. This intent-first integration creates a PaymentIntent on your server before ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESlAEB6zswFfbHdSKaJgg3cPOtDNVoPku9ffnMkRhmDhykbrvmybVUMLoojcuLZDhoR_pbJyikAMz8sXxFR3aoQcj2Tf-iHeLPPtIuFrg2MD_p9iQfDhYni7o1C8mNMqc208vOHH6rerMGP_B2laak_SLNPIlJfE8QAzRef2DsSXW7nVr965ndyIQzadK3mnG89IsNdk01</id>
+    <title>Understand differences between Global Payouts and ...</title>
+    <link href="https://www.google.com/goto?url=CAESlAEB6zswFfbHdSKaJgg3cPOtDNVoPku9ffnMkRhmDhykbrvmybVUMLoojcuLZDhoR_pbJyikAMz8sXxFR3aoQcj2Tf-iHeLPPtIuFrg2MD_p9iQfDhYni7o1C8mNMqc208vOHH6rerMGP_B2laak_SLNPIlJfE8QAzRef2DsSXW7nVr965ndyIQzadK3mnG89IsNdk01" />
+    <published>2026-10-30T05:25:18Z</published>
+    <updated>2026-10-30T05:25:18Z</updated>
+    <summary>Compare Global Payouts and Connect cross-border payouts to determine which Stripe payouts integration fits your business model.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESjAEB6zswFatcn4M3QdhVJXLtlYf2dOW4ysBZSf_TOgM3AtN2CmKtJ33JYyEa2kXi21DroP5OKJ70dFOPFXZicdBtahDs8ViXE79fktFPG4HRsEtWyq9tmnRkd44Fleeo4lfLx9JiL-kFWvS6twEojOYLj0JPRF80yUgOEpMw6CnE0v4sd5iNh1JdoKQVRA</id>
+    <title>Create a test-mode unlinked refund | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESjAEB6zswFatcn4M3QdhVJXLtlYf2dOW4ysBZSf_TOgM3AtN2CmKtJ33JYyEa2kXi21DroP5OKJ70dFOPFXZicdBtahDs8ViXE79fktFPG4HRsEtWyq9tmnRkd44Fleeo4lfLx9JiL-kFWvS6twEojOYLj0JPRF80yUgOEpMw6CnE0v4sd5iNh1JdoKQVRA" />
+    <published>2026-10-30T05:25:18Z</published>
+    <updated>2026-10-30T05:25:18Z</updated>
+    <summary>Answers to prompts presented to the cardholder at the point of sale. Prompted fields vary depending on the configuration of your physical fleet cards.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESggEB6zswFf2-TCvlqOjN4nL9C-9Lnr0mvz3Fi413C4KwmlI0-eOkGowRycaE7f4qodom_wngnzhPhESK4xtwEGbq0Gr4DtUD_xJMkNj_BagGG57zSnn3BUPt_W7SHpqa4a80dtggPpgdBLgTkJ9cOMU1RxLkuCskDkzm63GMN163X_wh</id>
+    <title>Recipient Verifications | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESggEB6zswFf2-TCvlqOjN4nL9C-9Lnr0mvz3Fi413C4KwmlI0-eOkGowRycaE7f4qodom_wngnzhPhESK4xtwEGbq0Gr4DtUD_xJMkNj_BagGG57zSnn3BUPt_W7SHpqa4a80dtggPpgdBLgTkJ9cOMU1RxLkuCskDkzm63GMN163X_wh" />
+    <published>2026-10-30T05:25:18Z</published>
+    <updated>2026-10-30T05:25:18Z</updated>
+    <summary>RecipientVerification represents a verification of recipient you intend to send funds to. Learn more about calling API v2 endpoints. Was this section helpful?</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESgAEB6zswFbl2yBprYs9PD5vJRCLD1pfE1oSqHLpavX5pYosmteNVyw63WpEZTIqWPinsipfYrjhk6JiA6-ztX9SmBlhl6pAGL5RfqNcj2ldU8Nue_fSkPoMr9_6mEi8qitVBuBAdrFRweP32sU8bcVdyTnm5uCC6X6riv6KIPAutgA</id>
+    <title>Supported recipient countries - Global Payouts</title>
+    <link href="https://www.google.com/goto?url=CAESgAEB6zswFbl2yBprYs9PD5vJRCLD1pfE1oSqHLpavX5pYosmteNVyw63WpEZTIqWPinsipfYrjhk6JiA6-ztX9SmBlhl6pAGL5RfqNcj2ldU8Nue_fSkPoMr9_6mEi8qitVBuBAdrFRweP32sU8bcVdyTnm5uCC6X6riv6KIPAutgA" />
+    <published>2026-10-30T05:25:18Z</published>
+    <updated>2026-10-30T05:25:18Z</updated>
+    <summary>Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESfQHrOzAVDacS8990qDEbqkc4F6OEREsAZru7uDTxa3xwjManfeNSHEdfq_mg9VK_DUESXWGPIRB6d5bbTY8pKkOoJX_u-I7ZUo-4uua_4-c20_tLcrYQ-70kyTjKUrWibUYNc3jmoloW9iBAAG5BFcrdg_sroN0S8tsnN8gJ</id>
+    <title>Get values from the embedded form</title>
+    <link href="https://www.google.com/goto?url=CAESfQHrOzAVDacS8990qDEbqkc4F6OEREsAZru7uDTxa3xwjManfeNSHEdfq_mg9VK_DUESXWGPIRB6d5bbTY8pKkOoJX_u-I7ZUo-4uua_4-c20_tLcrYQ-70kyTjKUrWibUYNc3jmoloW9iBAAG5BFcrdg_sroN0S8tsnN8gJ" />
+    <published>2026-10-30T05:25:18Z</published>
+    <updated>2026-10-30T05:25:18Z</updated>
+    <summary>Validates and retrieves the current values from the embedded form. If there are any input validation errors, the errors display by their respective fields. Call ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESfAHrOzAVedVdtB4kNcaj2SRvRiuX9_BMwbl8eOe7xo9E0MfXhhfY7YdMRAYFkBUP0r-OoJuFU85sU-STBPcAEMSbSs6qQ6KRlFa1TFv-NPXom-Ycit740AbVC3vZF3bYnzTge_CNMagt5YPEVuEqirR-PEukWNAvJ9TA_dE</id>
+    <title>Workload Identity Federation with Google Cloud</title>
+    <link href="https://www.google.com/goto?url=CAESfAHrOzAVedVdtB4kNcaj2SRvRiuX9_BMwbl8eOe7xo9E0MfXhhfY7YdMRAYFkBUP0r-OoJuFU85sU-STBPcAEMSbSs6qQ6KRlFa1TFv-NPXom-Ycit740AbVC3vZF3bYnzTge_CNMagt5YPEVuEqirR-PEukWNAvJ9TA_dE" />
+    <published>2026-10-30T05:25:18Z</published>
+    <updated>2026-10-30T05:25:18Z</updated>
+    <summary>By default, every Google service account can get Google-signed identity tokens, and the issuer URL is always https://accounts.google.com. Before you begin.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESegHrOzAVuYO0ZvIunuN__oceAyb-Cm_zUp3DahplV1VpHSVVitIrf3PSbHf8gvjtzJWwK_sdlICILeuWC-DCl9Fv9mmCQnOr5xMDeff7Cpz1rplilot_WTdDrN4QwvnST8phGcqf0BXN68gvmtkl7CefIeBVgVz-wM8T</id>
+    <title>Enable tax by default for subscriptions</title>
+    <link href="https://www.google.com/goto?url=CAESegHrOzAVuYO0ZvIunuN__oceAyb-Cm_zUp3DahplV1VpHSVVitIrf3PSbHf8gvjtzJWwK_sdlICILeuWC-DCl9Fv9mmCQnOr5xMDeff7Cpz1rplilot_WTdDrN4QwvnST8phGcqf0BXN68gvmtkl7CefIeBVgVz-wM8T" />
+    <published>2026-10-30T05:25:18Z</published>
+    <updated>2026-10-30T05:25:18Z</updated>
+    <summary>Use the Tax integration configuration API to enable automatic tax on subscriptions and understand how later updates affect tax collection.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESegHrOzAVcLfAQv3hfm07waIzDu84I1ETRP6JHeVYe6KRlNrYyUnyhXEC1cEILN2L9f2cylncYI2zKjLi_uMfplHRDsQ6syAicYew-7GBfTYReSAZ0yhyczxfwiYTIGzpMUismMkBAYwAuVLAjo__-l2xycotjw4GX7kJ</id>
+    <title>Financial account report type</title>
+    <link href="https://www.google.com/goto?url=CAESegHrOzAVcLfAQv3hfm07waIzDu84I1ETRP6JHeVYe6KRlNrYyUnyhXEC1cEILN2L9f2cylncYI2zKjLi_uMfplHRDsQ6syAicYew-7GBfTYReSAZ0yhyczxfwiYTIGzpMUismMkBAYwAuVLAjo__-l2xycotjw4GX7kJ" />
+    <published>2026-10-30T05:25:18Z</published>
+    <updated>2026-10-30T05:25:18Z</updated>
+    <summary>Use Financial account reports to analyze activity that impacts your financial account balance and view data related to your payments activity.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESeQHrOzAVLNEvhmJ2jXieiAIT-8TQR3GC5gKZ2HjETCmTSDXgF8kcoAZqWvL0WtP8a2viiOkBFCp5jDcYfalroVv1YILfqaLxltqwwjqHYG-awmZ7qwtLvtjsKM8Aus4-B2nZkE9ouiXsGOKbKBKvpr7015LesHB6O3E</id>
+    <title>Payout Intents v2 - Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESeQHrOzAVLNEvhmJ2jXieiAIT-8TQR3GC5gKZ2HjETCmTSDXgF8kcoAZqWvL0WtP8a2viiOkBFCp5jDcYfalroVv1YILfqaLxltqwwjqHYG-awmZ7qwtLvtjsKM8Aus4-B2nZkE9ouiXsGOKbKBKvpr7015LesHB6O3E" />
+    <published>2026-10-30T05:25:18Z</published>
+    <updated>2026-10-30T05:25:18Z</updated>
+    <summary>PayoutIntent represents an intent to send funds from a Financial Account to a payout method. Learn more about calling API v2 endpoints. Was this section helpful ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESdgHrOzAVqj65g8Cy40Z_f34de1NmDbCGcsaWO9OwDlfI59wZIaod1GuyjHi4nfiQVSBhG3HMxE22r57KrLKlHGMJFkSXp3myBdCJlGS3H4pGAZETK5Dldaq956w4eEL4fZE7vuuMyMzxD86un_X0PmxIJHR9MTc</id>
+    <title>Create a portal session | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESdgHrOzAVqj65g8Cy40Z_f34de1NmDbCGcsaWO9OwDlfI59wZIaod1GuyjHi4nfiQVSBhG3HMxE22r57KrLKlHGMJFkSXp3myBdCJlGS3H4pGAZETK5Dldaq956w4eEL4fZE7vuuMyMzxD86un_X0PmxIJHR9MTc" />
+    <published>2026-10-30T05:25:18Z</published>
+    <updated>2026-10-30T05:25:18Z</updated>
+    <summary>The ID of an existing configuration to use for this session, describing its functionality and features. If not specified, the session uses the default ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESdgHrOzAVl4FbYcEp7lk3uYUk_n7J30Jev2in8pwZUsqYuUHW3qPEw3EOmBrXTHXNpzblQsONFJ_3tynGtfHQqU4i7dRPcWWQllHSVBwhoQc9p0KfiJicXq5JGePnb_BmqHGzCPpld2jaGrMlqpjSYriQ0v1GAp0</id>
+    <title>Enable tax by default for invoices</title>
+    <link href="https://www.google.com/goto?url=CAESdgHrOzAVl4FbYcEp7lk3uYUk_n7J30Jev2in8pwZUsqYuUHW3qPEw3EOmBrXTHXNpzblQsONFJ_3tynGtfHQqU4i7dRPcWWQllHSVBwhoQc9p0KfiJicXq5JGePnb_BmqHGzCPpld2jaGrMlqpjSYriQ0v1GAp0" />
+    <published>2026-10-30T05:25:18Z</published>
+    <updated>2026-10-30T05:25:18Z</updated>
+    <summary>Use the tax integration configuration API to enable automatic tax on standalone invoices and understand when conflicting parameters disable it.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAEScQHrOzAVLtegxdQcfBqx5ExF_cIi1jv-UVFsLK5k7cYFrdgY55gpvxCiHFRHBSC5xvVnbRBY3uRxb9h1lV7j9olAM1tSEyUryce65sFepmgUwzUGdk9uMN1krmKdcUHbhUaWmyYBOLe1PzzakFAoWlvA</id>
+    <title>QRIS Payments</title>
+    <link href="https://www.google.com/goto?url=CAEScQHrOzAVLtegxdQcfBqx5ExF_cIi1jv-UVFsLK5k7cYFrdgY55gpvxCiHFRHBSC5xvVnbRBY3uRxb9h1lV7j9olAM1tSEyUryce65sFepmgUwzUGdk9uMN1krmKdcUHbhUaWmyYBOLe1PzzakFAoWlvA" />
+    <published>2026-10-30T05:25:18Z</published>
+    <updated>2026-10-30T05:25:18Z</updated>
+    <summary>(QRIS) is a real time payment system developed by the Bank of Indonesia. The service works by instantly transferring funds between two bank accounts.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESbwHrOzAVxID0BmrAuiIoESUunNniWk7X8i4TYO6H04UHNYrG8Cl4BA8FnyJGbjAT2MNeEs-csWk6PKziKtGWXXlXFepSODnjEn_ZhLL1JCPcc2mfVoVSUo4KrGvau_h06MGgNeCL2bpJp0HK7jirAw</id>
+    <title>In-app analytics and error monitoring</title>
+    <link href="https://www.google.com/goto?url=CAESbwHrOzAVxID0BmrAuiIoESUunNniWk7X8i4TYO6H04UHNYrG8Cl4BA8FnyJGbjAT2MNeEs-csWk6PKziKtGWXXlXFepSODnjEn_ZhLL1JCPcc2mfVoVSUo4KrGvau_h06MGgNeCL2bpJp0HK7jirAw" />
+    <published>2026-10-30T05:25:18Z</published>
+    <updated>2026-10-30T05:25:18Z</updated>
+    <summary>App analytics shows how many users install your app and view its listing. To understand how users interact with your app after installing it, ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/invoices/send</id>
+    <title>Send an invoice for manual payment v1</title>
+    <link href="https://docs.stripe.com/api/invoices/send" />
+    <published>2026-10-30T05:25:18Z</published>
+    <updated>2026-10-30T05:25:18Z</updated>
+    <summary>Stripe will automatically send invoices to customers according to your subscriptions settings. However, if you'd like to manually send an invoice to your ...</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESlAEB6zswFTSKUWyhgyoaqZ6av-ZmF1QropJz2TeNm9fgWXT-lO0jlR7vTnTNvyhXEf-WV5JSfe1v2lWKThAGmk71sLqZW4_4CYSrDmDL3kOk7TGVu0K8p19wMbOD7GRtZei7UemZEsuQivpmdv0JiBhnIBgCBpj5pNGqJt8dhkdSYHhwEaqufxjF8d7L2qUmKjF_2puL</id>
     <title>Understand differences between Global Payouts and ...</title>
@@ -683,29 +803,5 @@
     <published>2026-10-13T05:12:53Z</published>
     <updated>2026-10-13T05:12:53Z</updated>
     <summary>Deprecate when you need to make an extension version unavailable for new activations while allowing extensions already activated on that version to continue ...</summary>
-  </entry>
-  <entry>
-    <id>https://docs.stripe.com/api/three-d-secure/authentication</id>
-    <title>3DS Authentications | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/three-d-secure/authentication" />
-    <published>2026-10-12T17:10:20Z</published>
-    <updated>2026-10-12T17:10:20Z</updated>
-    <summary>The Standalone 3DS API allows you to run EMV 3D Secure (3DS) authentication using Stripe while authorizing the payment with any PSP. Related guide: Standalone ...</summary>
-  </entry>
-  <entry>
-    <id>https://docs.stripe.com/service-principals</id>
-    <title>Service principals</title>
-    <link href="https://docs.stripe.com/service-principals" />
-    <published>2026-10-11T03:05:00Z</published>
-    <updated>2026-10-11T03:05:00Z</updated>
-    <summary>A service principal is a non-human identity that represents an application, service or AI agent accessing Stripe. Service principals, much like human team ...</summary>
-  </entry>
-  <entry>
-    <id>https://docs.stripe.com/js/react_stripe_js/elements/other/payment_request_button_element?__=&amp;__hsfp=PANTHEON_STRIPPED%3Fhsa_cam%3D15351779962&amp;__hssc=PANTHEON_STRIPPED&amp;__hstc=PANTHEON_STRIPPED</id>
-    <title>PaymentRequestButtonElement</title>
-    <link href="https://docs.stripe.com/js/react_stripe_js/elements/other/payment_request_button_element?__=&amp;__hsfp=PANTHEON_STRIPPED%3Fhsa_cam%3D15351779962&amp;__hssc=PANTHEON_STRIPPED&amp;__hstc=PANTHEON_STRIPPED" />
-    <published>2026-10-11T03:05:00Z</published>
-    <updated>2026-10-11T03:05:00Z</updated>
-    <summary>Sets the DOM id attribute on the rendered Element container. Use this to target the Element for styling or testing. className string.</summary>
   </entry>
 </feed>
