@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 23789,
+  "credits_used": 23837,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-30T16:42:32Z",
+  "last_run": "2026-10-30T17:43:14Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 480
+  "runs": 481
  },
  "feeds": {
   "adp-help": {
@@ -246,6 +246,15 @@
     "date_hint": "3 days ago",
     "first_seen": "2026-10-30T04:27:34Z",
     "link": "https://www.google.com/goto?url=CAESqgEB6zswFe_5epb8jLoR3AE6zYIKAYSEqJWi_ZkqE-4ENnsvoTGEzWfCfJCanAJf4_-BrOTNDC94E3GBOcblC51SDDulCA73zCxZnMX8l9BvZ-tN0q5Lxo5-HfomouVHYlw4OQp1iBetcRh1tRYKdJ4uWA9m3r9U9fl5AwHve5pFj-HAxTeDJFO6huZuYY3VffS5piSHLQzeUJRK84yI1vZkz8YxuSx8OayAnw",
+    "page": 1,
+    "summary": "The NER Pulse is an estimate of the week-over-week change in employment based on a four-week moving average. These estimates are based on ADP's finely tuned, ...",
+    "title": "ADP National Employment Report Preliminary Estimate for ..."
+   },
+   "google.com/goto?url=CAESqgEB6zswFfWeTjier6AJvjRkc3uYiRo76qPi-ts98U-NPcQj580xJgfNcCVEWAr5tuHQmmgmKuDP1U2dKjmm6m7fuAYI84TOwtLEOqC5ZrkUtMYuiYfkfL0f1ABG13yllHtTD64tJejzeXiGh3q9sqoSH60nIRP8PlR51wISwNa0BlUuN_--ShOD7etL77HhHUpi4IUKqPX23Z2WWyP01kTFRCq0sEMchbWnYg": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESqgEB6zswFfWeTjier6AJvjRkc3uYiRo76qPi-ts98U-NPcQj580xJgfNcCVEWAr5tuHQmmgmKuDP1U2dKjmm6m7fuAYI84TOwtLEOqC5ZrkUtMYuiYfkfL0f1ABG13yllHtTD64tJejzeXiGh3q9sqoSH60nIRP8PlR51wISwNa0BlUuN_--ShOD7etL77HhHUpi4IUKqPX23Z2WWyP01kTFRCq0sEMchbWnYg",
     "page": 1,
     "summary": "The NER Pulse is an estimate of the week-over-week change in employment based on a four-week moving average. These estimates are based on ADP's finely tuned, ...",
     "title": "ADP National Employment Report Preliminary Estimate for ..."
@@ -639,6 +648,15 @@
     "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
     "title": "Wake Up Call: Biden Antitrust Chiefs Start Legal AI Company"
    },
+   "google.com/goto?url=CAESqQEB6zswFVXv9CWXySrJd6XQMDoHcYhlm4_JsEUM4UN5mOYG8wXWKeyM5NjEHbUOQ6RmRWIM9jwr4aHaOdXejNS0ijqg0H1DyW1d5euJ6mlRpYpEnj6cun7cYa1T_WGesunbnN9VH3KQlxsrBwtp-kX6rr65RhI7wET8e5Q9Ay-yUfY9GQw8m_j3PWH5sBsB_cdCro4fXpOgWrP_sT1EI4W4d4RtmmILnGCS": {
+    "baseline": false,
+    "date_hint": "17 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESqQEB6zswFVXv9CWXySrJd6XQMDoHcYhlm4_JsEUM4UN5mOYG8wXWKeyM5NjEHbUOQ6RmRWIM9jwr4aHaOdXejNS0ijqg0H1DyW1d5euJ6mlRpYpEnj6cun7cYa1T_WGesunbnN9VH3KQlxsrBwtp-kX6rr65RhI7wET8e5Q9Ay-yUfY9GQw8m_j3PWH5sBsB_cdCro4fXpOgWrP_sT1EI4W4d4RtmmILnGCS",
+    "page": 2,
+    "summary": "Bambusa Therapeutics Inc., an early-stage biotech focused on dermatology and autoimmune diseases, raised $168.9 million in an upsized US initial public ...",
+    "title": "Dermatology Biotech Bambusa Raises $168.9 Million in ..."
+   },
    "google.com/goto?url=CAESqQEB6zswFX6BgAVeodcNeESmBoa0SEfvBwCsR18dxzRHVBqHeNAJedDiJhbi_ICn5TXo5G2wZbKygKNO9AWtfTpszpj1ExmeVIxuvz1VhQ_SiMQFdYuXADCRYNtqrRTGlT0ikDIQfi43K6jsKKEfBfXaQCx5nIyPzv4WtS8qX80c3bEWww2Dq9gOQY2dXkpuoXZeJsv3rySQPTao89vX7YlakBjHVVVvmMiq": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -792,6 +810,15 @@
     "summary": "Cravath, Swaine & Moore and Kirkland & Ellis guided the $7.6 billion all-cash deal for an offshoot of Joshua Kushner's Thrive Capital Management to buy home ...",
     "title": "Kirkland, Cravath Guide $7.6 Billion Thrive Holdings' ADT ..."
    },
+   "google.com/goto?url=CAESqQEB6zswFdPaOsDX_h8MNEIgHMFrS6nsW8iZ7m4htIYJeo2JJOdpHxdQGlocAAiTD64RaF8AUSL5CPJ_ZMdQoqLWZ8pGi2_gjeO2h_n0sqz0Qex9HiwOwqVss8rWOFyKMrr7po-ykYWbL2pja13Y1DFZp0eY3mX7OaGdnAs18hR2McZFDsRAKPzuuSHyCH8HXGoTE7Il6A5BvBcsPsn81v5JWwnK7vXiPA1K": {
+    "baseline": false,
+    "date_hint": "21 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESqQEB6zswFdPaOsDX_h8MNEIgHMFrS6nsW8iZ7m4htIYJeo2JJOdpHxdQGlocAAiTD64RaF8AUSL5CPJ_ZMdQoqLWZ8pGi2_gjeO2h_n0sqz0Qex9HiwOwqVss8rWOFyKMrr7po-ykYWbL2pja13Y1DFZp0eY3mX7OaGdnAs18hR2McZFDsRAKPzuuSHyCH8HXGoTE7Il6A5BvBcsPsn81v5JWwnK7vXiPA1K",
+    "page": 2,
+    "summary": "Cravath, Swaine & Moore and Kirkland & Ellis guided the $7.6 billion all-cash deal for an offshoot of Joshua Kushner's Thrive Capital Management to buy home ...",
+    "title": "Kirkland, Cravath Guide $7.6 Billion Thrive Holdings' ADT ..."
+   },
    "google.com/goto?url=CAESqQEB6zswFdU4D3LeSJWKpM6Y-aFXpyKh0dLH-vTkUehD2j4dRf1vCYnBSb5YiVBoeSpph145O5Ng09DIycb3fIDGvRKiQM6IbiJojhRNiswz9ikhrM-imc161I0qezDjtnhqR4XVCtXxR4VRijHP9tl0WCDv5V6m0qQOWprzEOOSSTzSGSE1Y4jFaYVF2kU4SI8q6SF7ssBWuWJhlCzzPtSnlhPMrRQtxMG3": {
     "baseline": false,
     "date_hint": "17 hours ago",
@@ -891,6 +918,15 @@
     "summary": "Paul Weiss Rifkind Wharton & Garrison hired a number of junior lawyers from Weil Gotshal & Manges yesterday, after the firm's sudden decision to wind down ...",
     "title": "Weil Gotshal Implosion Has Top Rivals Racing to Hire ..."
    },
+   "google.com/goto?url=CAESqgEB6zswFWQL92GduxEqDMfxbOKtMwSKzy6ytuDR6pCXyZqxbA6O7ee32x8vWobh3jrzRQFa6-jLp7fd-k4P6jOWpDRW4GiARuEwHkzpvyFrwbTcN_2Zhg7OKfBl27HujyPFc90pLKvOwV1-OPIIagT5JrvgwBLxWLLHMjKeo3XYcRpUhIctJG7oBUP2Fb_tfubjQQF-7XhOvSrTyz7S8RznlCNlYyYM6yVkWQ": {
+    "baseline": false,
+    "date_hint": "23 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESqgEB6zswFWQL92GduxEqDMfxbOKtMwSKzy6ytuDR6pCXyZqxbA6O7ee32x8vWobh3jrzRQFa6-jLp7fd-k4P6jOWpDRW4GiARuEwHkzpvyFrwbTcN_2Zhg7OKfBl27HujyPFc90pLKvOwV1-OPIIagT5JrvgwBLxWLLHMjKeo3XYcRpUhIctJG7oBUP2Fb_tfubjQQF-7XhOvSrTyz7S8RznlCNlYyYM6yVkWQ",
+    "page": 1,
+    "summary": "Paul Weiss Rifkind Wharton & Garrison hired a number of junior lawyers from Weil Gotshal & Manges yesterday, after the firm's sudden decision to wind down ...",
+    "title": "Weil Gotshal Implosion Has Top Rivals Racing to Hire ..."
+   },
    "google.com/goto?url=CAESqgEB6zswFXpRzqZ7563TE6sYhptlYrKx-t6I9-Mmclgpj7v3_XrK0MvDSUsY-BeVmOKuIT3LSJTEubyQCY7EIFTM5yCZtUW4nugeSReXK32xuxa5u6YumJhqx10itBgpmVqMLTz5GzseyOmhErQ_zf4V_INkki-pRfmYEjMcOjSyyuGUge0FSn7XxRHkUUh-G94oSMbwJExntfrtH-Ra83cZahSlFx5rE98VrA": {
     "baseline": false,
     "date_hint": "22 hours ago",
@@ -953,6 +989,15 @@
     "page": 1,
     "summary": "Paul Weiss Rifkind Wharton & Garrison hired a number of junior lawyers from Weil Gotshal & Manges yesterday, after the firm's sudden decision to wind down ...",
     "title": "Weil Gotshal Implosion Has Top Rivals Racing to Hire ..."
+   },
+   "google.com/goto?url=CAESqwEB6zswFQBw433PMnoPStAp5-Mj4t77qrFpTjxMG-TftyiCgXG0fVx-n0hl21DQTU_HOtpO3coAOGO4BVVolEyKuKlyjGnD94d60NPRPOkVe9zuHFmkKor1mWOyzRzWhIar-OuBe57hcF22aGioDPWdX-Rc8Sk4JnzYuBgIWxTrYM0XKDbe_31dUnNgPE5HwvZoymyfd4LUY8nkpd2O0eDe67wljBs_qNeai-w": {
+    "baseline": false,
+    "date_hint": "17 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESqwEB6zswFQBw433PMnoPStAp5-Mj4t77qrFpTjxMG-TftyiCgXG0fVx-n0hl21DQTU_HOtpO3coAOGO4BVVolEyKuKlyjGnD94d60NPRPOkVe9zuHFmkKor1mWOyzRzWhIar-OuBe57hcF22aGioDPWdX-Rc8Sk4JnzYuBgIWxTrYM0XKDbe_31dUnNgPE5HwvZoymyfd4LUY8nkpd2O0eDe67wljBs_qNeai-w",
+    "page": 1,
+    "summary": "A jury in St. Louis rejected claims by three women who blamed Bayer AG's Roundup weedkiller for their cancers, bolstering the company's effort to contain ...",
+    "title": "Bayer Wins St. Louis Roundup Trial, Bolstering Settlement ..."
    },
    "google.com/goto?url=CAESqwEB6zswFSD8-_6mtkjXYEfT0Rq3EER3L7j9PfNs4JxxB1y8i9fjCllfHc4wEtWUL-q__h9kPFPn2JoHfp_l0ZiyfJDpBt883c10WCo2r3P_oKWO-6p59kJeM0HWfgFxZt0ts3q1G36lFfHeonnsqHJcQjEbVzitD8OcpWpkh3lgxEjkUMEuIuT7Y4gA95ja0Vcfpco1XQ5IaBom6Xan8gGd3KNki8hXDLOQP7E": {
     "baseline": false,
@@ -1386,6 +1431,15 @@
     "summary": "The implosion of US law firm Weil Gotshal & Manges, whose elite restructuring experts once advised on Lehman Brothers' collapse, confirms that lawyers ...",
     "title": "Weil Implosion Shows Lawyers Are the New Bankers"
    },
+   "google.com/goto?url=CAESrAEB6zswFTItM90S0zOOgrchbNUkdZqosbm9VDME0d4Z3ZXL6aKuBndPeIGqUmCLzLfxWHkkVMbATHDfaFrQkkVHFyip57A34davg0bYgU-Gk1WmOXAcaf4FHqEMVbCQTRqO7Sjeo43G3U68qWgiA2jEhJ0TxpKV02x0dloDcDHImDhK5DYer10uC3rZjWMtwbTeBoys6BjCg8Gc54sK_w0XpoIjPAK36VJ4KgEO": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESrAEB6zswFTItM90S0zOOgrchbNUkdZqosbm9VDME0d4Z3ZXL6aKuBndPeIGqUmCLzLfxWHkkVMbATHDfaFrQkkVHFyip57A34davg0bYgU-Gk1WmOXAcaf4FHqEMVbCQTRqO7Sjeo43G3U68qWgiA2jEhJ0TxpKV02x0dloDcDHImDhK5DYer10uC3rZjWMtwbTeBoys6BjCg8Gc54sK_w0XpoIjPAK36VJ4KgEO",
+    "page": 2,
+    "summary": "A Weil Gotshal & Manges private equity partner, Lewis Blakey, in London is set to move to Simpson Thacher & Bartlett, marking the latest exit from the ...",
+    "title": "Weil Gotshal Private Equity Partner Blakey to Jump ..."
+   },
    "google.com/goto?url=CAESrAEB6zswFTQ92-vMzw-Rti3k8YikUrBAk6Tvy3QO6VjKeENIHzLbIXuSmr9hXt3IE6ViTW6UYQt9Qo8cCL1plCy3q-WfDqEZSuCop_-vy76bECw05jIUollfv-8k8sYKenwAGTsPvk6lJMMBD3yXUZcrFXhK5CQXdG5wniEVP5wVRA811ftauDeTVRSP3gFW4TXbU6YEq1SFp9XkK8tVr7M0-vWz03mO6zEoDhKf": {
     "baseline": false,
     "date_hint": "13 hours ago",
@@ -1538,6 +1592,15 @@
     "page": 2,
     "summary": "A Weil Gotshal & Manges private equity partner, Lewis Blakey, in London is set to move to Simpson Thacher & Bartlett, marking the latest exit from the ...",
     "title": "Weil Gotshal Private Equity Partner Blakey to Jump ..."
+   },
+   "google.com/goto?url=CAESrAEB6zswFdi4vziFcyXiUk-mRX1CZMmS0D823H3zTTUp2oWsf4-Fr9nM5LkxlspGP5WGlMszR5MIbXuT1rv7BVRXcto2Zn9rIuZXY_UHy_6o2M_dBkcHHWE6U3dR05MXGswNzefUfYzZvrlYZufanLlJ1zTMpc_FbuwblwrLFgvFqDRVYvC_DBCP0fEn6uG9ZqZE0zd2p3wN_xP0M3r3lk5crbVDKSNwVYkniurI": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESrAEB6zswFdi4vziFcyXiUk-mRX1CZMmS0D823H3zTTUp2oWsf4-Fr9nM5LkxlspGP5WGlMszR5MIbXuT1rv7BVRXcto2Zn9rIuZXY_UHy_6o2M_dBkcHHWE6U3dR05MXGswNzefUfYzZvrlYZufanLlJ1zTMpc_FbuwblwrLFgvFqDRVYvC_DBCP0fEn6uG9ZqZE0zd2p3wN_xP0M3r3lk5crbVDKSNwVYkniurI",
+    "page": 2,
+    "summary": "A security breach at Binance involving up to $6.3 billion is the biggest crypto hack on record, raising fresh questions about the industry's ability to ...",
+    "title": "Record Binance Hack Shows No Crypto Firm Is Too Big to ..."
    },
    "google.com/goto?url=CAESrAEB6zswFdvlowYg0tNdvWbry40R3AwvEmgx5OUWlL87_DfMBDLWqzgWhReaGPHnpTotFuMtxab4jKCjSg3490GbkLRpvuaWB6h90R7ChaQXNZvxXZEnkSVkjT6Lsryhu65bh-mYhkLdxF3JR7d9EqfiBARbACRSxDkCrzz5VcXPEGuhBnpaLtzpKLvfTLoiLpKqyQ9_qlKE6Q0u5WcyqCHxdocoEskeBC65kbgC": {
     "baseline": false,
@@ -1728,6 +1791,15 @@
     "summary": "A San Francisco federal judge overseeing a privacy class action involving Meta Platforms Inc.'s illegal collection of womens' menstrual data chastised the ...",
     "title": "Judge Urges Faster Pace in Meta's Menstrual Health ..."
    },
+   "google.com/goto?url=CAESrQEB6zswFVH4nOOmInSqZnwkEXRW-lsCqwZwKLEkini4UNdR3d3v5AfwnE5z9crs7g_6wERDswRUeOpSrVzHg3lbvK_bM7MRp7xZL3HmMFghRz_i3fzVpFmEGr5cAjuNunwZXcvtTb_0wdTVZAuXaaOXKuo4dNMyMLAj0ZZCVGxACxLcYEETBBYDWvr5KhD5Y9QHhbUsN1psQP9A6rUOvVRyQIDrnCbihH-PszBO5w": {
+    "baseline": false,
+    "date_hint": "21 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESrQEB6zswFVH4nOOmInSqZnwkEXRW-lsCqwZwKLEkini4UNdR3d3v5AfwnE5z9crs7g_6wERDswRUeOpSrVzHg3lbvK_bM7MRp7xZL3HmMFghRz_i3fzVpFmEGr5cAjuNunwZXcvtTb_0wdTVZAuXaaOXKuo4dNMyMLAj0ZZCVGxACxLcYEETBBYDWvr5KhD5Y9QHhbUsN1psQP9A6rUOvVRyQIDrnCbihH-PszBO5w",
+    "page": 1,
+    "summary": "Weil Gotshal & Manges in its historic dissolution aims to follow the route of a rival New York firm that also fell apart without a bankruptcy, ...",
+    "title": "Weil Gotshal's Orderly Wind-Down Follows Stroock ..."
+   },
    "google.com/goto?url=CAESrQEB6zswFVWO9I3Ui3A_-DkwhO9e9bnjekszsYnLZ_UuUz8mubPvtHgeOQge0tWSAjYjBJPVBrc9uFe5COlRGUtbUZeA-qVTtsx5kJa1EPXG6An0p5xKEmct10eEZFXAqbn3O9Bu63sHKLb_RwHxes9u7f0QWOXz14ZbCvg-4N8halvs2mK8x7aHvSmHdvlMXXY_JMYg0S6yKfb17XV3YSz9yHr3Wuw6nClzKxU8hw": {
     "baseline": false,
     "date_hint": "19 hours ago",
@@ -1769,6 +1841,15 @@
     "date_hint": "10 hours ago",
     "first_seen": "2026-10-30T07:42:38Z",
     "link": "https://www.google.com/goto?url=CAESrQEB6zswFXBwFY6CZwo008DCzpz4wf8mlPnJN5mcvKmelHmW_QgASscNLdoV8CwWXSNyZvQSCf0vkg_EHAKNtyCBBjZi2uWc8PAHH7VGt3mcqvLFo2QIYOUpuo7SBD29TyoTBzv86PveuKwPG0uwirxTH67jefX-IHf52uyf-OMHJEC7nbXB0_0l3uZnP1bgd8DAubCl4qmfhiyF0tp0_YH_UCTtCn_shWm2znULlw",
+    "page": 2,
+    "summary": "A San Francisco federal judge overseeing a privacy class action involving Meta Platforms Inc.'s illegal collection of womens' menstrual data chastised the ...",
+    "title": "Judge Urges Faster Pace in Meta's Menstrual Health ..."
+   },
+   "google.com/goto?url=CAESrQEB6zswFXzhdop1zYSEOlvXHijB3sKs8dxzFQdwYwGDBoGQ0XnlQwa7LZ6b-uLKraKsTVB8Ck92NAtnEOY6MyEBD4fGS6fE4Sl-U3jf4Ek2DE3r3i2QwPDo4gnUXGzkiSFJoUapqGL_z847YuTTql5_3zeNjNy7V2pIooJdJthjYwEDVP1vZJ6VEDOtom_1Le0rj2oIXVAp0HRifyXFnXUeJ3Y9s0ynOJ4ubPbDlw": {
+    "baseline": false,
+    "date_hint": "20 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESrQEB6zswFXzhdop1zYSEOlvXHijB3sKs8dxzFQdwYwGDBoGQ0XnlQwa7LZ6b-uLKraKsTVB8Ck92NAtnEOY6MyEBD4fGS6fE4Sl-U3jf4Ek2DE3r3i2QwPDo4gnUXGzkiSFJoUapqGL_z847YuTTql5_3zeNjNy7V2pIooJdJthjYwEDVP1vZJ6VEDOtom_1Le0rj2oIXVAp0HRifyXFnXUeJ3Y9s0ynOJ4ubPbDlw",
     "page": 2,
     "summary": "A San Francisco federal judge overseeing a privacy class action involving Meta Platforms Inc.'s illegal collection of womens' menstrual data chastised the ...",
     "title": "Judge Urges Faster Pace in Meta's Menstrual Health ..."
@@ -1880,6 +1961,15 @@
     "page": 1,
     "summary": "The Milwaukee Brewers and Tampa Bay Rays matchup in the World Series forced partners at Foley & Lardner to choose between two clients. The law firm helped keep ...",
     "title": "Rays-Brewers World Series Posed Unusual Foley & ..."
+   },
+   "google.com/goto?url=CAESrQEB6zswFco8K_WwXtPJKOUB1bY98pK5iOHC0rBgTtRt5gtrNzjgLmsZEAhvdVyPjqHHSbS-3g8Zp5Sym6Lp4b11DjukcbG_o9FfGTHH6txfQNnzO8fr6jXkleY3t4ljFmoLcKu6kckHj0VAXvbgYOAjlv2Bdv1aexI-bAKu5OtiNV7EOff1KcOnKEZpL36FtSXt6VKgn024RVfgCmr_dWIFh43F53QCGZtCRxKCnw": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESrQEB6zswFco8K_WwXtPJKOUB1bY98pK5iOHC0rBgTtRt5gtrNzjgLmsZEAhvdVyPjqHHSbS-3g8Zp5Sym6Lp4b11DjukcbG_o9FfGTHH6txfQNnzO8fr6jXkleY3t4ljFmoLcKu6kckHj0VAXvbgYOAjlv2Bdv1aexI-bAKu5OtiNV7EOff1KcOnKEZpL36FtSXt6VKgn024RVfgCmr_dWIFh43F53QCGZtCRxKCnw",
+    "page": 1,
+    "summary": "An Ohio judge again permanently struck down laws related to a ban on abortions after six weeks of pregnancy that was rendered unconstitutional after voters ...",
+    "title": "Ohio Abortion Provider Requirements Struck Down by ..."
    },
    "google.com/goto?url=CAESrQEB6zswFdVtiyNwWkWuVuupnPE-yt3Up8FEkhdQN0XjLrmyMTeld2ubTMSF8ojWJDysneJdsqGH7DtLJLRLJD_MzFiIxbAV8R-JM7ZsqjskC00FwZ2Qtbz2NEVfgZJippJVg6CslJjgwwe-7k9PCYUYDVfN7QQVhak5RaMn7lWPEzRxQeEAyy0lbwKi_bClvhVIIFEi533pCFVaqVm_2W0TGzXjzCGvCshmj7Hf5A": {
     "baseline": false,
@@ -2016,6 +2106,33 @@
     "summary": "Lyft Inc. will pay $1.8 million to California's attorney general to resolve claims the ride-share app didn't let users easily opt out of the sale of their ...",
     "title": "California Hits Lyft With $2 Million Fine for Privacy Violations"
    },
+   "google.com/goto?url=CAESrgEB6zswFcUoXPWDpczxR-EprF-zml8Z2o1TSRyP5vm4z47ID9bz3XbcI35kazxLF3ll17bbm_ZBxr1BbFBHZX7s771u2J_BDYLTF9AoqHyn9ZnAchixMjoL9PxqzvLv6jEXWNsIvwb2slXxRx7cAXzCvvo9jvFVP0CPGQs4G_54KWvP-wKnyU-R6-THO1KYdZCus79aaSbST7OFsJIoZoJCiPHWhnWyf6sD4lVXVzc": {
+    "baseline": false,
+    "date_hint": "22 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESrgEB6zswFcUoXPWDpczxR-EprF-zml8Z2o1TSRyP5vm4z47ID9bz3XbcI35kazxLF3ll17bbm_ZBxr1BbFBHZX7s771u2J_BDYLTF9AoqHyn9ZnAchixMjoL9PxqzvLv6jEXWNsIvwb2slXxRx7cAXzCvvo9jvFVP0CPGQs4G_54KWvP-wKnyU-R6-THO1KYdZCus79aaSbST7OFsJIoZoJCiPHWhnWyf6sD4lVXVzc",
+    "page": 2,
+    "summary": "Lyft Inc. will pay $1.8 million to California's attorney general to resolve claims the ride-share app didn't let users easily opt out of the sale of their ...",
+    "title": "California Hits Lyft With $2 Million Fine for Privacy Violations"
+   },
+   "google.com/goto?url=CAESrgEB6zswFe-uaoV-XOlloHHef5ZyBOKzlQ4Yy9Tg_71cRCGQyNDkpiet4cidEf-EXluczrsKeCciTyFonaFs1UEMRP-xx69TiGJG5-VFY-8DxxKoO9f0lBKiYVxkjyvT-7B2G3YPl8K4o9SiiCXX6HX3T2nQiJFk7RH6vmhonroQb2CFamQmyvsG2N53sTgR7p9cBDh5XdZGQImv9hrhDYIsEj951KfFyabr2qs0xQE": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESrgEB6zswFe-uaoV-XOlloHHef5ZyBOKzlQ4Yy9Tg_71cRCGQyNDkpiet4cidEf-EXluczrsKeCciTyFonaFs1UEMRP-xx69TiGJG5-VFY-8DxxKoO9f0lBKiYVxkjyvT-7B2G3YPl8K4o9SiiCXX6HX3T2nQiJFk7RH6vmhonroQb2CFamQmyvsG2N53sTgR7p9cBDh5XdZGQImv9hrhDYIsEj951KfFyabr2qs0xQE",
+    "page": 1,
+    "summary": "Homeland Security Investigations agents have taken a leading role in probing illegal voting ahead of the 2026 midterms, an uncommon task for an agency ...",
+    "title": "DHS Investigative Unit Takes Outsized Role in Midterm ..."
+   },
+   "google.com/goto?url=CAESrwEB6zswFRcrAgnZKlOAwxYFHDF_ZDYxaolClJ_k9FfCNgvJhyKcHrgi7wrJiajm4uiIaQx9fwt7ph8pEbvK80C14UWs9O8-7NMkVMnYhVopIHvPTNzIM5TN5IydtIcTvjzzcmk5lLwbO4rV3YvojRm-X_TRBERrWHW7_uSrcrSnJi1JUu8Zco-RSn1sB8r2Uoy71QdCRZDYnYxzfq7XIrw5Z9Is-h5QA9_kVHk4HfD3": {
+    "baseline": false,
+    "date_hint": "23 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESrwEB6zswFRcrAgnZKlOAwxYFHDF_ZDYxaolClJ_k9FfCNgvJhyKcHrgi7wrJiajm4uiIaQx9fwt7ph8pEbvK80C14UWs9O8-7NMkVMnYhVopIHvPTNzIM5TN5IydtIcTvjzzcmk5lLwbO4rV3YvojRm-X_TRBERrWHW7_uSrcrSnJi1JUu8Zco-RSn1sB8r2Uoy71QdCRZDYnYxzfq7XIrw5Z9Is-h5QA9_kVHk4HfD3",
+    "page": 1,
+    "summary": "NASA didn't give a co-owner of a patent a license to enforce protected methods against Apple Inc., the federal government told a Texas judge.",
+    "title": "NASA Disrupts Patent Dispute Over Apple Voice ..."
+   },
    "google.com/goto?url=CAESrwEB6zswFTsrx5OSkkiEPvi4PZ7wJkRF5zg0vfUWyoTllvEAxUqLT7ZM9SIOD-YxJFBrbziCOuGl2ZgW88A5OtuAwmZdwn8uz954gx7ogzGydr3Cn9fZTFSLoNH8PLGt0dh6-Jm593mnBl-U_dYBa4XBsZM-6tX1ZE8UaBXfgp4WEUcPRSP6vot_P4oFFE7yZWS0yF8-NKtSmw6ndUEZJY9YqMoJZKG4a_YWdGu1l72a": {
     "baseline": false,
     "date_hint": "13 hours ago",
@@ -2114,6 +2231,15 @@
     "page": 1,
     "summary": "NASA didn't give a co-owner of a patent a license to enforce protected methods against Apple Inc., the federal government told a Texas judge.",
     "title": "NASA Disrupts Patent Dispute Over Apple Voice ..."
+   },
+   "google.com/goto?url=CAESrwEB6zswFbGROE_-g1A9OD8kRcFbuCISuv8t8e4jlH71GWWF9si4tKvz0vEslwUaA4BKZmlD0yWq9xkBW8-YEZ6uo5y9euU0hPOrDsyGQXGjCv0NLKM4Eqtnlm_ZJYNEtZE5qnMgyN0KJHEVt7Eixbcnyr1dggVoOJ-dUT4xM_AEJnL8ole-kGNSVLdVq8xmCK0UpOGOeUbjdJt4sSWK1bNGe2yN-0AGAEYMglqAYby_": {
+    "baseline": false,
+    "date_hint": "16 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESrwEB6zswFbGROE_-g1A9OD8kRcFbuCISuv8t8e4jlH71GWWF9si4tKvz0vEslwUaA4BKZmlD0yWq9xkBW8-YEZ6uo5y9euU0hPOrDsyGQXGjCv0NLKM4Eqtnlm_ZJYNEtZE5qnMgyN0KJHEVt7Eixbcnyr1dggVoOJ-dUT4xM_AEJnL8ole-kGNSVLdVq8xmCK0UpOGOeUbjdJt4sSWK1bNGe2yN-0AGAEYMglqAYby_",
+    "page": 1,
+    "summary": "The Ninth Circuit has granted an emergency stop to a lower court order requiring the US State Department to reopen its Diversity Immigrant Visa lottery for ...",
+    "title": "Diversity Immigrant Visa Lottery Can Remain Paused as ..."
    },
    "google.com/goto?url=CAESrwEB6zswFbKHu7jVBgMWefzKTiW8n-qWxUAZ3ApH8yHsfzGZOu8qHHYUAzSa5IfnvI5vOY7kXyQomC-cgLO1Q0esKvjmANbt7rdjcneUezZ7U4Relk58THnhyZflXbOOGgyI43gyjgK6w8FOHWkH-QJvwvO76lHfT-8FGy8rCFWWl-nOm76C_xbXQG_RVR8D4xQ009KuID_wNkgLJtfzOBkGlZWZlVessuiNXXE3Wb_q": {
     "baseline": false,
@@ -2968,6 +3094,15 @@
     "page": 1,
     "summary": "Gabe Evans, left, won his Colorado House seat by a few. Republican Rep. Gabe Evans, left, is trying to fend off a challenge from Democrat Manny Rutinel, right, ...",
     "title": "Colorado Battleground Race Shaped by Immigration ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/colorado-justices-preserve-ballot-initiative-on-graduated-tax": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/colorado-justices-preserve-ballot-initiative-on-graduated-tax",
+    "page": 1,
+    "summary": "The Colorado Supreme Court on Friday ordered that votes shall be counted on a proposed constitutional amendment establishing a graduated income tax, ...",
+    "title": "Colorado Justices Preserve Ballot Initiative on Graduated Tax"
    },
    "news.bloomberglaw.com/business-and-practice/columbus-gun-control-injunction-upheld-by-ohio-appeals-court": {
     "baseline": false,
@@ -5455,6 +5590,15 @@
     "summary": "A federal appeals panel appeared unlikely to reverse a lower court's default judgment against a California oil company for violating Ventura County's zoning ...",
     "title": "Oil Company Unlikely to Revive Suit Against California ..."
    },
+   "news.bloomberglaw.com/business-and-practice/omni-bridgeway-investment-report-sees-growth-litigation-finance": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/omni-bridgeway-investment-report-sees-growth-litigation-finance",
+    "page": 1,
+    "summary": "The publicly traded funder, which recently announced the close of its second $1 billion fund, reported new commitments of A$87.1 million across nine new ...",
+    "title": "Omni Bridgeway Investment Report Sees Growth: Litigation ..."
+   },
    "news.bloomberglaw.com/business-and-practice/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -7316,6 +7460,15 @@
     "summary": "A self-ordering kiosk is either reading its menu live from your point-of-sale system, or it's keeping a separate copy of that menu somewhere else \u2014 one that a ...",
     "title": "Standalone Kiosk or POS-Integrated? How to Decide"
    },
+   "google.com/goto?url=CAESkwEB6zswFQnxyVhPiAStVAxu9Ig3CliANC3L77jc4rOnUQLfr3gOVOv21DMZK_67LULlS27QyfqbkbRR7MfRQu3pVZKms04Q3ocFrafOruFZl8YFdJH8ZC98-gfkfCnLqgmv0vFAn0kfbHtbLSJxY_WpJ67wG_RDk970W21LJbtztpnAtKckfivIePpp9eLXKpEHp2E": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESkwEB6zswFQnxyVhPiAStVAxu9Ig3CliANC3L77jc4rOnUQLfr3gOVOv21DMZK_67LULlS27QyfqbkbRR7MfRQu3pVZKms04Q3ocFrafOruFZl8YFdJH8ZC98-gfkfCnLqgmv0vFAn0kfbHtbLSJxY_WpJ67wG_RDk970W21LJbtztpnAtKckfivIePpp9eLXKpEHp2E",
+    "page": 1,
+    "summary": "A thirty-day countdown for switching to a cloud POS: contracts, data export, menu rebuild, gift cards, training, and a weeknight cutover before the first ...",
+    "title": "Switch to a Cloud Point of Sale System on a Quiet ..."
+   },
    "google.com/goto?url=CAESkwEB6zswFUk4T5uDE8_bj9-7gIR9oIY-Feujh0SwGjLlphVKHM0R8SU5qITU7MST3iSPsFFBJWHBB7eNJmrUWXBKIAx9JMOGyEm-pjuvOSI8GtnuD6sIupWpvz_yFpE2ozHKjT95nUCGUV44PtKinkBIsflQnZsFD9Mfwh-aBEXN96OaIGKcbi3p4jMb9MY7hxtJ2kI": {
     "baseline": false,
     "date_hint": "1 day ago",
@@ -7790,6 +7943,15 @@
     "summary": "Check out these food delivery marketing ideas to help you get the word out about your off-premise offerings.",
     "title": "5 Food Delivery Marketing Tips for Restaurants"
    },
+   "google.com/goto?url=CAESfAHrOzAV8fqza7JJrf29Am8E79fPbCgHUpaXlsYytoxpm_kKkxeq53V1TngHQW3tQjw9uX5C_kpp7Hl_B3iA4truw2c2cy8SIvuVc14CPm9XlNJvBBHOt0TVDCP-ujq5SaPj4wgIhr63POfV7bE-54VIhhcmaUEE39DMEis": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESfAHrOzAV8fqza7JJrf29Am8E79fPbCgHUpaXlsYytoxpm_kKkxeq53V1TngHQW3tQjw9uX5C_kpp7Hl_B3iA4truw2c2cy8SIvuVc14CPm9XlNJvBBHOt0TVDCP-ujq5SaPj4wgIhr63POfV7bE-54VIhhcmaUEE39DMEis",
+    "page": 1,
+    "summary": "Check out these food delivery marketing ideas to help you get the word out about your off-premise offerings.",
+    "title": "5 Food Delivery Marketing Tips for Restaurants"
+   },
    "google.com/goto?url=CAESfAHrOzAV9J2CoP6UXRKT_fpa25v0vfh0NWhDtjCZwHbu5c7IOFCg6Qa0BA2EuNLQbTyMb60jgSvcGqL6CDAyRyuU72s4TEMTNFTS8W0sxhWuag8j26XxWSuF385VIhG3ndCwXAiaOM4_VoE2Nr_ELsOR96vfROSoR0PZ8_s": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -7831,6 +7993,15 @@
     "date_hint": "2 days ago",
     "first_seen": "2026-10-30T13:43:00Z",
     "link": "https://www.google.com/goto?url=CAESfAHrOzAVIFacqMhUoBka4eTeXIFIc43QkLlsYJkOz_l0h_8uCgm5eEOpXs5QljVF6dP4832HoXDG-nEY7-J4E-4ELoy4tL8nu1uIbSAXw_uKSq6YHKjdP0jpr9IT9hfRXXFA64m3P9lEQu9NRqNxUd8-8Q5i0fqGAibw3W0",
+    "page": 1,
+    "summary": "Restaurant CRM campaigns drive repeat orders, improve guest loyalty, and simplify your marketing. Learn how to run a high-performing campaign with your ...",
+    "title": "The Anatomy of a High-Converting Restaurant CRM ..."
+   },
+   "google.com/goto?url=CAESfAHrOzAVKnU_XzBdLtYfxIA8oa2ds62MahUUfGJwUPKyGd5dOgSBJk7YCBevmsOAMLkTgzfGgEkSULSGlWAWOxffWWyA7QttZQ3TW5CaGTflbLifK4L_BZVs_NT3xLnVjTvxO0y0HtqiQFhFEOjYQyyNJcfVy9YVw0kbJpQ": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESfAHrOzAVKnU_XzBdLtYfxIA8oa2ds62MahUUfGJwUPKyGd5dOgSBJk7YCBevmsOAMLkTgzfGgEkSULSGlWAWOxffWWyA7QttZQ3TW5CaGTflbLifK4L_BZVs_NT3xLnVjTvxO0y0HtqiQFhFEOjYQyyNJcfVy9YVw0kbJpQ",
     "page": 1,
     "summary": "Restaurant CRM campaigns drive repeat orders, improve guest loyalty, and simplify your marketing. Learn how to run a high-performing campaign with your ...",
     "title": "The Anatomy of a High-Converting Restaurant CRM ..."
@@ -8096,6 +8267,15 @@
     "summary": "Discover 20 restaurant advertising ideas, from social media to loyalty programs, to attract more diners and grow sales.",
     "title": "20 Restaurant Advertising Ideas to Grow Sales in 2026"
    },
+   "google.com/goto?url=CAESfQHrOzAVOfrf81L6kMPJQqDhBmtRddiD9nUAHNVxEw4rvVcXknqLC363DQXcFxp-NFVMc5wgu0E070kkFZ8uGZpndT8AHTYy1LYfS6n6tdo8pgUGKdFMQ5g0PcE1djnEVoRUCoMIL0fi_uvEWU6uh41ms8w6W5dLCiIIchO_": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESfQHrOzAVOfrf81L6kMPJQqDhBmtRddiD9nUAHNVxEw4rvVcXknqLC363DQXcFxp-NFVMc5wgu0E070kkFZ8uGZpndT8AHTYy1LYfS6n6tdo8pgUGKdFMQ5g0PcE1djnEVoRUCoMIL0fi_uvEWU6uh41ms8w6W5dLCiIIchO_",
+    "page": 1,
+    "summary": "Discover 20 restaurant advertising ideas, from social media to loyalty programs, to attract more diners and grow sales.",
+    "title": "20 Restaurant Advertising Ideas to Grow Sales in 2026"
+   },
    "google.com/goto?url=CAESfQHrOzAVQ0h7OVMlvTC2Nkuk9RtOTTvVMH0iWtthgg-_OeKsM5P9C5TbPSg8AvyaLz6vmQP3hyX_IUcZx0GDqUrGtAV5Sx9GmZwoCi_X9Np82W8FnwqwevmkE6HfJDY9Xv4SxAfHzzmgm0SyfU_3NnJMwEsNTAF56IeX89-g": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -8263,6 +8443,15 @@
     "date_hint": "7 days ago",
     "first_seen": "2026-10-30T15:42:55Z",
     "link": "https://www.google.com/goto?url=CAESgAEB6zswFTBUTOnszUPtrK4rlGZBDFqs6mJjRSUSBmBOvdtfX5dhU-Li-vobknEK1Ylh8IKVEVtHkAIiNY_8mYQJtCl943tss26v1QsJJbnJuJ5amwL7VsLu95J72uT81nL35_6J0Lb4jVXwslnjz1R3bgRwuqSQELZq-MOUhThRMg&gsessionid=5bJoBu7qf2srFmO0Y0BAy33ns5HXAZ1L2HcFLJNG2-JUURx9Ux-lBw",
+    "page": 1,
+    "summary": "See the true cost of a restaurant POS system \u2014 software, hardware, processing fees, and the hidden costs vendors don't advertise.",
+    "title": "Restaurant POS System Cost: What You'll Really Pay"
+   },
+   "google.com/goto?url=CAESgAEB6zswFTIVhsUziF-BjFO5EV7PkqycmuyFfMPvOORvqI90RL7tPPMNxNsT3Lak0srGYHxX0Oez8N3hnpBKJLKOlxfIW8XWwW6Q7cteEkDPQPyoZ_vpKT9bDinR9sgD5Dkds_VZZwatUsexmEmKVdqNpzCsZpPFTBf5O86euKrypw": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESgAEB6zswFTIVhsUziF-BjFO5EV7PkqycmuyFfMPvOORvqI90RL7tPPMNxNsT3Lak0srGYHxX0Oez8N3hnpBKJLKOlxfIW8XWwW6Q7cteEkDPQPyoZ_vpKT9bDinR9sgD5Dkds_VZZwatUsexmEmKVdqNpzCsZpPFTBf5O86euKrypw",
     "page": 1,
     "summary": "See the true cost of a restaurant POS system \u2014 software, hardware, processing fees, and the hidden costs vendors don't advertise.",
     "title": "Restaurant POS System Cost: What You'll Really Pay"
@@ -8528,6 +8717,15 @@
     "summary": "This guide gives you 60+ restaurant feedback questions, sorted by category. You'll find questions on your overall experience, food quality, service, ambiance, ...",
     "title": "60+ Restaurant Feedback Questions to Ask Your Guests"
    },
+   "google.com/goto?url=CAESggEB6zswFe02egPdLRrmxw9WgHhOHppIlCeEeHm5WPqnTZjqCsPOdZxqtZISOb6cGnLb38fkktuIDE4dSeygpUINQsrwP2F8r8g63xXT1M2Xe0upi9S4wqg3pWe8hFy27DM_U9kFjVj3KuVdP7GpXBSswkhUeYOwHx7s4hg-tJPsTLmE": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESggEB6zswFe02egPdLRrmxw9WgHhOHppIlCeEeHm5WPqnTZjqCsPOdZxqtZISOb6cGnLb38fkktuIDE4dSeygpUINQsrwP2F8r8g63xXT1M2Xe0upi9S4wqg3pWe8hFy27DM_U9kFjVj3KuVdP7GpXBSswkhUeYOwHx7s4hg-tJPsTLmE",
+    "page": 1,
+    "summary": "This guide gives you 60+ restaurant feedback questions, sorted by category. You'll find questions on your overall experience, food quality, service, ambiance, ...",
+    "title": "60+ Restaurant Feedback Questions to Ask Your Guests"
+   },
    "google.com/goto?url=CAESgwEB6zswFQ7qPj0qYUD82ZBQjYpUOfqI3VqHMltfx8myqAqkC300DRGwaHvbMkMkO7GGxdRLZeu3cEcQ2S9cMIkJREtOT_0kJRa2MQZXdVPgpVVe1ZJphOAfgMS6Em96uaqd6zNiFcYATCF-346ppB7jwVnzjxrHH4YDQU9oAct5Jn6WDg": {
     "baseline": false,
     "date_hint": "7 days ago",
@@ -8731,6 +8929,15 @@
     "date_hint": "3 days ago",
     "first_seen": "2026-10-30T13:43:00Z",
     "link": "https://www.google.com/goto?url=CAEShQEB6zswFXnENRJ4wFVGLEK2cqNWtr5A20o0LFHdOZWLnl93yBBu_Oo3eWCUZrYQAhcS0kFfZI6vvTKu4pMT5hiZu2q4_rTeROYmzkgFIfYh8yOBrzjX3Kc8GoJMcDU2moPoIj8RqatBUTeBs-L4Ts71HRcAfLKI1bS8NhWSpYgp6mDq2Q79",
+    "page": 1,
+    "summary": "Foot traffic feels flat? Get 11 practical, budget-friendly ways for retail store owners to reach new local shoppers and grow their business.",
+    "title": "How to Grow Your Retail Business: 11 Strategies"
+   },
+   "google.com/goto?url=CAEShQEB6zswFXwLFng-kMOok5jwcFZWM7CLSWUaZGdtlYZLR6aemofj3W2mKKjSWm_tq283P459DUsAh7Perk-AVPkjqu7baxFog7FfvhgZkcDBHZyJp8PFwIgLALZ-9J01SNW3w66V30d0yEiFpJyR64A5A694-VWFBqusmAwvBlBDElcZcwG7": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAEShQEB6zswFXwLFng-kMOok5jwcFZWM7CLSWUaZGdtlYZLR6aemofj3W2mKKjSWm_tq283P459DUsAh7Perk-AVPkjqu7baxFog7FfvhgZkcDBHZyJp8PFwIgLALZ-9J01SNW3w66V30d0yEiFpJyR64A5A694-VWFBqusmAwvBlBDElcZcwG7",
     "page": 1,
     "summary": "Foot traffic feels flat? Get 11 practical, budget-friendly ways for retail store owners to reach new local shoppers and grow their business.",
     "title": "How to Grow Your Retail Business: 11 Strategies"
@@ -8942,6 +9149,24 @@
     "summary": "6 ready-to-use restaurant email templates for newsletters, promotions, loyalty, and more \u2014 plus tips to grow your list and boost opens. October 26, 2026.",
     "title": "6 Restaurant Email Marketing Templates to Use Now"
    },
+   "google.com/goto?url=CAESiQEB6zswFdsulh4Zl-3j6e0NqYrNSRsWZuC-lOXKzL-g7LUyAqslhealNplsB4jCqXbFZAhOyPaa85vtZrw-6KFDRClqhqt77qztKmYs3EsjOxzRnvynoiFmAGlKOeY2MZNdR1jDQXT-ElbgvlyJrISR0dLeRuRLn1vmQs13Z8zGyqOce259eAkFKA": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESiQEB6zswFdsulh4Zl-3j6e0NqYrNSRsWZuC-lOXKzL-g7LUyAqslhealNplsB4jCqXbFZAhOyPaa85vtZrw-6KFDRClqhqt77qztKmYs3EsjOxzRnvynoiFmAGlKOeY2MZNdR1jDQXT-ElbgvlyJrISR0dLeRuRLn1vmQs13Z8zGyqOce259eAkFKA",
+    "page": 2,
+    "summary": "6 ready-to-use restaurant email templates for newsletters, promotions, loyalty, and more \u2014 plus tips to grow your list and boost opens. October 26, 2026.",
+    "title": "6 Restaurant Email Marketing Templates to Use Now"
+   },
+   "google.com/goto?url=CAESiwEB6zswFQHh6zjnU8wrVM8u7upTUGeVLxP8yVOlqwii5p1f1DA6uyYciDT6eKYpnhJPfbG1-eYaMRScFoMwJH_8CSiob8qR1cLD9_82_HO1LKxM1_85Ze5m7Hf9CLaR0AdgzT4lLBjcavhjjNh5X8s8SnHfH1AeAvHdRPCi33hP3N1-aSHqZf_D550G": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESiwEB6zswFQHh6zjnU8wrVM8u7upTUGeVLxP8yVOlqwii5p1f1DA6uyYciDT6eKYpnhJPfbG1-eYaMRScFoMwJH_8CSiob8qR1cLD9_82_HO1LKxM1_85Ze5m7Hf9CLaR0AdgzT4lLBjcavhjjNh5X8s8SnHfH1AeAvHdRPCi33hP3N1-aSHqZf_D550G",
+    "page": 1,
+    "summary": "A restaurant POS system is the hardware and software that takes orders, sends them to the kitchen, and processes payments. It also records every sale. Front-of- ...",
+    "title": "Benefits of POS Systems in Restaurants: Are They Worth It?"
+   },
    "google.com/goto?url=CAESiwEB6zswFQpppIdt_BN46Hj4W0p0tuh4jy08t2jJ5gMxoZWC7Z11l174QjFlmsPAEikdWNXJvL4VwlbtX1WKzYcNDJJrmdG78G7_EKuergp7VWqpniR4hRazcIj4Q_mnTZKXJw5xJFBbAEXXhY8oHGKSuFrBGiMA0L0Zw5e-nsNEzNl4LQE-tAEP7soA": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -9058,6 +9283,24 @@
     "page": 2,
     "summary": "Copy 50+ sample restaurant text messages for reservations, promos, loyalty, and staff alerts, plus compliance rules and how to send them.",
     "title": "50+ Sample Text Messages for Restaurant Marketing"
+   },
+   "google.com/goto?url=CAESkgEB6zswFernzNnhXdZO7_1zKTmh1KWAvKCVZl6GyyUADFpdp2nwkvfh6FyTxtN-NRd2rL-wa69CI8JqGgG8ytyxqoqMqZACGOivnCkW2ybGvIrigsTtBZ-rShv0gfBy6dLq_41elOQ-b3nzIQBaeVZdqiDGhQydQUow9fJIyQRBF7_nCW0rDjhaiOiaf9jtrbZfeQ": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESkgEB6zswFernzNnhXdZO7_1zKTmh1KWAvKCVZl6GyyUADFpdp2nwkvfh6FyTxtN-NRd2rL-wa69CI8JqGgG8ytyxqoqMqZACGOivnCkW2ybGvIrigsTtBZ-rShv0gfBy6dLq_41elOQ-b3nzIQBaeVZdqiDGhQydQUow9fJIyQRBF7_nCW0rDjhaiOiaf9jtrbZfeQ",
+    "page": 2,
+    "summary": "Copy 50+ sample restaurant text messages for reservations, promos, loyalty, and staff alerts, plus compliance rules and how to send them.",
+    "title": "50+ Sample Text Messages for Restaurant Marketing"
+   },
+   "google.com/goto?url=CAESkwEB6zswFQ_Ww7Z3I4vm8xuTh00VOyr2pE60ioppiF59V_SLdUYInXu5ts-lv_tzJIrV801sRKEB2CfzTiYmqWXPz4uUyqT7XP_kmY3lI2C72YlZP8HSukpWRWj7ZHAqNkaYZFfAL3PSeKdnInPCT4ZB9wy2_SnJUMMYzs030PC0jRQBVdAkA5q8385UsyZuKkggH_I": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESkwEB6zswFQ_Ww7Z3I4vm8xuTh00VOyr2pE60ioppiF59V_SLdUYInXu5ts-lv_tzJIrV801sRKEB2CfzTiYmqWXPz4uUyqT7XP_kmY3lI2C72YlZP8HSukpWRWj7ZHAqNkaYZFfAL3PSeKdnInPCT4ZB9wy2_SnJUMMYzs030PC0jRQBVdAkA5q8385UsyZuKkggH_I",
+    "page": 2,
+    "summary": "Comparing DoorDash, Uber Eats, Grubhub, and more? See how fees, reach, and data ownership stack up so you can pick the right fit.",
+    "title": "Which Delivery Service Is Best for Restaurants in 2026?"
    },
    "google.com/goto?url=CAESkwEB6zswFRLuV80K5veTjNy__xsqbDjwNQzCnDA4EaCDuVq3AnYcmEovXIAKTcymCm0hSlvKu6wqxFqgncFJX7xZ7Wd2V5srizzZOtzdEUG9NN6YUVVltexUOXak5uB9hEGy-mglRhAtmbu7D2glbweI6OofXN7PPRwGbAyKYZwitos11fuLGPxn6K514S7N0eKSkzQ": {
     "baseline": false,
@@ -9797,6 +10040,15 @@
     "summary": "Today, DoorDash announced that WNBA star Paige Bueckers will be the first-ever athlete to take on a Creative Director role with the brand. Bueckers' new ...",
     "title": "Paige Bueckers Joins DoorDash as Creative Director for ..."
    },
+   "google.com/goto?url=CAESigEB6zswFSWup_yRE6jVoT_nxzGSI7wYJTz_COBbMu_EeDr7te9iP3eWiNyyfBGAqOzlNqwbAgd4RcekNwkcvWE4_KTUEHJnfW3JZ-IOn-tPrytyQOaEJZKLT0AOa-M8PFMJ5JLjlOCDMx1Mmop3HGzTYyI08spzBHEAmcgfaaULQvAjXbJnUiEkKKM": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESigEB6zswFSWup_yRE6jVoT_nxzGSI7wYJTz_COBbMu_EeDr7te9iP3eWiNyyfBGAqOzlNqwbAgd4RcekNwkcvWE4_KTUEHJnfW3JZ-IOn-tPrytyQOaEJZKLT0AOa-M8PFMJ5JLjlOCDMx1Mmop3HGzTYyI08spzBHEAmcgfaaULQvAjXbJnUiEkKKM",
+    "page": 1,
+    "summary": "Today, DoorDash announced that WNBA star Paige Bueckers will be the first-ever athlete to take on a Creative Director role with the brand.",
+    "title": "Paige Bueckers Joins DoorDash as Creative Director for ..."
+   },
    "google.com/goto?url=CAESigEB6zswFUrVS14Gl29IgOYPa2i6tZK_TKU9ob2nOdSJ32kDBwKvH-ODRx0Fqbk_VnNotzZS5Sx-shbgDSczMSL5KHZU2fx1MC1cFNepKGUzWtHZvYBDi9rYZCNe223nLsP9c_c3wcYtJSje90NKS6EA97LWb1HATXgSlhkbriIQ9Zzhj-Kn1v-rt20": {
     "baseline": false,
     "date_hint": "1 day ago",
@@ -10048,6 +10300,15 @@
     "page": 1,
     "summary": "Culver's fans can get their favorites delivered with DoorDash wherever they are, from more than 900 participating restaurants nationwide. Culver's,",
     "title": "Culver's Now Available for Delivery on DoorDash"
+   },
+   "google.com/goto?url=CAESjwEB6zswFetz142RQclhisGF3vWpP4Ew-SEDnSqToY1OtoR5Stbk-bjOl1qk1CdV6y_0cMx0__2hODtbcY_K_J4lGUaLjbSKxRiNXoSZXqx7JDca87I6HkzY9ubYZ_Zd7wVNZlicnCrNjX0hb2qi8Mwcywurj0PZsjlJmzsSmESttrFTmx8bLYHSB7taK_vAeA": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESjwEB6zswFetz142RQclhisGF3vWpP4Ew-SEDnSqToY1OtoR5Stbk-bjOl1qk1CdV6y_0cMx0__2hODtbcY_K_J4lGUaLjbSKxRiNXoSZXqx7JDca87I6HkzY9ubYZ_Zd7wVNZlicnCrNjX0hb2qi8Mwcywurj0PZsjlJmzsSmESttrFTmx8bLYHSB7taK_vAeA",
+    "page": 1,
+    "summary": "Culver's fans can get their favorites delivered with DoorDash wherever they are, from more than 900 participating restaurants nationwide. Aug 8, 2024.",
+    "title": "Culver's Now Available for Delivery on DoorDash"
    }
   },
   "edicom-blog": {
@@ -10284,6 +10545,15 @@
     "summary": "Single sign-on (SSO) lets your team sign in to Intuit Accountant Suite, QuickBooks Online Accountant, and Intuit Enterprise Suite using your organization's ...",
     "title": "Set up single sign-on for your organization - QuickBooks - Intuit"
    },
+   "google.com/goto?url=CAEStQEB6zswFSNR5V9XEa6wGgkbnf81YFFXpYt41Q3lH8Gwa35fEg01WFh1eV3wJnBy_rylEF7nPVEUbdlshMLw3LmFkqnY_isafLcgE9qDTywmF8JGh8Ts9FQ47-P74EWNc0I9pRximB-fH1H4gbsPY2qvxSrtrw6cTYimAR9cIEj9n2HxzvKdyzYgQnr-o-ApU2RIiU6Uexa4JSL-vRkQ5Ip6vjS4_CFYX8SIjHs6YK3Fjz0xFj_1&gsessionid=VhVvV6Z4RzZxiUEUG4qWNo81IhLTw6JcKaUdTBMAhXX3DYQuh2ptSg": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAEStQEB6zswFSNR5V9XEa6wGgkbnf81YFFXpYt41Q3lH8Gwa35fEg01WFh1eV3wJnBy_rylEF7nPVEUbdlshMLw3LmFkqnY_isafLcgE9qDTywmF8JGh8Ts9FQ47-P74EWNc0I9pRximB-fH1H4gbsPY2qvxSrtrw6cTYimAR9cIEj9n2HxzvKdyzYgQnr-o-ApU2RIiU6Uexa4JSL-vRkQ5Ip6vjS4_CFYX8SIjHs6YK3Fjz0xFj_1&gsessionid=VhVvV6Z4RzZxiUEUG4qWNo81IhLTw6JcKaUdTBMAhXX3DYQuh2ptSg",
+    "page": 2,
+    "summary": "Use Books Close in Intuit Accountant Suite to manage your books close process. You can set up templates, organize tasks, review transactions, and manage client ...",
+    "title": "Manage Books Close hub - QuickBooks - Intuit"
+   },
    "google.com/goto?url=CAEStQEB6zswFSPzWwq5VzTyrJzqnTj5oPUWRz2g7rtE7Zj5RggiY9vc1597279ohPyPq816gRJbl-Ig5IHBgc_G94SeRHvpYBCi24pQngY1feIiprk5EYa4wVaa59LqA5fj6gl5llEGoPPivD41_M9jrN63NS3klA4r5z8GxrKvN6X5mPE-SscvrUmwY7KDJjd538f3Sqn3ptWaxJuziq2JqiQaYxs8mq8elgCrm0w75VTzRHM93qIU": {
     "baseline": false,
     "date_hint": "1 day ago",
@@ -10361,6 +10631,15 @@
     "date_hint": "1 day ago",
     "first_seen": "2026-10-30T04:27:34Z",
     "link": "https://www.google.com/goto?url=CAEStQEB6zswFVZBFOOM4NKPGsv-ki8PnSxT6z4rl1tvMMGvSzvyw-Ij8QD2oHBJL19LN1Sxz-cZe3asaZMXOgfhAVprJmBdkgU-VIc3ka6Z2HNBxZO9YJKhxwNAHWrSmUTA3Hgg9WySZbzEQk6FjSOlXG3MQ_8iyPafe9cjS0hsZ8TFAN-j6GcHqsfQwis__axXvEdEyT0vzlZYjXzxm7XaInONvDQqlXXeCQ95LGoOpcrON40iPoEC",
+    "page": 2,
+    "summary": "Single sign-on (SSO) lets your team sign in to Intuit Accountant Suite, QuickBooks Online Accountant, and Intuit Enterprise Suite using your organization's ...",
+    "title": "Set up single sign-on for your organization - QuickBooks - Intuit"
+   },
+   "google.com/goto?url=CAEStQEB6zswFWMM4VDOG541TXyJq90v8NxePhCXVmWx7dW3ouW3Mjb5VZqUiRqUuO1rCI5ed46kEbGd8O7MyCuaau1LtU5V0lEhhAYPlOTJzlhwjAxlkkPJueVPxzVUuzFRFCipC6KaYA2ycQSM_0OI_9Xm4ClwT-oohSWuJU5THckAJ7aImRiD6d8BQ-e878rwosP4z9hgxtfNeT4EIPLVZMuK3ef4-rHRtzFXGahMfzoURjdaiZUZ&gsessionid=VhVvV6Z4RzZxiUEUG4qWNo81IhLTw6JcKaUdTBMAhXX3DYQuh2ptSg": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAEStQEB6zswFWMM4VDOG541TXyJq90v8NxePhCXVmWx7dW3ouW3Mjb5VZqUiRqUuO1rCI5ed46kEbGd8O7MyCuaau1LtU5V0lEhhAYPlOTJzlhwjAxlkkPJueVPxzVUuzFRFCipC6KaYA2ycQSM_0OI_9Xm4ClwT-oohSWuJU5THckAJ7aImRiD6d8BQ-e878rwosP4z9hgxtfNeT4EIPLVZMuK3ef4-rHRtzFXGahMfzoURjdaiZUZ&gsessionid=VhVvV6Z4RzZxiUEUG4qWNo81IhLTw6JcKaUdTBMAhXX3DYQuh2ptSg",
     "page": 2,
     "summary": "Single sign-on (SSO) lets your team sign in to Intuit Accountant Suite, QuickBooks Online Accountant, and Intuit Enterprise Suite using your organization's ...",
     "title": "Set up single sign-on for your organization - QuickBooks - Intuit"
@@ -10496,6 +10775,15 @@
     "date_hint": "3 days ago",
     "first_seen": "2026-10-30T07:42:38Z",
     "link": "https://www.google.com/goto?url=CAESuAEB6zswFVp7UgPhp5U0RqwMc1-P7P4IZrk2pBEXzLnHv98xgubivX_KPbJKim81supDIWtPZFREeRobfoVA3bOoL0AH7gQsZnIyD5_rVzqUA5AWDOUvU4z96y3wG2X1OTaYkvbcanGMTCSFJOWx3BpT7w-IcEk9PsePTZraDhmTmuqIUF7n62TKrvM5CrJ0nU6G0eaN-fAMbGUn2qUlWhnXuvZiOiKAZs7HDunqQrKJLdL_30fRyxuC",
+    "page": 1,
+    "summary": "Employees must have a valid SSN for payroll You're required to collect each employee's name and Social Security number. This info goes on your employees' W-2s",
+    "title": "Understand the difference between a Social Security number ..."
+   },
+   "google.com/goto?url=CAESuAEB6zswFYB4Igoq2xuFmG3y5IroiUefoFHsxlD1BYHyXHwl1WaTLc8XVPc1uEHOePrnro881EgPPDBDUBMDcbCCBa97l4v5oKdZ7w_MN2C_b8s_BcYU7Qz95YWVvEvPMygJ0zVbR77glVQ3JIWSBy09jvsl-DVbH_NnuDYSwlDMtxAgqxw2K0944P_o7Teh6bbpIS01OwFIjJ35MYfpQi_I_JPkcq0J1V7AIelSTxCOZaTBn_dSWvl5&gsessionid=Vq9ThjYiw2uegmGJfzvW6jD0hiVs7QurvT67K5TR6T17jRJ1FqJFjw": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESuAEB6zswFYB4Igoq2xuFmG3y5IroiUefoFHsxlD1BYHyXHwl1WaTLc8XVPc1uEHOePrnro881EgPPDBDUBMDcbCCBa97l4v5oKdZ7w_MN2C_b8s_BcYU7Qz95YWVvEvPMygJ0zVbR77glVQ3JIWSBy09jvsl-DVbH_NnuDYSwlDMtxAgqxw2K0944P_o7Teh6bbpIS01OwFIjJ35MYfpQi_I_JPkcq0J1V7AIelSTxCOZaTBn_dSWvl5&gsessionid=Vq9ThjYiw2uegmGJfzvW6jD0hiVs7QurvT67K5TR6T17jRJ1FqJFjw",
     "page": 1,
     "summary": "Employees must have a valid SSN for payroll You're required to collect each employee's name and Social Security number. This info goes on your employees' W-2s",
     "title": "Understand the difference between a Social Security number ..."
@@ -10689,6 +10977,15 @@
     "summary": "How clients and accountants view the audit log, explained clearly \u2014 minus the accounting jargon. Everything you need to know.",
     "title": "How clients and accountants view the audit log - QuickBooks"
    },
+   "google.com/goto?url=CAESuQEB6zswFcSOveTI7SNx5nNF3XegXOfUOOsVDQ3bGsDha8K7Js7ezsFlnYSxucPbTaB-Hqj-8J-c0MOohBA5da6kNvROwmbq8MIE-XI9WJcUzMVrMomI2X3DP-BSiBbD_WoEB7vXpR36-QF_8DXbSpyEC7xXXXJCKcWlP7ndWbV_HRLBnizNIuc3Vuc0iQmJU4J1A3sJVmlGcM2JSEvLyfJ9xH__R9eAo77-IlvUdePNXwDf1UbzboDlpA&gsessionid=Vq9ThjYiw2uegmGJfzvW6jD0hiVs7QurvT67K5TR6T17jRJ1FqJFjw": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESuQEB6zswFcSOveTI7SNx5nNF3XegXOfUOOsVDQ3bGsDha8K7Js7ezsFlnYSxucPbTaB-Hqj-8J-c0MOohBA5da6kNvROwmbq8MIE-XI9WJcUzMVrMomI2X3DP-BSiBbD_WoEB7vXpR36-QF_8DXbSpyEC7xXXXJCKcWlP7ndWbV_HRLBnizNIuc3Vuc0iQmJU4J1A3sJVmlGcM2JSEvLyfJ9xH__R9eAo77-IlvUdePNXwDf1UbzboDlpA&gsessionid=Vq9ThjYiw2uegmGJfzvW6jD0hiVs7QurvT67K5TR6T17jRJ1FqJFjw",
+    "page": 1,
+    "summary": "How clients and accountants view the audit log, explained clearly \u2014 minus the accounting jargon. Everything you need to know.",
+    "title": "How clients and accountants view the audit log - QuickBooks"
+   },
    "google.com/goto?url=CAESuQEB6zswFdFp9APC9IORi8RkDUlHwL30VKwimXePqOJcyA7-6cjn7OMxr044aG7w91GlzcU5YL7X2Y-uL6_oO-Ut2AwsjY8J26tVK81p_klraHUWB0ew1Hv_5Kfqse8RsJE9HJ2nGMTlv-h51gS8f9vJbjP1MZbC1YRyRLyNeGRNu6p2CmYyb6IXT9Wcs2oB1xOTUgMUMAhjsbDiRExeHVj-yo4WIr-7xo_shJcvLhZTv1yLnJkk4WqVCA": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -10869,6 +11166,15 @@
     "summary": "Learn how to consolidate your clients into one Intuit Accountant Suite (IAS) console. When you consolidate consoles, you transfer clients from one or more ...",
     "title": "Transfer clients in Intuit Accountant Suite (IAS) - QuickBooks"
    },
+   "google.com/goto?url=CAESxAEB6zswFQYFNcuXaC1pUSD8cjA-O9zo_XMuSDTNB8NZvQa_mO6HFBro002KxNZiZe_GOezImB1d_CpoLcxEiTjhdFAzYrQ9S54hpEgpz21mKf-e1MgDEfLvZGNN25SOhj93CgIeiGKkoltHO-vqXeR_8tzFDx5loKEuKRLCvsuf5tiVsig-ftUsJIV4D280KZ0RtB3QzoyGdGY4i_ZmdhoExr1FEm15GPk5O-GKOA_Ya2S7aCKpG6ep7DuMb3hxF3DY8qB1&gsessionid=Vq9ThjYiw2uegmGJfzvW6jD0hiVs7QurvT67K5TR6T17jRJ1FqJFjw": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESxAEB6zswFQYFNcuXaC1pUSD8cjA-O9zo_XMuSDTNB8NZvQa_mO6HFBro002KxNZiZe_GOezImB1d_CpoLcxEiTjhdFAzYrQ9S54hpEgpz21mKf-e1MgDEfLvZGNN25SOhj93CgIeiGKkoltHO-vqXeR_8tzFDx5loKEuKRLCvsuf5tiVsig-ftUsJIV4D280KZ0RtB3QzoyGdGY4i_ZmdhoExr1FEm15GPk5O-GKOA_Ya2S7aCKpG6ep7DuMb3hxF3DY8qB1&gsessionid=Vq9ThjYiw2uegmGJfzvW6jD0hiVs7QurvT67K5TR6T17jRJ1FqJFjw",
+    "page": 1,
+    "summary": "Searching how to depreciate an asset? Follow this quick guide in QuickBooks Online \u2014 so everything reconciles cleanly. Clear, step-by-step instructions.",
+    "title": "Set up an asset depreciation account in QuickBooks Online"
+   },
    "google.com/goto?url=CAESxAEB6zswFRhdxfF36oCFl4OTHCFxtol5a0b3-JNAAXyD1cZy6b66drY4CyHqWCQqCnCcn0crMwc8XtuHpuFzjdNQj8z3jI706ClQ05awcgdNqBmy6rNImSvzjwzhRBjXEishCVT9PJ4IqXyTDN7f5KTLPXUrxYx9rLYTtWBzwd5y_4yxyphs2HH76I6w8pOnYKbXALHT-Q_TLx9wY3JHpJWcmODbeQdmPr4wRJ_bGQm-jelbsyBuTTlWgTdNbfVHtxiIg2jH": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -10994,6 +11300,15 @@
     "page": 1,
     "summary": "Searching how to depreciate an asset? Follow this quick guide in QuickBooks Online \u2014 so everything reconciles cleanly. Clear, step-by-step instructions.",
     "title": "Set up an asset depreciation account in QuickBooks Online"
+   },
+   "google.com/goto?url=CAESxAEB6zswFa0vo6AHsxs0AXi9gd0WBnO4neJ2nhL_xy34JIzpbnOzfiCf3I0PQ6-YP87bHOhIki5mlruYPon95LeJYkmbJImJgJszYThIGIvDDsCc1qftXpI4jY4reQW-vp6iYESCaH4baF3EuZxk4FeqvsRajD6pgBuaAYo_sXJDy4LdVDGq5APK3X3xYUNTpeiEBTrbgYd4JGkntYsJY2xMQ2EQ7Fy-UECitTCkMY-AghaRRvAsKDloeMnYk8nqgLwBeKd_&gsessionid=Vq9ThjYiw2uegmGJfzvW6jD0hiVs7QurvT67K5TR6T17jRJ1FqJFjw": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESxAEB6zswFa0vo6AHsxs0AXi9gd0WBnO4neJ2nhL_xy34JIzpbnOzfiCf3I0PQ6-YP87bHOhIki5mlruYPon95LeJYkmbJImJgJszYThIGIvDDsCc1qftXpI4jY4reQW-vp6iYESCaH4baF3EuZxk4FeqvsRajD6pgBuaAYo_sXJDy4LdVDGq5APK3X3xYUNTpeiEBTrbgYd4JGkntYsJY2xMQ2EQ7Fy-UECitTCkMY-AghaRRvAsKDloeMnYk8nqgLwBeKd_&gsessionid=Vq9ThjYiw2uegmGJfzvW6jD0hiVs7QurvT67K5TR6T17jRJ1FqJFjw",
+    "page": 1,
+    "summary": "Learn how to consolidate your clients into one Intuit Accountant Suite (IAS) console. When you consolidate consoles, you transfer clients from one or more ...",
+    "title": "Transfer clients in Intuit Accountant Suite (IAS) - QuickBooks"
    },
    "google.com/goto?url=CAESxAEB6zswFaoE41SRGIc1fD83oFaWk0qrGpOcmaf1xfOvOQQBWfOUgTVbnda0fgL1IC1nXeddsZyZeJbF5bl2tSmT6K0ui1yLjKWSf2RnKcYzDbsM7UXWA9wgoKWNWYiIo7cXxQEH3Ollv3X1T1PfMRGzOSEBNM_1TwbWdt8gyYQ3CjLYiuaQm_exSDGxUVpfcLZaWpgHj56rFxf606o6h-c5RuNHC8uXkLiR5oK_CW3PkqFQVtGeZKjbczAFsRHi9ePpTJUU": {
     "baseline": false,
@@ -11193,6 +11508,15 @@
     "summary": "The Centralized Audit Log in Intuit Accountant Suite gives your firm a single dashboard to track workflows and manage staff productivity across your entire ...",
     "title": "Use the Centralized Audit Log in Intuit Accountant Suite"
    },
+   "google.com/goto?url=CAESyQEB6zswFRHOmjX-bQel9J283OygxebnodQu0DQ9GuZEqSYSZXPZy0kBDocK4DUjMK2WbsAWmM5i81CX7kG8tMQfrrkUUUingJD68UmtuK-3ougHM9FnR_WyuZ9bq1jtapxnPako4hDgdpGN98ivIM2W7iUtP1jDfu9qkj_ndhOIv_ihhsNOQVFOlLKArtEiJfpXmCgtZ8md3Qqvht66b1g78HoNvFjWpPkDDOeULf1sYaiW2Yv5w4YCvnQwphkX_1wYps0oXy-pMe4&gsessionid=VhVvV6Z4RzZxiUEUG4qWNo81IhLTw6JcKaUdTBMAhXX3DYQuh2ptSg": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESyQEB6zswFRHOmjX-bQel9J283OygxebnodQu0DQ9GuZEqSYSZXPZy0kBDocK4DUjMK2WbsAWmM5i81CX7kG8tMQfrrkUUUingJD68UmtuK-3ougHM9FnR_WyuZ9bq1jtapxnPako4hDgdpGN98ivIM2W7iUtP1jDfu9qkj_ndhOIv_ihhsNOQVFOlLKArtEiJfpXmCgtZ8md3Qqvht66b1g78HoNvFjWpPkDDOeULf1sYaiW2Yv5w4YCvnQwphkX_1wYps0oXy-pMe4&gsessionid=VhVvV6Z4RzZxiUEUG4qWNo81IhLTw6JcKaUdTBMAhXX3DYQuh2ptSg",
+    "page": 2,
+    "summary": "Learn how to invite your employees to see pay stubs, W-2s and more in QuickBooks Workforce \u2014 without the usual headaches. Do it in just a few clicks.",
+    "title": "Invite your employees to see pay stubs, W-2s and more"
+   },
    "google.com/goto?url=CAESyQEB6zswFRwjUyaLifpkQb0HpczmInuBx_RvRtSI4TkA8a7qYXSWtcD_dngemlfACYvDlHtQJeTC_IBTX1z2E77hXr8qC5kWBvdSeHuXkCNAQDQi6vbsqZujjN3alg-ykmSS7kko9-oll7xA3mLXJb9rJ1omSEWB0ODkYmDFZF1U1ygMctNgsB96C-MYZDFhOdflifDXMS0s-pOj4BlM4TB98jZQQ_RPskoIY8wjArKvx8z2jRhWNf3a6LP9H2x2nv0EZeOWXOZ6T34": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -11301,6 +11625,15 @@
     "summary": "Learn how to set your availability, and schedule video meetings with existing customers and new leads in QuickBooks Online and Intuit Enterprise Suite.",
     "title": "Schedule appointments with your customers - QuickBooks"
    },
+   "google.com/goto?url=CAESyQEB6zswFVxxwnUvvu_hogZWGLe_70ZA5XZduoCsRLiwZWuXW9VgCYdNnW8HnmqZLBGODY0L0lFW8OdlwCLS6JieAUZnywREOUNaYlBCRk6-PU8vdAUBnjKrFJXavxwgGQAO65CmSmFOVRD0OWaShIRdQOkZTP1h57fvhOaCHjEa1543iDAE4znRLKtxPWAhOvmlG1bY5uA63gXIJRZFX-fmCHp0xKRfimLarY6U1Dc8PpiXX13Fzh3zace9SciD63iNcBTnkqaEb7Y&gsessionid=Vq9ThjYiw2uegmGJfzvW6jD0hiVs7QurvT67K5TR6T17jRJ1FqJFjw": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESyQEB6zswFVxxwnUvvu_hogZWGLe_70ZA5XZduoCsRLiwZWuXW9VgCYdNnW8HnmqZLBGODY0L0lFW8OdlwCLS6JieAUZnywREOUNaYlBCRk6-PU8vdAUBnjKrFJXavxwgGQAO65CmSmFOVRD0OWaShIRdQOkZTP1h57fvhOaCHjEa1543iDAE4znRLKtxPWAhOvmlG1bY5uA63gXIJRZFX-fmCHp0xKRfimLarY6U1Dc8PpiXX13Fzh3zace9SciD63iNcBTnkqaEb7Y&gsessionid=Vq9ThjYiw2uegmGJfzvW6jD0hiVs7QurvT67K5TR6T17jRJ1FqJFjw",
+    "page": 1,
+    "summary": "Learn how to set your availability, and schedule video meetings with existing customers and new leads in QuickBooks Online and Intuit Enterprise Suite.",
+    "title": "Schedule appointments with your customers - QuickBooks"
+   },
    "google.com/goto?url=CAESyQEB6zswFW7e8vyT_HxZf_ERRLTnpm5rxYCPL0R_gUQgamA-QZDzp0nFbZ8dOaGhfS9lyQrrqQMjuCJ2jfQttDycpLlc5hRDlII0TvMr1lfdEI3gZ14Iy2uhzrwxD9A5HTnjE--UaTzVt7J6DY0JkhrAGDVhH_g9EqtYJ0AsQw0euj7MtZlQdd3MeiAAqZHiMenc-cI85AGF1Cxe4W8erZsytv_Jf_ExvFD3JHmGVeHWYRXmk-OweXt-s2SzPhs55YEEknWTzuqTsXA": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -11351,6 +11684,15 @@
     "date_hint": "4 days ago",
     "first_seen": "2026-10-30T09:42:53Z",
     "link": "https://www.google.com/goto?url=CAESyQEB6zswFYJhf_knO74kXbC4jm6DyDduxYUfVAxMeTO2ehp6Mum_Cn35iITGU03JYTjtZhfD4MUxpK3-Bc37i-5tY4CdkdxK5yFJ0WYxSStmnBmnqsfD7eY6BkASnyceTfuQjkyafuDRVEt2Rt6Tc625WBwyebQPYVEe6yTPU1dKKpslZPrI6VZTKh795epeZ61MwAFLQ3zbj_mxVyNWHf7j65PXbRBKMBiDVfQeIbSigMKqiaWEnTr_p41DeBNGhgDXL1YLLlpTVqI",
+    "page": 2,
+    "summary": "The Centralized Audit Log in Intuit Accountant Suite gives your firm a single dashboard to track workflows and manage staff productivity across your entire ...",
+    "title": "Use the Centralized Audit Log in Intuit Accountant Suite"
+   },
+   "google.com/goto?url=CAESyQEB6zswFYPM7zGEjmH-VRxVBfefFPNgBVqlaEAn9YRx0CTabuQkSsxRpTx7-WkNfAqn56fufONTT-tUCopKAr6UC3xWD9FbMTKNQsNZBXs1JfSktPImT-luEIHcBnaZyWmFO_miPL7j7NkrfTSIIn8RKK__CjEDng-vSo1dooSfWMyaocxXjSGvAD3tvjFBihDE4N6YZ8LDkDChmoHkUZkAag2SF0WSC4FAwP1fxZNeFmm2LmOorhRlhre3AZIgVq57VkJSnjcvOfQ&gsessionid=VhVvV6Z4RzZxiUEUG4qWNo81IhLTw6JcKaUdTBMAhXX3DYQuh2ptSg": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESyQEB6zswFYPM7zGEjmH-VRxVBfefFPNgBVqlaEAn9YRx0CTabuQkSsxRpTx7-WkNfAqn56fufONTT-tUCopKAr6UC3xWD9FbMTKNQsNZBXs1JfSktPImT-luEIHcBnaZyWmFO_miPL7j7NkrfTSIIn8RKK__CjEDng-vSo1dooSfWMyaocxXjSGvAD3tvjFBihDE4N6YZ8LDkDChmoHkUZkAag2SF0WSC4FAwP1fxZNeFmm2LmOorhRlhre3AZIgVq57VkJSnjcvOfQ&gsessionid=VhVvV6Z4RzZxiUEUG4qWNo81IhLTw6JcKaUdTBMAhXX3DYQuh2ptSg",
     "page": 2,
     "summary": "The Centralized Audit Log in Intuit Accountant Suite gives your firm a single dashboard to track workflows and manage staff productivity across your entire ...",
     "title": "Use the Centralized Audit Log in Intuit Accountant Suite"
@@ -11625,6 +11967,15 @@
     "summary": "Build a KPI Scorecard in QuickBooks Online to track 100+ business metrics, compare periods, and drill into the numbers behind them.",
     "title": "Track your business performance with KPI Scorecard"
    },
+   "google.com/goto?url=CAESzQEB6zswFY-Vh4m9j8u3qwgitoFon6pS-d28tuHi7hCrhxGVAvJ9buxmH68Lhsv6d1eFXwjE9da21vysoTm_6M7LQAARutVGseXGU_FNsLRNioap3Ere9nyv-5rwgsaVuR48JXr2DJ_DYvNa5NWD66yjBObRg2WzCOzscNygmH4gWl1Fg5N1gQ8z5uKqDVGrlrOSdePHXAm2tTII-y0JIQERUTCUbrFNLNNgBgFRGhZ68vBQZAD_e4EIsvYDb935rORynRlk68tccObTeEUT&gsessionid=Vq9ThjYiw2uegmGJfzvW6jD0hiVs7QurvT67K5TR6T17jRJ1FqJFjw": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESzQEB6zswFY-Vh4m9j8u3qwgitoFon6pS-d28tuHi7hCrhxGVAvJ9buxmH68Lhsv6d1eFXwjE9da21vysoTm_6M7LQAARutVGseXGU_FNsLRNioap3Ere9nyv-5rwgsaVuR48JXr2DJ_DYvNa5NWD66yjBObRg2WzCOzscNygmH4gWl1Fg5N1gQ8z5uKqDVGrlrOSdePHXAm2tTII-y0JIQERUTCUbrFNLNNgBgFRGhZ68vBQZAD_e4EIsvYDb935rORynRlk68tccObTeEUT&gsessionid=Vq9ThjYiw2uegmGJfzvW6jD0hiVs7QurvT67K5TR6T17jRJ1FqJFjw",
+    "page": 1,
+    "summary": "Build a KPI Scorecard in QuickBooks Online to track 100+ business metrics, compare periods, and drill into the numbers behind them.",
+    "title": "Track your business performance with KPI Scorecard"
+   },
    "google.com/goto?url=CAESzQEB6zswFZySOg5rk_VrOJtwawKUAacGmxhMSjnhf5mfe8RcIBJrw5QHqf_7CdtbtVy_DCfo5s4ZDrRzxkJfixZxG7ch1Cnd-uDLz1pSe4gIeIHp0XBNnRh8pUZkVWlHgg9mnStzZjRFOkBdMe5tCgIPHKV8slP6dPf2j9CDfY-gfaGRFpGdxa8Kl2EE5hlj44R8xeyRm5GNF63w4D3k16UQSSntH9kwQC170ZuQW0MFSBCFkFVxCdUgHgUT_nJC-LztF0Imw9lyiEThpOsx": {
     "baseline": false,
     "date_hint": "1 day ago",
@@ -11756,6 +12107,15 @@
     "date_hint": "3 days ago",
     "first_seen": "2026-10-30T16:42:32Z",
     "link": "https://www.google.com/goto?url=CAESzwEB6zswFUzu6zWvhlTItXQilfUd0jJKPgAC5jPzZsRxd4sXfPKMNA1xexU5muC-lAjcMT050CabXhbuyjfU4IjxrsLZriN0Lo6gMkiVo3Ai_eyHal-FtFPAPx3wxtwrzEgwBC0wxtlUb_YBuKd4cjE-fDART8XPZxuxREm-yCUOnzRjB2GTMi-5CmZqydLazVleI7f8bqcKw79DTw3eLpvO5mGNT8pnTmV8jvJ6cD-7eem_FgbK93bBfCNf2FRIXys0BuZrH-3AzyF2HG8BPFM",
+    "page": 1,
+    "summary": "If you invited your employee to use Workforce to view their pay stubs and W-2s and it didn't work, here's how to resend it. Select what you'd like to do:.",
+    "title": "Resend an invitation to Workforce to access pay stubs and W-2s"
+   },
+   "google.com/goto?url=CAESzwEB6zswFVQDHvpo1APgPMGWoFeQveZAR3fYkVGA-HeSgj0zKy8jkCTo9Uvt2CCRJHnIWNDt1IdNOiogKh-fEsrt4KOJOgPXYh2tBxziNO7_guBygzzNSVbH_ulsos2KX_Fb_10UzNSvAMFKcogrm5GF5jdaCb0nFHU2IOfIJhJd37zrh4i9M3D3k3LHjNFgYBu8PSSnwjvz6o8iSqFMdYXeSrPt4GUz4GBUpmxndfvr6UvRjzVf2rqAcw_znN6AGwb8JtwK6IvtRPugDjNeTUE&gsessionid=Vq9ThjYiw2uegmGJfzvW6jD0hiVs7QurvT67K5TR6T17jRJ1FqJFjw": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESzwEB6zswFVQDHvpo1APgPMGWoFeQveZAR3fYkVGA-HeSgj0zKy8jkCTo9Uvt2CCRJHnIWNDt1IdNOiogKh-fEsrt4KOJOgPXYh2tBxziNO7_guBygzzNSVbH_ulsos2KX_Fb_10UzNSvAMFKcogrm5GF5jdaCb0nFHU2IOfIJhJd37zrh4i9M3D3k3LHjNFgYBu8PSSnwjvz6o8iSqFMdYXeSrPt4GUz4GBUpmxndfvr6UvRjzVf2rqAcw_znN6AGwb8JtwK6IvtRPugDjNeTUE&gsessionid=Vq9ThjYiw2uegmGJfzvW6jD0hiVs7QurvT67K5TR6T17jRJ1FqJFjw",
     "page": 1,
     "summary": "If you invited your employee to use Workforce to view their pay stubs and W-2s and it didn't work, here's how to resend it. Select what you'd like to do:.",
     "title": "Resend an invitation to Workforce to access pay stubs and W-2s"
@@ -13467,6 +13827,15 @@
     "summary": "Feature articles, press releases, blogs, news, information & stories from SAP about about cloud trends and topics, cloud software, cloud solutions, ...",
     "title": "SAP Cloud Computing News & Stories"
    },
+   "google.com/goto?url=CAESXQHrOzAVBkLj8NHx8AF61lwse4fvuLz2RKtW_NMTQWfqE9YVGo-7KZqRVEYAU1RAxK0i-szDxsil0AkAijO7uJhPYbcVRF5podt7s7l2AeKI_LbCrB3H8KINOQDqAw": {
+    "baseline": false,
+    "date_hint": "14 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESXQHrOzAVBkLj8NHx8AF61lwse4fvuLz2RKtW_NMTQWfqE9YVGo-7KZqRVEYAU1RAxK0i-szDxsil0AkAijO7uJhPYbcVRF5podt7s7l2AeKI_LbCrB3H8KINOQDqAw",
+    "page": 1,
+    "summary": "Feature articles, press releases, blogs, news, information & stories from SAP about about cloud trends and topics, cloud software, cloud solutions, ...",
+    "title": "SAP Cloud Computing News & Stories"
+   },
    "google.com/goto?url=CAESXQHrOzAVHEXAN2zRqcCjn0B8kRsCFl-GJBLuCZYB6zqB2WW2UnP5bUgjfM81mq_QXX3h4M_J49rCytvXyB8z937NAwMVlcVOCajsHexk0nP2J6ppxl3psUmJPndyDw&gsessionid=t7d9VJcjWEUmpYRECmZGhQkXHTyAIydBXgcx-ogy6Qk8jS7jd_Wy5Q": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -13620,6 +13989,15 @@
     "summary": "News, information, feature articles, press releases & stories from SAP about global technology and business events, conferences, etc.",
     "title": "Tech Events Coverage, News & Stories"
    },
+   "google.com/goto?url=CAESXgHrOzAVWbvI2pTsW-UyCNYNhKjF-jr8XNBySdIlbAIASbXfYg6EjZ49HjB5UT0tFN8GPfJmVQgYonbNO4ZyyfXLqxFXrU47ssLU57PlWcuFkmOw_2NKOncau3ihJXw": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESXgHrOzAVWbvI2pTsW-UyCNYNhKjF-jr8XNBySdIlbAIASbXfYg6EjZ49HjB5UT0tFN8GPfJmVQgYonbNO4ZyyfXLqxFXrU47ssLU57PlWcuFkmOw_2NKOncau3ihJXw",
+    "page": 1,
+    "summary": "News, information, feature articles, press releases & stories from SAP about global technology and business events, conferences, etc.",
+    "title": "Tech Events Coverage, News & Stories"
+   },
    "google.com/goto?url=CAESXgHrOzAVWpq5y6LlAFWgwhZ6qxg1IPUXYvpmFCgsrK62Y6k8lSDXP_Cz2omVJiVEfBB8gl59HpOsGLP4IGAnXjfkib5V3orLeK7Dd3Icuu2hKauvol7FOHuIRCW-kqE&gsessionid=Nr93zjhEXi3unm9YHpUJPnSwL0KMpwoLkZDU1zmOn7R_YI2P_8saqw": {
     "baseline": false,
     "date_hint": "15 hours ago",
@@ -13688,6 +14066,15 @@
     "date_hint": "3 hours ago",
     "first_seen": "2026-10-30T06:36:39Z",
     "link": "https://www.google.com/goto?url=CAESYgHrOzAV3YdlD9gCLjj6Ra0oTvajLfcN3_wq7NnS4q407ECRihv4UMQI05UK-iG1MUwE5AgplXrC4mm-C1WTymAAoVb47xYolV5mh7B-K8PEzoHHdxe9DSTWdh8GIlS1CwP0&gsessionid=t7d9VJcjWEUmpYRECmZGhQkXHTyAIydBXgcx-ogy6Qk8jS7jd_Wy5Q",
+    "page": 1,
+    "summary": "With comprehensive AI tools and the SAP Business AI Platform, developers, customers, and partners can build the Autonomous Enterprise. +1-800-872-1727",
+    "title": "SAP TechEd Archives"
+   },
+   "google.com/goto?url=CAESYgHrOzAV5HUXZPJDuiZ2YNLXo4Km3Dz_pDdaphAnDROevnyBBtJ0N9hFHAfKHm1dreQ4_miEriuSZyl_0Z9kWl4mXh77cqVGnKU9R1z4NWj2gbrejzzDUGhm2K0uLmnb7Fvx": {
+    "baseline": false,
+    "date_hint": "14 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESYgHrOzAV5HUXZPJDuiZ2YNLXo4Km3Dz_pDdaphAnDROevnyBBtJ0N9hFHAfKHm1dreQ4_miEriuSZyl_0Z9kWl4mXh77cqVGnKU9R1z4NWj2gbrejzzDUGhm2K0uLmnb7Fvx",
     "page": 1,
     "summary": "With comprehensive AI tools and the SAP Business AI Platform, developers, customers, and partners can build the Autonomous Enterprise. +1-800-872-1727",
     "title": "SAP TechEd Archives"
@@ -13899,6 +14286,15 @@
     "summary": "AI \ub3c4\uc785\uc740 \ube60\ub974\uac8c \ub298\uc5c8\uc9c0\ub9cc, \ube44\uc988\ub2c8\uc2a4\ub97c AI\uc5d0 \ub9de\uac8c \ubc14\uafbc \uae30\uc5c5\uc740 9%\ubfd0\uc785\ub2c8\ub2e4. SAP\uc640 \uc625\uc2a4\ud3ec\ub4dc \uc774\ucf54\ub178\ubbf9\uc2a4 \uc5f0\uad6c\uac00 \uc9da\uc740 \uc9c4\uc9dc \uac78\ub9bc\ub3cc\uc740 \uae30\uc220\uc774 \uc544\ub2cc \ube44\uc988\ub2c8\uc2a4 \uc900\ube44\ud0dc\uc138 ...",
     "title": "SAP \uc5f0\uad6c\uac00 \uc9da\uc740 AI\uc758 \ubcd1\ubaa9, \uae30\uc220\uc774 \uc544\ub2cc \uc900\ube44\ud0dc\uc138"
    },
+   "google.com/goto?url=CAEShQIB6zswFby8Z5ZcGo2hzxAWCnHdiJmskRamDyzFMPBpHHxdudahCHu2sJcfTU8bQHIs8xXCRFzXUSPKvJEbAKoJ63mJ42aaI_cPAXcspQvwZwRKwZvqT9H3M9UBxH8oIC3jzp-bLSnVfmy2rzszizAia0PQDw44-jM6k3lZlSpq-ULWMzNtR_6QSxoEfWcbFszcKDnsN2Q6m59fY2pi7xjgnefIUcQ66TMxnk6Omot3cm2sQQQGHMSKW62kKeZARRhwG1-iuGOylLDB_yKuvJmyFfdg-MH350CBeMLq0HWJlCTQTc6xhASvYBRPfVaDtt-g4_r4JQBBKgTMXiHUt3PeOwI2o88": {
+    "baseline": false,
+    "date_hint": "23 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAEShQIB6zswFby8Z5ZcGo2hzxAWCnHdiJmskRamDyzFMPBpHHxdudahCHu2sJcfTU8bQHIs8xXCRFzXUSPKvJEbAKoJ63mJ42aaI_cPAXcspQvwZwRKwZvqT9H3M9UBxH8oIC3jzp-bLSnVfmy2rzszizAia0PQDw44-jM6k3lZlSpq-ULWMzNtR_6QSxoEfWcbFszcKDnsN2Q6m59fY2pi7xjgnefIUcQ66TMxnk6Omot3cm2sQQQGHMSKW62kKeZARRhwG1-iuGOylLDB_yKuvJmyFfdg-MH350CBeMLq0HWJlCTQTc6xhASvYBRPfVaDtt-g4_r4JQBBKgTMXiHUt3PeOwI2o88",
+    "page": 2,
+    "summary": "AI \ub3c4\uc785\uc740 \ube60\ub974\uac8c \ub298\uc5c8\uc9c0\ub9cc, \ube44\uc988\ub2c8\uc2a4\ub97c AI\uc5d0 \ub9de\uac8c \ubc14\uafbc \uae30\uc5c5\uc740 9%\ubfd0\uc785\ub2c8\ub2e4. SAP\uc640 \uc625\uc2a4\ud3ec\ub4dc \uc774\ucf54\ub178\ubbf9\uc2a4 \uc5f0\uad6c\uac00 \uc9da\uc740 \uc9c4\uc9dc \uac78\ub9bc\ub3cc\uc740 \uae30\uc220\uc774 \uc544\ub2cc \ube44\uc988\ub2c8\uc2a4 \uc900\ube44\ud0dc\uc138 ...",
+    "title": "SAP \uc5f0\uad6c\uac00 \uc9da\uc740 AI\uc758 \ubcd1\ubaa9, \uae30\uc220\uc774 \uc544\ub2cc \uc900\ube44\ud0dc\uc138"
+   },
    "google.com/goto?url=CAEShQIB6zswFdC-dPKYVnMUqjg6KCnwqLTXeM6iODQFqCMe_ZCgf_uQUuvjqkJmGXs_POuSQVtTz8atp_ij_LxvMG5tU77VVe4b_x4NRIHw8Sr9FFUHPoJ76wiMVYAypehqnRhBDqIjzOkU5FdvNlNK6QNyzVg4zZvzxRhyTusUBgnIYjhqNfGtaQrW8ds6K_BiVApt7hxZRc1Jdrvuyplk_PlwnVtwJCvPvTJ6VFbEpiaBI2JBeb4m0gSZ9aWlHHvArkcn2kBzToxqGr6GjhjZtx6V5NlRhxfLo98_fo2FPc_TTuPO7PUrTzuNG0uU6ZKkF5R0DQEV4A3nYKdHfIW9zOVjcYhUx2s": {
     "baseline": false,
     "date_hint": "22 hours ago",
@@ -13944,6 +14340,15 @@
     "summary": "Learn about the offerings SAP highlighted at SAP TechEd to be able to manage AI governance and enforce governance policies at runtime.",
     "title": "SAP Shows How to Lead with AI Governance at SAP TechEd"
    },
+   "google.com/goto?url=CAESiAEB6zswFa6QS4_pNThFExAE048v4_9l-CQq4xgv3I0vAvMk3vces13WNSwlwucfrlY57ED57mGgWevGIGFCrOkIk1yo9VSY3swofY-DZfixFMQgUoUBhyJrpRQewfZbZcwK_O5yiT4eQHcfMsBz-QsNwLQUqEYnqvxCGo8VWeJ-vE5LpsqBQ9C5": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESiAEB6zswFa6QS4_pNThFExAE048v4_9l-CQq4xgv3I0vAvMk3vces13WNSwlwucfrlY57ED57mGgWevGIGFCrOkIk1yo9VSY3swofY-DZfixFMQgUoUBhyJrpRQewfZbZcwK_O5yiT4eQHcfMsBz-QsNwLQUqEYnqvxCGo8VWeJ-vE5LpsqBQ9C5",
+    "page": 1,
+    "summary": "Learn about the offerings SAP highlighted at SAP TechEd to be able to manage AI governance and enforce governance policies at runtime.",
+    "title": "How to Lead with AI Governance | SAP TechEd"
+   },
    "google.com/goto?url=CAESiAEB6zswFboBrQfnIDvSxhHH8Pk_zZJQwk5Mhh13eqn7QtXhTis2l2gFQ3ahdGq61TyZRIFF988puCg5Yu7VuSl7Jz_9yp3INW0VhPk8N9ASCHH6mEOtok67Tde5u8lU4yX6I2I-bJ9O4n9D9mv2IDeCEG6fn_T3qTg13wkxUiHIiyYSwnc-n3XU&gsessionid=qEaPAivSZIOf6mVcXzCNscDJeD2VlOI2tvu2bhR5Y7HHr5--SauxMQ": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -13985,6 +14390,15 @@
     "date_hint": "10 hours ago",
     "first_seen": "2026-10-30T09:42:53Z",
     "link": "https://www.google.com/goto?url=CAESkAEB6zswFXhW4NJg_ocsWHYfdC-R3QbmGUZQEfaFf7l7yE-V3m6URG6RQXoRQdsexKe0T7AST8IKInCQreUcwWn5XZdJGaua0794GiTCP0naQTCK4Z-BxKYmxP1C_r0GClHKiKMcwAFn8vQa1KPqv1bfJ70v98YiKfXHr6F04mEcO0rBpJlhi0WNl8WBXOzVNgM",
+    "page": 1,
+    "summary": "SAP SE(NYSE:SAP)\u3068NTT\u682a\u5f0f\u4f1a\u793e\u306f\u672c\u65e5\u3001SAP\u00ae Sovereign Cloud\u304a\u3088\u3073SAP\u00ae Business AI\u306e\u5206\u91ce\u3067\u5354\u529b\u3059\u308b\u610f\u5411\u3092\u8868\u660e\u3057\u307e\u3057\u305f\u3002",
+    "title": "SAP\u3068NTT\u3001\u4fe1\u983c\u6027\u306e\u9ad8\u3044\u30bd\u30d6\u30ea\u30f3\u30af\u30e9\u30a6\u30c9\u3068SAP\u00ae Business ..."
+   },
+   "google.com/goto?url=CAESkAEB6zswFY6u-XI9mtzekzgLCHC-DnNq06aTtBNukXUikYVxAnRjV8kdcxoC3srz-woj8iGnTdF3jhR_c2iFgWSIw6Y4S57Et0ozuZtV2h9_KXbJgPOMVOB1L5eGAWfwvITDUrWA0IrPFdjq1OFE6RMHoAi_cZashaM9xe7T9IFhck1XCFOH5FXf2-scQXCgJS0": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESkAEB6zswFY6u-XI9mtzekzgLCHC-DnNq06aTtBNukXUikYVxAnRjV8kdcxoC3srz-woj8iGnTdF3jhR_c2iFgWSIw6Y4S57Et0ozuZtV2h9_KXbJgPOMVOB1L5eGAWfwvITDUrWA0IrPFdjq1OFE6RMHoAi_cZashaM9xe7T9IFhck1XCFOH5FXf2-scQXCgJS0",
     "page": 1,
     "summary": "SAP SE(NYSE:SAP)\u3068NTT\u682a\u5f0f\u4f1a\u793e\u306f\u672c\u65e5\u3001SAP\u00ae Sovereign Cloud\u304a\u3088\u3073SAP\u00ae Business AI\u306e\u5206\u91ce\u3067\u5354\u529b\u3059\u308b\u610f\u5411\u3092\u8868\u660e\u3057\u307e\u3057\u305f\u3002",
     "title": "SAP\u3068NTT\u3001\u4fe1\u983c\u6027\u306e\u9ad8\u3044\u30bd\u30d6\u30ea\u30f3\u30af\u30e9\u30a6\u30c9\u3068SAP\u00ae Business ..."
@@ -14304,6 +14718,15 @@
     "summary": "La nostra partnership con SAP Commerce Cloud combina la tecnologia web di Vercel, che offre prestazioni di elevato livello, cicli di sviluppo pi\u00f9 rapidi e una ...",
     "title": "SAP Commerce Cloud e Vercel: un percorso pi\u00f9 rapido per ..."
    },
+   "google.com/goto?url=CAESqAEB6zswFS7W3kstjRbfzo4uIWVWzE9DsDavUHGkNNXl8H7JRS3Xgx7HiZU9cfx1W6xy8Ci9enAW_Fylo53xHxKqCU0QA9z5JlCxrWVAOQ_hxHz9LpJOQnep0YcJBxKET0Phm9dII9IYe0Q-tPnz8qr8RVPAnu1Edkrrk6bCkpZwrwJQ5-1rpF6Be0MQlehDT4n45S0d5JNa1a8Tq1gPw5tUNOVQrVhKND0": {
+    "baseline": false,
+    "date_hint": "23 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESqAEB6zswFS7W3kstjRbfzo4uIWVWzE9DsDavUHGkNNXl8H7JRS3Xgx7HiZU9cfx1W6xy8Ci9enAW_Fylo53xHxKqCU0QA9z5JlCxrWVAOQ_hxHz9LpJOQnep0YcJBxKET0Phm9dII9IYe0Q-tPnz8qr8RVPAnu1Edkrrk6bCkpZwrwJQ5-1rpF6Be0MQlehDT4n45S0d5JNa1a8Tq1gPw5tUNOVQrVhKND0",
+    "page": 1,
+    "summary": "La nostra partnership con SAP Commerce Cloud combina la tecnologia web di Vercel, che offre prestazioni di elevato livello, cicli di sviluppo pi\u00f9 rapidi e una ...",
+    "title": "SAP Commerce Cloud e Vercel: un percorso pi\u00f9 rapido per ..."
+   },
    "google.com/goto?url=CAESqAEB6zswFSjUvon34Ag7L5s9M8_TsfXcFsa0Q5svIDqbW64xEIkkOxuZMN7tOaicrw_63slbkOUGI-zSJ8P_zyw_evLZQnpUhUEZL9-UrWfLg6XnXnySdVRpFX25knJyUFDuVoOqYqbAzm3avWdwf_Dsjo3VhvU-TGtWF4-IcdUCbmKuO8zGW7TeoNjgf-Hv2NEAccrme6qFVWpuIezW0UlLkcPR4nmDV9g": {
     "baseline": false,
     "date_hint": "12 hours ago",
@@ -14502,6 +14925,15 @@
     "summary": "SAP en NTT willen hun technologie en dienstverlening combineren om organisaties te helpen profiteren van innovaties op het gebied van cloud en AI.",
     "title": "SAP en NTT willen samenwerken aan betrouwbare ..."
    },
+   "google.com/goto?url=CAESvQEB6zswFWpuiI-zJYL_8DuiU8PzofELtix-1cNHVzwg6eRDEuXkCq1GOUSnXsFOKgjvYL0lpY-S1AusFDBI-5bxvizHdIaXYSX9SvUSwHkp5mvw5Is6ymdrViERfQcCJN4S_QE1tROQ5RRXTxlUFWpte1jhtuxSK-poHMSw_uzdUR-s_krVxdbIrN_4FiDBXz39_0KKypAt62sGO-ExZVFL14zBCaPnBhDcjr_4XuHiJh8_CS8-A9FO6Bu2ZrE": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESvQEB6zswFWpuiI-zJYL_8DuiU8PzofELtix-1cNHVzwg6eRDEuXkCq1GOUSnXsFOKgjvYL0lpY-S1AusFDBI-5bxvizHdIaXYSX9SvUSwHkp5mvw5Is6ymdrViERfQcCJN4S_QE1tROQ5RRXTxlUFWpte1jhtuxSK-poHMSw_uzdUR-s_krVxdbIrN_4FiDBXz39_0KKypAt62sGO-ExZVFL14zBCaPnBhDcjr_4XuHiJh8_CS8-A9FO6Bu2ZrE",
+    "page": 1,
+    "summary": "SAP en NTT willen hun technologie en dienstverlening combineren om organisaties te helpen profiteren van innovaties op het gebied van cloud en AI.",
+    "title": "SAP en NTT willen samenwerken aan betrouwbare ..."
+   },
    "google.com/goto?url=CAESwQEB6zswFQSptfGWPbdZxrhjFF7I977tMXnm6_siassVY8_Nsl9vNzDXLt-5u8Yw-w-r2Kue9ECjxXnxRABoEV5FIYMCOxv5SeRYy1Wx04dNhBIdy6skLUwr8vFx0AH3_M0RY-97b5prYcd3pP4h38G5BiLKzWE7hKCzuaJbyxTHmYBpb7fV5e_EkZe8d4NmC_DwU8j8VthRWMvXdtB3DPfrXfzE5AGNlcmPS_p4BHRm2QLvjS_aQGVolFf2iqJXj5pd": {
     "baseline": false,
     "date_hint": "20 hours ago",
@@ -14588,6 +15020,15 @@
     "date_hint": "8 hours ago",
     "first_seen": "2026-10-30T16:42:32Z",
     "link": "https://www.google.com/goto?url=CAESwwEB6zswFS26tImANzGktoUMQ8onRxQoiD2L5bra7wX4OWZIkfvZ6VrUD862I7B6HydVi7CQQc5V3VL-0aCESKmKnI7yWfmSB30reB9tV7-0NJWTLQHrvHetuMeyz9dVjO-Cl5xRHFAp6f1i4QHy3T2yrANaUh2BvBVwUVouKvO02mX0_Dj_bogOrwrmez48goi_aOwdYMyXQV-JHly6ppMC4Lz8fnaxwfQU8wCp-hTaYge3qk4nU5AE_Pmd9Jng4vermy0",
+    "page": 2,
+    "summary": "SAP en NTT willen hun technologie en dienstverlening combineren om organisaties te helpen profiteren van innovaties op het gebied van cloud en AI.",
+    "title": "SAP en NTT willen samenwerken aan betrouwbare ..."
+   },
+   "google.com/goto?url=CAESwwEB6zswFTYx5oQH7mLrMNGNhl9li4OChMgIGF0KDaZs4NwwQYymsy5vbUWg0xbc5kpXYzwqf4T7sSLWHDYtrDeIAf3jZno4xkh2hSmm7yEwwsGGO6VOGh0pzyLT6urTEEh5K3upH0BaenHvAltZ7aS7hK_Pnh-59ZMMiQZ10VvlVDppb89ixaGE0HK9LWq_5cGEKvjAzbqn9tc-JT1op9KhEftngbptQvjbxdawpKy3EW2Wc5FDoA74vZ4jO41fj4qGSFU": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESwwEB6zswFTYx5oQH7mLrMNGNhl9li4OChMgIGF0KDaZs4NwwQYymsy5vbUWg0xbc5kpXYzwqf4T7sSLWHDYtrDeIAf3jZno4xkh2hSmm7yEwwsGGO6VOGh0pzyLT6urTEEh5K3upH0BaenHvAltZ7aS7hK_Pnh-59ZMMiQZ10VvlVDppb89ixaGE0HK9LWq_5cGEKvjAzbqn9tc-JT1op9KhEftngbptQvjbxdawpKy3EW2Wc5FDoA74vZ4jO41fj4qGSFU",
     "page": 2,
     "summary": "SAP en NTT willen hun technologie en dienstverlening combineren om organisaties te helpen profiteren van innovaties op het gebied van cloud en AI.",
     "title": "SAP en NTT willen samenwerken aan betrouwbare ..."
@@ -18021,6 +18462,15 @@
     "summary": "A hamburger menu is a navigational icon. Learn when it can help or hurt your ecommerce store navigation, plus get hamburger menu examples and design tips.",
     "title": "Hamburger Menu: Ecommerce Examples and Tips (2026)"
    },
+   "google.com/goto?url=CAESZgHrOzAVvq2GXasXgAQxWyLD835ipgCsJRLNGkC8PCJVd5ELWyQqHeGPAqQyT2XCjxIqwSR2yzknoqB5aBmsO4HTv7AudFEHPOIav3eb0eOI5a0u3f7AQB6DIx_UzT7i0Bm-tMRfOw": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESZgHrOzAVvq2GXasXgAQxWyLD835ipgCsJRLNGkC8PCJVd5ELWyQqHeGPAqQyT2XCjxIqwSR2yzknoqB5aBmsO4HTv7AudFEHPOIav3eb0eOI5a0u3f7AQB6DIx_UzT7i0Bm-tMRfOw",
+    "page": 1,
+    "summary": "A hamburger menu hides a website's navigation behind a three-line icon. It saves space on small screens and leaves more room for page content.",
+    "title": "Hamburger Menu: Ecommerce Examples and Tips (2026)"
+   },
    "google.com/goto?url=CAESZgHrOzAVzfZGHno3zrxZZyr6DSs9xrelLoq9OoZfXOue4TkDrv3ufYSZS0KVNfKDdhvMUneCZd0mnYt92lxGT7vC37jfXqi_VKHdu9WUiLkeHKp7-30CAINqdEIEDtab6DTcYnvzWw": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -18291,6 +18741,15 @@
     "summary": "A loyalty program is a marketing strategy that encourages repeat business by rewarding customers for their continued patronage. Typically, with a brand loyalty ...",
     "title": "Loyalty Programs: Real Examples & Best Practices (2026)"
    },
+   "google.com/goto?url=CAESZwHrOzAVnkT0WeP6FpBmxwRAlVbrwuFLRNkmHSwZGbH5ndoILcT36ecSLpnPwR-Oo-JAVKiiOVFM2CTI0LH2PbS3lCB7HZP2HeAPj_7RnJ4SI20Ho-hdKS4D5lx_IX7gG1kZb4BGvwU": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESZwHrOzAVnkT0WeP6FpBmxwRAlVbrwuFLRNkmHSwZGbH5ndoILcT36ecSLpnPwR-Oo-JAVKiiOVFM2CTI0LH2PbS3lCB7HZP2HeAPj_7RnJ4SI20Ho-hdKS4D5lx_IX7gG1kZb4BGvwU",
+    "page": 1,
+    "summary": "Now, for select merchants, supported content from the homepage of your online store syncs directly with your Shop store.",
+    "title": "Now Your Shop Store and Online Store Stay in Sync (2026)"
+   },
    "google.com/goto?url=CAESZwHrOzAVnxUc3FjIOdPq7DuEbt2XKlhtdZzJfI96p7hjt7arIQAKI1cnFxUI3OL-k2UWzWWVPKdmaXEwAujmGr3dg5GnLR_g-97WJyUfYn0rvFAdBdHn9Va7JHzYZvuFfGlj-xIPmkA": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -18308,6 +18767,15 @@
     "page": 1,
     "summary": "Now, for select merchants, supported content from the homepage of your online store syncs directly with your Shop store.",
     "title": "Now Your Shop Store and Online Store Stay in Sync (2026)"
+   },
+   "google.com/goto?url=CAESZwHrOzAVsZIpeifMt_m8C_0AaeMkRHYOz4uD-3lmt537Q9X93dUJeDMTjVBe1a1lwNSakwt0vps-BdqlABZsfKT4qJk-NXGWApbH-QQE_r6sTf_RgYh7VEYq55w8MpvAA0fEwNOYtJg": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESZwHrOzAVsZIpeifMt_m8C_0AaeMkRHYOz4uD-3lmt537Q9X93dUJeDMTjVBe1a1lwNSakwt0vps-BdqlABZsfKT4qJk-NXGWApbH-QQE_r6sTf_RgYh7VEYq55w8MpvAA0fEwNOYtJg",
+    "page": 1,
+    "summary": "Website content covers the text, visuals, audio, and interactive parts of your site. Get the types, real examples, and a page-by-page writing guide.",
+    "title": "Website Content: Types, Examples & Writing Tips (2026)"
    },
    "google.com/goto?url=CAESZwHrOzAVu4huyudiSFxc47ijOGDpRRigghUsqmere-PPyzn_TQZ6iphvDG4qDJQeRcIZM5tpz4WDC_hOCpvLNntoW6LEJ6QJNFu7AzsopsFxzLFuqd_UhXsLfkoR1slxpOnFEho7S4g": {
     "baseline": false,
@@ -18705,6 +19173,15 @@
     "summary": "Explore the most profitable dropshipping niches, plus how to find one that fits your store, product ideas, and niches to avoid.",
     "title": "Dropshipping Niches: 8 Profitable Ideas for 2026"
    },
+   "google.com/goto?url=CAESawHrOzAVVoktgqUpz61dUMWGKs6ebm0Rm4Cqi3UXOmihvQcnUMyJFw2WwqZ5feMrMW6z4qSL0dLwMSOphxL_HI0_bf25IaI1LgMVqo8zB8J2ynvsIVv-pCFVUAv3htpXZuO0S-D1dlKEqKST": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESawHrOzAVVoktgqUpz61dUMWGKs6ebm0Rm4Cqi3UXOmihvQcnUMyJFw2WwqZ5feMrMW6z4qSL0dLwMSOphxL_HI0_bf25IaI1LgMVqo8zB8J2ynvsIVv-pCFVUAv3htpXZuO0S-D1dlKEqKST",
+    "page": 1,
+    "summary": "Digital advertising is the practice of promoting your products and services online through a range of ad formats and digital channels.",
+    "title": "What Is Digital Advertising? Digital Ad Types and Tips (2026)"
+   },
    "google.com/goto?url=CAESawHrOzAVW7FSexCeMw2N_GlEtGRv9agOiFoqGTPZSnlR7Am0oXJf_OYnl9Q8Ud_URukmV_qtU1_TBAcdauZoYkjLm07ZQ3fy_eVIpiz-E4LIWFZTrCd4DWFFymczCtIEfORdn-N7-3bX29rP": {
     "baseline": false,
     "date_hint": "7 days ago",
@@ -18966,6 +19443,15 @@
     "summary": "Learn how to accept payments online in 6 steps, including picking a processor and optimizing your checkout experience. Plus, costs and no-website options.",
     "title": "How to Accept Payments Online in 6 Steps (2026)"
    },
+   "google.com/goto?url=CAESbgHrOzAVS3amc6hzIZDEz2b54VEpo3rCpc3eyFHT0zrkqNjWus_-ICmVtdVxwV8YbgTDYFja23wbsJzgFqHXTbDN9pVGooXw90JdAHa1-0dwI0cCM1Cx4WgJySfzhdoEmBMKihkQP-wII7pRf1gp": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESbgHrOzAVS3amc6hzIZDEz2b54VEpo3rCpc3eyFHT0zrkqNjWus_-ICmVtdVxwV8YbgTDYFja23wbsJzgFqHXTbDN9pVGooXw90JdAHa1-0dwI0cCM1Cx4WgJySfzhdoEmBMKihkQP-wII7pRf1gp",
+    "page": 2,
+    "summary": "Shopify is always evolving, with new features and updates rolling out regularly to help retailers stay ahead\u2014but keeping up shouldn't be a chore.",
+    "title": "Shopify Retail Roundup (2026)"
+   },
    "google.com/goto?url=CAESbgHrOzAVU41e3-V9ewx1yQuXXsDk9L96jkfdIE1FfSr_XvGzuZ6R9FRuFP_DJECSLikM3PDqcbAe9VTQeh6rOtGY3jKNaWboSZSS5jE_kd6R904403CYX7mXHV0BKAksIqyi_-KWn43-eEFjFQOP": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -18983,6 +19469,15 @@
     "page": 2,
     "summary": "Shopify is always evolving, with new features and updates rolling out regularly to help retailers stay ahead\u2014but keeping up shouldn't be a chore.",
     "title": "Shopify Retail Roundup (2026)"
+   },
+   "google.com/goto?url=CAESbgHrOzAVUn2WE_bdxaSOO5CpJLqA1KXeAsllYP4H_XJN1yMLcLCm3gDYhFstjz05yZ_4hmIfNQoG5lJJehAiNPb2IxjNpC5UebSHYx2jVUoM0_9VXfdrEZc0J2Z-TDxPQZHBCpmZyCFpgDn0MoP6": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESbgHrOzAVUn2WE_bdxaSOO5CpJLqA1KXeAsllYP4H_XJN1yMLcLCm3gDYhFstjz05yZ_4hmIfNQoG5lJJehAiNPb2IxjNpC5UebSHYx2jVUoM0_9VXfdrEZc0J2Z-TDxPQZHBCpmZyCFpgDn0MoP6",
+    "page": 1,
+    "summary": "Learn how to accept payments online in 6 steps, including picking a processor and optimizing your checkout experience. Plus, costs and no-website options.",
+    "title": "How to Accept Payments Online in 6 Steps (2026)"
    },
    "google.com/goto?url=CAESbgHrOzAVUnCOs15VCi8bP07Li6e2HulsNf7GZOSq8aP_sYP9GGShTapiTfjxh-S8wx3R_Zsh3Td_bY_yCR9x-C4C8bpiJ6UBijjd3gU2SQZOpOfrhwj7f7PrRR7wHCX6qHq1ux-Go8k5xIxQYdqZ": {
     "baseline": false,
@@ -19317,6 +19812,15 @@
     "summary": "Test your business idea by starting with one product, using AI to find products and build your Shopify store, then learning from real customer response.",
     "title": "How to test your business idea, one product at a time (2026)"
    },
+   "google.com/goto?url=CAESdAHrOzAVIXDZ4fItE4LHKdBgrX3LVi9MNWc2hxr6pt1r7vcc4XV4tUylUo71CelZHYsHCTRGA7VBci15ICCLn3cWD-1GD_3kVJG25gFh-YMg9GYB7aCVMdRgLSMcN5xqMqvhmpXkIMYnmpnFzgt2EbYIKikk": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESdAHrOzAVIXDZ4fItE4LHKdBgrX3LVi9MNWc2hxr6pt1r7vcc4XV4tUylUo71CelZHYsHCTRGA7VBci15ICCLn3cWD-1GD_3kVJG25gFh-YMg9GYB7aCVMdRgLSMcN5xqMqvhmpXkIMYnmpnFzgt2EbYIKikk",
+    "page": 1,
+    "summary": "Test your business idea by starting with one product, using AI to find products and build your Shopify store, then learning from real customer response.",
+    "title": "How to test your business idea, one product at a time (2026)"
+   },
    "google.com/goto?url=CAESdAHrOzAVIz30R7HQerfUNk5PzeRn7XKXauy314IWwD5Ii1__jiV-ag3QfL0BL15fGWsXtqh7fbw5HpWus2vgnlK1FBoRx-RT2a1uNcL6TZBZvkLDi7r2yIIp2l994W5VwHNw4WgDWiqm49fGjSZQ4QtzSe5y": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -19551,6 +20055,15 @@
     "summary": "Discover 17 secret websites to make money online, from survey apps to gig platforms, including current pay rates, payout minimums, and fees.",
     "title": "17 Secret Websites to Make Money Online in 2026"
    },
+   "google.com/goto?url=CAESdQHrOzAVyRMwfwALywiyLJ_nwGJOamMzOce32sSZL3TZmg1YNDQ1e32r1Mhljlx9OI2iudwqlV714QpWdySA1SNiXgs1JAk6j2rVsIvuoE_U8-IN83kRINh0GMlEVFFmvukwXQvbUb0z3RAphc9U9MADIspmNw": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESdQHrOzAVyRMwfwALywiyLJ_nwGJOamMzOce32sSZL3TZmg1YNDQ1e32r1Mhljlx9OI2iudwqlV714QpWdySA1SNiXgs1JAk6j2rVsIvuoE_U8-IN83kRINh0GMlEVFFmvukwXQvbUb0z3RAphc9U9MADIspmNw",
+    "page": 2,
+    "summary": "Discover 17 secret websites to make money online, from survey apps to gig platforms, including current pay rates, payout minimums, and fees.",
+    "title": "17 Secret Websites to Make Money Online in 2026"
+   },
    "google.com/goto?url=CAESeAHrOzAV-KT09daJOegoiqghgwwKmuTAYVsEAGOxEYprlKmC2dp9CtFeetK-kPz21ho4cUMjsQSVzxTejzYhkG5k23998bsxc5QxR88cKsngcFiaytVmr83li_loKTRsPzUGPVLi2tvRufY_oSdTJeM2WcahVHWLlQ": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -19619,6 +20132,24 @@
     "date_hint": "4 days ago",
     "first_seen": "2026-10-30T14:42:43Z",
     "link": "https://www.google.com/goto?url=CAESeAHrOzAVEqViurCrCheSZltW1LAKALo2fNu0mRK11i0tUbyBh1FmEma7u-jMd8sjb0zpeBRgyyqx_Lfx_qG8n9banrdsppauTUJ-mL8BYru4LtIPv1m-yVucmaXq87F5h6zHXB1JaQO-NB-DWCN0WN7OmS3qPbLk8g",
+    "page": 2,
+    "summary": "Follow this guide for how to get verified on Instagram and enhance your credibility on the app.",
+    "title": "How To Get Verified on Instagram in 2027"
+   },
+   "google.com/goto?url=CAESeAHrOzAVHjEL1V6hvG1SOiCehrnO1IQcPnwqHhe1J9za7h9PMmgKP_IwE05ALoRRdXhvdcl-T_HYW3Cr0IRyVfQnUx8AMd5CGXM6B7fNJH59NxDrdeJ8CL02zOhPDGmvBS7v3BHN9Tm47aZAEOnyXKGn_NjLdVUsPw": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESeAHrOzAVHjEL1V6hvG1SOiCehrnO1IQcPnwqHhe1J9za7h9PMmgKP_IwE05ALoRRdXhvdcl-T_HYW3Cr0IRyVfQnUx8AMd5CGXM6B7fNJH59NxDrdeJ8CL02zOhPDGmvBS7v3BHN9Tm47aZAEOnyXKGn_NjLdVUsPw",
+    "page": 2,
+    "summary": "Driven by a passion for global craftsmanship, Bert Youn opened a Los Angeles store, using tactile retail to build a profitable ecommerce brand.",
+    "title": "How The Good Liver Built a Cult Retail Brand (2026)"
+   },
+   "google.com/goto?url=CAESeAHrOzAVMr541O0_I40uNd_WXzPUdkg3ix-GWi0JzKIMTPQ5aOmiGUPHhOmGRAChKtyPZVqzlCGMINZ1DR0SailP2zMwVDfUbCzkQLdbeGpGnq5-HcMf7PBwQam378KLo2tfpfNwxCZNJ3jb6S5NMJLoJiwDj81xJw": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESeAHrOzAVMr541O0_I40uNd_WXzPUdkg3ix-GWi0JzKIMTPQ5aOmiGUPHhOmGRAChKtyPZVqzlCGMINZ1DR0SailP2zMwVDfUbCzkQLdbeGpGnq5-HcMf7PBwQam378KLo2tfpfNwxCZNJ3jb6S5NMJLoJiwDj81xJw",
     "page": 2,
     "summary": "Follow this guide for how to get verified on Instagram and enhance your credibility on the app.",
     "title": "How To Get Verified on Instagram in 2027"
@@ -19745,6 +20276,15 @@
     "date_hint": "3 days ago",
     "first_seen": "2026-10-30T14:42:43Z",
     "link": "https://www.google.com/goto?url=CAESegHrOzAV7mT-dzALeMZYwdcQdBoZ1ObHqrdp7zWqp58XGJTcYU4DyS_p1pqsON6pf_CdortWIzXR4R4vImB-8jJQeK3CL-LwkNW4A0DtL6i4bwD2R31rlSBymAOJ_T59qqKWrXYehdZvl_KtkoZk2amm6GBwIkqC2mX-",
+    "page": 2,
+    "summary": "Learn how to get a business phone number. Compare local, toll-free, and virtual numbers, and review costs and setup requirements.",
+    "title": "How To Get a Business Phone Number in 4 Steps (2026)"
+   },
+   "google.com/goto?url=CAESegHrOzAV9zcJjct4-G42FPUj4RtbETLgBCReYW3eWqjHmWLuw5OU6hqae4tT00eu_MdLqfcxohs2Aqh7PuRf29RPnQFFk4XRZiJdZVk71xwY4hb5HAFPWU-6Ks0ufUgmn-aJT6lMjVJsy_j5tpf2m_KhqxLrW9njJGhq": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESegHrOzAV9zcJjct4-G42FPUj4RtbETLgBCReYW3eWqjHmWLuw5OU6hqae4tT00eu_MdLqfcxohs2Aqh7PuRf29RPnQFFk4XRZiJdZVk71xwY4hb5HAFPWU-6Ks0ufUgmn-aJT6lMjVJsy_j5tpf2m_KhqxLrW9njJGhq",
     "page": 2,
     "summary": "Learn how to get a business phone number. Compare local, toll-free, and virtual numbers, and review costs and setup requirements.",
     "title": "How To Get a Business Phone Number in 4 Steps (2026)"
@@ -19902,6 +20442,15 @@
     "summary": "Now, Sidekick can draw on supported apps in your stack and bring them to the Home page on your Shopify admin as a recommendation. Open that recommendation, and ...",
     "title": "Sidekick sees more of your business with app extensions"
    },
+   "google.com/goto?url=CAESewHrOzAV_XPrwjuOSoZcoeef4NY9GcDqfye8wblLhckIft1Y4AaTQ23xFx2OqfmGqC2Pb5O8EhVu_RAqm4P0_hKSpAUySQjYU-a1SF6_QvCi6hfDid8mQLadBnVI2y-rk5mkuXhsGEdjLN7ahOhUKNHSpeTeFv8nYccVIQ": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESewHrOzAV_XPrwjuOSoZcoeef4NY9GcDqfye8wblLhckIft1Y4AaTQ23xFx2OqfmGqC2Pb5O8EhVu_RAqm4P0_hKSpAUySQjYU-a1SF6_QvCi6hfDid8mQLadBnVI2y-rk5mkuXhsGEdjLN7ahOhUKNHSpeTeFv8nYccVIQ",
+    "page": 1,
+    "summary": "Now, Sidekick can draw on supported apps in your stack and bring them to the Home page on your Shopify admin as a recommendation. Open that recommendation, and ...",
+    "title": "Sidekick sees more of your business with app extensions"
+   },
    "google.com/goto?url=CAESewHrOzAVg40ezdvYLTiLvcponGGMjuLViEQach7U6Fzvz1oNPLXrVo_p29kEmraPVAntR1wTIHjDlHCM_bStUOidJR5pJPDqi-EPrr20GQpBXPMc3z_w2rLF95lLhtGdknoaY8iyGHn8qxqciOK9cLvYzLRQZWP71LttBw": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -20019,6 +20568,15 @@
     "summary": "A payment gateway captures and securely sends a customer's payment details. A payment processor routes transaction messages between banks and card networks ...",
     "title": "Payment Gateway vs. Payment Processor (2026)"
    },
+   "google.com/goto?url=CAESfAHrOzAVpRoumpZUUWmKUAy_Bv6PMXpqgWixAilqUyJU6nI4GRhdT2QOU2x8zOHosk1gTIqKAxIvQfP1uKhDor_gJxfKO2TaU6-7yX0rU6Ov7X41bZGfWy78kgGsew7-isrq0rn6gcUyk-wA-sq4wmQKtey-iBAb9BYGQR8": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESfAHrOzAVpRoumpZUUWmKUAy_Bv6PMXpqgWixAilqUyJU6nI4GRhdT2QOU2x8zOHosk1gTIqKAxIvQfP1uKhDor_gJxfKO2TaU6-7yX0rU6Ov7X41bZGfWy78kgGsew7-isrq0rn6gcUyk-wA-sq4wmQKtey-iBAb9BYGQR8",
+    "page": 2,
+    "summary": "A payment gateway captures and securely sends a customer's payment details. A payment processor routes transaction messages between banks and card networks ...",
+    "title": "Payment Gateway vs. Payment Processor (2026)"
+   },
    "google.com/goto?url=CAESfAHrOzAVvDuRQ20K_z-iYwjVats6Sz9i_IW-knCWmFQlYOzDoPwiQOLMpoq1lUQ_y5cuM0PtJTELGKWGvafl5YRXmhOGFn7sRkfXOJ_tZ44l549YCc6_HIzb8a4RX-HhKok3ZfbImoRzWyBnuvwPHEhdlBEsLihQQCKkvC0": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -20105,6 +20663,15 @@
     "date_hint": "2 days ago",
     "first_seen": "2026-10-30T08:43:03Z",
     "link": "https://www.google.com/goto?url=CAEShgEB6zswFbBcX-Q5EG9q1OBuyAuPhiAhhaQ_qqTaYN5ICrRVIsuFrKjWv8ZPsEiW4z5HQnpFVvuRIJgFI09fX2-rJjzSV1rcjcW7s_4AwfpMmwnERna-WQBH2WfPg_msGBJ30X0SI2-XAS3vv2ShxwDpVrRbFZCIiWBX3UTDtSVUf4l4mDSJfQ",
+    "page": 2,
+    "summary": "Shopify POS helps you identify more of your in-store customers at checkout, so more sales turn into customers you can remember, reach, and bring back.",
+    "title": "Identify More of Your In-Store Customers with Shopify POS"
+   },
+   "google.com/goto?url=CAEShgEB6zswFfRLyo5UU8a47scuue-APfiGgxwuPH5Bm0WThLGFOIRBCBlTl_JvqOBl3LmQFRADt3jsmknaiAmSC5_I5g3cTyPGvBJKxDwXFlcskz-s66zaQMEGH_JsrUu2TaApmPHuuqqVWaAxLTLu_qPT78wUbZpr9swlK-SSj1gL0NfrWN8pCQ": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAEShgEB6zswFfRLyo5UU8a47scuue-APfiGgxwuPH5Bm0WThLGFOIRBCBlTl_JvqOBl3LmQFRADt3jsmknaiAmSC5_I5g3cTyPGvBJKxDwXFlcskz-s66zaQMEGH_JsrUu2TaApmPHuuqqVWaAxLTLu_qPT78wUbZpr9swlK-SSj1gL0NfrWN8pCQ",
     "page": 2,
     "summary": "Shopify POS helps you identify more of your in-store customers at checkout, so more sales turn into customers you can remember, reach, and bring back.",
     "title": "Identify More of Your In-Store Customers with Shopify POS"
@@ -22061,6 +22628,15 @@
     "summary": "Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.",
     "title": "Fix XML schema validation errors - Sovos Docs"
    },
+   "google.com/goto?url=CAESwwEB6zswFcEmV8DAYSzB53MSKSuUtQwS66br34UveHvM0vc6Sl7j3flb895LvKtDr2nwxFJRrkt7xkVq5d63GnfcHMP-a7UflIae6H7Klew-Sup6XVJjyK9QufYytVIDnv5nqTlPzD4WfeIwoDGKSzs82rqkgTEXQiqLoFAjyCmugg-wn6c6qd4mDkyHgAo80iouuHxW_UCDQe7h1H8LOxlWgYBNzr93vHf43E2skDIc8TItPOgAOxOuWAaYGAT7LTTdUsQ": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESwwEB6zswFcEmV8DAYSzB53MSKSuUtQwS66br34UveHvM0vc6Sl7j3flb895LvKtDr2nwxFJRrkt7xkVq5d63GnfcHMP-a7UflIae6H7Klew-Sup6XVJjyK9QufYytVIDnv5nqTlPzD4WfeIwoDGKSzs82rqkgTEXQiqLoFAjyCmugg-wn6c6qd4mDkyHgAo80iouuHxW_UCDQe7h1H8LOxlWgYBNzr93vHf43E2skDIc8TItPOgAOxOuWAaYGAT7LTTdUsQ",
+    "page": 1,
+    "summary": "Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.",
+    "title": "Fix XML schema validation errors - Sovos Docs"
+   },
    "google.com/goto?url=CAESwwEB6zswFcLG-Hy7U5uQw0AtPzBWqdcOdeLnIQnlYRfiXcWfueA4j2F0ZpcbWr2voL2ZJti6sQEMY_joEpxw3qI1qAF_YE2G68kB-Jsow-WBAextVNoLsXLNY-qplY-UfE0dPfoALCbr9Zm8qTUZ3c8XOu5NTImErZ4x6mDYKa145gs1nfx1mLwmJsKICosMbWgU_PPb7cqHMXPiF5d7kUh1IY18H9u7B7f1wMedn0YzykAKwqj8zmvH94tjGXahZcA9els": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -22178,6 +22754,15 @@
     "summary": "View whether your transmittals were accepted or need action directly in Sovos's Tax Information Reporting software.",
     "title": "Check the status of IRS transmittals - Sovos Docs"
    },
+   "google.com/goto?url=CAESxAEB6zswFcMaj61l4kogmcttKaooG7MeqWcub-YG_LBPCyAWXn2rfe-SookCqCdfl8qbgVQZ7oCYwg-XD6cgJ2kWl7GtQAY9llnQJSFc444UBnNjVAuOFJTEFDF3mp3s3yF5dwPeEnX0Lpa7F0xWJ974dlIZjbpU7qGrbx9O-qVlwZlk2z3xhr8Erx1yyGhhFg9-Ydc6Saz5-0DTLJlADib9uVfSlHe0VscMkwFnzkJGgQy9xKIWIzaSnxUXqoIAw0QBC-P0": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESxAEB6zswFcMaj61l4kogmcttKaooG7MeqWcub-YG_LBPCyAWXn2rfe-SookCqCdfl8qbgVQZ7oCYwg-XD6cgJ2kWl7GtQAY9llnQJSFc444UBnNjVAuOFJTEFDF3mp3s3yF5dwPeEnX0Lpa7F0xWJ974dlIZjbpU7qGrbx9O-qVlwZlk2z3xhr8Erx1yyGhhFg9-Ydc6Saz5-0DTLJlADib9uVfSlHe0VscMkwFnzkJGgQy9xKIWIzaSnxUXqoIAw0QBC-P0",
+    "page": 1,
+    "summary": "View whether your transmittals were accepted or need action directly in Sovos's Tax Information Reporting software.",
+    "title": "Check the status of IRS transmittals - Sovos Docs"
+   },
    "google.com/goto?url=CAESxAEB6zswFcWsjvKdB5BPT45r9I9b2IY2-UPRMhF7x8WorTeKKRyB3gecKQ-m7MoB4nMZGGjSok6HVe8cZY8nXLl-QsuD37EXNx5FWmiatHu0hvTUgUb-xEVC1ruJnX5MFfG7uE7wRbQ7ngXPaIw5mBVnHYOBnV3Z7ne5muog6h6_V5JK9LOjJaTYOVG4s9Zx-e4yysoILsl0O7O1vCLm83j57LABkCktHzZVDViZo15fkZAeHivzGb6cfryESkZhw5wak1G1": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -22239,6 +22824,15 @@
     "date_hint": "7 days ago",
     "first_seen": "2026-10-30T15:42:55Z",
     "link": "https://www.google.com/goto?url=CAESZQHrOzAVMv0Cf5YEEiCzIoN5MigcAeZbpC1_o69KXF5hMNbYjDk6wBxeTooRXwVpYBPGCvHGDMmI_wgy5pURbx3pTO8GNpwtex0tTnDfqCI-GzfxJTbfuTKz5ZsneFPxdfD3yHm_",
+    "page": 1,
+    "summary": "Clocking out allows employees to properly end their shift from the Front of House (FOH) POS. During the clock-out process, employees may be prompted to enter ...",
+    "title": "Clock Out | SpotOn Restaurant FOH"
+   },
+   "google.com/goto?url=CAESZQHrOzAVO43xjrYzldIFckel3cdzLuwe2ZqACloDlMipzeiy32l4MDNXSi4UsOhqyxzaxiXzGHhAFw_zPIdlks4A2QyXVL5fILMPWl4oDrEUZQxLjlgXghnpo6cf_sAB2J06FRLI": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESZQHrOzAVO43xjrYzldIFckel3cdzLuwe2ZqACloDlMipzeiy32l4MDNXSi4UsOhqyxzaxiXzGHhAFw_zPIdlks4A2QyXVL5fILMPWl4oDrEUZQxLjlgXghnpo6cf_sAB2J06FRLI",
     "page": 1,
     "summary": "Clocking out allows employees to properly end their shift from the Front of House (FOH) POS. During the clock-out process, employees may be prompted to enter ...",
     "title": "Clock Out | SpotOn Restaurant FOH"
@@ -22341,6 +22935,15 @@
     "page": 1,
     "summary": "The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,",
     "title": "Deposits Setup & Management | SpotOn Reserve Web Portal"
+   },
+   "google.com/goto?url=CAESZgHrOzAVAwFBE3D-PfwAHipDt5MwyvvmgqjUwFBCtXm9c0fKAFzr92IB_LNKwsxmhGKgJMvCTbMYSm2acGCIPYLm8IgKHnA_Ks_-LToz22nKgvL--J18aYhNJtNRmxtJMZBsOBIY8A": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESZgHrOzAVAwFBE3D-PfwAHipDt5MwyvvmgqjUwFBCtXm9c0fKAFzr92IB_LNKwsxmhGKgJMvCTbMYSm2acGCIPYLm8IgKHnA_Ks_-LToz22nKgvL--J18aYhNJtNRmxtJMZBsOBIY8A",
+    "page": 1,
+    "summary": "Overview. Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu ...",
+    "title": "Open Items and Market Price | SpotOn Restaurant BOH"
    },
    "google.com/goto?url=CAESZgHrOzAVDyEUrJTIIWOHxZk8EHmH5e5UceqmpbPri9o-xBw0TbgZEk-c55UOVWAoZKdto78n1R9jPJCgeSzAwsBP2i4Je9U_zttGyyS5GW79I3HCz9kM3yJwkRRyyPQ3bEvEZfDKyg": {
     "baseline": false,
@@ -22448,6 +23051,15 @@
     "link": "https://www.google.com/goto?url=CAESZgHrOzAVONVsQyKSR11y82k0t12gbqQtE2f8baiMtz8H8xeRpSwj5qVj2uAO1fUuvv2078QXMMA4c_mDXHtquT_FaaiFwAZTBQkuhCQUVkr0TzfzOEdc2V9kmlH9ujUu48ScXtGm8Q",
     "page": 1,
     "summary": "The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,",
+    "title": "Deposits Setup & Management | SpotOn Reserve Web Portal"
+   },
+   "google.com/goto?url=CAESZgHrOzAVQS5skGyZhzYEDF7HzedN8sZKp-D0HPZbcjrkRbMiPZ5VSj0n8dv0fgkmMiI0RLvtMfPNEU_gD-0XP9PB-VjpBTkqNhddqsZ7wy2YHm1cYtEh88wSnLrGw-_d6Me1zU3AJw": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESZgHrOzAVQS5skGyZhzYEDF7HzedN8sZKp-D0HPZbcjrkRbMiPZ5VSj0n8dv0fgkmMiI0RLvtMfPNEU_gD-0XP9PB-VjpBTkqNhddqsZ7wy2YHm1cYtEh88wSnLrGw-_d6Me1zU3AJw",
+    "page": 1,
+    "summary": "Step-by-Step Instructions \u00b7 Part 1: Set Up a Deposit in the Reserve Web Portal \u00b7 Part 2: Creating a Reservation with a Deposit \u00b7 Part 3: Create a Prepaid ...",
     "title": "Deposits Setup & Management | SpotOn Reserve Web Portal"
    },
    "google.com/goto?url=CAESZgHrOzAVRsCLvUqAiD5Yn1BehRByG2Xin1EPPm8RMZp7VhQIz-KgJ11oU8ljdq3q5DCt2LSzJ_EX-sBRXmZPBQ4z9GxqKdsOMFQJNI8JYTF8VrMwwFdpjqnNYu8gj7tYNdx8Oh6qSA": {
@@ -22603,6 +23215,15 @@
     "summary": "Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu price.",
     "title": "Open Items and Market Price | SpotOn Restaurant BOH"
    },
+   "google.com/goto?url=CAESZgHrOzAVcTQiKxlek5uMH9FjPhXELmDspkykXy7BKLbSqYQodAKmySrEPJrkA98A_9BSY91_QCsBVY3VJl_DSlAjTdsS1chj2lIpnVdB-pOpLDm-zKENSTiXYhvU-BDYAU1yOC4RtQ": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESZgHrOzAVcTQiKxlek5uMH9FjPhXELmDspkykXy7BKLbSqYQodAKmySrEPJrkA98A_9BSY91_QCsBVY3VJl_DSlAjTdsS1chj2lIpnVdB-pOpLDm-zKENSTiXYhvU-BDYAU1yOC4RtQ",
+    "page": 1,
+    "summary": "Adjust Tip: You can adjust the tip within 10 minutes of the initial change. If you entered the wrong tip, correct it here. Changes apply to the customer only ...",
+    "title": "Tip Adjustments | SpotOn Express"
+   },
    "google.com/goto?url=CAESZgHrOzAVdK0dp7sAY65OS6GIo_N9U9fqStQixNdaltZCjL_Yr1gYOoDNmN-2uFxvb0dbnh6AjrWFsZzgJAx8dz20UNGFhGhlTwSzN6mXjUdfIFdq5vzsxpHTjojVr_Y1poVFfsnN2Q": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -22756,6 +23377,15 @@
     "summary": "Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu price.",
     "title": "Open Items and Market Price | SpotOn Restaurant BOH"
    },
+   "google.com/goto?url=CAESZgHrOzAVwJN657Ob3CMOnTon3a9jFNh9eijzbwiHp4UR1ZEVphr2q1Nyo4RkXna7-tzVyfhsoir5BxUkTaJd0SQmp4ABbLIFq_7jUQFpqfVDoY70w5ZYviL6PTpubeY8xTe7jGwKZA": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESZgHrOzAVwJN657Ob3CMOnTon3a9jFNh9eijzbwiHp4UR1ZEVphr2q1Nyo4RkXna7-tzVyfhsoir5BxUkTaJd0SQmp4ABbLIFq_7jUQFpqfVDoY70w5ZYviL6PTpubeY8xTe7jGwKZA",
+    "page": 1,
+    "summary": "Overview. Order Types determine how orders are processed within SpotOn Restaurant (RPOS). They can be configured with unique pricing, customer requirements, ...",
+    "title": "Create Order Type | SpotOn Restaurant (RPOS)"
+   },
    "google.com/goto?url=CAESZgHrOzAVwcC1mffEuAJPhXADHGdr04SFkGZmW2elU_NkfsOcbhVMtTy0UZkI1-jUw8R60Zn45xWkFcul17hjbkOahQzYAYFWtM5IGyUu3Un--XJM2r3HfYuWFMFzH2IVuIyBZCBEIQ": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -22844,6 +23474,15 @@
     "link": "https://www.google.com/goto?url=CAESiQEB6zswFVMzLaGeOquDNuZQI1tuchwoiXvaHOCeWimUswwLhi0_smraKm9Y9ef-ptqqjXnLakM3A7wQ91P222Utrm5sRSUTRoO-7HSHNt0t1r5KbRM-jdbS6zIPND9luJezkPpc0yKrjeLFbd6CAOEfZwJ1prnDBbtGjvXLRcWA-iFT2wWmR2BnNg",
     "page": 1,
     "summary": "Clocking in allows employees to start their shift and access the Front of House (FOH) based on their assigned job position.",
+    "title": "Clock In | SpotOn Restaurant FOH"
+   },
+   "google.com/goto?url=CAESiQEB6zswFVuqbW1zlm75wlV1yELLDynuEalVUeajke_Rhf08mBe5C7n1HwgmvwnrLKtNGAZ0pX3hgOvZSoUgVyrHmHwsxaMOhVrRtX8UVW1d1NwicH1iii3VlSCfaFehmjgaMt-roZlEToc2DLN9nHCP16UpWXTe2LKNywUqE5_f623ScoTV9xYd3A": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESiQEB6zswFVuqbW1zlm75wlV1yELLDynuEalVUeajke_Rhf08mBe5C7n1HwgmvwnrLKtNGAZ0pX3hgOvZSoUgVyrHmHwsxaMOhVrRtX8UVW1d1NwicH1iii3VlSCfaFehmjgaMt-roZlEToc2DLN9nHCP16UpWXTe2LKNywUqE5_f623ScoTV9xYd3A",
+    "page": 1,
+    "summary": "Overview. Clocking in allows employees to start their shift and access the Front of House (FOH) based on their assigned job position.",
     "title": "Clock In | SpotOn Restaurant FOH"
    },
    "google.com/goto?url=CAESiQEB6zswFWYe8r_c24tTsKUE1q4YR-etisvs5nSf-VrNhmjrBIHU72qbVAIwqgmi4wVcy-HFjmxnnmPKBC03xDVQ6l-5LVJ_bq94o_QlT1ylzAw91iVv-MNZq3Tx0ouhaCOq0QPyuzprfVFf2DO9nvjHF2lJqR4FChBhrWg6UaPQtp1ao8VEfNF8EA": {
@@ -23655,6 +24294,15 @@
     "summary": "The search query string. See search query language and the list of supported query fields for charges. limitinteger. A limit on the number of objects to be ...",
     "title": "Search charges | Stripe API Reference"
    },
+   "docs.stripe.com/api/climate/order/retrieve": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://docs.stripe.com/api/climate/order/retrieve",
+    "page": 3,
+    "summary": "Chat with Stripe developers on Discord. Check out our changelog. Questions? Contact Sales. LLM? Read llms.txt. Powered by Markdoc.",
+    "title": "Retrieve an order | Stripe API Reference"
+   },
    "docs.stripe.com/api/customer_bank_accounts/object?lang=dotnet&ref=public-apis": {
     "baseline": true,
     "date_hint": "7 days ago",
@@ -23681,6 +24329,15 @@
     "summary": "Stripe will automatically send invoices to customers according to your subscriptions settings. However, if you'd like to manually send an invoice to your ...",
     "title": "Send an invoice for manual payment v1"
    },
+   "docs.stripe.com/api/issuing/transactions/test_mode_create_unlinked_refund": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://docs.stripe.com/api/issuing/transactions/test_mode_create_unlinked_refund",
+    "page": 3,
+    "summary": "Answers to prompts presented to the cardholder at the point of sale. Prompted fields vary depending on the configuration of your physical fleet cards.",
+    "title": "Create a test-mode unlinked refund | Stripe API Reference"
+   },
    "docs.stripe.com/api/payment_intents/object": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -23689,6 +24346,15 @@
     "page": 2,
     "summary": "This field indicates whether this payment method can be shown again to its customer in a checkout flow. Stripe products such as Checkout and Elements use this ...",
     "title": "The PaymentIntent object | Stripe API Reference"
+   },
+   "docs.stripe.com/api/product-feature/list": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://docs.stripe.com/api/product-feature/list",
+    "page": 3,
+    "summary": "A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...",
+    "title": "List all features attached to a product v1"
    },
    "docs.stripe.com/api/subscriptions/object": {
     "baseline": false,
@@ -24347,6 +25013,15 @@
     "summary": "Stripe will automatically send invoices to customers according to your subscriptions settings. However, if you'd like to manually send an invoice to your ...",
     "title": "Send an invoice for manual payment v1"
    },
+   "google.com/goto?url=CAESZAHrOzAVZkALO67mtFwN9jomQht94t8HlCBO898dsJ9ivF3ul1opas9an_ur1ocAHbbh6Vi8ExzZJqO7qDuH-EEhOXwagWQmNL7JnONoKbUvCNEiEHPrhWjSfvVTU8O67OBUv3w": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESZAHrOzAVZkALO67mtFwN9jomQht94t8HlCBO898dsJ9ivF3ul1opas9an_ur1ocAHbbh6Vi8ExzZJqO7qDuH-EEhOXwagWQmNL7JnONoKbUvCNEiEHPrhWjSfvVTU8O67OBUv3w",
+    "page": 2,
+    "summary": "Stripe will automatically send invoices to customers according to your subscriptions settings. However, if you'd like to manually send an invoice to your ...",
+    "title": "Send an invoice for manual payment v1"
+   },
    "google.com/goto?url=CAESZAHrOzAVd34cdTOtmnQRA57V5szQPGOTFDieOMqQUl0aX0VlET4N46noeqq_9ZT2r7Q4k5eQI0oACRry2dbAWpY-VEHn0fa9KqzR0TVkt5O--FT-u_WFFU-jwdq9MXb_uD9kGJ8&gsessionid=kIx6iyiWKfLhpBoqr7toubRZ-ZBDZTqgwF5ytEWkaqkyuho7LiUF2g": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -24410,6 +25085,15 @@
     "summary": "A dictionary with a data property that contains an array of up to limit charges. If no objects match the query, the resulting array will be empty. See the ...",
     "title": "Search charges | Stripe API Reference"
    },
+   "google.com/goto?url=CAESZQHrOzAVpWacvoh_9lLaBT4kyCCsGlMDC9IV0OLiVQD-TZQ8Cs4yeBOgzg_DQs6RzMDoXh6X4gJ5_KaCYlsxT5YhtX7f9TUoRlC4nsI88R8ZCfE7lWEIMtAwGNcKd5TjZ9ZiEbGb": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESZQHrOzAVpWacvoh_9lLaBT4kyCCsGlMDC9IV0OLiVQD-TZQ8Cs4yeBOgzg_DQs6RzMDoXh6X4gJ5_KaCYlsxT5YhtX7f9TUoRlC4nsI88R8ZCfE7lWEIMtAwGNcKd5TjZ9ZiEbGb",
+    "page": 2,
+    "summary": "A dictionary with a data property that contains an array of up to limit charges. If no objects match the query, the resulting array will be empty. See the ...",
+    "title": "Search charges | Stripe API Reference"
+   },
    "google.com/goto?url=CAESZQHrOzAVuuj4EGkcEYaB0mU9jByrCZdMs85OsMhTYT0Kl3XW_bzRDXR8bgcsCsTkxyTJch79-oJzh_iyJ6F-Z47vyyuDAqd4jOVPzyZG0GhNF6V3_orIwgPa_lH3M3TVq4CKkPrz": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -24427,6 +25111,15 @@
     "page": 2,
     "summary": "Stripe will automatically send invoices to customers according to your subscriptions settings. However, if you'd like to manually send an invoice to your ...",
     "title": "Send an invoice for manual payment v1"
+   },
+   "google.com/goto?url=CAESZwHrOzAV1es_r47APHWhkkzksAqAaweGvtpdk8_NMpMkqM3P_c86Rg8Ca2E2rxjoa9MDR1ckkuEfvq5kvPTeIKRv7MJC7iq2MJAgKjIUHV1-V47QlhWwQKAgBtwMOufJ8Q-TtN6LlC0": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESZwHrOzAV1es_r47APHWhkkzksAqAaweGvtpdk8_NMpMkqM3P_c86Rg8Ca2E2rxjoa9MDR1ckkuEfvq5kvPTeIKRv7MJC7iq2MJAgKjIUHV1-V47QlhWwQKAgBtwMOufJ8Q-TtN6LlC0",
+    "page": 2,
+    "summary": "Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.",
+    "title": "Create a customer | Stripe API Reference"
    },
    "google.com/goto?url=CAESZwHrOzAV9OYOrHk-EHf_cXJM_-lAEwQO_HaR2FXsMM7aYIygG8GCcL7FPspJH1vAKH1imepC6jzo0cR7ESAdc0qarMYNZpcrIkwBLep34VLHjhN8smZuxDYVfKU-beQz4E37JwY405o": {
     "baseline": false,
@@ -24518,6 +25211,15 @@
     "summary": "Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.",
     "title": "Create a customer | Stripe API Reference"
    },
+   "google.com/goto?url=CAESZwHrOzAVv-sqQTjv_Cxks9LYqKfUUxtbP7aem7thhCGB2O9fcSlzUT6ShWH4KjCxignX-DlC8PjR-E4x1EmGdpX6NoW-j7zSgfIE2JtCemsRrm2HuqtRNGaPTj7sTql6FcZvY2Lalmk": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESZwHrOzAVv-sqQTjv_Cxks9LYqKfUUxtbP7aem7thhCGB2O9fcSlzUT6ShWH4KjCxignX-DlC8PjR-E4x1EmGdpX6NoW-j7zSgfIE2JtCemsRrm2HuqtRNGaPTj7sTql6FcZvY2Lalmk",
+    "page": 2,
+    "summary": "Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.",
+    "title": "Create a tax rate v1"
+   },
    "google.com/goto?url=CAESaQHrOzAVjub_XUK2OVIryd25m0QZrjATi4t8IsolwCR6xqzuYycpNoqRnN2P8ROl1Lq3pWk26EAK0isKwfK0zBecp9dlM8UDLwekrWIWCHPBCEodbfuy-8_l_YTWMW7L5RLz0rrayZ447w": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -24535,6 +25237,15 @@
     "page": 2,
     "summary": "Chat with Stripe developers on Discord. Check out our changelog. Questions? Contact Sales. LLM? Read llms.txt. Powered by Markdoc.",
     "title": "Retrieve an order | Stripe API Reference"
+   },
+   "google.com/goto?url=CAESbQHrOzAVW9N5WqZ6mM86HzlKoI7g61npcmWHjJQy7YKHZGQQOqTnxDAYMxqtE2-fyj39OjQFfKqgtmxMU5UMzTFDPpNWbVk9coxRkgJrn1n2fUENTtPnwty1IkQa2HoQ2WNyPewdlxAvXXQkWng": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESbQHrOzAVW9N5WqZ6mM86HzlKoI7g61npcmWHjJQy7YKHZGQQOqTnxDAYMxqtE2-fyj39OjQFfKqgtmxMU5UMzTFDPpNWbVk9coxRkgJrn1n2fUENTtPnwty1IkQa2HoQ2WNyPewdlxAvXXQkWng",
+    "page": 2,
+    "summary": "This field indicates whether this payment method can be shown again to its customer in a checkout flow. Stripe products such as Checkout and Elements use this ...",
+    "title": "The PaymentIntent object | Stripe API Reference"
    },
    "google.com/goto?url=CAESbQHrOzAVYaYmkh00Qzctbd0jTztd8LuzANehMUOfwcKG2WFeTqs3_eYObW6JHXgCo6Fw1iRtQD-rvACaqE1-IF_qZyllMxIcYlTFKYWDyG1AMYLqDjK4y5ei9ZMQAgIgHP15SCHi9XOVtSycMrg&gsessionid=kIx6iyiWKfLhpBoqr7toubRZ-ZBDZTqgwF5ytEWkaqkyuho7LiUF2g": {
     "baseline": false,
@@ -24559,6 +25270,15 @@
     "date_hint": "1 day ago",
     "first_seen": "2026-10-30T16:42:32Z",
     "link": "https://www.google.com/goto?url=CAESbwHrOzAV04O_-OCAQqcRtT5znJMrnclYnmBu4AoioukEju4fHtlNn8CB0YvIDVvSJTgBjTo3SJ5P5MGgKlmwPS-0jOgqQvmUgfVqQrO1_2iTOOych1hdfeK2tXmR11cs-fO5xfoBwVsixALZjpe1yQ",
+    "page": 1,
+    "summary": "App analytics shows how many users install your app and view its listing. To understand how users interact with your app after installing it, ...",
+    "title": "In-app analytics and error monitoring"
+   },
+   "google.com/goto?url=CAESbwHrOzAVAwgpmQItddRF76k2x0m16LQLaJtdaTWkYm3BOYncjtkQM_JU-8vy-odAYrnG44NL_d8S7bcyKzrQANz91v2A6aZ6ePpK-D9WBSy9tev11pPT8htP-uCoYSHXlJoOtS1Tveh8XxwM9XzvmQ": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESbwHrOzAVAwgpmQItddRF76k2x0m16LQLaJtdaTWkYm3BOYncjtkQM_JU-8vy-odAYrnG44NL_d8S7bcyKzrQANz91v2A6aZ6ePpK-D9WBSy9tev11pPT8htP-uCoYSHXlJoOtS1Tveh8XxwM9XzvmQ",
     "page": 1,
     "summary": "App analytics shows how many users install your app and view its listing. To understand how users interact with your app after installing it, ...",
     "title": "In-app analytics and error monitoring"
@@ -24779,6 +25499,15 @@
     "summary": "(QRIS) is a real time payment system developed by the Bank of Indonesia. The service works by instantly transferring funds between two bank accounts.",
     "title": "QRIS Payments"
    },
+   "google.com/goto?url=CAEScQHrOzAVtqJeBv2S3hTK6qOufQmpAMrX7ag7FzognqFcku1orT4VBKs8SIe1gk4gVi-qBukGOQyABUojn_gepbu8OjJIZW-rvIXGIijH76R-VdRW9m8YOy7wQbjrVoqnDJq11vkJ5rOldiotsn_ImqVn": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAEScQHrOzAVtqJeBv2S3hTK6qOufQmpAMrX7ag7FzognqFcku1orT4VBKs8SIe1gk4gVi-qBukGOQyABUojn_gepbu8OjJIZW-rvIXGIijH76R-VdRW9m8YOy7wQbjrVoqnDJq11vkJ5rOldiotsn_ImqVn",
+    "page": 1,
+    "summary": "(QRIS) is a real time payment system developed by the Bank of Indonesia. The service works by instantly transferring funds between two bank accounts.",
+    "title": "QRIS Payments"
+   },
    "google.com/goto?url=CAEScQHrOzAVu1Pi3l33FtV1ivQQoQlqUvBg9_yFXCnyGwh9PRFFwhwaZby7mDLtbd63XXfJ1nX0HAUTkVU1uJxoIv5UBXh6N5y3VBjf98p02v7kQdG-HYgtSlrCni-wpCCg3g284xM7QOsz2JeYEwZZqBjG": {
     "baseline": false,
     "date_hint": "17 hours ago",
@@ -24905,6 +25634,15 @@
     "summary": "Use the tax integration configuration API to enable automatic tax on standalone invoices and understand when conflicting parameters disable it.",
     "title": "Enable tax by default for invoices"
    },
+   "google.com/goto?url=CAESdgHrOzAVZEyq2w8ogQ_xbgOBRgRpMrhUEgpNueQqvmfnOJP4SJD07r5XQX8T2QsVpDOVUoF-46VGQD91chpIHRNbDotNEkagF4k8REZn7QL4psEgmNLjRXvQ_UoaUSNhRK2mUZCh2c7kYiPciRCBpoSWaYYxjJQ": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESdgHrOzAVZEyq2w8ogQ_xbgOBRgRpMrhUEgpNueQqvmfnOJP4SJD07r5XQX8T2QsVpDOVUoF-46VGQD91chpIHRNbDotNEkagF4k8REZn7QL4psEgmNLjRXvQ_UoaUSNhRK2mUZCh2c7kYiPciRCBpoSWaYYxjJQ",
+    "page": 1,
+    "summary": "Use the tax integration configuration API to enable automatic tax on standalone invoices and understand when conflicting parameters disable it.",
+    "title": "Enable tax by default for invoices"
+   },
    "google.com/goto?url=CAESdgHrOzAV_KvTAmcfjW16tEqOar3yO_vVSonIEC_urLA5mvbv-LyFQMG--t1k_A3AFfkCnUc9EAknwB7JoL4XWjZE_FqaqXqX63BM6iLKf8SDwwNU59IHYNqarlSEXrqLgJjDrxfv4zMBlaFeWDFjVDRyHQ0NPJQ": {
     "baseline": false,
     "date_hint": "18 hours ago",
@@ -24947,6 +25685,15 @@
     "first_seen": "2026-10-30T15:42:55Z",
     "link": "https://www.google.com/goto?url=CAESdgHrOzAVhhd5I3yqy4jbEUvjmO81X4KSgO7OYTnoRob8gL2BOvg6dDhY8WtUPnoLEhTHrZ9Ntl_jLnekmnULT-iqIbyw4KaZI6DAnePrnjUlw4bRCTPmXF9UN4ID-f514zIRwAvWt7LEGQvx36MeG0NENHkT05Q&gsessionid=kIx6iyiWKfLhpBoqr7toubRZ-ZBDZTqgwF5ytEWkaqkyuho7LiUF2g",
     "page": 2,
+    "summary": "The ID of an existing configuration to use for this session, describing its functionality and features. If not specified, the session uses the default ...",
+    "title": "Create a portal session | Stripe API Reference"
+   },
+   "google.com/goto?url=CAESdgHrOzAVi8nqOHu1l03B0pmhaEdRCHuW56igPbuWRmhjKO-YgMLBjlH9e-RzlAzV2IkXpCYGjsMMbhC88zzF-TsseCCS71eZUNcp8YdfnwkdUjI38xMK7XYnBp96CHACxUgkZE2mtoBp17sfJ8b2gvqMy07aMKo": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESdgHrOzAVi8nqOHu1l03B0pmhaEdRCHuW56igPbuWRmhjKO-YgMLBjlH9e-RzlAzV2IkXpCYGjsMMbhC88zzF-TsseCCS71eZUNcp8YdfnwkdUjI38xMK7XYnBp96CHACxUgkZE2mtoBp17sfJ8b2gvqMy07aMKo",
+    "page": 3,
     "summary": "The ID of an existing configuration to use for this session, describing its functionality and features. If not specified, the session uses the default ...",
     "title": "Create a portal session | Stripe API Reference"
    },
@@ -25085,6 +25832,15 @@
     "summary": "PayoutIntent represents an intent to send funds from a Financial Account to a payout method. Learn more about calling API v2 endpoints. Was this section helpful ...",
     "title": "Payout Intents v2 - Stripe API Reference"
    },
+   "google.com/goto?url=CAESeQHrOzAVYz3a1im-U7GVPe5OimclUoAufxP2yMe7Rfp6f48jvAtZKBFqbkMR4PyF8O-a0LPmpoCG3bBNjyDfI1cuZtiFaetEsebQs2VzM2zVkMFTpA2poksxS6Xd0X5rEOuZZY7RdEtBPSTpTPCzrL-W1TML2bBx40M": {
+    "baseline": false,
+    "date_hint": "20 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESeQHrOzAVYz3a1im-U7GVPe5OimclUoAufxP2yMe7Rfp6f48jvAtZKBFqbkMR4PyF8O-a0LPmpoCG3bBNjyDfI1cuZtiFaetEsebQs2VzM2zVkMFTpA2poksxS6Xd0X5rEOuZZY7RdEtBPSTpTPCzrL-W1TML2bBx40M",
+    "page": 3,
+    "summary": "PayoutIntent represents an intent to send funds from a Financial Account to a payout method. Learn more about calling API v2 endpoints. Was this section helpful ...",
+    "title": "Payout Intents v2 - Stripe API Reference"
+   },
    "google.com/goto?url=CAESeQHrOzAV_8P_xJpxRawBWprJNrkO5nyarQaSiLSUzwyGMfT2igvLOLwmLd8RBo5H2CHct1jz9msiVfO8NgBF5EBKnWHKZnewc7QaomQntEZVtZbQxFu74YNzl10nJQsa3wKxBa_rCiUkScNKdo0aQGoXsJkIh9utwz4": {
     "baseline": false,
     "date_hint": "19 hours ago",
@@ -25147,6 +25903,15 @@
     "page": 1,
     "summary": "Use the Tax integration configuration API to enable automatic tax on subscriptions and understand how later updates affect tax collection.",
     "title": "Enable tax by default for subscriptions"
+   },
+   "google.com/goto?url=CAESegHrOzAV5Zp6xMan7_QevNq7jsRhSGNIZHvmmUswAUfBR1E1i_P5sJBOqIg0OvthIjX4mNZMaSSLU0azl-SPQ8eES0PjrzdcGo5eqp2QeaqYuHjHHt6-1_uz2TCqKQZ33arYyBPzJ_Tc6kJX_CJjuOmKrl93BdXtlOO7": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESegHrOzAV5Zp6xMan7_QevNq7jsRhSGNIZHvmmUswAUfBR1E1i_P5sJBOqIg0OvthIjX4mNZMaSSLU0azl-SPQ8eES0PjrzdcGo5eqp2QeaqYuHjHHt6-1_uz2TCqKQZ33arYyBPzJ_Tc6kJX_CJjuOmKrl93BdXtlOO7",
+    "page": 1,
+    "summary": "Use Financial account reports to analyze activity that impacts your financial account balance and view data related to your payments activity.",
+    "title": "Financial account report type"
    },
    "google.com/goto?url=CAESegHrOzAV9gGz-M6CO4ZUa5g_sCDl7LKQ-9KzmUTa1aO3HFIKuHnnIA-2NRmykgp8DmVkQmF5i3BEA7Zn0MTXQWRa1uI1yn4zYHB6JIzsEuqaoPNhtq4apRoxH98tToooC9zl1UExqLUrnG5gKDpWFl8CuBtBdCjC8-Su": {
     "baseline": false,
@@ -25264,6 +26029,15 @@
     "page": 1,
     "summary": "Use Financial account reports to analyze activity that impacts your financial account balance and view data related to your payments activity.",
     "title": "Financial account report type"
+   },
+   "google.com/goto?url=CAESegHrOzAVgDTAw5maEtqR-Nk_e1WpDGO5Ip2OsH3aGDmD72wtHCleZi5blAQWVFauVdEQXIgIe2AnMKiUgKS-KzDqAYAW49kAHpX65nfOK0gz6l9ME52BbV8wDntMaIRnH58AZ1rSuIup7qe1IkCgwJlnCnroGctYwq7h": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESegHrOzAVgDTAw5maEtqR-Nk_e1WpDGO5Ip2OsH3aGDmD72wtHCleZi5blAQWVFauVdEQXIgIe2AnMKiUgKS-KzDqAYAW49kAHpX65nfOK0gz6l9ME52BbV8wDntMaIRnH58AZ1rSuIup7qe1IkCgwJlnCnroGctYwq7h",
+    "page": 1,
+    "summary": "Use the Tax integration configuration API to enable automatic tax on subscriptions and understand how later updates affect tax collection.",
+    "title": "Enable tax by default for subscriptions"
    },
    "google.com/goto?url=CAESegHrOzAVhHefAvQuHtZzRoejs4Xyy_G5EM3SSnTxzWIf39mBTZSsFa1T9Mrz79JGD-oicxs1m27CSff58zMZzMt3qnaQsxp0aYU_pKPj8YvNNrY6Zqt3NLgkVNUaC6ZPzytk1VfNvD8MemlObP7LtRNeub4Hf-x36uoj": {
     "baseline": false,
@@ -25409,6 +26183,15 @@
     "summary": "By default, every Google service account can get Google-signed identity tokens, and the issuer URL is always https://accounts.google.com. Before you begin.",
     "title": "Workload Identity Federation with Google Cloud"
    },
+   "google.com/goto?url=CAESfAHrOzAVUC8pGVEDOZPVnIqGlLrrIOIEuafpkQKpd0m70urvMQdhjjv_KABhHUN1gX3jbMvfgavCPKPUS5fhB7jlBJPL2ibHfyndLZVg4mM2R8dSzOk5JSA67YiNkFGLHr4Q_E293_fAeYw1pYuRWqawjOaGKIzRpF6Bvpc": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESfAHrOzAVUC8pGVEDOZPVnIqGlLrrIOIEuafpkQKpd0m70urvMQdhjjv_KABhHUN1gX3jbMvfgavCPKPUS5fhB7jlBJPL2ibHfyndLZVg4mM2R8dSzOk5JSA67YiNkFGLHr4Q_E293_fAeYw1pYuRWqawjOaGKIzRpF6Bvpc",
+    "page": 1,
+    "summary": "By default, every Google service account can get Google-signed identity tokens, and the issuer URL is always https://accounts.google.com. Before you begin.",
+    "title": "Workload Identity Federation with Google Cloud"
+   },
    "google.com/goto?url=CAESfAHrOzAVY4u8FXJL4ZgXRE5OL5f0m7v0xwuYg-jVy_yAHyhpJcximXbK811NNh60jGy2PC5To7Lj2fp-nJe1C-1tWRmjWky9OMkIlY2iejfAVOwd8mSmEg2NOhq86pH2f36oBpl_XKy9cjtKvQmcCizQXL2hT5zphkhoWrA": {
     "baseline": false,
     "date_hint": "19 hours ago",
@@ -25513,6 +26296,15 @@
     "date_hint": "2 days ago",
     "first_seen": "2026-10-30T07:42:38Z",
     "link": "https://www.google.com/goto?url=CAESfQHrOzAVBdIzm6w-KEDTfGhxrCTx2N_JhmBNrhnbP0AN7UHOtA1YKjdv6K8Q8HSdUeFgSlHpRMvXfHrM9vuLDAmU0kMDIKkYdRUmBNDEtD7xGjzs9MgB57KAYh4GlY0siOb0Jq7yqbdS4pcxN2EWFBNriJMco5hVE5eg7xv2",
+    "page": 2,
+    "summary": "Validates and retrieves the current values from the embedded form. If there are any input validation errors, the errors display by their respective fields. Call ...",
+    "title": "Get values from the embedded form"
+   },
+   "google.com/goto?url=CAESfQHrOzAVC-lpqeFFssrI-ZYVeEsyHDOK1cXAWCbxL1glmiAzYLBmrk_rkEOYxLtVpQyVQWoO4kJTwSScDnUtlEn9Sw1d2klFGM84nM9MtM3_ucXgm86dD6zlwo6E7DfT0o5fW9WFsiW2OC6WBkFxq08p8Kc_MbnDpBXnVFax": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESfQHrOzAVC-lpqeFFssrI-ZYVeEsyHDOK1cXAWCbxL1glmiAzYLBmrk_rkEOYxLtVpQyVQWoO4kJTwSScDnUtlEn9Sw1d2klFGM84nM9MtM3_ucXgm86dD6zlwo6E7DfT0o5fW9WFsiW2OC6WBkFxq08p8Kc_MbnDpBXnVFax",
     "page": 2,
     "summary": "Validates and retrieves the current values from the embedded form. If there are any input validation errors, the errors display by their respective fields. Call ...",
     "title": "Get values from the embedded form"
@@ -25661,6 +26453,15 @@
     "summary": "Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).",
     "title": "Supported recipient countries - Global Payouts"
    },
+   "google.com/goto?url=CAESgAEB6zswFSjuXjdLrM3BTPdTCpL1VlHcU6fALd7H-NF8YXWS7U4xghP4a_V0rxSrBcEMxdj64S1kHZhtTUGacO9Lbq9q_WY2doct74vdxyelKNTaOesdUMh0O4bMwTPe8sgMzSLxKDRfjUOya1FLoA_ULtyhsCbP2RfWhZ7Ziv6pqg": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESgAEB6zswFSjuXjdLrM3BTPdTCpL1VlHcU6fALd7H-NF8YXWS7U4xghP4a_V0rxSrBcEMxdj64S1kHZhtTUGacO9Lbq9q_WY2doct74vdxyelKNTaOesdUMh0O4bMwTPe8sgMzSLxKDRfjUOya1FLoA_ULtyhsCbP2RfWhZ7Ziv6pqg",
+    "page": 1,
+    "summary": "Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).",
+    "title": "Supported recipient countries - Global Payouts"
+   },
    "google.com/goto?url=CAESgAEB6zswFT2y1CIqpbxP4XW5rNBbcnK9Bb5hamI5bEpbHMlO8Ksh3msnDgqAhHCl2i1Yk2Y_g8CxRVAzVC0GqEghIfaH4VupqUa8_CbRRdvOxslo9KYq7Ip_w1uoyKtOP7Zm2G1IzOXCRbz3D0QrWbnE5aNrxXeaGUY3jPBnrIB2SQ": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -25766,6 +26567,15 @@
     "first_seen": "2026-10-30T08:43:03Z",
     "link": "https://www.google.com/goto?url=CAESggEB6zswFUGc0FNEQAxtO-s7NGwKZm4ncHci08LwAabBiIlXbq_zOCht1HdK2voPAHTuctC39ocW8MX2RCQItVCKbX-3Ez7PKmVenPRhYt4EXVsImlJ9u_Q2qAXQUOakMRndkIE3ia7rFOdcNHIEn8QYiiXLQwlkgHB99lJvbRZDYlYK",
     "page": 2,
+    "summary": "RecipientVerification represents a verification of recipient you intend to send funds to. Learn more about calling API v2 endpoints. Was this section helpful?",
+    "title": "Recipient Verifications | Stripe API Reference"
+   },
+   "google.com/goto?url=CAESggEB6zswFY7IhVbMzEu4bfY_-cHF4rfEoj0Np3Y7k4G4gehgu0Q5LP9xs0CFgUm-Plw-rDb9vHh3EKJBBMwETdiGzn7vIlt-kQgXJDkTO6dTpxFhKmpb6WXgwmg4rii0Hv3F_K4O3IzPuRsFJCuPtN4WV_3OmsyRajje7OC-PuHc68E8": {
+    "baseline": false,
+    "date_hint": "20 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESggEB6zswFY7IhVbMzEu4bfY_-cHF4rfEoj0Np3Y7k4G4gehgu0Q5LP9xs0CFgUm-Plw-rDb9vHh3EKJBBMwETdiGzn7vIlt-kQgXJDkTO6dTpxFhKmpb6WXgwmg4rii0Hv3F_K4O3IzPuRsFJCuPtN4WV_3OmsyRajje7OC-PuHc68E8",
+    "page": 3,
     "summary": "RecipientVerification represents a verification of recipient you intend to send funds to. Learn more about calling API v2 endpoints. Was this section helpful?",
     "title": "Recipient Verifications | Stripe API Reference"
    },
@@ -25895,6 +26705,15 @@
     "summary": "Answers to prompts presented to the cardholder at the point of sale. Prompted fields vary depending on the configuration of your physical fleet cards.",
     "title": "Create a test-mode unlinked refund | Stripe API Reference"
    },
+   "google.com/goto?url=CAESjAEB6zswFVZHK_LZj5VzERIybPE7jlIRvb9FUF4iKCECnyWYA-Ext0EyYTx3Vszn-fhRsmgn9tzHBX5_WDBoscL-pNnSt0YwN6ytBC1E3jyusgsmeDg_wIRcY1GwmL5If_nTl6CQ1MFqp4UN8YRd0TgwLGqzf1xhicFsVkLREzSTNWAIGf78ryXMdf-j1A": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESjAEB6zswFVZHK_LZj5VzERIybPE7jlIRvb9FUF4iKCECnyWYA-Ext0EyYTx3Vszn-fhRsmgn9tzHBX5_WDBoscL-pNnSt0YwN6ytBC1E3jyusgsmeDg_wIRcY1GwmL5If_nTl6CQ1MFqp4UN8YRd0TgwLGqzf1xhicFsVkLREzSTNWAIGf78ryXMdf-j1A",
+    "page": 2,
+    "summary": "Answers to prompts presented to the cardholder at the point of sale. Prompted fields vary depending on the configuration of your physical fleet cards.",
+    "title": "Create a test-mode unlinked refund | Stripe API Reference"
+   },
    "google.com/goto?url=CAESjAEB6zswFW27WFhVnLU3WK5CjX_4hTjRMOtJHTWuZd6KWuLUlhxc6QpjwddQYCaxel5bZIvpuIB4-degcCJ53pGlkTPHxMifeWPOKb2sVhepmR-bROMIypSMCXIXxGDuGz-QmjdIAaJDsXneSWbw8vx1LZlZDcuP8mRtbK3IECus6oFFnDMEnuYrTsfdYw": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -25982,6 +26801,15 @@
     "first_seen": "2026-10-30T04:27:34Z",
     "link": "https://www.google.com/goto?url=CAESlAEB6zswFTSKUWyhgyoaqZ6av-ZmF1QropJz2TeNm9fgWXT-lO0jlR7vTnTNvyhXEf-WV5JSfe1v2lWKThAGmk71sLqZW4_4CYSrDmDL3kOk7TGVu0K8p19wMbOD7GRtZei7UemZEsuQivpmdv0JiBhnIBgCBpj5pNGqJt8dhkdSYHhwEaqufxjF8d7L2qUmKjF_2puL",
     "page": 2,
+    "summary": "Compare Global Payouts and Connect cross-border payouts to determine which Stripe payouts integration fits your business model.",
+    "title": "Understand differences between Global Payouts and ..."
+   },
+   "google.com/goto?url=CAESlAEB6zswFTp2M382Uz9FqOAbhD56XlMzRKRBY8VXje9llB7Gqi7OAVxjWIqc3GgMCci0mm2JfMM5DgNcILt7xwHzwzN0f_nxR74XDa3C-O0C8tGoCeLJUPKU1sM3PcBGvpC23zKkArg71Rissz6n1CIzeBEp8kKbNYdmezC8Ec-PejWKWh4Ha0LpA1CXmgjoshmVAtxf": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESlAEB6zswFTp2M382Uz9FqOAbhD56XlMzRKRBY8VXje9llB7Gqi7OAVxjWIqc3GgMCci0mm2JfMM5DgNcILt7xwHzwzN0f_nxR74XDa3C-O0C8tGoCeLJUPKU1sM3PcBGvpC23zKkArg71Rissz6n1CIzeBEp8kKbNYdmezC8Ec-PejWKWh4Ha0LpA1CXmgjoshmVAtxf",
+    "page": 3,
     "summary": "Compare Global Payouts and Connect cross-border payouts to determine which Stripe payouts integration fits your business model.",
     "title": "Understand differences between Global Payouts and ..."
    },
@@ -26621,6 +27449,15 @@
     "summary": "The expanded integration between LEX and Libra by Wolters Kluwer responds to legal professionals' growing need to combine trusted legal content with AI-powered ...",
     "title": "Wolters Kluwer expands LEX and Libra AI integration in ..."
    },
+   "google.com/goto?url=CAESngEB6zswFQJAHh10PxM28tiK1dMMvt5KShSquWbdkeurnBFv6o3t1d2h-viU2648TiDd7bxR9zngm_Yhp_AsNn71_rCN8IUntUXC3e7QhLzcEUMvljHlEhlEBV3LyEG7ROPfY86ftt2nyOJ_w7r4t_FENFlvYjCVlZsePgiHks6ND6e5ycecaMlGu1x1ADJxOXNKlXpyhOfFEofj8MUfTA": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESngEB6zswFQJAHh10PxM28tiK1dMMvt5KShSquWbdkeurnBFv6o3t1d2h-viU2648TiDd7bxR9zngm_Yhp_AsNn71_rCN8IUntUXC3e7QhLzcEUMvljHlEhlEBV3LyEG7ROPfY86ftt2nyOJ_w7r4t_FENFlvYjCVlZsePgiHks6ND6e5ycecaMlGu1x1ADJxOXNKlXpyhOfFEofj8MUfTA",
+    "page": 1,
+    "summary": "Expert AI agents prepare and calculate Form 1040 returns inside the platform where firms already work, helping firms increase capacity while keeping ...",
+    "title": "Wolters Kluwer launches agentic tax preparation in CCH ..."
+   },
    "google.com/goto?url=CAESngEB6zswFWRcGwmt9JsLVP41OSYUC0WOBKFPe8wZTFBm30GdCBsqIKT3QOLQWy3bu-HItZ_Am_AqrTZeQk8jFR0nX5fLSVMbj9jho3ldUbrYDhzA-ke3IlA1WoxYDuOD3mRQXmyc3wwlGQ13hVZBLpy4g01WosYJGW0uIGxF9AMOpO4sTWh59lh1duAvDgvR1tkeA53q04xbqaJsbq9l8A": {
     "baseline": false,
     "date_hint": "7 days ago",
@@ -26680,6 +27517,15 @@
     "date_hint": "4 days ago",
     "first_seen": "2026-10-30T10:42:48Z",
     "link": "https://www.google.com/goto?url=CAESqAEB6zswFQ-Q2D2eZRT6gB0fVYfEgc97SDW8nY1_kSC8GwWdgZsmcO-xtAszsCZ4yPcs8c1O_l4gl7SVEF2x65ykbj9a33Iul9lOYBRQTW2vZ76vKPkuYgih-XUQnNgwp1bdyLtpN0eGQPqwunUvYnVjEU2LZsxHbVINzaZsM6_3bJok1RfsPjFWnn-XQoz6Tn7D1QGELagM20Rta5cbHsf8alNuCoFmCU8",
+    "page": 1,
+    "summary": "Expert AI moving tax, planning, and audit. Wolters Kluwer Tax & Accounting today unveiled new agentic capabilities for tax planning, fixed asset, and audit ...",
+    "title": "Wolters Kluwer expands agentic tax and audit capabilities ..."
+   },
+   "google.com/goto?url=CAESqAEB6zswFQAt9qgbhRqmdn1Wyh2Gv-qF5DUCvGtFRSQn5DCqENRerer2u2GznQ1ke7Bcynme9iMVsxWzxy-M56ZQ__QoJ9A_OffFD9Td6URCnXyA7Qm4c3DnSWvRI3-hxFyPeaay4TZ52KoCA8D1ID5ZoDsCrFfR_zNYDlAZa3vhEcqXUfg4h8szYXsPvRXelkIfhmBQmcFwb3XP36TfkXsQ174sh-9_0II": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESqAEB6zswFQAt9qgbhRqmdn1Wyh2Gv-qF5DUCvGtFRSQn5DCqENRerer2u2GznQ1ke7Bcynme9iMVsxWzxy-M56ZQ__QoJ9A_OffFD9Td6URCnXyA7Qm4c3DnSWvRI3-hxFyPeaay4TZ52KoCA8D1ID5ZoDsCrFfR_zNYDlAZa3vhEcqXUfg4h8szYXsPvRXelkIfhmBQmcFwb3XP36TfkXsQ174sh-9_0II",
     "page": 1,
     "summary": "Expert AI moving tax, planning, and audit. Wolters Kluwer Tax & Accounting today unveiled new agentic capabilities for tax planning, fixed asset, and audit ...",
     "title": "Wolters Kluwer expands agentic tax and audit capabilities ..."
@@ -26936,6 +27782,15 @@
     "summary": "Wolters Kluwer reaffirms its position as a trusted leader in innovation and digital transformation for the notarial profession in Italy.",
     "title": "Wolters Kluwer shows its ecosystem in Italy at this year's ..."
    },
+   "google.com/goto?url=CAESqgEB6zswFTxxdnLqE7blWc_3cNy8l0XxXeEX6hRc23UgMSkYz0RveHsrrOoXQK37lIcHDPBIxsa1Ixo7A6kKlGe12Pizdna3FL2MBCBRA2DZgqqXNyTmEthts1iN6CrRYW4dpFV4pWN_-u7k4QKv1maP64MNoZcsRXKJ5TdSIWBWruOnMqf5ExtpGhvof_R8tIcyEDZ_cOwed5eITXt97xvkSgpVZRWgAewkBA": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESqgEB6zswFTxxdnLqE7blWc_3cNy8l0XxXeEX6hRc23UgMSkYz0RveHsrrOoXQK37lIcHDPBIxsa1Ixo7A6kKlGe12Pizdna3FL2MBCBRA2DZgqqXNyTmEthts1iN6CrRYW4dpFV4pWN_-u7k4QKv1maP64MNoZcsRXKJ5TdSIWBWruOnMqf5ExtpGhvof_R8tIcyEDZ_cOwed5eITXt97xvkSgpVZRWgAewkBA",
+    "page": 1,
+    "summary": "Wolters Kluwer reaffirms its position as a trusted leader in innovation and digital transformation for the notarial profession in Italy.",
+    "title": "Wolters Kluwer shows its ecosystem in Italy at this year's ..."
+   },
    "google.com/goto?url=CAESqgEB6zswFVBp84qPFFC_zPN5vHif5BnsdmysrsJDoto3KDDvFoOMQ_NSTgWs6P8JivHA0dyLyG9L4e1uuyE6FzxZigxotrz97ftw9g1ks4yqZh2i7g5l3Zc-u7b-OW5d9zol9spWQhH910pwInN8w9SQtEzDtZMpMwiBHhA8CgSbUjykZkuTIaXA-cRwfIzK4qaQe3oDyC01AVZIsvX-FGNLcz1GYpZ5jTWOiA": {
     "baseline": false,
     "date_hint": "13 hours ago",
@@ -27125,6 +27980,15 @@
     "summary": "Drafting enables legal professionals to create, edit, review, and collaborate on Word documents directly within the workspace,",
     "title": "Wolters Kluwer brings AI-powered drafting directly into the ..."
    },
+   "google.com/goto?url=CAESsgEB6zswFZm4Qbbfbsi9mhsDQNA2DTgjfnkWl_X0itQvXS3W6a1bn-B2FaxfQVhSBAh9IMTxRXdlaG30V_FilxXdSln5EcmZOOwb05mRa3J81-zrcosKlacJZdN_zLmpTHO4Ij1arn-iPMBMr0cl7-4zQQkAkW0GQmC-5A4XPfZAAJzBBlB173Ndp1OHA3dZ_jX6KwUazH9fCBUd8gnGi1A2kTU_dcDRI3qT1aoDWP1-HUSF": {
+    "baseline": false,
+    "date_hint": "21 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESsgEB6zswFZm4Qbbfbsi9mhsDQNA2DTgjfnkWl_X0itQvXS3W6a1bn-B2FaxfQVhSBAh9IMTxRXdlaG30V_FilxXdSln5EcmZOOwb05mRa3J81-zrcosKlacJZdN_zLmpTHO4Ij1arn-iPMBMr0cl7-4zQQkAkW0GQmC-5A4XPfZAAJzBBlB173Ndp1OHA3dZ_jX6KwUazH9fCBUd8gnGi1A2kTU_dcDRI3qT1aoDWP1-HUSF",
+    "page": 1,
+    "summary": "Drafting enables legal professionals to create, edit, review, and collaborate on Word documents directly within the workspace,",
+    "title": "Wolters Kluwer brings AI-powered drafting directly into the ..."
+   },
    "google.com/goto?url=CAESsgEB6zswFa6ekWMPpPhcVZz8ScgqA4AnZQ3_Pl0Qa0uNvLykls6T2PFnUSz06MLcEAwGzCTyDq8PPk61VOMCJEKI6OeIyuKIVeFBofo0F20Js5BDK86vv91k2xEV6xytkOp9R1dNjcCErRfr0QAF_3XfiVoz6rkMipbfZcj-xPXWdlGTDUwi8H6y3HDf9tpSzOAIUxqcBTh6gh08IGOaqtKtRhowIN1c1Yi0CAeiQzgkb1BW": {
     "baseline": false,
     "date_hint": "18 hours ago",
@@ -27211,6 +28075,15 @@
     "date_hint": "9 hours ago",
     "first_seen": "2026-10-30T04:27:34Z",
     "link": "https://www.google.com/goto?url=CAEStAEB6zswFSN7OVGETIrfpuDeVWL0_LQY63oaSV2om9DbMDHCc72A8e4yu5QZcZU0juzAEufq7dKnwewnMOIkk-P7Y9QgdoLojytI7LGddAUcuUWWcCrnf5C_c5ZINapwpeJN_RzVxP_uF4QTJkMEOk1GLMWByIWiNj9csv4I7wwVGVxJ1teFuNyzjD-MAL-vDzygsbg4TPvmSMfy3sHv0_zoAaomVey1hwzzXFWv2bB1h-Ywn1g&gsessionid=LFxztfHD_3OcOFnaY7NHgP4hO5nYoY1ko7H4_BnFJHTQd-y0lWwAgw",
+    "page": 1,
+    "summary": "Libra by Wolters Kluwer is an all-in-one legal AI workspace that brings research, analysis, review and drafting together in a single environment. It has been ...",
+    "title": "Wolters Kluwer makes Libra AI capabilities available in ..."
+   },
+   "google.com/goto?url=CAEStAEB6zswFSWZa-HnO_Q3LGIOXTAO7fkUAIQYiZGaaq4FEbgRPsS9WIPR-SDkt1o8RkxNoMj9b1lin4-6-MPDEYnj-f2PsKpgAfJQRk9difmJh5D3bSttJePftFEvz_EgAXnCfhaoQnZHg3P4zkkiIDb1QXdcgc2V8hlzzyGjUTjfk2azUerrxsjLqz7s3HgWimby7ImKhOXfMlDgLFiwvXeuEZJT1HpnPjeZnUJAPjR91V-FAPc": {
+    "baseline": false,
+    "date_hint": "23 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAEStAEB6zswFSWZa-HnO_Q3LGIOXTAO7fkUAIQYiZGaaq4FEbgRPsS9WIPR-SDkt1o8RkxNoMj9b1lin4-6-MPDEYnj-f2PsKpgAfJQRk9difmJh5D3bSttJePftFEvz_EgAXnCfhaoQnZHg3P4zkkiIDb1QXdcgc2V8hlzzyGjUTjfk2azUerrxsjLqz7s3HgWimby7ImKhOXfMlDgLFiwvXeuEZJT1HpnPjeZnUJAPjR91V-FAPc",
     "page": 1,
     "summary": "Libra by Wolters Kluwer is an all-in-one legal AI workspace that brings research, analysis, review and drafting together in a single environment. It has been ...",
     "title": "Wolters Kluwer makes Libra AI capabilities available in ..."
@@ -27431,6 +28304,15 @@
     "summary": "Analysis of more than $230 billion in legal invoice data expands beyond rates to examine staffing and billing compliance.",
     "title": "Wolters Kluwer LegalVIEW Insights finds billing rates tell ..."
    },
+   "google.com/goto?url=CAESvgEB6zswFUR3yty_aNhlIAkwWve0irBQeyBrLXK7U6k4MrsWToPA2w5Yt4cEuyRrUlacT1IL6ss14m_HsdvJ32w5P8Lv8PSsrpugd_fe0gNVyrENXwNnm0O0AQdSP7bUyDgX31rPEnUtoK3zzlbeLQIThAr68jg5Vo_mPmSYLEVUccUkfbqTW3NyGZV92aXOQ3TyP-FeZpNj8W2e3QxrAzFLNr9p8zBilHp4J6Rccnzj1cxceddqP1prr1A2pZvv": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESvgEB6zswFUR3yty_aNhlIAkwWve0irBQeyBrLXK7U6k4MrsWToPA2w5Yt4cEuyRrUlacT1IL6ss14m_HsdvJ32w5P8Lv8PSsrpugd_fe0gNVyrENXwNnm0O0AQdSP7bUyDgX31rPEnUtoK3zzlbeLQIThAr68jg5Vo_mPmSYLEVUccUkfbqTW3NyGZV92aXOQ3TyP-FeZpNj8W2e3QxrAzFLNr9p8zBilHp4J6Rccnzj1cxceddqP1prr1A2pZvv",
+    "page": 1,
+    "summary": "Analysis of more than $230 billion in legal invoice data expands beyond rates to examine staffing and billing compliance.",
+    "title": "Wolters Kluwer LegalVIEW Insights finds billing rates tell ..."
+   },
    "google.com/goto?url=CAESvgEB6zswFVOWYLSBCmgq-wablFjLg_bdt-z7MMtnWHOgGy-f3VyWd0l-o0PZHW_JfM2vZa4SWmjfxYSqWoAEIbQa0iDXTZvHiad8f75nbpRTYRZbKG7OOVIr60T8pqji2twWb-TOGm9uNn0Y_YUCLtFDsJ2XOuejYZ28F1xISAqjXcWg4ZdUZGe8a8jNTOsYOKOuuChhYsq9M0b_CDIdOHJIZhPJpD--o-LvpBwV3oU2V58dHmxk9TKawCRpayiw&gsessionid=LFxztfHD_3OcOFnaY7NHgP4hO5nYoY1ko7H4_BnFJHTQd-y0lWwAgw": {
     "baseline": false,
     "date_hint": "14 hours ago",
@@ -27526,6 +28408,15 @@
     "date_hint": "8 hours ago",
     "first_seen": "2026-10-30T14:42:43Z",
     "link": "https://www.google.com/goto?url=CAESvwEB6zswFTq8ES-4KX6OlB4FFD8SfuzupBU7_DypYR8ihYB-Wny7RdnLM1QvWBurcB4TxVHOyLd5j3BRhV7yOdimygw_zs_m6bckPv1DPdlbRxP2y2DlhpwUNZ2b_vmYoU_rHR_wZGhsGy_dCl4fUZBUJLm54bMKMGoOi-8-B8ot016qPcTUZQc4xs4ee0k0YvYMy0TBUr_WJAoX6CEmLB3rBePTY4HU4QyNIEwqEzJCHuOpni2NWrv6BXIook8dSQ",
+    "page": 1,
+    "summary": "The objective is to equip teachers with the tools needed to critically interpret the phenomena transforming contemporary society and translate this knowledge ...",
+    "title": "Educating for the future: economics and law as key to ..."
+   },
+   "google.com/goto?url=CAESvwEB6zswFUKnGWNFLYsViBh_GER8NUfL7qpyvhdLUzxYItwLp6_OaBG2nuLjJRQu8AGxK6gg2PSEtXiryyAFi6AS3hWeitZgdAnTlW4VmdV-2U0gVGrvOrk1Il6nbdNSwbeg7fo2KAUmfOAS3_76MFYhgrXRwVGY6EvTw_ds9uS2N9BSR0Reg8dm6uxhmZcfmLz7WM3kPu1guD-Uu7Y-mjP7vlaRVA4gpxpoGy6DI_Bh4b1m7r-nDwb95MFwhgUS0w": {
+    "baseline": false,
+    "date_hint": "11 hours ago",
+    "first_seen": "2026-10-30T17:43:14Z",
+    "link": "https://www.google.com/goto?url=CAESvwEB6zswFUKnGWNFLYsViBh_GER8NUfL7qpyvhdLUzxYItwLp6_OaBG2nuLjJRQu8AGxK6gg2PSEtXiryyAFi6AS3hWeitZgdAnTlW4VmdV-2U0gVGrvOrk1Il6nbdNSwbeg7fo2KAUmfOAS3_76MFYhgrXRwVGY6EvTw_ds9uS2N9BSR0Reg8dm6uxhmZcfmLz7WM3kPu1guD-Uu7Y-mjP7vlaRVA4gpxpoGy6DI_Bh4b1m7r-nDwb95MFwhgUS0w",
     "page": 1,
     "summary": "The objective is to equip teachers with the tools needed to critically interpret the phenomena transforming contemporary society and translate this knowledge ...",
     "title": "Educating for the future: economics and law as key to ..."
