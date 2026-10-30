@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-30T20:23:29Z</updated>
+  <updated>2026-10-30T21:22:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:3833669855209676354</id>
+    <title>Meta Prevails in Publisher's Appeal Over Account Termination - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/meta-prevails-in-publishers-appeal-over-account-termination" />
+    <published>2026-10-30T21:22:53Z</published>
+    <updated>2026-10-30T21:22:53Z</updated>
+    <summary>An online content publisher failed to revive claims that Meta Platforms Inc. breached its agreement in its Terms of Service when it canceled the ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8478250468953568328</id>
     <title>Data Broker Settles Web Phone-Directory Lawsuit for $6.3 Million - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-10-27T16:11:12Z</published>
     <updated>2026-10-27T16:11:12Z</updated>
     <summary>The US derivatives regulator said it's not going to crack down on software companies offering access to trading forums without certain ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:9715845678914295156</id>
-    <title>Industries Driven by Risk, Regulation in Search to Destroy PFAS - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/industries-driven-by-risk-regulation-in-search-to-destroy-pfas" />
-    <published>2026-10-27T16:11:12Z</published>
-    <updated>2026-10-27T16:11:12Z</updated>
-    <summary>Public and private industries are responding to regulation, litigation, and social pressures over PFAS by exploring whether emerging technologies ...</summary>
   </entry>
 </feed>
