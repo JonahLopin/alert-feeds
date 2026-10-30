@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-30T13:07:57Z</updated>
+  <updated>2026-10-30T15:23:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:29144850361211783</id>
+    <title>DHS Investigative Unit Takes Outsized Role in Midterm Elections - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/dhs-investigative-unit-takes-outsized-role-in-midterm-elections" />
+    <published>2026-10-30T15:23:53Z</published>
+    <updated>2026-10-30T15:23:53Z</updated>
+    <summary>Homeland Security Investigations agents have taken a leading role in probing illegal voting ahead of the 2026 midterms, an uncommon task for an ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:601085476855574921</id>
     <title>Weil Gotshal Private Equity Partner Blakey to Jump to Simpson - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-10-26T19:31:41Z</published>
     <updated>2026-10-26T19:31:41Z</updated>
     <summary>Skydance Corp. co-Chief Executive Officer David Ellison told employees of the newly merged company that they will be expected to come into the ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:5523130348092877636</id>
-    <title>Anthropic IPO Filing Cites Reliance on Google, Amazon, Microsoft - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/anthropic-ipo-filing-cites-reliance-on-google-amazon-microsoft" />
-    <published>2026-10-26T19:31:41Z</published>
-    <updated>2026-10-26T19:31:41Z</updated>
-    <summary>Anthropic PBC is relying more and more on Alphabet Inc.'s Google, Amazon.com Inc. and Microsoft Corp. to sell its artificial intelligence ...</summary>
   </entry>
 </feed>
