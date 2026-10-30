@@ -2,8 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-30T02:29:32Z</updated>
+  <updated>2026-10-30T03:28:16Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://www.google.com/goto?url=CAESlAEB6zswFYXdQtWeA47bEZvWp49lDDgeR1b2HuiJwL1ERTHMg40dMdqxtjnn1chccAoyKWZiB7d6RQfRMQ68M2INcRs_QVUweYDOhGbxM2ZrQvrS862RNxEKX0as99X0duh3UGQtShcYE0MsURhh0rdZQv7pm7CaaTOxeq4CflWGHJ0Lrl50VE6TyvDuz2QAKESEuGlJ</id>
+    <title>Understand differences between Global Payouts and ...</title>
+    <link href="https://www.google.com/goto?url=CAESlAEB6zswFYXdQtWeA47bEZvWp49lDDgeR1b2HuiJwL1ERTHMg40dMdqxtjnn1chccAoyKWZiB7d6RQfRMQ68M2INcRs_QVUweYDOhGbxM2ZrQvrS862RNxEKX0as99X0duh3UGQtShcYE0MsURhh0rdZQv7pm7CaaTOxeq4CflWGHJ0Lrl50VE6TyvDuz2QAKESEuGlJ" />
+    <published>2026-10-30T03:28:16Z</published>
+    <updated>2026-10-30T03:28:16Z</updated>
+    <summary>Compare Global Payouts and Connect cross-border payouts to determine which Stripe payouts integration fits your business model.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESgwEB6zswFR9Evz4HrrE-YcBPz7yMNgnoPqLXeUCCh0-J15STFQ_jQjaz3qRzBi8qjhI8LHqLK9p7TvMvrN1KIgDM9qVOUR4JDbpVR6cLdVAbOnJnpup3BbTNUNlKhQmDsXPwp-Pq7GiywDVUFJJy2_aRwSpEmhqK940Xy8X5NzZrvOZ3RQ</id>
+    <title>Enable tax by default for subscription schedules</title>
+    <link href="https://www.google.com/goto?url=CAESgwEB6zswFR9Evz4HrrE-YcBPz7yMNgnoPqLXeUCCh0-J15STFQ_jQjaz3qRzBi8qjhI8LHqLK9p7TvMvrN1KIgDM9qVOUR4JDbpVR6cLdVAbOnJnpup3BbTNUNlKhQmDsXPwp-Pq7GiywDVUFJJy2_aRwSpEmhqK940Xy8X5NzZrvOZ3RQ" />
+    <published>2026-10-30T03:28:16Z</published>
+    <updated>2026-10-30T03:28:16Z</updated>
+    <summary>The Tax integration configuration lets Stripe calculate tax automatically on subscription schedule phases that don't explicitly set automatic_tax or inherit ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESggEB6zswFe2pHNWoYPXy--EFGyH_SoViXio_Nkrq0RFQ-fDInhA-2hkJ6mb1xXRMdqUHG2FSHR5RfpqKRCcMnONErMNF9gPEQXoB8yx5SiuuqopQG1U8o96aQIupggf2hkay4Z2bIcPKaAxU3ZW6ETNMrriU1CI81nsEOC8rOwbkd1Xu</id>
+    <title>Recipient Verifications | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESggEB6zswFe2pHNWoYPXy--EFGyH_SoViXio_Nkrq0RFQ-fDInhA-2hkJ6mb1xXRMdqUHG2FSHR5RfpqKRCcMnONErMNF9gPEQXoB8yx5SiuuqopQG1U8o96aQIupggf2hkay4Z2bIcPKaAxU3ZW6ETNMrriU1CI81nsEOC8rOwbkd1Xu" />
+    <published>2026-10-30T03:28:16Z</published>
+    <updated>2026-10-30T03:28:16Z</updated>
+    <summary>RecipientVerification represents a verification of recipient you intend to send funds to. Learn more about calling API v2 endpoints. Was this section helpful?</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESgAEB6zswFRFTGEzlDyVBDvhrmIdO0KisRHFdQj3h14O_m_VulL7r4Rn56Oht33w-ehZs3lNbGFQA5uL-Dx0J2HzcehDaBoEtozfiH9ZUUpx81upNWZ4FiX-k4T4NUgSrrStj_vGkGSErmMSPpHBuVSFiiE8jMAgWHy_zTodc_dCZfQ</id>
+    <title>Supported recipient countries - Global Payouts</title>
+    <link href="https://www.google.com/goto?url=CAESgAEB6zswFRFTGEzlDyVBDvhrmIdO0KisRHFdQj3h14O_m_VulL7r4Rn56Oht33w-ehZs3lNbGFQA5uL-Dx0J2HzcehDaBoEtozfiH9ZUUpx81upNWZ4FiX-k4T4NUgSrrStj_vGkGSErmMSPpHBuVSFiiE8jMAgWHy_zTodc_dCZfQ" />
+    <published>2026-10-30T03:28:16Z</published>
+    <updated>2026-10-30T03:28:16Z</updated>
+    <summary>Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESfAHrOzAVfxn9QPu3WVq4qMfwvwBttgYqZQiAjueptmT1XL_mtNY--QjijdtVTt3wi3U7tOe2vXC8_7fYTCZ6Hm-vn4qwh4Ndp8zn1rgRpklLuqbqNsIAqXt13d9BTIpuObKFN6qCtVb1vKH6nkw9jA9qSuXzvOfZCzBKzwY</id>
+    <title>Workload Identity Federation with Google Cloud</title>
+    <link href="https://www.google.com/goto?url=CAESfAHrOzAVfxn9QPu3WVq4qMfwvwBttgYqZQiAjueptmT1XL_mtNY--QjijdtVTt3wi3U7tOe2vXC8_7fYTCZ6Hm-vn4qwh4Ndp8zn1rgRpklLuqbqNsIAqXt13d9BTIpuObKFN6qCtVb1vKH6nkw9jA9qSuXzvOfZCzBKzwY" />
+    <published>2026-10-30T03:28:16Z</published>
+    <updated>2026-10-30T03:28:16Z</updated>
+    <summary>Create a Google Cloud service account. By default, every Google service account can get Google-signed identity tokens, Create a Google Cloud project with ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESegHrOzAVRrnfID3oBe5i55wxC-1JKM7po40bxb5kOWLXlnkcoQeuDr90oBvIop_73ZL5t2Y1PFlxxENxHkrs3Dqd4Ddsv35ZH2-Ev9WIQO9uKx43DRZRHFEIWKLlCbGMnqcb9k0Ocyx8PWy5nYgDYwey9fbo40N43bpL</id>
+    <title>Financial account report type</title>
+    <link href="https://www.google.com/goto?url=CAESegHrOzAVRrnfID3oBe5i55wxC-1JKM7po40bxb5kOWLXlnkcoQeuDr90oBvIop_73ZL5t2Y1PFlxxENxHkrs3Dqd4Ddsv35ZH2-Ev9WIQO9uKx43DRZRHFEIWKLlCbGMnqcb9k0Ocyx8PWy5nYgDYwey9fbo40N43bpL" />
+    <published>2026-10-30T03:28:16Z</published>
+    <updated>2026-10-30T03:28:16Z</updated>
+    <summary>Use Financial account reports to analyze activity that impacts your financial account balance and view data related to your payments activity.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESegHrOzAV4UL5FPSUNToe5LBMmFQptN4_cETiZHvOeejS7jk66FA3g7amKOckGRmF6KNxedA9C0B5EH_y-YzVeJ02PS_c9JPcuz0qoYCtWv9AKmlgTZdmDCynCDwPexd1QEGCJc8UP3T9OGZBDUHbKpV7xa3tR3ez0xAk</id>
+    <title>Enable tax by default for subscriptions</title>
+    <link href="https://www.google.com/goto?url=CAESegHrOzAV4UL5FPSUNToe5LBMmFQptN4_cETiZHvOeejS7jk66FA3g7amKOckGRmF6KNxedA9C0B5EH_y-YzVeJ02PS_c9JPcuz0qoYCtWv9AKmlgTZdmDCynCDwPexd1QEGCJc8UP3T9OGZBDUHbKpV7xa3tR3ez0xAk" />
+    <published>2026-10-30T03:28:16Z</published>
+    <updated>2026-10-30T03:28:16Z</updated>
+    <summary>Use the Tax integration configuration API to enable automatic tax on subscriptions and understand how later updates affect tax collection.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESeQHrOzAVmUXh7Yl4k03mDvJdsqzje2VE-CnXUysFyclnGlXFoTF_0dsDKf0KCcJxpN2F7HrhOAejaHAjHq-BjUrOo-v8aHaGGeDCOb6H6nhEGWDa9VG_sz31BQU3K-uiMhMGVXaPDvAcW99R0IKpYR3zFPvN2LVFtdM</id>
+    <title>Payout Intents v2 - Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESeQHrOzAVmUXh7Yl4k03mDvJdsqzje2VE-CnXUysFyclnGlXFoTF_0dsDKf0KCcJxpN2F7HrhOAejaHAjHq-BjUrOo-v8aHaGGeDCOb6H6nhEGWDa9VG_sz31BQU3K-uiMhMGVXaPDvAcW99R0IKpYR3zFPvN2LVFtdM" />
+    <published>2026-10-30T03:28:16Z</published>
+    <updated>2026-10-30T03:28:16Z</updated>
+    <summary>PayoutIntent represents an intent to send funds from a Financial Account to a payout method. Learn more about calling API v2 endpoints. Was this section helpful ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESdgHrOzAVwQrkI-hxvQoCVp27jklGCBxqyUR5eIVzzDkBLMTUoxnlYn1oLKeGc75zSLpt-ESzzec6bvRZreq6A3NaDZQGlTcy8wiZPW9j8ZM3H3-qNEMuEP9mXDb_oZL-WEMiebPaXtRhSkYY9CLme-F0si9lkSQ</id>
+    <title>Enable tax by default for invoices</title>
+    <link href="https://www.google.com/goto?url=CAESdgHrOzAVwQrkI-hxvQoCVp27jklGCBxqyUR5eIVzzDkBLMTUoxnlYn1oLKeGc75zSLpt-ESzzec6bvRZreq6A3NaDZQGlTcy8wiZPW9j8ZM3H3-qNEMuEP9mXDb_oZL-WEMiebPaXtRhSkYY9CLme-F0si9lkSQ" />
+    <published>2026-10-30T03:28:16Z</published>
+    <updated>2026-10-30T03:28:16Z</updated>
+    <summary>Use the tax integration configuration API to enable automatic tax on standalone invoices and understand when conflicting parameters disable it.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESbwHrOzAVbgeHwQh8YJPAPiHS0ZbWUpdK5dRyTmgdr3EC018I9YAa90YcOd68sesa7Ft2YfAcvxNY1A7wE41HYgyIZkeNsej6uTp59XCYOAyHHtooVy8Y_EHXkOL85eT8m6nCyI36d_t34UElA4t-8A</id>
+    <title>In-app analytics and error monitoring</title>
+    <link href="https://www.google.com/goto?url=CAESbwHrOzAVbgeHwQh8YJPAPiHS0ZbWUpdK5dRyTmgdr3EC018I9YAa90YcOd68sesa7Ft2YfAcvxNY1A7wE41HYgyIZkeNsej6uTp59XCYOAyHHtooVy8Y_EHXkOL85eT8m6nCyI36d_t34UElA4t-8A" />
+    <published>2026-10-30T03:28:16Z</published>
+    <updated>2026-10-30T03:28:16Z</updated>
+    <summary>App analytics shows how many users install your app and view its listing. To understand how users interact with your app after installing it, ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/customer_portal/sessions/create</id>
+    <title>Create a portal session | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/customer_portal/sessions/create" />
+    <published>2026-10-30T03:28:16Z</published>
+    <updated>2026-10-30T03:28:16Z</updated>
+    <summary>The ID of an existing configuration to use for this session, describing its functionality and features. If not specified, the session uses the default ...</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESgwEB6zswFf-GWGfV2RLfefZ0icfn3lKdQbBcBEkwKfirwzfWKlfVbt8LJSuirsbEbW0TC49m28qcYXm_3As3fTJ1aG9ueOgitdMLNr4447EYNnI2e-OhKTbKo3fp_DOYe0tEa94FrYYkLENjqD1gR_zxhwqqQ3in1K-5vSxu_os6ak6O-Q</id>
     <title>Enable tax by default for subscription schedules</title>
