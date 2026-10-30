@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-10-30T11:23:14Z</updated>
+  <updated>2026-10-30T13:07:57Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:601085476855574921</id>
+    <title>Weil Gotshal Private Equity Partner Blakey to Jump to Simpson - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/weil-gotshal-private-equity-partner-blakey-to-jump-to-simpson" />
+    <published>2026-10-30T13:07:57Z</published>
+    <updated>2026-10-30T13:07:57Z</updated>
+    <summary>A Weil Gotshal &amp; Manges private equity partner, Lewis Blakey, in London is set to move to Simpson Thacher &amp; Bartlett, marking the latest exit from ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:3936097701097197184</id>
     <title>Kalshi, Polymarket Piled On Media Deals Ahead of the Midterms - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-10-26T19:31:41Z</published>
     <updated>2026-10-26T19:31:41Z</updated>
     <summary>Anthropic PBC is relying more and more on Alphabet Inc.'s Google, Amazon.com Inc. and Microsoft Corp. to sell its artificial intelligence ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:15721701316792909280</id>
-    <title>HealthEquity Members Dismiss Suit Over Massive 2024 Data Breach</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/healthequity-members-dismiss-suit-over-massive-2024-data-breach" />
-    <published>2026-10-26T19:31:41Z</published>
-    <updated>2026-10-26T19:31:41Z</updated>
-    <summary>HealthEquity Inc. members dropped their proposed class action alleging the health-benefits manager failed to protect the personal information of ...</summary>
   </entry>
 </feed>
