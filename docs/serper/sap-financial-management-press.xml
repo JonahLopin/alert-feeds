@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-10-29T22:07:33Z</updated>
+  <updated>2026-10-30T01:15:51Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/topics/events/</id>
+    <title>Tech Events Coverage, News &amp; Stories</title>
+    <link href="https://news.sap.com/topics/events/" />
+    <published>2026-10-30T01:15:51Z</published>
+    <updated>2026-10-30T01:15:51Z</updated>
+    <summary>News, information, feature articles, press releases &amp; stories from SAP about global technology and business events, conferences, etc.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/italy/2026/10/sap-commerce-cloud-e-vercel-un-percorso-piu-rapido-per-risultati-migliori/</id>
     <title>SAP Commerce Cloud e Vercel: un percorso più rapido per ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-23T08:52:53Z</published>
     <updated>2026-10-23T08:52:53Z</updated>
     <summary>SAP Impulsa Empleo ofrece formación oficial gratuita o subvencionada, con prácticas en sistemas reales, tutorías, certificación y contacto directo con empresas, ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/korea/2026/10/%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%97%94-%EA%B0%99%EC%9D%80-%EB%8B%B5-sap-%ED%91%9C-%ED%98%95%EC%8B%9D-ai%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%88%98/</id>
-    <title>같은 질문엔 같은 답, SAP 표 형식 AI의 승부수</title>
-    <link href="https://news.sap.com/korea/2026/10/%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%97%94-%EA%B0%99%EC%9D%80-%EB%8B%B5-sap-%ED%91%9C-%ED%98%95%EC%8B%9D-ai%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%88%98/" />
-    <published>2026-10-23T08:52:53Z</published>
-    <updated>2026-10-23T08:52:53Z</updated>
-    <summary>같은 데이터에 같은 질문을 던지면 같은 예측, 같은 신뢰도로 답합니다. LLM이 닿지 못하는 기업의 표 데이터를 SAP-RPT-1.6과 TabPFN-3 기반 표 형식 AI가 어떻게 ...</summary>
   </entry>
 </feed>

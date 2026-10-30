@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22997,
+  "credits_used": 23049,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-30T00:20:51Z",
+  "last_run": "2026-10-30T01:15:51Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 464
+  "runs": 465
  },
  "feeds": {
   "adp-help": {
@@ -9941,6 +9941,15 @@
     "summary": "Planning Beyond 2030: What SAP Business Suite 7 and SAP NetWeaver Customers Using Third-Party Databases or Java Need to Know. by Philipp Herzig.",
     "title": "Enterprise resource planning Archives"
    },
+   "news.sap.com/topics/events": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-10-30T01:15:51Z",
+    "link": "https://news.sap.com/topics/events/",
+    "page": 1,
+    "summary": "News, information, feature articles, press releases & stories from SAP about global technology and business events, conferences, etc.",
+    "title": "Tech Events Coverage, News & Stories"
+   },
    "news.sap.com/topics/financial-management": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -13909,6 +13918,15 @@
     "page": 1,
     "summary": "Learn 3 tax automation benchmarks changing how leaders justify investment: 50% faster prep, $275K/year compliance savings, and $1.1M+ avoided headcount.",
     "title": "Tax automation benchmarks: 3 Metrics to justify investment"
+   },
+   "tax.thomsonreuters.com/blog/thomson-reuters-offers-an-end-to-end-compliance-platform-for-oracle-fusion-cloud-erp-users": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-30T01:15:51Z",
+    "link": "https://tax.thomsonreuters.com/blog/thomson-reuters-offers-an-end-to-end-compliance-platform-for-oracle-fusion-cloud-erp-users/",
+    "page": 1,
+    "summary": "end\u2010to\u2010end compliance connects indirect tax determination, tax compliance and reporting, e\u2010invoicing, and global trade management within a single, Oracle\u2010 ...",
+    "title": "End-to-end compliance for Oracle Fusion Cloud ERP users"
    },
    "tax.thomsonreuters.com/blog/what-changed-in-the-pcaob-qc-1000-amendments": {
     "baseline": false,
