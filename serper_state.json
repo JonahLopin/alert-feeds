@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 22946,
+  "credits_used": 22997,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-29T23:07:17Z",
+  "last_run": "2026-10-30T00:20:51Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 463
+  "runs": 464
  },
  "feeds": {
   "adp-help": {
@@ -404,6 +404,15 @@
     "page": 1,
     "summary": "Alabama's new law requiring age verification and parental consent for all mobile-app store access and downloads came under fire Wednesday from a tech trade ...",
     "title": "Alabama's App-Store Age-Check Law Challenged as Unconstitutional"
+   },
+   "news.bloomberglaw.com/business-and-practice/aldi-meijer-targeted-in-shrimpers-forced-labor-case-at-itc": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-30T00:20:51Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/aldi-meijer-targeted-in-shrimpers-forced-labor-case-at-itc",
+    "page": 2,
+    "summary": "Two US shrimp businesses are pushing a novel legal theory under a tariff law to compel the International Trade Commission to block the importation of Indian ...",
+    "title": "Aldi, Meijer Targeted in Shrimpers' Forced Labor Case at ITC"
    },
    "news.bloomberglaw.com/business-and-practice/alvin-hellerstein-judge-in-archegos-and-9-11-trials-dies-at-92": {
     "baseline": false,
@@ -2602,6 +2611,15 @@
     "page": 3,
     "summary": "President Donald Trump called the judge, a former Williams & Connolly partner and Joe Biden appointee, a \u201ccrazed lunatic\u201d days after she snapped at government .",
     "title": "Judge Targeted in Trump Golf Course Case Known for 'No ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/judge-urges-faster-pace-in-metas-menstrual-health-privacy-case": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-10-30T00:20:51Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/judge-urges-faster-pace-in-metas-menstrual-health-privacy-case",
+    "page": 2,
+    "summary": "A San Francisco federal judge overseeing a privacy class action involving Meta Platforms Inc.'s illegal collection of womens' menstrual data chastised the ...",
+    "title": "Judge Urges Faster Pace in Meta's Menstrual Health ..."
    },
    "news.bloomberglaw.com/business-and-practice/judges-eye-jurisdiction-in-covid-19-tax-credit-guidance-dispute-42": {
     "baseline": false,
@@ -4949,6 +4967,15 @@
     "summary": "Weil Gotshal & Manges plans to wind down its operations, its leaders told partners on Wednesday, according to a source briefed on the decision.",
     "title": "Weil Gotshal to Wind Down in Stunning Fall for ..."
    },
+   "news.bloomberglaw.com/business-and-practice/weil-gotshals-orderly-wind-down-plan-follows-stroock-precedent": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-10-30T00:20:51Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/weil-gotshals-orderly-wind-down-plan-follows-stroock-precedent",
+    "page": 1,
+    "summary": "Weil Gotshal & Manges in its historic dissolution aims to follow the route of a rival New York firm that also fell apart without a bankruptcy, ...",
+    "title": "Weil Gotshal's Orderly Wind-Down Plan Follows Stroock ..."
+   },
    "news.bloomberglaw.com/business-and-practice/weil-implosion-shows-lawyers-are-the-new-bankers-chris-bryant": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -5200,6 +5227,15 @@
     "page": 1,
     "summary": "Follow one hot pot table from seating to split check to see what iPad POS software needs for package pricing, round limits, timers, and multilingual menus.",
     "title": "iPad POS Software for Hot Pot and AYCE: Why One-Order ..."
+   },
+   "chowbus.com/blog/ipad-pos-stand-mount-setup-restaurant": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-30T00:20:51Z",
+    "link": "https://www.chowbus.com/blog/ipad-pos-stand-mount-setup-restaurant",
+    "page": 1,
+    "summary": "How to choose and install iPad POS stands and mounts for each station, with tips on security, power, cable runs, and printer pairing.",
+    "title": "iPad POS Stand Setup: The Small Details That Prevent ..."
    },
    "chowbus.com/blog/loyalty-program-for-small-business": {
     "baseline": false,
@@ -5539,6 +5575,15 @@
     "page": 2,
     "summary": "Is it time for your own restaurant app? Learn how branded mobile ordering apps help restaurants increase repeat orders, boost loyalty, and own customer ...",
     "title": "Is It Time for Your Own Restaurant App? Here's How to Know"
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-crm-campaign": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-30T00:20:51Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-crm-campaign",
+    "page": 2,
+    "summary": "Restaurant CRM campaigns drive repeat orders, improve guest loyalty, and simplify your marketing. Learn how to run a high-performing campaign with your ...",
+    "title": "The Anatomy of a High-Converting Restaurant CRM ..."
    },
    "merchants.doordash.com/en-us/blog/restaurant-customer-feedback": {
     "baseline": true,
@@ -12697,6 +12742,15 @@
     "page": 1,
     "summary": "Step-by-Step Instructions \u00b7 Part 1: Set Up a Deposit in the Reserve Web Portal \u00b7 Part 2: Creating a Reservation with a Deposit \u00b7 Part 3: Create a Prepaid ...",
     "title": "Deposits Setup & Management | SpotOn Reserve Web Portal"
+   },
+   "help.spoton.com/space/SK/4969726041": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-30T00:20:51Z",
+    "link": "https://help.spoton.com/space/SK/4969726041",
+    "page": 1,
+    "summary": "Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu price.",
+    "title": "Open Items and Market Price | SpotOn Restaurant BOH"
    },
    "help.spoton.com/space/SK/5040406703/Menu+Best+Practices+for+Subitem+Groups+(Combos+&+Pizza)+RPOS": {
     "baseline": false,
