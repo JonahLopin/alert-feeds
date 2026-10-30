@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-29T19:42:55Z</updated>
+  <updated>2026-10-30T16:43:50Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:2513473975994533956</id>
+    <title>Recipient Verifications | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/recipient-verifications" />
+    <published>2026-10-30T16:43:50Z</published>
+    <updated>2026-10-30T16:43:50Z</updated>
+    <summary>RecipientVerification represents a verification of recipient you intend to send funds to. Learn more about calling API v2 endpoints. Was this section ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12811545517784578973</id>
+    <title>Payout Intents v2 - Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/payout-intents" />
+    <published>2026-10-30T16:43:50Z</published>
+    <updated>2026-10-30T16:43:50Z</updated>
+    <summary>PayoutIntent represents an intent to send funds from a Financial Account to a payout method. Learn more about calling API v2 endpoints. Was this ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:9873323962846185244</id>
     <title>Enable tax by default for subscriptions - Stripe Documentation</title>

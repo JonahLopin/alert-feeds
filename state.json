@@ -4070,6 +4070,12 @@
    "summary": "Send a USD payout from your financial account to a recipient as a paper check. You can customize the check with a signature, a memo, ...",
    "title": "Send payouts by paper check - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:12811545517784578973": {
+   "first_seen": "2026-10-30T16:43:50Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/payout-intents",
+   "summary": "PayoutIntent represents an intent to send funds from a Financial Account to a payout method. Learn more about calling API v2 endpoints. Was this ...",
+   "title": "Payout Intents v2 - Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:13168888411314708221": {
    "first_seen": "2026-10-17T22:43:04Z",
    "link": "https://docs.stripe.com/api/radar/early_fraud_warnings/object?api-version=2026-09-30.preview",
@@ -4297,6 +4303,12 @@
    "link": "https://docs.stripe.com/workflows/triggers",
    "summary": "Trigger types \u00b7 Event triggers run the workflow when something happens in your Stripe account, such as a payment succeeding, a subscription renewing, ...",
    "title": "Trigger workflows | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:2513473975994533956": {
+   "first_seen": "2026-10-30T16:43:50Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/recipient-verifications",
+   "summary": "RecipientVerification represents a verification of recipient you intend to send funds to. Learn more about calling API v2 endpoints. Was this section ...",
+   "title": "Recipient Verifications | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:2583425226690397504": {
    "first_seen": "2026-10-13T11:11:14Z",
