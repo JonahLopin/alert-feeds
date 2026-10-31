@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-10-31T15:42:45Z</updated>
+  <updated>2026-10-31T18:42:46Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2932932609</id>
+    <title>SpotOn Marketing Assist | Frequently Asked Questions (FAQ)</title>
+    <link href="https://help.spoton.com/space/SK/2932932609" />
+    <published>2026-10-31T18:42:46Z</published>
+    <updated>2026-10-31T18:42:46Z</updated>
+    <summary>Find answers to common questions about SpotOn Marketing Assist, managing your campaigns, and updating your preferences. If you have additional questions, ...</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESZgHrOzAVyGtZagIE2qJfVlkbDOsIwis0WqLsz--pGmJJqcLmos3NC7Gou4ORLwZMBpUWvcTCQQZPF-_6JTD0LiBkU0j-PpOSK7_0a83XVnEJjrOVBCcqApD2T1Nw6HYBoyHZ4s8--A</id>
     <title>Create Order Type | SpotOn Restaurant (RPOS)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T19:42:38Z</published>
     <updated>2026-10-30T19:42:38Z</updated>
     <summary>Overview. Clocking in allows employees to start their shift and access the Front of House (FOH) based on their assigned job position.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVuFTt7HqXmYJuqMk5RDDglfMudU-blTxksSdZIcySpTymDlR_YV0zjF_H0sQbRcbtKbDSpNPvHzwKhkjUapTFigb1Av9MzWmeLXPuxvmn5qRuZjIBsrO_hOAZxoocTi-l-A</id>
-    <title>Deposits Setup &amp; Management | SpotOn Reserve Web Portal</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVuFTt7HqXmYJuqMk5RDDglfMudU-blTxksSdZIcySpTymDlR_YV0zjF_H0sQbRcbtKbDSpNPvHzwKhkjUapTFigb1Av9MzWmeLXPuxvmn5qRuZjIBsrO_hOAZxoocTi-l-A" />
-    <published>2026-10-30T19:42:38Z</published>
-    <updated>2026-10-30T19:42:38Z</updated>
-    <summary>The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,</summary>
   </entry>
 </feed>

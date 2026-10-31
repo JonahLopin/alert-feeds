@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 25068,
+  "credits_used": 25119,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-31T17:42:34Z",
+  "last_run": "2026-10-31T18:42:46Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 505
+  "runs": 506
  },
  "feeds": {
   "adp-help": {
@@ -12013,6 +12013,15 @@
     "page": 1,
     "summary": "A full dining room looks like a good problem \u2014 until you watch what a reservation and waitlist system that doesn't work actually costs you: no-shows that ...",
     "title": "Restaurant Reservation & Waitlist System (2026): How It ..."
+   },
+   "chowbus.com/blog/restaurant-self-ordering-system-kiosk-tablet-qr-service-style": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-31T18:42:46Z",
+    "link": "https://www.chowbus.com/blog/restaurant-self-ordering-system-kiosk-tablet-qr-service-style",
+    "page": 1,
+    "summary": "Kiosks, table tablets, and QR code ordering all let guests order for themselves. Each one fits a different service style. osks collect payment before the food ...",
+    "title": "Let Your Service Style Pick Kiosk, Tablet, or QR"
    },
    "chowbus.com/blog/self-ordering-kiosk-cost-in-2026": {
     "baseline": false,
@@ -39468,6 +39477,15 @@
     "summary": "Step-by-Step Instructions \u00b7 Enter a Name for the discount (e.g., BOGO Pizza) \u00b7 From the Discount Type dropdown, select Buy X, Get Y.",
     "title": "Creating a BOGO (Buy One, Get One) Discount"
    },
+   "help.spoton.com/space/SK/2932932609": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-31T18:42:46Z",
+    "link": "https://help.spoton.com/space/SK/2932932609",
+    "page": 1,
+    "summary": "Find answers to common questions about SpotOn Marketing Assist, managing your campaigns, and updating your preferences. If you have additional questions, ...",
+    "title": "SpotOn Marketing Assist | Frequently Asked Questions (FAQ)"
+   },
    "help.spoton.com/space/SK/3213820100": {
     "baseline": true,
     "date_hint": "5 days ago",
@@ -40043,6 +40061,15 @@
     "summary": "The ID of an existing configuration to use for this session, describing its functionality and features. If not specified, the session uses the default ...",
     "title": "Create a portal session | Stripe API Reference"
    },
+   "docs.stripe.com/api/financial_connections/ownership/list?api-version=2026-10-28.preview": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-31T18:42:46Z",
+    "link": "https://docs.stripe.com/api/financial_connections/ownership/list?api-version=2026-10-28.preview",
+    "page": 5,
+    "summary": "A cursor for use in pagination. ending_before is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...",
+    "title": "List Account Owners | Stripe API Reference"
+   },
    "docs.stripe.com/api/identity/verification_sessions/create": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -40114,6 +40141,15 @@
     "page": 3,
     "summary": "A future timestamp on which the quote will be canceled if in open or draft status. Measured in seconds since the Unix epoch.",
     "title": "Finalize a quote | Stripe API Reference"
+   },
+   "docs.stripe.com/api/sigma/scheduled_queries/object?api-version=2026-10-28.preview": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-31T18:42:46Z",
+    "link": "https://docs.stripe.com/api/sigma/scheduled_queries/object?api-version=2026-10-28.preview",
+    "page": 5,
+    "summary": "idstring. Unique identifier for the object. \u00b7 data_load_timetimestamp. When the query was run, Sigma contained a snapshot of your Stripe data at this time. \u00b7 file ...",
+    "title": "The Scheduled Query object | Stripe API Reference"
    },
    "docs.stripe.com/api/subscriptions/object": {
     "baseline": false,
@@ -40637,6 +40673,15 @@
     "page": 1,
     "summary": "(QRIS) is a real time payment system developed by the Bank of Indonesia. The service works by instantly transferring funds between two bank accounts.",
     "title": "QRIS Payments"
+   },
+   "docs.stripe.com/payments/quickstart?client=react": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-31T18:42:46Z",
+    "link": "https://docs.stripe.com/payments/quickstart?client=react",
+    "page": 1,
+    "summary": "Use Stripe Elements and the Checkout Sessions API to manage checkout features such as tax calculations, discounts, and shipping rates on your custom web ...",
+    "title": "Build a custom checkout page"
    },
    "docs.stripe.com/payments/save-and-reuse?payment-ui=elements": {
     "baseline": false,

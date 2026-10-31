@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-31T17:42:34Z</updated>
+  <updated>2026-10-31T18:42:46Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/payments/quickstart?client=react</id>
+    <title>Build a custom checkout page</title>
+    <link href="https://docs.stripe.com/payments/quickstart?client=react" />
+    <published>2026-10-31T18:42:46Z</published>
+    <updated>2026-10-31T18:42:46Z</updated>
+    <summary>Use Stripe Elements and the Checkout Sessions API to manage checkout features such as tax calculations, discounts, and shipping rates on your custom web ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/sigma/scheduled_queries/object?api-version=2026-10-28.preview</id>
+    <title>The Scheduled Query object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/sigma/scheduled_queries/object?api-version=2026-10-28.preview" />
+    <published>2026-10-31T18:42:46Z</published>
+    <updated>2026-10-31T18:42:46Z</updated>
+    <summary>idstring. Unique identifier for the object. · data_load_timetimestamp. When the query was run, Sigma contained a snapshot of your Stripe data at this time. · file ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/financial_connections/ownership/list?api-version=2026-10-28.preview</id>
+    <title>List Account Owners | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/financial_connections/ownership/list?api-version=2026-10-28.preview" />
+    <published>2026-10-31T18:42:46Z</published>
+    <updated>2026-10-31T18:42:46Z</updated>
+    <summary>A cursor for use in pagination. ending_before is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/global-payouts/send-money/apple-pay</id>
     <title>Send payouts to Apple Pay</title>
@@ -779,29 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESaAHrOzAVs_yek9VUuxC9lh876ApD_miKqh0aieWzUW7-0SLaLFZl4PZEApjuf1Lx3ctvLF77cwtWrms48DRpuqdbhtZJd0uc2W3KiImV5loewiyIh--l4ipHBwrlk52bxQR1_-ZXhlve</id>
-    <title>Checkout Sessions | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESaAHrOzAVs_yek9VUuxC9lh876ApD_miKqh0aieWzUW7-0SLaLFZl4PZEApjuf1Lx3ctvLF77cwtWrms48DRpuqdbhtZJd0uc2W3KiImV5loewiyIh--l4ipHBwrlk52bxQR1_-ZXhlve" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>A Checkout Session represents your customer's session as they pay for one-time purchases or subscriptions through Checkout or Payment Links. We recommend ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESaAHrOzAVpjBk-TDkWpMMgE6XwyFsNy3BW0McFez69sG3e1JG_nKbNAmRfc0WC3sYHpw66kHRkZKbd4gI6YqxRJwZiMv0boumiCjEGgSprBp_NA15IU9TtnbIvDDjj1U7VDBUwnzrtKNH</id>
-    <title>Retrieve account | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESaAHrOzAVpjBk-TDkWpMMgE6XwyFsNy3BW0McFez69sG3e1JG_nKbNAmRfc0WC3sYHpw66kHRkZKbd4gI6YqxRJwZiMv0boumiCjEGgSprBp_NA15IU9TtnbIvDDjj1U7VDBUwnzrtKNH" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>Returns an Account object if the call succeeds. If the account ID does not exist, this call raises an error. curl https://api.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVw1VRk3JhTh-O6c5XC9Te7TtePQ8GWS3FlZl6UHXcftuphn-ipUTQ0qq2esnpEJxMpI36v-j6MUgEN-uVzeQoALF5EKV0OlWkp6-JBa6ztJ74urTt5uLYP_1KdUmxHV1tgg</id>
-    <title>Update an invoice | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVw1VRk3JhTh-O6c5XC9Te7TtePQ8GWS3FlZl6UHXcftuphn-ipUTQ0qq2esnpEJxMpI36v-j6MUgEN-uVzeQoALF5EKV0OlWkp6-JBa6ztJ74urTt5uLYP_1KdUmxHV1tgg" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>In many markets, regulations require invoices to be unique, sequential and / or gapless. You are responsible for ensuring this is true across all your different ...</summary>
   </entry>
 </feed>
