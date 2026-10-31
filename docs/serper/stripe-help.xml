@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-31T15:42:45Z</updated>
+  <updated>2026-10-31T16:42:50Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/global-payouts/recipient-countries</id>
+    <title>Supported recipient countries - Global Payouts</title>
+    <link href="https://docs.stripe.com/global-payouts/recipient-countries" />
+    <published>2026-10-31T16:42:50Z</published>
+    <updated>2026-10-31T16:42:50Z</updated>
+    <summary>Learn which countries and currencies you can send payouts to with Global Payouts. Payouts to crypto wallets support a different set of countries.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/development/dashboard/request-logs?locale=ja-JP</id>
+    <title>API リクエストログを表示する</title>
+    <link href="https://docs.stripe.com/development/dashboard/request-logs?locale=ja-JP" />
+    <published>2026-10-31T16:42:50Z</published>
+    <updated>2026-10-31T16:42:50Z</updated>
+    <summary>開発者ダッシュボードで、API リクエストログをフィルタリングし、ログエントリーを表示します。</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/v2/money-management/financial-addresses/credit-simulation/object</id>
+    <title>The Financial Address Credit Simulation object v2</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/financial-addresses/credit-simulation/object" />
+    <published>2026-10-31T16:42:50Z</published>
+    <updated>2026-10-31T16:42:50Z</updated>
+    <summary>Attributes · objectstring, value is "v2.money_management.financial_address_credit_simulation" · livemodeboolean. Has the value true if the object exists in live ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/identity/verification_sessions/create</id>
+    <title>Create a VerificationSession | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/identity/verification_sessions/create" />
+    <published>2026-10-31T16:42:50Z</published>
+    <updated>2026-10-31T16:42:50Z</updated>
+    <summary>A string to reference this user. This can be a customer ID, a session ID, or similar, and can be used to reconcile this verification with your internal systems.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/customer_bank_accounts/list</id>
+    <title>List all bank accounts v1</title>
+    <link href="https://docs.stripe.com/api/customer_bank_accounts/list" />
+    <published>2026-10-31T16:42:50Z</published>
+    <updated>2026-10-31T16:42:50Z</updated>
+    <summary>starting_afterstring. A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/billing/alert/deactivate</id>
+    <title>Deactivate a billing alert | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/billing/alert/deactivate" />
+    <published>2026-10-31T16:42:50Z</published>
+    <updated>2026-10-31T16:42:50Z</updated>
+    <summary>Deactivates this alert, preventing it from triggering. Parameters. idstringRequired. Unique identifier for the object. Returns. Returns the alert with its ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/accounts</id>
+    <title>Accounts | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/accounts" />
+    <published>2026-10-31T16:42:50Z</published>
+    <updated>2026-10-31T16:42:50Z</updated>
+    <summary>This is an object representing a Stripe account. You can retrieve it to see properties on the account like its current requirements or if the account is ...</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESrAEB6zswFaobXag3DQCLb6j63Liv6lxjicGUMfcOb3RjAqgF-OQzKrd1mnHf_PlotR3kiHnMsv7LKaOe5zYySNSVoDOtK8pzZ653SLwlR3kHNOB6YXLBbefXNoO59K1hYVET_HvY7Y0_xY0MHUFwBIpH6p3FaqR6CiMD2_uEiJ1Rxf-eRI5sQogYGc80ik_iftohiqx_LJuPO-NW2YQ52KTnShOdgJWXdWfHa6XH&amp;gsessionid=6tvnadaKi-4DGjrncG2nS3JjNy1qIwZhixL5ThXjBbbMuuCelF5T1g</id>
     <title>Create a PaymentIntent before collecting payment details</title>
@@ -747,61 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>A future timestamp on which the quote will be canceled if in open or draft status. Measured in seconds since the Unix epoch.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVn7d0QTqbLSFn33cNBKS2sEfYM5lXFTK62AFksuBfJ7-WRGyfdTyPk5A9L8_rL_GdXUUeq04WxAdJie2Yx4SU07DDQ01t9LoC_jTgHbPL_4Lzezs9D8oiXu-03_jZBeNwkA</id>
-    <title>Payment Intents | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVn7d0QTqbLSFn33cNBKS2sEfYM5lXFTK62AFksuBfJ7-WRGyfdTyPk5A9L8_rL_GdXUUeq04WxAdJie2Yx4SU07DDQ01t9LoC_jTgHbPL_4Lzezs9D8oiXu-03_jZBeNwkA" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>A PaymentIntent guides you through the process of collecting a payment from your customer. We recommend that you create exactly one PaymentIntent for each ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZAHrOzAVaGgdZ8bI_NrT2y5bvNZ0xxS6PjJ-jeMsTfCvc9gU3Kf9FW7FWM0pu_eurYp9lpOeBOHWAY8_Hp2UOq5BGkK7GDHNICda7F6sfGrXxVaEjKmZnykbO0ZptsV3-tgnxa4</id>
-    <title>Send an invoice for manual payment v1</title>
-    <link href="https://www.google.com/goto?url=CAESZAHrOzAVaGgdZ8bI_NrT2y5bvNZ0xxS6PjJ-jeMsTfCvc9gU3Kf9FW7FWM0pu_eurYp9lpOeBOHWAY8_Hp2UOq5BGkK7GDHNICda7F6sfGrXxVaEjKmZnykbO0ZptsV3-tgnxa4" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>Stripe will automatically send invoices to customers according to your subscriptions settings. However, if you'd like to manually send an invoice to your ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESXwHrOzAVWiC2iJYg1OQugiee_QfaXREbWhyLqmf20o-rNi8Iqx-KrXZGjS0Saf8NwZMHc4P9pT6KNYQenC5QRFn2wH4eKTRDZMPANrbp9qSw90cgY6J89QyCeHH4Ljk9</id>
-    <title>Accounts | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESXwHrOzAVWiC2iJYg1OQugiee_QfaXREbWhyLqmf20o-rNi8Iqx-KrXZGjS0Saf8NwZMHc4P9pT6KNYQenC5QRFn2wH4eKTRDZMPANrbp9qSw90cgY6J89QyCeHH4Ljk9" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>This is an object representing a Stripe account. You can retrieve it to see properties on the account like its current requirements or if the account is ...</summary>
-  </entry>
-  <entry>
-    <id>https://docs.stripe.com/payments/ideal/set-up-payment?payment-ui=mobile&amp;platform=android</id>
-    <title>Use iDEAL | Wero to set up future SEPA Direct Debit</title>
-    <link href="https://docs.stripe.com/payments/ideal/set-up-payment?payment-ui=mobile&amp;platform=android" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>Learn how to save bank details from an iDEAL | Wero payment and charge your customers later with SEPA Direct Debit.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESrAEB6zswFcLa70-zaKCfim8-lvBwFdH6D-xuj_BKgMPSmHA13asX8Vq-pgndi4hiudLxv1Ue99DUzIccLaTiEkW8EgOJIfSOfgu8vNJ9qRjdtGp7Lzib1gn2oYy-0E-7s7qPV1ucNURx3RItz84o4AK9pHLrbTKqCYCFXGl_zCMxhse3r6nlp1etbyOa5U2-ka7l-h_e7K47vA455378zmXeD32kO8uu_6lLC4ag</id>
-    <title>Create a PaymentIntent before collecting payment details</title>
-    <link href="https://www.google.com/goto?url=CAESrAEB6zswFcLa70-zaKCfim8-lvBwFdH6D-xuj_BKgMPSmHA13asX8Vq-pgndi4hiudLxv1Ue99DUzIccLaTiEkW8EgOJIfSOfgu8vNJ9qRjdtGp7Lzib1gn2oYy-0E-7s7qPV1ucNURx3RItz84o4AK9pHLrbTKqCYCFXGl_zCMxhse3r6nlp1etbyOa5U2-ka7l-h_e7K47vA455378zmXeD32kO8uu_6lLC4ag" />
-    <published>2026-10-31T12:42:37Z</published>
-    <updated>2026-10-31T12:42:37Z</updated>
-    <summary>Build a custom payment form using Stripe Elements and the Payment Intents API. This intent-first integration creates a PaymentIntent on your server before ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESogEB6zswFXjL6CXvuSZcRb4dQYOb6Yei_MItG4S2r6FTVT7ju_ltkTzzwwwE5tbbq5GvPbxWjtnEYKlusB633FzDUSCp_XTDoIBunLJgt8b65_28VHPPECN7yyVk0sq9D3N8QaDDrli7cBf3j4bzsbKUNScVm40nGnl67afhxrnVTGpxo7pwK7EWZ32p6atLQ5yaluzmzWaLpzAXJjFjaZtJgag</id>
-    <title>Retrieve a Received Debit v2</title>
-    <link href="https://www.google.com/goto?url=CAESogEB6zswFXjL6CXvuSZcRb4dQYOb6Yei_MItG4S2r6FTVT7ju_ltkTzzwwwE5tbbq5GvPbxWjtnEYKlusB633FzDUSCp_XTDoIBunLJgt8b65_28VHPPECN7yyVk0sq9D3N8QaDDrli7cBf3j4bzsbKUNScVm40nGnl67afhxrnVTGpxo7pwK7EWZ32p6atLQ5yaluzmzWaLpzAXJjFjaZtJgag" />
-    <published>2026-10-31T12:42:37Z</published>
-    <updated>2026-10-31T12:42:37Z</updated>
-    <summary>Retrieves a single ReceivedDebit by ID. Learn more about calling API v2 endpoints. Parameters. No parameters. Returns.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESlwEB6zswFUKXQR0KPv91mnSjF-O8vaIjcJqh2AkTuATrxks8c0wpAYRxlyiJOBgZDd_a4kLUxz521lOgyHfmUwDLUka1d7AnNCvQxAZAwFoIdaTmfQ3S10Bmdetsldf-hTnY86h7YaXPfq8aMNXBmXD-w8Z7PDhHnEAOQ1LLOaAnJFDA3MsqIC6rDaysesOEuzyUxdpezQM9</id>
-    <title>The Financial Address Credit Simulation object v2</title>
-    <link href="https://www.google.com/goto?url=CAESlwEB6zswFUKXQR0KPv91mnSjF-O8vaIjcJqh2AkTuATrxks8c0wpAYRxlyiJOBgZDd_a4kLUxz521lOgyHfmUwDLUka1d7AnNCvQxAZAwFoIdaTmfQ3S10Bmdetsldf-hTnY86h7YaXPfq8aMNXBmXD-w8Z7PDhHnEAOQ1LLOaAnJFDA3MsqIC6rDaysesOEuzyUxdpezQM9" />
-    <published>2026-10-31T12:42:37Z</published>
-    <updated>2026-10-31T12:42:37Z</updated>
-    <summary>Attributes · objectstring, value is "v2.money_management.financial_address_credit_simulation" · livemodeboolean. Has the value true if the object exists in live ...</summary>
   </entry>
 </feed>

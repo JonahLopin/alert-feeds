@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 24967,
+  "credits_used": 25017,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-31T15:42:45Z",
+  "last_run": "2026-10-31T16:42:50Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 503
+  "runs": 504
  },
  "feeds": {
   "adp-help": {
@@ -6696,6 +6696,15 @@
     "summary": "An order requiring Texas Gov. Greg Abbott (R) to turn over his unredacted communications with billionaire Elon Musk was paused Tuesday.",
     "title": "Abbott Gets Pause of Elon Musk Communications Order on ..."
    },
+   "news.bloomberglaw.com/business-and-practice/accused-trade-secrets-schemers-rightly-escaped-suit-won-fees": {
+    "baseline": false,
+    "date_hint": "19 hours ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/accused-trade-secrets-schemers-rightly-escaped-suit-won-fees",
+    "page": 1,
+    "summary": "A group accused of stealing water-cooled motor control trade secrets rightly escaped suit and won $185,000 in attorneys' fees from their accuser,",
+    "title": "Accused Trade Secrets Schemers Rightly Escaped Suit, ..."
+   },
    "news.bloomberglaw.com/business-and-practice/activist-announces-interim-ceo-for-ethan-allen-correct": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -6812,6 +6821,15 @@
     "page": 2,
     "summary": "Two US shrimp businesses are pushing a novel legal theory under a tariff law to compel the International Trade Commission to block the importation of Indian ...",
     "title": "Aldi, Meijer Targeted in Shrimpers' Forced Labor Case at ITC"
+   },
+   "news.bloomberglaw.com/business-and-practice/alphabet-is-in-talks-to-join-trumps-golden-dome-defense-program": {
+    "baseline": false,
+    "date_hint": "19 hours ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/alphabet-is-in-talks-to-join-trumps-golden-dome-defense-program",
+    "page": 3,
+    "summary": "Alphabet Inc.'s Google is in talks with the US Defense Department to work on a new data security effort underpinning the $185 billion Golden Dome missile ...",
+    "title": "Alphabet Is in Talks to Join Trump's Golden Dome Defense ..."
    },
    "news.bloomberglaw.com/business-and-practice/alvin-hellerstein-judge-in-archegos-and-9-11-trials-dies-at-92": {
     "baseline": false,
@@ -7899,6 +7917,15 @@
     "summary": "The Department of Homeland Security dismissed a watchdog's recommendation that ICE use automated technology to ensure officers' body cameras are turned on ...",
     "title": "DHS Rejects Guidance for Body Cameras to Turn on ..."
    },
+   "news.bloomberglaw.com/business-and-practice/dhs-voter-fraud-operation-remains-stopped-by-ninth-circuit": {
+    "baseline": false,
+    "date_hint": "21 hours ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/dhs-voter-fraud-operation-remains-stopped-by-ninth-circuit",
+    "page": 1,
+    "summary": "A trio judges for the US Court of Appeals for the Ninth Circuit denied the Trump administration's attempt to pause a lower ruling blocking the practice in nine ...",
+    "title": "DHS' Voter Fraud Operation Remains Stopped by Ninth ..."
+   },
    "news.bloomberglaw.com/business-and-practice/dhss-voter-fraud-operation-barred-in-nine-states-through-nov-3": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -8033,6 +8060,15 @@
     "page": 4,
     "summary": "Federal prosecutors taking another stab at charging journalist Timothy Burke with wiretap offenses, filing a new indictment alleging he leaked unaired ...",
     "title": "DOJ Re-Charges Wiretap Offenses in Leaked Kanye West ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/doj-resists-handing-over-information-to-judge-in-chicago-probe": {
+    "baseline": false,
+    "date_hint": "19 hours ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-resists-handing-over-information-to-judge-in-chicago-probe",
+    "page": 2,
+    "summary": "The Justice Department won't hand over information to the Chicago federal judge probing its conduct in the \u201cBroadview Six\u201d scandal unless they get ...",
+    "title": "DOJ Resists Handing Over Information to Judge In ..."
    },
    "news.bloomberglaw.com/business-and-practice/doj-scrutinizing-binance-compliance-with-2023-settlement-accord": {
     "baseline": false,
@@ -9254,6 +9290,15 @@
     "summary": "A spate of cyberattacks that has rocked Japan Inc. in recent weeks is alarming not because of some novel artificial intelligence hacking methods, ...",
     "title": "Karaoke Hack Shows Routine Cybercrime: Catherine ..."
    },
+   "news.bloomberglaw.com/business-and-practice/kentucky-shareholder-adviser-law-draws-investor-advocates-suit-1": {
+    "baseline": false,
+    "date_hint": "23 hours ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kentucky-shareholder-adviser-law-draws-investor-advocates-suit-1",
+    "page": 1,
+    "summary": "A new Kentucky law unconstitutionally silences shareholder advocates who push companies to consider environmental, social, ideological and other factors ...",
+    "title": "Kentucky Shareholder Adviser Law Draws Investor ..."
+   },
    "news.bloomberglaw.com/business-and-practice/keurig-must-face-coffee-pod-monopoly-allegations-judge-says": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -10404,6 +10449,15 @@
     "page": 1,
     "summary": "The US Supreme Court won't hear a case by former Ruby Tuesday Inc. executives asking what remedies courts can order in Employee Retirement Income Security Act ...",
     "title": "SCOTUS Passes on Ruby Tuesday Benefits Suit, ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/seatgeek-defeats-privacy-lawsuit-over-data-sharing-with-tiktok": {
+    "baseline": false,
+    "date_hint": "23 hours ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/seatgeek-defeats-privacy-lawsuit-over-data-sharing-with-tiktok",
+    "page": 1,
+    "summary": "SeatGeek Inc. defeated a proposed class action alleging it illegally disclosed consumers' personal information to TikTok Inc. , Meta Platforms Inc.",
+    "title": "SeatGeek Defeats Privacy Lawsuit Over Data Sharing With ..."
    },
    "news.bloomberglaw.com/business-and-practice/sec-alleges-200-million-crypto-based-commodities-ponzi-scheme": {
     "baseline": false,
@@ -11573,6 +11627,15 @@
     "summary": "Weil, Gotshal & Manges is adding private equity partner Rebecca Ward to its London office after she spent more than four years at Freshfields.",
     "title": "Weil Adds London Private Equity Partner After String of Exits"
    },
+   "news.bloomberglaw.com/business-and-practice/weil-collapse-floods-market-with-lawyers-looking-for-new-jobs": {
+    "baseline": false,
+    "date_hint": "20 hours ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/weil-collapse-floods-market-with-lawyers-looking-for-new-jobs",
+    "page": 2,
+    "summary": "Weil Gotshal & Manges' stunning collapse sends the firm's nearly 600 associates out on the job market with their career paths newly upended.",
+    "title": "Weil Collapse Floods Market With Lawyers Looking for ..."
+   },
    "news.bloomberglaw.com/business-and-practice/weil-gotshal-and-willkie-farr-have-ended-merger-discussions": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -11977,6 +12040,15 @@
     "page": 1,
     "summary": "A thirty-day countdown for switching to a cloud POS: contracts, data export, menu rebuild, gift cards, training, and a weeknight cutover before the first ...",
     "title": "Switch to a Cloud Point of Sale System on a Quiet ..."
+   },
+   "chowbus.com/blog/the-best-restaurant-online-ordering-system-for-2026": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://www.chowbus.com/blog/the-best-restaurant-online-ordering-system-for-2026",
+    "page": 1,
+    "summary": "Repeat purchase rate. Third-party delivery customers come back to the marketplace, not to you. Direct online ordering customers come back to your URL or app.",
+    "title": "The Best Restaurant Online Ordering System for 2026"
    },
    "google.com/goto?url=CAESdgHrOzAVrzMGRJYHyn8pwNxT5dN4rH5gvo6yhunV3dNkCtGATnIqlTy6w8o3mIpQVXwrRb1UXUSYJL8yrl7XGrabGKhFM1HpTOSFVh9NtKkPxLehYoTHmV8etgW8BJk9atsRbJl4GT9JcxxjcacyvBG2XjFe8Nk": {
     "baseline": false,
@@ -21687,6 +21759,15 @@
     "summary": "Learn how to review and post transactions that QuickBooks Online marks as Ready to post, and how to set your Ready to post criteria through your Transaction ...",
     "title": "Use Ready to post in QuickBooks Online - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/accountant-certification/frequently-asked-questions-proadvisor/L7LgoI6Z6_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/accountant-certification/frequently-asked-questions-proadvisor/L7LgoI6Z6_US_en_US",
+    "page": 1,
+    "summary": "We offer training to prepare you for your certification. These are available in webinar, virtual conference, and on demand.",
+    "title": "Frequently Asked Questions about ProAdvisor training and ..."
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/accountant-certification/sign-proadvisor-quickbooks-certification-courses/L18zzgR5K_US_en_US": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -21873,6 +21954,15 @@
     "page": 2,
     "summary": "Learn how to use the Resolution Center to manage your support cases \u2014 without the usual headaches. Follow our step-by-step guide.",
     "title": "Use the Resolution Center to manage your support cases"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/cash-drawer/enter-manage-expenses-quickbooks-online/L1XojuBAW_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/cash-drawer/enter-manage-expenses-quickbooks-online/L1XojuBAW_US_en_US",
+    "page": 1,
+    "summary": "Record business expenses in QuickBooks Online to track spending and maintain accurate financial records. Enter an expense when you have already paid for a ...",
+    "title": "Enter and manage expenses in QuickBooks Online - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/client-relationships/create-send-proposals/L6nlEXigC_US_en_US": {
     "baseline": false,
@@ -22385,6 +22475,15 @@
     "summary": "You can move clients between Intuit Accountant Suite (IAS) accounts. All their info, client numbers, and team access move with them.",
     "title": "Transfer clients in Intuit Accountant Suite (IAS)"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/manage-customers/manually-add-leads-customer-hub/L3GZDOdYV_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-customers/manually-add-leads-customer-hub/L3GZDOdYV_US_en_US",
+    "page": 2,
+    "summary": "A lead is a person or business you hope to sell to. An opportunity is a specific deal you're working on. One lead can have more than one opportunity open at ...",
+    "title": "Manually add leads in the Customer Hub - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/manage-teams/check-firm-s-proadvisor-certification-status-projected-tier/L2C5QaOuO_US_en_US": {
     "baseline": false,
     "date_hint": "8 hours ago",
@@ -22640,6 +22739,15 @@
     "page": 2,
     "summary": "How to set up payroll made easy in QuickBooks Online Payroll \u2014 and save hours on bookkeeping. Clear, step-by-step instructions.",
     "title": "Get started with QuickBooks Online Payroll - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/payroll-setup/import-employees-pay-history-adp-gusto-paychex/L5B86tEqo_US_en_US": {
+    "baseline": false,
+    "date_hint": "13 hours ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll-setup/import-employees-pay-history-adp-gusto-paychex/L5B86tEqo_US_en_US",
+    "page": 2,
+    "summary": "Move your payroll data from ADP, Gusto, or Paychex to Intuit QuickBooks Workforce or QuickBooks Desktop Payroll without entering each record manually.",
+    "title": "Move your payroll from ADP, Gusto, or Paychex ... - QuickBooks"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/payroll-setup/set-contractors-track-1099s-quickbooks/L4wX1Ge0e_US_en_US": {
     "baseline": false,
@@ -26922,6 +27030,15 @@
     "summary": "Erfahren Sie, wie SAP Unternehmen auf dem Weg zu KI-gesteuerten, autonomen L\u00f6sungen unterst\u00fctzt und beeindruckende Ergebnisse zeigt.",
     "title": "SAP zeigt Erfolgsgeschichten autonomer Unternehmen"
    },
+   "news.sap.com/germany/2026/10/sap-teched-2026": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://news.sap.com/germany/2026/10/sap-teched-2026/",
+    "page": 1,
+    "summary": "Auf der SAP TechEd 2026 pr\u00e4sentierten SAP-F\u00fchrungskr\u00e4fte, wie KI-Innovationen das autonome Unternehmen Realit\u00e4t werden lassen.",
+    "title": "SAP TechEd 2026: Die Zukunft des Unternehmens"
+   },
    "news.sap.com/germany/2026/10/sap-veroeffentlicht-ergebnisse-fuer-q3-2026": {
     "baseline": false,
     "date_hint": "7 hours ago",
@@ -28221,6 +28338,15 @@
     "summary": "AI is creating new possibilities for how commercial work gets done. +1-800-872-1727",
     "title": "Artificial Intelligence Archives"
    },
+   "news.sap.com/topics/business-transformation-management": {
+    "baseline": false,
+    "date_hint": "17 hours ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://news.sap.com/topics/business-transformation-management/",
+    "page": 1,
+    "summary": "SAP provides the solutions necessary to govern, control, and innovate now and into the future. +1-800-872-1727",
+    "title": "Transformation management Archives"
+   },
    "news.sap.com/topics/cloud": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -28300,6 +28426,15 @@
     "page": 1,
     "summary": "SAP Showcases the Autonomous Enterprise in Action \u00b7 Feature \u00b7 Industry AI: Deep Industry Knowledge, Forward-Deployed Engineering, Measurable Value \u00b7 Feature ...",
     "title": "SAP Connect Archives"
+   },
+   "news.sap.com/topics/sap-teched": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://news.sap.com/topics/sap-teched/",
+    "page": 1,
+    "summary": "SAP TechEd SAP provides the solutions necessary to govern, control, and innovate now and into the future. +1-800-872-1727",
+    "title": "SAP TechEd Archives"
    },
    "news.sap.com/topics/solutions": {
     "baseline": false,
@@ -34823,6 +34958,15 @@
     "summary": "Content writer and strategist in the SaaS space. Try Shopify for free, and explore all the tools you need to start, run, and grow your business.",
     "title": "Lizzie Davey author & reviewer at Shopify"
    },
+   "shopify.com/blog/automatically-identify-more-customers-with-pos": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://www.shopify.com/blog/automatically-identify-more-customers-with-pos",
+    "page": 2,
+    "summary": "Shopify POS helps you identify more of your in-store customers at checkout, so more sales turn into customers you can remember, reach, and bring back.",
+    "title": "Identify More of Your In-Store Customers with Shopify POS"
+   },
    "shopify.com/blog/b2b-marketing-kpis": {
     "baseline": false,
     "date_hint": "11 hours ago",
@@ -35037,6 +35181,15 @@
     "page": 1,
     "summary": "Customer lifetime value (CLV) shows what each customer is worth over time. Get the CLV formula, worked examples, and where to find CLV in Shopify.",
     "title": "Customer Lifetime Value: How To Calculate CLV (2026)"
+   },
+   "shopify.com/blog/data-driven-personalization": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://www.shopify.com/blog/data-driven-personalization",
+    "page": 1,
+    "summary": "Data-driven personalization is a marketing approach that uses customer data to provide more relevant consumer experiences.",
+    "title": "How to Implement Data-Driven Personalization (2026)"
    },
    "shopify.com/blog/data-management-platform": {
     "baseline": false,
@@ -35423,6 +35576,15 @@
     "page": 3,
     "summary": "Instagram's Explore page algorithm is designed to help users discover new things. It uses the same signals as the feed and Stories, but uses them to curate and ...",
     "title": "Instagram Algorithm 2026: What You Need To Know"
+   },
+   "shopify.com/blog/instagram-story-features": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://www.shopify.com/blog/instagram-story-features",
+    "page": 1,
+    "summary": "Instagram Story features, like interactive polls and sharing capabilities, can make your content more engaging for your target audience.",
+    "title": "Instagram Story Features Explained: How to Use Them"
    },
    "shopify.com/blog/interchange-plus-pricing": {
     "baseline": false,
@@ -35997,6 +36159,15 @@
     "page": 1,
     "summary": "Americans are starting businesses at record rates. Explore new Shopify data tracking the rising economic impact and reach of US entrepreneurship.",
     "title": "US Entrepreneurship is Surging: What New Shopify Data ..."
+   },
+   "shopify.com/blog/the-good-liver-cult-retail-brand": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://www.shopify.com/blog/the-good-liver-cult-retail-brand",
+    "page": 2,
+    "summary": "Driven by a passion for global craftsmanship, Bert Youn opened a Los Angeles store, using tactile retail to build a profitable ecommerce brand.",
+    "title": "How The Good Liver Built a Cult Retail Brand (2026)"
    },
    "shopify.com/blog/the-ultimate-guide-to-retail-store-layouts": {
     "baseline": false,
@@ -39747,6 +39918,15 @@
     "summary": "Stripe \u306b\u3088\u308a\u3001\u30ab\u30bf\u30ed\u30b0\u30d5\u30a3\u30fc\u30c9\u304c\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u306b\u5171\u6709\u3055\u308c\u3001\u305d\u306e\u30d5\u30a3\u30fc\u30c9\u3092\u57fa\u306b\u5728\u5eab\u3068\u4fa1\u683c\u304c\u78ba\u8a8d\u3055\u308c\u307e\u3059\u3002\u30d5\u30a3\u30fc\u30c9\u306e\u4f5c\u6210\u3068\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u306b\u3064\u3044\u3066\u306f\u3001\u30ab\u30bf\u30ed\u30b0 ...",
     "title": "\u30ab\u30bf\u30ed\u30b0\u3092\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u3068\u5171\u6709\u3059\u308b | Stripe \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8"
    },
+   "docs.stripe.com/api/accounts": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://docs.stripe.com/api/accounts",
+    "page": 1,
+    "summary": "This is an object representing a Stripe account. You can retrieve it to see properties on the account like its current requirements or if the account is ...",
+    "title": "Accounts | Stripe API Reference"
+   },
    "docs.stripe.com/api/accounts/retrieve": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -39755,6 +39935,15 @@
     "page": 3,
     "summary": "Returns an Account object if the call succeeds. If the account ID does not exist, this call raises an error. curl https://api.",
     "title": "Retrieve account | Stripe API Reference"
+   },
+   "docs.stripe.com/api/billing/alert/deactivate": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://docs.stripe.com/api/billing/alert/deactivate",
+    "page": 4,
+    "summary": "Deactivates this alert, preventing it from triggering. Parameters. idstringRequired. Unique identifier for the object. Returns. Returns the alert with its ...",
+    "title": "Deactivate a billing alert | Stripe API Reference"
    },
    "docs.stripe.com/api/billing/alert/notifications/object": {
     "baseline": false,
@@ -39810,6 +39999,15 @@
     "summary": "Chat with Stripe developers on Discord. Check out our changelog. Questions? Contact Sales. LLM? Read llms.txt. Powered by Markdoc.",
     "title": "Retrieve an order | Stripe API Reference"
    },
+   "docs.stripe.com/api/customer_bank_accounts/list": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://docs.stripe.com/api/customer_bank_accounts/list",
+    "page": 2,
+    "summary": "starting_afterstring. A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list ...",
+    "title": "List all bank accounts v1"
+   },
    "docs.stripe.com/api/customer_bank_accounts/object?lang=dotnet&ref=public-apis": {
     "baseline": true,
     "date_hint": "7 days ago",
@@ -39826,6 +40024,15 @@
     "page": 2,
     "summary": "The ID of an existing configuration to use for this session, describing its functionality and features. If not specified, the session uses the default ...",
     "title": "Create a portal session | Stripe API Reference"
+   },
+   "docs.stripe.com/api/identity/verification_sessions/create": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://docs.stripe.com/api/identity/verification_sessions/create",
+    "page": 4,
+    "summary": "A string to reference this user. This can be a customer ID, a session ID, or similar, and can be used to reconcile this verification with your internal systems.",
+    "title": "Create a VerificationSession | Stripe API Reference"
    },
    "docs.stripe.com/api/invoices/send": {
     "baseline": false,
@@ -39960,6 +40167,15 @@
     "page": 3,
     "summary": "A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...",
     "title": "List all transfers | Stripe API Reference"
+   },
+   "docs.stripe.com/api/v2/money-management/financial-addresses/credit-simulation/object": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://docs.stripe.com/api/v2/money-management/financial-addresses/credit-simulation/object",
+    "page": 5,
+    "summary": "Attributes \u00b7 objectstring, value is \"v2.money_management.financial_address_credit_simulation\" \u00b7 livemodeboolean. Has the value true if the object exists in live ...",
+    "title": "The Financial Address Credit Simulation object v2"
    },
    "docs.stripe.com/api/v2/money-management/payout-intents": {
     "baseline": false,
@@ -40113,6 +40329,15 @@
     "summary": "Compose custom SQL queries with table joins, templates, and an LLM assistant that generates queries from natural language prompts.",
     "title": "Write queries"
    },
+   "docs.stripe.com/development/dashboard/request-logs?locale=ja-JP": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://docs.stripe.com/development/dashboard/request-logs?locale=ja-JP",
+    "page": 3,
+    "summary": "\u958b\u767a\u8005\u30c0\u30c3\u30b7\u30e5\u30dc\u30fc\u30c9\u3067\u3001API \u30ea\u30af\u30a8\u30b9\u30c8\u30ed\u30b0\u3092\u30d5\u30a3\u30eb\u30bf\u30ea\u30f3\u30b0\u3057\u3001\u30ed\u30b0\u30a8\u30f3\u30c8\u30ea\u30fc\u3092\u8868\u793a\u3057\u307e\u3059\u3002",
+    "title": "API \u30ea\u30af\u30a8\u30b9\u30c8\u30ed\u30b0\u3092\u8868\u793a\u3059\u308b"
+   },
    "docs.stripe.com/disputes/categories?dispute-category=credit-not-processed&evidence-for=physical-product&locale=id-ID": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -40171,6 +40396,15 @@
     "page": 1,
     "summary": "Deprecate when you need to make an extension version unavailable for new activations while allowing extensions already activated on that version to continue ...",
     "title": "Deprecate and archive extensions"
+   },
+   "docs.stripe.com/global-payouts/recipient-countries": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://docs.stripe.com/global-payouts/recipient-countries",
+    "page": 1,
+    "summary": "Learn which countries and currencies you can send payouts to with Global Payouts. Payouts to crypto wallets support a different set of countries.",
+    "title": "Supported recipient countries - Global Payouts"
    },
    "docs.stripe.com/global-payouts/send-money/crypto-wallets": {
     "baseline": false,
@@ -50756,6 +50990,15 @@
     "summary": "\"Our results suggest that mini-PCNL is more likely to render patients stone-free than URS, with no difference in complications, surgical times, and operating ...",
     "title": "'Mini-PCNL' surgery has higher stone-free rate in treating ..."
    },
+   "wolterskluwer.com/en/news/most-viewed-tiktok-videos-on-inflammatory-bowel-disease-show-low-quality": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://www.wolterskluwer.com/en/news/most-viewed-tiktok-videos-on-inflammatory-bowel-disease-show-low-quality",
+    "page": 1,
+    "summary": "The most popular TikTok videos related to inflammatory bowel disease (IBD) have millions of views \u2013 but very low scores for quality of medical information,",
+    "title": "Most-viewed TikTok videos on inflammatory bowel disease ..."
+   },
    "wolterskluwer.com/en/news/new-guidelines-address-treatment-of-anorectal-abscess-anal-fistula-and-rectovaginal-fistula": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -50991,6 +51234,15 @@
     "page": 1,
     "summary": "To highlight what obstacles and opportunities in healthcare technology lie ahead in 2026, leading experts from Wolters Kluwer Health share their outlook on an ...",
     "title": "Wolters Kluwer experts forecast deeper healthcare AI ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-first-quarter-2026-trading-update": {
+    "baseline": false,
+    "date_hint": "19 hours ago",
+    "first_seen": "2026-10-31T16:42:50Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-first-quarter-2026-trading-update",
+    "page": 1,
+    "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting; ...",
+    "title": "Wolters Kluwer First-Quarter 2026 Trading Update"
    },
    "wolterskluwer.com/en/news/wolters-kluwer-future-ready-healthcare-survey-report": {
     "baseline": false,
