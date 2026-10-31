@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 25315,
+  "credits_used": 25364,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-31T22:43:06Z",
+  "last_run": "2026-10-31T23:42:31Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 510
+  "runs": 511
  },
  "feeds": {
   "adp-help": {
@@ -16475,6 +16475,15 @@
     "page": 1,
     "summary": "Culver's fans can get their favorites delivered with DoorDash wherever they are, from more than 900 participating restaurants nationwide. Culver's,",
     "title": "Culver's Now Available for Delivery on DoorDash"
+   },
+   "about.doordash.com/en-us/news/dashbuddy": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-31T23:42:31Z",
+    "link": "https://about.doordash.com/en-us/news/dashbuddy",
+    "page": 1,
+    "summary": "DashBuddy, a new AI-powered assistant that gets Dashers the answer they need, the moment they need it. They can just send a text over SMS and get an answer. No ...",
+    "title": "New AI Tools Helping Dashers Get Started and Get More ..."
    },
    "about.doordash.com/en-us/news/doordash-adds-new-grocery-partners": {
     "baseline": false,
