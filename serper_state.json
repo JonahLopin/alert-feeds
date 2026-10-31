@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 25119,
+  "credits_used": 25169,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-31T18:42:46Z",
+  "last_run": "2026-10-31T19:43:23Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 506
+  "runs": 507
  },
  "feeds": {
   "adp-help": {
@@ -22839,6 +22839,15 @@
     "summary": "The deadline to file is February 2. W-2s are available in the Payroll Tax Center starting January 10. You can view and print your W-2s starting January 1.",
     "title": "Understand the timing for your W-2s - QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/proadvisor-program/fix-error-saving-changes-changes-profile-could/L5ZxabOIO_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-10-31T19:43:23Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/proadvisor-program/fix-error-saving-changes-changes-profile-could/L5ZxabOIO_US_en_US",
+    "page": 3,
+    "summary": "Running into \"Error saving changes: Changes to your profile could not be saved\"? Here's the fix \u2014 without the guesswork. Get unstuck in minutes.",
+    "title": "Changes to your profile could not be saved\" error - QuickBooks"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/process-e-invoices/use-quickbooks-cash-account/L2dKdWFm9_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -36168,6 +36177,15 @@
     "page": 1,
     "summary": "SWOT stands for strengths, weaknesses, opportunities, and threats. A SWOT analysis is a planning tool that assesses these four factors in your business. It's a ...",
     "title": "SWOT Analysis Examples and a Free Template (2026)"
+   },
+   "shopify.com/blog/t-shirt-design-ideas": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-10-31T19:43:23Z",
+    "link": "https://www.shopify.com/blog/t-shirt-design-ideas",
+    "page": 2,
+    "summary": "Explore 10 T-shirt design ideas, from retro and funny to maximalist and artistic, to inspire your next project.",
+    "title": "T-Shirt Design Ideas: 15 Creative Examples (2026)"
    },
    "shopify.com/blog/tax-id-number": {
     "baseline": false,
