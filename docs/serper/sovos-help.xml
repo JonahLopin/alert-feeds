@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-31T12:42:37Z</updated>
+  <updated>2026-10-31T13:42:40Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://www.google.com/goto?url=CAESxAEB6zswFXLsnxlCwByZkXjeH8MWM586V1sooPsAOjx0WYf0KV2eqMzNGDkedQfZ1SrLm71wtjbMMbluiV5WgCdYzOSXFQUvFGs2djlNR2jXNHhQtmQE0hvWrDyQ8U9pOQjp2rZY1ipHswGdAitof_JUE1K0qoAVDQAHkgRxs0ipanYwqSVFXh8mkPA1ujz55E-U-oXB71yO3L2YG8buq6_v2Q15hjydtS371xsbn7VdhI5IsZmT2FAyHZN8ZBTjEv1mE15D</id>
+    <title>Check the status of IRS transmittals - Sovos Docs</title>
+    <link href="https://www.google.com/goto?url=CAESxAEB6zswFXLsnxlCwByZkXjeH8MWM586V1sooPsAOjx0WYf0KV2eqMzNGDkedQfZ1SrLm71wtjbMMbluiV5WgCdYzOSXFQUvFGs2djlNR2jXNHhQtmQE0hvWrDyQ8U9pOQjp2rZY1ipHswGdAitof_JUE1K0qoAVDQAHkgRxs0ipanYwqSVFXh8mkPA1ujz55E-U-oXB71yO3L2YG8buq6_v2Q15hjydtS371xsbn7VdhI5IsZmT2FAyHZN8ZBTjEv1mE15D" />
+    <published>2026-10-31T13:42:40Z</published>
+    <updated>2026-10-31T13:42:40Z</updated>
+    <summary>View whether your transmittals were accepted or need action directly in Sovos's Tax Information Reporting software.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESwwEB6zswFRKjynud-maVqxDXEJKuOncoJWUzBL8d7EkAFPWOE9zTdUNir_yKQ87hCRrAIFIeUB-Kf6Xm_9NQOj4_utccIOlfcI8VeWUqNe5J6VeaIlQtBOed5TQve1iY-5BwXzmCuQ1FF4n1jGnFEWCR2pLIXjMTB3iQCWq4dmbqUMdicvWrb-TRDQEcQd-tVeCZRDqM93pCGKyj8ZpqjI2ApWWvPnbwRy7ST45ogaio-0F2VNSJJ3lhV3hY9-P018DUpg4</id>
+    <title>Fix XML schema validation errors - Sovos Docs</title>
+    <link href="https://www.google.com/goto?url=CAESwwEB6zswFRKjynud-maVqxDXEJKuOncoJWUzBL8d7EkAFPWOE9zTdUNir_yKQ87hCRrAIFIeUB-Kf6Xm_9NQOj4_utccIOlfcI8VeWUqNe5J6VeaIlQtBOed5TQve1iY-5BwXzmCuQ1FF4n1jGnFEWCR2pLIXjMTB3iQCWq4dmbqUMdicvWrb-TRDQEcQd-tVeCZRDqM93pCGKyj8ZpqjI2ApWWvPnbwRy7ST45ogaio-0F2VNSJJ3lhV3hY9-P018DUpg4" />
+    <published>2026-10-31T13:42:40Z</published>
+    <updated>2026-10-31T13:42:40Z</updated>
+    <summary>Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESxAEB6zswFWlB0fAKUhH8KmTrXCZW1UdATvPIYSTKUND1xFXDI8RQZ41ARkEpCcs-fnEMk5vNNlKorpJqH_hkZ2fsL76mbn_nyBtIZzaQx_q8pFuWKLv00bwROYAmn5DwPyUBGuPqDRbxvvRUc98GzXyM5NmoBOjCVc2iEMcRmEcTseyXyK37A4Rcd8P29naDri8XKQAhhJq2hnYvqdg1AwWWQhSj6jz4mwRsfI5SWUdbOXrjTeEsQwUOVmFJMUoBF4S1WAao</id>
     <title>Check the status of IRS transmittals - Sovos Docs</title>
@@ -787,21 +803,5 @@
     <published>2026-10-15T14:11:25Z</published>
     <updated>2026-10-15T14:11:25Z</updated>
     <summary>ShipCompliant is transitioning to a new Sovos login system on February 10, 2026. This update provides enhanced security and streamlined access across Sovos ...</summary>
-  </entry>
-  <entry>
-    <id>https://docs.sovos.com/en/tax-determination/tax-determination-rest-api/tax-calculation-endpoints</id>
-    <title>Tax calculation endpoints - Sovos Docs</title>
-    <link href="https://docs.sovos.com/en/tax-determination/tax-determination-rest-api/tax-calculation-endpoints" />
-    <published>2026-10-15T04:11:36Z</published>
-    <updated>2026-10-15T04:11:36Z</updated>
-    <summary>The tax calculation endpoints are used to calculate sales and use tax for each line item on a document based on product characteristics, shipping addresses,</summary>
-  </entry>
-  <entry>
-    <id>https://docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/manage-your-password</id>
-    <title>Manage your password - Sovos Docs</title>
-    <link href="https://docs.sovos.com/en/1099-reporting/tax-information-reporting/access-your-account/manage-your-password" />
-    <published>2026-10-14T11:10:09Z</published>
-    <updated>2026-10-14T11:10:09Z</updated>
-    <summary>Reset password · Go to Sovos Home. · On the login screen, click Forgot password. · Enter your email address, then click Continue. · Check your email for a message ...</summary>
   </entry>
 </feed>
