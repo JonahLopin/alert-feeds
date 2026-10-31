@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-31T16:42:50Z</updated>
+  <updated>2026-10-31T17:42:34Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/global-payouts/send-money/apple-pay</id>
+    <title>Send payouts to Apple Pay</title>
+    <link href="https://docs.stripe.com/global-payouts/send-money/apple-pay" />
+    <published>2026-10-31T17:42:34Z</published>
+    <updated>2026-10-31T17:42:34Z</updated>
+    <summary>Stripe decrypts the token and returns a reusable PayoutMethod with an apple_pay hash containing the card's dynamic_last4 , last4 , exp_month , exp_year , ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/global-payouts/recipient-countries</id>
     <title>Supported recipient countries - Global Payouts</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>In many markets, regulations require invoices to be unique, sequential and / or gapless. You are responsible for ensuring this is true across all your different ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVr03sp3C_ZLRWWtpM-oCOlseuPI3Bj14VcPZ06fT1avqOFoimFAtBkz6YPd8HEe1P9JRlOkvO2z6bYT4F7yt7TwuCbrJNalEf3JVKnjfWc0H4Nz5XV9-8pp0QSVH5_ks2iQ</id>
-    <title>Finalize a quote | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVr03sp3C_ZLRWWtpM-oCOlseuPI3Bj14VcPZ06fT1avqOFoimFAtBkz6YPd8HEe1P9JRlOkvO2z6bYT4F7yt7TwuCbrJNalEf3JVKnjfWc0H4Nz5XV9-8pp0QSVH5_ks2iQ" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>A future timestamp on which the quote will be canceled if in open or draft status. Measured in seconds since the Unix epoch.</summary>
   </entry>
 </feed>

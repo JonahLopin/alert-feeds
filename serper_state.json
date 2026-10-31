@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 25017,
+  "credits_used": 25068,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-31T16:42:50Z",
+  "last_run": "2026-10-31T17:42:34Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 504
+  "runs": 505
  },
  "feeds": {
   "adp-help": {
@@ -11899,6 +11899,15 @@
     "summary": "This guide isn't a generic \"best bar POS\" list. It's about the specific tab, room, and check-management problems of Asian nightlife venues \u2014 izakayas, KTV/ ...",
     "title": "Bar POS for Izakayas, KTV Lounges & Asian Nightlife (2026)"
    },
+   "chowbus.com/blog/best-restaurant-inventory-management-tools-multi-concept-kitchen": {
+    "baseline": false,
+    "date_hint": "24 hours ago",
+    "first_seen": "2026-10-31T17:42:34Z",
+    "link": "https://www.chowbus.com/blog/best-restaurant-inventory-management-tools-multi-concept-kitchen",
+    "page": 1,
+    "summary": "A kitchen running one concept can get away with a rough inventory system \u2014 a clipboard count on Sunday, a gut-check reorder, a shrug when the numbers don't ...",
+    "title": "Best Restaurant Inventory Management Tools for a Multi ..."
+   },
    "chowbus.com/blog/best-self-ordering-kiosk-for-restaurants-2026": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -12049,6 +12058,15 @@
     "page": 1,
     "summary": "Repeat purchase rate. Third-party delivery customers come back to the marketplace, not to you. Direct online ordering customers come back to your URL or app.",
     "title": "The Best Restaurant Online Ordering System for 2026"
+   },
+   "chowbus.com/blog/why-restaurant-order-errors-spike-during-peak-hours": {
+    "baseline": false,
+    "date_hint": "17 hours ago",
+    "first_seen": "2026-10-31T17:42:34Z",
+    "link": "https://www.chowbus.com/blog/why-restaurant-order-errors-spike-during-peak-hours",
+    "page": 1,
+    "summary": "Because the volume of information a person has to process at once increases faster than their ability to catch small mistakes.",
+    "title": "Why Order Errors Spike During Peak Hours"
    },
    "google.com/goto?url=CAESdgHrOzAVrzMGRJYHyn8pwNxT5dN4rH5gvo6yhunV3dNkCtGATnIqlTy6w8o3mIpQVXwrRb1UXUSYJL8yrl7XGrabGKhFM1HpTOSFVh9NtKkPxLehYoTHmV8etgW8BJk9atsRbJl4GT9JcxxjcacyvBG2XjFe8Nk": {
     "baseline": false,
@@ -40405,6 +40423,15 @@
     "page": 1,
     "summary": "Learn which countries and currencies you can send payouts to with Global Payouts. Payouts to crypto wallets support a different set of countries.",
     "title": "Supported recipient countries - Global Payouts"
+   },
+   "docs.stripe.com/global-payouts/send-money/apple-pay": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-10-31T17:42:34Z",
+    "link": "https://docs.stripe.com/global-payouts/send-money/apple-pay",
+    "page": 2,
+    "summary": "Stripe decrypts the token and returns a reusable PayoutMethod with an apple_pay hash containing the card's dynamic_last4 , last4 , exp_month , exp_year , ...",
+    "title": "Send payouts to Apple Pay"
    },
    "docs.stripe.com/global-payouts/send-money/crypto-wallets": {
     "baseline": false,
