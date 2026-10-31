@@ -4227,6 +4227,12 @@
   }
  },
  "stripe-help": {
+  "tag:google.com,2013:googlealerts/feed:10091216470159376916": {
+   "first_seen": "2026-10-31T20:44:17Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/financial-addresses/credit-simulation/object",
+   "summary": "Attributes \u00b7 objectstring, value is \"v2.money_management.financial_address_credit_simulation\". String representing the object's type. \u00b7 livemodeboolean.",
+   "title": "The Financial Address Credit Simulation object | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:10107868530931068732": {
    "first_seen": "2026-10-15T22:43:44Z",
    "link": "https://docs.stripe.com/js/react_stripe_js/elements/other/card_number_element?__=&__readwiseLocation=&__s=1ngpkifa1w8cdaucpyke",
@@ -4437,6 +4443,12 @@
    "summary": "customer_details.address.line1nullable string. Address line 1, such as the street, PO Box, or company name.",
    "title": "The Tax Transaction object | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:16245616888216985293": {
+   "first_seen": "2026-10-31T20:44:17Z",
+   "link": "https://docs.stripe.com/api/tax/calculations/line_items/object?api-version=2026-09-30.endive",
+   "summary": "idstring. Unique identifier for the object. \u00b7 objectstring, value is \"tax.calculation_line_item\" \u00b7 amountinteger. The line item amount in the smallest ...",
+   "title": "The Tax Calculation Line Item object | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:16429654010882360719": {
    "first_seen": "2026-10-15T10:47:01Z",
    "link": "https://docs.stripe.com/payments/accept-a-payment-intent-first",
@@ -4454,6 +4466,12 @@
    "link": "https://docs.stripe.com/stripe-apps/in-app-analytics",
    "summary": "Allow an analytics or error monitoring service in your app manifest, then track onboarding progress, route transitions, errors, and blocked ...",
    "title": "In-app analytics and error monitoring | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:16613296218614820842": {
+   "first_seen": "2026-10-31T20:44:17Z",
+   "link": "https://docs.stripe.com/api/billing/alert/notifications/object",
+   "summary": "Start of the aggregation period for which this notification was sent. Only present for usage threshold alerts.",
+   "title": "The Billing Alert Notification object | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:16670148899943601293": {
    "first_seen": "2026-10-19T22:44:10Z",
@@ -4497,6 +4515,12 @@
    "summary": "Use Financial account reports to analyze activity that impacts your financial account balance and view data related to your payments activity.",
    "title": "Financial account report type | Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:18157486587410126877": {
+   "first_seen": "2026-10-31T20:44:17Z",
+   "link": "https://docs.stripe.com/api/radar/billing-evaluation/object?api-version=2026-09-30.preview",
+   "summary": "customer_details.customer_accountnullable string. The ID of the Account representing the customer whose upcoming payment was evaluated.",
+   "title": "The Billing Evaluation object | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:18392163744034660140": {
    "first_seen": "2026-10-20T22:44:24Z",
    "link": "https://docs.stripe.com/api/v2/money-management/payout-methods?api-version=2026-09-30.preview",
@@ -4508,6 +4532,12 @@
    "link": "https://docs.stripe.com/data/api/search",
    "summary": "The Data Search API returns ranked resource metadata, not query results. It doesn't execute SQL or reports. Request to join the preview for the Data ...",
    "title": "Search data resources - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:2304104750104020949": {
+   "first_seen": "2026-10-31T20:44:17Z",
+   "link": "https://docs.stripe.com/api/tax/location/object?api-version=2026-09-30.endive",
+   "summary": "Attributes \u00b7 idstring. Unique identifier for the object. \u00b7 objectstring, value is \"tax.location\" \u00b7 addressobject. An object representing the address of ...",
+   "title": "The Tax location object | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:2378811954673993430": {
    "first_seen": "2026-10-11T11:29:08Z",
@@ -4677,6 +4707,12 @@
    "summary": "For connected accounts with access to the full Stripe Dashboard or Express Dashboard, the account holder manages their external payout accounts (bank ...",
    "title": "Manage connected account payouts - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:8516076583997237301": {
+   "first_seen": "2026-10-31T20:44:17Z",
+   "link": "https://docs.stripe.com/global-payouts/supplemental-pricing-information",
+   "summary": "Global Payouts pricing includes the following fees: Per-payout fee: A fixed fee for each payout. Depending on your country, you get an allowance ...",
+   "title": "Supplemental pricing information | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:8539933108500043529": {
    "first_seen": "2026-10-19T22:44:10Z",
    "link": "https://docs.stripe.com/api/identity/verification_sessions/object?api-version=2026-07-29.preview",
@@ -4718,6 +4754,12 @@
    "link": "https://docs.stripe.com/payments/qris",
    "summary": "Quick Response Code Indonesian Standard (QRIS) is a real-time payment system developed by Bank Indonesia. Customers pay by scanning a QR code and ...",
    "title": "QRIS payments | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:9485492197073821934": {
+   "first_seen": "2026-10-31T20:44:17Z",
+   "link": "https://docs.stripe.com/global-payouts/recipient-countries",
+   "summary": "Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).",
+   "title": "Supported recipient countries - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:9850902256530377436": {
    "first_seen": "2026-10-20T22:44:24Z",

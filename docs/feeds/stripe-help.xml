@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-10-30T16:43:50Z</updated>
+  <updated>2026-10-31T20:44:17Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:9485492197073821934</id>
+    <title>Supported recipient countries - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/global-payouts/recipient-countries" />
+    <published>2026-10-31T20:44:17Z</published>
+    <updated>2026-10-31T20:44:17Z</updated>
+    <summary>Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8516076583997237301</id>
+    <title>Supplemental pricing information | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/global-payouts/supplemental-pricing-information" />
+    <published>2026-10-31T20:44:17Z</published>
+    <updated>2026-10-31T20:44:17Z</updated>
+    <summary>Global Payouts pricing includes the following fees: Per-payout fee: A fixed fee for each payout. Depending on your country, you get an allowance ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:2304104750104020949</id>
+    <title>The Tax location object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/tax/location/object?api-version=2026-09-30.endive" />
+    <published>2026-10-31T20:44:17Z</published>
+    <updated>2026-10-31T20:44:17Z</updated>
+    <summary>Attributes · idstring. Unique identifier for the object. · objectstring, value is "tax.location" · addressobject. An object representing the address of ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:18157486587410126877</id>
+    <title>The Billing Evaluation object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/radar/billing-evaluation/object?api-version=2026-09-30.preview" />
+    <published>2026-10-31T20:44:17Z</published>
+    <updated>2026-10-31T20:44:17Z</updated>
+    <summary>customer_details.customer_accountnullable string. The ID of the Account representing the customer whose upcoming payment was evaluated.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:16613296218614820842</id>
+    <title>The Billing Alert Notification object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/billing/alert/notifications/object" />
+    <published>2026-10-31T20:44:17Z</published>
+    <updated>2026-10-31T20:44:17Z</updated>
+    <summary>Start of the aggregation period for which this notification was sent. Only present for usage threshold alerts.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:16245616888216985293</id>
+    <title>The Tax Calculation Line Item object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/tax/calculations/line_items/object?api-version=2026-09-30.endive" />
+    <published>2026-10-31T20:44:17Z</published>
+    <updated>2026-10-31T20:44:17Z</updated>
+    <summary>idstring. Unique identifier for the object. · objectstring, value is "tax.calculation_line_item" · amountinteger. The line item amount in the smallest ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:10091216470159376916</id>
+    <title>The Financial Address Credit Simulation object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/financial-addresses/credit-simulation/object" />
+    <published>2026-10-31T20:44:17Z</published>
+    <updated>2026-10-31T20:44:17Z</updated>
+    <summary>Attributes · objectstring, value is "v2.money_management.financial_address_credit_simulation". String representing the object's type. · livemodeboolean.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:2513473975994533956</id>
     <title>Recipient Verifications | Stripe API Reference</title>
