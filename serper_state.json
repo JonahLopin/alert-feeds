@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 25666,
+  "credits_used": 25717,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T06:10:55Z",
+  "last_run": "2026-11-01T07:06:44Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 517
+  "runs": 518
  },
  "feeds": {
   "adp-help": {
@@ -40312,6 +40312,15 @@
     "summary": "A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...",
     "title": "List all transfers | Stripe API Reference"
    },
+   "docs.stripe.com/api/v2/core/accounts/retrieve?api-version=2026-10-28.preview": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T07:06:44Z",
+    "link": "https://docs.stripe.com/api/v2/core/accounts/retrieve?api-version=2026-10-28.preview",
+    "page": 5,
+    "summary": "Retrieves the details of an Account. Learn more about calling API v2 endpoints. Parameters. includearray of enums. Additional fields to include in the ...",
+    "title": "Retrieve an account v2"
+   },
    "docs.stripe.com/api/v2/money-management/financial-addresses/credit-simulation/object": {
     "baseline": false,
     "date_hint": "8 hours ago",
@@ -40347,6 +40356,15 @@
     "page": 2,
     "summary": "RecipientVerification represents a verification of recipient you intend to send funds to. Learn more about calling API v2 endpoints. Was this section helpful?",
     "title": "Recipient Verifications | Stripe API Reference"
+   },
+   "docs.stripe.com/api/v2/signals/account-activities/create?api-version=2026-10-28.preview": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T07:06:44Z",
+    "link": "https://docs.stripe.com/api/v2/signals/account-activities/create?api-version=2026-10-28.preview",
+    "page": 5,
+    "summary": "The type of activity. Possible enum values. login_attempt. A reported account login attempt. login_decision. A reported decision ...",
+    "title": "Create an Account Activity v2"
    },
    "docs.stripe.com/billing/subscriptions/au-becs-debit": {
     "baseline": false,

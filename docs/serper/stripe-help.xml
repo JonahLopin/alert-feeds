@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-01T05:06:47Z</updated>
+  <updated>2026-11-01T07:06:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/v2/signals/account-activities/create?api-version=2026-10-28.preview</id>
+    <title>Create an Account Activity v2</title>
+    <link href="https://docs.stripe.com/api/v2/signals/account-activities/create?api-version=2026-10-28.preview" />
+    <published>2026-11-01T07:06:44Z</published>
+    <updated>2026-11-01T07:06:44Z</updated>
+    <summary>The type of activity. Possible enum values. login_attempt. A reported account login attempt. login_decision. A reported decision ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/v2/core/accounts/retrieve?api-version=2026-10-28.preview</id>
+    <title>Retrieve an account v2</title>
+    <link href="https://docs.stripe.com/api/v2/core/accounts/retrieve?api-version=2026-10-28.preview" />
+    <published>2026-11-01T07:06:44Z</published>
+    <updated>2026-11-01T07:06:44Z</updated>
+    <summary>Retrieves the details of an Account. Learn more about calling API v2 endpoints. Parameters. includearray of enums. Additional fields to include in the ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payments/ideal/set-up-payment</id>
     <title>Use iDEAL | Wero to set up future SEPA Direct Debit</title>
@@ -787,21 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>Unique identifier for the object. Returns. Returns the alert with its updated status. Server-side language. cURL. cURL. Stripe CLI. Ruby. Python. PHP. Java.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbwHrOzAV5xmdbsK8WA6dDeGtSupqqzi3ZGSk-iuPjyDV814kd8J258EDRwerxV-kkEbjgrbBk4TRPMdb0j7vNTFAxLYAc_qVemy0kkBePvBZ1H6wBcAzH--LdZ8NwHAlmfbP1vvIblk3vVzNNQTZcw</id>
-    <title>Create a Checkout Session | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESbwHrOzAV5xmdbsK8WA6dDeGtSupqqzi3ZGSk-iuPjyDV814kd8J258EDRwerxV-kkEbjgrbBk4TRPMdb0j7vNTFAxLYAc_qVemy0kkBePvBZ1H6wBcAzH--LdZ8NwHAlmfbP1vvIblk3vVzNNQTZcw" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>The URL to which Stripe should send customers when payment or setup is complete. This parameter is not allowed if ui_mode is embedded_page or elements . If you' ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbgHrOzAV7mUwIn3FmUomk5E6YxNUdiKENJaM8PD45-86FERaZVYdRR64qigpxYDU4LLiBej9jSY3c9rDMB3xcv6Hp6drl5B9FP4-_AYklK1SYn3DHmo8Z7ECzXT_4-Tur0ndiNIZ9Mv78T4889Wq</id>
-    <title>Create a Reader | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESbgHrOzAV7mUwIn3FmUomk5E6YxNUdiKENJaM8PD45-86FERaZVYdRR64qigpxYDU4LLiBej9jSY3c9rDMB3xcv6Hp6drl5B9FP4-_AYklK1SYn3DHmo8Z7ECzXT_4-Tur0ndiNIZ9Mv78T4889Wq" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.</summary>
   </entry>
 </feed>
