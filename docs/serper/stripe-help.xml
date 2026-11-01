@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-01T03:08:53Z</updated>
+  <updated>2026-11-01T05:06:47Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/payments/ideal/set-up-payment</id>
+    <title>Use iDEAL | Wero to set up future SEPA Direct Debit</title>
+    <link href="https://docs.stripe.com/payments/ideal/set-up-payment" />
+    <published>2026-11-01T05:06:47Z</published>
+    <updated>2026-11-01T05:06:47Z</updated>
+    <summary>To use iDEAL | Wero to set up SEPA Direct Debit payments, you must activate SEPA Direct Debit in the Dashboard. You must also comply with the iDEAL Terms of ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payments/save-and-reuse?locale=en-GB</id>
     <title>Save a customer's payment method without making ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbQHrOzAV0LuEGT4dRBOcNMyPAPOHdRluhREhila8nk2NDG0_x2M_i7D-cvX9xjENn5HAPGru-4QW-PlwJYmuYGqM-z4AtHN5Au53IDp1I-pqjDjGZY0BBrkYeOh7pYyYUGUFe_kkHnTm7iwC1G4</id>
-    <title>The PaymentIntent object | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESbQHrOzAV0LuEGT4dRBOcNMyPAPOHdRluhREhila8nk2NDG0_x2M_i7D-cvX9xjENn5HAPGru-4QW-PlwJYmuYGqM-z4AtHN5Au53IDp1I-pqjDjGZY0BBrkYeOh7pYyYUGUFe_kkHnTm7iwC1G4" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>This field indicates whether this payment method can be shown again to its customer in a checkout flow. Stripe products such as Checkout and Elements use this ...</summary>
   </entry>
 </feed>

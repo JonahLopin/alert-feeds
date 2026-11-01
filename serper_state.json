@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 25564,
+  "credits_used": 25615,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T04:08:14Z",
+  "last_run": "2026-11-01T05:06:47Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 515
+  "runs": 516
  },
  "feeds": {
   "adp-help": {
@@ -40720,6 +40720,15 @@
     "summary": "You can use the Stripe API to accept gift card payments and perform operations such as activation, balance inquiries, reloads, cash out, and voids.",
     "title": "Gift card payments"
    },
+   "docs.stripe.com/payments/ideal/set-up-payment": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T05:06:47Z",
+    "link": "https://docs.stripe.com/payments/ideal/set-up-payment",
+    "page": 1,
+    "summary": "To use iDEAL | Wero to set up SEPA Direct Debit payments, you must activate SEPA Direct Debit in the Dashboard. You must also comply with the iDEAL Terms of ...",
+    "title": "Use iDEAL | Wero to set up future SEPA Direct Debit"
+   },
    "docs.stripe.com/payments/ideal/set-up-payment?payment-ui=mobile&platform=android": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -51362,6 +51371,15 @@
     "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting; ...",
     "title": "Wolters Kluwer completes acquisition of Registered Agent ..."
    },
+   "wolterskluwer.com/en/news/wolters-kluwer-completes-capital-reduction-2026": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-01T05:06:47Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-completes-capital-reduction-2026",
+    "page": 1,
+    "summary": "Wolters Kluwer, a global leader in information solutions, software and services, announces today that it has completed the reduction in share capital approved ...",
+    "title": "Wolters Kluwer completes capital reduction"
+   },
    "wolterskluwer.com/en/news/wolters-kluwer-equips-primary-care-providers-tools-meet-burgeoning-mental-health-demand": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -51566,6 +51584,15 @@
     "page": 3,
     "summary": "\u201cFifty years ago, this renowned text originated as an idea by the founding editor, Dr. Harold Kaplan, who felt it was absolutely necessary that there be a book ...",
     "title": "Wolters Kluwer Publishes 10th Edition Kaplan and ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-publishes-agenda-for-2026-annual-general-meeting": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-01T05:06:47Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-publishes-agenda-for-2026-annual-general-meeting",
+    "page": 1,
+    "summary": "Wolters Kluwer, a global leader in professional information solutions, software, and services, to be held on May 21, 2026.",
+    "title": "Wolters Kluwer publishes agenda for 2026 Annual General ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-shows-its-ecosystem-in-italy-at-national-notaries-congress": {
     "baseline": false,
