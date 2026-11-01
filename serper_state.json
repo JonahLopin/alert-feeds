@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 25869,
+  "credits_used": 25920,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T10:06:06Z",
+  "last_run": "2026-11-01T11:05:41Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 521
+  "runs": 522
  },
  "feeds": {
   "adp-help": {
@@ -36839,6 +36839,15 @@
     "summary": "Version 5.15 of Tax Determination. New and improved. Products page. We added inline editing to the Suggested product tax codes table.",
     "title": "September 3, 2026 | Product Documentation Documentation"
    },
+   "docs.sovos.com/en/tax-determination/tax-determination/support/create-a-support-case": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-01T11:05:41Z",
+    "link": "https://docs.sovos.com/en/tax-determination/tax-determination/support/create-a-support-case",
+    "page": 1,
+    "summary": "Follow these steps to contact the support team. Go to the Sovos Portal. then click Create a case. . Review the case details, then click Submit case.",
+    "title": "Create a support case - Sovos Docs"
+   },
    "docs.sovos.com/en/unclaimed-property/reportmyup/add-and-manage-users/edit-users/edit-users-reportmyup-plus": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -40329,6 +40338,15 @@
     "page": 3,
     "summary": "A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...",
     "title": "List all transfers | Stripe API Reference"
+   },
+   "docs.stripe.com/api/v2/core/accounts/object": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T11:05:41Z",
+    "link": "https://docs.stripe.com/api/v2/core/accounts/object",
+    "page": 5,
+    "summary": "An Account represents a company, individual, or other entity that a user interacts with. Accounts store identity information and one or more configurations that ...",
+    "title": "The Account object | Stripe API Reference"
    },
    "docs.stripe.com/api/v2/core/accounts/retrieve?api-version=2026-10-28.preview": {
     "baseline": false,

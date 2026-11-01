@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-01T10:06:06Z</updated>
+  <updated>2026-11-01T11:05:41Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/v2/core/accounts/object</id>
+    <title>The Account object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/core/accounts/object" />
+    <published>2026-11-01T11:05:41Z</published>
+    <updated>2026-11-01T11:05:41Z</updated>
+    <summary>An Account represents a company, individual, or other entity that a user interacts with. Accounts store identity information and one or more configurations that ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/subscriptions/search</id>
     <title>Search subscriptions | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>starting_afterstring. A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEScQHrOzAVjCYT3jiM47IQEgkyxIcxe-PBap5HQRN9EnywxaVHu89o4Ihw9PnrTkhiDh_nXKx7kQMuT2YNbWWnD_SCTl3AXAhuVPQF6oYRZkxU4ohBZ-KyzKURIpE8hPmlCMxyNFiCbvSRXrP63aqo7Iil</id>
-    <title>QRIS Payments</title>
-    <link href="https://www.google.com/goto?url=CAEScQHrOzAVjCYT3jiM47IQEgkyxIcxe-PBap5HQRN9EnywxaVHu89o4Ihw9PnrTkhiDh_nXKx7kQMuT2YNbWWnD_SCTl3AXAhuVPQF6oYRZkxU4ohBZ-KyzKURIpE8hPmlCMxyNFiCbvSRXrP63aqo7Iil" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>(QRIS) is a real time payment system developed by the Bank of Indonesia. The service works by instantly transferring funds between two bank accounts.</summary>
   </entry>
 </feed>

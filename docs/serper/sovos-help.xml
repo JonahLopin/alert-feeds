@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-10-31T15:42:45Z</updated>
+  <updated>2026-11-01T11:05:41Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/tax-determination/tax-determination/support/create-a-support-case</id>
+    <title>Create a support case - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/tax-determination/tax-determination/support/create-a-support-case" />
+    <published>2026-11-01T11:05:41Z</published>
+    <updated>2026-11-01T11:05:41Z</updated>
+    <summary>Follow these steps to contact the support team. Go to the Sovos Portal. then click Create a case. . Review the case details, then click Submit case.</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESxAEB6zswFaMZISl34pavPFo1w_qTTumSVHhW0MmbYv1LJHlg8WexeydWGvQIiPcBfKDZ480dTZWYp0_y9yDlwGB4Hu2eZBDN0oHb-RJt3jRYcEbS1KdVXaGlrT4C_y_bAG7vwRDO-2fX3Wds1nwMkaxCDJZ7FEUyEjpp00MUMEHcwDExvAKifoPYMf-2up2KjCks3lWziLIrC-u1i4ecjXjvIyyU4EJP-GEeJhSfPJlcuuhkCZBxWiz4xs5p1K_NWiDY2Xo-</id>
     <title>Check the status of IRS transmittals - Sovos Docs</title>
@@ -795,13 +803,5 @@
     <published>2026-10-16T11:45:46Z</published>
     <updated>2026-10-16T11:45:46Z</updated>
     <summary>Find solutions to errors you might encounter when uploading data in Batch Determination. File upload errors. Unable to upload file.</summary>
-  </entry>
-  <entry>
-    <id>https://docs.sovos.com/en/tax-determination/tax-determination/release-notes/create-your-new-sovos-login</id>
-    <title>Create your new Sovos login | Product Documentation ...</title>
-    <link href="https://docs.sovos.com/en/tax-determination/tax-determination/release-notes/create-your-new-sovos-login" />
-    <published>2026-10-16T05:30:58Z</published>
-    <updated>2026-10-16T05:30:58Z</updated>
-    <summary>The new login gives you access to all your Sovos products through a single account. UAT and Production each require their own login.</summary>
   </entry>
 </feed>
