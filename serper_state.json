@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 26123,
+  "credits_used": 26173,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T15:05:31Z",
+  "last_run": "2026-11-01T16:06:28Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 526
+  "runs": 527
  },
  "feeds": {
   "adp-help": {
@@ -11680,6 +11680,15 @@
     "page": 3,
     "summary": "Weil Gotshal & Manges plans to wind down its operations, its leaders told partners on Wednesday, according to a source briefed on the decision.",
     "title": "Weil Gotshal to Wind Down in Stunning Fall for ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/weil-gotshals-95-year-history-careened-to-a-close-in-just-days": {
+    "baseline": false,
+    "date_hint": "23 hours ago",
+    "first_seen": "2026-11-01T16:06:28Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/weil-gotshals-95-year-history-careened-to-a-close-in-just-days",
+    "page": 1,
+    "summary": "For restructuring lawyers at Weil Gotshal & Manges, a golf and tennis outing in New Jersey last month was meant to be celebratory.",
+    "title": "Weil Gotshal's 95-Year History Careened to a Close in Just ..."
    },
    "news.bloomberglaw.com/business-and-practice/weil-gotshals-closest-relationship-cost-the-firm-everything": {
     "baseline": false,
@@ -40098,6 +40107,15 @@
     "summary": "Returns an Account object if the call succeeds. If the account ID does not exist, this call raises an error. curl https://api.",
     "title": "Retrieve account | Stripe API Reference"
    },
+   "docs.stripe.com/api/balance": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T16:06:28Z",
+    "link": "https://docs.stripe.com/api/balance",
+    "page": 5,
+    "summary": "This is an object representing your Stripe balance. You can retrieve it to see the balance currently on your Stripe account. The top-level available and pending comprise your \u201cpayments balance.\u201d Related guide: Balances and settlement time, Understanding Connect account balances",
+    "title": "Balances | Stripe API Reference"
+   },
    "docs.stripe.com/api/billing/alert/create": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -40214,6 +40232,15 @@
     "summary": "A cursor for use in pagination. ending_before is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...",
     "title": "List Account Owners | Stripe API Reference"
    },
+   "docs.stripe.com/api/identity/verification_reports": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T16:06:28Z",
+    "link": "https://docs.stripe.com/api/identity/verification_reports",
+    "page": 5,
+    "summary": "A VerificationReport is the result of an attempt to collect and verify data from a user. The collection of verification checks performed is determined from the type and options parameters used. You can find the result of each verification check performed in the appropriate sub-resource: document, id _ number, selfie. Each VerificationReport contains a copy of any data collected by the user as ...",
+    "title": "Verification Reports | Stripe API Reference"
+   },
    "docs.stripe.com/api/identity/verification_sessions/create": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -40222,6 +40249,15 @@
     "page": 4,
     "summary": "A string to reference this user. This can be a customer ID, a session ID, or similar, and can be used to reconcile this verification with your internal systems.",
     "title": "Create a VerificationSession | Stripe API Reference"
+   },
+   "docs.stripe.com/api/invoices/object": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T16:06:28Z",
+    "link": "https://docs.stripe.com/api/invoices/object",
+    "page": 3,
+    "summary": "ID of the default payment source for the invoice. It must belong to the customer associated with the invoice and be in a chargeable state. If not set, defaults ...",
+    "title": "The Invoice object | Stripe API Reference"
    },
    "docs.stripe.com/api/invoices/send": {
     "baseline": false,
@@ -40250,6 +40286,15 @@
     "summary": "Answers to prompts presented to the cardholder at the point of sale. Prompted fields vary depending on the configuration of your physical fleet cards.",
     "title": "Create a test-mode unlinked refund | Stripe API Reference"
    },
+   "docs.stripe.com/api/issuing/transactions/update": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T16:06:28Z",
+    "link": "https://docs.stripe.com/api/issuing/transactions/update",
+    "page": 5,
+    "summary": "Returns Returns an updated Issuing Transaction object if a valid identifier was provided.",
+    "title": "Update a transaction | Stripe API Reference"
+   },
    "docs.stripe.com/api/payment_intents": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -40268,6 +40313,15 @@
     "summary": "This field indicates whether this payment method can be shown again to its customer in a checkout flow. Stripe products such as Checkout and Elements use this ...",
     "title": "The PaymentIntent object | Stripe API Reference"
    },
+   "docs.stripe.com/api/plans/retrieve": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T16:06:28Z",
+    "link": "https://docs.stripe.com/api/plans/retrieve",
+    "page": 5,
+    "summary": "Returns Returns a plan if a valid plan ID was provided. Raises an error otherwise.",
+    "title": "Retrieve a plan | Stripe API Reference"
+   },
    "docs.stripe.com/api/product-feature/list": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -40285,6 +40339,15 @@
     "page": 3,
     "summary": "A future timestamp on which the quote will be canceled if in open or draft status. Measured in seconds since the Unix epoch.",
     "title": "Finalize a quote | Stripe API Reference"
+   },
+   "docs.stripe.com/api/request_ids": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T16:06:28Z",
+    "link": "https://docs.stripe.com/api/request_ids",
+    "page": 5,
+    "summary": "Each API request has an associated request identifier. You can find this value in the response headers, under Request-Id. You can also find request identifiers in the URLs of individual request logs in your Dashboard. To expedite the resolution process, provide the request identifier when you contact us about a specific request.",
+    "title": "Request IDs | Stripe API Reference"
    },
    "docs.stripe.com/api/sigma/scheduled_queries/object?api-version=2026-10-28.preview": {
     "baseline": false,
@@ -40366,6 +40429,15 @@
     "summary": "The Standalone 3DS API allows you to run EMV 3D Secure (3DS) authentication using Stripe while authorizing the payment with any PSP. Related guide: Standalone ...",
     "title": "3DS Authentications | Stripe API Reference"
    },
+   "docs.stripe.com/api/transfers": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T16:06:28Z",
+    "link": "https://docs.stripe.com/api/transfers",
+    "page": 5,
+    "summary": "A Transfer object is created when you move funds between Stripe accounts as part of Connect. Before April 6, 2017, transfers also represented movement of funds from a Stripe account to a card or bank account. This behavior has since been split out into a Payout object, with corresponding payout endpoints. For more information, read about the transfer/payout split. Related guide: Creating ...",
+    "title": "Transfers | Stripe API Reference"
+   },
    "docs.stripe.com/api/transfers/list": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -40374,6 +40446,15 @@
     "page": 3,
     "summary": "A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...",
     "title": "List all transfers | Stripe API Reference"
+   },
+   "docs.stripe.com/api/v2/core/account-tokens/object": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T16:06:28Z",
+    "link": "https://docs.stripe.com/api/v2/core/account-tokens/object",
+    "page": 5,
+    "summary": "Has the value true if the token exists in live mode or the value false if the object exists in test mode.",
+    "title": "The Account Token object | Stripe API Reference"
    },
    "docs.stripe.com/api/v2/core/accounts/object": {
     "baseline": false,

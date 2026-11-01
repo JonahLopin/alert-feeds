@@ -2,8 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-01T13:05:56Z</updated>
+  <updated>2026-11-01T16:06:28Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/v2/core/account-tokens/object</id>
+    <title>The Account Token object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/core/account-tokens/object" />
+    <published>2026-11-01T16:06:28Z</published>
+    <updated>2026-11-01T16:06:28Z</updated>
+    <summary>Has the value true if the token exists in live mode or the value false if the object exists in test mode.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/transfers</id>
+    <title>Transfers | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/transfers" />
+    <published>2026-11-01T16:06:28Z</published>
+    <updated>2026-11-01T16:06:28Z</updated>
+    <summary>A Transfer object is created when you move funds between Stripe accounts as part of Connect. Before April 6, 2017, transfers also represented movement of funds from a Stripe account to a card or bank account. This behavior has since been split out into a Payout object, with corresponding payout endpoints. For more information, read about the transfer/payout split. Related guide: Creating ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/request_ids</id>
+    <title>Request IDs | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/request_ids" />
+    <published>2026-11-01T16:06:28Z</published>
+    <updated>2026-11-01T16:06:28Z</updated>
+    <summary>Each API request has an associated request identifier. You can find this value in the response headers, under Request-Id. You can also find request identifiers in the URLs of individual request logs in your Dashboard. To expedite the resolution process, provide the request identifier when you contact us about a specific request.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/plans/retrieve</id>
+    <title>Retrieve a plan | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/plans/retrieve" />
+    <published>2026-11-01T16:06:28Z</published>
+    <updated>2026-11-01T16:06:28Z</updated>
+    <summary>Returns Returns a plan if a valid plan ID was provided. Raises an error otherwise.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/issuing/transactions/update</id>
+    <title>Update a transaction | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/issuing/transactions/update" />
+    <published>2026-11-01T16:06:28Z</published>
+    <updated>2026-11-01T16:06:28Z</updated>
+    <summary>Returns Returns an updated Issuing Transaction object if a valid identifier was provided.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/invoices/object</id>
+    <title>The Invoice object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/invoices/object" />
+    <published>2026-11-01T16:06:28Z</published>
+    <updated>2026-11-01T16:06:28Z</updated>
+    <summary>ID of the default payment source for the invoice. It must belong to the customer associated with the invoice and be in a chargeable state. If not set, defaults ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/identity/verification_reports</id>
+    <title>Verification Reports | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/identity/verification_reports" />
+    <published>2026-11-01T16:06:28Z</published>
+    <updated>2026-11-01T16:06:28Z</updated>
+    <summary>A VerificationReport is the result of an attempt to collect and verify data from a user. The collection of verification checks performed is determined from the type and options parameters used. You can find the result of each verification check performed in the appropriate sub-resource: document, id _ number, selfie. Each VerificationReport contains a copy of any data collected by the user as ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/balance</id>
+    <title>Balances | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/balance" />
+    <published>2026-11-01T16:06:28Z</published>
+    <updated>2026-11-01T16:06:28Z</updated>
+    <summary>This is an object representing your Stripe balance. You can retrieve it to see the balance currently on your Stripe account. The top-level available and pending comprise your “payments balance.” Related guide: Balances and settlement time, Understanding Connect account balances</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/billing/alert/create</id>
     <title>Create a billing alert | Stripe API Reference</title>
@@ -739,69 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESfAHrOzAV-eRUrpPO5k1MUV81dfNGo_jsidVsMNzNhEB4tOmChrRI9ycQVDUd3XNj73cSzVIsMwnSk9t-WKpN5bQMN-SU6zzZqm0jPES139maWl3AIP2fYap4LGHEM8EhTjC6jLQ0aKE2q-rmBMhs1kUd5EpRAMMRDSnLHK0</id>
-    <title>Create a VerificationSession | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESfAHrOzAV-eRUrpPO5k1MUV81dfNGo_jsidVsMNzNhEB4tOmChrRI9ycQVDUd3XNj73cSzVIsMwnSk9t-WKpN5bQMN-SU6zzZqm0jPES139maWl3AIP2fYap4LGHEM8EhTjC6jLQ0aKE2q-rmBMhs1kUd5EpRAMMRDSnLHK0" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>A string to reference this user. This can be a customer ID, a session ID, or similar, and can be used to reconcile this verification with your internal systems.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESewHrOzAVQnpiWBArc2JmliQkGmcUsC84ZQUI96u7T1runiS0kRu-ofAAvUcDuSVDdwWvbZE-rxTb7nxr-YXtyN2pPasAwh18F2dzMSoDFALTfplGAK7ZuMVa8K5tNHnaJGyHpLoaXeTMoB-2IxjuD2AepxRPhb9Z99p8rw</id>
-    <title>Send payouts with crypto - stablecoin</title>
-    <link href="https://www.google.com/goto?url=CAESewHrOzAVQnpiWBArc2JmliQkGmcUsC84ZQUI96u7T1runiS0kRu-ofAAvUcDuSVDdwWvbZE-rxTb7nxr-YXtyN2pPasAwh18F2dzMSoDFALTfplGAK7ZuMVa8K5tNHnaJGyHpLoaXeTMoB-2IxjuD2AepxRPhb9Z99p8rw" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>Send payouts from your financial account to your recipients' external crypto wallets in more than 160 countries. Recipients receive stablecoins over a supported ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESegHrOzAVkSvjSiUQBsuN7k12b0TYdKmKjs3pFIwKS3tr1aQWbdsZUPAlytfXYBUmI9fq3fioVz51pja1ZkCR50ar0fHQ3Fe4Jumdb2VTl3rq2mh2UoOt-nZoqlfcByM1J5WgCygE-HK0T12xo7jCqKlUL_BwsYfHcFSV</id>
-    <title>Financial account report type</title>
-    <link href="https://www.google.com/goto?url=CAESegHrOzAVkSvjSiUQBsuN7k12b0TYdKmKjs3pFIwKS3tr1aQWbdsZUPAlytfXYBUmI9fq3fioVz51pja1ZkCR50ar0fHQ3Fe4Jumdb2VTl3rq2mh2UoOt-nZoqlfcByM1J5WgCygE-HK0T12xo7jCqKlUL_BwsYfHcFSV" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>Use Financial account reports to analyze activity that impacts your financial account balance and view data related to your payments activity.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESegHrOzAVNQOjar9mGWSSaz8MI7PjjZAm49wzYbsbBRVk_q2EogCikvqNFySpmjzXwjzdqY-aEi14Oso8TUg5VZKdXWoSGTo7WrCTRj0Je6lWvtgmPSo3nveS2FQfM_8leVy2h97ZBDBuK127UMq5QXyZlr_JinPt6A0d</id>
-    <title>Enable tax by default for subscriptions</title>
-    <link href="https://www.google.com/goto?url=CAESegHrOzAVNQOjar9mGWSSaz8MI7PjjZAm49wzYbsbBRVk_q2EogCikvqNFySpmjzXwjzdqY-aEi14Oso8TUg5VZKdXWoSGTo7WrCTRj0Je6lWvtgmPSo3nveS2FQfM_8leVy2h97ZBDBuK127UMq5QXyZlr_JinPt6A0d" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>Use the Tax integration configuration API to enable automatic tax on subscriptions and understand how later updates affect tax collection.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESeQHrOzAVi9Orju-Go1zFkk3_Iln_kkXSkR_-4UOsK-gwAFMii2ivZGjqDKwwcR0vkgviSVXZglKFv3Kpzu-SzrgganGe_TAQE7mcPlUL3eUAMAywvv0wnYXjaateHBz1Ko-Q5Pf0eH7LL1MHF_EnC8oYc8MhOX-hXQI</id>
-    <title>Payout Intents v2 - Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESeQHrOzAVi9Orju-Go1zFkk3_Iln_kkXSkR_-4UOsK-gwAFMii2ivZGjqDKwwcR0vkgviSVXZglKFv3Kpzu-SzrgganGe_TAQE7mcPlUL3eUAMAywvv0wnYXjaateHBz1Ko-Q5Pf0eH7LL1MHF_EnC8oYc8MhOX-hXQI" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>PayoutIntent represents an intent to send funds from a Financial Account to a payout method. Learn more about calling API v2 endpoints. Was this section helpful ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdgHrOzAVayL8rgoiGaWiJPQb_nsZlaAo0CCs0UC55MITAJZ93eFZQ5XCQ3RpFBxT4qGIcy47ZP83bsUvf-cxxkLs36ZXdRHF_gHar28z247Ex1XlpFDv1hwo7UwzzYB-xvtCNEuGkIE08oEBvSpgyhB_eelcnzA</id>
-    <title>Create a portal session | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESdgHrOzAVayL8rgoiGaWiJPQb_nsZlaAo0CCs0UC55MITAJZ93eFZQ5XCQ3RpFBxT4qGIcy47ZP83bsUvf-cxxkLs36ZXdRHF_gHar28z247Ex1XlpFDv1hwo7UwzzYB-xvtCNEuGkIE08oEBvSpgyhB_eelcnzA" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>The ID of an existing configuration to use for this session, describing its functionality and features. If not specified, the session uses the default ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdgHrOzAV9xXpPwl0__12tog6M0vB2l75dYa_MBd0SSXBDd2wrPVtZj3FO7yjUPnIN-KPh0MQAMgbnGVywBXRDI_3zS0C6L7e4XhHRduoReEA-S6uvAJXBiquuQh7-1_4d8TdxWZoaoCxyBmm8LP7yytLwhcgyOo</id>
-    <title>Set up a subscription with BECS Direct Debit in Australia</title>
-    <link href="https://www.google.com/goto?url=CAESdgHrOzAV9xXpPwl0__12tog6M0vB2l75dYa_MBd0SSXBDd2wrPVtZj3FO7yjUPnIN-KPh0MQAMgbnGVywBXRDI_3zS0C6L7e4XhHRduoReEA-S6uvAJXBiquuQh7-1_4d8TdxWZoaoCxyBmm8LP7yytLwhcgyOo" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>Learn how to create and charge for a subscription with BECS Direct Debit. Create a product and price Dashboard monthly subscription. Select a Product tax code.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdQHrOzAVLbo7cP2giTVe0wCzcIYSCdWge07oBjnv6arrq_r1mAy14bqpuRVcVvD0HDzaT7NBYTXCpsSu7hhfWgCi-8NeMDWFBNd9HfPS0BILOxMTXdxm7LboEZKTu5yZrquYQzjstiQYdJLXWp2OQz1J0Z-CYQ</id>
-    <title>Supported recipient countries - Global Payouts</title>
-    <link href="https://www.google.com/goto?url=CAESdQHrOzAVLbo7cP2giTVe0wCzcIYSCdWge07oBjnv6arrq_r1mAy14bqpuRVcVvD0HDzaT7NBYTXCpsSu7hhfWgCi-8NeMDWFBNd9HfPS0BILOxMTXdxm7LboEZKTu5yZrquYQzjstiQYdJLXWp2OQz1J0Z-CYQ" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>Learn which countries and currencies you can send payouts to with Global Payouts. Payouts to crypto wallets support a different set of countries.</summary>
   </entry>
 </feed>
