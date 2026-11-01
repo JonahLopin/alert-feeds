@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 25920,
+  "credits_used": 25971,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T11:05:41Z",
+  "last_run": "2026-11-01T12:08:41Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 522
+  "runs": 523
  },
  "feeds": {
   "adp-help": {
@@ -22964,6 +22964,15 @@
     "page": 2,
     "summary": "Here's how to create and edit custom fields in QuickBooks Online \u2014 the right way, the first time. See exactly how below.",
     "title": "Create and edit custom fields - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/reclassify-transactions/categorize-bank-transactions-quickbooks/L7mBx12na_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-01T12:08:41Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/reclassify-transactions/categorize-bank-transactions-quickbooks/L7mBx12na_US_en_US",
+    "page": 1,
+    "summary": "Here's how you can get the latest bank transactions, and select the right category for your bank transactions to accurately represent your income and expenses.",
+    "title": "Categorize bank transactions in QuickBooks Solopreneur - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/report-management/view-edit-management-reports-quickbooks-online/L90RAh2XZ_US_en_US": {
     "baseline": true,
