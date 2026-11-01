@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 25971,
+  "credits_used": 26022,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T12:08:41Z",
+  "last_run": "2026-11-01T13:05:56Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 523
+  "runs": 524
  },
  "feeds": {
   "adp-help": {
@@ -26715,6 +26715,15 @@
     "summary": "SAP heeft vandaag de financi\u00eble resultaten over het derde kwartaal van 2026 bekendgemaakt. 28% tot \u20ac24,1 miljard.",
     "title": "SAP presenteert kwartaalcijfers over derde kwartaal 2026"
    },
+   "news.sap.com/belgie/2026/10/sap-presenteert-kwartaalcijfers-over-derde-kwartaal-2026/businessman-checking-stock-market-data": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-01T13:05:56Z",
+    "link": "https://news.sap.com/belgie/2026/10/sap-presenteert-kwartaalcijfers-over-derde-kwartaal-2026/businessman-checking-stock-market-data/",
+    "page": 1,
+    "summary": "Businessman checking stock market data. SAP. Belgium (0)800 50 550. Of bekijk onze complete lijst van lokale landnummers.",
+    "title": "Businessman checking stock market data"
+   },
    "news.sap.com/belgie/2026/10/sap-presenteert-kwartaalcijfers-over-derde-kwartaal-2026?amp=1": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -36686,6 +36695,15 @@
     "summary": "Intermittent issues are not as disruptive as downtime. This simply means that our system has detected some level of degradation from the IRS system that may ...",
     "title": "About IRS intermittent issues - Sovos Docs"
    },
+   "docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/tin-matching": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-01T13:05:56Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/tin-matching",
+    "page": 1,
+    "summary": "TIN Matching helps you verify recipient information before filing. It checks recipient information against government records and sanctions data",
+    "title": "TIN Matching | Product Documentation Documentation"
+   },
    "docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/transmit/transmit-to-the-irs/fix-xml-schema-validation-errors": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -40079,6 +40097,15 @@
     "page": 3,
     "summary": "Returns an Account object if the call succeeds. If the account ID does not exist, this call raises an error. curl https://api.",
     "title": "Retrieve account | Stripe API Reference"
+   },
+   "docs.stripe.com/api/billing/alert/create": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T13:05:56Z",
+    "link": "https://docs.stripe.com/api/billing/alert/create",
+    "page": 4,
+    "summary": "Defines the threshold value that triggers the alert. The value must be greater than 0. usage_threshold.meterstringRequired. The Billing Meter ID whose usage is ...",
+    "title": "Create a billing alert | Stripe API Reference"
    },
    "docs.stripe.com/api/billing/alert/deactivate": {
     "baseline": false,

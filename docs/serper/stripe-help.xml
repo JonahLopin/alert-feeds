@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-01T11:05:41Z</updated>
+  <updated>2026-11-01T13:05:56Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/billing/alert/create</id>
+    <title>Create a billing alert | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/billing/alert/create" />
+    <published>2026-11-01T13:05:56Z</published>
+    <updated>2026-11-01T13:05:56Z</updated>
+    <summary>Defines the threshold value that triggers the alert. The value must be greater than 0. usage_threshold.meterstringRequired. The Billing Meter ID whose usage is ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/v2/core/accounts/object</id>
     <title>The Account object | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>Learn which countries and currencies you can send payouts to with Global Payouts. Payouts to crypto wallets support a different set of countries.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEScgHrOzAVAX8esauvv5oMONd9-wYcSBe9o3Pf2RdnU7j9YQxJUfAug3WzHiawrV66I6MSz6k0bECnXQ12fT4eFG-qilCDGEoMHuXTcB6R62NzD0Rq-pwAKUqqwa6DIXtf3mTKImzqT76u92cIHEXmMzAiRg</id>
-    <title>List all bank accounts v1</title>
-    <link href="https://www.google.com/goto?url=CAEScgHrOzAVAX8esauvv5oMONd9-wYcSBe9o3Pf2RdnU7j9YQxJUfAug3WzHiawrV66I6MSz6k0bECnXQ12fT4eFG-qilCDGEoMHuXTcB6R62NzD0Rq-pwAKUqqwa6DIXtf3mTKImzqT76u92cIHEXmMzAiRg" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>starting_afterstring. A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list ...</summary>
   </entry>
 </feed>
