@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-01T19:05:46Z</updated>
+  <updated>2026-11-01T23:05:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/shopify-cli-commands</id>
+    <title>Shopify CLI Commands: What They Are and How To Use ...</title>
+    <link href="https://www.shopify.com/blog/shopify-cli-commands" />
+    <published>2026-11-01T23:05:53Z</published>
+    <updated>2026-11-01T23:05:53Z</updated>
+    <summary>Shopify CLI is a tool you install on your own machine and run from a terminal. It's the officially supported way to build Shopify apps, themes, and storefronts</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/how-to-ship-clothes</id>
     <title>How To Ship Clothes: 3 Steps + What It Costs (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T10:43:10Z</published>
     <updated>2026-10-31T10:43:10Z</updated>
     <summary>Learn how an AI recommendation system works and which type fits your store. Compare built-in, app, and custom options, then start with one placement.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEScAHrOzAVoUkSkgenkzFj0C7if52subq0vwPYFLq-C249N5rZXuOXtZ_-m9GuBzkJyUR1_LvH1qqT52TI8oNdRTyunpWnqvRFDmk3kVX2Wt3GpzbVHO58W7auQhCAqTTOFtrRa_7LEhTuOnhQK3LTIjI</id>
-    <title>Instagram Story Features Explained: How to Use Them</title>
-    <link href="https://www.google.com/goto?url=CAEScAHrOzAVoUkSkgenkzFj0C7if52subq0vwPYFLq-C249N5rZXuOXtZ_-m9GuBzkJyUR1_LvH1qqT52TI8oNdRTyunpWnqvRFDmk3kVX2Wt3GpzbVHO58W7auQhCAqTTOFtrRa_7LEhTuOnhQK3LTIjI" />
-    <published>2026-10-31T10:43:10Z</published>
-    <updated>2026-10-31T10:43:10Z</updated>
-    <summary>Instagram Story features, like interactive polls and sharing capabilities, can make your content more engaging for your target audience.</summary>
   </entry>
 </feed>

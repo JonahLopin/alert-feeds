@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 26479,
+  "credits_used": 26531,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T22:05:44Z",
+  "last_run": "2026-11-01T23:05:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 533
+  "runs": 534
  },
  "feeds": {
   "adp-help": {
@@ -11978,6 +11978,15 @@
     "link": "https://www.chowbus.com/blog/custom-gift-cards-for-business",
     "summary": "A business record, not just a receipt. Companies buying gift cards for employee recognition or client gifts often need documentation for expense reporting or ...",
     "title": "Custom Gift Cards for Business: How Restaurants Turn ..."
+   },
+   "chowbus.com/blog/custom-gift-cards-for-restaurants": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-01T23:05:53Z",
+    "link": "https://www.chowbus.com/blog/custom-gift-cards-for-restaurants",
+    "page": 1,
+    "summary": "In this guide, you'll learn what actually makes a gift card \"custom,\" how physical and digital options compare for a restaurant like yours,",
+    "title": "Custom Gift Cards for Restaurants: A Complete Guide to ..."
    },
    "chowbus.com/blog/direct-delivery-integration-vs-tablet-juggling": {
     "baseline": false,
@@ -36231,6 +36240,15 @@
     "page": 1,
     "summary": "No more rebuilding your brand story twice. Now all the effort you pour into building your homepage gets put to work on Shop. Automatically.",
     "title": "Now Your Shop Store and Online Store Stay in Sync (2026)"
+   },
+   "shopify.com/blog/shopify-cli-commands": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-01T23:05:53Z",
+    "link": "https://www.shopify.com/blog/shopify-cli-commands",
+    "page": 1,
+    "summary": "Shopify CLI is a tool you install on your own machine and run from a terminal. It's the officially supported way to build Shopify apps, themes, and storefronts",
+    "title": "Shopify CLI Commands: What They Are and How To Use ..."
    },
    "shopify.com/blog/shopify-retail-roundup-september-2026-v11-15-11-16": {
     "baseline": false,
