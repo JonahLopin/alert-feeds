@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 25717,
+  "credits_used": 25768,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T07:06:44Z",
+  "last_run": "2026-11-01T08:08:11Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 518
+  "runs": 519
  },
  "feeds": {
   "adp-help": {
@@ -23272,6 +23272,15 @@
     "summary": "A summary of our Champ libre event, a dedicated space to explore major sector trends in Quebec's restaurant business.",
     "title": "Lightspeed's Champ libre Event: At the Heart of Quebec's ..."
    },
+   "lightspeedhq.com/blog/online-boutique-inventory": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-01T08:08:11Z",
+    "link": "https://www.lightspeedhq.com/blog/online-boutique-inventory/",
+    "page": 1,
+    "summary": "Running an online clothing boutique is both a high-potential standalone business and a powerful digital extension for an existing storefront.",
+    "title": "How to Get Inventory for an Online Boutique: Complete Guide"
+   },
    "lightspeedhq.com/blog/retail-store-daily-checklist": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -40826,6 +40835,15 @@
     "page": 1,
     "summary": "The Setup Intents API lets you save a customer's payment details without an initial payment. This is helpful if you want to onboard customers now, ...",
     "title": "Save a customer's payment method without making a"
+   },
+   "docs.stripe.com/payments/sepa-debit/set-up-payment?locale=fr-FR": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T08:08:11Z",
+    "link": "https://docs.stripe.com/payments/sepa-debit/set-up-payment?locale=fr-FR",
+    "page": 4,
+    "summary": "D\u00e9couvrez comment enregistrer les informations de moyens de paiement pour les paiements futurs par pr\u00e9l\u00e8vement SEPA.",
+    "title": "Enregistrer les coordonn\u00e9es de pr\u00e9l\u00e8vement SEPA pour ..."
    },
    "docs.stripe.com/payouts?country=BA&locale=zh-CN": {
     "baseline": false,
