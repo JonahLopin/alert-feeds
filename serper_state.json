@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 25514,
+  "credits_used": 25564,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T03:08:53Z",
+  "last_run": "2026-11-01T04:08:14Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 514
+  "runs": 515
  },
  "feeds": {
   "adp-help": {
@@ -11978,6 +11978,15 @@
     "page": 1,
     "summary": "A direct delivery integration removes the manual translation step entirely. The order comes time savings are real, but the more important change is what ...",
     "title": "Direct Delivery Integration vs. Tablet Juggling"
+   },
+   "chowbus.com/blog/doordash-ghost-kitchen-delivery-only-menu-existing-kitchen": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-01T04:08:14Z",
+    "link": "https://www.chowbus.com/blog/doordash-ghost-kitchen-delivery-only-menu-existing-kitchen",
+    "page": 1,
+    "summary": "How to run a delivery-only brand from your existing kitchen: spare hours, shared ingredients, platform rules, ticket routing, packaging, pricing, ...",
+    "title": "DoorDash Ghost Kitchen: Run a Delivery-Only Brand in the ..."
    },
    "chowbus.com/blog/how-restaurants-prevent-order-errors-during-the-friday-night-rush": {
     "baseline": true,
