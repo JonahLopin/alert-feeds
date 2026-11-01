@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-10-31T19:43:23Z</updated>
+  <updated>2026-11-01T02:10:12Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/credit-cards/understand-intuit-business-credit-card/L3L1PJGRe_US_en_US</id>
+    <title>Understand Intuit Business Credit Card - QuickBooks</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/credit-cards/understand-intuit-business-credit-card/L3L1PJGRe_US_en_US" />
+    <published>2026-11-01T02:10:12Z</published>
+    <updated>2026-11-01T02:10:12Z</updated>
+    <summary>The Intuit Business Credit Card is designed for small business owners to manage spending and access credit inside QuickBooks.</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/proadvisor-program/fix-error-saving-changes-changes-profile-could/L5ZxabOIO_US_en_US</id>
     <title>Changes to your profile could not be saved" error - QuickBooks</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T09:43:09Z</published>
     <updated>2026-10-31T09:43:09Z</updated>
     <summary>Connect QuickBooks Online to Claude in three steps. Generate reports, create invoices, and ask about your business data in chat.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESwQEB6zswFX1EHzH5oG_cvrnHjXl2MsLu4u0yDTkyJmif9RaHB4e2B5m43qk6e74OOLUun72JttxIMNnGlH6aTe3TLUISnaMXMZ86UBY8Yrb8_FPnx7L3BW-f78LCuuyPp05cw67BS21rlDXeqEzhwtRFjkZHedRNe4mSzuV6bhF_cOsq7t-LK3NHHEVXmC8HZGV8b4Ecb3XG9kFxt3eqQauRjGT2RSPxfLV9U-lStqoiROVWVMxOUBPWII846thUXwKp</id>
-    <title>Enter and manage expenses in QuickBooks Online - Intuit</title>
-    <link href="https://www.google.com/goto?url=CAESwQEB6zswFX1EHzH5oG_cvrnHjXl2MsLu4u0yDTkyJmif9RaHB4e2B5m43qk6e74OOLUun72JttxIMNnGlH6aTe3TLUISnaMXMZ86UBY8Yrb8_FPnx7L3BW-f78LCuuyPp05cw67BS21rlDXeqEzhwtRFjkZHedRNe4mSzuV6bhF_cOsq7t-LK3NHHEVXmC8HZGV8b4Ecb3XG9kFxt3eqQauRjGT2RSPxfLV9U-lStqoiROVWVMxOUBPWII846thUXwKp" />
-    <published>2026-10-31T09:43:09Z</published>
-    <updated>2026-10-31T09:43:09Z</updated>
-    <summary>Record business expenses in QuickBooks Online to track spending and maintain accurate financial records. Enter an expense when you have already paid for a ...</summary>
   </entry>
 </feed>

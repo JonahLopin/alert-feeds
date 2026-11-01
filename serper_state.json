@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 25414,
+  "credits_used": 25464,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T00:54:15Z",
+  "last_run": "2026-11-01T02:10:12Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 512
+  "runs": 513
  },
  "feeds": {
   "adp-help": {
@@ -22072,6 +22072,15 @@
     "summary": "Searching how to request a W-9 from a vendor? Follow this quick guide \u2014 without the usual headaches. Clear, step-by-step instructions.",
     "title": "Manage contractor and vendor W-9 invites in QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/credit-cards/understand-intuit-business-credit-card/L3L1PJGRe_US_en_US": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-01T02:10:12Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/credit-cards/understand-intuit-business-credit-card/L3L1PJGRe_US_en_US",
+    "page": 3,
+    "summary": "The Intuit Business Credit Card is designed for small business owners to manage spending and access credit inside QuickBooks.",
+    "title": "Understand Intuit Business Credit Card - QuickBooks"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/currency/enter-use-exchange-rates/L5cZfINVo_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -39996,6 +40005,15 @@
     "page": 1,
     "summary": "Resy Powered by Tock is a cloud-based reservation, table management, and event ticketing platform for restaurants, bars, and wineries.",
     "title": "Set up and troubleshoot Resy Powered By Tock integration ..."
+   },
+   "squareup.com/help/us/en/article/8711-set-up-and-use-the-belkin-charging-station-for-square-handheld": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-01T02:10:12Z",
+    "link": "https://squareup.com/help/us/en/article/8711-set-up-and-use-the-belkin-charging-station-for-square-handheld",
+    "page": 1,
+    "summary": "The Belkin Charging Station for Square Handheld (5-slot) lets you charge and store up to five Square Handheld devices at once \u2014 no individual cables to plug ...",
+    "title": "Set up and use the Belkin Charging Station ..."
    }
   },
   "stripe-help": {
