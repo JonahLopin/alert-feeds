@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-01T20:06:20Z</updated>
+  <updated>2026-11-01T21:06:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/connect/authentication</id>
+    <title>Make API calls for connected accounts</title>
+    <link href="https://docs.stripe.com/connect/authentication" />
+    <published>2026-11-01T21:06:04Z</published>
+    <updated>2026-11-01T21:06:04Z</updated>
+    <summary>Learn how to make API calls for your connected accounts on the server or the client.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/external_account_bank_accounts/retrieve?api-version=2026-10-28.preview</id>
+    <title>Retrieve a bank account | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/external_account_bank_accounts/retrieve?api-version=2026-10-28.preview" />
+    <published>2026-11-01T21:06:04Z</published>
+    <updated>2026-11-01T21:06:04Z</updated>
+    <summary>By default, you can see the 10 most recent external accounts stored on a connected account directly on the object. You can also retrieve details about a ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/balance?api-version=2026-10-28.preview</id>
     <title>Balances | Stripe API Reference</title>
@@ -787,21 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>銀行振込を使用したサブスクリプションの作成と請求の方法をご紹介します。</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESggEB6zswFfRv_HBbM7PrkSTc6E88yisQFr5r8ZFffQl-hYIRNpdWQbQYla0OGHrQp-DkUblARdoW7-Mvdpdc76coJAhZtmJgqZzxRLCCgOUxObJ8Lcp8g1_IhIphPfvmb8EetYv2vQTBuTwH6UP_sKFREI_-B3yfb6kdXWsWFe70LY86</id>
-    <title>Migrate to the Payment Element with the Payment Intents API</title>
-    <link href="https://www.google.com/goto?url=CAESggEB6zswFfRv_HBbM7PrkSTc6E88yisQFr5r8ZFffQl-hYIRNpdWQbQYla0OGHrQp-DkUblARdoW7-Mvdpdc76coJAhZtmJgqZzxRLCCgOUxObJ8Lcp8g1_IhIphPfvmb8EetYv2vQTBuTwH6UP_sKFREI_-B3yfb6kdXWsWFe70LY86" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>Migrate an existing payment form to the Payment Element with the Payment Intents API.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESggEB6zswFbKJttcZH8MxdVIa-zGCdRZWEnMSLA7u23K0uSoKX4w4auZ4xuuibXnLavL0INkBJ4RGMtXPnADV1LRagZy2oUYE7RIcAKuF7AVQbs6NMy_SRNBj96_NNA_M8_-STGhvFYPhgX-xbLNxwHjD_IRQyYE0UV0SyRxgTQVjqyXm</id>
-    <title>API リクエストログを表示する</title>
-    <link href="https://www.google.com/goto?url=CAESggEB6zswFbKJttcZH8MxdVIa-zGCdRZWEnMSLA7u23K0uSoKX4w4auZ4xuuibXnLavL0INkBJ4RGMtXPnADV1LRagZy2oUYE7RIcAKuF7AVQbs6NMy_SRNBj96_NNA_M8_-STGhvFYPhgX-xbLNxwHjD_IRQyYE0UV0SyRxgTQVjqyXm" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>開発者ダッシュボードで、API リクエストログをフィルタリングし、ログエントリーを表示します。</summary>
   </entry>
 </feed>

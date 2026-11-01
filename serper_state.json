@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 26377,
+  "credits_used": 26428,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T20:06:20Z",
+  "last_run": "2026-11-01T21:06:04Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 531
+  "runs": 532
  },
  "feeds": {
   "adp-help": {
@@ -40277,6 +40277,15 @@
     "summary": "The ID of an existing configuration to use for this session, describing its functionality and features. If not specified, the session uses the default ...",
     "title": "Create a portal session | Stripe API Reference"
    },
+   "docs.stripe.com/api/external_account_bank_accounts/retrieve?api-version=2026-10-28.preview": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-01T21:06:04Z",
+    "link": "https://docs.stripe.com/api/external_account_bank_accounts/retrieve?api-version=2026-10-28.preview",
+    "page": 5,
+    "summary": "By default, you can see the 10 most recent external accounts stored on a connected account directly on the object. You can also retrieve details about a ...",
+    "title": "Retrieve a bank account | Stripe API Reference"
+   },
    "docs.stripe.com/api/financial_connections/ownership/list?api-version=2026-10-28.preview": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -40644,6 +40653,15 @@
     "page": 1,
     "summary": "Une horloge de simulation vous permet de faire passer un ensemble d'objets associ\u00e9s par plusieurs \u00e9tats de cycle de vie au lieu de cr\u00e9er un abonnement distinct ...",
     "title": "Limiter les abonnements de test"
+   },
+   "docs.stripe.com/connect/authentication": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-01T21:06:04Z",
+    "link": "https://docs.stripe.com/connect/authentication",
+    "page": 1,
+    "summary": "Learn how to make API calls for your connected accounts on the server or the client.",
+    "title": "Make API calls for connected accounts"
    },
    "docs.stripe.com/connect/connect-cross-border-payouts": {
     "baseline": false,
