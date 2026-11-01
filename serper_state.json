@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 25364,
+  "credits_used": 25414,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-10-31T23:42:31Z",
+  "last_run": "2026-11-01T00:54:15Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 511
+  "runs": 512
  },
  "feeds": {
   "adp-help": {
@@ -11899,6 +11899,15 @@
     "summary": "This guide isn't a generic \"best bar POS\" list. It's about the specific tab, room, and check-management problems of Asian nightlife venues \u2014 izakayas, KTV/ ...",
     "title": "Bar POS for Izakayas, KTV Lounges & Asian Nightlife (2026)"
    },
+   "chowbus.com/blog/best-ipad-kiosk-software-quick-service-restaurants-2026": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-01T00:54:15Z",
+    "link": "https://www.chowbus.com/blog/best-ipad-kiosk-software-quick-service-restaurants-2026",
+    "page": 2,
+    "summary": "The best iPad kiosk software for a quick-service restaurant in 2026 is the one that holds up during your rush: fast to order on, connected to your kitchen and ...",
+    "title": "Best iPad Kiosk Software for Quick-Service Restaurants in ..."
+   },
    "chowbus.com/blog/best-restaurant-inventory-management-tools-multi-concept-kitchen": {
     "baseline": false,
     "date_hint": "24 hours ago",
@@ -11934,6 +11943,15 @@
     "page": 1,
     "summary": "An on-premise system runs on a physical machine inside your restaurant. It holds the real database \u2014 every menu item, every price, every transaction \u2014 and the ...",
     "title": "Cloud-Based Restaurant Management, Explained Without ..."
+   },
+   "chowbus.com/blog/cloud-based-restaurant-management-software-multi-location-groups": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-01T00:54:15Z",
+    "link": "https://www.chowbus.com/blog/cloud-based-restaurant-management-software-multi-location-groups",
+    "page": 1,
+    "summary": "Cloud based restaurant management software for a multi-location group has to answer all five of those people from the same data.",
+    "title": "Cloud Based Restaurant Management Software"
    },
    "chowbus.com/blog/countertop-terminal-to-tablet-pos-first-month": {
     "baseline": false,
@@ -40025,6 +40043,15 @@
     "page": 5,
     "summary": "Start of the aggregation period for which this notification was sent. Only present for usage threshold alerts.",
     "title": "The Billing Alert Notification object | Stripe API Reference"
+   },
+   "docs.stripe.com/api/charges/create?api-version=2026-10-28.preview": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T00:54:15Z",
+    "link": "https://docs.stripe.com/api/charges/create?api-version=2026-10-28.preview",
+    "page": 5,
+    "summary": "Parameters \u00b7 amountinteger. Amount intended to be collected by this payment. \u00b7 currencyenum. Three-letter ISO currency code, in lowercase. \u00b7 customerstring. The ID ...",
+    "title": "Create a charge | Stripe API Reference"
    },
    "docs.stripe.com/api/charges/search": {
     "baseline": false,

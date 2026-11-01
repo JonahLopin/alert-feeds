@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-10-31T18:42:46Z</updated>
+  <updated>2026-11-01T00:54:15Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/charges/create?api-version=2026-10-28.preview</id>
+    <title>Create a charge | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/charges/create?api-version=2026-10-28.preview" />
+    <published>2026-11-01T00:54:15Z</published>
+    <updated>2026-11-01T00:54:15Z</updated>
+    <summary>Parameters · amountinteger. Amount intended to be collected by this payment. · currencyenum. Three-letter ISO currency code, in lowercase. · customerstring. The ID ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payments/quickstart?client=react</id>
     <title>Build a custom checkout page</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>The account that's liable for tax. If set, the business address and tax registrations required to perform the tax calculation are loaded from this account.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESawHrOzAVLIFC5K1rWRJAZ9SD9iY0UEBe6h_nuk8vYEf32MXyvGxyXnDwXXtWl98nXO60Y8owdk8MVpxXY5-gqHl8W6m6yVxdFjGkp-XNjHb_jfbQLrQqIOtkrIgw5sKtgzmTDWR6iL1SPhAw</id>
-    <title>List all features attached to a product v1</title>
-    <link href="https://www.google.com/goto?url=CAESawHrOzAVLIFC5K1rWRJAZ9SD9iY0UEBe6h_nuk8vYEf32MXyvGxyXnDwXXtWl98nXO60Y8owdk8MVpxXY5-gqHl8W6m6yVxdFjGkp-XNjHb_jfbQLrQqIOtkrIgw5sKtgzmTDWR6iL1SPhAw" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...</summary>
   </entry>
 </feed>
