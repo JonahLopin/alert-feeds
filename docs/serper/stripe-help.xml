@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-01T00:54:15Z</updated>
+  <updated>2026-11-01T03:08:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/payments/save-and-reuse?locale=en-GB</id>
+    <title>Save a customer's payment method without making ...</title>
+    <link href="https://docs.stripe.com/payments/save-and-reuse?locale=en-GB" />
+    <published>2026-11-01T03:08:53Z</published>
+    <updated>2026-11-01T03:08:53Z</updated>
+    <summary>To set up a payment method for future payments, you must attach it to an object that represents your customer. When your customer creates an account or has ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/charges/create?api-version=2026-10-28.preview</id>
     <title>Create a charge | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>This field indicates whether this payment method can be shown again to its customer in a checkout flow. Stripe products such as Checkout and Elements use this ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESawHrOzAV_eBYfazDwpKawEY6WszraCuoSflN_9nkoBOAuBUIBiqMi1jFOqS9n_GZaoArV-q52Jo0xbFUL58mHIuBT2UmlKCtLUeDrCgO4ABnJdQd1MmOJ1nSdTx0wItNUItxZPe-vPMInpxp</id>
-    <title>The Subscription object | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESawHrOzAV_eBYfazDwpKawEY6WszraCuoSflN_9nkoBOAuBUIBiqMi1jFOqS9n_GZaoArV-q52Jo0xbFUL58mHIuBT2UmlKCtLUeDrCgO4ABnJdQd1MmOJ1nSdTx0wItNUItxZPe-vPMInpxp" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>The account that's liable for tax. If set, the business address and tax registrations required to perform the tax calculation are loaded from this account.</summary>
   </entry>
 </feed>
