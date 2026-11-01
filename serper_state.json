@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 26428,
+  "credits_used": 26479,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T21:06:04Z",
+  "last_run": "2026-11-01T22:05:44Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 532
+  "runs": 533
  },
  "feeds": {
   "adp-help": {
@@ -40232,6 +40232,15 @@
     "page": 4,
     "summary": "The URL to which Stripe should send customers when payment or setup is complete. This parameter is not allowed if ui_mode is embedded_page or elements . If you' ...",
     "title": "Create a Checkout Session | Stripe API Reference"
+   },
+   "docs.stripe.com/api/checkout/sessions/expire": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-01T22:05:44Z",
+    "link": "https://docs.stripe.com/api/checkout/sessions/expire",
+    "page": 4,
+    "summary": "After it expires, a customer can't complete a Checkout Session and customers loading the Checkout Session see a message saying the Checkout Session is expired.",
+    "title": "Expire a Checkout Session | Stripe API Reference"
    },
    "docs.stripe.com/api/checkout/sessions/object": {
     "baseline": false,

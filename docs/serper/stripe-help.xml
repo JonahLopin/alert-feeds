@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-01T21:06:04Z</updated>
+  <updated>2026-11-01T22:05:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/checkout/sessions/expire</id>
+    <title>Expire a Checkout Session | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/checkout/sessions/expire" />
+    <published>2026-11-01T22:05:44Z</published>
+    <updated>2026-11-01T22:05:44Z</updated>
+    <summary>After it expires, a customer can't complete a Checkout Session and customers loading the Checkout Session see a message saying the Checkout Session is expired.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/connect/authentication</id>
     <title>Make API calls for connected accounts</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>The Tax integration configuration lets Stripe calculate tax automatically on subscription schedule phases that don't explicitly set automatic_tax or inherit ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESgwEB6zswFTvjEcL4TpRhm5hpRaRmkywPlqlhTlv8X99NAel5gvNj5TloS6lmrMEipgomlp55SZy3ikQGctwIvvUiJnzUf9LxPKycXlm7tpfU02mJULTUpX0ls73hDI67BmkVoTM7u7mdUujYooBfV54ClnkuK1ktxbOZQKHmHwx_QzzzhA</id>
-    <title>銀行振込によるサブスクリプションを設定する</title>
-    <link href="https://www.google.com/goto?url=CAESgwEB6zswFTvjEcL4TpRhm5hpRaRmkywPlqlhTlv8X99NAel5gvNj5TloS6lmrMEipgomlp55SZy3ikQGctwIvvUiJnzUf9LxPKycXlm7tpfU02mJULTUpX0ls73hDI67BmkVoTM7u7mdUujYooBfV54ClnkuK1ktxbOZQKHmHwx_QzzzhA" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>銀行振込を使用したサブスクリプションの作成と請求の方法をご紹介します。</summary>
   </entry>
 </feed>
