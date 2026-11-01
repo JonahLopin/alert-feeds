@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 26173,
+  "credits_used": 26224,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T16:06:28Z",
+  "last_run": "2026-11-01T17:05:22Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 527
+  "runs": 528
  },
  "feeds": {
   "adp-help": {
@@ -28976,6 +28976,15 @@
     "summary": "A Future Order is an order scheduled for fulfillment at a later time instead of immediately. For example, a catering order for tomorrow or a large pickup order",
     "title": "Future Orders Overview"
    },
+   "shift4.zendesk.com/hc/en-us/articles/53635078202899": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-01T17:05:22Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/53635078202899",
+    "page": 1,
+    "summary": "Description: Learn how to schedule, view, edit, and manage Future Orders from a Workstation, including collecting additional payment, sending an order to ...",
+    "title": "Schedule and Manage Future Orders on the Workstation ..."
+   },
    "shift4.zendesk.com/hc/en-us/articles/54194805387155": {
     "baseline": false,
     "date_hint": "7 days ago",
@@ -36578,6 +36587,15 @@
    }
   },
   "sovos-help": {
+   "docs.sovos.com/1099-reporting/tincheck/manage-billing-and-subscription/add-a-payment-method": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-01T17:05:22Z",
+    "link": "https://docs.sovos.com/1099-reporting/tincheck/manage-billing-and-subscription/add-a-payment-method",
+    "page": 1,
+    "summary": "Find out how to add a payment method to your account. Go to your profile, click your name, and select Billing and payments from the dropdown. Click Add New. ...",
+    "title": "Add a payment method - Sovos Docs"
+   },
    "docs.sovos.com/1099-reporting/tir-corporate--1099-professional/transmit/transmit-to-the-irs/check-the-status-of-irs-transmittals": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -40312,6 +40330,15 @@
     "page": 2,
     "summary": "This field indicates whether this payment method can be shown again to its customer in a checkout flow. Stripe products such as Checkout and Elements use this ...",
     "title": "The PaymentIntent object | Stripe API Reference"
+   },
+   "docs.stripe.com/api/payouts/update": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T17:05:22Z",
+    "link": "https://docs.stripe.com/api/payouts/update",
+    "page": 5,
+    "summary": "Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format. Individual keys can be unset by posting an empty value to them. All keys can be unset by posting an empty value to metadata.",
+    "title": "Update a payout | Stripe API Reference"
    },
    "docs.stripe.com/api/plans/retrieve": {
     "baseline": false,

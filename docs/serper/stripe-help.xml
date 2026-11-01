@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-01T16:06:28Z</updated>
+  <updated>2026-11-01T17:05:22Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/payouts/update</id>
+    <title>Update a payout | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/payouts/update" />
+    <published>2026-11-01T17:05:22Z</published>
+    <updated>2026-11-01T17:05:22Z</updated>
+    <summary>Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format. Individual keys can be unset by posting an empty value to them. All keys can be unset by posting an empty value to metadata.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/v2/core/account-tokens/object</id>
     <title>The Account Token object | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>RecipientVerification represents a verification of recipient you intend to send funds to. Learn more about calling API v2 endpoints. Was this section helpful?</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESgAEB6zswFX9U4HJbsmWiYyb4Kb1wMdbhQlFp3a-NG2IwNRLxgcvHjjM59I_09GEv8wmim5rV_xAoUdb5rK-INL1wUc6TKCr_whPm-xg2EN8FoxtVJ1PnUsBpKdmuoIHI9f1sgHJqVBrwZD08IUApxkPYN0OWFewAbPMyPslYTExcug</id>
-    <title>Supported recipient countries - Global Payouts</title>
-    <link href="https://www.google.com/goto?url=CAESgAEB6zswFX9U4HJbsmWiYyb4Kb1wMdbhQlFp3a-NG2IwNRLxgcvHjjM59I_09GEv8wmim5rV_xAoUdb5rK-INL1wUc6TKCr_whPm-xg2EN8FoxtVJ1PnUsBpKdmuoIHI9f1sgHJqVBrwZD08IUApxkPYN0OWFewAbPMyPslYTExcug" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).</summary>
   </entry>
 </feed>

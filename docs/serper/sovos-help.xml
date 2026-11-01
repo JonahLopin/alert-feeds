@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-01T13:05:56Z</updated>
+  <updated>2026-11-01T17:05:22Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/1099-reporting/tincheck/manage-billing-and-subscription/add-a-payment-method</id>
+    <title>Add a payment method - Sovos Docs</title>
+    <link href="https://docs.sovos.com/1099-reporting/tincheck/manage-billing-and-subscription/add-a-payment-method" />
+    <published>2026-11-01T17:05:22Z</published>
+    <updated>2026-11-01T17:05:22Z</updated>
+    <summary>Find out how to add a payment method to your account. Go to your profile, click your name, and select Billing and payments from the dropdown. Click Add New. ...</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/tin-matching</id>
     <title>TIN Matching | Product Documentation Documentation</title>
@@ -795,13 +803,5 @@
     <published>2026-10-17T00:25:29Z</published>
     <updated>2026-10-17T00:25:29Z</updated>
     <summary>Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.</summary>
-  </entry>
-  <entry>
-    <id>https://docs.sovos.com/en/tax-determination/certmanager/release-notes/exemptions-in-tax-determination-are-now-managed-in-certmanager</id>
-    <title>Exemptions in Tax Determination are now managed in ...</title>
-    <link href="https://docs.sovos.com/en/tax-determination/certmanager/release-notes/exemptions-in-tax-determination-are-now-managed-in-certmanager" />
-    <published>2026-10-16T14:47:26Z</published>
-    <updated>2026-10-16T14:47:26Z</updated>
-    <summary>You can manage your exemptions entirely in CertManager. When you save a complete exemption, CertManager sends it to Tax Determination automatically.</summary>
   </entry>
 </feed>
