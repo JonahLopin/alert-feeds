@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-01T08:08:11Z</updated>
+  <updated>2026-11-01T10:06:06Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/subscriptions/search</id>
+    <title>Search subscriptions | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/subscriptions/search" />
+    <published>2026-11-01T10:06:06Z</published>
+    <updated>2026-11-01T10:06:06Z</updated>
+    <summary>The search query string. See search query language and the list of supported query fields for subscriptions. limitinteger. A limit on the number of objects to ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payments/sepa-debit/set-up-payment?locale=fr-FR</id>
     <title>Enregistrer les coordonnées de prélèvement SEPA pour ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>(QRIS) is a real time payment system developed by the Bank of Indonesia. The service works by instantly transferring funds between two bank accounts.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbwHrOzAVgWnz2TQsvLKvcTj3X3so3FPKFiluu6my-S_8zyrfrh0JGzcQOm5x7ohWdF1Y29l7jPjJ8w88NC2rbKHgDsoX19awD1EvM81_rgoGHLugXW5bD8oAKKGzW92IeX4m31jhddDVs-kubaXqUg</id>
-    <title>The Checkout Session object | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESbwHrOzAVgWnz2TQsvLKvcTj3X3so3FPKFiluu6my-S_8zyrfrh0JGzcQOm5x7ohWdF1Y29l7jPjJ8w88NC2rbKHgDsoX19awD1EvM81_rgoGHLugXW5bD8oAKKGzW92IeX4m31jhddDVs-kubaXqUg" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>A unique string to reference the Checkout Session. This can be a customer ID, a cart ID, or similar, and can be used to reconcile the Session with your internal ...</summary>
   </entry>
 </feed>

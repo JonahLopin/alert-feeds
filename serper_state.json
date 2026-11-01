@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 25818,
+  "credits_used": 25869,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T09:07:07Z",
+  "last_run": "2026-11-01T10:06:06Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 520
+  "runs": 521
  },
  "feeds": {
   "adp-help": {
@@ -40258,6 +40258,15 @@
     "page": 2,
     "summary": "The subscription's description, meant to be displayable to the customer. Use this field to optionally store an explanation of the subscription for rendering in ...",
     "title": "The Subscription object | Stripe API Reference"
+   },
+   "docs.stripe.com/api/subscriptions/search": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-01T10:06:06Z",
+    "link": "https://docs.stripe.com/api/subscriptions/search",
+    "page": 2,
+    "summary": "The search query string. See search query language and the list of supported query fields for subscriptions. limitinteger. A limit on the number of objects to ...",
+    "title": "Search subscriptions | Stripe API Reference"
    },
    "docs.stripe.com/api/tax/location": {
     "baseline": true,
