@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-10-31T19:43:23Z</updated>
+  <updated>2026-11-01T19:05:46Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/how-to-ship-clothes</id>
+    <title>How To Ship Clothes: 3 Steps + What It Costs (2026)</title>
+    <link href="https://www.shopify.com/blog/how-to-ship-clothes" />
+    <published>2026-11-01T19:05:46Z</published>
+    <updated>2026-11-01T19:05:46Z</updated>
+    <summary>Learn how to ship clothes in three easy steps and compare USPS and UPS rates by weight so apparel shipping costs stay predictable.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/t-shirt-design-ideas</id>
     <title>T-Shirt Design Ideas: 15 Creative Examples (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T10:43:10Z</published>
     <updated>2026-10-31T10:43:10Z</updated>
     <summary>Instagram Story features, like interactive polls and sharing capabilities, can make your content more engaging for your target audience.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbgHrOzAViRJgZgUskq_Ys4PCPtyyDhtpnU98PI0P3b1qotCFNfyzNTcah9mvgBgxqzdu5p71_wsPqiYQdxRMlxXpMU1zHzFTjIIp18YPqr1M2AzD53OcLxpzD4xKxZ9GkghwhwDH_lrgXIvKZrpB</id>
-    <title>Shopify Retail Roundup (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESbgHrOzAViRJgZgUskq_Ys4PCPtyyDhtpnU98PI0P3b1qotCFNfyzNTcah9mvgBgxqzdu5p71_wsPqiYQdxRMlxXpMU1zHzFTjIIp18YPqr1M2AzD53OcLxpzD4xKxZ9GkghwhwDH_lrgXIvKZrpB" />
-    <published>2026-10-31T10:43:10Z</published>
-    <updated>2026-10-31T10:43:10Z</updated>
-    <summary>Shopify is always evolving, with new features and updates rolling out regularly to help retailers stay ahead—but keeping up shouldn't be a chore.</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 26274,
+  "credits_used": 26326,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T18:07:39Z",
+  "last_run": "2026-11-01T19:05:46Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 529
+  "runs": 530
  },
  "feeds": {
   "adp-help": {
@@ -22448,6 +22448,15 @@
     "summary": "QuickBooks Online lets you request for more information about a transaction. You can ask for details and files except QuickBooks Solopreneur.",
     "title": "Request more information on a transaction - QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-billing-updates/fix-something-working-looks-like-problem-end-error/L0O87t9es_US_en_US": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-01T19:05:46Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/intuit-billing-updates/fix-something-working-looks-like-problem-end-error/L0O87t9es_US_en_US",
+    "page": 3,
+    "summary": "Here's how to fix it: \u00b7 Reach out to your client to see if they already signed up. If they did, ask them to invite you to be their accountant. This ...",
+    "title": "Fix \"Something isn't working. It looks like there was a problem ..."
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-billing-updates/upgrade-downgrade-quickbooks-online-subscription/L7LN5zzbs_US_en_US": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -35630,6 +35639,15 @@
     "page": 5,
     "summary": "Selling on X (formerly Twitter) is possible in 7 clear steps. Sync your product catalog, build an audience, and use advanced search to find ready buyers.",
     "title": "How to Sell on Twitter (X) in 2026 - Shopify"
+   },
+   "shopify.com/blog/how-to-ship-clothes": {
+    "baseline": false,
+    "date_hint": "13 hours ago",
+    "first_seen": "2026-11-01T19:05:46Z",
+    "link": "https://www.shopify.com/blog/how-to-ship-clothes",
+    "page": 3,
+    "summary": "Learn how to ship clothes in three easy steps and compare USPS and UPS rates by weight so apparel shipping costs stay predictable.",
+    "title": "How To Ship Clothes: 3 Steps + What It Costs (2026)"
    },
    "shopify.com/blog/how-to-start-a-business-in-oregon": {
     "baseline": false,
