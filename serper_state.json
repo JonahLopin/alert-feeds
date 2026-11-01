@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 26326,
+  "credits_used": 26377,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T19:05:46Z",
+  "last_run": "2026-11-01T20:06:20Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 530
+  "runs": 531
  },
  "feeds": {
   "adp-help": {
@@ -29079,6 +29079,15 @@
     "page": 1,
     "summary": "Customers can pay with credit cards, debit cards, digital wallets (including Apple Pay and Google Pay), and supported local payment methods.",
     "title": "Payment Link FAQs for Shift4 One"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/56994438919699-Update-Canadian-Time-Zone-Selections-in-R-A-and-Simphony-EMC": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-01T20:06:20Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/56994438919699-Update-Canadian-Time-Zone-Selections-in-R-A-and-Simphony-EMC",
+    "page": 1,
+    "summary": "Several Canadian regions are ending seasonal clock changes. Their clocks stay on the same time on November 1, 2026. Update the time zone settings in R&A",
+    "title": "Update Canadian Time Zone Selections in R&A and ..."
    }
   },
   "shopify-blog": {
@@ -40150,6 +40159,15 @@
     "link": "https://docs.stripe.com/api/balance",
     "page": 5,
     "summary": "This is an object representing your Stripe balance. You can retrieve it to see the balance currently on your Stripe account. The top-level available and pending comprise your \u201cpayments balance.\u201d Related guide: Balances and settlement time, Understanding Connect account balances",
+    "title": "Balances | Stripe API Reference"
+   },
+   "docs.stripe.com/api/balance?api-version=2026-10-28.preview": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-01T20:06:20Z",
+    "link": "https://docs.stripe.com/api/balance?api-version=2026-10-28.preview",
+    "page": 5,
+    "summary": "Chat with Stripe developers on Discord. Check out our changelog. Questions? Contact Sales. LLM? Read llms.txt. Powered by Markdoc.",
     "title": "Balances | Stripe API Reference"
    },
    "docs.stripe.com/api/billing/alert/create": {

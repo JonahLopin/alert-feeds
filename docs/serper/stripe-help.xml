@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-01T17:05:22Z</updated>
+  <updated>2026-11-01T20:06:20Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/balance?api-version=2026-10-28.preview</id>
+    <title>Balances | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/balance?api-version=2026-10-28.preview" />
+    <published>2026-11-01T20:06:20Z</published>
+    <updated>2026-11-01T20:06:20Z</updated>
+    <summary>Chat with Stripe developers on Discord. Check out our changelog. Questions? Contact Sales. LLM? Read llms.txt. Powered by Markdoc.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/payouts/update</id>
     <title>Update a payout | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>開発者ダッシュボードで、API リクエストログをフィルタリングし、ログエントリーを表示します。</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESggEB6zswFQmHxrZxA2X7mlH-jx7DslB7RidvFWfHJqxR9T4dhvo8sxOSRaXqDEtVTwKW_IxnPExQRtyTZP4ky5B65UTGBIIjNn10eOWd2J0bqhIQiqSWiG0TBu-ZMvCpO_gq32N5JA-CgmvQ6mCgIzaOFD0zlOjIcxv-HvH-Ee45zY_s</id>
-    <title>Recipient Verifications | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESggEB6zswFQmHxrZxA2X7mlH-jx7DslB7RidvFWfHJqxR9T4dhvo8sxOSRaXqDEtVTwKW_IxnPExQRtyTZP4ky5B65UTGBIIjNn10eOWd2J0bqhIQiqSWiG0TBu-ZMvCpO_gq32N5JA-CgmvQ6mCgIzaOFD0zlOjIcxv-HvH-Ee45zY_s" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>RecipientVerification represents a verification of recipient you intend to send funds to. Learn more about calling API v2 endpoints. Was this section helpful?</summary>
   </entry>
 </feed>
