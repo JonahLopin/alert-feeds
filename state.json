@@ -4335,6 +4335,12 @@
    "summary": "The Standalone 3DS API allows you to run EMV 3D Secure (3DS) authentication using Stripe while authorizing the payment with any PSP. Related guide: ...",
    "title": "3DS Authentications | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:12360306123449350497": {
+   "first_seen": "2026-11-01T18:08:52Z",
+   "link": "https://docs.stripe.com/terminal/payments/setup-reader/stripe-reader-t600",
+   "summary": "Connect the reader to the internet. Because the Stripe Reader T600 is a smart reader, its reader software communicates directly with Stripe. Your ...",
+   "title": "Set up Stripe Reader T600"
+  },
   "tag:google.com,2013:googlealerts/feed:12527214962471402690": {
    "first_seen": "2026-10-20T22:44:24Z",
    "link": "https://docs.stripe.com/api/reserve/release?api-version=2026-09-30.preview",
@@ -4563,6 +4569,12 @@
    "summary": "idstring. Unique identifier for the object. \u00b7 amount_offnullable integer. Amount (in the currency specified) that will be taken off the subtotal of any ...",
    "title": "The Coupon object | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:17926487655219430336": {
+   "first_seen": "2026-11-01T18:08:52Z",
+   "link": "https://docs.stripe.com/api/customer_balance_transactions?api-version=2026-09-30.preview",
+   "summary": "Each customer has a Balance value, which denotes a debit or credit that's automatically applied to their next invoice upon finalization. You may ...",
+   "title": "Customer Balance Transactions | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:18131888084454230377": {
    "first_seen": "2026-10-29T19:42:55Z",
    "link": "https://docs.stripe.com/reports/report-types/financial-accounts",
@@ -4778,6 +4790,12 @@
    "link": "https://docs.stripe.com/api/tax_reporting/forms",
    "summary": "Tax forms are legal documents which are delivered to one or more tax authorities for information reporting purposes. Related guide: US tax reporting ...",
    "title": "Tax Forms | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:8857171565754293260": {
+   "first_seen": "2026-11-01T18:08:52Z",
+   "link": "https://docs.stripe.com/capital?capital-country=GB",
+   "summary": "Stripe, with our financial partner, uses a combination of factors, including overall processing volume and history on Stripe to determine eligibility ...",
+   "title": "How Stripe Capital works"
   },
   "tag:google.com,2013:googlealerts/feed:914212263924450625": {
    "first_seen": "2026-10-21T11:47:05Z",
