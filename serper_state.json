@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 27517,
+  "credits_used": 27569,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T18:43:16Z",
+  "last_run": "2026-11-02T19:42:40Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 553
+  "runs": 554
  },
  "feeds": {
   "adp-help": {
@@ -7117,6 +7117,15 @@
     "page": 1,
     "summary": "Marissa Perlmutter joined Barnes & Thornburg as a partner in Washington, DC, the firm announced Wednesday.",
     "title": "Barnes & Thornburg Recruits Public Finance Partner in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/barnes-thornburg-taps-two-product-liability-partners-in-dc-ny": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-02T19:42:40Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/barnes-thornburg-taps-two-product-liability-partners-in-dc-ny",
+    "page": 1,
+    "summary": "Brett F. Clements and Nora E. Wolf joined Barnes & Thornburg as partners in its product liability and mass torts practice, the firm announced Oct. 29.",
+    "title": "Barnes & Thornburg Taps Two Product Liability Partners in ..."
    },
    "news.bloomberglaw.com/business-and-practice/bayer-wins-st-louis-roundup-trial-bolstering-settlement-push": {
     "baseline": false,
