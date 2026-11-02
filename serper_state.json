@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 26686,
+  "credits_used": 26738,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T02:26:42Z",
+  "last_run": "2026-11-02T03:26:51Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 537
+  "runs": 538
  },
  "feeds": {
   "adp-help": {
@@ -23325,6 +23325,15 @@
     "page": 1,
     "summary": "Common daily retail tasks include verifying cash floats, conducting cycle counts, restocking sales displays, maintaining floor cleanliness, performing security ...",
     "title": "Retail Store Daily Checklist: Opening, Closing & More"
+   },
+   "lightspeedhq.com/blog/speed-up-checkout": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-02T03:26:51Z",
+    "link": "https://www.lightspeedhq.com/blog/speed-up-checkout/",
+    "page": 1,
+    "summary": "Learn how growing retailers can reduce payment errors, shorten checkout lines and improve high-volume sales with better workflows, hardware and integrated ...",
+    "title": "How to Reduce Payment Errors and Speed Up Checkout"
    }
   },
   "lightspeed-hq-press": {
@@ -35603,6 +35612,15 @@
     "page": 5,
     "summary": "You should turn your hobby into a business if the opportunity still makes sense after you account for demand, pricing, compliance, customer service, and your ...",
     "title": "How to Turn Your Hobby Into a Business in 2026"
+   },
+   "shopify.com/blog/how-to-buy-a-domain": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-02T03:26:51Z",
+    "link": "https://www.shopify.com/blog/how-to-buy-a-domain",
+    "page": 3,
+    "summary": "The second-level domain is the name immediately to the left of the TLD. In Shopify.com, \u201cShopify\u201d is the second-level domain. Together, \u201cShopify\u201d and \u201c.com\u201d ...",
+    "title": "How To Buy a Domain Name Step by Step (2026)"
    },
    "shopify.com/blog/how-to-design-a-shirt": {
     "baseline": false,
