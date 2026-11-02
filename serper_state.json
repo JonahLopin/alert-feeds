@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 27303,
+  "credits_used": 27356,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T14:42:47Z",
+  "last_run": "2026-11-02T15:43:01Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 549
+  "runs": 550
  },
  "feeds": {
   "adp-help": {
@@ -16619,6 +16619,15 @@
     "summary": "DoorDash Ads today announced it has earned incrementality certification from the Alliance for Audited Media (AAM), alongside new research with Circana and Ipsos ...",
     "title": "DoorDash Earns AAM Incrementality Certification and ..."
    },
+   "about.doordash.com/en-us/news/doordash-holiday-deals-decor-hosting": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-02T15:43:01Z",
+    "link": "https://about.doordash.com/en-us/news/doordash-holiday-deals-decor-hosting",
+    "page": 1,
+    "summary": "From a new Holiday Hub to daily DashPass savings and up to 50% off during Black Friday week, DoorDash makes it easy to spend less and celebrate more.",
+    "title": "The Holidays Just Got Easier: Gifts, Christmas Trees ..."
+   },
    "about.doordash.com/en-us/news/doordash-introduces-brand-center": {
     "baseline": false,
     "date_hint": "56 minutes ago",
@@ -16636,6 +16645,15 @@
     "page": 1,
     "summary": "The combined company will offer grocers and retailers of every size DoorDash's delivery network and Instacart's grocery and fulfillment technology, in both apps ...",
     "title": "DoorDash to Acquire Instacart to Help Local Stores Win"
+   },
+   "about.doordash.com/en-us/news/meal-boxes-and-catering": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-02T15:43:01Z",
+    "link": "https://about.doordash.com/en-us/news/meal-boxes-and-catering",
+    "page": 1,
+    "summary": "DoorDash introduces balanced and affordable meals for $12, and expands catering for consumers and workplaces, with in-app assistant to help build catering ...",
+    "title": "From a Meal for One to Catering for 150"
    },
    "about.doordash.com/en-us/news/multiple-grocery-partners": {
     "baseline": false,
@@ -27390,6 +27408,15 @@
     "summary": "Autonomous HCM ist die Zukunft des Human Capital Management. Dabei sorgt KI f\u00fcr eine Automatisierung durchg\u00e4ngiger Prozesse, erm\u00f6glicht kontextbezogene ...",
     "title": "Autonomous HCM: Die Zukunft der Personalabteilungen"
    },
+   "news.sap.com/germany/2026/11/luecke-ki-governance?amp=1": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-11-02T15:43:01Z",
+    "link": "https://news.sap.com/germany/2026/11/luecke-ki-governance/?amp=1",
+    "page": 1,
+    "summary": "Erfahren Sie, wie die SAP zur KI-Akzeptanz beitr\u00e4gt und ethische Grunds\u00e4tze f\u00fcr vertrauensvolle Technologien etabliert.",
+    "title": "KI-Akzeptanz und die Verantwortung der Unternehmen"
+   },
    "news.sap.com/germany/features": {
     "baseline": false,
     "date_hint": "6 hours ago",
@@ -27560,6 +27587,15 @@
     "page": 1,
     "summary": "L'edizione 2026 dei SAP Quality Award segna un momento significativo: per la prima volta, il riconoscimento dedicato ai Clienti e Partner SAP che hanno ...",
     "title": "l'AI agentica protagonista dei progetti premiati"
+   },
+   "news.sap.com/italy/2026/11/sap-una-nuova-generazione-di-supply-chain-collaboration-per-i-processi-vmi-di-pirelli?amp=1": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-02T15:43:01Z",
+    "link": "https://news.sap.com/italy/2026/11/sap-una-nuova-generazione-di-supply-chain-collaboration-per-i-processi-vmi-di-pirelli/?amp=1",
+    "page": 1,
+    "summary": "SAP consente a Pirelli di accelerare la collaborazione con i propri partner strategici di filiera, attraverso un progetto di Business Network Supply Chain ...",
+    "title": "una nuova generazione di Supply Chain Collaboration per ..."
    },
    "news.sap.com/japan/2026/10/1008_sap-a-leader-2026-idc-marketscape-ai-enabled-direct-spend/professional-indian-customer-support-executive-at-work": {
     "baseline": false,
@@ -41054,6 +41090,15 @@
     "summary": "Deprecate when you need to make an extension version unavailable for new activations while allowing extensions already activated on that version to continue ...",
     "title": "Deprecate and archive extensions"
    },
+   "docs.stripe.com/fundraising/safes": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-02T15:43:01Z",
+    "link": "https://docs.stripe.com/fundraising/safes",
+    "page": 1,
+    "summary": "With Stripe Fundraising, you create a board consent to approve a round of fundraising, and then send Simple Agreements for Future Equity (SAFEs) to investors.",
+    "title": "Fundraise with SAFEs"
+   },
    "docs.stripe.com/global-payouts/recipient-countries": {
     "baseline": false,
     "date_hint": "8 hours ago",
@@ -41242,6 +41287,15 @@
     "summary": "You can use the Stripe API to accept gift card payments and perform operations such as activation, balance inquiries, reloads, cash out, and voids.",
     "title": "Gift card payments"
    },
+   "docs.stripe.com/payments/gopay/set-up-future-payments": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-02T15:43:01Z",
+    "link": "https://docs.stripe.com/payments/gopay/set-up-future-payments",
+    "page": 2,
+    "summary": "GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.",
+    "title": "Set up future GoPay payments"
+   },
    "docs.stripe.com/payments/ideal/set-up-payment": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -41331,6 +41385,15 @@
     "summary": "The Setup Intents API lets you save a customer's payment details without an initial payment. This is helpful if you want to onboard customers now, ...",
     "title": "Save a customer's payment method without making a"
    },
+   "docs.stripe.com/payments/sepa-debit/set-up-payment": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-02T15:43:01Z",
+    "link": "https://docs.stripe.com/payments/sepa-debit/set-up-payment",
+    "page": 2,
+    "summary": "Learn how to save payment method details for future SEPA Direct Debit payments.",
+    "title": "Save SEPA Direct Debit details for future payments"
+   },
    "docs.stripe.com/payments/sepa-debit/set-up-payment?locale=fr-FR": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -41348,6 +41411,15 @@
     "page": 1,
     "summary": "Stripe \u4ee5\u63d0\u73b0\u7684\u5f62\u5f0f\u5c06\u8d44\u91d1\u4ece\u60a8\u7684\u53ef\u7528\u4f59\u989d\u53d1\u9001\u5230\u60a8\u7684\u94f6\u884c\u8d26\u6237\uff1a. **\u9996\u6b21\u63d0\u73b0\uff1a**\u5728\u60a8\u6210\u529f\u63a5\u6536\u7b2c\u4e00\u7b14\u771f\u5b9e\u4ed8\u6b3e\u540e\uff0cStripe \u901a\u5e38\u4f1a\u5b89\u6392\u60a8\u7684\u521d\u59cb\u63d0\u73b0\u57287 \u2013 14 \u5929\u5185\u5b8c\u6210\uff0c ...",
     "title": "\u63a5\u6536\u63d0\u73b0\u6b3e\u9879"
+   },
+   "docs.stripe.com/radar/account-security-events": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-02T15:43:01Z",
+    "link": "https://docs.stripe.com/radar/account-security-events",
+    "page": 1,
+    "summary": "Use the Create an Account Activity API to report security events that have occurred on your customers' accounts with your business.",
+    "title": "Report account security events"
    },
    "docs.stripe.com/radar/analytics/transaction-fraud-alerts?locale=fr-FR": {
     "baseline": false,

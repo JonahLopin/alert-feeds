@@ -2,8 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-02T14:42:47Z</updated>
+  <updated>2026-11-02T15:43:01Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/radar/account-security-events</id>
+    <title>Report account security events</title>
+    <link href="https://docs.stripe.com/radar/account-security-events" />
+    <published>2026-11-02T15:43:01Z</published>
+    <updated>2026-11-02T15:43:01Z</updated>
+    <summary>Use the Create an Account Activity API to report security events that have occurred on your customers' accounts with your business.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/payments/sepa-debit/set-up-payment</id>
+    <title>Save SEPA Direct Debit details for future payments</title>
+    <link href="https://docs.stripe.com/payments/sepa-debit/set-up-payment" />
+    <published>2026-11-02T15:43:01Z</published>
+    <updated>2026-11-02T15:43:01Z</updated>
+    <summary>Learn how to save payment method details for future SEPA Direct Debit payments.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/payments/gopay/set-up-future-payments</id>
+    <title>Set up future GoPay payments</title>
+    <link href="https://docs.stripe.com/payments/gopay/set-up-future-payments" />
+    <published>2026-11-02T15:43:01Z</published>
+    <updated>2026-11-02T15:43:01Z</updated>
+    <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/fundraising/safes</id>
+    <title>Fundraise with SAFEs</title>
+    <link href="https://docs.stripe.com/fundraising/safes" />
+    <published>2026-11-02T15:43:01Z</published>
+    <updated>2026-11-02T15:43:01Z</updated>
+    <summary>With Stripe Fundraising, you create a board consent to approve a round of fundraising, and then send Simple Agreements for Future Equity (SAFEs) to investors.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/checkout/sessions/retrieve</id>
     <title>Retrieve a Checkout Session | Stripe API Reference</title>
@@ -771,37 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>A Checkout Session represents your customer's session as they pay for one-time purchases or subscriptions through Checkout or Payment Links. We recommend ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESaAHrOzAVovw7zMA3zAAtWkXNkkJYq33-s7G7erk8GFaSDfbJbZkjU2likLp4cHvUO4UdHRgCWPday8PH1ZhmQh13xE0QzlshLn0dXdJd5MUzQgICzhO_OCjOOoW1CNB1zL-5fbE2xPbu&amp;gsessionid=9YGUaA7FJZYXUCmcXAck9DIKgCHPczYgnPljaalnVt1tfmGquIMDZw</id>
-    <title>Retrieve account | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESaAHrOzAVovw7zMA3zAAtWkXNkkJYq33-s7G7erk8GFaSDfbJbZkjU2likLp4cHvUO4UdHRgCWPday8PH1ZhmQh13xE0QzlshLn0dXdJd5MUzQgICzhO_OCjOOoW1CNB1zL-5fbE2xPbu&amp;gsessionid=9YGUaA7FJZYXUCmcXAck9DIKgCHPczYgnPljaalnVt1tfmGquIMDZw" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>Returns an Account object if the call succeeds. If the account ID does not exist, this call raises an error. curl https://api.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVvqZ_aziZPe6Y6r7Xt3JuWpee74RrOytiNtXmtuDtkyJUUPX3EDeE6eMBiuoMzVXoCsXEznIhbJH6b8zonw14EXihaDStVIBFx5RDbozn997Iob3ySmjSrCvL8LPAV7B_nw&amp;gsessionid=dwLrPKaqRD9uigBYQOjcjb90e0rF1vD5m6-xFIa6LKNKBS0qbF9-fA</id>
-    <title>Update an invoice | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVvqZ_aziZPe6Y6r7Xt3JuWpee74RrOytiNtXmtuDtkyJUUPX3EDeE6eMBiuoMzVXoCsXEznIhbJH6b8zonw14EXihaDStVIBFx5RDbozn997Iob3ySmjSrCvL8LPAV7B_nw&amp;gsessionid=dwLrPKaqRD9uigBYQOjcjb90e0rF1vD5m6-xFIa6LKNKBS0qbF9-fA" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>In many markets, regulations require invoices to be unique, sequential and / or gapless. You are responsible for ensuring this is true across all your different ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAV7kXWbxU1-ArUgxsx7nWZjuVzMbkgVONLeSUwoaWIY6o0sMhw26SLqg3mJIvhL3fTMb51g9ivyU6TmH5oTCPkbTAPISCbIa4QjlRlzjW7bqujdkbRW1vf66woAI3scLcwEA&amp;gsessionid=FfOlVQ46PXG_0VoI5bH7c9ylcQ-ABHFO1bQ9sZoPwWcsCM4aqvfz0A</id>
-    <title>Payment Intents | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAV7kXWbxU1-ArUgxsx7nWZjuVzMbkgVONLeSUwoaWIY6o0sMhw26SLqg3mJIvhL3fTMb51g9ivyU6TmH5oTCPkbTAPISCbIa4QjlRlzjW7bqujdkbRW1vf66woAI3scLcwEA&amp;gsessionid=FfOlVQ46PXG_0VoI5bH7c9ylcQ-ABHFO1bQ9sZoPwWcsCM4aqvfz0A" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>A PaymentIntent guides you through the process of collecting a payment from your customer. We recommend that you create exactly one PaymentIntent for each ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZAHrOzAVDI-x6CQJzC6QX5-ZOq-DuQtZY9hzUZr2WiwsoRfnDSmFQRwA9_S7oQJvjGH6RrsEwYNqoA3F7qQHdVUOMmaU8aheIfZgGbnQT91pduTv9KoicCrS1F5Sp2ubZjTEaU0&amp;gsessionid=dwLrPKaqRD9uigBYQOjcjb90e0rF1vD5m6-xFIa6LKNKBS0qbF9-fA</id>
-    <title>Send an invoice for manual payment v1</title>
-    <link href="https://www.google.com/goto?url=CAESZAHrOzAVDI-x6CQJzC6QX5-ZOq-DuQtZY9hzUZr2WiwsoRfnDSmFQRwA9_S7oQJvjGH6RrsEwYNqoA3F7qQHdVUOMmaU8aheIfZgGbnQT91pduTv9KoicCrS1F5Sp2ubZjTEaU0&amp;gsessionid=dwLrPKaqRD9uigBYQOjcjb90e0rF1vD5m6-xFIa6LKNKBS0qbF9-fA" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>Stripe will automatically send invoices to customers according to your subscriptions settings. However, if you'd like to manually send an invoice to your ...</summary>
   </entry>
 </feed>
