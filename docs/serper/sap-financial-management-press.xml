@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-02T16:42:52Z</updated>
+  <updated>2026-11-02T17:43:28Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/2026/11/luecke-ki-governance/</id>
+    <title>KI-Akzeptanz und die Verantwortung der Unternehmen</title>
+    <link href="https://news.sap.com/germany/2026/11/luecke-ki-governance/" />
+    <published>2026-11-02T17:43:28Z</published>
+    <updated>2026-11-02T17:43:28Z</updated>
+    <summary>Erfahren Sie, wie die SAP zur KI-Akzeptanz beiträgt und ethische Grundsätze für vertrauensvolle Technologien etabliert.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/italy/2026/11/sap-una-nuova-generazione-di-supply-chain-collaboration-per-i-processi-vmi-di-pirelli/</id>
     <title>una nuova generazione di Supply Chain Collaboration per ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T03:43:22Z</published>
     <updated>2026-10-31T03:43:22Z</updated>
     <summary>Meteen naar de inhoud. Blogs &amp; Nieuws · Press · Artikelen · Onderwerpen · Volg. Ontdek SAP. Verken alle gebieden van SAP. Training en support.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESwwEB6zswFRdj11dXPlPNX-A9ganDE7EKCIy40PaKB3MHvwo3AOX6nywKWxvbuVluGiISioWOpiIWwrQhCvSvVJkBkAe5Yd8n_xb6ChUtpngobxvZdl31S9oYYvSWibXjSy8pnxrb8xGjWT-RMJRkm6ev7Vbi9n6hHayLKm3z_1fPa6rZKBqHtE-9yz4H2QDF4cs3qfSuBQRXHbssa2BQxBUWs6JD8Y7mpG6dxNvh9tuykRd8W9OU7AZuHvu2-cRmRXLYbjU</id>
-    <title>SAP en NTT willen samenwerken aan betrouwbare ...</title>
-    <link href="https://www.google.com/goto?url=CAESwwEB6zswFRdj11dXPlPNX-A9ganDE7EKCIy40PaKB3MHvwo3AOX6nywKWxvbuVluGiISioWOpiIWwrQhCvSvVJkBkAe5Yd8n_xb6ChUtpngobxvZdl31S9oYYvSWibXjSy8pnxrb8xGjWT-RMJRkm6ev7Vbi9n6hHayLKm3z_1fPa6rZKBqHtE-9yz4H2QDF4cs3qfSuBQRXHbssa2BQxBUWs6JD8Y7mpG6dxNvh9tuykRd8W9OU7AZuHvu2-cRmRXLYbjU" />
-    <published>2026-10-31T02:42:41Z</published>
-    <updated>2026-10-31T02:42:41Z</updated>
-    <summary>SAP en NTT willen hun technologie en dienstverlening combineren om organisaties te helpen profiteren van innovaties op het gebied van cloud en AI.</summary>
   </entry>
 </feed>

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-02T16:42:52Z</updated>
+  <updated>2026-11-02T17:43:28Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/quotes/pdf</id>
+    <title>Download quote PDF | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/quotes/pdf" />
+    <published>2026-11-02T17:43:28Z</published>
+    <updated>2026-11-02T17:43:28Z</updated>
+    <summary>Need help? Contact Support. Chat with Stripe developers on Discord. Check out our changelog. Questions? Contact Sales. LLM? Read llms.txt.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/radar/customer-risk</id>
     <title>Customer risk</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>The URL to which Stripe should send customers when payment or setup is complete. This parameter is not allowed if ui_mode is embedded_page or elements . If you' ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbwHrOzAVAXdo3gLWKPLIEfBRZIiCfA05qWXN_jM0WyH7x1rGFY5HoZCAp4V4nRL0wbOoF2SWE9yJHD8c49ywL7bJq2H0waqwy_Uzh3aXoDE3e05L4jI1AAt6HE4M2eeVy_nMpCrbaQ3YH-Sufojgdw&amp;gsessionid=AoW1CnEIPxJ9lis8GbLQsDCe4_O6sGgAeTn4_ATIwd6iqKlKtRSj5w</id>
-    <title>Deactivate a billing alert | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESbwHrOzAVAXdo3gLWKPLIEfBRZIiCfA05qWXN_jM0WyH7x1rGFY5HoZCAp4V4nRL0wbOoF2SWE9yJHD8c49ywL7bJq2H0waqwy_Uzh3aXoDE3e05L4jI1AAt6HE4M2eeVy_nMpCrbaQ3YH-Sufojgdw&amp;gsessionid=AoW1CnEIPxJ9lis8GbLQsDCe4_O6sGgAeTn4_ATIwd6iqKlKtRSj5w" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>Unique identifier for the object. Returns. Returns the alert with its updated status. Server-side language. cURL. cURL. Stripe CLI. Ruby. Python. PHP. Java.</summary>
   </entry>
 </feed>
