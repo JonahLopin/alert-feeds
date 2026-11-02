@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 27147,
+  "credits_used": 27199,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T11:42:37Z",
+  "last_run": "2026-11-02T12:42:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 546
+  "runs": 547
  },
  "feeds": {
   "adp-help": {
@@ -7172,6 +7172,15 @@
     "summary": "The record-setting $6.3 billion hack of Binance, the world's biggest cryptocurrency exchange, has been blamed on alleged North Korean hackers, ...",
     "title": "Binance Heist Shows Power of Suspected North Korean ..."
    },
+   "news.bloomberglaw.com/business-and-practice/binance-outflows-hit-4-7-billion-after-record-north-korea-hack": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-02T12:42:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/binance-outflows-hit-4-7-billion-after-record-north-korea-hack",
+    "page": 1,
+    "summary": "Traders have pulled billions from Binance since late last week, when the crypto exchange giant suffered the largest cyber theft in history.",
+    "title": "Binance Outflows Hit $4.7 Billion After Record North Korea ..."
+   },
    "news.bloomberglaw.com/business-and-practice/binance-says-everything-is-ok-it-really-isnt-lionel-laurent": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -9541,6 +9550,15 @@
     "page": 4,
     "summary": "Live Nation Empire That Music Fans Hate is at Risk of a Break Up ... The Crowbar nightclub of Tampa, Florida never looked like much outside: a squat building with ...",
     "title": "Live Nation Empire That Music Fans Hate is at Risk of a ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/lobbyists-rake-in-record-revenue-for-influencing-ai-policy-in-q3": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-02T12:42:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/lobbyists-rake-in-record-revenue-for-influencing-ai-policy-in-q3",
+    "page": 1,
+    "summary": "K Street firms hauled in nearly $60 million for AI lobbying, a Bloomberg Government analysis of federal disclosures revealed.",
+    "title": "Lobbyists Rake in Record Revenue for Influencing AI ..."
    },
    "news.bloomberglaw.com/business-and-practice/lockheed-unveils-new-patriot-for-us-army-air-defense-contest": {
     "baseline": false,
@@ -23343,6 +23361,15 @@
     "page": 1,
     "summary": "Learn how growing retailers can reduce payment errors, shorten checkout lines and improve high-volume sales with better workflows, hardware and integrated ...",
     "title": "How to Reduce Payment Errors and Speed Up Checkout"
+   },
+   "lightspeedhq.com/blog/what-is-a-lot-number": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-02T12:42:43Z",
+    "link": "https://www.lightspeedhq.com/blog/what-is-a-lot-number/",
+    "page": 1,
+    "summary": "A lot number is a unique identifier assigned to a group of products or materials manufactured or processed together under the same conditions.",
+    "title": "What is a Lot Number? A Complete Guide"
    }
   },
   "lightspeed-hq-press": {
@@ -26597,6 +26624,15 @@
     "page": 1,
     "summary": "Organisations need to combine intelligence with business context to make their operations predictive rather than reactive, according to SAP.",
     "title": "SAP says Enterprise Context is Key to Predictive AI ..."
+   },
+   "news.sap.com/africa/2026/11/sap-beefs-up-business-ai-platform-and-joule-to-drive-agentic-ai-adoption": {
+    "baseline": false,
+    "date_hint": "48 minutes ago",
+    "first_seen": "2026-11-02T12:42:43Z",
+    "link": "https://news.sap.com/africa/2026/11/sap-beefs-up-business-ai-platform-and-joule-to-drive-agentic-ai-adoption/",
+    "page": 1,
+    "summary": "SAP said its strategy is to advance the development and adoption of agentic AI by providing richer business and data context for agents, and governance controls ...",
+    "title": "SAP Beefs up Business AI Platform and Joule to Drive ..."
    },
    "news.sap.com/australia/2026/10/19/sap-launches-supply-chain-centre-of-excellence-in-anz": {
     "baseline": false,

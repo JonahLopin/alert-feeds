@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-02T08:43:04Z</updated>
+  <updated>2026-11-02T12:42:43Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/africa/2026/11/sap-beefs-up-business-ai-platform-and-joule-to-drive-agentic-ai-adoption/</id>
+    <title>SAP Beefs up Business AI Platform and Joule to Drive ...</title>
+    <link href="https://news.sap.com/africa/2026/11/sap-beefs-up-business-ai-platform-and-joule-to-drive-agentic-ai-adoption/" />
+    <published>2026-11-02T12:42:43Z</published>
+    <updated>2026-11-02T12:42:43Z</updated>
+    <summary>SAP said its strategy is to advance the development and adoption of agentic AI by providing richer business and data context for agents, and governance controls ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/sea/2026/11/beyond-the-demo-sap-apac-partners-turning-agentic-ai-into-business-reality/?amp=1</id>
     <title>Beyond the Demo: SAP APAC Partners Turning Agentic AI ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T02:42:41Z</published>
     <updated>2026-10-31T02:42:41Z</updated>
     <summary>Feature articles, press releases, blogs, news, information &amp; stories from SAP about about cloud trends and topics, cloud software, cloud solutions, ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAES9wEB6zswFacm2M6SOUrG7y0wc5ay2jlSVzuwocfrp9W7QW554xDx_mTqMYawYF-VI8X10WbixveqPFoKhmU7TxSUn0IkecLbJnat35KtygK8C8PwHbAJ6DJDQOyeNbYmhRZ_qtYJXfg2GFx17VMvy88voD0eDvrLEHiy_Uk_hu46FZTuC0HFPup9C4iV5DXStXQm3GDpomN0gz55tfFBLTvOOgxhPa2gE9pT47reVMtAfPL3lSTOjrxvxrYHDWoAASirZtmhNyyGQBuEwXpnVDLrT7Uih-jCs_yv1C-gCq0dUyN9lsDYm3CP9vS7nKPqutOG7-UDKjOK</id>
-    <title>SAP, 클라우드 ERP 전환에 AI 어시스턴트 4종 투입</title>
-    <link href="https://www.google.com/goto?url=CAES9wEB6zswFacm2M6SOUrG7y0wc5ay2jlSVzuwocfrp9W7QW554xDx_mTqMYawYF-VI8X10WbixveqPFoKhmU7TxSUn0IkecLbJnat35KtygK8C8PwHbAJ6DJDQOyeNbYmhRZ_qtYJXfg2GFx17VMvy88voD0eDvrLEHiy_Uk_hu46FZTuC0HFPup9C4iV5DXStXQm3GDpomN0gz55tfFBLTvOOgxhPa2gE9pT47reVMtAfPL3lSTOjrxvxrYHDWoAASirZtmhNyyGQBuEwXpnVDLrT7Uih-jCs_yv1C-gCq0dUyN9lsDYm3CP9vS7nKPqutOG7-UDKjOK" />
-    <published>2026-10-31T02:42:41Z</published>
-    <updated>2026-10-31T02:42:41Z</updated>
-    <summary>수천 가지 결정이 필요한 클라우드 ERP 전환에 SAP가 AI 어시스턴트 4종을 투입했습니다. 데이터 관리부터 테스트, 커스텀 코드, 비즈니스 구성까지, 얼리 어답터 고객 ...</summary>
   </entry>
 </feed>
