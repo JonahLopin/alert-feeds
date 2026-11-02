@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 27199,
+  "credits_used": 27251,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T12:42:43Z",
+  "last_run": "2026-11-02T13:42:41Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 547
+  "runs": 548
  },
  "feeds": {
   "adp-help": {
@@ -9308,6 +9308,15 @@
     "summary": "A spate of cyberattacks that has rocked Japan Inc. in recent weeks is alarming not because of some novel artificial intelligence hacking methods, ...",
     "title": "Karaoke Hack Shows Routine Cybercrime: Catherine ..."
    },
+   "news.bloomberglaw.com/business-and-practice/kennedys-joins-dallas-law-firm-rush-with-aviation-trial-boutique": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-02T13:42:41Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kennedys-joins-dallas-law-firm-rush-with-aviation-trial-boutique",
+    "page": 1,
+    "summary": "Kennedys is combining with Cunningham Swaim, a 14-lawyer aviation trial boutique that defended the helicopter operators sued over the crash that killed NBA ...",
+    "title": "Kennedys Joins Dallas Law Firm Rush With Aviation Trial ..."
+   },
    "news.bloomberglaw.com/business-and-practice/kentucky-shareholder-adviser-law-draws-investor-advocates-suit-1": {
     "baseline": false,
     "date_hint": "23 hours ago",
@@ -11176,6 +11185,15 @@
     "page": 3,
     "summary": "President Donald Trump is set to direct the federal government to seek ways to overcome state obstacles to energy projects, following efforts threatening ...",
     "title": "Trump to Direct Agencies to Counter States Blocking ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trump-voter-lawsuits-offer-democrats-blueprint-for-legal-defense": {
+    "baseline": false,
+    "date_hint": "58 minutes ago",
+    "first_seen": "2026-11-02T13:42:41Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-voter-lawsuits-offer-democrats-blueprint-for-legal-defense",
+    "page": 1,
+    "summary": "What if the administration deployed armed troops or immigration officers to polling stations? Sought warrants to seize ballots? Attempted to block certification ...",
+    "title": "Trump Voter Lawsuits Offer Democrats Blueprint for Legal ..."
    },
    "news.bloomberglaw.com/business-and-practice/trumps-dhs-asks-supreme-court-to-allow-border-wall-in-big-bend": {
     "baseline": false,
