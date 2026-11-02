@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-02T17:43:28Z</updated>
+  <updated>2026-11-02T18:43:16Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/trumps-doj-turns-to-supreme-court-in-california-ballot-clash</id>
+    <title>Trump's DOJ Turns to Supreme Court in California Ballot ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/trumps-doj-turns-to-supreme-court-in-california-ballot-clash" />
+    <published>2026-11-02T18:43:16Z</published>
+    <updated>2026-11-02T18:43:16Z</updated>
+    <summary>The Trump administration asked the US Supreme Court to inject itself into Tuesday's midterms by ordering California to set aside as many as 20,000 mail-in ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/white-case-hires-three-leveraged-finance-partners-in-new-york</id>
     <title>White &amp; Case Hires Three Leveraged Finance Partners in ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T12:42:37Z</published>
     <updated>2026-10-31T12:42:37Z</updated>
     <summary>SeatGeek Inc. defeated a proposed class action alleging it illegally disclosed consumers' personal information to TikTok Inc. , Meta Platforms Inc.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESrQEB6zswFaU9rFXYQ1zmSYf48WUpy_SEabUhdB7ElCV1j7pdFaL4iUpSwEqncpM11ieOBWL9P4rqZJEoqHrImZihAyGPeeKVwkw0D1fpGDGmrye1lm_hHCioHnRF1Q5jBa9LqGwVbtTminXYjv0sPQnaDCHyGaFK4l0Rx77K0SDPsy_osOuBMKS3GFKwJNqzmZ0sFrtdcuccSvF0KBYbIAgBVSrvP1ba6_xOX4z7PQ</id>
-    <title>DOJ Resists Handing Over Information to Judge In ...</title>
-    <link href="https://www.google.com/goto?url=CAESrQEB6zswFaU9rFXYQ1zmSYf48WUpy_SEabUhdB7ElCV1j7pdFaL4iUpSwEqncpM11ieOBWL9P4rqZJEoqHrImZihAyGPeeKVwkw0D1fpGDGmrye1lm_hHCioHnRF1Q5jBa9LqGwVbtTminXYjv0sPQnaDCHyGaFK4l0Rx77K0SDPsy_osOuBMKS3GFKwJNqzmZ0sFrtdcuccSvF0KBYbIAgBVSrvP1ba6_xOX4z7PQ" />
-    <published>2026-10-31T12:42:37Z</published>
-    <updated>2026-10-31T12:42:37Z</updated>
-    <summary>The Justice Department won't hand over information to the Chicago federal judge probing its conduct in the “Broadview Six” scandal unless they get ...</summary>
   </entry>
 </feed>
