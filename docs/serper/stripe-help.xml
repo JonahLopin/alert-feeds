@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-01T22:05:44Z</updated>
+  <updated>2026-11-02T00:19:20Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/subscriptions/retrieve</id>
+    <title>Retrieve a subscription | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/subscriptions/retrieve" />
+    <published>2026-11-02T00:19:20Z</published>
+    <updated>2026-11-02T00:19:20Z</updated>
+    <summary>Retrieves the subscription with the given ID. Parameters. No parameters. More parameters. Collapse all. idstringRequired. Unique identifier for the object.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/checkout/sessions/expire</id>
     <title>Expire a Checkout Session | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>idstring. Unique identifier for the object. · data_load_timetimestamp. When the query was run, Sigma contained a snapshot of your Stripe data at this time. · file ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESgwEB6zswFa19fyiL_AcCgwohoSnuE9a6ZHebT1yDV2UOn2gR8YQG5WiljVZraFA5O0XouVxbhg7uUxKC-LEl-fMh8Uoxd9BvakGjj4S-61XE5SLEKy033ZPS2rrg4gEklbhbiS7Vk7lXXsNhijqVhBJ6ztwE6xQtFTqBHj_CmwyBDnJOVg</id>
-    <title>Enable tax by default for subscription schedules</title>
-    <link href="https://www.google.com/goto?url=CAESgwEB6zswFa19fyiL_AcCgwohoSnuE9a6ZHebT1yDV2UOn2gR8YQG5WiljVZraFA5O0XouVxbhg7uUxKC-LEl-fMh8Uoxd9BvakGjj4S-61XE5SLEKy033ZPS2rrg4gEklbhbiS7Vk7lXXsNhijqVhBJ6ztwE6xQtFTqBHj_CmwyBDnJOVg" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>The Tax integration configuration lets Stripe calculate tax automatically on subscription schedule phases that don't explicitly set automatic_tax or inherit ...</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 26531,
+  "credits_used": 26583,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-01T23:05:53Z",
+  "last_run": "2026-11-02T00:19:20Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 534
+  "runs": 535
  },
  "feeds": {
   "adp-help": {
@@ -39406,6 +39406,15 @@
     "summary": "Overview. Canceling an order depends on whether items have been sent to the kitchen. Unsent items can be canceled immediately. Sent items must first be ...",
     "title": "How to Cancel an Order (Sent vs. Unsent Items)"
    },
+   "help.spoton.com/space/SK/1916370973": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-02T00:19:20Z",
+    "link": "https://help.spoton.com/space/SK/1916370973",
+    "page": 1,
+    "summary": "SpotOn Order QR Codes provide a fast and convenient way for guests to access your online ordering experience directly from their mobile devices.",
+    "title": "QR Ordering | SpotOn Order | SpotOn Restaurant POS ..."
+   },
    "help.spoton.com/space/SK/2054849260/Opening+%26+Closing+Procedures": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -40465,6 +40474,15 @@
     "page": 2,
     "summary": "The subscription's description, meant to be displayable to the customer. Use this field to optionally store an explanation of the subscription for rendering in ...",
     "title": "The Subscription object | Stripe API Reference"
+   },
+   "docs.stripe.com/api/subscriptions/retrieve": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-02T00:19:20Z",
+    "link": "https://docs.stripe.com/api/subscriptions/retrieve",
+    "page": 3,
+    "summary": "Retrieves the subscription with the given ID. Parameters. No parameters. More parameters. Collapse all. idstringRequired. Unique identifier for the object.",
+    "title": "Retrieve a subscription | Stripe API Reference"
    },
    "docs.stripe.com/api/subscriptions/search": {
     "baseline": false,

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-10-31T18:42:46Z</updated>
+  <updated>2026-11-02T00:19:20Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/1916370973</id>
+    <title>QR Ordering | SpotOn Order | SpotOn Restaurant POS ...</title>
+    <link href="https://help.spoton.com/space/SK/1916370973" />
+    <published>2026-11-02T00:19:20Z</published>
+    <updated>2026-11-02T00:19:20Z</updated>
+    <summary>SpotOn Order QR Codes provide a fast and convenient way for guests to access your online ordering experience directly from their mobile devices.</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/2932932609</id>
     <title>SpotOn Marketing Assist | Frequently Asked Questions (FAQ)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T20:43:11Z</published>
     <updated>2026-10-30T20:43:11Z</updated>
     <summary>Adjust tips after payment for paid orders in receipt-based tipping workflows. You can adjust the tip within 10 minutes of the initial change. SpotOn Customer ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESiQEB6zswFQ6ep9VxqjyzxuZ8NxCQYeVad6aXIS3qKByX9RMuKe3F6vYxw08JFocOGDAP0b0D-bD6aMF9slqi3D8Y7z0Zw9_l2bVwvOSrrpXEh1_pRfetuos9CMcbrKu6Q8FUvxlr0BwyDJCbtqbW5wCoMo4xOIoySReDFruP9b4wQaHWMn_erNuV8Q</id>
-    <title>Clock In | SpotOn Restaurant FOH</title>
-    <link href="https://www.google.com/goto?url=CAESiQEB6zswFQ6ep9VxqjyzxuZ8NxCQYeVad6aXIS3qKByX9RMuKe3F6vYxw08JFocOGDAP0b0D-bD6aMF9slqi3D8Y7z0Zw9_l2bVwvOSrrpXEh1_pRfetuos9CMcbrKu6Q8FUvxlr0BwyDJCbtqbW5wCoMo4xOIoySReDFruP9b4wQaHWMn_erNuV8Q" />
-    <published>2026-10-30T19:42:38Z</published>
-    <updated>2026-10-30T19:42:38Z</updated>
-    <summary>Overview. Clocking in allows employees to start their shift and access the Front of House (FOH) based on their assigned job position.</summary>
   </entry>
 </feed>
