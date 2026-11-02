@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-02T18:43:16Z</updated>
+  <updated>2026-11-02T20:42:41Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/topics/corporate/</id>
+    <title>SAP SE Corporate News &amp; Informaton</title>
+    <link href="https://news.sap.com/topics/corporate/" />
+    <published>2026-11-02T20:42:41Z</published>
+    <updated>2026-11-02T20:42:41Z</updated>
+    <summary>News, feature articles, press releases, blogs, stories, and related information about SAP SE topics: sustainability, earnings, events, leadership, ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/korea/2026/10/sap-ai-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%9D%98%EB%8F%84-%EA%B8%B0%EB%B0%98-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89/sap_teched26ber_oa_7265/</id>
     <title>SAP_TECHED26BER_OA_7265 - SAP Korea 뉴스센터</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T03:43:22Z</published>
     <updated>2026-10-31T03:43:22Z</updated>
     <summary>News, information, feature articles, press releases &amp; stories from SAP about global technology and business events, conferences, etc.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESXQHrOzAVDlRtiYx6rfuxZ2ns-PbsH-HZUi8ZkR6_dZqBMWNnImIJxaKgjg0wTF_FjKKoW6aExedMTqGnuM_U0pw4mkoZPoeZ06hyeCRxNMhudfhkSVDrA_xPYtK8QQ</id>
-    <title>SAP Cloud Computing News &amp; Stories</title>
-    <link href="https://www.google.com/goto?url=CAESXQHrOzAVDlRtiYx6rfuxZ2ns-PbsH-HZUi8ZkR6_dZqBMWNnImIJxaKgjg0wTF_FjKKoW6aExedMTqGnuM_U0pw4mkoZPoeZ06hyeCRxNMhudfhkSVDrA_xPYtK8QQ" />
-    <published>2026-10-31T03:43:22Z</published>
-    <updated>2026-10-31T03:43:22Z</updated>
-    <summary>Feature articles, press releases, blogs, news, information &amp; stories from SAP about about cloud trends and topics, cloud software, cloud solutions, ...</summary>
   </entry>
 </feed>

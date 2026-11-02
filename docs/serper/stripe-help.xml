@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-02T17:43:28Z</updated>
+  <updated>2026-11-02T20:42:41Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/test_clocks</id>
+    <title>Test Clocks | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/test_clocks" />
+    <published>2026-11-02T20:42:41Z</published>
+    <updated>2026-11-02T20:42:41Z</updated>
+    <summary>A test clock enables deterministic control over objects in testmode. With a test clock, you can create objects at a frozen time in the past or future, and advance to a specific future time to observe webhooks and state changes. After the clock advances, you can either validate the current state of your scenario (and test your assumptions), change the current state of your scenario (and test ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/issuing/authorizations/test_mode_create</id>
+    <title>Create a test-mode authorization | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/issuing/authorizations/test_mode_create" />
+    <published>2026-11-02T20:42:41Z</published>
+    <updated>2026-11-02T20:42:41Z</updated>
+    <summary>The currency of the authorization. If not provided, defaults to the currency of the card. Three-letter ISO currency code, in lowercase. Must be a supported currency.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/invoice-rendering-template</id>
+    <title>Invoice Rendering Templates | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/invoice-rendering-template" />
+    <published>2026-11-02T20:42:41Z</published>
+    <updated>2026-11-02T20:42:41Z</updated>
+    <summary>Invoice Rendering Templates are used to configure how invoices are rendered on surfaces like the PDF. Invoice Rendering Templates can be created from within the Dashboard, and they can be used over the API when creating invoices.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/financial_connections/ownership</id>
+    <title>Account Owners | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/financial_connections/ownership" />
+    <published>2026-11-02T20:42:41Z</published>
+    <updated>2026-11-02T20:42:41Z</updated>
+    <summary>List Account Owners GET /v1/financial_connections/accounts/:id/owners</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/cards/delete</id>
+    <title>Delete a card | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/cards/delete" />
+    <published>2026-11-02T20:42:41Z</published>
+    <updated>2026-11-02T20:42:41Z</updated>
+    <summary>You can delete cards from a customer. If you delete a card that is currently the default source, then the most recently added source will become the new default. If you delete a card that is the last remaining source on the customer, then the default_source attribute will become null. For recipients: if you delete the default card, then the most recently added card will become the new default ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/capabilities?api-version=2026-10-28.preview</id>
+    <title>Capabilities | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/capabilities?api-version=2026-10-28.preview" />
+    <published>2026-11-02T20:42:41Z</published>
+    <updated>2026-11-02T20:42:41Z</updated>
+    <summary>This is an object representing a capability for a Stripe account. Related guide: Account capabilities</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/accounts?api-version=2026-10-28.preview</id>
+    <title>Accounts | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/accounts?api-version=2026-10-28.preview" />
+    <published>2026-11-02T20:42:41Z</published>
+    <updated>2026-11-02T20:42:41Z</updated>
+    <summary>For new integrations, we recommend using the Accounts v2 API, in place of /v1/accounts and /v1/customers to represent a user.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/quotes/pdf</id>
     <title>Download quote PDF | Stripe API Reference</title>
@@ -747,61 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>Use the Tax integration configuration API to enable automatic tax on subscriptions and understand how later updates affect tax collection.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESegHrOzAVRrKt9oebUvxPG3SmfPlvdaXNjat07HUBdKZSNNXJKEQp-74dGwS7ArAXZbSh2w9RmSTfd_4eRRVWFdrO0EZf9xX8TBup-n9XLoQ-uuir6AFsPj2hp2iygbNETeSoZfXFeiJIPseUZNcA8al1nTAPMaFsBnZl&amp;gsessionid=FfOlVQ46PXG_0VoI5bH7c9ylcQ-ABHFO1bQ9sZoPwWcsCM4aqvfz0A</id>
-    <title>Financial account report type</title>
-    <link href="https://www.google.com/goto?url=CAESegHrOzAVRrKt9oebUvxPG3SmfPlvdaXNjat07HUBdKZSNNXJKEQp-74dGwS7ArAXZbSh2w9RmSTfd_4eRRVWFdrO0EZf9xX8TBup-n9XLoQ-uuir6AFsPj2hp2iygbNETeSoZfXFeiJIPseUZNcA8al1nTAPMaFsBnZl&amp;gsessionid=FfOlVQ46PXG_0VoI5bH7c9ylcQ-ABHFO1bQ9sZoPwWcsCM4aqvfz0A" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>Use Financial account reports to analyze activity that impacts your financial account balance and view data related to your payments activity.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdgHrOzAVYEgc949enbcj-AoL7o66k86dFn35VyHHfL_Gn-XSVUBWtyOZ7ue7005Do5ymlq_n_myqLLAOIY9C_s5bmyfWB2XyT3n2d7HaBekELwj9rxZRweuUhdm8b7oXhPQXwgY08ArSjyT3eLO6wPO2_1MC8NY&amp;gsessionid=FfOlVQ46PXG_0VoI5bH7c9ylcQ-ABHFO1bQ9sZoPwWcsCM4aqvfz0A</id>
-    <title>Set up a subscription with BECS Direct Debit in Australia</title>
-    <link href="https://www.google.com/goto?url=CAESdgHrOzAVYEgc949enbcj-AoL7o66k86dFn35VyHHfL_Gn-XSVUBWtyOZ7ue7005Do5ymlq_n_myqLLAOIY9C_s5bmyfWB2XyT3n2d7HaBekELwj9rxZRweuUhdm8b7oXhPQXwgY08ArSjyT3eLO6wPO2_1MC8NY&amp;gsessionid=FfOlVQ46PXG_0VoI5bH7c9ylcQ-ABHFO1bQ9sZoPwWcsCM4aqvfz0A" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>Learn how to create and charge for a subscription with BECS Direct Debit. Create a product and price Dashboard monthly subscription. Select a Product tax code.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdgHrOzAVX4t8H0VxzgMITZqhGamserTVwsXDh2tCVIhXGiZPJValJ63XIyswszp9ZxKRD-mpb1Jk7TxhJaGMHDWIJbOb6i4pgy8DksOjr5hrfP_WapHoX2z0DtcicJFtmmZdy-bUNuCtx89nRMQbH7aqlzp6GpA&amp;gsessionid=AoW1CnEIPxJ9lis8GbLQsDCe4_O6sGgAeTn4_ATIwd6iqKlKtRSj5w</id>
-    <title>Create a portal session | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESdgHrOzAVX4t8H0VxzgMITZqhGamserTVwsXDh2tCVIhXGiZPJValJ63XIyswszp9ZxKRD-mpb1Jk7TxhJaGMHDWIJbOb6i4pgy8DksOjr5hrfP_WapHoX2z0DtcicJFtmmZdy-bUNuCtx89nRMQbH7aqlzp6GpA&amp;gsessionid=AoW1CnEIPxJ9lis8GbLQsDCe4_O6sGgAeTn4_ATIwd6iqKlKtRSj5w" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>The ID of an existing configuration to use for this session, describing its functionality and features. If not specified, the session uses the default ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdQHrOzAV3bYayv1dDQy0mF0mgjmDId6n4-3IYKPZrzu2R4CDSxdWSsBSP-PMIoFQrzhpZqAq3-mnUOuBHL2pPEwDsicmbRlu79cGhuUWpaOLRt2t7zWS92P8sEBri8mTc2EqchP47ULGRvPkOOtUY1ngUk9mIA&amp;gsessionid=FfOlVQ46PXG_0VoI5bH7c9ylcQ-ABHFO1bQ9sZoPwWcsCM4aqvfz0A</id>
-    <title>Supported recipient countries - Global Payouts</title>
-    <link href="https://www.google.com/goto?url=CAESdQHrOzAV3bYayv1dDQy0mF0mgjmDId6n4-3IYKPZrzu2R4CDSxdWSsBSP-PMIoFQrzhpZqAq3-mnUOuBHL2pPEwDsicmbRlu79cGhuUWpaOLRt2t7zWS92P8sEBri8mTc2EqchP47ULGRvPkOOtUY1ngUk9mIA&amp;gsessionid=FfOlVQ46PXG_0VoI5bH7c9ylcQ-ABHFO1bQ9sZoPwWcsCM4aqvfz0A" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>Learn which countries and currencies you can send payouts to with Global Payouts. Payouts to crypto wallets support a different set of countries.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEScgHrOzAV8JQ3AZmMHJmp6rHHJtnLWT3nMzc0EMnGP5P0c5gDPyPX2DQAvl9s2L1mXNxJfuNFV7rlUPPIZ0ZM37qPFXEZrbCLlaKLqBIN2h6VGlHR4KJYkQPgcGt7KyMZjogF5dgAwcph6mmpcNLVqMj2Sg&amp;gsessionid=9YGUaA7FJZYXUCmcXAck9DIKgCHPczYgnPljaalnVt1tfmGquIMDZw</id>
-    <title>List all bank accounts v1</title>
-    <link href="https://www.google.com/goto?url=CAEScgHrOzAV8JQ3AZmMHJmp6rHHJtnLWT3nMzc0EMnGP5P0c5gDPyPX2DQAvl9s2L1mXNxJfuNFV7rlUPPIZ0ZM37qPFXEZrbCLlaKLqBIN2h6VGlHR4KJYkQPgcGt7KyMZjogF5dgAwcph6mmpcNLVqMj2Sg&amp;gsessionid=9YGUaA7FJZYXUCmcXAck9DIKgCHPczYgnPljaalnVt1tfmGquIMDZw" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>starting_afterstring. A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEScQHrOzAV-8dLuupQn-LMzFimXIKk--N9kY6XuVvFLKt8_7Qb9jAaUhPMWANheRcVmrSk9CJan2kYjNO8AeF5dVK2QtgxYNN8Q0qpPMr87WFa1LmKOO8G8l1Uf_fyVQsjq8FnJEw9IOVit4n1XwmbdKZB&amp;gsessionid=FfOlVQ46PXG_0VoI5bH7c9ylcQ-ABHFO1bQ9sZoPwWcsCM4aqvfz0A</id>
-    <title>QRIS Payments</title>
-    <link href="https://www.google.com/goto?url=CAEScQHrOzAV-8dLuupQn-LMzFimXIKk--N9kY6XuVvFLKt8_7Qb9jAaUhPMWANheRcVmrSk9CJan2kYjNO8AeF5dVK2QtgxYNN8Q0qpPMr87WFa1LmKOO8G8l1Uf_fyVQsjq8FnJEw9IOVit4n1XwmbdKZB&amp;gsessionid=FfOlVQ46PXG_0VoI5bH7c9ylcQ-ABHFO1bQ9sZoPwWcsCM4aqvfz0A" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>(QRIS) is a real time payment system developed by the Bank of Indonesia. The service works by instantly transferring funds between two bank accounts.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbwHrOzAVxAZZ4uFTK07s_24JYZLpLQLtX2bVosPL9mycmx7kqZ-vqjAvwTnIEqzZEhoF-56H5Y_LFm_301e1pnpeAm0gI6q6fyP1AwNcFmlS4xLAloumkYhXwSHdhgRcHCJqpZVi4v1OzKttjoFgpQ&amp;gsessionid=AoW1CnEIPxJ9lis8GbLQsDCe4_O6sGgAeTn4_ATIwd6iqKlKtRSj5w</id>
-    <title>Create a Checkout Session | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESbwHrOzAVxAZZ4uFTK07s_24JYZLpLQLtX2bVosPL9mycmx7kqZ-vqjAvwTnIEqzZEhoF-56H5Y_LFm_301e1pnpeAm0gI6q6fyP1AwNcFmlS4xLAloumkYhXwSHdhgRcHCJqpZVi4v1OzKttjoFgpQ&amp;gsessionid=AoW1CnEIPxJ9lis8GbLQsDCe4_O6sGgAeTn4_ATIwd6iqKlKtRSj5w" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>The URL to which Stripe should send customers when payment or setup is complete. This parameter is not allowed if ui_mode is embedded_page or elements . If you' ...</summary>
   </entry>
 </feed>

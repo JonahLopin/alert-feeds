@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-02T03:26:51Z</updated>
+  <updated>2026-11-02T20:42:41Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/dropshipping-success</id>
+    <title>5 Real Dropshipping Success Stories + Tips (2026)</title>
+    <link href="https://www.shopify.com/blog/dropshipping-success" />
+    <published>2026-11-02T20:42:41Z</published>
+    <updated>2026-11-02T20:42:41Z</updated>
+    <summary>Read real dropshipping success stories from Shopify store owners, with dated results and early failures, plus beginner tips for your own store.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/how-to-buy-a-domain</id>
     <title>How To Buy a Domain Name Step by Step (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T10:43:10Z</published>
     <updated>2026-10-31T10:43:10Z</updated>
     <summary>Discover 17 secret websites to make money online, from survey apps to gig platforms, including current pay rates, payout minimums, and fees.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdAHrOzAVWddqIa2vycG0SJ_3gOBKqW2cq0mHu_bTKU-ai3IhcM5IbaPEs1Is50yOgbnR_j1tmoRCZEoUTTjMVq4AQqlSVvmO8jl7GJw_LVzbOPBZNGMwNdoAjqBd_jNeIPoV8cgxzJtdsE609MfejtWd9iXJ</id>
-    <title>How to test your business idea, one product at a time (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESdAHrOzAVWddqIa2vycG0SJ_3gOBKqW2cq0mHu_bTKU-ai3IhcM5IbaPEs1Is50yOgbnR_j1tmoRCZEoUTTjMVq4AQqlSVvmO8jl7GJw_LVzbOPBZNGMwNdoAjqBd_jNeIPoV8cgxzJtdsE609MfejtWd9iXJ" />
-    <published>2026-10-31T10:43:10Z</published>
-    <updated>2026-10-31T10:43:10Z</updated>
-    <summary>Test your business idea by starting with one product, using AI to find products and build your Shopify store, then learning from real customer response.</summary>
   </entry>
 </feed>

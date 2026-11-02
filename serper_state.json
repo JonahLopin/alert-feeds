@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 27569,
+  "credits_used": 27620,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T19:42:40Z",
+  "last_run": "2026-11-02T20:42:41Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 554
+  "runs": 555
  },
  "feeds": {
   "adp-help": {
@@ -16519,6 +16519,15 @@
     "summary": "How much should you spend on restaurant marketing? Get a sourced benchmark, a spend breakdown by budget size, and when paid ads pay off.",
     "title": "Restaurant Marketing Budget Breakdown: Tips to Maximize It"
    },
+   "merchants.doordash.com/en-us/blog/restaurant-marketing-ideas": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-02T20:42:41Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-marketing-ideas",
+    "page": 1,
+    "summary": "A clear, consistent brand helps customers remember the why behind your restaurant and makes every other marketing channel work harder. Keep it simple and ...",
+    "title": "25 Restaurant Marketing Ideas to Increase Sales in 2026"
+   },
    "merchants.doordash.com/en-us/blog/restaurant-order-management-system": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -28824,6 +28833,15 @@
     "summary": "Feature articles, press releases, blogs, news, information & stories from SAP about about cloud trends and topics, cloud software, cloud solutions, ...",
     "title": "SAP Cloud Computing News & Stories"
    },
+   "news.sap.com/topics/corporate": {
+    "baseline": false,
+    "date_hint": "50 minutes ago",
+    "first_seen": "2026-11-02T20:42:41Z",
+    "link": "https://news.sap.com/topics/corporate/",
+    "page": 1,
+    "summary": "News, feature articles, press releases, blogs, stories, and related information about SAP SE topics: sustainability, earnings, events, leadership, ...",
+    "title": "SAP SE Corporate News & Informaton"
+   },
    "news.sap.com/topics/crm-customer-experience": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -35767,6 +35785,15 @@
     "summary": "Explore the most profitable dropshipping niches, plus how to find one that fits your store, product ideas, and niches to avoid.",
     "title": "Dropshipping Niches: 8 Profitable Ideas for 2026"
    },
+   "shopify.com/blog/dropshipping-success": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-02T20:42:41Z",
+    "link": "https://www.shopify.com/blog/dropshipping-success",
+    "page": 2,
+    "summary": "Read real dropshipping success stories from Shopify store owners, with dated results and early failures, plus beginner tips for your own store.",
+    "title": "5 Real Dropshipping Success Stories + Tips (2026)"
+   },
    "shopify.com/blog/ebitda-vs-net-income": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -40539,6 +40566,15 @@
     "summary": "Returns an Account object if the call succeeds. If the account ID does not exist, this call raises an error. curl https://api.",
     "title": "Retrieve account | Stripe API Reference"
    },
+   "docs.stripe.com/api/accounts?api-version=2026-10-28.preview": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-02T20:42:41Z",
+    "link": "https://docs.stripe.com/api/accounts?api-version=2026-10-28.preview",
+    "page": 3,
+    "summary": "For new integrations, we recommend using the Accounts v2 API, in place of /v1/accounts and /v1/customers to represent a user.",
+    "title": "Accounts | Stripe API Reference"
+   },
    "docs.stripe.com/api/balance": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -40583,6 +40619,24 @@
     "page": 5,
     "summary": "Start of the aggregation period for which this notification was sent. Only present for usage threshold alerts.",
     "title": "The Billing Alert Notification object | Stripe API Reference"
+   },
+   "docs.stripe.com/api/capabilities?api-version=2026-10-28.preview": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-02T20:42:41Z",
+    "link": "https://docs.stripe.com/api/capabilities?api-version=2026-10-28.preview",
+    "page": 3,
+    "summary": "This is an object representing a capability for a Stripe account. Related guide: Account capabilities",
+    "title": "Capabilities | Stripe API Reference"
+   },
+   "docs.stripe.com/api/cards/delete": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-02T20:42:41Z",
+    "link": "https://docs.stripe.com/api/cards/delete",
+    "page": 3,
+    "summary": "You can delete cards from a customer. If you delete a card that is currently the default source, then the most recently added source will become the new default. If you delete a card that is the last remaining source on the customer, then the default_source attribute will become null. For recipients: if you delete the default card, then the most recently added card will become the new default ...",
+    "title": "Delete a card | Stripe API Reference"
    },
    "docs.stripe.com/api/charges/create?api-version=2026-10-28.preview": {
     "baseline": false,
@@ -40691,6 +40745,15 @@
     "summary": "By default, you can see the 10 most recent external accounts stored on a connected account directly on the object. You can also retrieve details about a ...",
     "title": "Retrieve a bank account | Stripe API Reference"
    },
+   "docs.stripe.com/api/financial_connections/ownership": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-02T20:42:41Z",
+    "link": "https://docs.stripe.com/api/financial_connections/ownership",
+    "page": 3,
+    "summary": "List Account Owners GET /v1/financial_connections/accounts/:id/owners",
+    "title": "Account Owners | Stripe API Reference"
+   },
    "docs.stripe.com/api/financial_connections/ownership/list?api-version=2026-10-28.preview": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -40717,6 +40780,15 @@
     "page": 4,
     "summary": "A string to reference this user. This can be a customer ID, a session ID, or similar, and can be used to reconcile this verification with your internal systems.",
     "title": "Create a VerificationSession | Stripe API Reference"
+   },
+   "docs.stripe.com/api/invoice-rendering-template": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-02T20:42:41Z",
+    "link": "https://docs.stripe.com/api/invoice-rendering-template",
+    "page": 3,
+    "summary": "Invoice Rendering Templates are used to configure how invoices are rendered on surfaces like the PDF. Invoice Rendering Templates can be created from within the Dashboard, and they can be used over the API when creating invoices.",
+    "title": "Invoice Rendering Templates | Stripe API Reference"
    },
    "docs.stripe.com/api/invoices/object": {
     "baseline": false,
@@ -40753,6 +40825,15 @@
     "page": 3,
     "summary": "In many markets, regulations require invoices to be unique, sequential and / or gapless. You are responsible for ensuring this is true across all your different ...",
     "title": "Update an invoice | Stripe API Reference"
+   },
+   "docs.stripe.com/api/issuing/authorizations/test_mode_create": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-02T20:42:41Z",
+    "link": "https://docs.stripe.com/api/issuing/authorizations/test_mode_create",
+    "page": 3,
+    "summary": "The currency of the authorization. If not provided, defaults to the currency of the card. Three-letter ISO currency code, in lowercase. Must be a supported currency.",
+    "title": "Create a test-mode authorization | Stripe API Reference"
    },
    "docs.stripe.com/api/issuing/transactions/test_mode_create_unlinked_refund": {
     "baseline": false,
@@ -40923,6 +41004,15 @@
     "page": 3,
     "summary": "Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.",
     "title": "Create a Reader | Stripe API Reference"
+   },
+   "docs.stripe.com/api/test_clocks": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-02T20:42:41Z",
+    "link": "https://docs.stripe.com/api/test_clocks",
+    "page": 3,
+    "summary": "A test clock enables deterministic control over objects in testmode. With a test clock, you can create objects at a frozen time in the past or future, and advance to a specific future time to observe webhooks and state changes. After the clock advances, you can either validate the current state of your scenario (and test your assumptions), change the current state of your scenario (and test ...",
+    "title": "Test Clocks | Stripe API Reference"
    },
    "docs.stripe.com/api/three-d-secure/authentication": {
     "baseline": false,
