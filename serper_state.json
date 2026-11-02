@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 27620,
+  "credits_used": 27673,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T20:42:41Z",
+  "last_run": "2026-11-02T21:42:55Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 555
+  "runs": 556
  },
  "feeds": {
   "adp-help": {
@@ -6813,6 +6813,15 @@
     "summary": "Arutiunov's practice focuses on federal income tax matters, particularly energy transactions and financings, including project finance, tax equity transactions,",
     "title": "Akin Adds Greg Arutiunov as Tax Partner in New York Office"
    },
+   "news.bloomberglaw.com/business-and-practice/akin-snares-data-center-real-estate-partner-zurawski-in-chicago": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-02T21:42:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/akin-snares-data-center-real-estate-partner-zurawski-in-chicago",
+    "page": 1,
+    "summary": "Zurawski advises clients on joint ventures, acquisitions and dispositions, leasing, development and financing transactions, representing both lenders and ...",
+    "title": "Akin Snares Data Center Real Estate Partner Zurawski in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/alabamas-app-store-age-check-law-challenged-as-unconstitutional": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -7720,6 +7729,15 @@
     "summary": "Sherrod Brown is one of several crypto critics who could play a key role on committees following the midterm elections. Photographer: Dustin Franz/Bloomberg.",
     "title": "Crypto Braces for Hostile Climate as Democrats Vie for Top ..."
    },
+   "news.bloomberglaw.com/business-and-practice/crypto-com-to-shutter-consumer-app-in-hong-kong-in-february": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-02T21:42:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/crypto-com-to-shutter-consumer-app-in-hong-kong-in-february",
+    "page": 2,
+    "summary": "Crypto.com said its consumer-facing app won't be made available to users in Hong Kong as of Feb. 1, 2027.",
+    "title": "Crypto.com to Shutter Consumer App in Hong Kong ..."
+   },
    "news.bloomberglaw.com/business-and-practice/crypto-firm-htx-exits-uk-after-settling-lawsuit-with-fca": {
     "baseline": false,
     "date_hint": "9 hours ago",
@@ -8590,6 +8608,15 @@
     "summary": "Vladimir Andric, Samuel Kim, Karim Manji, and Kara Wild joined Gordon Rees Scully Mansukhani as partners, the firm announced.",
     "title": "Four Litigation Lawyers Join GRSM in San Francisco, ..."
    },
+   "news.bloomberglaw.com/business-and-practice/freshfields-brings-on-secondaries-lawyer-brett-bush-in-new-york": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-02T21:42:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/freshfields-brings-on-secondaries-lawyer-brett-bush-in-new-york",
+    "page": 2,
+    "summary": "Brett Bush joined Freshfields as a partner in its private funds and secondaries practice in New York, the firm announced Monday.",
+    "title": "Freshfields Brings On Secondaries Lawyer Brett Bush in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/from-cfo-bots-to-analyst-prep-ai-aids-earnings-call-readiness": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -9164,6 +9191,15 @@
     "summary": "President Jon Gray pushed back on the notion that there's an AI bubble, just days after billionaire Ken Griffin said investors are \u201calmost certainly\u201d in the ...",
     "title": "Jon Gray Rebuts AI Bubble Warnings, Calls Demand ..."
    },
+   "news.bloomberglaw.com/business-and-practice/jones-day-nabs-willkie-leveraged-finance-lawyer-in-frankfurt": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-02T21:42:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/jones-day-nabs-willkie-leveraged-finance-lawyer-in-frankfurt",
+    "page": 1,
+    "summary": "Dettmar advises financial sponsors, including private equity funds and their portfolio companies, as well as debt funds, banks, and strategic investors,",
+    "title": "Jones Day Nabs Willkie Leveraged Finance Lawyer in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/judge-appears-skeptical-of-triumphal-archs-national-security-value": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -9523,6 +9559,15 @@
     "page": 1,
     "summary": "Three Big Law firms guided delivery-app DoorDash Inc.'s $17 billion plan to purchase grocery-focused rival Instacart.",
     "title": "Latham, Cravath, Cooley Aid $17 Billion DoorDash- ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/latham-watkins-hires-doj-tax-lawyer-steven-johnson-as-partner": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-02T21:42:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/latham-watkins-hires-doj-tax-lawyer-steven-johnson-as-partner",
+    "page": 1,
+    "summary": "Johnson advises clients on high-stakes tax controversies and litigation matters, including federal tax litigation, IRS examinations, and administrative appeals.",
+    "title": "Latham & Watkins Hires DOJ Tax Lawyer Steven Johnson as ..."
    },
    "news.bloomberglaw.com/business-and-practice/latham-watkins-lends-lawyer-funds-expertise-for-harvey-ai-tool": {
     "baseline": false,
@@ -10540,6 +10585,15 @@
     "summary": "Trial firm Robins Kaplan is increasing its incentives for lawyers who complete federal judicial clerkships, the firm announced Tuesday.",
     "title": "Robins Kaplan Boosts Clerkship Bonuses Past Big Law ..."
    },
+   "news.bloomberglaw.com/business-and-practice/ropes-gray-lures-private-funds-partner-yoonji-woo-in-new-york": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-02T21:42:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ropes-gray-lures-private-funds-partner-yoonji-woo-in-new-york",
+    "page": 2,
+    "summary": "Yoonji Woo joined Ropes & Gray as a partner in its asset management group in New York, the firm announced Monday.",
+    "title": "Ropes & Gray Lures Private Funds Partner Yoonji Woo in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/rulemakers-unveil-nature-reporting-guidelines-for-public-comment": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -11077,6 +11131,15 @@
     "page": 1,
     "summary": "A federal judge on Friday rejected a Justice Department bid to disqualify Susman Godfrey from representing the American Bar Association in a lawsuit that ...",
     "title": "Troutman Pepper Locke Employs Three Insurance ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/troutman-pepper-locke-lands-kirklands-east-for-pe-funds-in-dc": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-02T21:42:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/troutman-pepper-locke-lands-kirklands-east-for-pe-funds-in-dc",
+    "page": 2,
+    "summary": "Jennifer Gullotti East joined Troutman Pepper Locke as a partner in its private equity and investment funds practice group in Washington, D.C., ...",
+    "title": "Troutman Pepper Locke Lands Kirkland's East for PE ..."
    },
    "news.bloomberglaw.com/business-and-practice/troutman-pepper-locke-lands-two-health-care-litigation-partners": {
     "baseline": false,
@@ -11986,6 +12049,15 @@
     "page": 1,
     "summary": "Raphael Kuyler joined Willkie as a partner in its power and renewable energy practice in Washington, D.C., the firm announced Tuesday.",
     "title": "Willkie Taps Westinghouse Nuclear Lawyer Kuyler in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/wilson-sonsini-davis-polk-aid-115-billion-marvell-lumentum-buy": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-02T21:42:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wilson-sonsini-davis-polk-aid-115-billion-marvell-lumentum-buy",
+    "page": 2,
+    "summary": "Wilson Sonsini and Davis Polk lawyers guided Marvell Technology Inc.'s $115 billion deal to buy Lumentum Holdings Inc.",
+    "title": "Wilson Sonsini, Davis Polk Aid $115 Billion Marvell ..."
    },
    "news.bloomberglaw.com/business-and-practice/wilson-sonsini-eyes-2-billion-anthropic-stake-in-leading-ipo": {
     "baseline": false,
@@ -22215,6 +22287,15 @@
     "page": 3,
     "summary": "Dashboards show key business info like sales, profit, and cash flow. They use visuals like charts, graphs, and summaries. This helps you check your business ...",
     "title": "Create and manage dashboards - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/cancel-products-services/cancel-quickbooks-online-subscription-trial/L0MFTXlbw_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-02T21:42:55Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/cancel-products-services/cancel-quickbooks-online-subscription-trial/L0MFTXlbw_US_en_US",
+    "page": 2,
+    "summary": "Step-by-step: change or cancel your QuickBooks Online or Intuit Enterprise Suite subscription \u2014 and save hours on bookkeeping. Do it in just a few clicks.",
+    "title": "Cancel your QuickBooks Online subscription or \u200bIntuit ..."
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/case-management/use-resolution-center-manage-support-cases/L7uOjgKXA_US_en_US": {
     "baseline": false,
@@ -40870,6 +40951,15 @@
     "page": 2,
     "summary": "This field indicates whether this payment method can be shown again to its customer in a checkout flow. Stripe products such as Checkout and Elements use this ...",
     "title": "The PaymentIntent object | Stripe API Reference"
+   },
+   "docs.stripe.com/api/payment_intents/retrieve": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-02T21:42:55Z",
+    "link": "https://docs.stripe.com/api/payment_intents/retrieve",
+    "page": 3,
+    "summary": "Retrieves the details of a PaymentIntent that has previously been created. You can retrieve a PaymentIntent client-side using a publishable key when the ...",
+    "title": "Retrieve a PaymentIntent | Stripe API Reference"
    },
    "docs.stripe.com/api/payouts/update": {
     "baseline": false,

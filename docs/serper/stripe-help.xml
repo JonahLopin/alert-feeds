@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-02T20:42:41Z</updated>
+  <updated>2026-11-02T21:42:55Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/payment_intents/retrieve</id>
+    <title>Retrieve a PaymentIntent | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/payment_intents/retrieve" />
+    <published>2026-11-02T21:42:55Z</published>
+    <updated>2026-11-02T21:42:55Z</updated>
+    <summary>Retrieves the details of a PaymentIntent that has previously been created. You can retrieve a PaymentIntent client-side using a publishable key when the ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/test_clocks</id>
     <title>Test Clocks | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>Send payouts from your financial account to your recipients' external crypto wallets in more than 160 countries. Recipients receive stablecoins over a supported ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESegHrOzAVyj_YsvvPUYztFJBzpX7Vdefz8pTiuIi2fArgYH0FqCQo2N0zGb7ETCs32mOTW0tQBhDDoQQ05GtYaV9nUgDedEbTXYiKXcZ9XhRrPtPPF9VG-NUlIbbK7KB2yjD7Bftx-kqw-ofx80NLN2NfHFwL3riejcY1&amp;gsessionid=FfOlVQ46PXG_0VoI5bH7c9ylcQ-ABHFO1bQ9sZoPwWcsCM4aqvfz0A</id>
-    <title>Enable tax by default for subscriptions</title>
-    <link href="https://www.google.com/goto?url=CAESegHrOzAVyj_YsvvPUYztFJBzpX7Vdefz8pTiuIi2fArgYH0FqCQo2N0zGb7ETCs32mOTW0tQBhDDoQQ05GtYaV9nUgDedEbTXYiKXcZ9XhRrPtPPF9VG-NUlIbbK7KB2yjD7Bftx-kqw-ofx80NLN2NfHFwL3riejcY1&amp;gsessionid=FfOlVQ46PXG_0VoI5bH7c9ylcQ-ABHFO1bQ9sZoPwWcsCM4aqvfz0A" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>Use the Tax integration configuration API to enable automatic tax on subscriptions and understand how later updates affect tax collection.</summary>
   </entry>
 </feed>
