@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 27251,
+  "credits_used": 27303,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T13:42:41Z",
+  "last_run": "2026-11-02T14:42:47Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 548
+  "runs": 549
  },
  "feeds": {
   "adp-help": {
@@ -6831,6 +6831,15 @@
     "summary": "Alphabet Inc.'s Google is in talks with the US Defense Department to work on a new data security effort underpinning the $185 billion Golden Dome missile ...",
     "title": "Alphabet Is in Talks to Join Trump's Golden Dome Defense ..."
    },
+   "news.bloomberglaw.com/business-and-practice/alphabet-is-paying-up-for-euro-bonds-in-test-of-ai-appetite-3": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-02T14:42:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/alphabet-is-paying-up-for-euro-bonds-in-test-of-ai-appetite-3",
+    "page": 1,
+    "summary": "Alphabet Inc. is raising funds in the euro bond market for the second time this year, offering considerably higher yields than in its sale in May",
+    "title": "Alphabet Is Paying Up for Euro Bonds in Test of AI Appetite ..."
+   },
    "news.bloomberglaw.com/business-and-practice/alvin-hellerstein-judge-in-archegos-and-9-11-trials-dies-at-92": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -11581,6 +11590,15 @@
     "page": 3,
     "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
     "title": "Wake Up Call: PE Firm Charlesbank Invests Big in LA Law ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-silicon-valley-partners-outearned-ny-counterparts": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-02T14:42:47Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-silicon-valley-partners-outearned-ny-counterparts",
+    "page": 1,
+    "summary": "Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel. Law firm partners in Silicon Valley earned 4% more \u2014 $2.57 ...",
+    "title": "Wake Up Call: Silicon Valley Partners Outearned NY ..."
    },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-sullivan-eyes-pricey-space-to-bolster-uk-presence": {
     "baseline": false,
@@ -26571,6 +26589,15 @@
     "summary": "To evaluate and deploy CRM and ERP independently leaves a structural gap in the information available to customer-facing employees.",
     "title": "Why Enterprises Don't Evaluate CRM in Isolation"
    },
+   "news.sap.com/2026/11/ai-transformation-guidance-for-every-customer": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-02T14:42:47Z",
+    "link": "https://news.sap.com/2026/11/ai-transformation-guidance-for-every-customer/",
+    "page": 1,
+    "summary": "RAND Corporation found that 80% of enterprise AI initiatives fail to deliver their intended business value\u2014twice the failure rate of standard IT projects. S&P ...",
+    "title": "AI and Transformation Guidance for Every Customer"
+   },
    "news.sap.com/2026/11/how-india-drives-sap-ai-future": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -26648,6 +26675,15 @@
     "date_hint": "48 minutes ago",
     "first_seen": "2026-11-02T12:42:43Z",
     "link": "https://news.sap.com/africa/2026/11/sap-beefs-up-business-ai-platform-and-joule-to-drive-agentic-ai-adoption/",
+    "page": 1,
+    "summary": "SAP said its strategy is to advance the development and adoption of agentic AI by providing richer business and data context for agents, and governance controls ...",
+    "title": "SAP Beefs up Business AI Platform and Joule to Drive ..."
+   },
+   "news.sap.com/africa/2026/11/sap-beefs-up-business-ai-platform-and-joule-to-drive-agentic-ai-adoption?amp=1": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-02T14:42:47Z",
+    "link": "https://news.sap.com/africa/2026/11/sap-beefs-up-business-ai-platform-and-joule-to-drive-agentic-ai-adoption/?amp=1",
     "page": 1,
     "summary": "SAP said its strategy is to advance the development and adoption of agentic AI by providing richer business and data context for agents, and governance controls ...",
     "title": "SAP Beefs up Business AI Platform and Joule to Drive ..."
@@ -26930,6 +26966,24 @@
     "page": 2,
     "summary": "Ontologie v \u0159e\u0161en\u00ed SAP umo\u017e\u0148uje snadnou spolupr\u00e1ci AI agent\u016f a zlep\u0161en\u00ed anal\u00fdzy podnikov\u00fdch dat pro firmy.",
     "title": "Ontologie pro efektivn\u00ed \u0159\u00edzen\u00ed AI agent\u016f"
+   },
+   "news.sap.com/cz/2026/11/vetsina-firem-v-cesku-drzi-investice-do-ai-pod-milionem-korun-navratnost-vidi-tri-ctvrtiny-z-nich-ukazuji-data-sap": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-02T14:42:47Z",
+    "link": "https://news.sap.com/cz/2026/11/vetsina-firem-v-cesku-drzi-investice-do-ai-pod-milionem-korun-navratnost-vidi-tri-ctvrtiny-z-nich-ukazuji-data-sap/",
+    "page": 1,
+    "summary": "V\u011bt\u0161ina firem v \u010cesku dr\u017e\u00ed investice do AI pod milionem korun. N\u00e1vratnost vid\u00ed t\u0159i \u010dtvrtiny z nich, ukazuj\u00ed data SAP \u00b7 AI p\u0159in\u00e1\u0161\u00ed efektivitu, m\u00e9n\u011b u\u017e nov\u00e9 p\u0159\u00edjmy",
+    "title": "V\u011bt\u0161ina firem v \u010cesku dr\u017e\u00ed investice do AI pod milionem ..."
+   },
+   "news.sap.com/cz/2026/11/vetsina-firem-v-cesku-drzi-investice-do-ai-pod-milionem-korun-navratnost-vidi-tri-ctvrtiny-z-nich-ukazuji-data-sap?amp=1": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-02T14:42:47Z",
+    "link": "https://news.sap.com/cz/2026/11/vetsina-firem-v-cesku-drzi-investice-do-ai-pod-milionem-korun-navratnost-vidi-tri-ctvrtiny-z-nich-ukazuji-data-sap/?amp=1",
+    "page": 1,
+    "summary": "V\u011bt\u0161ina firem v \u010cesku investuje do AI stovky tis\u00edc korun, p\u0159i\u010dem\u017e t\u0159i \u010dtvrtiny z nich hodnot\u00ed n\u00e1vratnost t\u011bchto investic pozitivn\u011b.",
+    "title": "V\u011bt\u0161ina firem v \u010cesku dr\u017e\u00ed investice do AI pod milionem ..."
    },
    "news.sap.com/cz?p=3508": {
     "baseline": false,
@@ -36902,6 +36956,15 @@
     "summary": "Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.",
     "title": "Fix XML schema validation errors - Sovos Docs"
    },
+   "docs.sovos.com/en/e-invoicing/indirect-tax-api/configuration": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-02T14:42:47Z",
+    "link": "https://docs.sovos.com/en/e-invoicing/indirect-tax-api/configuration",
+    "page": 1,
+    "summary": "Use the Configuration v2 endpoints for setting up companies and branches, and managing existing entities. Retrieves details from all configured organizations.",
+    "title": "Configuration endpoints | Product Documentation ..."
+   },
    "docs.sovos.com/en/e-invoicing/indirect-tax-api/e-invoicing/documents-endpoints": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -40394,6 +40457,15 @@
     "page": 4,
     "summary": "A unique string to reference the Checkout Session. This can be a customer ID, a cart ID, or similar, and can be used to reconcile the Session with your internal ...",
     "title": "The Checkout Session object | Stripe API Reference"
+   },
+   "docs.stripe.com/api/checkout/sessions/retrieve": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-02T14:42:47Z",
+    "link": "https://docs.stripe.com/api/checkout/sessions/retrieve",
+    "page": 4,
+    "summary": "Retrieves a Checkout Session object. Parameters. idstringRequired. Unique identifier for the object. The maximum length is 66 characters. Returns. Returns a ...",
+    "title": "Retrieve a Checkout Session | Stripe API Reference"
    },
    "docs.stripe.com/api/climate/order/retrieve": {
     "baseline": false,

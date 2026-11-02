@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-02T09:43:32Z</updated>
+  <updated>2026-11-02T14:42:47Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/checkout/sessions/retrieve</id>
+    <title>Retrieve a Checkout Session | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/checkout/sessions/retrieve" />
+    <published>2026-11-02T14:42:47Z</published>
+    <updated>2026-11-02T14:42:47Z</updated>
+    <summary>Retrieves a Checkout Session object. Parameters. idstringRequired. Unique identifier for the object. The maximum length is 66 characters. Returns. Returns a ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payments/accept-a-payment?payment-ui=mobile&amp;platform=ios&amp;locale=pt-BR</id>
     <title>Aceitar um pagamento | Documentação da Stripe</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>Stripe will automatically send invoices to customers according to your subscriptions settings. However, if you'd like to manually send an invoice to your ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESXwHrOzAVmCQrUrIqF4uneDoZe3bwMCRc-YMNKwv4js41cJj4aABrNtGtg5BNMdydBfvO6f1WvG1vCaba5pFyZ7wNpC099hvuBsdfgq5rupQZE5mmNFcHAFIBsTdQHkDX&amp;gsessionid=FfOlVQ46PXG_0VoI5bH7c9ylcQ-ABHFO1bQ9sZoPwWcsCM4aqvfz0A</id>
-    <title>Accounts | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESXwHrOzAVmCQrUrIqF4uneDoZe3bwMCRc-YMNKwv4js41cJj4aABrNtGtg5BNMdydBfvO6f1WvG1vCaba5pFyZ7wNpC099hvuBsdfgq5rupQZE5mmNFcHAFIBsTdQHkDX&amp;gsessionid=FfOlVQ46PXG_0VoI5bH7c9ylcQ-ABHFO1bQ9sZoPwWcsCM4aqvfz0A" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>This is an object representing a Stripe account. You can retrieve it to see properties on the account like its current requirements or if the account is ...</summary>
   </entry>
 </feed>
