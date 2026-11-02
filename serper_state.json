@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 26892,
+  "credits_used": 26943,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T06:40:09Z",
+  "last_run": "2026-11-02T07:42:58Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 541
+  "runs": 542
  },
  "feeds": {
   "adp-help": {
@@ -26516,6 +26516,15 @@
     "page": 2,
     "summary": "To evaluate and deploy CRM and ERP independently leaves a structural gap in the information available to customer-facing employees.",
     "title": "Why Enterprises Don't Evaluate CRM in Isolation"
+   },
+   "news.sap.com/2026/11/how-india-drives-sap-ai-future": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-02T07:42:58Z",
+    "link": "https://news.sap.com/2026/11/how-india-drives-sap-ai-future/",
+    "page": 1,
+    "summary": "Learn how India evolved into an important global innovation hub for SAP, shaping key AI tech like Joule and agentic AI.",
+    "title": "How India Drives SAP's AI Future"
    },
    "news.sap.com/africa": {
     "baseline": false,
