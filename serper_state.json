@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 27673,
+  "credits_used": 27728,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T21:42:55Z",
+  "last_run": "2026-11-02T22:43:32Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 556
+  "runs": 557
  },
  "feeds": {
   "adp-help": {
@@ -8123,6 +8123,15 @@
     "page": 4,
     "summary": "Los Angeles' top federal prosecutor Bill Essayli is likely to be disqualified from his position leading the Central District of California's US attorneys' ...",
     "title": "DOJ Effort to Save Essayli from Removal Fails to Impress ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/doj-lawyer-admits-to-high-error-rate-of-california-voter-list": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-02T22:43:32Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-lawyer-admits-to-high-error-rate-of-california-voter-list",
+    "page": 2,
+    "summary": "The Trump administration's list of suspected noncitizen voters in California contains a \u201chigh error rate,\u201d an attorney for the US Department of Justice ...",
+    "title": "DOJ Lawyer Admits to 'High Error Rate' of California Voter ..."
    },
    "news.bloomberglaw.com/business-and-practice/doj-official-requests-new-judge-in-golf-course-case-after-rebuke": {
     "baseline": false,

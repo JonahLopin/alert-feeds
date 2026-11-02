@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-02T21:42:55Z</updated>
+  <updated>2026-11-02T22:43:32Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/doj-lawyer-admits-to-high-error-rate-of-california-voter-list</id>
+    <title>DOJ Lawyer Admits to 'High Error Rate' of California Voter ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/doj-lawyer-admits-to-high-error-rate-of-california-voter-list" />
+    <published>2026-11-02T22:43:32Z</published>
+    <updated>2026-11-02T22:43:32Z</updated>
+    <summary>The Trump administration's list of suspected noncitizen voters in California contains a “high error rate,” an attorney for the US Department of Justice ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/wilson-sonsini-davis-polk-aid-115-billion-marvell-lumentum-buy</id>
     <title>Wilson Sonsini, Davis Polk Aid $115 Billion Marvell ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T12:42:37Z</published>
     <updated>2026-10-31T12:42:37Z</updated>
     <summary>A new Kentucky law unconstitutionally silences shareholder advocates who push companies to consider environmental, social, ideological and other factors ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESrwEB6zswFRml5TTE4tVdVya720oSnGfUSmhGaKMdVaC2t6L51jO5KvT8RoyRgNmlEKU9nlhzUQcyCidoj1l2VTTqNmLZkywIy0XLOh9KXAB8gYiqpPvW7J3rnciF7B8CoCpR_9NKE1GkekTKfMjgAcH4yyPxUXVn7qy8rkHaY-ZcDs1jhxfqM1gVQBBgpQmUDRSIEGzATeZMYHhAMD5TtKG4wOUpOmgOL-nNKAWP2kfb</id>
-    <title>DOJ Seeks Grand Jury Indictment of Comey in Defense ...</title>
-    <link href="https://www.google.com/goto?url=CAESrwEB6zswFRml5TTE4tVdVya720oSnGfUSmhGaKMdVaC2t6L51jO5KvT8RoyRgNmlEKU9nlhzUQcyCidoj1l2VTTqNmLZkywIy0XLOh9KXAB8gYiqpPvW7J3rnciF7B8CoCpR_9NKE1GkekTKfMjgAcH4yyPxUXVn7qy8rkHaY-ZcDs1jhxfqM1gVQBBgpQmUDRSIEGzATeZMYHhAMD5TtKG4wOUpOmgOL-nNKAWP2kfb" />
-    <published>2026-10-31T12:42:37Z</published>
-    <updated>2026-10-31T12:42:37Z</updated>
-    <summary>The Justice Department is actively working to secure a grand jury indictment against former FBI Director James Comey for allegedly directing the sharing of ...</summary>
   </entry>
 </feed>
