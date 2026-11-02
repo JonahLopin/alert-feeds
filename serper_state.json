@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 27096,
+  "credits_used": 27147,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T10:42:51Z",
+  "last_run": "2026-11-02T11:42:37Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 545
+  "runs": 546
  },
  "feeds": {
   "adp-help": {
@@ -7153,6 +7153,15 @@
     "page": 1,
     "summary": "Big Law's expansion into sports-related marketing and networking events. Law provides trusted coverage of current events enhanced with legal analysis. 888.560. ...",
     "title": "Big Law Deepens Sports Ties With Marketing, Network ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/big-law-firms-track-midterm-election-vote-risking-trump-backlash": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-02T11:42:37Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/big-law-firms-track-midterm-election-vote-risking-trump-backlash",
+    "page": 1,
+    "summary": "Big Law firms are helping to staff a nationwide voter hotline as part of a broader effort to ensure ballot access and uphold voter rights in Tuesday's midterm ...",
+    "title": "Big Law Firms Track Midterm Election Vote Risking Trump ..."
    },
    "news.bloomberglaw.com/business-and-practice/binance-heist-shows-power-of-suspected-north-korean-hackers": {
     "baseline": false,
