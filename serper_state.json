@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 27728,
+  "credits_used": 27781,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T22:43:32Z",
+  "last_run": "2026-11-02T23:43:08Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 557
+  "runs": 558
  },
  "feeds": {
   "adp-help": {
@@ -8832,6 +8832,15 @@
     "summary": "More than half a dozen states sued OpenAI Inc. Wednesday alleging the tech giant didn't implement sufficient safeguards to protect vulnerable users, ...",
     "title": "Half-Dozen States Hit OpenAI With Kids Online Safety ..."
    },
+   "news.bloomberglaw.com/business-and-practice/harvard-wins-dismissal-of-us-suit-over-admissions-race-data-1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-02T23:43:08Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/harvard-wins-dismissal-of-us-suit-over-admissions-race-data-1",
+    "page": 2,
+    "summary": "Harvard University won dismissal of a government lawsuit seeking detailed records on hundreds of thousands of applicants, dealing a setback to the Trump ...",
+    "title": "Harvard Wins Dismissal of US Suit Over Admissions Race ..."
+   },
    "news.bloomberglaw.com/business-and-practice/hawaii-judge-weighs-fate-of-trumps-la-prosecutor-in-removal-bid": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -9307,6 +9316,15 @@
     "page": 2,
     "summary": "A San Francisco federal judge overseeing a privacy class action involving Meta Platforms Inc.'s illegal collection of womens' menstrual data chastised the ...",
     "title": "Judge Urges Faster Pace in Meta's Menstrual Health ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/judge-warns-hell-to-pay-if-doj-misstated-role-of-poll-monitors": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-02T23:43:08Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/judge-warns-hell-to-pay-if-doj-misstated-role-of-poll-monitors",
+    "page": 3,
+    "summary": "US District Judge Reggie B. Walton said he is \u201cstruggling\u201d with whether to grant an eleventh-hour bid by the NAACP to block the Justice Department from ...",
+    "title": "Judge Warns 'Hell to Pay' If DOJ Misstated Role of Poll ..."
    },
    "news.bloomberglaw.com/business-and-practice/judges-eye-jurisdiction-in-covid-19-tax-credit-guidance-dispute-42": {
     "baseline": false,
@@ -28092,6 +28110,15 @@
     "summary": "\uc218\ucc9c \uac00\uc9c0 \uacb0\uc815\uc774 \ud544\uc694\ud55c \ud074\ub77c\uc6b0\ub4dc ERP \uc804\ud658\uc5d0 SAP\uac00 AI \uc5b4\uc2dc\uc2a4\ud134\ud2b8 4\uc885\uc744 \ud22c\uc785\ud588\uc2b5\ub2c8\ub2e4. \ub370\uc774\ud130 \uad00\ub9ac\ubd80\ud130 \ud14c\uc2a4\ud2b8, \ucee4\uc2a4\ud140 \ucf54\ub4dc, \ube44\uc988\ub2c8\uc2a4 \uad6c\uc131\uae4c\uc9c0, \uc5bc\ub9ac \uc5b4\ub2f5\ud130 \uace0\uac1d ...",
     "title": "SAP, \ud074\ub77c\uc6b0\ub4dc ERP \uc804\ud658\uc5d0 AI \uc5b4\uc2dc\uc2a4\ud134\ud2b8 4\uc885 \ud22c\uc785"
    },
+   "news.sap.com/korea/2026/10/sap-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-erp-%EC%A0%84%ED%99%98%EC%97%90-ai-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8-4%EC%A2%85-%ED%88%AC%EC%9E%85/291707_gettyimages-1146500451": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-11-02T23:43:08Z",
+    "link": "https://news.sap.com/korea/2026/10/sap-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-erp-%EC%A0%84%ED%99%98%EC%97%90-ai-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8-4%EC%A2%85-%ED%88%AC%EC%9E%85/291707_gettyimages-1146500451/",
+    "page": 2,
+    "summary": "\ub3d9\ub8cc\ub4e4\uacfc \uc77c\ud558\uba70 \ud658\ud558\uac8c \uc6c3\uace0 \uc788\ub294 \uc5ec\uc131. SAP. \ub300\ud55c\ubbfc\uad6d 080-219-2400. \uc9c0\uc5ed\ubcc4 \uad6d\uac00 \ubc88\ud638 \uc804\uccb4 \ubaa9\ub85d \ubcf4\uae30 \u00b7 SAP\uc5d0 \ubb38\uc758. \ube60\ub978 \uc5f0\uacb0 \ub9c1\ud06c \ube60\ub978 \uc5f0\uacb0 \ub9c1\ud06c.",
+    "title": "291707_GettyImages-1146500451 - SAP Korea \ub274\uc2a4\uc13c\ud130"
+   },
    "news.sap.com/korea/2026/10/sap-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-erp-%EC%A0%84%ED%99%98%EC%97%90-ai-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8-4%EC%A2%85-%ED%88%AC%EC%9E%85?amp=1": {
     "baseline": false,
     "date_hint": "8 hours ago",
@@ -28468,6 +28495,15 @@
     "page": 2,
     "summary": "Oppdag hvordan SAP utvider AI-plattform med nye verkt\u00f8y og agenter for bedre forretningsanalyse og datastyring.",
     "title": "SAP utvider AI-plattform med nye verkt\u00f8y og agenter og ..."
+   },
+   "news.sap.com/norway/2026/10/sap-utvider-ai-plattform-med-nye-verktoy-og-agenter-og-sender-ai-modell-ut-i-rommet/sap-teched-berlin-2026-2": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-11-02T23:43:08Z",
+    "link": "https://news.sap.com/norway/2026/10/sap-utvider-ai-plattform-med-nye-verktoy-og-agenter-og-sender-ai-modell-ut-i-rommet/sap-teched-berlin-2026-2/",
+    "page": 2,
+    "summary": "Utforsk alle omr\u00e5der av SAP. Oppl\u00e6ring og brukerst\u00f8tte. Oppl\u00e6ring og sertifisering \u00b7 Brukerst\u00f8tte \u00b7 Dokumentasjon \u00b7 Forum.",
+    "title": "SAP TechEd Berlin 2026 - SAP Norge Nyheter"
    },
    "news.sap.com/norway/2026/10/sap-utvider-ai-plattform-med-nye-verktoy-og-agenter-og-sender-ai-modell-ut-i-rommet?amp=1": {
     "baseline": false,
@@ -35453,6 +35489,15 @@
     "page": 3,
     "summary": "Affiliate marketing is an arrangement between a business and independent partners where the partner promotes products to their audience and earns an affiliate ...",
     "title": "Affiliate Marketing: How It Works in 2026"
+   },
+   "shopify.com/blog/affiliate-marketing-for-beginners": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-02T23:43:08Z",
+    "link": "https://www.shopify.com/blog/affiliate-marketing-for-beginners",
+    "page": 2,
+    "summary": "Affiliate marketing is one of the simplest ways to monetize your content and build partnerships with brands you love. As you grow your brand, ...",
+    "title": "Affiliate Marketing for Beginners: Your 2026 Guide"
    },
    "shopify.com/blog/ai-chatbot": {
     "baseline": false,
@@ -49299,6 +49344,15 @@
     "page": 1,
     "summary": "Busy doesn't always mean productive. Learn how better audit workflows, targeted training, and technology can reduce rework and support audit quality.",
     "title": "Your audit team is busy. But is it productive?"
+   },
+   "tax.thomsonreuters.com/blog/how-to-use-ai-in-audit-without-creating-inspection-risk": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-02T23:43:08Z",
+    "link": "https://tax.thomsonreuters.com/blog/how-to-use-ai-in-audit-without-creating-inspection-risk/",
+    "page": 1,
+    "summary": "Using AI in audit work? Here's what PCAOB inspectors and peer reviewers are likely to ask, and eight things to document for each AI-assisted procedure.",
+    "title": "How to use AI in audit without creating inspection risk"
    },
    "tax.thomsonreuters.com/blog/more-than-a-research-tool-how-cocounsel-tax-empowers-junior-colleagues": {
     "baseline": false,
