@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 26738,
+  "credits_used": 26789,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T03:26:51Z",
+  "last_run": "2026-11-02T04:25:13Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 538
+  "runs": 539
  },
  "feeds": {
   "adp-help": {
@@ -51342,6 +51342,15 @@
     "page": 4,
     "summary": "Wolters Kluwer Health today announced a new collaboration with AME Publishing Company, an Open Access publisher specializing in medical journals and books, ...",
     "title": "AME and Wolters Kluwer aim to expand access to global ..."
+   },
+   "wolterskluwer.com/en/news/cch-acquires-speedtax-move-positions-cch-as-only-provider-of-saas-solutions-premier-tax-content-and-services-in-corporate-market": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-02T04:25:13Z",
+    "link": "https://www.wolterskluwer.com/en/news/cch-acquires-speedtax-move-positions-cch-as-only-provider-of-saas-solutions-premier-tax-content-and-services-in-corporate-market",
+    "page": 2,
+    "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting; ...",
+    "title": "CCH Acquires SpeedTax: Move Positions ..."
    },
    "wolterskluwer.com/en/news/cch-tagetik-na-intouch-2026": {
     "baseline": false,
