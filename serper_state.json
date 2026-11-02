@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 26840,
+  "credits_used": 26892,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T05:24:05Z",
+  "last_run": "2026-11-02T06:40:09Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 540
+  "runs": 541
  },
  "feeds": {
   "adp-help": {
@@ -28913,6 +28913,15 @@
     "page": 1,
     "summary": "Learn how to create and customize taxes in Location Management, including options for inclusive taxes, printing preferences, revenue classes, and order type ...",
     "title": "Create and Manage Taxes in Location Management"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/4402058635667-Shift4-One-FAQs": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-02T06:40:09Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/4402058635667-Shift4-One-FAQs",
+    "page": 1,
+    "summary": "What are the Shift4 One features? \u00b7 State-of-the-art hardware with simple and intuitive software \u00b7 Send e-receipts or print receipts using the built-in printer ...",
+    "title": "Shift4 One FAQs (United States)"
    },
    "shift4.zendesk.com/hc/en-us/articles/4402400530195-Gift-Card-Program-FAQs": {
     "baseline": false,
