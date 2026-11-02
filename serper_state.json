@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 26943,
+  "credits_used": 26994,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T07:42:58Z",
+  "last_run": "2026-11-02T08:43:04Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 542
+  "runs": 543
  },
  "feeds": {
   "adp-help": {
@@ -28208,6 +28208,24 @@
     "summary": "Supply chain resilience cannot remain a contingency plan activated during crisis. It is a shift from visibility to coordinated action.",
     "title": "Supply Through Disruption-as-Normal"
    },
+   "news.sap.com/sea/2026/11/beyond-the-demo-sap-apac-partners-turning-agentic-ai-into-business-reality": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-02T08:43:04Z",
+    "link": "https://news.sap.com/sea/2026/11/beyond-the-demo-sap-apac-partners-turning-agentic-ai-into-business-reality/",
+    "page": 1,
+    "summary": "SAPi enables business users to query SAP data in natural language and execute transactions \u2013 creating sales orders, purchase orders, and financial documents ...",
+    "title": "Beyond the Demo: SAP APAC Partners Turning Agentic AI ..."
+   },
+   "news.sap.com/sea/2026/11/beyond-the-demo-sap-apac-partners-turning-agentic-ai-into-business-reality?amp=1": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-02T08:43:04Z",
+    "link": "https://news.sap.com/sea/2026/11/beyond-the-demo-sap-apac-partners-turning-agentic-ai-into-business-reality/?amp=1",
+    "page": 1,
+    "summary": "SAPi enables business users to query SAP data in natural language and execute transactions \u2013 creating sales orders, purchase orders, and financial documents ...",
+    "title": "Beyond the Demo: SAP APAC Partners Turning Agentic AI ..."
+   },
    "news.sap.com/spain/2026/10/aceleracion-de-la-transformacion-en-los-procesos-de-fabricacion-despliegue-estrategico-de-ia-y-arquitectura-en-la-nube-y-edge-computing": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -40394,6 +40412,15 @@
     "summary": "ID of the default payment source for the invoice. It must belong to the customer associated with the invoice and be in a chargeable state. If not set, defaults ...",
     "title": "The Invoice object | Stripe API Reference"
    },
+   "docs.stripe.com/api/invoices/retrieve": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-02T08:43:04Z",
+    "link": "https://docs.stripe.com/api/invoices/retrieve",
+    "page": 2,
+    "summary": "The invoice object contains a lines hash that contains information about the subscriptions and invoice items that have been applied to the invoice, as well as ...",
+    "title": "Retrieve an invoice | Stripe API Reference"
+   },
    "docs.stripe.com/api/invoices/send": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -40788,6 +40815,15 @@
     "page": 1,
     "summary": "View and filter sellers in the Stripe Dashboard and understand tax form filing and identity verification statuses.",
     "title": "Platform tax reporting dashboard (non-US)"
+   },
+   "docs.stripe.com/connect/risk-management/managed-risk?locale=en-GB": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-02T08:43:04Z",
+    "link": "https://docs.stripe.com/connect/risk-management/managed-risk?locale=en-GB",
+    "page": 4,
+    "summary": "Let Stripe protect your platform from losses that result from negative balances on your connected accounts.",
+    "title": "Managed Risk"
    },
    "docs.stripe.com/data/data-freshness": {
     "baseline": false,
@@ -51484,6 +51520,15 @@
     "page": 2,
     "summary": "Hip arthroplasty can be 'appropriately considered' for nonagenarians, reports Journal of Bone & Joint Surgery.",
     "title": "Is hip replacement safe for people in their 90s? Risks ..."
+   },
+   "wolterskluwer.com/en/news/legal-ai-wolters-kluwer-ilta-milan": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-02T08:43:04Z",
+    "link": "https://www.wolterskluwer.com/en/news/legal-ai-wolters-kluwer-ilta-milan",
+    "page": 1,
+    "summary": "Wolters Kluwer and ILTA bring legal innovation leaders to Milan to explore how AI is reshaping law firms, client relationships and legal education.",
+    "title": "Legal AI: Wolters Kluwer and ILTA bring leaders to Milan"
    },
    "wolterskluwer.com/en/news/lex-libra-ai-capabilities-directly-available-in-lex-poland": {
     "baseline": false,

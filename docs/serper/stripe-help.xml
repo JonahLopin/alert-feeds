@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-02T00:19:20Z</updated>
+  <updated>2026-11-02T08:43:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/connect/risk-management/managed-risk?locale=en-GB</id>
+    <title>Managed Risk</title>
+    <link href="https://docs.stripe.com/connect/risk-management/managed-risk?locale=en-GB" />
+    <published>2026-11-02T08:43:04Z</published>
+    <updated>2026-11-02T08:43:04Z</updated>
+    <summary>Let Stripe protect your platform from losses that result from negative balances on your connected accounts.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/invoices/retrieve</id>
+    <title>Retrieve an invoice | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/invoices/retrieve" />
+    <published>2026-11-02T08:43:04Z</published>
+    <updated>2026-11-02T08:43:04Z</updated>
+    <summary>The invoice object contains a lines hash that contains information about the subscriptions and invoice items that have been applied to the invoice, as well as ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/subscriptions/retrieve</id>
     <title>Retrieve a subscription | Stripe API Reference</title>
@@ -787,21 +803,5 @@
     <published>2026-10-31T13:42:40Z</published>
     <updated>2026-10-31T13:42:40Z</updated>
     <summary>A cursor for use in pagination. ending_before is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESlwEB6zswFU6ERqq44exIQs3eTT-Q240CNzf0OfjIb7WlrPdU4eJR5Vpe1w5SDw8QRxH2_cS8Vo2mfr9vHH7pC-nvM5VQ84fj7DBWqApOkVfQlVdbMV0e_XAzjb1cJGYatDVEimU8DiToWHTIkLdYgdPsy45qO5XMUbpZl5Jw-32V1CAWZb5mRMtUz3DAR_4LadieUxUGKr3K</id>
-    <title>The Financial Address Credit Simulation object v2</title>
-    <link href="https://www.google.com/goto?url=CAESlwEB6zswFU6ERqq44exIQs3eTT-Q240CNzf0OfjIb7WlrPdU4eJR5Vpe1w5SDw8QRxH2_cS8Vo2mfr9vHH7pC-nvM5VQ84fj7DBWqApOkVfQlVdbMV0e_XAzjb1cJGYatDVEimU8DiToWHTIkLdYgdPsy45qO5XMUbpZl5Jw-32V1CAWZb5mRMtUz3DAR_4LadieUxUGKr3K" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>Attributes · objectstring, value is "v2.money_management.financial_address_credit_simulation" · livemodeboolean. Has the value true if the object exists in live ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESlAEB6zswFS-f_W5uTEKTsXYKpw96Qu0CVO3N-yr3pPpCcrSvqswJ-42d2C0Y9LLFy5EGXS8aJQ-234sawZMid_J76cdpSpFuRXpgStoPrYtSPKG9yHwCuWKoK-qYquB3y-ZlSuuEgrBXf1JD8NnRcjMCA1DB2v549-ki2oJ_L1-G0McQ92eSg7dpt0Od3STPaL2a8NCK</id>
-    <title>The Scheduled Query object | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESlAEB6zswFS-f_W5uTEKTsXYKpw96Qu0CVO3N-yr3pPpCcrSvqswJ-42d2C0Y9LLFy5EGXS8aJQ-234sawZMid_J76cdpSpFuRXpgStoPrYtSPKG9yHwCuWKoK-qYquB3y-ZlSuuEgrBXf1JD8NnRcjMCA1DB2v549-ki2oJ_L1-G0McQ92eSg7dpt0Od3STPaL2a8NCK" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>idstring. Unique identifier for the object. · data_load_timetimestamp. When the query was run, Sigma contained a snapshot of your Stripe data at this time. · file ...</summary>
   </entry>
 </feed>
