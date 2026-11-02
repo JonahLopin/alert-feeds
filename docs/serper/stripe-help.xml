@@ -2,8 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-02T15:43:01Z</updated>
+  <updated>2026-11-02T16:42:52Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/radar/customer-risk</id>
+    <title>Customer risk</title>
+    <link href="https://docs.stripe.com/radar/customer-risk" />
+    <published>2026-11-02T16:42:52Z</published>
+    <updated>2026-11-02T16:42:52Z</updated>
+    <summary>Stripe evaluates customer risk asynchronously. When a customer's risk level changes, Stripe creates a customer_risk AccountSignal and sends a v2.signals.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/payments/gopay/save-during-payment</id>
+    <title>Save payment method for future GoPay payments</title>
+    <link href="https://docs.stripe.com/payments/gopay/save-during-payment" />
+    <published>2026-11-02T16:42:52Z</published>
+    <updated>2026-11-02T16:42:52Z</updated>
+    <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/payments/gopay/accept-a-payment</id>
+    <title>GoPay Payments</title>
+    <link href="https://docs.stripe.com/payments/gopay/accept-a-payment" />
+    <published>2026-11-02T16:42:52Z</published>
+    <updated>2026-11-02T16:42:52Z</updated>
+    <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/payments/gopay</id>
+    <title>GoPay payments</title>
+    <link href="https://docs.stripe.com/payments/gopay" />
+    <published>2026-11-02T16:42:52Z</published>
+    <updated>2026-11-02T16:42:52Z</updated>
+    <summary>GoPay is a digital wallet popular in Indonesia. Customers use the GoPay or the Gojek app to authorize GoPay payments. On mobile, customers are redirected to ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/radar/account-security-events</id>
     <title>Report account security events</title>
@@ -771,37 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>Unique identifier for the object. Returns. Returns the alert with its updated status. Server-side language. cURL. cURL. Stripe CLI. Ruby. Python. PHP. Java.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbQHrOzAVmW32Po9kHXsPb-Um3BDhvQkcmGx9LSa1LKu17137_uAAcCAIZ9uvtjXYCTQ5-rDp0P7IWDNWIrrrukZcetMWO-pQ0ba99qS3Fs8MNylXPVGtEo6U0DNwtOPfga89k-yPdJkinJe1OQs&amp;gsessionid=9YGUaA7FJZYXUCmcXAck9DIKgCHPczYgnPljaalnVt1tfmGquIMDZw</id>
-    <title>The PaymentIntent object | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESbQHrOzAVmW32Po9kHXsPb-Um3BDhvQkcmGx9LSa1LKu17137_uAAcCAIZ9uvtjXYCTQ5-rDp0P7IWDNWIrrrukZcetMWO-pQ0ba99qS3Fs8MNylXPVGtEo6U0DNwtOPfga89k-yPdJkinJe1OQs&amp;gsessionid=9YGUaA7FJZYXUCmcXAck9DIKgCHPczYgnPljaalnVt1tfmGquIMDZw" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>This field indicates whether this payment method can be shown again to its customer in a checkout flow. Stripe products such as Checkout and Elements use this ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESawHrOzAVrZHOH9LCXdOBBRYp4fERAqhND6qoz-LsljvGfw8JbLeIk3AIDl9q2a4HgXadUDMQ82m-dW78hILc7E26DytlBVFVkhIbDqiuzsVz46wU_fUbU5hSM8-Xtptocpt4n7OjI06CxfDm&amp;gsessionid=AoW1CnEIPxJ9lis8GbLQsDCe4_O6sGgAeTn4_ATIwd6iqKlKtRSj5w</id>
-    <title>List all features attached to a product v1</title>
-    <link href="https://www.google.com/goto?url=CAESawHrOzAVrZHOH9LCXdOBBRYp4fERAqhND6qoz-LsljvGfw8JbLeIk3AIDl9q2a4HgXadUDMQ82m-dW78hILc7E26DytlBVFVkhIbDqiuzsVz46wU_fUbU5hSM8-Xtptocpt4n7OjI06CxfDm&amp;gsessionid=AoW1CnEIPxJ9lis8GbLQsDCe4_O6sGgAeTn4_ATIwd6iqKlKtRSj5w" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESawHrOzAVNDzIDoaCRqjAdlHxRURnIUi0xiVu9eyF9nlH__1AEYBkC8rwDukOhBvDmYyvjSJkvfqHj64iclNb4D9ZeaVyyA8VmKrpAOvrbdrW0fVrEizI6jXNszSW--n48phP7nq-FMDIcLoG&amp;gsessionid=9YGUaA7FJZYXUCmcXAck9DIKgCHPczYgnPljaalnVt1tfmGquIMDZw</id>
-    <title>The Subscription object | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESawHrOzAVNDzIDoaCRqjAdlHxRURnIUi0xiVu9eyF9nlH__1AEYBkC8rwDukOhBvDmYyvjSJkvfqHj64iclNb4D9ZeaVyyA8VmKrpAOvrbdrW0fVrEizI6jXNszSW--n48phP7nq-FMDIcLoG&amp;gsessionid=9YGUaA7FJZYXUCmcXAck9DIKgCHPczYgnPljaalnVt1tfmGquIMDZw" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>The account that's liable for tax. If set, the business address and tax registrations required to perform the tax calculation are loaded from this account.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESaAHrOzAVqAEXh-rih6Vhnuyf2PfCWmTmP7UMP0cJiIYeJYuIqWyNfIWXXaD3ERzG7ujqPtmbEufMRg3z50DDc1g_bKoOswiHFMffeaw61r7AUnLzifwqaZwsZzeC8I3Tp7-NYasFrJln&amp;gsessionid=dwLrPKaqRD9uigBYQOjcjb90e0rF1vD5m6-xFIa6LKNKBS0qbF9-fA</id>
-    <title>Checkout Sessions | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESaAHrOzAVqAEXh-rih6Vhnuyf2PfCWmTmP7UMP0cJiIYeJYuIqWyNfIWXXaD3ERzG7ujqPtmbEufMRg3z50DDc1g_bKoOswiHFMffeaw61r7AUnLzifwqaZwsZzeC8I3Tp7-NYasFrJln&amp;gsessionid=dwLrPKaqRD9uigBYQOjcjb90e0rF1vD5m6-xFIa6LKNKBS0qbF9-fA" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>A Checkout Session represents your customer's session as they pay for one-time purchases or subscriptions through Checkout or Payment Links. We recommend ...</summary>
   </entry>
 </feed>

@@ -2,8 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-01T18:08:52Z</updated>
+  <updated>2026-11-02T16:44:12Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:7494452052391164506</id>
+    <title>GoPay Payments | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/gopay/accept-a-payment" />
+    <published>2026-11-02T16:44:12Z</published>
+    <updated>2026-11-02T16:44:12Z</updated>
+    <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:7333119713045988003</id>
+    <title>Save payment method for future GoPay payments - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/gopay/save-during-payment" />
+    <published>2026-11-02T16:44:12Z</published>
+    <updated>2026-11-02T16:44:12Z</updated>
+    <summary>Setting up a GoPay linking lets you collect future recurring payments without needing customer authorization again. Customers can manage their GoPay ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:18154959387243654720</id>
+    <title>Fundraise with SAFEs | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/fundraising/safes" />
+    <published>2026-11-02T16:44:12Z</published>
+    <updated>2026-11-02T16:44:12Z</updated>
+    <summary>Obtain board consent and send post-money SAFEs with valuation caps to investors using Y Combinator templates through Docusign.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:13954862664206415903</id>
+    <title>GoPay payments | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/gopay" />
+    <published>2026-11-02T16:44:12Z</published>
+    <updated>2026-11-02T16:44:12Z</updated>
+    <summary>GoPay is a digital wallet popular in Indonesia. Customers use the GoPay or the Gojek app to authorize GoPay payments. On mobile, customers are ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:11632586388865641608</id>
+    <title>Set up future GoPay payments | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/gopay/set-up-future-payments" />
+    <published>2026-11-02T16:44:12Z</published>
+    <updated>2026-11-02T16:44:12Z</updated>
+    <summary>GoPay allows customers in Indonesia link their GoPay account to a specific business for recurring payments. To do this, customers must enter their ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8857171565754293260</id>
     <title>How Stripe Capital works</title>

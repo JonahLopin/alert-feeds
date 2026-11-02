@@ -4389,6 +4389,12 @@
    "summary": "Simulate OutboundPayment state changes with the /v1/test_helpers/treasury/outbound_payments endpoints. These methods can only be called on test mode ...",
    "title": "Outbound Payments | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:11632586388865641608": {
+   "first_seen": "2026-11-02T16:44:12Z",
+   "link": "https://docs.stripe.com/payments/gopay/set-up-future-payments",
+   "summary": "GoPay allows customers in Indonesia link their GoPay account to a specific business for recurring payments. To do this, customers must enter their ...",
+   "title": "Set up future GoPay payments | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:11910439289380234198": {
    "first_seen": "2026-10-29T19:42:55Z",
    "link": "https://docs.stripe.com/workload-identity-federation/aws",
@@ -4472,6 +4478,12 @@
    "link": "https://docs.stripe.com/issuing/commercial-compliance/issuing-regulated-customer-notices?locale=fr-FR",
    "summary": "Stripe surveille les \u00e9v\u00e9nements n\u00e9cessitant une notification client et envoie un e-mail en votre nom au compte connect\u00e9. Pr\u00e9visualiser et envoyer des ...",
    "title": "Notifications r\u00e9glement\u00e9es Issuing destin\u00e9es aux clients | Documentation Stripe"
+  },
+  "tag:google.com,2013:googlealerts/feed:13954862664206415903": {
+   "first_seen": "2026-11-02T16:44:12Z",
+   "link": "https://docs.stripe.com/payments/gopay",
+   "summary": "GoPay is a digital wallet popular in Indonesia. Customers use the GoPay or the Gojek app to authorize GoPay payments. On mobile, customers are ...",
+   "title": "GoPay payments | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:13997715178411682022": {
    "first_seen": "2026-10-19T22:44:10Z",
@@ -4665,6 +4677,12 @@
    "summary": "Use Financial account reports to analyze activity that impacts your financial account balance and view data related to your payments activity.",
    "title": "Financial account report type | Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:18154959387243654720": {
+   "first_seen": "2026-11-02T16:44:12Z",
+   "link": "https://docs.stripe.com/fundraising/safes",
+   "summary": "Obtain board consent and send post-money SAFEs with valuation caps to investors using Y Combinator templates through Docusign.",
+   "title": "Fundraise with SAFEs | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:18157486587410126877": {
    "first_seen": "2026-10-31T20:44:17Z",
    "link": "https://docs.stripe.com/api/radar/billing-evaluation/object?api-version=2026-09-30.preview",
@@ -4827,11 +4845,23 @@
    "summary": "Prices define the unit cost, currency, and (optional) billing cycle for both recurring and one-time purchases of products. Products help you track ...",
    "title": "Prices | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:7333119713045988003": {
+   "first_seen": "2026-11-02T16:44:12Z",
+   "link": "https://docs.stripe.com/payments/gopay/save-during-payment",
+   "summary": "Setting up a GoPay linking lets you collect future recurring payments without needing customer authorization again. Customers can manage their GoPay ...",
+   "title": "Save payment method for future GoPay payments - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:7401600488192813850": {
    "first_seen": "2026-10-19T22:44:10Z",
    "link": "https://docs.stripe.com/api/billing/alert?api-version=2026-08-26.preview",
    "summary": "A billing alert is a resource that notifies you when a certain usage threshold on a meter is crossed. For example, you might create a billing alert to ...",
    "title": "Alerts | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:7494452052391164506": {
+   "first_seen": "2026-11-02T16:44:12Z",
+   "link": "https://docs.stripe.com/payments/gopay/accept-a-payment",
+   "summary": "GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the ...",
+   "title": "GoPay Payments | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:7878525142762493498": {
    "first_seen": "2026-10-21T11:47:05Z",

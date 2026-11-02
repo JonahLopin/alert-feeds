@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-02T00:19:20Z</updated>
+  <updated>2026-11-02T16:42:52Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/4773609537/Tip+Ownership+Method+%7C+Location+Settings</id>
+    <title>Tip Ownership Method | Location Settings</title>
+    <link href="https://help.spoton.com/space/SK/4773609537/Tip+Ownership+Method+%7C+Location+Settings" />
+    <published>2026-11-02T16:42:52Z</published>
+    <updated>2026-11-02T16:42:52Z</updated>
+    <summary>Overview. The Tip Ownership Method determines which employee ultimately receives tips on an order, particularly when checks are transferred or when credit ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/1916370973</id>
     <title>QR Ordering | SpotOn Order | SpotOn Restaurant POS ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T20:43:11Z</published>
     <updated>2026-10-30T20:43:11Z</updated>
     <summary>Overview. Order Types determine how orders are processed within SpotOn Restaurant (RPOS). They can be configured with unique pricing, customer requirements, ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAV-5xOv2nYGfxK7u1BbyOsHjI5P0jCVIH-_5LGhk8BzH24VqF3HYhHw665FiNTk5jlgx4bmkqACPkedI9uN6Mg-MMPh4RZamHdos9rkJyUItZAZRipzJr5_ixiw0HJsLT-UA</id>
-    <title>Tip Adjustments | SpotOn Express</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAV-5xOv2nYGfxK7u1BbyOsHjI5P0jCVIH-_5LGhk8BzH24VqF3HYhHw665FiNTk5jlgx4bmkqACPkedI9uN6Mg-MMPh4RZamHdos9rkJyUItZAZRipzJr5_ixiw0HJsLT-UA" />
-    <published>2026-10-30T20:43:11Z</published>
-    <updated>2026-10-30T20:43:11Z</updated>
-    <summary>Adjust tips after payment for paid orders in receipt-based tipping workflows. You can adjust the tip within 10 minutes of the initial change. SpotOn Customer ...</summary>
   </entry>
 </feed>
