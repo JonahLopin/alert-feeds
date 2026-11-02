@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-02T08:43:04Z</updated>
+  <updated>2026-11-02T09:43:32Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/payments/accept-a-payment?payment-ui=mobile&amp;platform=ios&amp;locale=pt-BR</id>
+    <title>Aceitar um pagamento | Documentação da Stripe</title>
+    <link href="https://docs.stripe.com/payments/accept-a-payment?payment-ui=mobile&amp;platform=ios&amp;locale=pt-BR" />
+    <published>2026-11-02T09:43:32Z</published>
+    <updated>2026-11-02T09:43:32Z</updated>
+    <summary>Use as opções sem código da Stripe ou os aplicativos dos nossos parceiros para começar a fazer mais com sua conta Stripe, sem precisar de código.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/connect/accounts-v2/migrate-integration?locale=en-GB</id>
+    <title>Use the Accounts v2 API in your existing integration</title>
+    <link href="https://docs.stripe.com/connect/accounts-v2/migrate-integration?locale=en-GB" />
+    <published>2026-11-02T09:43:32Z</published>
+    <updated>2026-11-02T09:43:32Z</updated>
+    <summary>Learn how to use the Accounts v2 API in an existing Accounts v1 and Customers v1 Connect integration.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/connect/risk-management/managed-risk?locale=en-GB</id>
     <title>Managed Risk</title>
@@ -787,21 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>This is an object representing a Stripe account. You can retrieve it to see properties on the account like its current requirements or if the account is ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESrAEB6zswFR7bG7PiDq51jyJdgMnL6rUDC03WjdAjBKnB2tiBhpkjAQP5TkiRjBsVLVhrdgWQVoSVrnjQSk6vl2iY8YVTFgK3yybAjmxuodOrXUMMJTbl9Z4LP6RBjdHYcgzEgSa4QA6hF3lqE_lIEuSnWvw96ZW2FiOYUbBqtSaSG5ccYOef03zYcrR5LY3hll1Eml8l89nRU8fONMIMdt-JmhQTIYPm5nZsk9QQ</id>
-    <title>Create a PaymentIntent before collecting payment details</title>
-    <link href="https://www.google.com/goto?url=CAESrAEB6zswFR7bG7PiDq51jyJdgMnL6rUDC03WjdAjBKnB2tiBhpkjAQP5TkiRjBsVLVhrdgWQVoSVrnjQSk6vl2iY8YVTFgK3yybAjmxuodOrXUMMJTbl9Z4LP6RBjdHYcgzEgSa4QA6hF3lqE_lIEuSnWvw96ZW2FiOYUbBqtSaSG5ccYOef03zYcrR5LY3hll1Eml8l89nRU8fONMIMdt-JmhQTIYPm5nZsk9QQ" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>Build a custom payment form using Stripe Elements and the Payment Intents API. This intent-first integration creates a PaymentIntent on your server before ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESmgEB6zswFRe0W7wqii1hsxNlBPzEb1ZUlHwsHWLpYcdzc8FJCa807tAs95N5PNFbKzlDFN9AGjROxDkss-XGXh0ENp03TFezizcwA-J_taHzWdooW4aw74vLLhHqyVpVg81METysQS4_VKkU4GGTf_PaRq3GJZhI6-iq2S8YEUHacLydQWCLoC4TqjCMyKTOK84lzgJY_yKfj4Qv</id>
-    <title>List Account Owners | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESmgEB6zswFRe0W7wqii1hsxNlBPzEb1ZUlHwsHWLpYcdzc8FJCa807tAs95N5PNFbKzlDFN9AGjROxDkss-XGXh0ENp03TFezizcwA-J_taHzWdooW4aw74vLLhHqyVpVg81METysQS4_VKkU4GGTf_PaRq3GJZhI6-iq2S8YEUHacLydQWCLoC4TqjCMyKTOK84lzgJY_yKfj4Qv" />
-    <published>2026-10-31T13:42:40Z</published>
-    <updated>2026-10-31T13:42:40Z</updated>
-    <summary>A cursor for use in pagination. ending_before is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...</summary>
   </entry>
 </feed>

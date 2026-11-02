@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 26994,
+  "credits_used": 27045,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T08:43:04Z",
+  "last_run": "2026-11-02T09:43:32Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 543
+  "runs": 544
  },
  "feeds": {
   "adp-help": {
@@ -40762,6 +40762,15 @@
     "summary": "Une horloge de simulation vous permet de faire passer un ensemble d'objets associ\u00e9s par plusieurs \u00e9tats de cycle de vie au lieu de cr\u00e9er un abonnement distinct ...",
     "title": "Limiter les abonnements de test"
    },
+   "docs.stripe.com/connect/accounts-v2/migrate-integration?locale=en-GB": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-02T09:43:32Z",
+    "link": "https://docs.stripe.com/connect/accounts-v2/migrate-integration?locale=en-GB",
+    "page": 4,
+    "summary": "Learn how to use the Accounts v2 API in an existing Accounts v1 and Customers v1 Connect integration.",
+    "title": "Use the Accounts v2 API in your existing integration"
+   },
    "docs.stripe.com/connect/authentication": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -41061,6 +41070,15 @@
     "page": 3,
     "summary": "Build a custom payment form using Stripe Elements and the Payment Intents API. This intent-first integration creates a PaymentIntent on your server before ...",
     "title": "Create a PaymentIntent before collecting payment details"
+   },
+   "docs.stripe.com/payments/accept-a-payment?payment-ui=mobile&platform=ios&locale=pt-BR": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-02T09:43:32Z",
+    "link": "https://docs.stripe.com/payments/accept-a-payment?payment-ui=mobile&platform=ios&locale=pt-BR",
+    "page": 5,
+    "summary": "Use as op\u00e7\u00f5es sem c\u00f3digo da Stripe ou os aplicativos dos nossos parceiros para come\u00e7ar a fazer mais com sua conta Stripe, sem precisar de c\u00f3digo.",
+    "title": "Aceitar um pagamento | Documenta\u00e7\u00e3o da Stripe"
    },
    "docs.stripe.com/payments/checkout/customization/card-brands?payment-ui=elements&locale=es-419": {
     "baseline": false,
