@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 28418,
+  "credits_used": 28469,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T11:42:44Z",
+  "last_run": "2026-11-03T12:43:11Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 570
+  "runs": 571
  },
  "feeds": {
   "adp-help": {
@@ -10666,6 +10666,15 @@
     "summary": "Former US Deputy Attorney General Sally Yates pledged to conduct an independent investigation into Cornell University 's handling of sexual assault ...",
     "title": "Sally Yates Vows Independent Review of Cornell Sex ..."
    },
+   "news.bloomberglaw.com/business-and-practice/sanctioned-lawyer-clark-aims-to-help-fight-democrats-probes": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-03T12:43:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/sanctioned-lawyer-clark-aims-to-help-fight-democrats-probes",
+    "page": 1,
+    "summary": "Clark, pictured in 2024, is offering legal help to Trump administration officials who may become investigation targets should Democrats prevail",
+    "title": "Sanctioned Lawyer Clark Aims to Help Fight Democrats' ..."
+   },
    "news.bloomberglaw.com/business-and-practice/scotus-passes-on-ruby-tuesday-benefits-suit-following-advice": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -11113,6 +11122,15 @@
     "page": 1,
     "summary": "Malaysian retailer CryptoBilis, a reseller of hardware crypto wallets, has become a focal point of an investigation into thefts from devices meant to secure ...",
     "title": "The Crypto Devices Built to Foil Hackers Came With Spies ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/the-crypto-mogul-behind-trading-powerhouse-hyperliquid": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-03T12:43:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/the-crypto-mogul-behind-trading-powerhouse-hyperliquid",
+    "page": 1,
+    "summary": "Hyperliquid, widely described as an exchange for digital assets, isn't an exchange at all but \u201ca layer on which exchanges can be deployed.\u201d",
+    "title": "The Crypto Mogul Behind Trading Powerhouse Hyperliquid"
    },
    "news.bloomberglaw.com/business-and-practice/third-circuit-upholds-gun-ban-for-those-with-violent-felonies": {
     "baseline": false,
@@ -41790,6 +41808,15 @@
     "page": 1,
     "summary": "Use stripe.confirmBlikSetup in the Set up future BLIK recurring payments flow when the customer submits your setup form. Pass the customer's BLIK code in ...",
     "title": "Confirm BLIK setup"
+   },
+   "docs.stripe.com/payment-links/customize?dashboard-or-api=api": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-03T12:43:11Z",
+    "link": "https://docs.stripe.com/payment-links/customize?dashboard-or-api=api",
+    "page": 5,
+    "summary": "When you create a payment link, you can customize the look and feel of a Checkout Session for your user. You can also choose what type of customer ...",
+    "title": "Customize checkout for Payment Links"
    },
    "docs.stripe.com/payments/accept-a-payment?payment-ui=elements&api-integration=paymentintents&locale=zh-CN": {
     "baseline": false,

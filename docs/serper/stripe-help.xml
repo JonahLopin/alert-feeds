@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-02T21:42:55Z</updated>
+  <updated>2026-11-03T12:43:11Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/payment-links/customize?dashboard-or-api=api</id>
+    <title>Customize checkout for Payment Links</title>
+    <link href="https://docs.stripe.com/payment-links/customize?dashboard-or-api=api" />
+    <published>2026-11-03T12:43:11Z</published>
+    <updated>2026-11-03T12:43:11Z</updated>
+    <summary>When you create a payment link, you can customize the look and feel of a Checkout Session for your user. You can also choose what type of customer ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/payment_intents/retrieve</id>
     <title>Retrieve a PaymentIntent | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>A string to reference this user. This can be a customer ID, a session ID, or similar, and can be used to reconcile this verification with your internal systems.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESewHrOzAVr_42Svz7pkZLO1ahV921hVRseFo_iw1eEHbeQQoM7LsFlR0pCNgP7yMegwWnOEBb5rjuG5Y6KUrAarPs0PpUdSWlxVXqWv8rum3kI48douwhuyaMFX909fflbkTo6vRDEczYWQzWPDS4AKBtRkmxZtZKijf_Sg&amp;gsessionid=9YGUaA7FJZYXUCmcXAck9DIKgCHPczYgnPljaalnVt1tfmGquIMDZw</id>
-    <title>Send payouts with crypto - stablecoin</title>
-    <link href="https://www.google.com/goto?url=CAESewHrOzAVr_42Svz7pkZLO1ahV921hVRseFo_iw1eEHbeQQoM7LsFlR0pCNgP7yMegwWnOEBb5rjuG5Y6KUrAarPs0PpUdSWlxVXqWv8rum3kI48douwhuyaMFX909fflbkTo6vRDEczYWQzWPDS4AKBtRkmxZtZKijf_Sg&amp;gsessionid=9YGUaA7FJZYXUCmcXAck9DIKgCHPczYgnPljaalnVt1tfmGquIMDZw" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>Send payouts from your financial account to your recipients' external crypto wallets in more than 160 countries. Recipients receive stablecoins over a supported ...</summary>
   </entry>
 </feed>
