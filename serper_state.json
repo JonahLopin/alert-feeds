@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 28831,
+  "credits_used": 28882,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T19:43:20Z",
+  "last_run": "2026-11-03T20:43:12Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 578
+  "runs": 579
  },
  "feeds": {
   "adp-help": {
@@ -8321,6 +8321,15 @@
     "summary": "Sexual abuse of students by K-12 school employees has emerged as a new Education Department civil rights enforcement priority",
     "title": "Education Agency Targets Student Abuse as Other Cases ..."
    },
+   "news.bloomberglaw.com/business-and-practice/election-trading-stagnates-on-prediction-markets-after-2024-boom": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-03T20:43:12Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/election-trading-stagnates-on-prediction-markets-after-2024-boom",
+    "page": 1,
+    "summary": "The US presidential election in 2024 served as a big-bang moment for prediction markets. Two years later, their forecasts on the 2026 midterms are getting ...",
+    "title": "Election Trading Stagnates on Prediction Markets After ..."
+   },
    "news.bloomberglaw.com/business-and-practice/eli-lilly-toughens-legal-game-plan-over-next-weight-loss-drug": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -10018,6 +10027,15 @@
     "summary": "An online content publisher failed to revive claims that Meta Platforms Inc. breached its agreement in its Terms of Service when it canceled the company's ...",
     "title": "Meta Prevails in Publisher's Appeal Over Account ..."
    },
+   "news.bloomberglaw.com/business-and-practice/meta-stuck-with-suit-over-data-collected-from-android-phones": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-03T20:43:12Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/meta-stuck-with-suit-over-data-collected-from-android-phones",
+    "page": 2,
+    "summary": "Meta Platforms Inc. again failed to convince a federal court to dismiss a lawsuit alleging it exploited a vulnerability in Google LLC's Android operating ...",
+    "title": "Meta Stuck With Suit Over Data Collected From Android ..."
+   },
    "news.bloomberglaw.com/business-and-practice/metas-25-billion-penalty-is-massive-win-for-ag-in-small-state": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -10917,6 +10935,15 @@
     "page": 1,
     "summary": "Alexandra Poynter joined Squire Patton Boggs as a partner in its infrastructure practice in Birmingham, the firm announced Monday.",
     "title": "Squire Patton Boggs Hires Gowling's Poynter for ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/ss-c-wins-new-chance-at-arcesium-in-fintech-trade-secrets-suit": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-03T20:43:12Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ss-c-wins-new-chance-at-arcesium-in-fintech-trade-secrets-suit",
+    "page": 2,
+    "summary": "SS&C Technologies Holdings Inc. convinced the Second Circuit to revive its trade secrets claims against financial technology competitor Arcesium LLC that ...",
+    "title": "SS&C Wins New Chance at Arcesium in FinTech Trade ..."
    },
    "news.bloomberglaw.com/business-and-practice/starbucks-china-will-require-purchases-to-sit-in-its-cafes": {
     "baseline": false,
@@ -12112,6 +12139,15 @@
     "page": 3,
     "summary": "The leader of a Weil Gotshal & Manges practice group told his junior lawyers to look for employment elsewhere as the firm's future has become uncertain.",
     "title": "Weil Practice Head Tells Lawyers to Find Jobs as Firm ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/weil-real-estate-leader-jumps-to-goodwin-as-firm-winds-down": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-03T20:43:12Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/weil-real-estate-leader-jumps-to-goodwin-as-firm-winds-down",
+    "page": 2,
+    "summary": "Thomas Henry, the top real estate partner at Weil Gotshal & Manges, is heading to Goodwin Procter as his former firm prepares to wind down its operations.",
+    "title": "Weil Real Estate Leader Jumps to Goodwin as Firm Winds ..."
    },
    "news.bloomberglaw.com/business-and-practice/weil-recruits-paul-weiss-antitrust-lawyer-sobel-in-new-york": {
     "baseline": false,
@@ -41320,6 +41356,15 @@
     "page": 3,
     "summary": "The currency of the authorization. If not provided, defaults to the currency of the card. Three-letter ISO currency code, in lowercase. Must be a supported currency.",
     "title": "Create a test-mode authorization | Stripe API Reference"
+   },
+   "docs.stripe.com/api/issuing/transactions/list": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-03T20:43:12Z",
+    "link": "https://docs.stripe.com/api/issuing/transactions/list",
+    "page": 5,
+    "summary": "A dictionary with a data property that contains an array of up to limit transactions, starting after transaction starting_after . Each entry in the array is a ...",
+    "title": "List all transactions | Stripe API Reference"
    },
    "docs.stripe.com/api/issuing/transactions/test_mode_create_unlinked_refund": {
     "baseline": false,

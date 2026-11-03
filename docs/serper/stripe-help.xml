@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-03T18:43:41Z</updated>
+  <updated>2026-11-03T20:43:12Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/issuing/transactions/list</id>
+    <title>List all transactions | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/issuing/transactions/list" />
+    <published>2026-11-03T20:43:12Z</published>
+    <updated>2026-11-03T20:43:12Z</updated>
+    <summary>A dictionary with a data property that contains an array of up to limit transactions, starting after transaction starting_after . Each entry in the array is a ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/billing/meter/list</id>
     <title>List billing meters | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>The Tax integration configuration lets Stripe calculate tax automatically on subscription schedule phases that don't explicitly set automatic_tax or inherit ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESgwEB6zswFVNJm3nb_Dp12nWFwnwUmuD59erK0HlPNCz3If7ib-AD0f-hlfYCJySqUwtIXSmJdhrbQ0IstmqS-WQbaulg7q0AXmsqKdRm10SR6ieGy1tRdvGtb4j7seDmoWoDAX2SMZo5Y7OBNawyUHaKT5ETkJyx-7xFQSpKzh2Z70D4ZA&amp;gsessionid=dwLrPKaqRD9uigBYQOjcjb90e0rF1vD5m6-xFIa6LKNKBS0qbF9-fA</id>
-    <title>銀行振込によるサブスクリプションを設定する</title>
-    <link href="https://www.google.com/goto?url=CAESgwEB6zswFVNJm3nb_Dp12nWFwnwUmuD59erK0HlPNCz3If7ib-AD0f-hlfYCJySqUwtIXSmJdhrbQ0IstmqS-WQbaulg7q0AXmsqKdRm10SR6ieGy1tRdvGtb4j7seDmoWoDAX2SMZo5Y7OBNawyUHaKT5ETkJyx-7xFQSpKzh2Z70D4ZA&amp;gsessionid=dwLrPKaqRD9uigBYQOjcjb90e0rF1vD5m6-xFIa6LKNKBS0qbF9-fA" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>銀行振込を使用したサブスクリプションの作成と請求の方法をご紹介します。</summary>
   </entry>
 </feed>
