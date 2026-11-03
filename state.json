@@ -4605,6 +4605,12 @@
    "summary": "Stripe surveille les \u00e9v\u00e9nements n\u00e9cessitant une notification client et envoie un e-mail en votre nom au compte connect\u00e9. Pr\u00e9visualiser et envoyer des ...",
    "title": "Notifications r\u00e9glement\u00e9es Issuing destin\u00e9es aux clients | Documentation Stripe"
   },
+  "tag:google.com,2013:googlealerts/feed:13897162949436855216": {
+   "first_seen": "2026-11-03T06:44:51Z",
+   "link": "https://docs.stripe.com/global-payouts/supplemental-pricing-information?locale=en-GB",
+   "summary": "For each conversion, we apply the higher of the FX fee rates assigned to the two currencies, regardless of the direction of the conversion. For ...",
+   "title": "Pricing - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:13954862664206415903": {
    "first_seen": "2026-11-02T16:44:12Z",
    "link": "https://docs.stripe.com/payments/gopay",

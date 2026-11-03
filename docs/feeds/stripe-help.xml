@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-02T16:44:12Z</updated>
+  <updated>2026-11-03T06:44:51Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:13897162949436855216</id>
+    <title>Pricing - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/global-payouts/supplemental-pricing-information?locale=en-GB" />
+    <published>2026-11-03T06:44:51Z</published>
+    <updated>2026-11-03T06:44:51Z</updated>
+    <summary>For each conversion, we apply the higher of the FX fee rates assigned to the two currencies, regardless of the direction of the conversion. For ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:7494452052391164506</id>
     <title>GoPay Payments | Stripe Documentation</title>
@@ -795,13 +803,5 @@
     <published>2026-10-09T11:10:19Z</published>
     <updated>2026-10-09T11:10:19Z</updated>
     <summary>Stripe payment handlers for UCP. UCP payment handlers define how payment instruments are acquired, exchanged, and processed between all participants ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:5231195890762614563</id>
-    <title>How events work | Stripe Documentation</title>
-    <link href="https://docs.stripe.com/events/how-events-work" />
-    <published>2026-10-08T15:27:00Z</published>
-    <updated>2026-10-08T15:27:00Z</updated>
-    <summary>You can register a maximum of 16 event destinations per livemode or sandbox account. When registering a snapshot event destination with a version ...</summary>
   </entry>
 </feed>

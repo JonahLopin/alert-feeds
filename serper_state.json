@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 28105,
+  "credits_used": 28158,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T05:42:46Z",
+  "last_run": "2026-11-03T06:43:27Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 564
+  "runs": 565
  },
  "feeds": {
   "adp-help": {
@@ -9271,6 +9271,15 @@
     "page": 1,
     "summary": "A federal judge rejected a Justice Department official's request to recuse herself from a court challenge to President Donald Trump's proposed changes",
     "title": "Judge Rejects 'Baseless' DOJ Bid to Recuse From Golf ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/judge-rejects-bid-to-limit-whom-doj-can-send-as-poll-monitors": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-03T06:43:27Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/judge-rejects-bid-to-limit-whom-doj-can-send-as-poll-monitors",
+    "page": 3,
+    "summary": "A federal judge denied an eleventh-hour bid by the NAACP to block the US Justice Department from deploying staff from federal law enforcement agencies to ...",
+    "title": "Judge Rejects Bid to Limit Whom DOJ Can Send as Poll ..."
    },
    "news.bloomberglaw.com/business-and-practice/judge-rules-news-outlets-can-keep-white-house-access-for-now-1": {
     "baseline": false,
