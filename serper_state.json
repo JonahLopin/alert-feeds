@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 28366,
+  "credits_used": 28418,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T10:43:11Z",
+  "last_run": "2026-11-03T11:42:44Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 569
+  "runs": 570
  },
  "feeds": {
   "adp-help": {
@@ -7208,6 +7208,15 @@
     "summary": "The record-setting $6.3 billion hack of Binance, the world's biggest cryptocurrency exchange, has been blamed on alleged North Korean hackers, ...",
     "title": "Binance Heist Shows Power of Suspected North Korean ..."
    },
+   "news.bloomberglaw.com/business-and-practice/binance-lacks-cyber-insurance-coverage-for-6-3-billion-hack": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-03T11:42:44Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/binance-lacks-cyber-insurance-coverage-for-6-3-billion-hack",
+    "page": 2,
+    "summary": "As Binance races to reimburse customers hit by a record $6.3 billion hack, the crypto trading giant will likely find that insurance policies cover only a ...",
+    "title": "Binance Lacks Cyber Insurance Coverage for $6.3 Billion ..."
+   },
    "news.bloomberglaw.com/business-and-practice/binance-outflows-hit-4-7-billion-after-record-north-korea-hack": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -7459,6 +7468,15 @@
     "page": 2,
     "summary": "China's currency is having a good year, and Beijing wants everyone to know it.",
     "title": "China Is Too Defensive Over the Yuan: Daniel Moss"
+   },
+   "news.bloomberglaw.com/business-and-practice/china-plans-broad-ai-guardrails-after-global-security-lapses": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-11-03T11:42:44Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/china-plans-broad-ai-guardrails-after-global-security-lapses",
+    "page": 1,
+    "summary": "China plans to roll out a broad set of standards governing the AI safety from development through deployment, representing some of the most comprehensive ...",
+    "title": "China Plans Broad AI Guardrails After Global Security ..."
    },
    "news.bloomberglaw.com/business-and-practice/citigroup-convenes-analysts-in-mexico-to-prepare-for-banamex-ipo": {
     "baseline": false,
@@ -11554,6 +11572,15 @@
     "page": 2,
     "summary": "Production at manufacturers rose 0.3% after a revised 0.2% August decrease, according to Federal Reserve data out Friday. The September increase matched the ...",
     "title": "US Factory Production Rebounds on Pickup in Output of ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/us-law-week-oct-2026-circuit-split-review-immigration-status": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-03T11:42:44Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-law-week-oct-2026-circuit-split-review-immigration-status",
+    "page": 1,
+    "summary": "The Tenth Circuit in October ruled in favor of a mother and son from Rwanda, finding it had jurisdiction to review their refugee status termination. Similar to ...",
+    "title": "US Law Week Oct. 2026 Circuit Split Review: Immigration ..."
    },
    "news.bloomberglaw.com/business-and-practice/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts": {
     "baseline": false,
@@ -16626,6 +16653,15 @@
     "page": 1,
     "summary": "This guide gives you 60+ restaurant feedback questions, sorted by category. You'll find questions on your overall experience, food quality, service, ambiance, ...",
     "title": "60+ Restaurant Feedback Questions to Ask Your Guests"
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-financial-management": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-11-03T11:42:44Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-financial-management",
+    "page": 1,
+    "summary": "Struggling to make sense of your restaurant's numbers? Learn how to read your financials, control costs, and build a plan that protects your margins.",
+    "title": "How to Manage Your Restaurant Finances: A Guide for ..."
    },
    "merchants.doordash.com/en-us/blog/restaurant-loyalty-programs": {
     "baseline": false,
@@ -26931,6 +26967,15 @@
     "summary": "Learn how India evolved into an important global innovation hub for SAP, shaping key AI tech like Joule and agentic AI.",
     "title": "How India Drives SAP's AI Future"
    },
+   "news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-03T11:42:44Z",
+    "link": "https://news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster/",
+    "page": 1,
+    "summary": "It enables organizations to create AI agents and workflow automations to streamline operations across finance, sales, HR, IT, and customer support. Use cases ...",
+    "title": "Cohere North Generally Available on SAP Business AI ..."
+   },
    "news.sap.com/africa": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -37095,6 +37140,15 @@
     "page": 5,
     "summary": "Discover how marketing automation works for online stores, including key types, useful tools, best practices, and how AI is shaping automation.",
     "title": "Marketing Automation: A Guide for Online Stores (2026)"
+   },
+   "shopify.com/blog/what-is-onetrust": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-03T11:42:44Z",
+    "link": "https://www.shopify.com/blog/what-is-onetrust",
+    "page": 2,
+    "summary": "What are the uses of OneTrust? Businesses use OneTrust to manage privacy and consent, assess vendor and technology risks, and oversee data and AI use. OneTrust ...",
+    "title": "What Is OneTrust? Features and Pricing (2026)"
    },
    "shopify.com/blog/what-is-shopify": {
     "baseline": false,
@@ -52470,6 +52524,15 @@
     "page": 1,
     "summary": "Nipple-sparing techniques can provide better outcomes for women undergoing breast reconstruction after mastectomy.",
     "title": "With 'batwing' mastopexy, more women can undergo ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-accelerates-the-development-of-the-libra-legal-ai-workspace-in-italy": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-03T11:42:44Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-accelerates-the-development-of-the-libra-legal-ai-workspace-in-italy",
+    "page": 1,
+    "summary": "One LAVORO's trusted employment and social security content is now available in Libra, helping professionals research, analyze and draft faster.",
+    "title": "Wolters Kluwer advances Libra legal AI in Italy with One ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-acquires-us-ai-enabled-drug-diversion-detection-software": {
     "baseline": false,

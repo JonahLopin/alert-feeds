@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-03T05:42:46Z</updated>
+  <updated>2026-11-03T11:42:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster/</id>
+    <title>Cohere North Generally Available on SAP Business AI ...</title>
+    <link href="https://news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster/" />
+    <published>2026-11-03T11:42:44Z</published>
+    <updated>2026-11-03T11:42:44Z</updated>
+    <summary>It enables organizations to create AI agents and workflow automations to streamline operations across finance, sales, HR, IT, and customer support. Use cases ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/korea/2026/10/sap-ai-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%9D%98%EB%8F%84-%EA%B8%B0%EB%B0%98-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89/sap-teched-2026-main-hall/</id>
     <title>sap-teched-2026-main-hall - SAP Korea 뉴스센터</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T03:43:22Z</published>
     <updated>2026-10-31T03:43:22Z</updated>
     <summary>Learn about the offerings SAP highlighted at SAP TechEd to be able to manage AI governance and enforce governance policies at runtime.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESegHrOzAVAtCIMqtyx6h9PrkS3PKzXlUDzbyGZzzQmHGmgSLNsBJaE-41pyoF4mgEtWBpRD4W6tbqvBx0qiCfUjLTCY_5TSVYWT-zsZ77sYwQQPM1IapYu-uPwr_cXfWA1qyBRTkabyqT5PdmZ5YeGmwzjde9CTDwvNPp</id>
-    <title>Transformation management Archives</title>
-    <link href="https://www.google.com/goto?url=CAESegHrOzAVAtCIMqtyx6h9PrkS3PKzXlUDzbyGZzzQmHGmgSLNsBJaE-41pyoF4mgEtWBpRD4W6tbqvBx0qiCfUjLTCY_5TSVYWT-zsZ77sYwQQPM1IapYu-uPwr_cXfWA1qyBRTkabyqT5PdmZ5YeGmwzjde9CTDwvNPp" />
-    <published>2026-10-31T03:43:22Z</published>
-    <updated>2026-10-31T03:43:22Z</updated>
-    <summary>SAP provides the solutions necessary to govern, control, and innovate now and into the future. +1-800-872-1727</summary>
   </entry>
 </feed>

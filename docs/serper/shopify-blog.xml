@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-03T02:42:56Z</updated>
+  <updated>2026-11-03T11:42:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/what-is-onetrust</id>
+    <title>What Is OneTrust? Features and Pricing (2026)</title>
+    <link href="https://www.shopify.com/blog/what-is-onetrust" />
+    <published>2026-11-03T11:42:44Z</published>
+    <updated>2026-11-03T11:42:44Z</updated>
+    <summary>What are the uses of OneTrust? Businesses use OneTrust to manage privacy and consent, assess vendor and technology risks, and oversee data and AI use. OneTrust ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/smart-order-routing</id>
     <title>Shopify Smart Order Routing: Rules and Setup (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T10:43:10Z</published>
     <updated>2026-10-31T10:43:10Z</updated>
     <summary>A payment gateway captures and securely sends a customer's payment details. A payment processor routes transaction messages between banks and card networks ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESeAHrOzAV4xjuHskuyw1byiHSepcvEw9mSAb8i2FsKr_0PlRXTSPznvkHP2ICYfTr5Ze31KQRc12V5my9YOcLqzPVlwyg-OXdO5V-6TC2UNpHsev-DUeR-gtqC6uBubobn4rgRczVi_GZ7XKfy_F7ZbL_TsP0QV7vYA</id>
-    <title>How The Good Liver Built a Cult Retail Brand (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESeAHrOzAV4xjuHskuyw1byiHSepcvEw9mSAb8i2FsKr_0PlRXTSPznvkHP2ICYfTr5Ze31KQRc12V5my9YOcLqzPVlwyg-OXdO5V-6TC2UNpHsev-DUeR-gtqC6uBubobn4rgRczVi_GZ7XKfy_F7ZbL_TsP0QV7vYA" />
-    <published>2026-10-31T10:43:10Z</published>
-    <updated>2026-10-31T10:43:10Z</updated>
-    <summary>Driven by a passion for global craftsmanship, Bert Youn opened a Los Angeles store, using tactile retail to build a profitable ecommerce brand.</summary>
   </entry>
 </feed>
