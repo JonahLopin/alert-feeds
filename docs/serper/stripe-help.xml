@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-03T20:43:12Z</updated>
+  <updated>2026-11-03T23:43:01Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/plans/list</id>
+    <title>List all plans | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/plans/list" />
+    <published>2026-11-03T23:43:01Z</published>
+    <updated>2026-11-03T23:43:01Z</updated>
+    <summary>A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/charges/update</id>
+    <title>Update a charge | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/charges/update" />
+    <published>2026-11-03T23:43:01Z</published>
+    <updated>2026-11-03T23:43:01Z</updated>
+    <summary>An arbitrary string which you can attach to a charge object. It is displayed when in the web interface alongside the charge. Note that if you use Stripe to ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/issuing/transactions/list</id>
     <title>List all transactions | Stripe API Reference</title>
@@ -787,21 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>Learn how to save bank details from an iDEAL | Wero payment and charge your customers later with SEPA Direct Debit.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESjAEB6zswFQ82RVByiFhalq7pDFyJvoYsgcP2NyqRV0bD_TU9438fkGNHYLvcYOTvgy0EyNTXQq_wWMdyDs1ptRBxc-8s6IBIYJ7cmm00Gk7ap6nO6E5l1N7zAZ8vZAQ2LjkwNvIWz3qoRThz_zO7_ruQlePzO4e6aFa4M0eVXZe3fYnCp1AwDsl6h7Q_Ug&amp;gsessionid=dwLrPKaqRD9uigBYQOjcjb90e0rF1vD5m6-xFIa6LKNKBS0qbF9-fA</id>
-    <title>Create a test-mode unlinked refund | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESjAEB6zswFQ82RVByiFhalq7pDFyJvoYsgcP2NyqRV0bD_TU9438fkGNHYLvcYOTvgy0EyNTXQq_wWMdyDs1ptRBxc-8s6IBIYJ7cmm00Gk7ap6nO6E5l1N7zAZ8vZAQ2LjkwNvIWz3qoRThz_zO7_ruQlePzO4e6aFa4M0eVXZe3fYnCp1AwDsl6h7Q_Ug&amp;gsessionid=dwLrPKaqRD9uigBYQOjcjb90e0rF1vD5m6-xFIa6LKNKBS0qbF9-fA" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>Answers to prompts presented to the cardholder at the point of sale. Prompted fields vary depending on the configuration of your physical fleet cards.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESgwEB6zswFZu41nrPNYbJHQWqAtwfvAgA9X-fUOXu3qc9XlqHvhwQznX5QDKUjRVAC7YuCZmceYfN7ZU4aHO1yWaPcyTU2W_auStNIhyuImyF0asQEon7zIVAkpE9qGR-nCqmCt7iytFlfo9Sy5eJWeeY-XLyJ7LGqZQ1ISLKOQgmZp-e7A&amp;gsessionid=9YGUaA7FJZYXUCmcXAck9DIKgCHPczYgnPljaalnVt1tfmGquIMDZw</id>
-    <title>Enable tax by default for subscription schedules</title>
-    <link href="https://www.google.com/goto?url=CAESgwEB6zswFZu41nrPNYbJHQWqAtwfvAgA9X-fUOXu3qc9XlqHvhwQznX5QDKUjRVAC7YuCZmceYfN7ZU4aHO1yWaPcyTU2W_auStNIhyuImyF0asQEon7zIVAkpE9qGR-nCqmCt7iytFlfo9Sy5eJWeeY-XLyJ7LGqZQ1ISLKOQgmZp-e7A&amp;gsessionid=9YGUaA7FJZYXUCmcXAck9DIKgCHPczYgnPljaalnVt1tfmGquIMDZw" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>The Tax integration configuration lets Stripe calculate tax automatically on subscription schedule phases that don't explicitly set automatic_tax or inherit ...</summary>
   </entry>
 </feed>

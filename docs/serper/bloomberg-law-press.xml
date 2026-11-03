@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-03T22:43:01Z</updated>
+  <updated>2026-11-03T23:43:01Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/federal-judge-blocks-deportation-flight-of-afghans-to-pakistan</id>
+    <title>Federal Judge Blocks Deportation Flight of Afghans to Pakistan</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/federal-judge-blocks-deportation-flight-of-afghans-to-pakistan" />
+    <published>2026-11-03T23:43:01Z</published>
+    <updated>2026-11-03T23:43:01Z</updated>
+    <summary>Immigration officials are barred from deporting dozens of Afghan immigrants, including women and families of US allies, to Pakistan and Afghanistan. ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/headless-paga-tactic-scrutinized-by-california-high-court</id>
     <title>'Headless PAGA' Tactic Scrutinized by California High Court</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>The digital-asset industry has just suffered the biggest heist in its brief history with the $6.3 billion hacking of Binance, the No. 1 crypto platform.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESqQEB6zswFebzVnQc79tMqQ-MnNDZeH24J6Sxny11MzJJ1aF-yif92N4EAmCphizdWfzvCTyND72v7zQS181feNIzLHLAb3NhBUO3rfazac9BjEGAUfDj38vmvfoSvlvKq_YUXfBhUTgjxEB9qh-L_FIgmh6cAuzzu9xuWmLIVpi9LZ2D4sARrDZRObmJ8LGnu29NTsdIPaBl6Oxcx_4078iUQQYQ4aoX_f5d</id>
-    <title>DHS' Voter Fraud Operation Remains Stopped by Ninth ...</title>
-    <link href="https://www.google.com/goto?url=CAESqQEB6zswFebzVnQc79tMqQ-MnNDZeH24J6Sxny11MzJJ1aF-yif92N4EAmCphizdWfzvCTyND72v7zQS181feNIzLHLAb3NhBUO3rfazac9BjEGAUfDj38vmvfoSvlvKq_YUXfBhUTgjxEB9qh-L_FIgmh6cAuzzu9xuWmLIVpi9LZ2D4sARrDZRObmJ8LGnu29NTsdIPaBl6Oxcx_4078iUQQYQ4aoX_f5d" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>A trio judges for the US Court of Appeals for the Ninth Circuit denied the Trump administration's attempt to pause a lower ruling blocking the practice in nine ...</summary>
   </entry>
 </feed>
