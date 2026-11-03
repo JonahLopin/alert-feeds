@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 28051,
+  "credits_used": 28105,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T04:43:29Z",
+  "last_run": "2026-11-03T05:42:46Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 563
+  "runs": 564
  },
  "feeds": {
   "adp-help": {
@@ -16538,6 +16538,15 @@
     "summary": "Is it time for your own restaurant app? Learn how branded mobile ordering apps help restaurants increase repeat orders, boost loyalty, and own customer ...",
     "title": "Is It Time for Your Own Restaurant App? Here's How to Know"
    },
+   "merchants.doordash.com/en-us/blog/restaurant-business-plan": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-03T05:42:46Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-business-plan",
+    "page": 2,
+    "summary": "Start with the executive summary and market analysis from your full business plan; together, they establish the concept and the opportunity. Then tailor the ...",
+    "title": "How to Write a Restaurant Business Plan: Ultimate Guide"
+   },
    "merchants.doordash.com/en-us/blog/restaurant-crm-campaign": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -28199,6 +28208,15 @@
     "page": 2,
     "summary": "SAP \ube44\uc988\ub2c8\uc2a4 AI \ud50c\ub7ab\ud3fc\uc740 \uc870\uc9c1\uc774 SAP \ubc0f \uc11c\ub4dc\ud30c\ud2f0 \ud658\uacbd \uc804\ubc18\uc5d0\uc11c AI\ub97c \uad6c\ucd95\ud558\uace0 \ub9e5\ub77d\uc744 \ub354\ud558\uba70 \uac70\ubc84\ub10c\uc2a4\ub97c \uc801\uc6a9\ud560 \uc218 \uc788\ub294 \ub2e8\uc77c \uacf5\uac04\uc744 \uc81c\uacf5\ud55c\ub2e4. \ube44\uc988\ub2c8\uc2a4 \uc0ac\uc6a9\uc790\uc640 ...",
     "title": "SAP, AI \uac1c\ubc1c\uc790\uc758 \ud575\uc2ec \uc194\ub8e8\uc158 \uad6c\ucd95 \ubc0f \uc758\ub3c4 \uae30\ubc18 \uc790\uc728 \uc2e4\ud589 ..."
+   },
+   "news.sap.com/korea/2026/10/sap-ai-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%9D%98%EB%8F%84-%EA%B8%B0%EB%B0%98-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89/sap-teched-2026-main-hall": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-11-03T05:42:46Z",
+    "link": "https://news.sap.com/korea/2026/10/sap-ai-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%9D%98%EB%8F%84-%EA%B8%B0%EB%B0%98-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89/sap-teched-2026-main-hall/",
+    "page": 2,
+    "summary": "SAP TechEd 2026 \uba54\uc778 \ud640 \uc804\uacbd. SAP. \ub300\ud55c\ubbfc\uad6d 080-219-2400. \uc9c0\uc5ed\ubcc4 \uad6d\uac00 \ubc88\ud638 \uc804\uccb4 \ubaa9\ub85d \ubcf4\uae30 \u00b7 SAP\uc5d0 \ubb38\uc758. \ube60\ub978 \uc5f0\uacb0 \ub9c1\ud06c \ube60\ub978 \uc5f0\uacb0 \ub9c1\ud06c.",
+    "title": "sap-teched-2026-main-hall - SAP Korea \ub274\uc2a4\uc13c\ud130"
    },
    "news.sap.com/korea/2026/10/sap-ai-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%9D%98%EB%8F%84-%EA%B8%B0%EB%B0%98-%EC%9E%90%EC%9C%A8-%EC%8B%A4%ED%96%89/sap_teched26ber_oa_7265": {
     "baseline": false,

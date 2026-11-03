@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:doordash-blog</id>
   <title>DoorDash blog (site:merchants.doordash.com/en-us/blog/) via Serper</title>
-  <updated>2026-11-03T03:42:52Z</updated>
+  <updated>2026-11-03T05:42:46Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/doordash-blog.xml" />
+  <entry>
+    <id>https://merchants.doordash.com/en-us/blog/restaurant-business-plan</id>
+    <title>How to Write a Restaurant Business Plan: Ultimate Guide</title>
+    <link href="https://merchants.doordash.com/en-us/blog/restaurant-business-plan" />
+    <published>2026-11-03T05:42:46Z</published>
+    <updated>2026-11-03T05:42:46Z</updated>
+    <summary>Start with the executive summary and market analysis from your full business plan; together, they establish the concept and the opportunity. Then tailor the ...</summary>
+  </entry>
   <entry>
     <id>https://merchants.doordash.com/en-us/blog/coffee-shop-business-plan</id>
     <title>Coffee Shop Business Plan: 7 Sections Every Owner ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T01:43:06Z</published>
     <updated>2026-10-31T01:43:06Z</updated>
     <summary>This guide gives you 60+ restaurant feedback questions, sorted by category. You'll find questions on your overall experience, food quality, service, ambiance, ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESfAHrOzAVf7TL4CB_E2w8dFnczaA2p5Wdjmv7r9FLuWXtowFUlEWRRuinvT4JDL6c_ulJIxlWL-fCFc10S_tepyvYsAXOQyAHP9iFvDeYb7TW2l_AVoGJg-XgOzJcU6va7TaR6OVcEf1aUdiVZ3IvWmBl8w7O9Dh7D2XGJFY</id>
-    <title>The Anatomy of a High-Converting Restaurant CRM ...</title>
-    <link href="https://www.google.com/goto?url=CAESfAHrOzAVf7TL4CB_E2w8dFnczaA2p5Wdjmv7r9FLuWXtowFUlEWRRuinvT4JDL6c_ulJIxlWL-fCFc10S_tepyvYsAXOQyAHP9iFvDeYb7TW2l_AVoGJg-XgOzJcU6va7TaR6OVcEf1aUdiVZ3IvWmBl8w7O9Dh7D2XGJFY" />
-    <published>2026-10-31T01:43:06Z</published>
-    <updated>2026-10-31T01:43:06Z</updated>
-    <summary>A restaurant CRM (Customer Relationship Management) campaign uses customer data to send targeted messages through email, SMS, or push notifications.</summary>
   </entry>
 </feed>
