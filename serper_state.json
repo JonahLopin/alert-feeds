@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 28882,
+  "credits_used": 28935,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T20:43:12Z",
+  "last_run": "2026-11-03T21:43:16Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 579
+  "runs": 580
  },
  "feeds": {
   "adp-help": {
@@ -6777,6 +6777,15 @@
     "summary": "The surge in artificial intelligence-related cases demonstrates how the securities litigation landscape has shifted decisively over the past year.",
     "title": "AI Diversion Theories Emerge as New Securities Lawsuit ..."
    },
+   "news.bloomberglaw.com/business-and-practice/ai-expertise-in-corporate-boardrooms-has-doubled-report-finds": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-03T21:43:16Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ai-expertise-in-corporate-boardrooms-has-doubled-report-finds",
+    "page": 1,
+    "summary": "AI expertise on boards doubled during the past year, but it remains low. Just 1 in 20 S&P 500 independent directors report the skill, according to a new report",
+    "title": "AI Expertise in Corporate Boardrooms Has Doubled, ..."
+   },
    "news.bloomberglaw.com/business-and-practice/ai-media-firm-needs-privacy-ombudsman-in-disney-deal-judge-says": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -9910,6 +9919,15 @@
     "summary": "South Carolina appellate rulings upholding tax assessments against Mastercard International Inc. and US Bank NA highlight a nationwide shift toward states ...",
     "title": "Mastercard, US Bank State Tax Losses Put Finance Firms ..."
    },
+   "news.bloomberglaw.com/business-and-practice/matt-levines-money-stuff-how-much-should-anthropic-pop": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-03T21:43:16Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/matt-levines-money-stuff-how-much-should-anthropic-pop",
+    "page": 1,
+    "summary": "Matt Levine's Money Stuff: How Much Should Anthropic Pop? Bloomberg Law provides trusted coverage of current events enhanced with legal analysis.",
+    "title": "Matt Levine's Money Stuff: How Much Should Anthropic Pop?"
+   },
    "news.bloomberglaw.com/business-and-practice/matt-levines-money-stuff-pre-ipo-perpetual-futures-swap-etf": {
     "baseline": false,
     "date_hint": "23 hours ago",
@@ -10261,6 +10279,15 @@
     "summary": "New York's law prohibiting residents from buying body armor for self-defense is unconstitutional, a federal judge ruled, enjoining the state from enforcing ...",
     "title": "New York's First-in-Nation Body Armor Ban Nixed by ..."
    },
+   "news.bloomberglaw.com/business-and-practice/ninth-circuit-pauses-order-restoring-tps-relief-for-venezuelans-34": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-03T21:43:16Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ninth-circuit-pauses-order-restoring-tps-relief-for-venezuelans-34",
+    "page": 1,
+    "summary": "An appellate court will pause its order restoring Temporary Protected Status for Venezuelan nationals for at least two weeks.",
+    "title": "Ninth Circuit Pauses Order Restoring TPS Relief for ..."
+   },
    "news.bloomberglaw.com/business-and-practice/ninth-circuit-weighs-trumps-effort-to-lift-wolf-protections": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -10593,6 +10620,15 @@
     "page": 3,
     "summary": "Thoma Bravo-backed Proofpoint Inc. agreed to buy cybersecurity company Varonis Systems Inc. for about $6.3 billion.",
     "title": "Proofpoint to Buy Varonis for $6.3 Billion as Tech M&A ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/quinn-emanuel-nabs-top-weil-litigator-fee-as-ny-firm-winds-down": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-03T21:43:16Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/quinn-emanuel-nabs-top-weil-litigator-fee-as-ny-firm-winds-down",
+    "page": 2,
+    "summary": "Weil Gotshal & Manges litigator Adam Fee is joining Quinn Emanuel Urquhart & Sullivan as the storied New York law firm winds down its operations.",
+    "title": "Quinn Emanuel Nabs Top Weil Litigator Fee as NY Firm ..."
    },
    "news.bloomberglaw.com/business-and-practice/rays-brewers-world-series-posed-unusual-foley-lardner-conflict": {
     "baseline": false,
@@ -37159,6 +37195,15 @@
     "summary": "Shopify's smart order routing picks a fulfillment location using rules you rank. See how the five available rules work and which three apply by default.",
     "title": "Shopify Smart Order Routing: Rules and Setup (2026)"
    },
+   "shopify.com/blog/social-selling": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-03T21:43:16Z",
+    "link": "https://www.shopify.com/blog/social-selling",
+    "page": 2,
+    "summary": "What is social selling? Social selling is the use of social media platforms to locate, connect with, and nurture potential customers. It relies on platforms ...",
+    "title": "Social Selling: Strategies and Examples (2026)"
+   },
    "shopify.com/blog/standard-operating-procedure": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -49891,6 +49936,15 @@
     "page": 1,
     "summary": "end\u2010to\u2010end compliance connects indirect tax determination, tax compliance and reporting, e\u2010invoicing, and global trade management within a single, Oracle\u2010 ...",
     "title": "End-to-end compliance for Oracle Fusion Cloud ERP users"
+   },
+   "tax.thomsonreuters.com/blog/what-are-clients-getting-wrong-about-tax-changes-obbba-compliance-updates-for-2027": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-03T21:43:16Z",
+    "link": "https://tax.thomsonreuters.com/blog/what-are-clients-getting-wrong-about-tax-changes-obbba-compliance-updates-for-2027/",
+    "page": 1,
+    "summary": "Learn which OBBBA tax changes clients get wrong for 2027, from permanent provisions to staggered deadlines, and how to prepare your team.",
+    "title": "What clients are getting wrong about 2027 tax changes"
    },
    "tax.thomsonreuters.com/blog/what-changed-in-the-pcaob-qc-1000-amendments": {
     "baseline": false,

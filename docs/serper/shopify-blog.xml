@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-03T18:43:41Z</updated>
+  <updated>2026-11-03T21:43:16Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/social-selling</id>
+    <title>Social Selling: Strategies and Examples (2026)</title>
+    <link href="https://www.shopify.com/blog/social-selling" />
+    <published>2026-11-03T21:43:16Z</published>
+    <updated>2026-11-03T21:43:16Z</updated>
+    <summary>What is social selling? Social selling is the use of social media platforms to locate, connect with, and nurture potential customers. It relies on platforms ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/make-money-online</id>
     <title>How To Make Money Online: 23 Ways To Get Started (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T10:43:10Z</published>
     <updated>2026-10-31T10:43:10Z</updated>
     <summary>Learn how to start and manage a Shopify store using AI agents like Sidekick, ChatGPT, Claude, and more.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEShgEB6zswFVH9n0mBFE-O8wILj3N6y2IRbTMFIUr5VdZRSF9-MSpJjb1l0xTqqCSdsD9Ft6S8SOj7xaZ1a5ngCs-O3DJdfJEVkAhBX8gOG8mFJx-W2dguQCaISydKv9fM62fs7Sucnaq9-m4IhF7XWLb_s8ljQpwxrrpTRAXbRVTZmcnl_Wu7ZQ</id>
-    <title>Identify More of Your In-Store Customers with Shopify POS</title>
-    <link href="https://www.google.com/goto?url=CAEShgEB6zswFVH9n0mBFE-O8wILj3N6y2IRbTMFIUr5VdZRSF9-MSpJjb1l0xTqqCSdsD9Ft6S8SOj7xaZ1a5ngCs-O3DJdfJEVkAhBX8gOG8mFJx-W2dguQCaISydKv9fM62fs7Sucnaq9-m4IhF7XWLb_s8ljQpwxrrpTRAXbRVTZmcnl_Wu7ZQ" />
-    <published>2026-10-31T10:43:10Z</published>
-    <updated>2026-10-31T10:43:10Z</updated>
-    <summary>Shopify POS helps you identify more of your in-store customers at checkout, so more sales turn into customers you can remember, reach, and bring back.</summary>
   </entry>
 </feed>

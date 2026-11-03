@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-03T06:44:51Z</updated>
+  <updated>2026-11-03T21:44:34Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14734677653429115151</id>
+    <title>Set up future GoPay payments | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/gopay/set-up-future-payments?locale=en-GB" />
+    <published>2026-11-03T21:44:34Z</published>
+    <updated>2026-11-03T21:44:34Z</updated>
+    <summary>Save payment methods to a wallet to streamline future purchases; Collect surcharges after fulfilling a service. To collect payment method details and ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:13897162949436855216</id>
     <title>Pricing - Stripe Documentation</title>
@@ -795,13 +803,5 @@
     <published>2026-10-09T11:10:19Z</published>
     <updated>2026-10-09T11:10:19Z</updated>
     <summary>Follow a step-by-step guide to create a webhook endpoint, test it locally with the Stripe CLI, verify event signatures, and deploy to production.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:12263656120145640542</id>
-    <title>Universal Commerce Protocol - Stripe Documentation</title>
-    <link href="https://docs.stripe.com/agentic-commerce/protocols/ucp" />
-    <published>2026-10-09T11:10:19Z</published>
-    <updated>2026-10-09T11:10:19Z</updated>
-    <summary>Stripe payment handlers for UCP. UCP payment handlers define how payment instruments are acquired, exchanged, and processed between all participants ...</summary>
   </entry>
 </feed>
