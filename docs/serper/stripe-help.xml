@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-03T12:43:11Z</updated>
+  <updated>2026-11-03T14:43:21Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/sdks/set-version</id>
+    <title>Set a Stripe API version</title>
+    <link href="https://docs.stripe.com/sdks/set-version" />
+    <published>2026-11-03T14:43:21Z</published>
+    <updated>2026-11-03T14:43:21Z</updated>
+    <summary>The stripe-ruby library allows you to set the API version globally or on a per-request basis.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payment-links/customize?dashboard-or-api=api</id>
     <title>Customize checkout for Payment Links</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESfAHrOzAVoz-PegJCPBiWC8zorDx8pwzC8VWhDWvnuOMlGNlPeR0cSw9Nu9d-3-L3LiYflpkGCQX7o2VvWVYhS-gEJPT1j2E0FD0-u1KsFQMX5EdiAJDBGpNL5aBrTdCFMthulQvbFFHs7ezmdA6WS8mtRHHjDJH4QQPBUkM&amp;gsessionid=AoW1CnEIPxJ9lis8GbLQsDCe4_O6sGgAeTn4_ATIwd6iqKlKtRSj5w</id>
-    <title>Create a VerificationSession | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESfAHrOzAVoz-PegJCPBiWC8zorDx8pwzC8VWhDWvnuOMlGNlPeR0cSw9Nu9d-3-L3LiYflpkGCQX7o2VvWVYhS-gEJPT1j2E0FD0-u1KsFQMX5EdiAJDBGpNL5aBrTdCFMthulQvbFFHs7ezmdA6WS8mtRHHjDJH4QQPBUkM&amp;gsessionid=AoW1CnEIPxJ9lis8GbLQsDCe4_O6sGgAeTn4_ATIwd6iqKlKtRSj5w" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>A string to reference this user. This can be a customer ID, a session ID, or similar, and can be used to reconcile this verification with your internal systems.</summary>
   </entry>
 </feed>
