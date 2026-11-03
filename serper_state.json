@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 28935,
+  "credits_used": 28988,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T21:43:16Z",
+  "last_run": "2026-11-03T22:43:01Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 580
+  "runs": 581
  },
  "feeds": {
   "adp-help": {
@@ -8940,6 +8940,15 @@
     "summary": "Adam L. Hirst joined Haynes Boone as a partner in its real estate practice in New York, the firm announced Tuesday.",
     "title": "Haynes Boone Corrals Real Estate Partner Adam Hirst in ..."
    },
+   "news.bloomberglaw.com/business-and-practice/headless-paga-tactic-scrutinized-by-california-high-court": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-03T22:43:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/headless-paga-tactic-scrutinized-by-california-high-court",
+    "page": 1,
+    "summary": "The proposed legal gambit, dubbed \u201cheadless PAGA,\u201d has divided both trial and appellate courts over whether it's a valid way to enforce California labor rights",
+    "title": "'Headless PAGA' Tactic Scrutinized by California High Court"
+   },
    "news.bloomberglaw.com/business-and-practice/healthequity-members-dismiss-suit-over-massive-2024-data-breach": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -16987,6 +16996,15 @@
     "summary": "Secret Menu is a magazine for the restaurant community with stories that aim to inspire, inform, and connect. From first-hand interviews to features and photo ...",
     "title": "Secret Menu, a Magazine for and by the Restaurant Industry"
    },
+   "merchants.doordash.com/en-us/blog/social-media-marketing-for-restaurants": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-03T22:43:01Z",
+    "link": "https://merchants.doordash.com/en-us/blog/social-media-marketing-for-restaurants",
+    "page": 2,
+    "summary": "Build a restaurant brand voice that shows off who you are online \u2014 the personality behind every caption and reply. Write down three to five words that describe ...",
+    "title": "Social Media Marketing Guide for Restaurants: 10 Proven ..."
+   },
    "merchants.doordash.com/en-us/blog/the-key-to-getting-more-restaurant-reviews": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -22960,6 +22978,15 @@
     "page": 3,
     "summary": "Learn how to connect Amazon Seller Central to QuickBooks \u2014 the right way, the first time. Get it done in minutes.",
     "title": "Connect Amazon Seller Central to QuickBooks Online - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/increase-limit/learn-payment-processing-limits-quickbooks-bill/L3jVcLvTb_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-03T22:43:01Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/increase-limit/learn-payment-processing-limits-quickbooks-bill/L3jVcLvTb_US_en_US",
+    "page": 2,
+    "summary": "If you're still using QuickBooks Online Accountant, update to Intuit Accountant Suite (IAS) before you follow the steps in this article.",
+    "title": "Learn about payment processing limits in QuickBooks Bill Pay"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/insurance-medical-benefits/california-wage-plan-code-list/L5RK8T6rj_US_en_US": {
     "baseline": false,
@@ -29804,6 +29831,15 @@
     "page": 1,
     "summary": "The Ticket Detail (Open) Report provides detailed information about all open tickets in the system. Each ticket includes details such as items, discounts, ...",
     "title": "Ticket Detail (Open) Report on Shift4 Dine Customer Hub"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/46609843289875-Manage-Printers-and-Kitchen-Displays-in-Multi-Location-Management": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-03T22:43:01Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/46609843289875-Manage-Printers-and-Kitchen-Displays-in-Multi-Location-Management",
+    "page": 1,
+    "summary": "Location Management provides centralized control of printers and Kitchen Display Systems across multiple locations. This article explains how templates, ...",
+    "title": "Manage Printers and Kitchen Displays in Location ..."
    },
    "shift4.zendesk.com/hc/en-us/articles/47961339906579-Payment-Links-in-Lighthouse-Business-Manager-Europe": {
     "baseline": false,
@@ -49918,6 +49954,15 @@
     "link": "https://tax.thomsonreuters.com/blog/tax-provision-how-to-calculate-it/",
     "summary": "A tax provision is the estimated income tax a company expects to pay for the current year. Your provision combines current income tax expense and deferred ...",
     "title": "What is a provision for income tax and how do you ..."
+   },
+   "tax.thomsonreuters.com/blog/the-1099-da-problem-how-irs-automated-matching-can-turn-crypto-sales-into-cp2000-notices": {
+    "baseline": false,
+    "date_hint": "55 minutes ago",
+    "first_seen": "2026-11-03T22:43:01Z",
+    "link": "https://tax.thomsonreuters.com/blog/the-1099-da-problem-how-irs-automated-matching-can-turn-crypto-sales-into-cp2000-notices/",
+    "page": 1,
+    "summary": "Most 2025 Forms 1099-DA show proceeds with no basis. See why that creates CP2000 notices and how to reconcile crypto sales on Form 8949 before filing.",
+    "title": "1099-DA missing basis: Avoiding crypto CP2000 notices"
    },
    "tax.thomsonreuters.com/blog/the-3-benchmarks-changing-how-tax-leaders-justify-automation": {
     "baseline": false,

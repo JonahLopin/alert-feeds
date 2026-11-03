@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-03T21:43:16Z</updated>
+  <updated>2026-11-03T22:43:01Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/headless-paga-tactic-scrutinized-by-california-high-court</id>
+    <title>'Headless PAGA' Tactic Scrutinized by California High Court</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/headless-paga-tactic-scrutinized-by-california-high-court" />
+    <published>2026-11-03T22:43:01Z</published>
+    <updated>2026-11-03T22:43:01Z</updated>
+    <summary>The proposed legal gambit, dubbed “headless PAGA,” has divided both trial and appellate courts over whether it's a valid way to enforce California labor rights</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/quinn-emanuel-nabs-top-weil-litigator-fee-as-ny-firm-winds-down</id>
     <title>Quinn Emanuel Nabs Top Weil Litigator Fee as NY Firm ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>A trio judges for the US Court of Appeals for the Ninth Circuit denied the Trump administration's attempt to pause a lower ruling blocking the practice in nine ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/weil-gotshals-closest-relationship-cost-the-firm-everything</id>
-    <title>Weil Gotshal's Closest Relationship Cost the Firm Everything</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/weil-gotshals-closest-relationship-cost-the-firm-everything" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>A law firm, even one with 1200 lawyers, is simply a collection of relationships: partners deciding to work together.</summary>
   </entry>
 </feed>
