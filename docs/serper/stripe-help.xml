@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-03T15:43:05Z</updated>
+  <updated>2026-11-03T16:43:31Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/sources/create</id>
+    <title>Create a source | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/sources/create" />
+    <published>2026-11-03T16:43:31Z</published>
+    <updated>2026-11-03T16:43:31Z</updated>
+    <summary>Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/webhook_endpoints/list</id>
     <title>List all webhook endpoints | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>Migrate an existing payment form to the Payment Element with the Payment Intents API.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESggEB6zswFRBaqAbbzDFcQleoR17lbU-_IFTnXFN9V1CGit0SHhik6ToqBOArKFrwv1tBvam0tUnx_njORgX5iNQE4tga6oVD9-DhUq4MfZqnf2NhPElVOF660bt6KCC5trNsvwtT331QQtF1W8ezuQ0gSSY5VVqwLZi2JBlXufs5Vi8V&amp;gsessionid=dwLrPKaqRD9uigBYQOjcjb90e0rF1vD5m6-xFIa6LKNKBS0qbF9-fA</id>
-    <title>API リクエストログを表示する</title>
-    <link href="https://www.google.com/goto?url=CAESggEB6zswFRBaqAbbzDFcQleoR17lbU-_IFTnXFN9V1CGit0SHhik6ToqBOArKFrwv1tBvam0tUnx_njORgX5iNQE4tga6oVD9-DhUq4MfZqnf2NhPElVOF660bt6KCC5trNsvwtT331QQtF1W8ezuQ0gSSY5VVqwLZi2JBlXufs5Vi8V&amp;gsessionid=dwLrPKaqRD9uigBYQOjcjb90e0rF1vD5m6-xFIa6LKNKBS0qbF9-fA" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>開発者ダッシュボードで、API リクエストログをフィルタリングし、ログエントリーを表示します。</summary>
   </entry>
 </feed>

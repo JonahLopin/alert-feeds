@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 28625,
+  "credits_used": 28677,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T15:43:05Z",
+  "last_run": "2026-11-03T16:43:31Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 574
+  "runs": 575
  },
  "feeds": {
   "adp-help": {
@@ -536,6 +536,15 @@
     "page": 1,
     "summary": "API Central simplifies how organizations connect workforce data, applications and artificial intelligence solutions by providing access to APIs, MCP servers, AI ...",
     "title": "ADP Launches New AI-powered Tools to Accelerate ..."
+   },
+   "mediacenter.adp.com/nelsonhall-and-everest-group-recognize-adp-as-a-leader-in-workforce-management": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-03T16:43:31Z",
+    "link": "https://mediacenter.adp.com/nelsonhall-and-everest-group-recognize-adp-as-a-leader-in-workforce-management",
+    "page": 1,
+    "summary": "Noting ADP's strengths, NelsonHall recognized ADP's ability to combine global payroll with workforce management, support enterprise delivery at scale, configure ...",
+    "title": "NelsonHall and Everest Group Recognize ADP as a ..."
    },
    "mediacenter.adp.com/the-power-of-data": {
     "baseline": false,
@@ -9713,6 +9722,15 @@
     "summary": "A divided Second Circuit revived a former Lidl US LLC grocery store clerk's unpaid wage claims over a policy requiring employees to report to work before ...",
     "title": "Lidl Must Face 'Time-Shaving' Wage Lawsuit, Split Court ..."
    },
+   "news.bloomberglaw.com/business-and-practice/limit-401k-lawsuit-damages-employer-groups-urge-supreme-court": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-03T16:43:31Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/limit-401k-lawsuit-damages-employer-groups-urge-supreme-court",
+    "page": 1,
+    "summary": "Employees alleging retirement plan mismanagement shouldn't be allowed to recover more than they'd be entitled to in their individual 401(k) accounts,",
+    "title": "Limit 401(k) Lawsuit Damages, Employer Groups Urge ..."
+   },
    "news.bloomberglaw.com/business-and-practice/linqto-wins-new-bankruptcy-plan-trustee-bonuses-for-executives": {
     "baseline": false,
     "date_hint": "39 minutes ago",
@@ -10368,6 +10386,15 @@
     "page": 1,
     "summary": "TJ Kuban joined Orrick as a partner in its data center practice and energy & infrastructure team in Chicago, the firm announced Monday.",
     "title": "Orrick Adds Kirkland Data Center Real Estate Partner in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/orrick-hires-kirkland-debt-finance-partner-nicholson-in-new-york": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-03T16:43:31Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/orrick-hires-kirkland-debt-finance-partner-nicholson-in-new-york",
+    "page": 1,
+    "summary": "William Nicholson joined Orrick as a partner in its energy & infrastructure practice in New York, the firm announced Tuesday.",
+    "title": "Orrick Hires Kirkland Debt Finance Partner Nicholson in ..."
    },
    "news.bloomberglaw.com/business-and-practice/pacts-protect-attorney-client-privilege-across-company-families": {
     "baseline": false,
@@ -16511,6 +16538,15 @@
     "summary": "Get more Google reviews for your restaurant: learn the 3 ranking signals, 7 proven tactics, and how to respond, to rank higher and win more diners.",
     "title": "Google Reviews for Restaurants: Get More Stars in 2026"
    },
+   "merchants.doordash.com/en-us/blog/grow-restaurant-business": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-03T16:43:31Z",
+    "link": "https://merchants.doordash.com/en-us/blog/grow-restaurant-business",
+    "page": 1,
+    "summary": "s to Grow Your Restaurant Business Strategy 1: Optimize Your Google Business Profile. Strategy 2: Invest in Local SEO Local search Business Profile. Strategy 3 ...",
+    "title": "Top 20 Ways to Grow Your Restaurant Business"
+   },
    "merchants.doordash.com/en-us/blog/how-to-create-online-ordering-for-restaurants": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -16734,6 +16770,15 @@
     "page": 1,
     "summary": "A clear, consistent brand helps customers remember the why behind your restaurant and makes every other marketing channel work harder. Keep it simple and ...",
     "title": "25 Restaurant Marketing Ideas to Increase Sales in 2026"
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-mission-statement": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-03T16:43:31Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-mission-statement",
+    "page": 1,
+    "summary": "Fast casual or fast food restaurant statements lead with accessibility, value, and consistency. They speak to the community without the formality of fine- ...",
+    "title": "20+ Restaurant Mission Statement Examples (+ Template)"
    },
    "merchants.doordash.com/en-us/blog/restaurant-order-management-system": {
     "baseline": false,
@@ -41320,6 +41365,15 @@
     "page": 5,
     "summary": "idstring. Unique identifier for the object. \u00b7 data_load_timetimestamp. When the query was run, Sigma contained a snapshot of your Stripe data at this time. \u00b7 file ...",
     "title": "The Scheduled Query object | Stripe API Reference"
+   },
+   "docs.stripe.com/api/sources/create": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-03T16:43:31Z",
+    "link": "https://docs.stripe.com/api/sources/create",
+    "page": 4,
+    "summary": "Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.",
+    "title": "Create a source | Stripe API Reference"
    },
    "docs.stripe.com/api/subscriptions/object": {
     "baseline": false,
