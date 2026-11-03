@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 28780,
+  "credits_used": 28831,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T18:43:41Z",
+  "last_run": "2026-11-03T19:43:20Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 577
+  "runs": 578
  },
  "feeds": {
   "adp-help": {
@@ -29607,6 +29607,15 @@
     "page": 1,
     "summary": "Learn about updates to Shift4 Dine that simplify payment capturing and tip adjustments, including changes to how pending tips are identified and the enablement",
     "title": "Finalize Tips Immediately on Shift4 Dine"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/34668850853139-Shift4-Dine-Printer-and-Receipt-Settings": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-03T19:43:20Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/34668850853139-Shift4-Dine-Printer-and-Receipt-Settings",
+    "page": 1,
+    "summary": "Learn how to configure printer settings for Guest Check and Transaction Receipts, including printing options, tip hints, headers and footers, void payment ...",
+    "title": "Shift4 Dine Printer and Receipt Settings"
    },
    "shift4.zendesk.com/hc/en-us/articles/360026679673-Disable-Demo-Mode-on-Shift4-Duo": {
     "baseline": false,
