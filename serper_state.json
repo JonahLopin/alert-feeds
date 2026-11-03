@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 27835,
+  "credits_used": 27889,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T00:41:54Z",
+  "last_run": "2026-11-03T01:42:45Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 559
+  "runs": 560
  },
  "feeds": {
   "adp-help": {
@@ -22359,6 +22359,15 @@
     "page": 1,
     "summary": "Record business expenses in QuickBooks Online to track spending and maintain accurate financial records. Enter an expense when you have already paid for a ...",
     "title": "Enter and manage expenses in QuickBooks Online - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/chart-accounts/learn-account-detail-types-chart-accounts/L2gCy0rfy_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-03T01:42:45Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/chart-accounts/learn-account-detail-types-chart-accounts/L2gCy0rfy_US_en_US",
+    "page": 2,
+    "summary": "The chart of accounts is the foundation of your company's accounting. When you create a new account, you must select an account type and a detail type.",
+    "title": "Account type and detail types in QuickBooks Online - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/client-relationships/create-send-proposals/L6nlEXigC_US_en_US": {
     "baseline": false,
