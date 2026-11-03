@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 28677,
+  "credits_used": 28729,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T16:43:31Z",
+  "last_run": "2026-11-03T17:43:11Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 575
+  "runs": 576
  },
  "feeds": {
   "adp-help": {
@@ -536,6 +536,15 @@
     "page": 1,
     "summary": "API Central simplifies how organizations connect workforce data, applications and artificial intelligence solutions by providing access to APIs, MCP servers, AI ...",
     "title": "ADP Launches New AI-powered Tools to Accelerate ..."
+   },
+   "mediacenter.adp.com/building-trust-with-ai-tools": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-03T17:43:11Z",
+    "link": "https://mediacenter.adp.com/building-trust-with-ai-tools",
+    "page": 1,
+    "summary": "Learn how encouraging workers to use AI more often, both at work and home, may be the best thing leaders can do to build that trust.",
+    "title": "Building trust with AI tools"
    },
    "mediacenter.adp.com/nelsonhall-and-everest-group-recognize-adp-as-a-leader-in-workforce-management": {
     "baseline": false,
