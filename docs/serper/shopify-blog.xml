@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-02T23:43:08Z</updated>
+  <updated>2026-11-03T02:42:56Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/smart-order-routing</id>
+    <title>Shopify Smart Order Routing: Rules and Setup (2026)</title>
+    <link href="https://www.shopify.com/blog/smart-order-routing" />
+    <published>2026-11-03T02:42:56Z</published>
+    <updated>2026-11-03T02:42:56Z</updated>
+    <summary>Shopify's smart order routing picks a fulfillment location using rules you rank. See how the five available rules work and which three apply by default.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/affiliate-marketing-for-beginners</id>
     <title>Affiliate Marketing for Beginners: Your 2026 Guide</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T10:43:10Z</published>
     <updated>2026-10-31T10:43:10Z</updated>
     <summary>Driven by a passion for global craftsmanship, Bert Youn opened a Los Angeles store, using tactile retail to build a profitable ecommerce brand.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdwHrOzAVJtuIbhFvkGMQBoEfQ5uRBTZIvGmz48AdknH_PLyRtv3U5RBtKtUpA38esbVcjvUHQE0XLrN7O_DT7Wxiqb9dMHeIivCrfKPxoQCVAVEDqvWf58EFbfW2i906XC-TQGTHf4HL8AlV0OtKAuPj6bFtmw72</id>
-    <title>How To Get More Views on TikTok in 2027</title>
-    <link href="https://www.google.com/goto?url=CAESdwHrOzAVJtuIbhFvkGMQBoEfQ5uRBTZIvGmz48AdknH_PLyRtv3U5RBtKtUpA38esbVcjvUHQE0XLrN7O_DT7Wxiqb9dMHeIivCrfKPxoQCVAVEDqvWf58EFbfW2i906XC-TQGTHf4HL8AlV0OtKAuPj6bFtmw72" />
-    <published>2026-10-31T10:43:10Z</published>
-    <updated>2026-10-31T10:43:10Z</updated>
-    <summary>Learn how to get more views on TikTok, with advice from successful small business owners on what worked for them.</summary>
   </entry>
 </feed>

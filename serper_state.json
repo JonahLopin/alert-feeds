@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 27889,
+  "credits_used": 27943,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T01:42:45Z",
+  "last_run": "2026-11-03T02:42:56Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 560
+  "runs": 561
  },
  "feeds": {
   "adp-help": {
@@ -36843,6 +36843,15 @@
     "page": 5,
     "summary": "Discover small business grants offering non-repayable funding. Compare federal, state, corporate, and nonprofit options with requirements.",
     "title": "Small Business Grants: 40+ Free Funding Options (2026)"
+   },
+   "shopify.com/blog/smart-order-routing": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-03T02:42:56Z",
+    "link": "https://www.shopify.com/blog/smart-order-routing",
+    "page": 2,
+    "summary": "Shopify's smart order routing picks a fulfillment location using rules you rank. See how the five available rules work and which three apply by default.",
+    "title": "Shopify Smart Order Routing: Rules and Setup (2026)"
    },
    "shopify.com/blog/standard-operating-procedure": {
     "baseline": false,
