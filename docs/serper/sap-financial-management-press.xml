@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-03T14:43:21Z</updated>
+  <updated>2026-11-03T15:43:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/spain/2026/10/aceleracion-de-la-transformacion-en-los-procesos-de-fabricacion-despliegue-estrategico-de-ia-y-arquitectura-en-la-nube-y-edge-computing/procesos-de-transformacion/</id>
+    <title>procesos de transformacion - SAP España News Center</title>
+    <link href="https://news.sap.com/spain/2026/10/aceleracion-de-la-transformacion-en-los-procesos-de-fabricacion-despliegue-estrategico-de-ia-y-arquitectura-en-la-nube-y-edge-computing/procesos-de-transformacion/" />
+    <published>2026-11-03T15:43:05Z</published>
+    <updated>2026-11-03T15:43:05Z</updated>
+    <summary>Explore todas las áreas de SAP. Capacitación y soporte. Capacitación y certificación · Soporte · Documentación · Comunidad. Acerca de.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/tags/eu-ai-cloud/</id>
     <title>EU AI Cloud Archives</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T04:43:04Z</published>
     <updated>2026-10-31T04:43:04Z</updated>
     <summary>SAP TechEd SAP provides the solutions necessary to govern, control, and innovate now and into the future. +1-800-872-1727</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESXgHrOzAV8zpCTt6gpOUYN11A8lFatONc6HWNxgVRmqqsr371BaFjkh4dP_8xgYF1oK506_SN4ytHtQu5ljwBuLeZU2tNHadL1DocJzf7gdO2cUwaox3PghVHNRKJ0Xw</id>
-    <title>Tech Events Coverage, News &amp; Stories</title>
-    <link href="https://www.google.com/goto?url=CAESXgHrOzAV8zpCTt6gpOUYN11A8lFatONc6HWNxgVRmqqsr371BaFjkh4dP_8xgYF1oK506_SN4ytHtQu5ljwBuLeZU2tNHadL1DocJzf7gdO2cUwaox3PghVHNRKJ0Xw" />
-    <published>2026-10-31T04:43:04Z</published>
-    <updated>2026-10-31T04:43:04Z</updated>
-    <summary>News, information, feature articles, press releases &amp; stories from SAP about global technology and business events, conferences, etc.</summary>
   </entry>
 </feed>

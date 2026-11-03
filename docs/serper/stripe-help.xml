@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-03T14:43:21Z</updated>
+  <updated>2026-11-03T15:43:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/webhook_endpoints/list</id>
+    <title>List all webhook endpoints | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/webhook_endpoints/list" />
+    <published>2026-11-03T15:43:05Z</published>
+    <updated>2026-11-03T15:43:05Z</updated>
+    <summary>A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/sdks/set-version</id>
     <title>Set a Stripe API version</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>開発者ダッシュボードで、API リクエストログをフィルタリングし、ログエントリーを表示します。</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESgAEB6zswFbMJPwxQ_m7iy1ZGoB_b5M3p7YAK9rSdS2wtMeIfpe0CXua9PoSyJ_5LQ_Mfq6cFabR3OxTgcNEjKUyBptC_IWUDuFQ3Dy3KouMiAJNrTrUtQe9o_YRfRuq84PWanzm8cSbsUmhl0aBRVqoIyhJNNQgqepv6jzRVaQsXsw&amp;gsessionid=9YGUaA7FJZYXUCmcXAck9DIKgCHPczYgnPljaalnVt1tfmGquIMDZw</id>
-    <title>Supported recipient countries - Global Payouts</title>
-    <link href="https://www.google.com/goto?url=CAESgAEB6zswFbMJPwxQ_m7iy1ZGoB_b5M3p7YAK9rSdS2wtMeIfpe0CXua9PoSyJ_5LQ_Mfq6cFabR3OxTgcNEjKUyBptC_IWUDuFQ3Dy3KouMiAJNrTrUtQe9o_YRfRuq84PWanzm8cSbsUmhl0aBRVqoIyhJNNQgqepv6jzRVaQsXsw&amp;gsessionid=9YGUaA7FJZYXUCmcXAck9DIKgCHPczYgnPljaalnVt1tfmGquIMDZw" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).</summary>
   </entry>
 </feed>

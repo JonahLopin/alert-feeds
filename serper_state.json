@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 28573,
+  "credits_used": 28625,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T14:43:21Z",
+  "last_run": "2026-11-03T15:43:05Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 573
+  "runs": 574
  },
  "feeds": {
   "adp-help": {
@@ -28856,6 +28856,15 @@
     "summary": "Los cambios macroecon\u00f3micos, la volatilidad geopol\u00edtica y los avances tecnol\u00f3gicos han alterado fundamentalmente este paradigma.",
     "title": "despliegue estrat\u00e9gico de IA y arquitectura en la nube y ..."
    },
+   "news.sap.com/spain/2026/10/aceleracion-de-la-transformacion-en-los-procesos-de-fabricacion-despliegue-estrategico-de-ia-y-arquitectura-en-la-nube-y-edge-computing/procesos-de-transformacion": {
+    "baseline": false,
+    "date_hint": "16 hours ago",
+    "first_seen": "2026-11-03T15:43:05Z",
+    "link": "https://news.sap.com/spain/2026/10/aceleracion-de-la-transformacion-en-los-procesos-de-fabricacion-despliegue-estrategico-de-ia-y-arquitectura-en-la-nube-y-edge-computing/procesos-de-transformacion/",
+    "page": 2,
+    "summary": "Explore todas las \u00e1reas de SAP. Capacitaci\u00f3n y soporte. Capacitaci\u00f3n y certificaci\u00f3n \u00b7 Soporte \u00b7 Documentaci\u00f3n \u00b7 Comunidad. Acerca de.",
+    "title": "procesos de transformacion - SAP Espa\u00f1a News Center"
+   },
    "news.sap.com/spain/2026/10/aceleracion-de-la-transformacion-en-los-procesos-de-fabricacion-despliegue-estrategico-de-ia-y-arquitectura-en-la-nube-y-edge-computing?amp=1": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -41491,6 +41500,15 @@
     "summary": "The type of activity. Possible enum values. login_attempt. A reported account login attempt. login_decision. A reported decision ...",
     "title": "Create an Account Activity v2"
    },
+   "docs.stripe.com/api/webhook_endpoints/list": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-03T15:43:05Z",
+    "link": "https://docs.stripe.com/api/webhook_endpoints/list",
+    "page": 3,
+    "summary": "A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...",
+    "title": "List all webhook endpoints | Stripe API Reference"
+   },
    "docs.stripe.com/billing/subscriptions/au-becs-debit": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -52650,6 +52668,15 @@
     "page": 2,
     "summary": "Introducing UpToDate Expert AI, evidence-based GenAI in clinical decision support. Speed, evidence, and trust\u2014the AI tool you've been waiting for.",
     "title": "Wolters Kluwer adds UpToDate Lexidrug to GenAI ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-ai-school-management-germany": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-03T15:43:05Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-ai-school-management-germany",
+    "page": 1,
+    "summary": "Wolters Kluwer's 2026 study reveals how German school leaders use AI and highlights the need for clear strategies, tailored training and legal guidance.",
+    "title": "Wolters Kluwer study: AI in school management"
    },
    "wolterskluwer.com/en/news/wolters-kluwer-alberto-de-benito-aznar-general-manager-audit-assurance": {
     "baseline": false,
