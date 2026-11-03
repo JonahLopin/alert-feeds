@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-03T11:42:44Z</updated>
+  <updated>2026-11-03T13:42:52Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/2026/11/sap-optimiert-finanzprozesse/</id>
+    <title>AI-powered Finance: Neue Funktionen von SAP</title>
+    <link href="https://news.sap.com/germany/2026/11/sap-optimiert-finanzprozesse/" />
+    <published>2026-11-03T13:42:52Z</published>
+    <updated>2026-11-03T13:42:52Z</updated>
+    <summary>Steigern Sie Ihre Effizienz mit AI-powered Finance: Entdecken Sie innovative Lösungen für bessere Planung und Berichterstattung.</summary>
+  </entry>
+  <entry>
+    <id>https://news.sap.com/2026/11/business-networks-harness-agentic-ai-collaboration-operational-resilience/</id>
+    <title>Business Networks Harness Agentic AI</title>
+    <link href="https://news.sap.com/2026/11/business-networks-harness-agentic-ai-collaboration-operational-resilience/" />
+    <published>2026-11-03T13:42:52Z</published>
+    <updated>2026-11-03T13:42:52Z</updated>
+    <summary>SAP Business Network can enable increasingly intelligent, predictive, and autonomous processes across sourcing, procurement, supplier management, and finance.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster/</id>
     <title>Cohere North Generally Available on SAP Business AI ...</title>
@@ -787,21 +803,5 @@
     <published>2026-10-31T03:43:22Z</published>
     <updated>2026-10-31T03:43:22Z</updated>
     <summary>SAP en NTT willen hun technologie en dienstverlening combineren om organisaties te helpen profiteren van innovaties op het gebied van cloud en AI.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESvQEB6zswFT_TW2nqbilhzWO5CSEQ8j4X_rMBUq3v2UqueG-xK7t258yGGNxUQchV7B4H--E8a7qNqVf_ICyTBaDKNOdz6K_rPdeNphevnOd_LcMQ6l4spISVn8se9fHP_Md1lCU9yyTty9rtasZ3OI1K7-N3pphSZZbm571kLTv1cj6IL9UG5yUC6r-XWA8ycQ-7vmtR4MvQ9Z9yjPHtpCkED6wHQaJMkLWF2C2rVtxxvQKIHGWCHFvMmB31eU4</id>
-    <title>SAP en NTT willen samenwerken aan betrouwbare ...</title>
-    <link href="https://www.google.com/goto?url=CAESvQEB6zswFT_TW2nqbilhzWO5CSEQ8j4X_rMBUq3v2UqueG-xK7t258yGGNxUQchV7B4H--E8a7qNqVf_ICyTBaDKNOdz6K_rPdeNphevnOd_LcMQ6l4spISVn8se9fHP_Md1lCU9yyTty9rtasZ3OI1K7-N3pphSZZbm571kLTv1cj6IL9UG5yUC6r-XWA8ycQ-7vmtR4MvQ9Z9yjPHtpCkED6wHQaJMkLWF2C2rVtxxvQKIHGWCHFvMmB31eU4" />
-    <published>2026-10-31T03:43:22Z</published>
-    <updated>2026-10-31T03:43:22Z</updated>
-    <summary>SAP en NTT willen hun technologie en dienstverlening combineren om organisaties te helpen profiteren van innovaties op het gebied van cloud en AI.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESiAEB6zswFfVmQPnQO2k1QWLOI5IIFPtT1UZgcmujP8FWaW0n5GhoOtBetOsUhEDUgF4JMcNZyATBgMqFEkEj6PY1AKSqptrFHjgzn7o7-8mXRHNelvnCZj3Gyf_iYFNofHabfAUB3IL4Z9vdKN-ZSKS7vkJ_hBnqUyGNQ_9AdNQmyrC9K2gLgsTd</id>
-    <title>How to Lead with AI Governance | SAP TechEd</title>
-    <link href="https://www.google.com/goto?url=CAESiAEB6zswFfVmQPnQO2k1QWLOI5IIFPtT1UZgcmujP8FWaW0n5GhoOtBetOsUhEDUgF4JMcNZyATBgMqFEkEj6PY1AKSqptrFHjgzn7o7-8mXRHNelvnCZj3Gyf_iYFNofHabfAUB3IL4Z9vdKN-ZSKS7vkJ_hBnqUyGNQ_9AdNQmyrC9K2gLgsTd" />
-    <published>2026-10-31T03:43:22Z</published>
-    <updated>2026-10-31T03:43:22Z</updated>
-    <summary>Learn about the offerings SAP highlighted at SAP TechEd to be able to manage AI governance and enforce governance policies at runtime.</summary>
   </entry>
 </feed>

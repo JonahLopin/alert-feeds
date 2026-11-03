@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 28469,
+  "credits_used": 28521,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T12:43:11Z",
+  "last_run": "2026-11-03T13:42:52Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 571
+  "runs": 572
  },
  "feeds": {
   "adp-help": {
@@ -10675,6 +10675,15 @@
     "summary": "Clark, pictured in 2024, is offering legal help to Trump administration officials who may become investigation targets should Democrats prevail",
     "title": "Sanctioned Lawyer Clark Aims to Help Fight Democrats' ..."
    },
+   "news.bloomberglaw.com/business-and-practice/saudi-aramco-ceo-plans-to-maximize-oil-output-as-exports-surge": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-03T13:42:52Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/saudi-aramco-ceo-plans-to-maximize-oil-output-as-exports-surge",
+    "page": 3,
+    "summary": "Saudi Aramco will maximize oil production this quarter, the company's chief said, as it looks to keep cranking up shipments after exports returned to near ...",
+    "title": "Saudi Aramco CEO Plans to Maximize Oil Output as ..."
+   },
    "news.bloomberglaw.com/business-and-practice/scotus-passes-on-ruby-tuesday-benefits-suit-following-advice": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -11752,6 +11761,15 @@
     "page": 3,
     "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
     "title": "Wake Up Call: Big Tech Joins Big Law in the Legal Talent ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-firms-cash-in-on-new-yorks-real-estate-boom": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-03T13:42:52Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-firms-cash-in-on-new-yorks-real-estate-boom",
+    "page": 3,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
+    "title": "Wake Up Call: Firms Cash in on New York's Real Estate ..."
    },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-firms-leverage-what-they-know-with-custom-ai": {
     "baseline": false,
@@ -26976,6 +26994,15 @@
     "summary": "RAND Corporation found that 80% of enterprise AI initiatives fail to deliver their intended business value\u2014twice the failure rate of standard IT projects. S&P ...",
     "title": "AI and Transformation Guidance for Every Customer"
    },
+   "news.sap.com/2026/11/business-networks-harness-agentic-ai-collaboration-operational-resilience": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-03T13:42:52Z",
+    "link": "https://news.sap.com/2026/11/business-networks-harness-agentic-ai-collaboration-operational-resilience/",
+    "page": 1,
+    "summary": "SAP Business Network can enable increasingly intelligent, predictive, and autonomous processes across sourcing, procurement, supplier management, and finance.",
+    "title": "Business Networks Harness Agentic AI"
+   },
    "news.sap.com/2026/11/how-india-drives-sap-ai-future": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -27794,6 +27821,15 @@
     "page": 1,
     "summary": "Erfahren Sie, wie die SAP zur KI-Akzeptanz beitr\u00e4gt und ethische Grunds\u00e4tze f\u00fcr vertrauensvolle Technologien etabliert.",
     "title": "KI-Akzeptanz und die Verantwortung der Unternehmen"
+   },
+   "news.sap.com/germany/2026/11/sap-optimiert-finanzprozesse": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-11-03T13:42:52Z",
+    "link": "https://news.sap.com/germany/2026/11/sap-optimiert-finanzprozesse/",
+    "page": 1,
+    "summary": "Steigern Sie Ihre Effizienz mit AI-powered Finance: Entdecken Sie innovative L\u00f6sungen f\u00fcr bessere Planung und Berichterstattung.",
+    "title": "AI-powered Finance: Neue Funktionen von SAP"
    },
    "news.sap.com/germany/features": {
     "baseline": false,
