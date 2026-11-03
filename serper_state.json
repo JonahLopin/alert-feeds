@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 27781,
+  "credits_used": 27835,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-02T23:43:08Z",
+  "last_run": "2026-11-03T00:41:54Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 558
+  "runs": 559
  },
  "feeds": {
   "adp-help": {
@@ -16304,6 +16304,15 @@
     "summary": "In restaurants, 86 is a slang term for an item that's sold out, out of stock, or no longer available. This guide covers how teams use the term and where it may ...",
     "title": "What Does 86d Mean? Restaurant Term Explained"
    },
+   "merchants.doordash.com/en-us/blog/adding-delivery-to-your-restaurant": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-03T00:41:54Z",
+    "link": "https://merchants.doordash.com/en-us/blog/adding-delivery-to-your-restaurant",
+    "page": 1,
+    "summary": "Learn how to set up delivery for your restaurant in 5 steps. Compare models, launch on DoorDash, optimize menus, and grow revenue.",
+    "title": "How to Set Up Delivery for Your Restaurant in 5 Simple Steps"
+   },
    "merchants.doordash.com/en-us/blog/benefits-of-pos-systems-in-restaurants": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -22146,6 +22155,15 @@
     "summary": "The ProAdvisor Academy lets you advance your expertise and manage your professional achievements from your Intuit Accountant Suite firm.",
     "title": "ProAdvisor Academy and certification courses - QuickBooks"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/accountant-reports/make-adjusting-journal-entries-quickbooks-online/L1IvjNses_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-03T00:41:54Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/accountant-reports/make-adjusting-journal-entries-quickbooks-online/L1IvjNses_US_en_US",
+    "page": 2,
+    "summary": "If you're still using QuickBooks Online Accountant, update to Intuit Accountant Suite (IAS) before you follow the steps in this article.",
+    "title": "Make adjusting journal entries in Intuit Accountant Suite"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/add-foreign-currency-account/L7n7mw1uA_US_en_US": {
     "baseline": true,
     "date_hint": "2 days ago",
@@ -22871,6 +22889,15 @@
     "summary": "E-file payroll tax forms. Here's how you e-file your client's federal tax returns with QuickBooks. You can also e-file their state tax forms in QuickBooks.",
     "title": "E-file payroll tax forms for clients in \u200bQuickBooks Desktop ..."
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/manage-client/find-missing-client-companies-quickbooks-online/L84C3tcL8_US_en_US": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-03T00:41:54Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-client/find-missing-client-companies-quickbooks-online/L84C3tcL8_US_en_US",
+    "page": 2,
+    "summary": "If you can't open a client's company file, or you don't see them on your client list, don't worry. Here's how to check if a client's company is connected ...",
+    "title": "Find missing client companies - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/manage-client/transfer-clients-intuit-accountant-suite/L2a0pk1mS_US_en_US": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -22879,6 +22906,15 @@
     "page": 3,
     "summary": "You can move clients between Intuit Accountant Suite (IAS) accounts. All their info, client numbers, and team access move with them.",
     "title": "Transfer clients in Intuit Accountant Suite (IAS)"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/manage-customers/assign-leads-customers-opportunities-quickbooks-online/L0qZpPTat_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-03T00:41:54Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-customers/assign-leads-customers-opportunities-quickbooks-online/L0qZpPTat_US_en_US",
+    "page": 3,
+    "summary": "In the Customer Hub, you can assign leads, customers, and opportunities to the people who use your QuickBooks Online account, including your accountant. The ...",
+    "title": "Assign leads, customers, and opportunities in QuickBooks ..."
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/manage-customers/manually-add-leads-customer-hub/L3GZDOdYV_US_en_US": {
     "baseline": false,
@@ -40489,6 +40525,15 @@
     "page": 1,
     "summary": "The Close Report Summaries report provides a detailed view of employee and register closeout activity for a selected date range. This report allows managers to ...",
     "title": "Close Report Summaries | SpotOn Restaurant Reporting"
+   },
+   "help.spoton.com/space/SK/5281611781/Generate+Dine-In,+Pickup,+&+Delivery+SpotOn+Order+QR+Codes+%7C+SpotOn+Restaurant+BOH": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-03T00:41:54Z",
+    "link": "https://help.spoton.com/space/SK/5281611781/Generate+Dine-In,+Pickup,+&+Delivery+SpotOn+Order+QR+Codes+%7C+SpotOn+Restaurant+BOH",
+    "page": 1,
+    "summary": "Overview. SpotOn Order QR Codes provide guests with quick access to online ordering and Scan & Pay functionality. Merchants can generate QR codes for pickup ...",
+    "title": "Generate Dine-In, Pickup, & Delivery SpotOn Order QR ..."
    },
    "help.spoton.com/space/SK/5529468936": {
     "baseline": false,

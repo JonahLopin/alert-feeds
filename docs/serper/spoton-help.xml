@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-02T16:42:52Z</updated>
+  <updated>2026-11-03T00:41:54Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/5281611781/Generate+Dine-In,+Pickup,+&amp;+Delivery+SpotOn+Order+QR+Codes+%7C+SpotOn+Restaurant+BOH</id>
+    <title>Generate Dine-In, Pickup, &amp; Delivery SpotOn Order QR ...</title>
+    <link href="https://help.spoton.com/space/SK/5281611781/Generate+Dine-In,+Pickup,+&amp;+Delivery+SpotOn+Order+QR+Codes+%7C+SpotOn+Restaurant+BOH" />
+    <published>2026-11-03T00:41:54Z</published>
+    <updated>2026-11-03T00:41:54Z</updated>
+    <summary>Overview. SpotOn Order QR Codes provide guests with quick access to online ordering and Scan &amp; Pay functionality. Merchants can generate QR codes for pickup ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/4773609537/Tip+Ownership+Method+%7C+Location+Settings</id>
     <title>Tip Ownership Method | Location Settings</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T20:43:11Z</published>
     <updated>2026-10-30T20:43:11Z</updated>
     <summary>The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVTxi0eD7YPJTaRe7l6831hN13uu_x9HoLBY9IkpdhTEmUKbuXk0aPRESdn-BXsxBsYm-vB9Zy7zHlBnVo-9lq411UhyMVccRp3NRSI7Y5k-P50ifwtuEPhco806dnayvxlA</id>
-    <title>Create Order Type | SpotOn Restaurant (RPOS)</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVTxi0eD7YPJTaRe7l6831hN13uu_x9HoLBY9IkpdhTEmUKbuXk0aPRESdn-BXsxBsYm-vB9Zy7zHlBnVo-9lq411UhyMVccRp3NRSI7Y5k-P50ifwtuEPhco806dnayvxlA" />
-    <published>2026-10-30T20:43:11Z</published>
-    <updated>2026-10-30T20:43:11Z</updated>
-    <summary>Overview. Order Types determine how orders are processed within SpotOn Restaurant (RPOS). They can be configured with unique pricing, customer requirements, ...</summary>
   </entry>
 </feed>
