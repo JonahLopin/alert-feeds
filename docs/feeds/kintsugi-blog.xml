@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:kintsugi-blog</id>
   <title>Kintsugi blog (site:trykintsugi.com/blog/)</title>
-  <updated>2026-10-30T05:26:49Z</updated>
+  <updated>2026-11-03T07:44:18Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/kintsugi-blog.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:16523232715669516163</id>
+    <title>How Third-Party Registration Keeps Your Sales Tax Data in Your Hands - Kintsugi</title>
+    <link href="https://trykintsugi.com/blog/third-party-registration-keeps-your-data-safe" />
+    <published>2026-11-03T07:44:18Z</published>
+    <updated>2026-11-03T07:44:18Z</updated>
+    <summary>Third-party registration lets Kintsugi monitor your state sales tax accounts for notices and balances due while your credentials stay in your ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:6532120328929766820</id>
     <title>Sales Tax vs. VAT: Understanding Input and Output VAT - Kintsugi</title>
