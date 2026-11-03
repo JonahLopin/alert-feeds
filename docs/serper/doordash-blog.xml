@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:doordash-blog</id>
   <title>DoorDash blog (site:merchants.doordash.com/en-us/blog/) via Serper</title>
-  <updated>2026-11-03T00:41:54Z</updated>
+  <updated>2026-11-03T03:42:52Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/doordash-blog.xml" />
+  <entry>
+    <id>https://merchants.doordash.com/en-us/blog/coffee-shop-business-plan</id>
+    <title>Coffee Shop Business Plan: 7 Sections Every Owner ...</title>
+    <link href="https://merchants.doordash.com/en-us/blog/coffee-shop-business-plan" />
+    <published>2026-11-03T03:42:52Z</published>
+    <updated>2026-11-03T03:42:52Z</updated>
+    <summary>Ready to open a coffee shop? Learn how to write a business plan that gets you funded — with every section explained and tips to stand out.</summary>
+  </entry>
   <entry>
     <id>https://merchants.doordash.com/en-us/blog/adding-delivery-to-your-restaurant</id>
     <title>How to Set Up Delivery for Your Restaurant in 5 Simple Steps</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T01:43:06Z</published>
     <updated>2026-10-31T01:43:06Z</updated>
     <summary>A restaurant CRM (Customer Relationship Management) campaign uses customer data to send targeted messages through email, SMS, or push notifications.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESewHrOzAVMWrB5gV-GeejkGODD_yi6pHFbhED7UHAaD32209ZgFbbbtF0ijl-DlBaN-9iuRyVkHILZGsndOJQ4Wuls1Nf8pzjRarwmF9AZ3ooF2rHlmXlFIi3oVilnj0SlllGf-VBDlXcezFrBoGjmU0KiSacz25KfRQlIA</id>
-    <title>Black Friday Checklist: Free Guide for Small Retailers</title>
-    <link href="https://www.google.com/goto?url=CAESewHrOzAVMWrB5gV-GeejkGODD_yi6pHFbhED7UHAaD32209ZgFbbbtF0ijl-DlBaN-9iuRyVkHILZGsndOJQ4Wuls1Nf8pzjRarwmF9AZ3ooF2rHlmXlFIi3oVilnj0SlllGf-VBDlXcezFrBoGjmU0KiSacz25KfRQlIA" />
-    <published>2026-10-31T01:43:06Z</published>
-    <updated>2026-10-31T01:43:06Z</updated>
-    <summary>Get your store ready with this Black Friday checklist for small retailers: inventory, delivery and pickup, promotions, and staffing. Free download.</summary>
   </entry>
 </feed>

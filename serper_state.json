@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 27943,
+  "credits_used": 27997,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T02:42:56Z",
+  "last_run": "2026-11-03T03:42:52Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 561
+  "runs": 562
  },
  "feeds": {
   "adp-help": {
@@ -16340,6 +16340,15 @@
     "summary": "Get your store ready with this Black Friday checklist for small retailers: inventory, delivery and pickup, promotions, and staffing. Free download.",
     "title": "Black Friday Checklist: Free Guide for Small Retailers"
    },
+   "merchants.doordash.com/en-us/blog/coffee-shop-business-plan": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-03T03:42:52Z",
+    "link": "https://merchants.doordash.com/en-us/blog/coffee-shop-business-plan",
+    "page": 2,
+    "summary": "Ready to open a coffee shop? Learn how to write a business plan that gets you funded \u2014 with every section explained and tips to stand out.",
+    "title": "Coffee Shop Business Plan: 7 Sections Every Owner ..."
+   },
    "merchants.doordash.com/en-us/blog/coffee-shop-marketing-strategy": {
     "baseline": false,
     "date_hint": "7 days ago",
@@ -23593,6 +23602,15 @@
     "page": 1,
     "summary": "Shopify Tax automated filing ends with December 2026 sales. See when your last return is due and how to move sales tax filing to Kintsugi without a gap.",
     "title": "Shopify Automated Filing Ends: What to Do Next"
+   },
+   "trykintsugi.com/blog/third-party-registration-keeps-your-data-safe": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-03T03:42:52Z",
+    "link": "https://trykintsugi.com/blog/third-party-registration-keeps-your-data-safe",
+    "page": 1,
+    "summary": "Third-party registration lets Kintsugi monitor your state sales tax accounts for notices and balances due while your credentials stay in your dashboard.",
+    "title": "Third-Party Registration: Your Data in Your Hands"
    },
    "trykintsugi.com/blog/understanding-input-and-output-vat": {
     "baseline": false,
