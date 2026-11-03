@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-03T11:42:44Z</updated>
+  <updated>2026-11-03T18:43:41Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/make-money-online</id>
+    <title>How To Make Money Online: 23 Ways To Get Started (2026)</title>
+    <link href="https://www.shopify.com/blog/make-money-online" />
+    <published>2026-11-03T18:43:41Z</published>
+    <updated>2026-11-03T18:43:41Z</updated>
+    <summary>Explore 23 ways to make money online or from home, including print on demand and freelancing. See who each method suits and how to start.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/what-is-onetrust</id>
     <title>What Is OneTrust? Features and Pricing (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T10:43:10Z</published>
     <updated>2026-10-31T10:43:10Z</updated>
     <summary>Shopify POS helps you identify more of your in-store customers at checkout, so more sales turn into customers you can remember, reach, and bring back.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESfAHrOzAVWhfQFGGTbx2Mzbo0UDABthsNtv_6wIvys22lxSl1JQu9l_jOCOfR7zYVaxNkNEzB9KwNCOlxcHQtQvNxe_Wam7ApQZjcbBxUw_lVyFCsHhAYF9-sQzg7WQQeb476GDduCON_TukwmQkk73-jQKO_YgB_KYpXub8</id>
-    <title>Payment Gateway vs. Payment Processor (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESfAHrOzAVWhfQFGGTbx2Mzbo0UDABthsNtv_6wIvys22lxSl1JQu9l_jOCOfR7zYVaxNkNEzB9KwNCOlxcHQtQvNxe_Wam7ApQZjcbBxUw_lVyFCsHhAYF9-sQzg7WQQeb476GDduCON_TukwmQkk73-jQKO_YgB_KYpXub8" />
-    <published>2026-10-31T10:43:10Z</published>
-    <updated>2026-10-31T10:43:10Z</updated>
-    <summary>A payment gateway captures and securely sends a customer's payment details. A payment processor routes transaction messages between banks and card networks ...</summary>
   </entry>
 </feed>

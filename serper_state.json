@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 28729,
+  "credits_used": 28780,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T17:43:11Z",
+  "last_run": "2026-11-03T18:43:41Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 576
+  "runs": 577
  },
  "feeds": {
   "adp-help": {
@@ -7029,6 +7029,15 @@
     "summary": "Apple Inc. and director M. Night Shyamalan thwarted an effort to revive a lawsuit alleging Apple TV+'s 2019 series \u201cServant\u201d copied from a writer's 2013 ...",
     "title": "Apple TV, Shyamalan Preserve Jury Copyright Win Over ' ..."
    },
+   "news.bloomberglaw.com/business-and-practice/apple-watchs-new-siri-recap-feature-challenges-privacy-norms": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-03T18:43:41Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/apple-watchs-new-siri-recap-feature-challenges-privacy-norms",
+    "page": 1,
+    "summary": "The latest Apple Watches' always-on listening feature marks a new era of surveillance into private conversations and runs up against state eavesdropping laws",
+    "title": "Apple Watch's New 'Siri Recap' Feature Challenges ..."
+   },
    "news.bloomberglaw.com/business-and-practice/arkansas-foreign-crypto-mining-limits-get-appeals-court-review": {
     "baseline": false,
     "date_hint": "58 minutes ago",
@@ -9614,6 +9623,15 @@
     "summary": "The Trump administration is canceling an environmental review of energy corridors that would accommodate solar and wind power transmission lines on public ...",
     "title": "Land Bureau Scraps Environmental Review of Solar, Wind ..."
    },
+   "news.bloomberglaw.com/business-and-practice/landmark-cloudflare-stock-ruling-likely-set-for-mid-case-appeal": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-03T18:43:41Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/landmark-cloudflare-stock-ruling-likely-set-for-mid-case-appeal",
+    "page": 1,
+    "summary": "A landmark court decision \u2014 halting Cloudflare Inc.'s stock restructuring and offering a novel interpretation of last year's Delaware corporate overhaul ...",
+    "title": "Landmark Cloudflare Stock Ruling Likely Set for Mid-Case ..."
+   },
    "news.bloomberglaw.com/business-and-practice/latham-adds-baker-botts-project-head-in-five-partner-energy-haul": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -10071,6 +10089,15 @@
     "page": 1,
     "summary": "Montana's attorney general sued General Motors Co. Friday for allegedly selling drivers' personal information to third parties without their knowledge or ...",
     "title": "Montana Sues General Motors Over Sale of Drivers ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/morgan-lewis-healthcare-partner-harper-returns-to-firm-in-dc": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-03T18:43:41Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/morgan-lewis-healthcare-partner-harper-returns-to-firm-in-dc",
+    "page": 1,
+    "summary": "Jacob Harper rejoined Morgan Lewis as a partner in its FDA & healthcare practice in Washington, the firm announced Tuesday.",
+    "title": "Morgan Lewis Healthcare Partner Harper Returns to Firm ..."
    },
    "news.bloomberglaw.com/business-and-practice/msg-sports-entertainment-giant-pays-11-million-to-four-lawyers": {
     "baseline": false,
@@ -36585,6 +36612,15 @@
     "summary": "A loyalty program is a marketing strategy that encourages repeat business by rewarding customers for their continued patronage. Typically, with a brand loyalty ...",
     "title": "Loyalty Programs: Real Examples & Best Practices (2026)"
    },
+   "shopify.com/blog/make-money-online": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-03T18:43:41Z",
+    "link": "https://www.shopify.com/blog/make-money-online",
+    "page": 2,
+    "summary": "Explore 23 ways to make money online or from home, including print on demand and freelancing. See who each method suits and how to start.",
+    "title": "How To Make Money Online: 23 Ways To Get Started (2026)"
+   },
    "shopify.com/blog/make-money-podcasting": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -41051,6 +41087,15 @@
     "page": 5,
     "summary": "Start of the aggregation period for which this notification was sent. Only present for usage threshold alerts.",
     "title": "The Billing Alert Notification object | Stripe API Reference"
+   },
+   "docs.stripe.com/api/billing/meter/list": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-03T18:43:41Z",
+    "link": "https://docs.stripe.com/api/billing/meter/list",
+    "page": 5,
+    "summary": "A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...",
+    "title": "List billing meters | Stripe API Reference"
    },
    "docs.stripe.com/api/capabilities?api-version=2026-10-28.preview": {
     "baseline": false,

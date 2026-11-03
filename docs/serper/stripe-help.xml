@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-03T16:43:31Z</updated>
+  <updated>2026-11-03T18:43:41Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/billing/meter/list</id>
+    <title>List billing meters | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/billing/meter/list" />
+    <published>2026-11-03T18:43:41Z</published>
+    <updated>2026-11-03T18:43:41Z</updated>
+    <summary>A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/sources/create</id>
     <title>Create a source | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>銀行振込を使用したサブスクリプションの作成と請求の方法をご紹介します。</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESggEB6zswFbROREHxpNNM6stlz8pWtyeKci8srzEIhmrK1pWRXi_oH71-oG0V76pDJwM7aUCUi3qi2nnAJbn-pPXM_0mNn4npyXayyGUxKfYV827kTDK4NLb1nmqrEYB08Ru3DmRoF7MmeEVKku66SGg0Nnrwv9RLstohIQl0wFQxXmGX&amp;gsessionid=dwLrPKaqRD9uigBYQOjcjb90e0rF1vD5m6-xFIa6LKNKBS0qbF9-fA</id>
-    <title>Migrate to the Payment Element with the Payment Intents API</title>
-    <link href="https://www.google.com/goto?url=CAESggEB6zswFbROREHxpNNM6stlz8pWtyeKci8srzEIhmrK1pWRXi_oH71-oG0V76pDJwM7aUCUi3qi2nnAJbn-pPXM_0mNn4npyXayyGUxKfYV827kTDK4NLb1nmqrEYB08Ru3DmRoF7MmeEVKku66SGg0Nnrwv9RLstohIQl0wFQxXmGX&amp;gsessionid=dwLrPKaqRD9uigBYQOjcjb90e0rF1vD5m6-xFIa6LKNKBS0qbF9-fA" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>Migrate an existing payment form to the Payment Element with the Payment Intents API.</summary>
   </entry>
 </feed>
