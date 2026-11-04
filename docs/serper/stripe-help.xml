@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-04T04:43:05Z</updated>
+  <updated>2026-11-04T05:43:34Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/customer-management/pause-subscriptions</id>
+    <title>Let customers pause subscriptions in the customer portal</title>
+    <link href="https://docs.stripe.com/customer-management/pause-subscriptions" />
+    <published>2026-11-04T05:43:34Z</published>
+    <updated>2026-11-04T05:43:34Z</updated>
+    <summary>In the customer portal, you can let your customers pause their subscriptions for a duration you choose, and resume them automatically at the end of that ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/subscription_schedules/list</id>
+    <title>List all schedules | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/subscription_schedules/list" />
+    <published>2026-11-04T05:43:34Z</published>
+    <updated>2026-11-04T05:43:34Z</updated>
+    <summary>A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/customer_sessions/create</id>
+    <title>Create a Customer Session | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/customer_sessions/create" />
+    <published>2026-11-04T05:43:34Z</published>
+    <updated>2026-11-04T05:43:34Z</updated>
+    <summary>Creates a Customer Session object that includes a single-use client secret that you can use on your front-end to grant client-side API access for certain ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payments/accept-a-payment-intent-first</id>
     <title>Create a PaymentIntent before collecting payment details</title>
@@ -779,29 +803,5 @@
     <published>2026-10-31T15:42:45Z</published>
     <updated>2026-10-31T15:42:45Z</updated>
     <summary>The account that's liable for tax. If set, the business address and tax registrations required to perform the tax calculation are loaded from this account.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESawHrOzAVI9YfPpLANOJvE9cc-zZJcNJhnv8BjCFrnG5aF3lQay7IEx_UeXfKF8juEgnMkd_3NZJizHvq7XBGmxsDIvU0hd3QzlLyY0gjWmhSZD39-X7i2XCZ2Nqlu_AyYmlOv3A5IRcgDkbS&amp;gsessionid=m4aCgSJ87MZ6Co--Nlz_h9gct3xRlk7lGMCr8adEV58VQePYY539CQ</id>
-    <title>List all features attached to a product v1</title>
-    <link href="https://www.google.com/goto?url=CAESawHrOzAVI9YfPpLANOJvE9cc-zZJcNJhnv8BjCFrnG5aF3lQay7IEx_UeXfKF8juEgnMkd_3NZJizHvq7XBGmxsDIvU0hd3QzlLyY0gjWmhSZD39-X7i2XCZ2Nqlu_AyYmlOv3A5IRcgDkbS&amp;gsessionid=m4aCgSJ87MZ6Co--Nlz_h9gct3xRlk7lGMCr8adEV58VQePYY539CQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESaAHrOzAV1FGmT3EuG0qGoXE4urlWM46A4vJqXfkdze1rPWOwdJ9mqQezqrB7uQBQsav24FBCdXwu5x8nJXgF1hTgRD7V2VM0coLc4sAJizE3-IW_QWggFfyoH5PGIVkcts1U5rqmuyMR&amp;gsessionid=GsdI28Df1IIcCpJyoBfxr2xXctwYZYz81_9fSxuii-uZZXveRo7nhQ</id>
-    <title>Checkout Sessions | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESaAHrOzAV1FGmT3EuG0qGoXE4urlWM46A4vJqXfkdze1rPWOwdJ9mqQezqrB7uQBQsav24FBCdXwu5x8nJXgF1hTgRD7V2VM0coLc4sAJizE3-IW_QWggFfyoH5PGIVkcts1U5rqmuyMR&amp;gsessionid=GsdI28Df1IIcCpJyoBfxr2xXctwYZYz81_9fSxuii-uZZXveRo7nhQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>A Checkout Session represents your customer's session as they pay for one-time purchases or subscriptions through Checkout or Payment Links. We recommend ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZwHrOzAVx5aRZ3atUjB-pfvYRoc0tf9Yc-G2bxI3DuGQTmGLs9_XaMmEMfPgyWErb7ek3etflsxbYK4MhxM4z7xtbtGsolmfh7BRwCj_O78MD9mLJJFgWuZeVtPFun81mwF97GatcEs&amp;gsessionid=GsdI28Df1IIcCpJyoBfxr2xXctwYZYz81_9fSxuii-uZZXveRo7nhQ</id>
-    <title>Create a tax rate v1</title>
-    <link href="https://www.google.com/goto?url=CAESZwHrOzAVx5aRZ3atUjB-pfvYRoc0tf9Yc-G2bxI3DuGQTmGLs9_XaMmEMfPgyWErb7ek3etflsxbYK4MhxM4z7xtbtGsolmfh7BRwCj_O78MD9mLJJFgWuZeVtPFun81mwF97GatcEs&amp;gsessionid=GsdI28Df1IIcCpJyoBfxr2xXctwYZYz81_9fSxuii-uZZXveRo7nhQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.</summary>
   </entry>
 </feed>

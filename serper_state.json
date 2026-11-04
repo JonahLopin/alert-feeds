@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29305,
+  "credits_used": 29358,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T04:43:05Z",
+  "last_run": "2026-11-04T05:43:34Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 587
+  "runs": 588
  },
  "feeds": {
   "adp-help": {
@@ -36182,6 +36182,15 @@
     "summary": "Knowing these business acronyms can improve your business communications and how well you understand documents, reports, and business software.",
     "title": "The Essential Business Acronyms List for Entrepreneurs"
    },
+   "shopify.com/blog/business-entity-definition": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-04T05:43:34Z",
+    "link": "https://www.shopify.com/blog/business-entity-definition",
+    "page": 1,
+    "summary": "Learn what a business entity is by definition, the six most common business entity types in the US, and which might be best for you.",
+    "title": "Business Entity Definition and How To Choose (2026)"
+   },
    "shopify.com/blog/business-license": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -36225,6 +36234,15 @@
     "page": 3,
     "summary": "Learn how to calculate small-business shipping costs with a simple formula. Review carrier rates and get pricing strategies that protect your margins.",
     "title": "How to Calculate Shipping Costs for Online Store (2026)"
+   },
+   "shopify.com/blog/content-creator-vs-influencer": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-04T05:43:34Z",
+    "link": "https://www.shopify.com/blog/content-creator-vs-influencer",
+    "page": 2,
+    "summary": "The difference between a content creator and influencer lies in their area of expertise and focus. Learn how to partner with both.",
+    "title": "Content Creator vs. Influencer: What's the Difference? (2026)"
    },
    "shopify.com/blog/content-management-system": {
     "baseline": false,
@@ -36530,6 +36548,15 @@
     "page": 1,
     "summary": "An EUR.1 certificate is a document that helps customs officials determine if a shipment of goods qualifies for a reduced or waived import duty.",
     "title": "What Is an EUR.1 Certificate and When Do You Need One?"
+   },
+   "shopify.com/blog/find-broken-links-website": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-04T05:43:34Z",
+    "link": "https://www.shopify.com/blog/find-broken-links-website",
+    "page": 2,
+    "summary": "Learn how to find broken links on a website and fix them with free tools, Google Search Console, and Shopify apps to improve SEO and user experience.",
+    "title": "How To Find Broken Links on a Website: 4 Methods (2026)"
    },
    "shopify.com/blog/free-domain-name": {
     "baseline": false,
@@ -41429,6 +41456,15 @@
     "summary": "The ID of an existing configuration to use for this session, describing its functionality and features. If not specified, the session uses the default ...",
     "title": "Create a portal session | Stripe API Reference"
    },
+   "docs.stripe.com/api/customer_sessions/create": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-04T05:43:34Z",
+    "link": "https://docs.stripe.com/api/customer_sessions/create",
+    "page": 5,
+    "summary": "Creates a Customer Session object that includes a single-use client secret that you can use on your front-end to grant client-side API access for certain ...",
+    "title": "Create a Customer Session | Stripe API Reference"
+   },
    "docs.stripe.com/api/external_account_bank_accounts/retrieve?api-version=2026-10-28.preview": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -41671,6 +41707,15 @@
     "page": 4,
     "summary": "Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.",
     "title": "Create a source | Stripe API Reference"
+   },
+   "docs.stripe.com/api/subscription_schedules/list": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-04T05:43:34Z",
+    "link": "https://docs.stripe.com/api/subscription_schedules/list",
+    "page": 4,
+    "summary": "A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...",
+    "title": "List all schedules | Stripe API Reference"
    },
    "docs.stripe.com/api/subscription_schedules/retrieve": {
     "baseline": false,
@@ -42030,6 +42075,15 @@
     "page": 1,
     "summary": "Choose between Stripe-hosted or embedded onboarding to collect requirements from your connected accounts.",
     "title": "Onboard your connected account"
+   },
+   "docs.stripe.com/customer-management/pause-subscriptions": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T05:43:34Z",
+    "link": "https://docs.stripe.com/customer-management/pause-subscriptions",
+    "page": 1,
+    "summary": "In the customer portal, you can let your customers pause their subscriptions for a duration you choose, and resume them automatically at the end of that ...",
+    "title": "Let customers pause subscriptions in the customer portal"
    },
    "docs.stripe.com/data/data-freshness": {
     "baseline": false,
