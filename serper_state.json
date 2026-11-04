@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29460,
+  "credits_used": 29509,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T07:43:01Z",
+  "last_run": "2026-11-04T08:43:12Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 590
+  "runs": 591
  },
  "feeds": {
   "adp-help": {
@@ -7522,6 +7522,15 @@
     "page": 1,
     "summary": "China plans to roll out a broad set of standards governing the AI safety from development through deployment, representing some of the most comprehensive ...",
     "title": "China Plans Broad AI Guardrails After Global Security ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T08:43:12Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow",
+    "page": 2,
+    "summary": "Chinese robotics sector fundraising decelerated sharply in past months to about 11 billion yuan ($1.6 billion) in October, suggesting a cooling in the ...",
+    "title": "China Robot Funding Slows to $1.6 Billion as Shakeout ..."
    },
    "news.bloomberglaw.com/business-and-practice/citigroup-convenes-analysts-in-mexico-to-prepare-for-banamex-ipo": {
     "baseline": false,
@@ -29224,6 +29233,15 @@
     "summary": "SAP Business AI Platform ger organisationer en samlad plattform f\u00f6r att bygga, s\u00e4tta in i sammanhang och styra AI i b\u00e5de SAP och tredjepartsmilj\u00f6er. Med Joule ...",
     "title": "SAP ut\u00f6kar AI-plattformen med nya verktyg och agenter"
    },
+   "news.sap.com/sweden/2026/10/sap-utokar-ai-plattformen-med-nya-verktyg-och-agenter-och-skickar-en-ai-modell-ut-i-rymden/philipp-herzig-2": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-11-04T08:43:12Z",
+    "link": "https://news.sap.com/sweden/2026/10/sap-utokar-ai-plattformen-med-nya-verktyg-och-agenter-och-skickar-en-ai-modell-ut-i-rymden/philipp-herzig-2/",
+    "page": 2,
+    "summary": "Utforska alla omr\u00e5den i SAP. Utbildning och support. Utbildning och certifiering \u00b7 Support \u00b7 Dokumentation \u00b7 Community.",
+    "title": "Philipp Herzig - SAP Sweden Nyheter"
+   },
    "news.sap.com/sweden/2026/10/sap-utokar-ai-plattformen-med-nya-verktyg-och-agenter-och-skickar-en-ai-modell-ut-i-rymden?amp=1": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -42483,6 +42501,15 @@
     "page": 2,
     "summary": "GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.",
     "title": "Set up future GoPay payments"
+   },
+   "docs.stripe.com/payments/gopay/set-up-future-payments?locale=de-DE": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-04T08:43:12Z",
+    "link": "https://docs.stripe.com/payments/gopay/set-up-future-payments?locale=de-DE",
+    "page": 1,
+    "summary": "Sie k\u00f6nnen eine GoPay-Verkn\u00fcpfung einrichten, um zuk\u00fcnftige wiederkehrende Zahlungen einzuziehen, ohne dass eine erneute Kundenautorisierung erforderlich ist.",
+    "title": "Zuk\u00fcnftige GoPay-Zahlungen einrichten"
    },
    "docs.stripe.com/payments/gopay/set-up-future-payments?locale=en-GB": {
     "baseline": false,

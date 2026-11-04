@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-04T07:43:01Z</updated>
+  <updated>2026-11-04T08:43:12Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/payments/gopay/set-up-future-payments?locale=de-DE</id>
+    <title>Zukünftige GoPay-Zahlungen einrichten</title>
+    <link href="https://docs.stripe.com/payments/gopay/set-up-future-payments?locale=de-DE" />
+    <published>2026-11-04T08:43:12Z</published>
+    <updated>2026-11-04T08:43:12Z</updated>
+    <summary>Sie können eine GoPay-Verknüpfung einrichten, um zukünftige wiederkehrende Zahlungen einzuziehen, ohne dass eine erneute Kundenautorisierung erforderlich ist.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payments/gopay/set-up-future-payments?locale=en-GB</id>
     <title>Set up future GoPay payments</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T15:42:45Z</published>
     <updated>2026-10-31T15:42:45Z</updated>
     <summary>A unique string to reference the Checkout Session. This can be a customer ID, a cart ID, or similar, and can be used to reconcile the Session with your internal ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbgHrOzAVwpL2My8b-sEh0ZgyeKZa1mdIgDpZp7Tho-tzvemKbOt9ZvdNbVtjHNdGcXP3ZqbRFKpZWd2Badj33HYwDm4sTwCJ1wu7muYwXa3Kcb3_HSb7v5U2jjfgealVWjeRJ_k64nF8w9epL8c_&amp;gsessionid=m4aCgSJ87MZ6Co--Nlz_h9gct3xRlk7lGMCr8adEV58VQePYY539CQ</id>
-    <title>Create a Reader | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESbgHrOzAVwpL2My8b-sEh0ZgyeKZa1mdIgDpZp7Tho-tzvemKbOt9ZvdNbVtjHNdGcXP3ZqbRFKpZWd2Badj33HYwDm4sTwCJ1wu7muYwXa3Kcb3_HSb7v5U2jjfgealVWjeRJ_k64nF8w9epL8c_&amp;gsessionid=m4aCgSJ87MZ6Co--Nlz_h9gct3xRlk7lGMCr8adEV58VQePYY539CQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.</summary>
   </entry>
 </feed>

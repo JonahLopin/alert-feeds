@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-04T03:43:33Z</updated>
+  <updated>2026-11-04T08:43:12Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/sweden/2026/10/sap-utokar-ai-plattformen-med-nya-verktyg-och-agenter-och-skickar-en-ai-modell-ut-i-rymden/philipp-herzig-2/</id>
+    <title>Philipp Herzig - SAP Sweden Nyheter</title>
+    <link href="https://news.sap.com/sweden/2026/10/sap-utokar-ai-plattformen-med-nya-verktyg-och-agenter-och-skickar-en-ai-modell-ut-i-rymden/philipp-herzig-2/" />
+    <published>2026-11-04T08:43:12Z</published>
+    <updated>2026-11-04T08:43:12Z</updated>
+    <summary>Utforska alla områden i SAP. Utbildning och support. Utbildning och certifiering · Support · Dokumentation · Community.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/topics/business-network/</id>
     <title>Business network Archives</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T04:43:04Z</published>
     <updated>2026-10-31T04:43:04Z</updated>
     <summary>SAP en NTT willen hun technologie en dienstverlening combineren om organisaties te helpen profiteren van innovaties op het gebied van cloud en AI.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESiAEB6zswFewxpqj5GaOodlROjAMJsUWYM_nCi6qKldFJLpLwR7MlFUoyB_KGKN1PMepixxKWh8ydWH6qFi75rJBLSl2LWCf-ECzhNETm-xvFbH5Q3bRQ_HPet90eGLH9C5TTlKQjWW6SZ8ZWDCZz8WK8bdC7J3DzisOTFk5KMn2bD8L8gaXggQRi</id>
-    <title>How to Lead with AI Governance | SAP TechEd</title>
-    <link href="https://www.google.com/goto?url=CAESiAEB6zswFewxpqj5GaOodlROjAMJsUWYM_nCi6qKldFJLpLwR7MlFUoyB_KGKN1PMepixxKWh8ydWH6qFi75rJBLSl2LWCf-ECzhNETm-xvFbH5Q3bRQ_HPet90eGLH9C5TTlKQjWW6SZ8ZWDCZz8WK8bdC7J3DzisOTFk5KMn2bD8L8gaXggQRi" />
-    <published>2026-10-31T04:43:04Z</published>
-    <updated>2026-10-31T04:43:04Z</updated>
-    <summary>Learn about the offerings SAP highlighted at SAP TechEd to be able to manage AI governance and enforce governance policies at runtime.</summary>
   </entry>
 </feed>
