@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29804,
+  "credits_used": 29854,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T15:23:47Z",
+  "last_run": "2026-11-04T16:22:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 597
+  "runs": 598
  },
  "feeds": {
   "adp-help": {
@@ -8007,6 +8007,15 @@
     "summary": "George \u201cChip\u201d Nierlich joined Debevoise & Plimpton as a partner in its antitrust group in Washington, D.C., the firm announced Tuesday.",
     "title": "Debevoise Recruits Ex-DOJ Antitrust Lawyer Chip Nierlich ..."
    },
+   "news.bloomberglaw.com/business-and-practice/debt-limit-tariffs-top-list-of-likely-deals-in-trumps-new-era": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T16:22:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/debt-limit-tariffs-top-list-of-likely-deals-in-trumps-new-era",
+    "page": 3,
+    "summary": "President Donald Trump will face a Congress solidly under Democratic control in January and that could lead to two years of grinding policy gridlock ...",
+    "title": "Debt Limit, Tariffs Top List of Likely Deals in Trump's New Era"
+   },
    "news.bloomberglaw.com/business-and-practice/dechert-recruits-corporate-transactions-partner-bekdur-in-dubai": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -9928,6 +9937,15 @@
     "page": 1,
     "summary": "K Street firms hauled in nearly $60 million for AI lobbying, a Bloomberg Government analysis of federal disclosures revealed.",
     "title": "Lobbyists Rake in Record Revenue for Influencing AI ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/lockheed-martin-to-pay-30-million-for-discrimination-claims": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T16:22:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/lockheed-martin-to-pay-30-million-for-discrimination-claims",
+    "page": 1,
+    "summary": "Lockheed Martin Corp. will pay about $29.5 million to resolve allegations it violated the False Claims Act by failing to comply with anti-discrimination ...",
+    "title": "Lockheed Martin to Pay $30 Million for Discrimination Claims"
    },
    "news.bloomberglaw.com/business-and-practice/lockheed-unveils-new-patriot-for-us-army-air-defense-contest": {
     "baseline": false,
@@ -29243,6 +29261,15 @@
     "summary": "A handsome young man standing at night in the street. Illuminated signboards, neon, lights.",
     "title": "A handsome young man standing at night in the street. ..."
    },
+   "news.sap.com/portugal/2026/11/sap-aponta-integracao-de-dados-processos-e-ia-como-chave-para-o-crescimento-sustentavel?amp=1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-04T16:22:53Z",
+    "link": "https://news.sap.com/portugal/2026/11/sap-aponta-integracao-de-dados-processos-e-ia-como-chave-para-o-crescimento-sustentavel/?amp=1",
+    "page": 2,
+    "summary": "Lisboa \u2013 A capacidade de integrar dados, simplificar processos e aplicar Intelig\u00eancia Artificial (IA) a problemas concretos do neg\u00f3cio ser\u00e1 determinante para as ...",
+    "title": "SAP aponta integra\u00e7\u00e3o de dados, processos e IA como ..."
+   },
    "news.sap.com/press-room/sap-teched-2026-media-analyst-program": {
     "baseline": false,
     "date_hint": "14 hours ago",
@@ -42472,6 +42499,15 @@
     "summary": "Choose between Stripe-hosted or embedded onboarding to collect requirements from your connected accounts.",
     "title": "Onboard your connected account"
    },
+   "docs.stripe.com/connect/w8-w9-tax-forms/connected-accounts": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-04T16:22:53Z",
+    "link": "https://docs.stripe.com/connect/w8-w9-tax-forms/connected-accounts",
+    "page": 3,
+    "summary": "When you request W-8 or W-9 forms from your connected accounts, be prepared to help them submit the correct form successfully.",
+    "title": "How connected accounts submit W-8 and W-9 forms"
+   },
    "docs.stripe.com/connect/w8-w9-tax-forms/manage": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -42655,6 +42691,15 @@
     "page": 1,
     "summary": "Learn how authorizations, captures, refunds, and expirations on stablecoin-backed cards move funds onchain, which events Stripe and Bridge send, and how to ...",
     "title": "Authorizations and webhooks for stablecoin-backed cards"
+   },
+   "docs.stripe.com/issuing/stablecoin-cards/funding-strategies": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-04T16:22:53Z",
+    "link": "https://docs.stripe.com/issuing/stablecoin-cards/funding-strategies",
+    "page": 1,
+    "summary": "Stablecoin balances fund every stablecoin-backed card. Your funding strategy determines where you hold those funds, who controls them, and when they move.",
+    "title": "Choose a funding strategy for stablecoin-backed cards"
    },
    "docs.stripe.com/issuing/stablecoin-cards/how-it-works": {
     "baseline": false,
