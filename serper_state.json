@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29955,
+  "credits_used": 30009,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T18:25:04Z",
+  "last_run": "2026-11-04T19:23:29Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 600
+  "runs": 601
  },
  "feeds": {
   "adp-help": {
@@ -9632,6 +9632,15 @@
     "summary": "The US Supreme Court rejected Cemex Construction Materials Pacific LLC's challenge to a National Labor Relations Board decision that ordered the company to ...",
     "title": "Justices Skip Review of Cemex Challenge to NLRB ..."
    },
+   "news.bloomberglaw.com/business-and-practice/justices-weigh-prisoners-new-challenge-citing-mental-disability": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/justices-weigh-prisoners-new-challenge-citing-mental-disability",
+    "page": 1,
+    "summary": "The US Supreme Court considered whether to let a death-row defendant pursue another challenge to his sentence under a constitutional argument that got its ...",
+    "title": "Justices Weigh Prisoner's New Challenge Citing Mental ..."
+   },
    "news.bloomberglaw.com/business-and-practice/kalshi-polymarket-piled-on-media-deals-ahead-of-the-midterms": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -9721,6 +9730,15 @@
     "page": 1,
     "summary": "Keurig Green Mountain Inc. must face monopolization allegations raised by rival coffee pod makers and distributors that it illegally dominated the market ...",
     "title": "Keurig Must Face Coffee-Pod Monopoly Allegations, Judge ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/kids-online-safety-bill-caught-in-limbo-as-democrats-take-over": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kids-online-safety-bill-caught-in-limbo-as-democrats-take-over",
+    "page": 3,
+    "summary": "Democrats' strong midterm showing could give a bill seeking to strengthen online safety and privacy for minors another chance, but with the House and Senate ...",
+    "title": "Kids Online Safety Bill Caught in Limbo as Democrats Take Over"
    },
    "news.bloomberglaw.com/business-and-practice/kimberly-clark-offers-bonds-to-help-fund-tylenol-maker-takeover": {
     "baseline": false,
@@ -9937,6 +9955,15 @@
     "page": 1,
     "summary": "Updates on legal ops & tech news for in-house counsel and law firms.",
     "title": "Legal Ops & Tech: Jockeying for Cred"
+   },
+   "news.bloomberglaw.com/business-and-practice/letitia-james-taps-former-ny-prosecutor-in-cornell-assault-probe": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/letitia-james-taps-former-ny-prosecutor-in-cornell-assault-probe",
+    "page": 3,
+    "summary": "New York Attorney General Letitia James appointed a former federal prosecutor to lead the criminal investigation into allegations of a rape at Cornell ...",
+    "title": "Letitia James Taps Former NY Prosecutor in Cornell ..."
    },
    "news.bloomberglaw.com/business-and-practice/license-plate-camera-crackdown-spreads-to-red-and-blue-states": {
     "baseline": false,
@@ -11259,6 +11286,15 @@
     "summary": "A Starbucks Corp. store in Florida violated federal labor law by enforcing a policy limiting employees to one facial piercing without first bargaining",
     "title": "Starbucks Unlawfully Limited Facial Piercings, NLRB ..."
    },
+   "news.bloomberglaw.com/business-and-practice/state-ags-urge-congress-to-pass-senates-kids-online-safety-bill": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/state-ags-urge-congress-to-pass-senates-kids-online-safety-bill",
+    "page": 3,
+    "summary": "Attorneys general across 45 states are urging Congress to pass Senate legislation that would strengthen online protections for children and teens.",
+    "title": "State AGs Urge Congress to Pass Senate's Kids Online ..."
+   },
    "news.bloomberglaw.com/business-and-practice/steptoe-role-in-hughes-bankruptcy-challenged-over-echostar-ties": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -11860,6 +11896,15 @@
     "page": 1,
     "summary": "Voting rights groups sued the Trump administration Wednesday seeking to halt its program allegedly targeting thousands of non-native US citizens in ...",
     "title": "Trump's Noncitizen Voting Probe Program Challenged in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trumps-power-to-shape-supreme-court-doused-by-democratic-rout": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trumps-power-to-shape-supreme-court-doused-by-democratic-rout",
+    "page": 3,
+    "summary": "President Donald Trump probably has appointed his last US Supreme Court justice. With Democrats poised to hold at least 54 Senate seats starting Jan.",
+    "title": "Trump's Power to Shape Supreme Court Doused by ..."
    },
    "news.bloomberglaw.com/business-and-practice/trumps-proposed-triumphal-arch-draws-suit-by-virginia-county": {
     "baseline": true,
@@ -50567,7 +50612,98 @@
     "title": "Voluntary Disclosure Agreements: How VDAs Work for Sales Tax"
    }
   },
-  "taxcloud-help": {},
+  "taxcloud-help": {
+   "support.taxcloud.com/articles/account-management-qYLxTa3AxJ": {
+    "baseline": false,
+    "date_hint": "",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://support.taxcloud.com/articles/account-management-qYLxTa3AxJ",
+    "page": 1,
+    "summary": "Introduction Summary The main dashboard serves as a centralized interface for managing sales tax compliance. By utilizing the \u2026",
+    "title": "TaxCloud Help Center - Account Management"
+   },
+   "support.taxcloud.com/articles/connecting-taxcloud-to-quickbooks-online-hA4mcidlgL": {
+    "baseline": false,
+    "date_hint": "",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://support.taxcloud.com/articles/connecting-taxcloud-to-quickbooks-online-hA4mcidlgL",
+    "page": 1,
+    "summary": "Connect QuickBooks Online with TaxCloud to automatically calculate and apply sales tax to your invoices, sales receipts, and \u2026",
+    "title": "TaxCloud Help Center - Connecting TaxCloud to QuickBooks Online"
+   },
+   "support.taxcloud.com/articles/filing-managing-filing-in-taxcloud-hLt5nifXvS": {
+    "baseline": false,
+    "date_hint": "",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://support.taxcloud.com/articles/filing-managing-filing-in-taxcloud-hLt5nifXvS",
+    "page": 1,
+    "summary": "TaxCloud is a sales tax automation platform that helps eCommerce businesses calculate, collect, and file sales taxes across all \u2026",
+    "title": "TaxCloud Help Center - Filing: Managing Filing in TaxCloud"
+   },
+   "support.taxcloud.com/articles/how-the-quickbooks-online-integration-works-4NFUVntzzv": {
+    "baseline": false,
+    "date_hint": "",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://support.taxcloud.com/articles/how-the-quickbooks-online-integration-works-4NFUVntzzv",
+    "page": 1,
+    "summary": "This article explains how TaxCloud interacts with QuickBooks Online once the integration is set up, including which document types \u2026",
+    "title": "TaxCloud Help Center - How the QuickBooks Online Integration Works"
+   },
+   "support.taxcloud.com/articles/how-to-set-up-and-manage-locations-0WpiODyFaj.md": {
+    "baseline": false,
+    "date_hint": "",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://support.taxcloud.com/articles/how-to-set-up-and-manage-locations-0WpiODyFaj.md",
+    "page": 1,
+    "summary": "**Setting up and managing your business locations is crucial for accurate tax calculations and collections. This article covers how to \u2026",
+    "title": "support.taxcloud.com"
+   },
+   "support.taxcloud.com/articles/install-the-taxcloud-quickbooks-plugin-9q9kyzkynC": {
+    "baseline": false,
+    "date_hint": "",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://support.taxcloud.com/articles/install-the-taxcloud-quickbooks-plugin-9q9kyzkynC",
+    "page": 1,
+    "summary": "Install the plugin on each Windows PC that creates or edits invoices (a new computer or a new bookkeeper's machine, for example). \u2026",
+    "title": "TaxCloud Help Center - Install the TaxCloud QuickBooks Plugin"
+   },
+   "support.taxcloud.com/articles/managing-your-transactions-IM7cS4vqKQ": {
+    "baseline": false,
+    "date_hint": "",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://support.taxcloud.com/articles/managing-your-transactions-IM7cS4vqKQ",
+    "page": 1,
+    "summary": "Merchants can use the new transactions page in TaxCloud as a central hub for viewing, searching, and managing all transactions \u2026",
+    "title": "TaxCloud Help Center - Managing your transactions"
+   },
+   "support.taxcloud.com/articles/migrating-to-taxcloud-from-avalara-or-another-tax-tool-quickbooks-desktop-CC6Yyd3JzU": {
+    "baseline": false,
+    "date_hint": "",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://support.taxcloud.com/articles/migrating-to-taxcloud-from-avalara-or-another-tax-tool-quickbooks-desktop-CC6Yyd3JzU",
+    "page": 1,
+    "summary": "Switching to TaxCloud from Avalara, AvaTax, TaxJar, or another QuickBooks tax integration is straightforward: install TaxCloud, \u2026",
+    "title": "TaxCloud Help Center - Migrating to TaxCloud from Avalara or another ..."
+   },
+   "support.taxcloud.com/articles/understanding-tax-reports-and-drilling-into-transaction-details-DaG54aIVrZ.md": {
+    "baseline": false,
+    "date_hint": "",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://support.taxcloud.com/articles/understanding-tax-reports-and-drilling-into-transaction-details-DaG54aIVrZ.md",
+    "page": 1,
+    "summary": "TaxCloud offers reporting and transaction tools to help merchants track their sales and tax data. Two key reports are the \u2026",
+    "title": "support.taxcloud.com"
+   },
+   "support.taxcloud.com/articles/your-first-filing-with-taxcloud-what-to-expect-Qdb2YmC7Kh": {
+    "baseline": false,
+    "date_hint": "",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://support.taxcloud.com/articles/your-first-filing-with-taxcloud-what-to-expect-Qdb2YmC7Kh",
+    "page": 1,
+    "summary": "Once you're live, TaxCloud captures your transactions, builds your sales tax reports, and files your returns with each state on \u2026",
+    "title": "Your First Filing with TaxCloud: What to Expect"
+   }
+  },
   "taxjar-help": {
    "support.taxjar.com/article/1051-what-do-i-need-to-know-about-colorado-suts": {
     "baseline": false,
@@ -50670,6 +50806,15 @@
     "summary": "Assess your real-time compliance architecture with six warning signs\u2014and discover how connected systems can help your team adapt.",
     "title": "6 signs your real-time compliance architecture may not scale"
    },
+   "tax.thomsonreuters.com/blog/ai-can-handle-your-tax-workflow-but-can-you-trust-it": {
+    "baseline": false,
+    "date_hint": "Aug 28, 2026",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://tax.thomsonreuters.com/blog/ai-can-handle-your-tax-workflow-but-can-you-trust-it/",
+    "page": 1,
+    "summary": "Let's look at where AI earns your trust, where it still needs a watchful eye, and what trustworthy AI for accounting firms \u2026",
+    "title": "Can you trust AI to handle your tax workflow?"
+   },
    "tax.thomsonreuters.com/blog/ai-glossary-for-audit-professionals-ai-terms-every-auditor-should-know": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -50678,6 +50823,24 @@
     "page": 1,
     "summary": "AI glossary for audit professionals: AI terms every auditor should know \u00b7 Knowing AI terminology helps auditors evaluate, explain, and trust AI-assisted work.",
     "title": "AI glossary for auditors"
+   },
+   "tax.thomsonreuters.com/blog/an-evolution-of-tax-tools-and-how-agentic-ai-will-shape-2026": {
+    "baseline": false,
+    "date_hint": "May 1, 2026",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://tax.thomsonreuters.com/blog/an-evolution-of-tax-tools-and-how-agentic-ai-will-shape-2026/",
+    "page": 1,
+    "summary": "The evolution of tax research is here. Gain insight from a thought leader on the next \u2026",
+    "title": "An evolution of tax tools and how agentic AI will shape \u2026"
+   },
+   "tax.thomsonreuters.com/blog/authors/thomson-reuters-tax-accounting": {
+    "baseline": false,
+    "date_hint": "",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://tax.thomsonreuters.com/blog/authors/thomson-reuters-tax-accounting/",
+    "page": 1,
+    "summary": "Section 232 supplier data: Why it\u2019s suddenly so hard to get",
+    "title": "Thomson Reuters Tax & Accounting"
    },
    "tax.thomsonreuters.com/blog/bis-50-rule-trade-compliance-guide": {
     "baseline": true,
@@ -50767,6 +50930,24 @@
     "summary": "Using AI in audit work? Here's what PCAOB inspectors and peer reviewers are likely to ask, and eight things to document for each AI-assisted procedure.",
     "title": "How to use AI in audit without creating inspection risk"
    },
+   "tax.thomsonreuters.com/blog/how-to-use-ai-in-tax-planning-for-clients": {
+    "baseline": false,
+    "date_hint": "Jun 30, 2026",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://tax.thomsonreuters.com/blog/how-to-use-ai-in-tax-planning-for-clients/",
+    "page": 1,
+    "summary": "AI streamlines tax planning by analyzing data and identifying opportunities for advisors to \u2026",
+    "title": "How to use AI in tax planning for clients"
+   },
+   "tax.thomsonreuters.com/blog/irs-circular-230-ai-guidance-explained": {
+    "baseline": false,
+    "date_hint": "Jul 8, 2026",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://tax.thomsonreuters.com/blog/irs-circular-230-ai-guidance-explained/",
+    "page": 1,
+    "summary": "The IRS has issued its first formal guidance on AI, applying professional standards under Circular 230 to the use of AI \u2026",
+    "title": "2026 IRS rules on using AI for tax preparation and filing"
+   },
    "tax.thomsonreuters.com/blog/more-than-a-research-tool-how-cocounsel-tax-empowers-junior-colleagues": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -50847,6 +51028,24 @@
     "summary": "Explore the connected infrastructure \u2014 AI classification, regulatory intelligence, and screening \u2014 behind global trade resilience.",
     "title": "Tariffs - Building resilience in global trade"
    },
+   "tax.thomsonreuters.com/blog/tax-industry-trends-2026-why-accuracy-is-the-new-standard-for-ai": {
+    "baseline": false,
+    "date_hint": "Aug 3, 2026",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://tax.thomsonreuters.com/blog/tax-industry-trends-2026-why-accuracy-is-the-new-standard-for-ai/",
+    "page": 1,
+    "summary": "Explore tax industry trends, from rising AI adoption to accuracy concerns, and learn why domain-specific AI is becoming \u2026",
+    "title": "Tax industry trends for 2026"
+   },
+   "tax.thomsonreuters.com/blog/tax-professional-skills-ai-cannot-replace": {
+    "baseline": false,
+    "date_hint": "Sep 3, 2026",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://tax.thomsonreuters.com/blog/tax-professional-skills-ai-cannot-replace/",
+    "page": 1,
+    "summary": "As AI takes on more of that routine work, day-to-day tax work will shift. Look at what AI can automate, what it can't, and \u2026",
+    "title": "Tax professional skills AI cannot replace"
+   },
    "tax.thomsonreuters.com/blog/tax-provision-how-to-calculate-it": {
     "baseline": true,
     "date_hint": "4 days ago",
@@ -50873,6 +51072,15 @@
     "summary": "Learn 3 tax automation benchmarks changing how leaders justify investment: 50% faster prep, $275K/year compliance savings, and $1.1M+ avoided headcount.",
     "title": "Tax automation benchmarks: 3 Metrics to justify investment"
    },
+   "tax.thomsonreuters.com/blog/the-impact-of-ai-on-the-tax-and-accounting-profession": {
+    "baseline": false,
+    "date_hint": "Jun 8, 2026",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://tax.thomsonreuters.com/blog/the-impact-of-ai-on-the-tax-and-accounting-profession/",
+    "page": 1,
+    "summary": "Learn how AI is transforming tax and accounting, from automation to advisory services, and what it means for tax \u2026",
+    "title": "Impact of AI on tax and accounting professionals"
+   },
    "tax.thomsonreuters.com/blog/thomson-reuters-offers-an-end-to-end-compliance-platform-for-oracle-fusion-cloud-erp-users": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -50881,6 +51089,15 @@
     "page": 1,
     "summary": "end\u2010to\u2010end compliance connects indirect tax determination, tax compliance and reporting, e\u2010invoicing, and global trade management within a single, Oracle\u2010 ...",
     "title": "End-to-end compliance for Oracle Fusion Cloud ERP users"
+   },
+   "tax.thomsonreuters.com/blog/topic/tax-preparation": {
+    "baseline": false,
+    "date_hint": "Oct 14, 2026",
+    "first_seen": "2026-11-04T19:23:29Z",
+    "link": "https://tax.thomsonreuters.com/blog/topic/tax-preparation/",
+    "page": 1,
+    "summary": "Tax & Accounting Blog Posts by Thomson Reuters | Tax Preparation Newest Oldest",
+    "title": "Tax & Accounting Blog Posts by Thomson Reuters"
    },
    "tax.thomsonreuters.com/blog/what-are-clients-getting-wrong-about-tax-changes-obbba-compliance-updates-for-2027": {
     "baseline": false,
