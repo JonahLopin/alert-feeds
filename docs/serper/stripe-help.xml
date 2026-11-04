@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-04T11:23:57Z</updated>
+  <updated>2026-11-04T14:23:56Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/connect/enable-w8-w9-tax-forms</id>
+    <title>Enable W-8 and W-9 collection</title>
+    <link href="https://docs.stripe.com/connect/enable-w8-w9-tax-forms" />
+    <published>2026-11-04T14:23:56Z</published>
+    <updated>2026-11-04T14:23:56Z</updated>
+    <summary>Use the Stripe Dashboard to manage W-8 and W-9 tax form collection, choose which connected accounts to collect from, and request forms from your existing ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/atlas/agents</id>
     <title>Prepare an Atlas application with an agent or CLI</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T15:42:45Z</published>
     <updated>2026-10-31T15:42:45Z</updated>
     <summary>Unique identifier for the object. Returns. Returns the alert with its updated status. Server-side language. cURL. cURL. Stripe CLI. Ruby. Python. PHP. Java.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbwHrOzAVsIVaF9WUvluEvP6CxkBVwYMMHYoXAdcR1zO_ujJgJnKbiA4Qz-rTA2SEi6yHJb0Vc6XL5VpLvnz5wOStXquni9DG2TV209Wvuht6t805yLg-qCAENe7gk2MLA22fQt9oiRNRmmvdDvsFRA&amp;gsessionid=m4aCgSJ87MZ6Co--Nlz_h9gct3xRlk7lGMCr8adEV58VQePYY539CQ</id>
-    <title>Create a Checkout Session | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESbwHrOzAVsIVaF9WUvluEvP6CxkBVwYMMHYoXAdcR1zO_ujJgJnKbiA4Qz-rTA2SEi6yHJb0Vc6XL5VpLvnz5wOStXquni9DG2TV209Wvuht6t805yLg-qCAENe7gk2MLA22fQt9oiRNRmmvdDvsFRA&amp;gsessionid=m4aCgSJ87MZ6Co--Nlz_h9gct3xRlk7lGMCr8adEV58VQePYY539CQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>The URL to which Stripe should send customers when payment or setup is complete. This parameter is not allowed if ui_mode is embedded_page or elements . If you' ...</summary>
   </entry>
 </feed>

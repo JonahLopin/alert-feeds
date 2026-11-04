@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29706,
+  "credits_used": 29755,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T13:23:24Z",
+  "last_run": "2026-11-04T14:23:56Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 595
+  "runs": 596
  },
  "feeds": {
   "adp-help": {
@@ -12058,6 +12058,15 @@
     "page": 3,
     "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
     "title": "Wake Up Call: Big Tech Joins Big Law in the Legal Talent ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-doj-targets-attorney-elias-in-alaska-ballot-probe": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T14:23:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-doj-targets-attorney-elias-in-alaska-ballot-probe",
+    "page": 3,
+    "summary": "The board of Fortune Brands Innovations has appointed Morgan Fox as executive vice president, chief legal officer, and corporate secretary, effective Dec. 2.",
+    "title": "Wake Up Call: DOJ Targets Attorney Elias in Alaska Ballot ..."
    },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-firms-cash-in-on-new-yorks-real-estate-boom": {
     "baseline": false,
@@ -27435,6 +27444,24 @@
     "summary": "It enables organizations to create AI agents and workflow automations to streamline operations across finance, sales, HR, IT, and customer support. Use cases ...",
     "title": "Cohere North Generally Available on SAP Business AI ..."
    },
+   "news.sap.com/2026/11/sap-fieldglass-stands-out-2026-sia-vms-landscape": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-04T14:23:56Z",
+    "link": "https://news.sap.com/2026/11/sap-fieldglass-stands-out-2026-sia-vms-landscape/",
+    "page": 2,
+    "summary": "SAP Fieldglass stands out in the 2026 VMS landscape across AI, analytics, services procurement, and global workforce management. Learn more.",
+    "title": "Where SAP Fieldglass Stands Out in the 2026 SIA VMS ..."
+   },
+   "news.sap.com/2026/11/sap-incentive-management-starter-edition-now-available": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T14:23:56Z",
+    "link": "https://news.sap.com/2026/11/sap-incentive-management-starter-edition-now-available/",
+    "page": 2,
+    "summary": "SAP Incentive Management, starter edition, offers core compensation management capabilities for growth-focused organizations. Learn more.",
+    "title": "SAP Incentive Management, Starter Edition, Now Available"
+   },
    "news.sap.com/africa": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -36550,6 +36577,15 @@
     "summary": "Learn what customer connection is and why it matters for repeat sales, plus nine ways for your brand to build lasting customer relationships.",
     "title": "Customer Connection: 9 Ways to Connect (2026)"
    },
+   "shopify.com/blog/customer-experience-competitive-advantage": {
+    "baseline": false,
+    "date_hint": "17 hours ago",
+    "first_seen": "2026-11-04T14:23:56Z",
+    "link": "https://www.shopify.com/blog/customer-experience-competitive-advantage",
+    "page": 2,
+    "summary": "Follow this guide to leverage customer experience as a competitive advantage, with tips for creating high-quality CX and metrics to track success.",
+    "title": "Channeling Customer Experience as Competitive Advantage"
+   },
    "shopify.com/blog/customer-lifetime-value": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -42327,6 +42363,15 @@
     "page": 1,
     "summary": "Compare Global Payouts and Connect cross-border payouts to determine which Stripe payouts integration fits your business model.",
     "title": "Understand differences between Global Payouts and ..."
+   },
+   "docs.stripe.com/connect/enable-w8-w9-tax-forms": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T14:23:56Z",
+    "link": "https://docs.stripe.com/connect/enable-w8-w9-tax-forms",
+    "page": 2,
+    "summary": "Use the Stripe Dashboard to manage W-8 and W-9 tax form collection, choose which connected accounts to collect from, and request forms from your existing ...",
+    "title": "Enable W-8 and W-9 collection"
    },
    "docs.stripe.com/connect/end-to-end-marketplace": {
     "baseline": false,
