@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 30009,
+  "credits_used": 30060,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T19:23:29Z",
+  "last_run": "2026-11-04T20:23:12Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 601
+  "runs": 602
  },
  "feeds": {
   "adp-help": {
@@ -8842,6 +8842,15 @@
     "summary": "Vladimir Andric, Samuel Kim, Karim Manji, and Kara Wild joined Gordon Rees Scully Mansukhani as partners, the firm announced.",
     "title": "Four Litigation Lawyers Join GRSM in San Francisco, ..."
    },
+   "news.bloomberglaw.com/business-and-practice/french-blood-bank-hit-by-freezer-hack-but-no-samples-affected": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-04T20:23:12Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/french-blood-bank-hit-by-freezer-hack-but-no-samples-affected",
+    "page": 4,
+    "summary": "A cyberattack on a refrigeration supplier to France's public blood bank raised temperatures for cold rooms holding samples on Monday, the latest in a string ...",
+    "title": "French Blood Bank Hit By Freezer Hack But No Samples ..."
+   },
    "news.bloomberglaw.com/business-and-practice/freshfields-brings-on-secondaries-lawyer-brett-bush-in-new-york": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -10170,6 +10179,15 @@
     "page": 3,
     "summary": "As the economy grows, their profits will grow. If you buy their stocks, you will get a share of that growth. If you are a normal person saving for retirement, ...",
     "title": "Matt Levine's Money Stuff: Private Markets Are the New AI ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/matt-levines-money-stuff-the-midterm-predictions-were-good": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-04T20:23:12Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/matt-levines-money-stuff-the-midterm-predictions-were-good",
+    "page": 1,
+    "summary": "The thing is, every two years, prediction markets are amazing. Every normal American wants to know one thing when the polls close on Election Day, ...",
+    "title": "Matt Levine's Money Stuff: The Midterm Predictions Were ..."
    },
    "news.bloomberglaw.com/business-and-practice/matt-levines-money-stuff-zuckerberg-wants-to-keep-his-votes": {
     "baseline": false,
