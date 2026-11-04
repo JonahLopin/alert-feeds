@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-04T17:23:02Z</updated>
+  <updated>2026-11-04T23:23:02Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/2026/11/ki-zukunft-servicebereitstellung/</id>
+    <title>Servicebereitstellung durch KI-gestützte Lösungen</title>
+    <link href="https://news.sap.com/germany/2026/11/ki-zukunft-servicebereitstellung/" />
+    <published>2026-11-04T23:23:02Z</published>
+    <updated>2026-11-04T23:23:02Z</updated>
+    <summary>Servicebereitstellung neu denken: Lernen Sie, wie KI-kompetente Lösungen Ihre Arbeitsabläufe revolutionieren können.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/portugal/2026/11/sap-aponta-integracao-de-dados-processos-e-ia-como-chave-para-o-crescimento-sustentavel/</id>
     <title>SAP aponta integração de dados, processos e IA como ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T05:42:34Z</published>
     <updated>2026-10-31T05:42:34Z</updated>
     <summary>Learn about the offerings SAP highlighted at SAP TechEd to be able to manage AI governance and enforce governance policies at runtime.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESegHrOzAVunF3i14iYF1elEYNmZjxEgcipKCApstwNpdjRFlcC_bUXmccqLwSRdYkXr6o1NxITtqp2DAU-Euswg4hBhqVhuqw5DLwU8oyHbwJsx2uola5QTWv6_k6OflX8eRqGvMN1FiUosjEMFosBJlVRwBJ2CyO-8jU</id>
-    <title>Transformation management Archives</title>
-    <link href="https://www.google.com/goto?url=CAESegHrOzAVunF3i14iYF1elEYNmZjxEgcipKCApstwNpdjRFlcC_bUXmccqLwSRdYkXr6o1NxITtqp2DAU-Euswg4hBhqVhuqw5DLwU8oyHbwJsx2uola5QTWv6_k6OflX8eRqGvMN1FiUosjEMFosBJlVRwBJ2CyO-8jU" />
-    <published>2026-10-31T05:42:34Z</published>
-    <updated>2026-10-31T05:42:34Z</updated>
-    <summary>SAP LeanIX a Six-Time Leader in Gartner® Magic Quadrant™ for Enterprise Architecture tools. by Neil Sheppard. October 21, 2026.</summary>
   </entry>
 </feed>

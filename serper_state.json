@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 30163,
+  "credits_used": 30215,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T22:23:42Z",
+  "last_run": "2026-11-04T23:23:02Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 604
+  "runs": 605
  },
  "feeds": {
   "adp-help": {
@@ -10037,6 +10037,15 @@
     "summary": "Fintech Linqto Texas LLC won approval to appoint a replacement liquidating trustee in its bankruptcy and potentially award more than $2 million in bonuses ...",
     "title": "Linqto Wins New Bankruptcy Plan Trustee, Bonuses for ..."
    },
+   "news.bloomberglaw.com/business-and-practice/liv-golf-turnaround-derailed-with-league-nearing-liquidation": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T23:23:02Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/liv-golf-turnaround-derailed-with-league-nearing-liquidation",
+    "page": 1,
+    "summary": "LIV Golf is facing liquidation after a restructuring deal to restart the league fell through, according to a person familiar with the situation.",
+    "title": "LIV Golf Turnaround Derailed With League Nearing ..."
+   },
    "news.bloomberglaw.com/business-and-practice/live-nation-empire-that-music-fans-hate-is-at-risk-of-a-break-up": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -11088,6 +11097,15 @@
     "page": 2,
     "summary": "Protiviti Inc., a subsidiary of global consulting firm Robert Half Inc., unlawfully targeted pregnant workers in company layoffs, a new federal lawsuit ...",
     "title": "Robert Half Subsidiary Accused of Laying Off Pregnant ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/robinhoods-gambling-enforcement-fears-get-judges-attention": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T23:23:02Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/robinhoods-gambling-enforcement-fears-get-judges-attention",
+    "page": 1,
+    "summary": "Massachusetts' pledge not to sue Robinhood until the state's top court rules on the legality of sports event contracts may not be enough to escape the broker's ...",
+    "title": "Robinhood's Gambling Enforcement Fears Get Judges' ..."
    },
    "news.bloomberglaw.com/business-and-practice/robins-kaplan-boosts-clerkship-bonuses-past-big-law-standard": {
     "baseline": false,
@@ -28523,6 +28541,15 @@
     "page": 1,
     "summary": "Autonomous HCM ist die Zukunft des Human Capital Management. Dabei sorgt KI f\u00fcr eine Automatisierung durchg\u00e4ngiger Prozesse, erm\u00f6glicht kontextbezogene ...",
     "title": "Autonomous HCM: Die Zukunft der Personalabteilungen"
+   },
+   "news.sap.com/germany/2026/11/ki-zukunft-servicebereitstellung": {
+    "baseline": false,
+    "date_hint": "15 hours ago",
+    "first_seen": "2026-11-04T23:23:02Z",
+    "link": "https://news.sap.com/germany/2026/11/ki-zukunft-servicebereitstellung/",
+    "page": 1,
+    "summary": "Servicebereitstellung neu denken: Lernen Sie, wie KI-kompetente L\u00f6sungen Ihre Arbeitsabl\u00e4ufe revolutionieren k\u00f6nnen.",
+    "title": "Servicebereitstellung durch KI-gest\u00fctzte L\u00f6sungen"
    },
    "news.sap.com/germany/2026/11/luecke-ki-governance": {
     "baseline": false,
