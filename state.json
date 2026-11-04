@@ -1367,6 +1367,12 @@
    "summary": "A federal judge dismissed a False Claims Act suit against Genentech Inc., Novartis Pharmaceuticals Corp., Regeneron Pharmaceuticals Inc., ...",
    "title": "Genentech, Novartis, Regeneron Shed False Claims Kickback Suit - Bloomberg Law News"
   },
+  "tag:google.com,2013:googlealerts/feed:16226169694929863381": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://news.bloomberglaw.com/business-and-practice/dentons-lures-three-insurance-lawyers-for-new-jersey-practice",
+   "summary": "Sandra Jones, Jessica L. Gallagher and Timothy J. O'Driscoll joined Dentons US as litigation partners in Short Hills, NJ, the firm announced ...",
+   "title": "Dentons Lures Three Insurance Lawyers for New Jersey Practice - Bloomberg Law"
+  },
   "tag:google.com,2013:googlealerts/feed:16252104345199209510": {
    "first_seen": "2026-10-21T13:31:49Z",
    "link": "https://news.bloomberglaw.com/business-and-practice/how-coca-cola-got-burned-with-a-5-billion-bet-on-costa-coffee",
@@ -3094,6 +3100,18 @@
    "link": "https://news.bloomberglaw.com/business-and-practice/openai-to-train-ai-models-without-internet-after-cyber-incidents",
    "summary": "OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process in response to prior ...",
    "title": "OpenAI to Train AI Models Without Internet After Cyber Incidents - Bloomberg Law News"
+  },
+  "tag:google.com,2013:googlealerts/feed:8457494559927993849": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://news.bloomberglaw.com/business-and-practice/minnesota-justices-say-felony-tax-charge-needs-intent-to-deceive",
+   "summary": "Minnesota's felony tax evasion law requires the state to show the person willfully attempted to deceive the government when they failed to file a ...",
+   "title": "Minnesota Justices Say Felony Tax Charge Needs Intent to Deceive - Bloomberg Law"
+  },
+  "tag:google.com,2013:googlealerts/feed:847225531968440716": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://news.bloomberglaw.com/business-and-practice/kids-online-safety-bill-caught-in-limbo-as-democrats-take-over",
+   "summary": "Democrats' strong midterm showing could give a bill seeking to strengthen online safety and privacy for minors another chance, but with the House ...",
+   "title": "Kids Online Safety Bill Caught in Limbo as Democrats Take Over - Bloomberg Government"
   },
   "tag:google.com,2013:googlealerts/feed:8473720976064940172": {
    "first_seen": "2026-10-26T18:47:07Z",
@@ -4959,6 +4977,12 @@
    "summary": "For each conversion, we apply the higher of the FX fee rates assigned to the two currencies, regardless of the direction of the conversion. For ...",
    "title": "Pricing - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:13905572957933858474": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/billing/retention/migrate-from-managed-operations",
+   "summary": "Move your Managed Operations benefits messages, cancellation surveys, and retention offers to product loss messages, customer portal settings, ...",
+   "title": "Migrate from Managed Operations to retention rules | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:13954862664206415903": {
    "first_seen": "2026-11-02T16:44:12Z",
    "link": "https://docs.stripe.com/payments/gopay",
@@ -4982,6 +5006,12 @@
    "link": "https://docs.stripe.com/tax/subscription-schedules/automatic-tax-default",
    "summary": "Use the subscriptions Tax integration configuration default for subscription schedules and inspect tax enablement for each phase.",
    "title": "Enable tax by default for subscription schedules - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:14259614668874529400": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/issuing/stablecoin-cards/authorizations",
+   "summary": "Learn how authorizations, captures, refunds, and expirations on stablecoin-backed cards move funds onchain, which events Stripe and Bridge send, ...",
+   "title": "Authorizations and webhooks for stablecoin-backed cards - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:14363745968815405379": {
    "first_seen": "2026-10-15T10:47:01Z",
@@ -5024,6 +5054,12 @@
    "link": "https://docs.stripe.com/agentic-commerce/sellers/use-cases/retail/catalog",
    "summary": "Export your agentic commerce catalog feed, prevent out-of-stock and price failures with a price and availability hook, and offer promotions ...",
    "title": "Share your catalog with agents | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:14671636141904895279": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/issuing/stablecoin-cards/funding-strategies",
+   "summary": "Compare Bridge wallets, non-custodial wallets, and Stripe financial accounts as funding sources for stablecoin-backed cards, ...",
+   "title": "Choose a funding strategy for stablecoin-backed cards - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:14734677653429115151": {
    "first_seen": "2026-11-03T21:44:34Z",
@@ -5073,11 +5109,23 @@
    "summary": "Download the PDF for a tax form. Parameters. No parameters. Returns. The PDF file for the tax form.",
    "title": "Download tax form PDF | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:15731290668881411009": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/payments/payment-methods/migrate-from-legacy-cards-sources",
+   "summary": "Learn how to migrate from using the Charges, Tokens, and Cards or Sources APIs to using the Payment Methods and Payment Intents APIs.",
+   "title": "Migrate a card payments integration from the legacy Cards or Sources APIs"
+  },
   "tag:google.com,2013:googlealerts/feed:1579658284861607203": {
    "first_seen": "2026-10-24T16:45:23Z",
    "link": "https://docs.stripe.com/api/v2/signals/account-activities?api-version=2026-09-30.preview",
    "summary": "Account Activities v2 ... Account Activity resource for the Signals API. ... Need help? Contact Support. Chat with Stripe developers on Discord. Check out ...",
    "title": "Account Activities | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:1605661075300857468": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/issuing/stablecoin-cards/how-it-works",
+   "summary": "Stripe issues and processes cards, while Bridge verifies cardholders and moves funds from the linked wallets. You can fund cards with a Bridge wallet, ...",
+   "title": "How Stripe, Bridge, and Privy work together"
   },
   "tag:google.com,2013:googlealerts/feed:16183938699034417944": {
    "first_seen": "2026-10-23T22:44:13Z",
@@ -5121,6 +5169,12 @@
    "summary": "Set up your Stripe account \u00b7 Go to the Agentic commerce page in the Dashboard and select Get started on Agentic commerce for retail, then choose to ...",
    "title": "Sell through agents with Agentic Commerce Suite - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:16679459544106686597": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/issuing/bridge-stablecoin-cards/hold-details",
+   "summary": "Stablecoin-backed card programs move funds out of the cardholder's wallet upon authorization, before the transaction settles.",
+   "title": "Holds for reserves and fees | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:16821937480774260821": {
    "first_seen": "2026-10-16T22:44:10Z",
    "link": "https://docs.stripe.com/data/data-pipeline/real-time-sync-to-postgres/schema",
@@ -5132,6 +5186,12 @@
    "link": "https://docs.stripe.com/tax/invoicing/automatic-tax-default",
    "summary": "Use the tax integration configuration API to enable automatic tax on standalone invoices and understand when conflicting parameters disable it.",
    "title": "Enable tax by default for invoices | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:17180853429304629238": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/tax/remittance",
+   "summary": "Learn how collected tax moves through your Stripe balance, how to remit it, and how a tax account sets aside and funds payments for supported ...",
+   "title": "How remittance works | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:17624767214187221706": {
    "first_seen": "2026-10-12T11:36:05Z",
@@ -5145,6 +5205,12 @@
    "summary": "Send your product data securely using the Stripe Product Catalog Import API in CSV format. Each row represents one product or variant. Submit a full ...",
    "title": "Catalog feed | Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:17825622934416249447": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/connect/w8-w9-tax-forms/manage",
+   "summary": "Look up connected accounts by W-8 and W-9 form status, withdraw form requests, download and export submitted forms, and track request jobs from ...",
+   "title": "Manage W-8 and W-9 form requests | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:17926248140379080266": {
    "first_seen": "2026-10-19T22:44:10Z",
    "link": "https://docs.stripe.com/api/coupons/object?api-version=2026-09-30.preview",
@@ -5156,6 +5222,12 @@
    "link": "https://docs.stripe.com/api/customer_balance_transactions?api-version=2026-09-30.preview",
    "summary": "Each customer has a Balance value, which denotes a debit or credit that's automatically applied to their next invoice upon finalization. You may ...",
    "title": "Customer Balance Transactions | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:18104268077476516057": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/issuing/stablecoin-cards/manage",
+   "summary": "Learn how to generate statements with Bridge, handle complaints, use the Stripe and Bridge dashboards, and support cardholders in a ...",
+   "title": "Manage your stablecoin-backed card program - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:18131888084454230377": {
    "first_seen": "2026-10-29T19:42:55Z",
@@ -5199,11 +5271,23 @@
    "summary": "Create the PaymentIntent. Create a PaymentIntent on your server with an amount and currency. In the latest version of the API, specifying the ...",
    "title": "Create a PaymentIntent before collecting payment details - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:2394916528852222779": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/issuing/stablecoin-cards/testing",
+   "summary": "Set up connected Stripe and Bridge sandboxes, fund test wallets on testnets, and simulate authorizations for stablecoin-backed cards.",
+   "title": "Test stablecoin-backed cards - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:2454495905549446602": {
    "first_seen": "2026-10-19T22:44:10Z",
    "link": "https://docs.stripe.com/workflows/triggers",
    "summary": "Trigger types \u00b7 Event triggers run the workflow when something happens in your Stripe account, such as a payment succeeding, a subscription renewing, ...",
    "title": "Trigger workflows | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:2479957278643182635": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/issuing/stablecoin-cards/onboarding",
+   "summary": "Understand how onboarding works for a stablecoin-backed card program, from signing the program addendum through production testing and launch to ...",
+   "title": "Onboard and launch a stablecoin-backed card program - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:2513473975994533956": {
    "first_seen": "2026-10-30T16:43:50Z",
@@ -5277,6 +5361,12 @@
    "summary": "Use Link Agent Wallet to answer an 402 payment challenge with a shared payment token and complete a machine payment.",
    "title": "Pay machine-payment businesses - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:4031576726200630501": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/connect/w8-w9-tax-forms/connected-accounts",
+   "summary": "When you request W-8 or W-9 forms from your connected accounts, be prepared to help them submit the correct form successfully.",
+   "title": "How connected accounts submit W-8 and W-9 forms - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:4197160707737336743": {
    "first_seen": "2026-10-10T10:10:42Z",
    "link": "https://docs.stripe.com/js/custom_checkout/checkout_form_methods?ref=spectralwebservices.com",
@@ -5294,6 +5384,12 @@
    "link": "https://docs.stripe.com/agentic-commerce/concepts/catalog-feed/sftp-catalog-ingestion",
    "summary": "How Stripe delivers data \u00b7 Stripe overwrites the contents of catalog and updates each cycle. The SFTP directory always reflects the latest batch.",
    "title": "SFTP catalog ingestion - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:431313021061075470": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/customer-management/pause-subscriptions",
+   "summary": "When a subscription pauses, its status changes to paused , and Stripe stops generating invoices and advancing billing periods until it resumes. This ...",
+   "title": "Let customers pause subscriptions in the customer portal - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:4365805185404618254": {
    "first_seen": "2026-10-22T10:47:14Z",
@@ -5319,6 +5415,18 @@
    "summary": "Trial offers let you define free or paid introductory pricing for a subscription item. A TrialOffer specifies the price to charge during the trial, ...",
    "title": "Trial Offers | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:5729179025918010500": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/payments/unionpay",
+   "summary": "Learn about UnionPay card acceptance and the business locations, web integrations, and limitations for UnionPay payments through Apple Pay.",
+   "title": "UnionPay | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:6303201195354843856": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/issuing/stablecoin-cards/spending-restrictions",
+   "summary": "Review the blocked and limited merchant categories, default spending limits, and velocity controls that apply to every stablecoin-backed card ...",
+   "title": "Spending restrictions and limits for stablecoin-backed cards - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:6471659853664775720": {
    "first_seen": "2026-10-20T22:44:24Z",
    "link": "https://docs.stripe.com/api/reporting/report_run/object?api-version=2026-08-26.preview",
@@ -5336,6 +5444,12 @@
    "link": "https://docs.stripe.com/payments/gopay/save-during-payment",
    "summary": "Setting up a GoPay linking lets you collect future recurring payments without needing customer authorization again. Customers can manage their GoPay ...",
    "title": "Save payment method for future GoPay payments - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:7350470792851609152": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/connect/enable-w8-w9-tax-forms",
+   "summary": "Use the Stripe Dashboard to manage W-8 and W-9 tax form collection, choose which connected accounts to collect from, and request forms from your ...",
+   "title": "Enable W-8 and W-9 collection | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:7401600488192813850": {
    "first_seen": "2026-10-19T22:44:10Z",
@@ -5366,6 +5480,12 @@
    "link": "https://docs.stripe.com/event-destinations/overview",
    "summary": "Learn how Stripe events work, set up event destinations, and manage your integration. Direct events to webhook endpoints, Amazon EventBridge, ...",
    "title": "Events | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:8368935378441874260": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/issuing/bridge-stablecoin-cards/contract-security",
+   "summary": "Understand how Stripe card contracts set up programs, scope wallet approvals to a single program, and move funds only to a secure Stripe wallet ...",
+   "title": "Card contract architecture and security | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:8445983965687604615": {
    "first_seen": "2026-10-21T23:09:53Z",
@@ -5421,6 +5541,12 @@
    "summary": "Stripe needs to collect certain pieces of information about each account created. These requirements can differ depending on the account's country.",
    "title": "Country Specs | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:9423302477549010415": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/issuing/bridge-stablecoin-cards/noncustodial-wallets",
+   "summary": "Submit an onchain token approval for the Stripe card contract on Solana or EVM chains, so that cards linked to a non-custodial wallet can spend ...",
+   "title": "Set up non-custodial wallet approvals - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:9476045716878680636": {
    "first_seen": "2026-10-29T19:42:55Z",
    "link": "https://docs.stripe.com/payments/qris",
@@ -5432,6 +5558,12 @@
    "link": "https://docs.stripe.com/global-payouts/recipient-countries",
    "summary": "Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).",
    "title": "Supported recipient countries - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:9752497154821447430": {
+   "first_seen": "2026-11-04T18:43:24Z",
+   "link": "https://docs.stripe.com/disputes/arbitration",
+   "summary": "Visa non-fraud and Mastercard: The issuing bank elevates the case to the card network for a final, binding decision. Issuers have a finite window (10 ...",
+   "title": "Manage disputes through pre-arbitration and - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:9850902256530377436": {
    "first_seen": "2026-10-20T22:44:24Z",
