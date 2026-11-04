@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-04T01:42:44Z</updated>
+  <updated>2026-11-04T02:42:30Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/customer_bank_accounts/create</id>
+    <title>Create a bank account | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/customer_bank_accounts/create" />
+    <published>2026-11-04T02:42:30Z</published>
+    <updated>2026-11-04T02:42:30Z</updated>
+    <summary>Create a bank account v1 ... When you create a new bank account, you must specify a Customer object on which to create it. Parameters. sourceobject | string ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/connect/saas/tasks/onboard</id>
     <title>Onboard your connected account</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T15:42:45Z</published>
     <updated>2026-10-31T15:42:45Z</updated>
     <summary>This is an object representing a Stripe account. You can retrieve it to see properties on the account like its current requirements or if the account is ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESrAEB6zswFdP0Spmf9FoKREH0sTbzljszRLAeNtnZSdRmZJDApqR5JmlZxyBi0LQfmnF-oQEIeUVPKy5MLy7FtNdp_nr0dHPvjJOjZtqVjiMpwZnCVH658xpSpnVzYml1r-7gulQgB1QHcgsLvLglIuOMz7dym1ZxCjhFhrgkjrdjEP9Q2H0n9hKHZSeoBcsTHbjX1ms5jV0FaiaqELGOOL0PBoByvx3LXIgo5Q8n&amp;gsessionid=oifDlQw1Uqb43eH1-2HdIm-9IAlbnElLW5xAmmvCD-cXxOI2m8c5Yg</id>
-    <title>Create a PaymentIntent before collecting payment details</title>
-    <link href="https://www.google.com/goto?url=CAESrAEB6zswFdP0Spmf9FoKREH0sTbzljszRLAeNtnZSdRmZJDApqR5JmlZxyBi0LQfmnF-oQEIeUVPKy5MLy7FtNdp_nr0dHPvjJOjZtqVjiMpwZnCVH658xpSpnVzYml1r-7gulQgB1QHcgsLvLglIuOMz7dym1ZxCjhFhrgkjrdjEP9Q2H0n9hKHZSeoBcsTHbjX1ms5jV0FaiaqELGOOL0PBoByvx3LXIgo5Q8n&amp;gsessionid=oifDlQw1Uqb43eH1-2HdIm-9IAlbnElLW5xAmmvCD-cXxOI2m8c5Yg" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>Build a custom payment form using Stripe Elements and the Payment Intents API. This intent-first integration creates a PaymentIntent on your server before ...</summary>
   </entry>
 </feed>

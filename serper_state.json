@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29146,
+  "credits_used": 29199,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T01:42:44Z",
+  "last_run": "2026-11-04T02:42:30Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 584
+  "runs": 585
  },
  "feeds": {
   "adp-help": {
@@ -37793,6 +37793,15 @@
     "summary": "Use the Configuration v2 endpoints for setting up companies and branches, and managing existing entities. Retrieves details from all configured organizations.",
     "title": "Configuration endpoints | Product Documentation ..."
    },
+   "docs.sovos.com/en/e-invoicing/indirect-tax-api/configuration/configuration-endpoints": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-04T02:42:30Z",
+    "link": "https://docs.sovos.com/en/e-invoicing/indirect-tax-api/configuration/configuration-endpoints",
+    "page": 1,
+    "summary": "Use the Configuration v2 endpoints for setting up companies and branches, and managing existing entities.",
+    "title": "Configuration endpoints | Product Documentation Documentation"
+   },
    "docs.sovos.com/en/e-invoicing/indirect-tax-api/e-invoicing/documents-endpoints": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -41366,6 +41375,15 @@
     "page": 3,
     "summary": "Chat with Stripe developers on Discord. Check out our changelog. Questions? Contact Sales. LLM? Read llms.txt. Powered by Markdoc.",
     "title": "Retrieve an order | Stripe API Reference"
+   },
+   "docs.stripe.com/api/customer_bank_accounts/create": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-04T02:42:30Z",
+    "link": "https://docs.stripe.com/api/customer_bank_accounts/create",
+    "page": 3,
+    "summary": "Create a bank account v1 ... When you create a new bank account, you must specify a Customer object on which to create it. Parameters. sourceobject | string ...",
+    "title": "Create a bank account | Stripe API Reference"
    },
    "docs.stripe.com/api/customer_bank_accounts/list": {
     "baseline": false,
