@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-03T21:44:34Z</updated>
+  <updated>2026-11-04T12:10:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:11187515741104359004</id>
+    <title>Prepare an Atlas application with an agent or CLI - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/atlas/agents" />
+    <published>2026-11-04T12:10:05Z</published>
+    <updated>2026-11-04T12:10:05Z</updated>
+    <summary>Start or resume a Stripe Atlas application for a Delaware C corporation or LLC from an AI assistant or terminal, then review and submit it in the ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:14734677653429115151</id>
     <title>Set up future GoPay payments | Stripe Documentation</title>
@@ -795,13 +803,5 @@
     <published>2026-10-09T11:10:19Z</published>
     <updated>2026-10-09T11:10:19Z</updated>
     <summary>Canada Simplified GST/HST: Simplified goods and services tax and harmonized sales tax (GST/HST) for eligible non-resident businesses. EU Non-Union OSS ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:3860128045443675112</id>
-    <title>Set up events - Stripe Documentation</title>
-    <link href="https://docs.stripe.com/events/set-up-events" />
-    <published>2026-10-09T11:10:19Z</published>
-    <updated>2026-10-09T11:10:19Z</updated>
-    <summary>Follow a step-by-step guide to create a webhook endpoint, test it locally with the Stripe CLI, verify event signatures, and deploy to production.</summary>
   </entry>
 </feed>
