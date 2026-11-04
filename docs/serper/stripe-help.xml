@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-04T03:43:33Z</updated>
+  <updated>2026-11-04T04:43:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/payments/accept-a-payment-intent-first</id>
+    <title>Create a PaymentIntent before collecting payment details</title>
+    <link href="https://docs.stripe.com/payments/accept-a-payment-intent-first" />
+    <published>2026-11-04T04:43:05Z</published>
+    <updated>2026-11-04T04:43:05Z</updated>
+    <summary>Build a custom payment form using Stripe Elements and the Payment Intents API. This intent-first integration creates a PaymentIntent on your server before ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payments/gift-cards/accept-a-payment</id>
     <title>Accept a gift card payment</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T15:42:45Z</published>
     <updated>2026-10-31T15:42:45Z</updated>
     <summary>Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVrnKInuyyyz7imv6pwJv-t7PfgkTWwdjJraa25BoOmd6NBmmb44p8SJcB6A3Mi3ciRClwUKLNLJYz05wKrc0D7jIavM-0BDsUEafv32LAHAVaYVoNBmMKghNA2c1I1oHvZQ&amp;gsessionid=GsdI28Df1IIcCpJyoBfxr2xXctwYZYz81_9fSxuii-uZZXveRo7nhQ</id>
-    <title>Finalize a quote | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVrnKInuyyyz7imv6pwJv-t7PfgkTWwdjJraa25BoOmd6NBmmb44p8SJcB6A3Mi3ciRClwUKLNLJYz05wKrc0D7jIavM-0BDsUEafv32LAHAVaYVoNBmMKghNA2c1I1oHvZQ&amp;gsessionid=GsdI28Df1IIcCpJyoBfxr2xXctwYZYz81_9fSxuii-uZZXveRo7nhQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>A future timestamp on which the quote will be canceled if in open or draft status. Measured in seconds since the Unix epoch.</summary>
   </entry>
 </feed>

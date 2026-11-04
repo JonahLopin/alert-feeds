@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29252,
+  "credits_used": 29305,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T03:43:33Z",
+  "last_run": "2026-11-04T04:43:05Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 586
+  "runs": 587
  },
  "feeds": {
   "adp-help": {
@@ -7288,6 +7288,15 @@
     "page": 3,
     "summary": "US law enforcement joined the hunt for hackers who drained more than $6 billion from the Binance crypto exchange in the biggest cyber theft ever recorded.",
     "title": "Binance's $6 Billion Heist Rattles Crypto and Draws FBI ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/bitcoin-slips-as-democratic-sweep-bets-threaten-crypto-agenda": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T04:43:05Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/bitcoin-slips-as-democratic-sweep-bets-threaten-crypto-agenda",
+    "page": 2,
+    "summary": "Bitcoin edged lower as bets on a possible Democratic sweep of Congress gained traction, adding political uncertainty to a market already struggling with ...",
+    "title": "Bitcoin Slips as Democratic Sweep Bets Threaten Crypto ..."
    },
    "news.bloomberglaw.com/business-and-practice/black-box-revenue-from-anthropic-and-openai-stumps-traders": {
     "baseline": false,
@@ -42276,6 +42285,15 @@
     "page": 2,
     "summary": "Lorsque vous cr\u00e9ez un lien de paiement, vous pouvez personnaliser l'apparence d'une session de paiement pour vos utilisateurs. Vous pouvez \u00e9galement choisir ...",
     "title": "Personnaliser le processus de paiement avec Payment Links"
+   },
+   "docs.stripe.com/payments/accept-a-payment-intent-first": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-04T04:43:05Z",
+    "link": "https://docs.stripe.com/payments/accept-a-payment-intent-first",
+    "page": 2,
+    "summary": "Build a custom payment form using Stripe Elements and the Payment Intents API. This intent-first integration creates a PaymentIntent on your server before ...",
+    "title": "Create a PaymentIntent before collecting payment details"
    },
    "docs.stripe.com/payments/accept-a-payment?payment-ui=elements&api-integration=paymentintents&locale=zh-CN": {
     "baseline": false,
