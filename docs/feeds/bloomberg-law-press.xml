@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-04T12:29:23Z</updated>
+  <updated>2026-11-04T15:25:00Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8689609327580621907</id>
+    <title>Lockheed Martin to Pay $30 Million for Discrimination Claims - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/lockheed-martin-to-pay-30-million-for-discrimination-claims" />
+    <published>2026-11-04T15:25:00Z</published>
+    <updated>2026-11-04T15:25:00Z</updated>
+    <summary>Lockheed Martin Corp. will pay about $29.5 million to resolve allegations it violated the False Claims Act by failing to comply with ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:17440001821869597396</id>
     <title>Trump Digs In for Investigation Onslaught After Democratic Wave - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T02:10:44Z</published>
     <updated>2026-10-30T02:10:44Z</updated>
     <summary>Bambusa Therapeutics Inc., an early-stage biotech focused on dermatology and autoimmune diseases, raised $168.9 million in an upsized US initial ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:13029784387206783323</id>
-    <title>Diversity Immigrant Visa Lottery Can Remain Paused as US Appeals - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/diversity-immigrant-visa-lottery-can-remain-paused-as-us-appeals" />
-    <published>2026-10-30T02:10:44Z</published>
-    <updated>2026-10-30T02:10:44Z</updated>
-    <summary>The Ninth Circuit has granted an emergency stop to a lower court order requiring the US State Department to reopen its Diversity Immigrant Visa ...</summary>
   </entry>
 </feed>

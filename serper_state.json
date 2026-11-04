@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29755,
+  "credits_used": 29804,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T14:23:56Z",
+  "last_run": "2026-11-04T15:23:47Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 596
+  "runs": 597
  },
  "feeds": {
   "adp-help": {
@@ -518,6 +518,15 @@
     "page": 1,
     "summary": "PNC Payroll by ADP\u00ae will connect payroll, HR and benefits with the banking, payments and cash management capabilities businesses use every day in one ...",
     "title": "PNC Bank and ADP Announce Embedded Payroll Solution ..."
+   },
+   "mediacenter.adp.com/2026-11-04-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-86,000-Jobs-in-October": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://mediacenter.adp.com/2026-11-04-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-86,000-Jobs-in-October",
+    "page": 1,
+    "summary": "The ADP National Employment Report is an independent measure of the labor market based on the anonymized weekly payroll data of more than 26 million private- ...",
+    "title": "ADP National Employment Report: Private-Sector ..."
    },
    "mediacenter.adp.com/adp-and-campfire-announce-strategic-partnership-to-expand-access-to-hcm-capabilities-across-the-erp-experience": {
     "baseline": false,
@@ -16763,6 +16772,15 @@
     "summary": "Build a complete coffee shop marketing strategy: local SEO, reviews, email, loyalty programs, and direct ordering tools that drive repeat customers and revenue.",
     "title": "Coffee Shop Marketing Strategy: Grow Sales in 2026"
    },
+   "merchants.doordash.com/en-us/blog/contactless-delivery": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://merchants.doordash.com/en-us/blog/contactless-delivery",
+    "page": 1,
+    "summary": "Is your delivery workflow stuck in the past? Discover how contactless delivery drives faster drop-offs, higher safety ratings, and repeat direct orders.",
+    "title": "What is Contactless Delivery, and Why Does It Matter?"
+   },
    "merchants.doordash.com/en-us/blog/corkage-fee": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -16933,6 +16951,24 @@
     "page": 3,
     "summary": "How to Integrate Online Ordering with Your Restaurant POS (Step by Step) \u00b7 Review current POS capabilities. \u00b7 Select the appropriate integration structure.",
     "title": "How to Integrate POS with Online Ordering the Right Way"
+   },
+   "merchants.doordash.com/en-us/blog/opening-a-restaurant": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://merchants.doordash.com/en-us/blog/opening-a-restaurant",
+    "page": 1,
+    "summary": "Learn how to open a restaurant with this complete 11-step guide. From concept to grand opening, get expert tips on costs, permits, and launching successfully.",
+    "title": "How to Open a Restaurant in 2026: 11-Step Guide - DoorDash"
+   },
+   "merchants.doordash.com/en-us/blog/prix-fixe-menu": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://merchants.doordash.com/en-us/blog/prix-fixe-menu",
+    "page": 1,
+    "summary": "Wondering what a prix fixe menu is? Learn how this fixed-price format works, plus tips for pricing, planning, and promoting one at your restaurant.",
+    "title": "What Is a Prix Fixe Menu? Definition, Examples & Tips"
    },
    "merchants.doordash.com/en-us/blog/qsr-meaning": {
     "baseline": false,
@@ -42265,6 +42301,15 @@
     "summary": "Use an AI assistant or the Stripe CLI to prepare a Stripe Atlas application for a Delaware C corporation or limited liability company (LLC).",
     "title": "Prepare an Atlas application with an agent or CLI"
    },
+   "docs.stripe.com/billing/retention/migrate-from-managed-operations": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://docs.stripe.com/billing/retention/migrate-from-managed-operations",
+    "page": 3,
+    "summary": "Move your Managed Operations benefits messages, cancellation surveys, and retention offers to product loss messages, customer portal settings, and retention ...",
+    "title": "Migrate from Managed Operations to retention rules"
+   },
    "docs.stripe.com/billing/subscriptions/au-becs-debit": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -42427,6 +42472,15 @@
     "summary": "Choose between Stripe-hosted or embedded onboarding to collect requirements from your connected accounts.",
     "title": "Onboard your connected account"
    },
+   "docs.stripe.com/connect/w8-w9-tax-forms/manage": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://docs.stripe.com/connect/w8-w9-tax-forms/manage",
+    "page": 2,
+    "summary": "After you enable and configure W-8 and W-9 form collection from your connected accounts, you can review their status in the Tax forms page.",
+    "title": "Manage W-8 and W-9 form requests"
+   },
    "docs.stripe.com/customer-management/pause-subscriptions": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -42574,6 +42628,78 @@
     "page": 1,
     "summary": "Connect an AI agent to Stripe MCP to create Issuing cardholders and physical or virtual cards with the permissions you choose.",
     "title": "Manage Issuing cards with AI agents"
+   },
+   "docs.stripe.com/issuing/bridge-stablecoin-cards/contract-security": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://docs.stripe.com/issuing/bridge-stablecoin-cards/contract-security",
+    "page": 3,
+    "summary": "Learn how Stripe card contracts pull funds from non-custodial wallets and keep customer funds secure. Ask about this page.",
+    "title": "Card contract architecture and security"
+   },
+   "docs.stripe.com/issuing/bridge-stablecoin-cards/noncustodial-wallets": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://docs.stripe.com/issuing/bridge-stablecoin-cards/noncustodial-wallets",
+    "page": 2,
+    "summary": "Bridge pulls funds onchain from a linked non-custodial wallet at authorization, so cardholders don't need to fund a separate card balance.",
+    "title": "Set up non-custodial wallet approvals"
+   },
+   "docs.stripe.com/issuing/stablecoin-cards/authorizations": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://docs.stripe.com/issuing/stablecoin-cards/authorizations",
+    "page": 1,
+    "summary": "Learn how authorizations, captures, refunds, and expirations on stablecoin-backed cards move funds onchain, which events Stripe and Bridge send, and how to ...",
+    "title": "Authorizations and webhooks for stablecoin-backed cards"
+   },
+   "docs.stripe.com/issuing/stablecoin-cards/how-it-works": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://docs.stripe.com/issuing/stablecoin-cards/how-it-works",
+    "page": 3,
+    "summary": "Stripe issues and processes cards, while Bridge verifies cardholders and moves funds from the linked wallets. You can fund cards with a Bridge wallet, a Privy ...",
+    "title": "How Stripe, Bridge, and Privy work together"
+   },
+   "docs.stripe.com/issuing/stablecoin-cards/manage": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://docs.stripe.com/issuing/stablecoin-cards/manage",
+    "page": 2,
+    "summary": "Manage your stablecoin-backed card program by providing cardholder support, generating monthly statements, and handling complaints. Use the Stripe and Bridge ...",
+    "title": "Manage your stablecoin-backed card program"
+   },
+   "docs.stripe.com/issuing/stablecoin-cards/onboarding": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://docs.stripe.com/issuing/stablecoin-cards/onboarding",
+    "page": 1,
+    "summary": "Learn the onboarding steps, timeline, and launch requirements for a stablecoin-backed card program. Ask about this page.",
+    "title": "Onboard and launch a stablecoin-backed card program"
+   },
+   "docs.stripe.com/issuing/stablecoin-cards/spending-restrictions": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://docs.stripe.com/issuing/stablecoin-cards/spending-restrictions",
+    "page": 2,
+    "summary": "Review the blocked and limited merchant categories, default spending limits, and velocity controls that apply to every stablecoin-backed card program.",
+    "title": "Spending restrictions and limits for stablecoin-backed cards"
+   },
+   "docs.stripe.com/issuing/stablecoin-cards/testing": {
+    "baseline": false,
+    "date_hint": "13 hours ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://docs.stripe.com/issuing/stablecoin-cards/testing",
+    "page": 1,
+    "summary": "Set up connected Stripe and Bridge sandboxes, fund test wallets on testnets, and simulate authorizations for stablecoin-backed cards.",
+    "title": "Test stablecoin-backed cards"
    },
    "docs.stripe.com/js/custom_checkout/checkout_form_get_value": {
     "baseline": false,
@@ -42843,6 +42969,15 @@
     "summary": "Migrate an existing payment form to the Payment Element with the Payment Intents API.",
     "title": "Migrate to the Payment Element with the Payment Intents API"
    },
+   "docs.stripe.com/payments/payment-methods/migrate-from-legacy-cards-sources": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://docs.stripe.com/payments/payment-methods/migrate-from-legacy-cards-sources",
+    "page": 3,
+    "summary": "Learn how to migrate from using the Charges, Tokens, and Cards or Sources APIs to using the Payment Methods and Payment Intents APIs.",
+    "title": "Migrate a card payments integration from the legacy ..."
+   },
    "docs.stripe.com/payments/qris": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -42914,6 +43049,15 @@
     "page": 4,
     "summary": "D\u00e9couvrez comment enregistrer les informations de moyens de paiement pour les paiements futurs par pr\u00e9l\u00e8vement SEPA.",
     "title": "Enregistrer les coordonn\u00e9es de pr\u00e9l\u00e8vement SEPA pour ..."
+   },
+   "docs.stripe.com/payments/unionpay": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://docs.stripe.com/payments/unionpay",
+    "page": 1,
+    "summary": "Learn about UnionPay card acceptance and the business locations, web integrations, and limitations for UnionPay payments through Apple Pay.",
+    "title": "UnionPay"
    },
    "docs.stripe.com/payouts?country=BA&locale=zh-CN": {
     "baseline": false,
@@ -43030,6 +43174,15 @@
     "page": 1,
     "summary": "Use the tax integration configuration API to enable automatic tax on standalone invoices and understand when conflicting parameters disable it.",
     "title": "Enable tax by default for invoices"
+   },
+   "docs.stripe.com/tax/remittance": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T15:23:47Z",
+    "link": "https://docs.stripe.com/tax/remittance",
+    "page": 1,
+    "summary": "Remittance is how the tax you collect through Stripe Tax reaches each tax authority. This page covers how collected tax moves through your Stripe balance ...",
+    "title": "How remittance works"
    },
    "docs.stripe.com/tax/subscription-schedules/automatic-tax-default": {
     "baseline": false,

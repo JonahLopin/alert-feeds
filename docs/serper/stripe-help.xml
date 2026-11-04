@@ -2,8 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-04T14:23:56Z</updated>
+  <updated>2026-11-04T15:23:47Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/tax/remittance</id>
+    <title>How remittance works</title>
+    <link href="https://docs.stripe.com/tax/remittance" />
+    <published>2026-11-04T15:23:47Z</published>
+    <updated>2026-11-04T15:23:47Z</updated>
+    <summary>Remittance is how the tax you collect through Stripe Tax reaches each tax authority. This page covers how collected tax moves through your Stripe balance ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/payments/unionpay</id>
+    <title>UnionPay</title>
+    <link href="https://docs.stripe.com/payments/unionpay" />
+    <published>2026-11-04T15:23:47Z</published>
+    <updated>2026-11-04T15:23:47Z</updated>
+    <summary>Learn about UnionPay card acceptance and the business locations, web integrations, and limitations for UnionPay payments through Apple Pay.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/payments/payment-methods/migrate-from-legacy-cards-sources</id>
+    <title>Migrate a card payments integration from the legacy ...</title>
+    <link href="https://docs.stripe.com/payments/payment-methods/migrate-from-legacy-cards-sources" />
+    <published>2026-11-04T15:23:47Z</published>
+    <updated>2026-11-04T15:23:47Z</updated>
+    <summary>Learn how to migrate from using the Charges, Tokens, and Cards or Sources APIs to using the Payment Methods and Payment Intents APIs.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/issuing/stablecoin-cards/testing</id>
+    <title>Test stablecoin-backed cards</title>
+    <link href="https://docs.stripe.com/issuing/stablecoin-cards/testing" />
+    <published>2026-11-04T15:23:47Z</published>
+    <updated>2026-11-04T15:23:47Z</updated>
+    <summary>Set up connected Stripe and Bridge sandboxes, fund test wallets on testnets, and simulate authorizations for stablecoin-backed cards.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/issuing/stablecoin-cards/spending-restrictions</id>
+    <title>Spending restrictions and limits for stablecoin-backed cards</title>
+    <link href="https://docs.stripe.com/issuing/stablecoin-cards/spending-restrictions" />
+    <published>2026-11-04T15:23:47Z</published>
+    <updated>2026-11-04T15:23:47Z</updated>
+    <summary>Review the blocked and limited merchant categories, default spending limits, and velocity controls that apply to every stablecoin-backed card program.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/issuing/stablecoin-cards/onboarding</id>
+    <title>Onboard and launch a stablecoin-backed card program</title>
+    <link href="https://docs.stripe.com/issuing/stablecoin-cards/onboarding" />
+    <published>2026-11-04T15:23:47Z</published>
+    <updated>2026-11-04T15:23:47Z</updated>
+    <summary>Learn the onboarding steps, timeline, and launch requirements for a stablecoin-backed card program. Ask about this page.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/issuing/stablecoin-cards/manage</id>
+    <title>Manage your stablecoin-backed card program</title>
+    <link href="https://docs.stripe.com/issuing/stablecoin-cards/manage" />
+    <published>2026-11-04T15:23:47Z</published>
+    <updated>2026-11-04T15:23:47Z</updated>
+    <summary>Manage your stablecoin-backed card program by providing cardholder support, generating monthly statements, and handling complaints. Use the Stripe and Bridge ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/issuing/stablecoin-cards/how-it-works</id>
+    <title>How Stripe, Bridge, and Privy work together</title>
+    <link href="https://docs.stripe.com/issuing/stablecoin-cards/how-it-works" />
+    <published>2026-11-04T15:23:47Z</published>
+    <updated>2026-11-04T15:23:47Z</updated>
+    <summary>Stripe issues and processes cards, while Bridge verifies cardholders and moves funds from the linked wallets. You can fund cards with a Bridge wallet, a Privy ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/issuing/stablecoin-cards/authorizations</id>
+    <title>Authorizations and webhooks for stablecoin-backed cards</title>
+    <link href="https://docs.stripe.com/issuing/stablecoin-cards/authorizations" />
+    <published>2026-11-04T15:23:47Z</published>
+    <updated>2026-11-04T15:23:47Z</updated>
+    <summary>Learn how authorizations, captures, refunds, and expirations on stablecoin-backed cards move funds onchain, which events Stripe and Bridge send, and how to ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/issuing/bridge-stablecoin-cards/noncustodial-wallets</id>
+    <title>Set up non-custodial wallet approvals</title>
+    <link href="https://docs.stripe.com/issuing/bridge-stablecoin-cards/noncustodial-wallets" />
+    <published>2026-11-04T15:23:47Z</published>
+    <updated>2026-11-04T15:23:47Z</updated>
+    <summary>Bridge pulls funds onchain from a linked non-custodial wallet at authorization, so cardholders don't need to fund a separate card balance.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/issuing/bridge-stablecoin-cards/contract-security</id>
+    <title>Card contract architecture and security</title>
+    <link href="https://docs.stripe.com/issuing/bridge-stablecoin-cards/contract-security" />
+    <published>2026-11-04T15:23:47Z</published>
+    <updated>2026-11-04T15:23:47Z</updated>
+    <summary>Learn how Stripe card contracts pull funds from non-custodial wallets and keep customer funds secure. Ask about this page.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/connect/w8-w9-tax-forms/manage</id>
+    <title>Manage W-8 and W-9 form requests</title>
+    <link href="https://docs.stripe.com/connect/w8-w9-tax-forms/manage" />
+    <published>2026-11-04T15:23:47Z</published>
+    <updated>2026-11-04T15:23:47Z</updated>
+    <summary>After you enable and configure W-8 and W-9 form collection from your connected accounts, you can review their status in the Tax forms page.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/billing/retention/migrate-from-managed-operations</id>
+    <title>Migrate from Managed Operations to retention rules</title>
+    <link href="https://docs.stripe.com/billing/retention/migrate-from-managed-operations" />
+    <published>2026-11-04T15:23:47Z</published>
+    <updated>2026-11-04T15:23:47Z</updated>
+    <summary>Move your Managed Operations benefits messages, cancellation surveys, and retention offers to product loss messages, customer portal settings, and retention ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/connect/enable-w8-w9-tax-forms</id>
     <title>Enable W-8 and W-9 collection</title>
@@ -699,109 +803,5 @@
     <published>2026-10-31T15:42:45Z</published>
     <updated>2026-10-31T15:42:45Z</updated>
     <summary>RecipientVerification represents a verification of recipient you intend to send funds to. Learn more about calling API v2 endpoints. Was this section helpful?</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESgAEB6zswFYpWuPCpeIHk_mxvvtZwEFIIb61sZzT_iEPgl5PSQYrdg1ftdZCPyXjv0u9lk7JJDfzERyL_Aj3Vf-hGRdjS3hozL8wdNBocm8Zl_UdBpzk95zmBHE0sE_kPxCUwWAcxmSC6BvYNwL84ObyqYBZRVMnpyF-Bzb5k5QDLTQ&amp;gsessionid=DfGciI9PuDcOAazbSoxf_X2XwiFiNWYUBta-cYCopy47cmMyzkMUAQ</id>
-    <title>Supported recipient countries - Global Payouts</title>
-    <link href="https://www.google.com/goto?url=CAESgAEB6zswFYpWuPCpeIHk_mxvvtZwEFIIb61sZzT_iEPgl5PSQYrdg1ftdZCPyXjv0u9lk7JJDfzERyL_Aj3Vf-hGRdjS3hozL8wdNBocm8Zl_UdBpzk95zmBHE0sE_kPxCUwWAcxmSC6BvYNwL84ObyqYBZRVMnpyF-Bzb5k5QDLTQ&amp;gsessionid=DfGciI9PuDcOAazbSoxf_X2XwiFiNWYUBta-cYCopy47cmMyzkMUAQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESfAHrOzAVWJghrhGOQp-tFzWUfvLMbfBmVFmwU0QGqfw6VC3JdXR4wfkdZDnoav3fpsUGuF1EaGRDclTlDzHCKLE5VTd49SIjSj2hHdvNkt-Djc79FWmAVmy4WheS43iXcVZBnq-IU_ifBO5v7bMNJMh1m6JAY47ut0BqqFQ&amp;gsessionid=m4aCgSJ87MZ6Co--Nlz_h9gct3xRlk7lGMCr8adEV58VQePYY539CQ</id>
-    <title>Create a VerificationSession | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESfAHrOzAVWJghrhGOQp-tFzWUfvLMbfBmVFmwU0QGqfw6VC3JdXR4wfkdZDnoav3fpsUGuF1EaGRDclTlDzHCKLE5VTd49SIjSj2hHdvNkt-Djc79FWmAVmy4WheS43iXcVZBnq-IU_ifBO5v7bMNJMh1m6JAY47ut0BqqFQ&amp;gsessionid=m4aCgSJ87MZ6Co--Nlz_h9gct3xRlk7lGMCr8adEV58VQePYY539CQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>A string to reference this user. This can be a customer ID, a session ID, or similar, and can be used to reconcile this verification with your internal systems.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESewHrOzAVOMq1SpLFsyRM6mHor2nmACoHIZpnCAyL1PjP9e3EP2XdcM4mtr0TVr2Zq3vYxeezHvoYgAIUVsBN7LC_eyX8P44LgAEamZPWxSldzw9_2i9d44OxU1NUn4hu16XGheqUa5xCyBUf6jf0vl81iQeUDpVO4uK51g&amp;gsessionid=DfGciI9PuDcOAazbSoxf_X2XwiFiNWYUBta-cYCopy47cmMyzkMUAQ</id>
-    <title>Send payouts with crypto - stablecoin</title>
-    <link href="https://www.google.com/goto?url=CAESewHrOzAVOMq1SpLFsyRM6mHor2nmACoHIZpnCAyL1PjP9e3EP2XdcM4mtr0TVr2Zq3vYxeezHvoYgAIUVsBN7LC_eyX8P44LgAEamZPWxSldzw9_2i9d44OxU1NUn4hu16XGheqUa5xCyBUf6jf0vl81iQeUDpVO4uK51g&amp;gsessionid=DfGciI9PuDcOAazbSoxf_X2XwiFiNWYUBta-cYCopy47cmMyzkMUAQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>Send payouts from your financial account to your recipients' external crypto wallets in more than 160 countries. Recipients receive stablecoins over a supported ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESegHrOzAVc5lOMc86RJsOBCK8LD36DvQ9xeftvlmlPrmkLV4TcRLZhj5EmxY5PxfsF77uVw7HR4REElF8oIYGRhDT5mXKyinmAn_Sq0wbM8BCsR0bB_co7v5QZ4nR46-gxSGIvoAMFKaw3eOBHL2jm-ndfU5t7R90OiNZ&amp;gsessionid=SUBRkQJZTFzOWd7z7NyjAn8gz4yKLM-H1f-L39PAcHhyqGJrIFpLpA</id>
-    <title>Financial account report type</title>
-    <link href="https://www.google.com/goto?url=CAESegHrOzAVc5lOMc86RJsOBCK8LD36DvQ9xeftvlmlPrmkLV4TcRLZhj5EmxY5PxfsF77uVw7HR4REElF8oIYGRhDT5mXKyinmAn_Sq0wbM8BCsR0bB_co7v5QZ4nR46-gxSGIvoAMFKaw3eOBHL2jm-ndfU5t7R90OiNZ&amp;gsessionid=SUBRkQJZTFzOWd7z7NyjAn8gz4yKLM-H1f-L39PAcHhyqGJrIFpLpA" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>Use Financial account reports to analyze activity that impacts your financial account balance and view data related to your payments activity.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESegHrOzAV9jTN92e6GOJ4Yn4cYTvdMZJ70HM40XGmarqMrcjzOJ-Wc2QTOyahDgaVLuKbgVd04LT8962RKj4nE2Lwq3ftigN-NThcn8fqjM_SjcYt-Iiqa3FReLwda5kjsd1WFpnc6udOjUG8FwBMmpby9npxfrXBqcEj&amp;gsessionid=SUBRkQJZTFzOWd7z7NyjAn8gz4yKLM-H1f-L39PAcHhyqGJrIFpLpA</id>
-    <title>Enable tax by default for subscriptions</title>
-    <link href="https://www.google.com/goto?url=CAESegHrOzAV9jTN92e6GOJ4Yn4cYTvdMZJ70HM40XGmarqMrcjzOJ-Wc2QTOyahDgaVLuKbgVd04LT8962RKj4nE2Lwq3ftigN-NThcn8fqjM_SjcYt-Iiqa3FReLwda5kjsd1WFpnc6udOjUG8FwBMmpby9npxfrXBqcEj&amp;gsessionid=SUBRkQJZTFzOWd7z7NyjAn8gz4yKLM-H1f-L39PAcHhyqGJrIFpLpA" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>Use the Tax integration configuration API to enable automatic tax on subscriptions and understand how later updates affect tax collection.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESeQHrOzAVVEZWCZJDalPNWpcSaoOgvcs4Ft9LRXwmy9jamu76Ek1HvYv-uN8It9tAhVKCCpKJFepEkmpuPcvP-i3FAwLjPyzsl2qFRh2xn7xrX5dSxopufeeAVQgIyla0r1_DYv9Bk4o2unQ1sXBX52ihxSSlT2zkLqY&amp;gsessionid=6tvnadaKi-4DGjrncG2nS3JjNy1qIwZhixL5ThXjBbbMuuCelF5T1g</id>
-    <title>Payout Intents v2 - Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESeQHrOzAVVEZWCZJDalPNWpcSaoOgvcs4Ft9LRXwmy9jamu76Ek1HvYv-uN8It9tAhVKCCpKJFepEkmpuPcvP-i3FAwLjPyzsl2qFRh2xn7xrX5dSxopufeeAVQgIyla0r1_DYv9Bk4o2unQ1sXBX52ihxSSlT2zkLqY&amp;gsessionid=6tvnadaKi-4DGjrncG2nS3JjNy1qIwZhixL5ThXjBbbMuuCelF5T1g" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>PayoutIntent represents an intent to send funds from a Financial Account to a payout method. Learn more about calling API v2 endpoints. Was this section helpful ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdgHrOzAVqX3NYTGiU9vKGUFKA_FX_ZEvPpFLYA5UEbh0DZ1ObuaYPmWobdjQJ7UqpXu-KBzwdj-QfR6vH-g51Fu5UkUcXrl2H2yWqX0_2Z7_QsBehwe3wF9PXThTqXHDeBGiuvciY_oVJIKNkvBKdcahT5g4VBo&amp;gsessionid=m4aCgSJ87MZ6Co--Nlz_h9gct3xRlk7lGMCr8adEV58VQePYY539CQ</id>
-    <title>Create a portal session | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESdgHrOzAVqX3NYTGiU9vKGUFKA_FX_ZEvPpFLYA5UEbh0DZ1ObuaYPmWobdjQJ7UqpXu-KBzwdj-QfR6vH-g51Fu5UkUcXrl2H2yWqX0_2Z7_QsBehwe3wF9PXThTqXHDeBGiuvciY_oVJIKNkvBKdcahT5g4VBo&amp;gsessionid=m4aCgSJ87MZ6Co--Nlz_h9gct3xRlk7lGMCr8adEV58VQePYY539CQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>The ID of an existing configuration to use for this session, describing its functionality and features. If not specified, the session uses the default ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdgHrOzAVl2XgaZbJmk61DL6i1i7Dl0tWFZdLtTvysC-rSBat6uU5lrVVQdyLywKOtV3vl5nd381w_zZ3SRnvj1dxhUbXgNiFJBB4_4VisFJidjwT1VfApa6gTU1daF3Ih7tej7FLqIsPsVQccpzpFeL4PvtcCTk&amp;gsessionid=DfGciI9PuDcOAazbSoxf_X2XwiFiNWYUBta-cYCopy47cmMyzkMUAQ</id>
-    <title>Send payouts to Apple Pay</title>
-    <link href="https://www.google.com/goto?url=CAESdgHrOzAVl2XgaZbJmk61DL6i1i7Dl0tWFZdLtTvysC-rSBat6uU5lrVVQdyLywKOtV3vl5nd381w_zZ3SRnvj1dxhUbXgNiFJBB4_4VisFJidjwT1VfApa6gTU1daF3Ih7tej7FLqIsPsVQccpzpFeL4PvtcCTk&amp;gsessionid=DfGciI9PuDcOAazbSoxf_X2XwiFiNWYUBta-cYCopy47cmMyzkMUAQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>Stripe decrypts the token and returns a reusable PayoutMethod with an apple_pay hash containing the card's dynamic_last4 , last4 , exp_month , exp_year , ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdgHrOzAVKkCMLJA_goOJoqgZN04GclW0BEVW2nISkK4YIrSawv8DKrFldlzqge19pphKTSen1DxjO6xFWUHriPe_A4LuKo8y5DwrHh5cjKehov1e1kK1qJ_JVJtzVMNQ4dM5407iv3SGaelzIRzI2iB23cVuZvI&amp;gsessionid=SUBRkQJZTFzOWd7z7NyjAn8gz4yKLM-H1f-L39PAcHhyqGJrIFpLpA</id>
-    <title>Set up a subscription with BECS Direct Debit in Australia</title>
-    <link href="https://www.google.com/goto?url=CAESdgHrOzAVKkCMLJA_goOJoqgZN04GclW0BEVW2nISkK4YIrSawv8DKrFldlzqge19pphKTSen1DxjO6xFWUHriPe_A4LuKo8y5DwrHh5cjKehov1e1kK1qJ_JVJtzVMNQ4dM5407iv3SGaelzIRzI2iB23cVuZvI&amp;gsessionid=SUBRkQJZTFzOWd7z7NyjAn8gz4yKLM-H1f-L39PAcHhyqGJrIFpLpA" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>Learn how to create and charge for a subscription with BECS Direct Debit. Create a product and price Dashboard monthly subscription. Select a Product tax code.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdQHrOzAVXKpMmFBOHPb6xRBheK6yCetuo3ZYl_kO3-nqTatqOyKv-HB4kEWExxCbixSgEI64XBxSLEeFgx5vkm-SQWScgqvgYp-zhMl8Mo7_mHpydXV0LtWbVqRPyK6i1JNK8thkMQOAAyy9fj66TgIsXmeLUg&amp;gsessionid=SUBRkQJZTFzOWd7z7NyjAn8gz4yKLM-H1f-L39PAcHhyqGJrIFpLpA</id>
-    <title>Supported recipient countries - Global Payouts</title>
-    <link href="https://www.google.com/goto?url=CAESdQHrOzAVXKpMmFBOHPb6xRBheK6yCetuo3ZYl_kO3-nqTatqOyKv-HB4kEWExxCbixSgEI64XBxSLEeFgx5vkm-SQWScgqvgYp-zhMl8Mo7_mHpydXV0LtWbVqRPyK6i1JNK8thkMQOAAyy9fj66TgIsXmeLUg&amp;gsessionid=SUBRkQJZTFzOWd7z7NyjAn8gz4yKLM-H1f-L39PAcHhyqGJrIFpLpA" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>Learn which countries and currencies you can send payouts to with Global Payouts. Payouts to crypto wallets support a different set of countries.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEScgHrOzAVaHj-iCc3GzH0ysSf80QOdSu0Lnh2jc7OcwxOzmWk1cOmAvzYxmOeqN_BJTxlT3o_1tA5OEx0gTzkOE0-T5Gn1LKnsaXLiawxDtmcuky_rIfsnA1hBbjzijEZVlomqugFhhRBMc48w9gzDk-dQg&amp;gsessionid=DfGciI9PuDcOAazbSoxf_X2XwiFiNWYUBta-cYCopy47cmMyzkMUAQ</id>
-    <title>List all bank accounts v1</title>
-    <link href="https://www.google.com/goto?url=CAEScgHrOzAVaHj-iCc3GzH0ysSf80QOdSu0Lnh2jc7OcwxOzmWk1cOmAvzYxmOeqN_BJTxlT3o_1tA5OEx0gTzkOE0-T5Gn1LKnsaXLiawxDtmcuky_rIfsnA1hBbjzijEZVlomqugFhhRBMc48w9gzDk-dQg&amp;gsessionid=DfGciI9PuDcOAazbSoxf_X2XwiFiNWYUBta-cYCopy47cmMyzkMUAQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>starting_afterstring. A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEScQHrOzAV9QYTtshZzrorHhkCWOaoNUPPDslKp4rWjVlkdTHL40zNZUP6Ir4gPI2OVWKzrXne64eo0WVZCqpNBgCfo0gMJuuOewYIwj2my4NpQN9oJzGbhmeHteMC-2oEcOiBYtKWlIpeGsqNLucYdCDl&amp;gsessionid=SUBRkQJZTFzOWd7z7NyjAn8gz4yKLM-H1f-L39PAcHhyqGJrIFpLpA</id>
-    <title>QRIS Payments</title>
-    <link href="https://www.google.com/goto?url=CAEScQHrOzAV9QYTtshZzrorHhkCWOaoNUPPDslKp4rWjVlkdTHL40zNZUP6Ir4gPI2OVWKzrXne64eo0WVZCqpNBgCfo0gMJuuOewYIwj2my4NpQN9oJzGbhmeHteMC-2oEcOiBYtKWlIpeGsqNLucYdCDl&amp;gsessionid=SUBRkQJZTFzOWd7z7NyjAn8gz4yKLM-H1f-L39PAcHhyqGJrIFpLpA" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>(QRIS) is a real time payment system developed by the Bank of Indonesia. The service works by instantly transferring funds between two bank accounts.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbwHrOzAVy5b1gVFY16Dgt0prfOLomx0uqrphUDSGY40fQ-OTvtST0Fkde5ilq8IbR6sNPyZ2V0SZlCJvz3nBxFOpFyZet3OYH4n7MRVujc5mGOVjo6l1WfaxjiudFTp0gg5IlCd4HspWcqNPIe-l6Q&amp;gsessionid=m4aCgSJ87MZ6Co--Nlz_h9gct3xRlk7lGMCr8adEV58VQePYY539CQ</id>
-    <title>Deactivate a billing alert | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESbwHrOzAVy5b1gVFY16Dgt0prfOLomx0uqrphUDSGY40fQ-OTvtST0Fkde5ilq8IbR6sNPyZ2V0SZlCJvz3nBxFOpFyZet3OYH4n7MRVujc5mGOVjo6l1WfaxjiudFTp0gg5IlCd4HspWcqNPIe-l6Q&amp;gsessionid=m4aCgSJ87MZ6Co--Nlz_h9gct3xRlk7lGMCr8adEV58VQePYY539CQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>Unique identifier for the object. Returns. Returns the alert with its updated status. Server-side language. cURL. cURL. Stripe CLI. Ruby. Python. PHP. Java.</summary>
   </entry>
 </feed>
