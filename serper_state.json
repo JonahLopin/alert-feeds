@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29657,
+  "credits_used": 29706,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T12:28:11Z",
+  "last_run": "2026-11-04T13:23:24Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 594
+  "runs": 595
  },
  "feeds": {
   "adp-help": {
@@ -37671,6 +37671,15 @@
     "page": 4,
     "summary": "Store layout shapes how customers shop and buy. Get proven layout types, real store examples, and expert tips on flow, fixtures, and design that boost sales.",
     "title": "Store Layout: Ideas, Types & Design Tips (2026) - Shopify"
+   },
+   "shopify.com/blog/transaction-costs": {
+    "baseline": false,
+    "date_hint": "16 hours ago",
+    "first_seen": "2026-11-04T13:23:24Z",
+    "link": "https://www.shopify.com/blog/transaction-costs",
+    "page": 1,
+    "summary": "A transaction cost is any expense or resource used to research, manage, or support an exchange of goods and services. While everyday retail consumers might ...",
+    "title": "What Are Transaction Costs? Types of Transaction Costs"
    },
    "shopify.com/blog/twitch-affiliate": {
     "baseline": false,

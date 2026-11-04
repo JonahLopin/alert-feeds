@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-04T12:28:11Z</updated>
+  <updated>2026-11-04T13:23:24Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/transaction-costs</id>
+    <title>What Are Transaction Costs? Types of Transaction Costs</title>
+    <link href="https://www.shopify.com/blog/transaction-costs" />
+    <published>2026-11-04T13:23:24Z</published>
+    <updated>2026-11-04T13:23:24Z</updated>
+    <summary>A transaction cost is any expense or resource used to research, manage, or support an exchange of goods and services. While everyday retail consumers might ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/what-is-dropshipping</id>
     <title>What Is Dropshipping and How Does It Work? (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T11:43:25Z</published>
     <updated>2026-10-31T11:43:25Z</updated>
     <summary>Learn how an AI recommendation system works and which type fits your store. Compare built-in, app, and custom options, then start with one placement.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEScAHrOzAVUpIZAdwumvDuajxjlbzjwrd6s8tNZz-SmWhZItroP3mndu87D7EEkPvd5IEphPPuPvUX57K86eDzAPi995ZzpPkDd_iuVFjVbOKmd5Xn9gnFw1KEQed6lgpooRRjWvdbsiWAPp51opHV-2I</id>
-    <title>Instagram Story Features Explained: How to Use Them</title>
-    <link href="https://www.google.com/goto?url=CAEScAHrOzAVUpIZAdwumvDuajxjlbzjwrd6s8tNZz-SmWhZItroP3mndu87D7EEkPvd5IEphPPuPvUX57K86eDzAPi995ZzpPkDd_iuVFjVbOKmd5Xn9gnFw1KEQed6lgpooRRjWvdbsiWAPp51opHV-2I" />
-    <published>2026-10-31T11:43:25Z</published>
-    <updated>2026-10-31T11:43:25Z</updated>
-    <summary>Instagram Story features, like interactive polls and sharing capabilities, can make your content more engaging for your target audience.</summary>
   </entry>
 </feed>
