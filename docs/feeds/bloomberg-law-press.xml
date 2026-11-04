@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-04T00:42:31Z</updated>
+  <updated>2026-11-04T03:25:26Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:9473827312218762956</id>
+    <title>Bitcoin Slips as Democratic Sweep Bets Threaten Crypto Agenda - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/bitcoin-slips-as-democratic-sweep-bets-threaten-crypto-agenda" />
+    <published>2026-11-04T03:25:26Z</published>
+    <updated>2026-11-04T03:25:26Z</updated>
+    <summary>Bitcoin edged lower as bets on a possible Democratic sweep of Congress gained traction, adding political uncertainty to a market already ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:7888557379865060515</id>
     <title>US Senator, State AGs Support Supreme Court Review of YPF Case - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-10-29T19:23:46Z</published>
     <updated>2026-10-29T19:23:46Z</updated>
     <summary>A bipartisan duo in the Senate is seeking answers from leading prediction market companies on their plans to prevent insider trading on the ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:13759573600208911659</id>
-    <title>SEC Alleges $200 Million Crypto-Based Commodities Ponzi Scheme - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/sec-alleges-200-million-crypto-based-commodities-ponzi-scheme" />
-    <published>2026-10-29T19:23:46Z</published>
-    <updated>2026-10-29T19:23:46Z</updated>
-    <summary>The Securities and Exchange Commission sued the operators of a cryptocurrency investment platform called DEBT Box, alleging they raised more than ...</summary>
   </entry>
 </feed>
