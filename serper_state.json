@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29509,
+  "credits_used": 29557,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T08:43:12Z",
+  "last_run": "2026-11-04T10:24:42Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 591
+  "runs": 592
  },
  "feeds": {
   "adp-help": {
@@ -8006,6 +8006,24 @@
     "page": 1,
     "summary": "Two robotics companies were hit with separate lawsuits alleging their camera-equipped delivery robots scanned and stored consumers' facial and hand geometry",
     "title": "Delivery Robot Makers Hit With Biometric Suits Over Face ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/democrats-prep-doj-subpoenas-oversight-tools-with-majority-win": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-04T10:24:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/democrats-prep-doj-subpoenas-oversight-tools-with-majority-win",
+    "page": 1,
+    "summary": "Democrats' newly won majorities in Congress tee up clashes between lawmakers eager to investigate the Justice Department and Trump administration officials ...",
+    "title": "Democrats Prep DOJ Subpoenas, Oversight Tools With ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/democrats-target-dhs-immigration-spending-private-contractors": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-04T10:24:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/democrats-target-dhs-immigration-spending-private-contractors",
+    "page": 1,
+    "summary": "Democrats in Congress are moving aggressively to prepare for investigations, hearings, and subpoenas looking into the Trump administration's immigration",
+    "title": "Democrats Target DHS Immigration Spending, Private ..."
    },
    "news.bloomberglaw.com/business-and-practice/democrats-vow-to-probe-kirklands-trump-deal-after-election": {
     "baseline": false,
@@ -29824,6 +29842,15 @@
     "summary": "Disable Demo Mode: If you're brought to a screen that says \u201cWelcome to Shift4 Dine!\u201d swipe left until you reach the \u201cTake a look for yourself!",
     "title": "Disable Demo Mode on Shift4 Duo"
    },
+   "shift4.zendesk.com/hc/en-us/articles/38745992918547-Merchant-Comprehensive-Troubleshooting-Guide-for-Shift4-Dine-and-Peripherals": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-04T10:24:42Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/38745992918547-Merchant-Comprehensive-Troubleshooting-Guide-for-Shift4-Dine-and-Peripherals",
+    "page": 1,
+    "summary": "Description: Learn the troubleshooting process of the Shift4 Dine Ecosystem devices when all previous troubleshooting steps have been completed, ...",
+    "title": "Merchant Comprehensive Troubleshooting Guide for ..."
+   },
    "shift4.zendesk.com/hc/en-us/articles/40680710360979-Settlement-Detail-Report": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -29876,6 +29903,15 @@
     "page": 1,
     "summary": "Learn how to create and customize taxes in Location Management, including options for inclusive taxes, printing preferences, revenue classes, and order type ...",
     "title": "Create and Manage Taxes in Location Management"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/43788417029907-Settlement-Report-Reconciliation-Guide-United-States": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-04T10:24:42Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/43788417029907-Settlement-Report-Reconciliation-Guide-United-States",
+    "page": 1,
+    "summary": "This guide explains how to use the report to reconcile your payout and track your sales from capture to payout.",
+    "title": "Settlement Report Reconciliation Guide (United States)"
    },
    "shift4.zendesk.com/hc/en-us/articles/4402058635667-Shift4-One-FAQs": {
     "baseline": false,
@@ -53199,6 +53235,15 @@
     "page": 1,
     "summary": "Nipple-sparing techniques can provide better outcomes for women undergoing breast reconstruction after mastectomy.",
     "title": "With 'batwing' mastopexy, more women can undergo ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-2026-nine-month-trading-update": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T10:24:42Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-2026-nine-month-trading-update",
+    "page": 1,
+    "summary": "Wolters Kluwer, a global leader in professional information solutions, software and services, today releases its 2026 nine-month trading update.",
+    "title": "Wolters Kluwer 2026 Nine-Month Trading Update"
    },
    "wolterskluwer.com/en/news/wolters-kluwer-accelerates-the-development-of-the-libra-legal-ai-workspace-in-italy": {
     "baseline": false,
