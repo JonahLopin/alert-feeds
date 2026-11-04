@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:adp-press</id>
   <title>ADP press (site:mediacenter.adp.com) via Serper</title>
-  <updated>2026-11-04T15:23:47Z</updated>
+  <updated>2026-11-04T18:25:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/adp-press.xml" />
+  <entry>
+    <id>https://mediacenter.adp.com/adp-announces-2027-hcm-distinction-award-finalists</id>
+    <title>ADP Announces 2027 HCM Distinction Award Finalists</title>
+    <link href="https://mediacenter.adp.com/adp-announces-2027-hcm-distinction-award-finalists" />
+    <published>2026-11-04T18:25:04Z</published>
+    <updated>2026-11-04T18:25:04Z</updated>
+    <summary>ADP, a global leader in HR and payroll solutions, today announced the finalists for the 2027 Human Capital Management (HCM) Distinction Awards.</summary>
+  </entry>
   <entry>
     <id>https://mediacenter.adp.com/2026-11-04-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-86,000-Jobs-in-October</id>
     <title>ADP National Employment Report: Private-Sector ...</title>

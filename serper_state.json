@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29905,
+  "credits_used": 29955,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T17:23:02Z",
+  "last_run": "2026-11-04T18:25:04Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 599
+  "runs": 600
  },
  "feeds": {
   "adp-help": {
@@ -536,6 +536,15 @@
     "page": 1,
     "summary": "Campfire is the AI-native ERP for modern finance teams, combining core accounting, revenue automation, close management, and AI-powered insights in a single ...",
     "title": "ADP Media Center - News Briefs"
+   },
+   "mediacenter.adp.com/adp-announces-2027-hcm-distinction-award-finalists": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T18:25:04Z",
+    "link": "https://mediacenter.adp.com/adp-announces-2027-hcm-distinction-award-finalists",
+    "page": 1,
+    "summary": "ADP, a global leader in HR and payroll solutions, today announced the finalists for the 2027 Human Capital Management (HCM) Distinction Awards.",
+    "title": "ADP Announces 2027 HCM Distinction Award Finalists"
    },
    "mediacenter.adp.com/adp-launches-new-ai-powered-tools-to-accelerate-intelligent-workforce-automation": {
     "baseline": false,
@@ -7190,6 +7199,15 @@
     "summary": "Bankruptcy practices led the way for much of 2020. Now that they\u2019re mostly idled, they provide a good framework for \u2026",
     "title": "Bankruptcy Practice Crash Prompts Tricky Questions for Law Firms"
    },
+   "news.bloomberglaw.com/business-and-practice/barnes-thornburg-adds-ballard-spahr-real-estate-finance-trio": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T18:25:04Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/barnes-thornburg-adds-ballard-spahr-real-estate-finance-trio",
+    "page": 2,
+    "summary": "Almand's practice focuses on lender-side commercial loan servicing and asset management for market-rate and affordable multifamily properties. His clients ...",
+    "title": "Barnes & Thornburg Adds Ballard Spahr Real Estate ..."
+   },
    "news.bloomberglaw.com/business-and-practice/barnes-thornburg-onboards-labor-relations-lawyer-in-nashville": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -8070,6 +8088,15 @@
     "summary": "Two robotics companies were hit with separate lawsuits alleging their camera-equipped delivery robots scanned and stored consumers' facial and hand geometry",
     "title": "Delivery Robot Makers Hit With Biometric Suits Over Face ..."
    },
+   "news.bloomberglaw.com/business-and-practice/democrats-gain-power-to-probe-trump-big-law-deals-in-election": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-04T18:25:04Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/democrats-gain-power-to-probe-trump-big-law-deals-in-election",
+    "page": 3,
+    "summary": "Rep. Jamie Raskin (D-Md.) will now have more tools to investigate law firm deals with the Trump White House after Democrats won control of the House.",
+    "title": "Democrats Gain Power to Probe Trump Big Law Deals in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/democrats-prep-doj-subpoenas-oversight-tools-with-majority-win": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -8295,6 +8322,15 @@
     "summary": "The Trump administration's list of suspected noncitizen voters in California contains a \u201chigh error rate,\u201d an attorney for the US Department of Justice ...",
     "title": "DOJ Lawyer Admits to 'High Error Rate' of California Voter ..."
    },
+   "news.bloomberglaw.com/business-and-practice/doj-must-produce-internal-email-memos-in-smartmatic-prosecution": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T18:25:04Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-must-produce-internal-email-memos-in-smartmatic-prosecution",
+    "page": 2,
+    "summary": "The Justice Department must provide a court internal correspondence related to its decision to charge Smartmatic with foreign bribery, as a federal judge in ...",
+    "title": "DOJ Must Produce Internal Email, Memos in Smartmatic ..."
+   },
    "news.bloomberglaw.com/business-and-practice/doj-official-requests-new-judge-in-golf-course-case-after-rebuke": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -8464,6 +8500,15 @@
     "page": 2,
     "summary": "The Oct. 30 ruling allows a Clean Air Act lawsuit over an unpermitted gas plant xAI built in Southaven, Miss., to power its Grok artificial intelligence chatbot ...",
     "title": "Elon Musk's xAI Loses Bid to Escape NAACP Suit Over ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/email-print?type=newsletter&id=000001a0-fda1-d0d5-a5ad-fdab377a0001": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T18:25:04Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/email-print?type=newsletter&id=000001a0-fda1-d0d5-a5ad-fdab377a0001",
+    "page": 3,
+    "summary": "Log in to print your Business & Practice Newsletter. Sign Up For Newsletters. Go to Bloomberg Law News \u00b7 X Icon \u00b7 LinkedIn Icon \u00b7 Facebook Icon.",
+    "title": "Printing Business & Practice Newsletter"
    },
    "news.bloomberglaw.com/business-and-practice/enroll-confidently-settles-data-breach-lawsuit-for-990-000": {
     "baseline": true,
@@ -10261,6 +10306,15 @@
     "summary": "Andrew Thomas joined Milbank LLP as a partner in its litigation and arbitration group in New York, the firm announced Monday.",
     "title": "Milbank Nabs SDNY Securities Task Force Chief Thomas ..."
    },
+   "news.bloomberglaw.com/business-and-practice/minnesota-justices-say-felony-tax-charge-needs-intent-to-deceive": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-04T18:25:04Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/minnesota-justices-say-felony-tax-charge-needs-intent-to-deceive",
+    "page": 2,
+    "summary": "Minnesota's felony tax evasion law requires the state to show the person willfully attempted to deceive the government when they failed to file a return or ...",
+    "title": "Minnesota Justices Say Felony Tax Charge Needs Intent to ..."
+   },
    "news.bloomberglaw.com/business-and-practice/moderna-sheds-investor-lawsuit-over-rsv-vaccine-efficacy-figure": {
     "baseline": true,
     "date_hint": "20 hours ago",
@@ -10512,6 +10566,15 @@
     "page": 1,
     "summary": "Timothy Pico and Brett Markson joined Ogletree Deakins as shareholders in its employment litigation practice in Los Angeles, the firm announced Tuesday.",
     "title": "Ogletree Deakins Lands Two California Employment ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/ogletree-deakins-nabs-jackson-lewis-prodanovich-in-san-diego": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T18:25:04Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ogletree-deakins-nabs-jackson-lewis-prodanovich-in-san-diego",
+    "page": 2,
+    "summary": "Lara Prodanovich joined Ogletree Deakins as a shareholder in its San Diego office, the firm announced Nov. 2.",
+    "title": "Ogletree Deakins Nabs Jackson Lewis' Prodanovich in ..."
    },
    "news.bloomberglaw.com/business-and-practice/ogletree-deakins-recruits-amazon-employment-lawyer-in-seattle": {
     "baseline": false,
