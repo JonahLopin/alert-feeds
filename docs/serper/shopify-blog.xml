@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-04T06:43:50Z</updated>
+  <updated>2026-11-04T07:43:01Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/lean-canvas-example</id>
+    <title>How To Use a Lean Canvas Template (2026)</title>
+    <link href="https://www.shopify.com/blog/lean-canvas-example" />
+    <published>2026-11-04T07:43:01Z</published>
+    <updated>2026-11-04T07:43:01Z</updated>
+    <summary>A Lean Canvas is a one-page framework for mapping the most important assumptions behind a business idea. clarify the problem, target customers, propose ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/ecommerce-laws</id>
     <title>Ecommerce Laws: A Guide for Online Stores (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T11:43:25Z</published>
     <updated>2026-10-31T11:43:25Z</updated>
     <summary>Bring more of your business into view with app activity, annotations, custom product data, and interactive sales maps—all within Shopify Analytics.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESawHrOzAVFo6kb5OlqlkpMygh7bT0TNlHA12kmYaA2ROXCDivSxRgVp04C0IpHc8RjpQ_943l7pgh5huZuOhjxX-sTPIV5Xm1H8MtKTfvo8RF__JTp8-wUwGJfqDK2zpCISSB8UHHYndazxCm</id>
-    <title>What Is Digital Advertising? Digital Ad Types and Tips (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESawHrOzAVFo6kb5OlqlkpMygh7bT0TNlHA12kmYaA2ROXCDivSxRgVp04C0IpHc8RjpQ_943l7pgh5huZuOhjxX-sTPIV5Xm1H8MtKTfvo8RF__JTp8-wUwGJfqDK2zpCISSB8UHHYndazxCm" />
-    <published>2026-10-31T11:43:25Z</published>
-    <updated>2026-10-31T11:43:25Z</updated>
-    <summary>Learn how digital advertising works, and how it helps brands fine-tune their marketing to reach niche audiences who are most likely to convert.</summary>
   </entry>
 </feed>

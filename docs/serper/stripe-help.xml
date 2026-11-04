@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-04T06:43:50Z</updated>
+  <updated>2026-11-04T07:43:01Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/payments/gopay/set-up-future-payments?locale=en-GB</id>
+    <title>Set up future GoPay payments</title>
+    <link href="https://docs.stripe.com/payments/gopay/set-up-future-payments?locale=en-GB" />
+    <published>2026-11-04T07:43:01Z</published>
+    <updated>2026-11-04T07:43:01Z</updated>
+    <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/tokens/create_cvc_update</id>
     <title>Create a CVC update token v1</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T15:42:45Z</published>
     <updated>2026-10-31T15:42:45Z</updated>
     <summary>Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbQHrOzAV53oqLpa973qPBvOc2DrmPpwC8rALe5eDOxn2lnagk7KFD2anjTYHHs1JoWCdj_I_edVlVm5kdoygpTxZ1_zO_0y3lzERrymamQvJMfNu_rG6Wc7PzZGh2f9hddjWyvQPKNrqcPT-Sl0&amp;gsessionid=DfGciI9PuDcOAazbSoxf_X2XwiFiNWYUBta-cYCopy47cmMyzkMUAQ</id>
-    <title>The PaymentIntent object | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESbQHrOzAV53oqLpa973qPBvOc2DrmPpwC8rALe5eDOxn2lnagk7KFD2anjTYHHs1JoWCdj_I_edVlVm5kdoygpTxZ1_zO_0y3lzERrymamQvJMfNu_rG6Wc7PzZGh2f9hddjWyvQPKNrqcPT-Sl0&amp;gsessionid=DfGciI9PuDcOAazbSoxf_X2XwiFiNWYUBta-cYCopy47cmMyzkMUAQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>This field indicates whether this payment method can be shown again to its customer in a checkout flow. Stripe products such as Checkout and Elements use this ...</summary>
   </entry>
 </feed>

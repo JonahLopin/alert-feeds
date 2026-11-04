@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:doordash-blog</id>
   <title>DoorDash blog (site:merchants.doordash.com/en-us/blog/) via Serper</title>
-  <updated>2026-11-04T06:43:50Z</updated>
+  <updated>2026-11-04T07:43:01Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/doordash-blog.xml" />
+  <entry>
+    <id>https://merchants.doordash.com/en-us/blog/restaurant-financing</id>
+    <title>Restaurant Financing Guide: Loans &amp; Funding Options 2026</title>
+    <link href="https://merchants.doordash.com/en-us/blog/restaurant-financing" />
+    <published>2026-11-04T07:43:01Z</published>
+    <updated>2026-11-04T07:43:01Z</updated>
+    <summary>Compare restaurant financing options: SBA loans, equipment financing, and lines of credit. Learn how to qualify, apply, and choose the right funding.</summary>
+  </entry>
   <entry>
     <id>https://merchants.doordash.com/en-us/blog/how-to-pitch-restaurant-investors</id>
     <title>How to Pitch Your Restaurant to Investors</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T02:42:41Z</published>
     <updated>2026-10-31T02:42:41Z</updated>
     <summary>This guide gives you 60+ restaurant feedback questions, sorted by category. You'll find questions on your overall experience, food quality, service, ambiance, ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESfAHrOzAVE81h1dTWbZhQLozsKceHIyzEf8zPwmWurndOVxTiFbwMs916FIQlvSHbRGctWbW6ohK9T79Jq9QwX_qelWZXkKjTJHtsUne7SGzC2MwDi6zpQsiRaoNYNOqWgWO_o6KVeBTfvZhfJrkm8P92T7tbkCkceWjNB9Q</id>
-    <title>The Anatomy of a High-Converting Restaurant CRM ...</title>
-    <link href="https://www.google.com/goto?url=CAESfAHrOzAVE81h1dTWbZhQLozsKceHIyzEf8zPwmWurndOVxTiFbwMs916FIQlvSHbRGctWbW6ohK9T79Jq9QwX_qelWZXkKjTJHtsUne7SGzC2MwDi6zpQsiRaoNYNOqWgWO_o6KVeBTfvZhfJrkm8P92T7tbkCkceWjNB9Q" />
-    <published>2026-10-31T02:42:41Z</published>
-    <updated>2026-10-31T02:42:41Z</updated>
-    <summary>A restaurant CRM (Customer Relationship Management) campaign uses customer data to send targeted messages through email, SMS, or push notifications.</summary>
   </entry>
 </feed>

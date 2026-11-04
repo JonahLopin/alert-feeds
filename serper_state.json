@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29411,
+  "credits_used": 29460,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T06:43:50Z",
+  "last_run": "2026-11-04T07:43:01Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 589
+  "runs": 590
  },
  "feeds": {
   "adp-help": {
@@ -16896,6 +16896,15 @@
     "page": 1,
     "summary": "Struggling to make sense of your restaurant's numbers? Learn how to read your financials, control costs, and build a plan that protects your margins.",
     "title": "How to Manage Your Restaurant Finances: A Guide for ..."
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-financing": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-04T07:43:01Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-financing",
+    "page": 1,
+    "summary": "Compare restaurant financing options: SBA loans, equipment financing, and lines of credit. Learn how to qualify, apply, and choose the right funding.",
+    "title": "Restaurant Financing Guide: Loans & Funding Options 2026"
    },
    "merchants.doordash.com/en-us/blog/restaurant-loyalty-programs": {
     "baseline": false,
@@ -36801,6 +36810,15 @@
     "summary": "Fraud prevention and dispute management, built into Shopify\u2014and much of it is already working on your store.",
     "title": "Introducing Shopify Protect: block fraud, not customers (2026)"
    },
+   "shopify.com/blog/lean-canvas-example": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-11-04T07:43:01Z",
+    "link": "https://www.shopify.com/blog/lean-canvas-example",
+    "page": 1,
+    "summary": "A Lean Canvas is a one-page framework for mapping the most important assumptions behind a business idea. clarify the problem, target customers, propose ...",
+    "title": "How To Use a Lean Canvas Template (2026)"
+   },
    "shopify.com/blog/lgbtq-business-grants": {
     "baseline": false,
     "date_hint": "18 hours ago",
@@ -42462,6 +42480,15 @@
     "date_hint": "1 hour ago",
     "first_seen": "2026-11-02T15:43:01Z",
     "link": "https://docs.stripe.com/payments/gopay/set-up-future-payments",
+    "page": 2,
+    "summary": "GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.",
+    "title": "Set up future GoPay payments"
+   },
+   "docs.stripe.com/payments/gopay/set-up-future-payments?locale=en-GB": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-04T07:43:01Z",
+    "link": "https://docs.stripe.com/payments/gopay/set-up-future-payments?locale=en-GB",
     "page": 2,
     "summary": "GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.",
     "title": "Set up future GoPay payments"
