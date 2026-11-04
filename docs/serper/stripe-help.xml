@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-04T08:43:12Z</updated>
+  <updated>2026-11-04T11:23:57Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/atlas/agents</id>
+    <title>Prepare an Atlas application with an agent or CLI</title>
+    <link href="https://docs.stripe.com/atlas/agents" />
+    <published>2026-11-04T11:23:57Z</published>
+    <updated>2026-11-04T11:23:57Z</updated>
+    <summary>Use an AI assistant or the Stripe CLI to prepare a Stripe Atlas application for a Delaware C corporation or limited liability company (LLC).</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payments/gopay/set-up-future-payments?locale=de-DE</id>
     <title>Zukünftige GoPay-Zahlungen einrichten</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T15:42:45Z</published>
     <updated>2026-10-31T15:42:45Z</updated>
     <summary>The URL to which Stripe should send customers when payment or setup is complete. This parameter is not allowed if ui_mode is embedded_page or elements . If you' ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbwHrOzAVs-lqQo2ZXNgoEJoxuDfmgA0jxJl81TRfGaHxnMQqfRv_DKm1q_uuyzuIr9H0WoXoBS6VMrWDxoiNzVwu0Mh17PMgZMc0l8Lih0g5PgzJejWRjnkNA-MawQKRZQw3QAM4XXTPrzRtVfhBeQ&amp;gsessionid=m4aCgSJ87MZ6Co--Nlz_h9gct3xRlk7lGMCr8adEV58VQePYY539CQ</id>
-    <title>The Checkout Session object | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESbwHrOzAVs-lqQo2ZXNgoEJoxuDfmgA0jxJl81TRfGaHxnMQqfRv_DKm1q_uuyzuIr9H0WoXoBS6VMrWDxoiNzVwu0Mh17PMgZMc0l8Lih0g5PgzJejWRjnkNA-MawQKRZQw3QAM4XXTPrzRtVfhBeQ&amp;gsessionid=m4aCgSJ87MZ6Co--Nlz_h9gct3xRlk7lGMCr8adEV58VQePYY539CQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>A unique string to reference the Checkout Session. This can be a customer ID, a cart ID, or similar, and can be used to reconcile the Session with your internal ...</summary>
   </entry>
 </feed>
