@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-04T11:23:57Z</updated>
+  <updated>2026-11-04T12:28:11Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/what-is-dropshipping</id>
+    <title>What Is Dropshipping and How Does It Work? (2026)</title>
+    <link href="https://www.shopify.com/blog/what-is-dropshipping" />
+    <published>2026-11-04T12:28:11Z</published>
+    <updated>2026-11-04T12:28:11Z</updated>
+    <summary>Dropshipping is an ecommerce business model where online stores partner with reliable suppliers who ship the product to the customer. Dropshipping is an ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/ruggable-customer-feedback-growth-strategy</id>
     <title>Ruggable's Secret Weapon for Growth? The Internet's ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T11:43:25Z</published>
     <updated>2026-10-31T11:43:25Z</updated>
     <summary>Instagram Story features, like interactive polls and sharing capabilities, can make your content more engaging for your target audience.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbgHrOzAVdCGa9bNXq02aSx2kxTWD1PPC_lBsyc6sTYg735TWRG1aAZDbwn-J25wYCWLPz2JH4FgeMKC3xyzUlNqBKNNMtFqCAJ46R2yQJ4k-F-hnlJ1Her9oVkDtZD_4f9oepcBTjP9WGnJhhvpE</id>
-    <title>Shopify Retail Roundup (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESbgHrOzAVdCGa9bNXq02aSx2kxTWD1PPC_lBsyc6sTYg735TWRG1aAZDbwn-J25wYCWLPz2JH4FgeMKC3xyzUlNqBKNNMtFqCAJ46R2yQJ4k-F-hnlJ1Her9oVkDtZD_4f9oepcBTjP9WGnJhhvpE" />
-    <published>2026-10-31T11:43:25Z</published>
-    <updated>2026-10-31T11:43:25Z</updated>
-    <summary>Shopify is always evolving, with new features and updates rolling out regularly to help retailers stay ahead—but keeping up shouldn't be a chore.</summary>
   </entry>
 </feed>

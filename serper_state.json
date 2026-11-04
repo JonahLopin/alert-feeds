@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29608,
+  "credits_used": 29657,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T11:23:57Z",
+  "last_run": "2026-11-04T12:28:11Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 593
+  "runs": 594
  },
  "feeds": {
   "adp-help": {
@@ -9048,6 +9048,15 @@
     "summary": "HealthEquity Inc. members dropped their proposed class action alleging the health-benefits manager failed to protect the personal information of more than 4 ...",
     "title": "HealthEquity Members Dismiss Suit Over Massive 2024 ..."
    },
+   "news.bloomberglaw.com/business-and-practice/hedge-funds-flag-growing-private-credit-risks-amid-rising-rates": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-04T12:28:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/hedge-funds-flag-growing-private-credit-risks-amid-rising-rates",
+    "page": 2,
+    "summary": "Some of the world's biggest hedge funds warned that risks are growing in private credit, adding to debate about how rising interest rates will impact the ...",
+    "title": "Hedge Funds Flag Growing Private Credit Risks Amid ..."
+   },
    "news.bloomberglaw.com/business-and-practice/high-court-skips-case-on-non-signatories-compelling-arbitration": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -9092,6 +9101,15 @@
     "page": 1,
     "summary": "Julie Cress joined Hogan Lovells Cadwalader as a partner in its environment & natural resources practice in San Francisco, the firm announced Wednesday.",
     "title": "Hogan Lovells Hires Baker Botts California Environmental ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/hong-kong-passes-crypto-asset-reporting-crs-amendment-bill": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T12:28:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/hong-kong-passes-crypto-asset-reporting-crs-amendment-bill",
+    "page": 1,
+    "summary": "Hong Kong's government welcomes passage of the amended bill for crypto-asset reporting framework and common reporting standard by the Legislative Council,",
+    "title": "Hong Kong Passes Crypto-Asset Reporting, CRS Amendment ..."
    },
    "news.bloomberglaw.com/business-and-practice/hospital-sisters-health-reaches-deal-in-genetic-privacy-suit": {
     "baseline": false,
@@ -29767,6 +29785,24 @@
     "summary": "New SAP research reveals UK businesses are spending \u00a320.6 million on AI in 2026, with returns expected to rise to 39% by 2028.",
     "title": "Average UK Business Spending on AI in 2026 Insights"
    },
+   "news.sap.com/uk/2026/11/somerset-council-modernises-hr-and-payroll-with-sap-successfactors-and-epi-use-in-13-month-transformation": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T12:28:11Z",
+    "link": "https://news.sap.com/uk/2026/11/somerset-council-modernises-hr-and-payroll-with-sap-successfactors-and-epi-use-in-13-month-transformation/",
+    "page": 2,
+    "summary": "The SAP SuccessFactors implementation is a key milestone in that programme, providing a modern workforce platform that will help improve workforce management, ...",
+    "title": "Somerset Council Modernises HR and Payroll with ..."
+   },
+   "news.sap.com/uk/2026/11/somerset-council-modernises-hr-and-payroll-with-sap-successfactors-and-epi-use-in-13-month-transformation?amp=1": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T12:28:11Z",
+    "link": "https://news.sap.com/uk/2026/11/somerset-council-modernises-hr-and-payroll-with-sap-successfactors-and-epi-use-in-13-month-transformation/?amp=1",
+    "page": 2,
+    "summary": "The SAP SuccessFactors implementation is a key milestone in that programme, providing a modern workforce platform that will help improve workforce management, ...",
+    "title": "Somerset Council Modernises HR and Payroll with ..."
+   },
    "news.sap.com/uk/press-room": {
     "baseline": true,
     "date_hint": "21 hours ago",
@@ -37743,6 +37779,15 @@
     "page": 2,
     "summary": "What is a website title? It's the HTML title tag that names a page in browser tabs and search results. Learn how to write one that earns clicks.",
     "title": "What Is a Website Title: Definition and Examples (2026)"
+   },
+   "shopify.com/blog/what-is-dropshipping": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-04T12:28:11Z",
+    "link": "https://www.shopify.com/blog/what-is-dropshipping",
+    "page": 3,
+    "summary": "Dropshipping is an ecommerce business model where online stores partner with reliable suppliers who ship the product to the customer. Dropshipping is an ...",
+    "title": "What Is Dropshipping and How Does It Work? (2026)"
    },
    "shopify.com/blog/what-is-giclee-print": {
     "baseline": false,
