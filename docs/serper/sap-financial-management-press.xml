@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-04T00:41:16Z</updated>
+  <updated>2026-11-04T03:43:33Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/topics/business-network/</id>
+    <title>Business network Archives</title>
+    <link href="https://news.sap.com/topics/business-network/" />
+    <published>2026-11-04T03:43:33Z</published>
+    <updated>2026-11-04T03:43:33Z</updated>
+    <summary>Business Networks Harness Agentic AI to Bolster Collaboration and Operational Resilience Among Trading Partners · Feature · AI Release Highlights Q3 2026.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/topics/spend-management/</id>
     <title>Spend management Archives</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T04:43:04Z</published>
     <updated>2026-10-31T04:43:04Z</updated>
     <summary>Learn about the offerings SAP highlighted at SAP TechEd to be able to manage AI governance and enforce governance policies at runtime.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESegHrOzAVkGhwFyRq8ZsZmp8YbySimmJh4Eire-efNgTd0LpnLVAMsAE12uDYOdn2TNtfDU55SDsU5-8kkPYF7wOPSSuoGhb-fOuLXXq3x804SJW07csBfjyyAAYgQyvsd9F6PhLyWGFn_3Ho3yCgv8vYxXbkHAKBCqA7</id>
-    <title>Transformation management Archives</title>
-    <link href="https://www.google.com/goto?url=CAESegHrOzAVkGhwFyRq8ZsZmp8YbySimmJh4Eire-efNgTd0LpnLVAMsAE12uDYOdn2TNtfDU55SDsU5-8kkPYF7wOPSSuoGhb-fOuLXXq3x804SJW07csBfjyyAAYgQyvsd9F6PhLyWGFn_3Ho3yCgv8vYxXbkHAKBCqA7" />
-    <published>2026-10-31T04:43:04Z</published>
-    <updated>2026-10-31T04:43:04Z</updated>
-    <summary>SAP provides the solutions necessary to govern, control, and innovate now and into the future. +1-800-872-1727</summary>
   </entry>
 </feed>

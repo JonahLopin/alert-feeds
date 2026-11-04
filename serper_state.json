@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29199,
+  "credits_used": 29252,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T02:42:30Z",
+  "last_run": "2026-11-04T03:43:33Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 585
+  "runs": 586
  },
  "feeds": {
   "adp-help": {
@@ -29364,6 +29364,15 @@
     "summary": "AI is creating new possibilities for how commercial work gets done. +1-800-872-1727",
     "title": "Artificial Intelligence Archives"
    },
+   "news.sap.com/topics/business-network": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-04T03:43:33Z",
+    "link": "https://news.sap.com/topics/business-network/",
+    "page": 1,
+    "summary": "Business Networks Harness Agentic AI to Bolster Collaboration and Operational Resilience Among Trading Partners \u00b7 Feature \u00b7 AI Release Highlights Q3 2026.",
+    "title": "Business network Archives"
+   },
    "news.sap.com/topics/business-transformation-management": {
     "baseline": false,
     "date_hint": "17 hours ago",
@@ -41420,6 +41429,15 @@
     "summary": "By default, you can see the 10 most recent external accounts stored on a connected account directly on the object. You can also retrieve details about a ...",
     "title": "Retrieve a bank account | Stripe API Reference"
    },
+   "docs.stripe.com/api/files/retrieve": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-04T03:43:33Z",
+    "link": "https://docs.stripe.com/api/files/retrieve",
+    "page": 4,
+    "summary": "Chat with Stripe developers on Discord. Check out our changelog. Questions? Contact Sales. LLM? Read llms.txt. Powered by Markdoc.",
+    "title": "Retrieve a file | Stripe API Reference"
+   },
    "docs.stripe.com/api/financial_connections/ownership": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -41688,6 +41706,15 @@
     "link": "https://docs.stripe.com/api/tax/location",
     "summary": "Tax locations represent venues for services, tickets, or other product types. Need help? Contact Support. Chat with Stripe developers on Discord.",
     "title": "Tax Locations | Stripe API Reference"
+   },
+   "docs.stripe.com/api/tax_codes/retrieve": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-04T03:43:33Z",
+    "link": "https://docs.stripe.com/api/tax_codes/retrieve",
+    "page": 4,
+    "summary": "Retrieves the details of an existing tax code. Supply the unique tax code ID and Stripe will return the corresponding tax code information. Parameters. idstring ...",
+    "title": "Retrieve a tax code | Stripe API Reference"
    },
    "docs.stripe.com/api/tax_rates/create": {
     "baseline": false,
@@ -42241,6 +42268,15 @@
     "summary": "When you create a payment link, you can customize the look and feel of a Checkout Session for your user. You can also choose what type of customer ...",
     "title": "Customize checkout for Payment Links"
    },
+   "docs.stripe.com/payment-links/customize?locale=fr-FR": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-04T03:43:33Z",
+    "link": "https://docs.stripe.com/payment-links/customize?locale=fr-FR",
+    "page": 2,
+    "summary": "Lorsque vous cr\u00e9ez un lien de paiement, vous pouvez personnaliser l'apparence d'une session de paiement pour vos utilisateurs. Vous pouvez \u00e9galement choisir ...",
+    "title": "Personnaliser le processus de paiement avec Payment Links"
+   },
    "docs.stripe.com/payments/accept-a-payment?payment-ui=elements&api-integration=paymentintents&locale=zh-CN": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -42285,6 +42321,15 @@
     "page": 1,
     "summary": "You can use the Stripe API to accept gift card payments and perform operations such as activation, balance inquiries, reloads, cash out, and voids.",
     "title": "Gift card payments"
+   },
+   "docs.stripe.com/payments/gift-cards/accept-a-payment": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-04T03:43:33Z",
+    "link": "https://docs.stripe.com/payments/gift-cards/accept-a-payment",
+    "page": 2,
+    "summary": "Learn how to accept gift card payments using the Payment Intents API.",
+    "title": "Accept a gift card payment"
    },
    "docs.stripe.com/payments/gopay": {
     "baseline": false,

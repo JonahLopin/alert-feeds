@@ -2,8 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-04T02:42:30Z</updated>
+  <updated>2026-11-04T03:43:33Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/payments/gift-cards/accept-a-payment</id>
+    <title>Accept a gift card payment</title>
+    <link href="https://docs.stripe.com/payments/gift-cards/accept-a-payment" />
+    <published>2026-11-04T03:43:33Z</published>
+    <updated>2026-11-04T03:43:33Z</updated>
+    <summary>Learn how to accept gift card payments using the Payment Intents API.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/payment-links/customize?locale=fr-FR</id>
+    <title>Personnaliser le processus de paiement avec Payment Links</title>
+    <link href="https://docs.stripe.com/payment-links/customize?locale=fr-FR" />
+    <published>2026-11-04T03:43:33Z</published>
+    <updated>2026-11-04T03:43:33Z</updated>
+    <summary>Lorsque vous créez un lien de paiement, vous pouvez personnaliser l'apparence d'une session de paiement pour vos utilisateurs. Vous pouvez également choisir ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/tax_codes/retrieve</id>
+    <title>Retrieve a tax code | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/tax_codes/retrieve" />
+    <published>2026-11-04T03:43:33Z</published>
+    <updated>2026-11-04T03:43:33Z</updated>
+    <summary>Retrieves the details of an existing tax code. Supply the unique tax code ID and Stripe will return the corresponding tax code information. Parameters. idstring ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/files/retrieve</id>
+    <title>Retrieve a file | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/files/retrieve" />
+    <published>2026-11-04T03:43:33Z</published>
+    <updated>2026-11-04T03:43:33Z</updated>
+    <summary>Chat with Stripe developers on Discord. Check out our changelog. Questions? Contact Sales. LLM? Read llms.txt. Powered by Markdoc.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/customer_bank_accounts/create</id>
     <title>Create a bank account | Stripe API Reference</title>
@@ -771,37 +803,5 @@
     <published>2026-10-31T15:42:45Z</published>
     <updated>2026-10-31T15:42:45Z</updated>
     <summary>A future timestamp on which the quote will be canceled if in open or draft status. Measured in seconds since the Unix epoch.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVIoj6T158HDQEGx3Y6ZcM_uJf9nSETFNQuo_0UkYBAfhbS0s78lv7iuy6PZkJx-tFVtX5xdlJxjKZnKiVVCVzFouv9fLTonn01Y9OE2BEK0f9JVLQn_2d8vzcNMs2-CYV3w&amp;gsessionid=GsdI28Df1IIcCpJyoBfxr2xXctwYZYz81_9fSxuii-uZZXveRo7nhQ</id>
-    <title>Update an invoice | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVIoj6T158HDQEGx3Y6ZcM_uJf9nSETFNQuo_0UkYBAfhbS0s78lv7iuy6PZkJx-tFVtX5xdlJxjKZnKiVVCVzFouv9fLTonn01Y9OE2BEK0f9JVLQn_2d8vzcNMs2-CYV3w&amp;gsessionid=GsdI28Df1IIcCpJyoBfxr2xXctwYZYz81_9fSxuii-uZZXveRo7nhQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>In many markets, regulations require invoices to be unique, sequential and / or gapless. You are responsible for ensuring this is true across all your different ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAV8wMdBiUTOwKDxPKJFDS0AdfdxCSTCRwhc58CsoM8JhLe6u33-sbQQvQgzNb43kGcVUUDxqRcTn8raViDAdApm84M7uwFoeJoQi0tg7EPaeAy85GWjsoOMX2yFZ1XXiupFw&amp;gsessionid=SUBRkQJZTFzOWd7z7NyjAn8gz4yKLM-H1f-L39PAcHhyqGJrIFpLpA</id>
-    <title>Payment Intents | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAV8wMdBiUTOwKDxPKJFDS0AdfdxCSTCRwhc58CsoM8JhLe6u33-sbQQvQgzNb43kGcVUUDxqRcTn8raViDAdApm84M7uwFoeJoQi0tg7EPaeAy85GWjsoOMX2yFZ1XXiupFw&amp;gsessionid=SUBRkQJZTFzOWd7z7NyjAn8gz4yKLM-H1f-L39PAcHhyqGJrIFpLpA" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>A PaymentIntent guides you through the process of collecting a payment from your customer. We recommend that you create exactly one PaymentIntent for each ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZAHrOzAVxWSyVGEzLUgAyeKzcfdAypjcX2J2wgFfyZ6SQ-yq2QU4_deAxpjNch5oJ6XAaVH3INe6QxIGVZVv0SLipObzDbplzNpwbRTuFTWFfM9I3vV9FHu0WBIwcGOP2MzYTB8&amp;gsessionid=GsdI28Df1IIcCpJyoBfxr2xXctwYZYz81_9fSxuii-uZZXveRo7nhQ</id>
-    <title>Send an invoice for manual payment v1</title>
-    <link href="https://www.google.com/goto?url=CAESZAHrOzAVxWSyVGEzLUgAyeKzcfdAypjcX2J2wgFfyZ6SQ-yq2QU4_deAxpjNch5oJ6XAaVH3INe6QxIGVZVv0SLipObzDbplzNpwbRTuFTWFfM9I3vV9FHu0WBIwcGOP2MzYTB8&amp;gsessionid=GsdI28Df1IIcCpJyoBfxr2xXctwYZYz81_9fSxuii-uZZXveRo7nhQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>Stripe will automatically send invoices to customers according to your subscriptions settings. However, if you'd like to manually send an invoice to your ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESXwHrOzAVYXTEWTa4yEyR8Oo-W2fTWv-7U9pLvTcjGBTGllZi06lWPHx_7eUe67kVuPn1VFnts5HbI6GeaPchYWC7Y4b8k2qXyfbP4Ji7ThovJghgBtvsmxxOTMu4-b_k&amp;gsessionid=SUBRkQJZTFzOWd7z7NyjAn8gz4yKLM-H1f-L39PAcHhyqGJrIFpLpA</id>
-    <title>Accounts | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESXwHrOzAVYXTEWTa4yEyR8Oo-W2fTWv-7U9pLvTcjGBTGllZi06lWPHx_7eUe67kVuPn1VFnts5HbI6GeaPchYWC7Y4b8k2qXyfbP4Ji7ThovJghgBtvsmxxOTMu4-b_k&amp;gsessionid=SUBRkQJZTFzOWd7z7NyjAn8gz4yKLM-H1f-L39PAcHhyqGJrIFpLpA" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>This is an object representing a Stripe account. You can retrieve it to see properties on the account like its current requirements or if the account is ...</summary>
   </entry>
 </feed>
