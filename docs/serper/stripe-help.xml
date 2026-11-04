@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-04T16:22:53Z</updated>
+  <updated>2026-11-04T22:23:42Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/connect/platform-express-dashboard-taxes-faqs?locale=fr-FR</id>
+    <title>Recommandations d'assistance et modèles de FAQ</title>
+    <link href="https://docs.stripe.com/connect/platform-express-dashboard-taxes-faqs?locale=fr-FR" />
+    <published>2026-11-04T22:23:42Z</published>
+    <updated>2026-11-04T22:23:42Z</updated>
+    <summary>Modèles de FAQ destinés aux plateformes utilisant Stripe Express pour la confirmation préalable à la déclaration et l'envoi électronique des formulaires fiscaux ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/issuing/stablecoin-cards/funding-strategies</id>
     <title>Choose a funding strategy for stablecoin-backed cards</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T15:42:45Z</published>
     <updated>2026-10-31T15:42:45Z</updated>
     <summary>The Tax integration configuration lets Stripe calculate tax automatically on subscription schedule phases that don't explicitly set automatic_tax or inherit ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESgwEB6zswFVPvuM-FUD59H4GP6uP9mW3yr0dvAeakOsbZx-LCzSZaJxdxxCLgQOl5Ji6oWxnjDLcTbLguAIelmoLuNUTuCuhdbtOjmrX1pJE0a3KeZpqChR7Dm5oVdGeIUsCbOavmcAXQVI1yzQzPo8-SEdr3nDg4Xouu3ItB5B4X-go1Gg&amp;gsessionid=GsdI28Df1IIcCpJyoBfxr2xXctwYZYz81_9fSxuii-uZZXveRo7nhQ</id>
-    <title>銀行振込によるサブスクリプションを設定する</title>
-    <link href="https://www.google.com/goto?url=CAESgwEB6zswFVPvuM-FUD59H4GP6uP9mW3yr0dvAeakOsbZx-LCzSZaJxdxxCLgQOl5Ji6oWxnjDLcTbLguAIelmoLuNUTuCuhdbtOjmrX1pJE0a3KeZpqChR7Dm5oVdGeIUsCbOavmcAXQVI1yzQzPo8-SEdr3nDg4Xouu3ItB5B4X-go1Gg&amp;gsessionid=GsdI28Df1IIcCpJyoBfxr2xXctwYZYz81_9fSxuii-uZZXveRo7nhQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>銀行振込を使用したサブスクリプションの作成と請求の方法をご紹介します。</summary>
   </entry>
 </feed>

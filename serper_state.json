@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 30111,
+  "credits_used": 30163,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T21:23:31Z",
+  "last_run": "2026-11-04T22:23:42Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 603
+  "runs": 604
  },
  "feeds": {
   "adp-help": {
@@ -7954,6 +7954,15 @@
     "summary": "As cryptocurrency platforms push into stock trading, a brokerage technology startup is preparing to enter a Wall Street business long dominated by major ...",
     "title": "Crypto's Push Into Stocks Fuels New Wall Street Lending ..."
    },
+   "news.bloomberglaw.com/business-and-practice/cultivated-meat-companies-press-5th-cir-to-block-texas-ban": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-04T22:23:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cultivated-meat-companies-press-5th-cir-to-block-texas-ban",
+    "page": 3,
+    "summary": "Two California-based lab-grown meat companies urged a federal appeals court during oral arguments Wednesday to hold that a Texas law banning the sale of ...",
+    "title": "Cultivated Meat Companies Press 5th Cir. to Block Texas ..."
+   },
    "news.bloomberglaw.com/business-and-practice/cvs-health-sues-trumps-hhs-over-medicare-star-rating-exclusion": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -12418,6 +12427,15 @@
     "page": 3,
     "summary": "Bessent's \u201cTreasury twist\u201d came in response to surging US yields, a sore spot for a Trump administration that had promised to deliver lower borrowing costs \u2014 ...",
     "title": "Wall Street on Alert for Bessent to Act on Bond Yields Again"
+   },
+   "news.bloomberglaw.com/business-and-practice/wall-street-revises-treasury-sales-forecasts-on-guidance-revamp": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T22:23:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wall-street-revises-treasury-sales-forecasts-on-guidance-revamp",
+    "page": 1,
+    "summary": "The Treasury said Wednesday it anticipates sales of interest-bearing securities, known as coupons, to remain steady \u201cfor the next several quarters.\u201d That's a ...",
+    "title": "Wall Street Revises Treasury Sales Forecasts on Guidance ..."
    },
    "news.bloomberglaw.com/business-and-practice/warren-curtis-press-kalshi-polymarket-on-election-wagers": {
     "baseline": false,
@@ -17041,6 +17059,15 @@
     "page": 2,
     "summary": "Check out these food delivery marketing ideas to help you get the word out about your off-premise offerings.",
     "title": "5 Food Delivery Marketing Tips for Restaurants"
+   },
+   "merchants.doordash.com/en-us/blog/funding-for-restaurants": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-04T22:23:42Z",
+    "link": "https://merchants.doordash.com/en-us/blog/funding-for-restaurants",
+    "page": 2,
+    "summary": "Looking for restaurant funding? Explore 9 proven ways to finance your restaurant \u2014 from SBA loans and grants to creative strategies that work.",
+    "title": "How to Get Funding for Your Restaurant: 9 Best Ways"
    },
    "merchants.doordash.com/en-us/blog/game-day-menu-ideas": {
     "baseline": false,
@@ -42670,6 +42697,15 @@
     "summary": "Learn how to manage payouts for your platform's connected accounts. help with your payout settings and status. manages their external payout accounts (bank ...",
     "title": "Manage connected account payouts"
    },
+   "docs.stripe.com/connect/platform-express-dashboard-taxes-faqs?locale=fr-FR": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-11-04T22:23:42Z",
+    "link": "https://docs.stripe.com/connect/platform-express-dashboard-taxes-faqs?locale=fr-FR",
+    "page": 3,
+    "summary": "Mod\u00e8les de FAQ destin\u00e9s aux plateformes utilisant Stripe Express pour la confirmation pr\u00e9alable \u00e0 la d\u00e9claration et l'envoi \u00e9lectronique des formulaires fiscaux ...",
+    "title": "Recommandations d'assistance et mod\u00e8les de FAQ"
+   },
    "docs.stripe.com/connect/platform-tax-reporting/collection?locale=fr-FR": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -50877,6 +50913,15 @@
     "page": 1,
     "summary": "AI glossary for audit professionals: AI terms every auditor should know \u00b7 Knowing AI terminology helps auditors evaluate, explain, and trust AI-assisted work.",
     "title": "AI glossary for auditors"
+   },
+   "tax.thomsonreuters.com/blog/ai-review-best-practices-for-accountants": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T22:23:42Z",
+    "link": "https://tax.thomsonreuters.com/blog/ai-review-best-practices-for-accountants/",
+    "page": 1,
+    "summary": "Reviewing AI output is the next skill tax and audit professionals need. See how to verify, challenge, and document AI-assisted work with confidence.",
+    "title": "The new skill nobody's teaching accountants"
    },
    "tax.thomsonreuters.com/blog/an-evolution-of-tax-tools-and-how-agentic-ai-will-shape-2026": {
     "baseline": false,
