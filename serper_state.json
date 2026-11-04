@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29093,
+  "credits_used": 29146,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T00:41:16Z",
+  "last_run": "2026-11-04T01:42:44Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 583
+  "runs": 584
  },
  "feeds": {
   "adp-help": {
@@ -11779,6 +11779,15 @@
     "page": 4,
     "summary": "The Trump administration imposed fresh sanctions against the International Criminal Court, signaling its determination to cripple the organization on the ...",
     "title": "US Sanctions ICC After Former Judge Gets Nobel Peace ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/us-senator-state-ags-support-supreme-court-review-of-ypf-case": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-04T01:42:44Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-senator-state-ags-support-supreme-court-review-of-ypf-case",
+    "page": 2,
+    "summary": "Republican Senator Eric Schmitt of Missouri and attorneys general from 14 states backed former investors in Argentine state oil company YPF SA in asking the ...",
+    "title": "US Senator, State AGs Support Supreme Court Review of ..."
    },
    "news.bloomberglaw.com/business-and-practice/us-tells-ships-to-avoid-unnecessary-transits-through-hormuz": {
     "baseline": false,
@@ -41958,6 +41967,15 @@
     "page": 4,
     "summary": "Let Stripe protect your platform from losses that result from negative balances on your connected accounts.",
     "title": "Managed Risk"
+   },
+   "docs.stripe.com/connect/saas/tasks/onboard": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-04T01:42:44Z",
+    "link": "https://docs.stripe.com/connect/saas/tasks/onboard",
+    "page": 1,
+    "summary": "Choose between Stripe-hosted or embedded onboarding to collect requirements from your connected accounts.",
+    "title": "Onboard your connected account"
    },
    "docs.stripe.com/data/data-freshness": {
     "baseline": false,

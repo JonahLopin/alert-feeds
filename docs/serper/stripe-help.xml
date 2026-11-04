@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-04T00:41:16Z</updated>
+  <updated>2026-11-04T01:42:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/connect/saas/tasks/onboard</id>
+    <title>Onboard your connected account</title>
+    <link href="https://docs.stripe.com/connect/saas/tasks/onboard" />
+    <published>2026-11-04T01:42:44Z</published>
+    <updated>2026-11-04T01:42:44Z</updated>
+    <summary>Choose between Stripe-hosted or embedded onboarding to collect requirements from your connected accounts.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/connect/end-to-end-marketplace</id>
     <title>Build a marketplace</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>Build a custom payment form using Stripe Elements and the Payment Intents API. This intent-first integration creates a PaymentIntent on your server before ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESlwEB6zswFSOs5LTyMmR_fP7WLM12nZqud8lz2fzeuraQvJuSkBl15V-l67CswkFqsw8muOtEaq9Fjvc-JkbhchkDbXLnOK-9L87FcLnkpAhldvBJ2fs0Jg4pVVc6fcB_LeKprz2592uRAJAtoNOY1g3eNXUwDN8m8shCqM2-13fxwp6NZpXTJslZdwGSU4OV2cTryqWoDp0v&amp;gsessionid=oifDlQw1Uqb43eH1-2HdIm-9IAlbnElLW5xAmmvCD-cXxOI2m8c5Yg</id>
-    <title>The Financial Address Credit Simulation object v2</title>
-    <link href="https://www.google.com/goto?url=CAESlwEB6zswFSOs5LTyMmR_fP7WLM12nZqud8lz2fzeuraQvJuSkBl15V-l67CswkFqsw8muOtEaq9Fjvc-JkbhchkDbXLnOK-9L87FcLnkpAhldvBJ2fs0Jg4pVVc6fcB_LeKprz2592uRAJAtoNOY1g3eNXUwDN8m8shCqM2-13fxwp6NZpXTJslZdwGSU4OV2cTryqWoDp0v&amp;gsessionid=oifDlQw1Uqb43eH1-2HdIm-9IAlbnElLW5xAmmvCD-cXxOI2m8c5Yg" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>Attributes · objectstring, value is "v2.money_management.financial_address_credit_simulation" · livemodeboolean. Has the value true if the object exists in live ...</summary>
   </entry>
 </feed>
