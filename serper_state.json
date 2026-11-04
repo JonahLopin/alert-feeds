@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29854,
+  "credits_used": 29905,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T16:22:53Z",
+  "last_run": "2026-11-04T17:23:02Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 598
+  "runs": 599
  },
  "feeds": {
   "adp-help": {
@@ -7226,6 +7226,15 @@
     "summary": "A jury in St. Louis rejected claims by three women who blamed Bayer AG's Roundup weedkiller for their cancers, bolstering the company's effort to contain ...",
     "title": "Bayer Wins St. Louis Roundup Trial, Bolstering Settlement ..."
    },
+   "news.bloomberglaw.com/business-and-practice/bclp-brings-on-ip-and-tech-partner-zayd-alathari-in-riyadh": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T17:23:02Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/bclp-brings-on-ip-and-tech-partner-zayd-alathari-in-riyadh",
+    "page": 3,
+    "summary": "Zayd Alathari joined BCLP as a partner in its corporate and finance transactions department in Riyadh, Saudi Arabia, the firm announced Wednesday.",
+    "title": "BCLP Brings On IP and Tech Partner Zayd Alathari in Riyadh"
+   },
    "news.bloomberglaw.com/business-and-practice/bcs-left-wing-leader-loses-to-conservatives-in-vote-he-called": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -10495,6 +10504,24 @@
     "summary": "Nvidia and ChipAgents released a benchmark that measures how different AI models perform at the task, The Information reports, citing ChipAgents CEO William ...",
     "title": "Nvidia, ChipAgents Launch Eval for AI Chip Design"
    },
+   "news.bloomberglaw.com/business-and-practice/ogletree-deakins-lands-two-california-employment-shareholders": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-04T17:23:02Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ogletree-deakins-lands-two-california-employment-shareholders",
+    "page": 1,
+    "summary": "Timothy Pico and Brett Markson joined Ogletree Deakins as shareholders in its employment litigation practice in Los Angeles, the firm announced Tuesday.",
+    "title": "Ogletree Deakins Lands Two California Employment ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/ogletree-deakins-recruits-amazon-employment-lawyer-in-seattle": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T17:23:02Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ogletree-deakins-recruits-amazon-employment-lawyer-in-seattle",
+    "page": 1,
+    "summary": "Tobias \u201cToby\u201d Piering joined Ogletree Deakins as a shareholder in its labor and employment practice in Seattle, the firm announced Wednesday.",
+    "title": "Ogletree Deakins Recruits Amazon Employment Lawyer in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/ogletree-deakins-secures-six-fisher-phillips-labor-lawyers": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -10647,6 +10674,15 @@
     "page": 1,
     "summary": "US Patent and Trademark Office Director John Squires rejected a bid to invalidate a blind fastener patent because of the petitioner's ties to China's ...",
     "title": "Patent Chief Denies Challenge Over Ties to China's ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/paul-hastings-hires-dla-pipers-omran-for-brussels-and-london": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T17:23:02Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/paul-hastings-hires-dla-pipers-omran-for-brussels-and-london",
+    "page": 3,
+    "summary": "Orestis Omran joined Paul Hastings LLP as a partner and Co-Chair of the Brussels Office in its Brussels and London offices, the firm announced Wednesday.",
+    "title": "Paul Hastings Hires DLA Piper's Omran for Brussels and ..."
    },
    "news.bloomberglaw.com/business-and-practice/paul-hastings-lands-reed-smith-fund-finance-partner-mac-campbell": {
     "baseline": false,
@@ -29260,6 +29296,15 @@
     "page": 3,
     "summary": "A handsome young man standing at night in the street. Illuminated signboards, neon, lights.",
     "title": "A handsome young man standing at night in the street. ..."
+   },
+   "news.sap.com/portugal/2026/11/sap-aponta-integracao-de-dados-processos-e-ia-como-chave-para-o-crescimento-sustentavel": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T17:23:02Z",
+    "link": "https://news.sap.com/portugal/2026/11/sap-aponta-integracao-de-dados-processos-e-ia-como-chave-para-o-crescimento-sustentavel/",
+    "page": 2,
+    "summary": "SAP defende, num evento no Norte do Pa\u00eds, que a maioria das organiza\u00e7\u00f5es continua sem retirar valor da IA e que a integra\u00e7\u00e3o de dados e processos ser\u00e1 ...",
+    "title": "SAP aponta integra\u00e7\u00e3o de dados, processos e IA como ..."
    },
    "news.sap.com/portugal/2026/11/sap-aponta-integracao-de-dados-processos-e-ia-como-chave-para-o-crescimento-sustentavel?amp=1": {
     "baseline": false,
