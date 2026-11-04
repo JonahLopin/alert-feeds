@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29040,
+  "credits_used": 29093,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-03T23:43:01Z",
+  "last_run": "2026-11-04T00:41:16Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 582
+  "runs": 583
  },
  "feeds": {
   "adp-help": {
@@ -29435,6 +29435,15 @@
     "summary": "Feature articles, press releases, blogs, information & stories from SAP about human resource business trends and topics, software solutions, hr software ...",
     "title": "Human Resources News & Stories"
    },
+   "news.sap.com/topics/industries": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T00:41:16Z",
+    "link": "https://news.sap.com/topics/industries/",
+    "page": 1,
+    "summary": "News, articles, blogs & stories from SAP about industries including automotive, healthcare, insurance, sports, retail, telecommunications, utilities, etc.",
+    "title": "Industries News & Stories"
+   },
    "news.sap.com/topics/investor-relations": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -29470,6 +29479,15 @@
     "page": 1,
     "summary": "News, information, feature articles, press releases, blogs & stories about SAP solutions for industries, lines of business, small and medium enterprises, ...",
     "title": "SAP Solutions News & Articles"
+   },
+   "news.sap.com/topics/spend-management": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T00:41:16Z",
+    "link": "https://news.sap.com/topics/spend-management/",
+    "page": 1,
+    "summary": "The vision of SAP Business Network is to become the intelligence and execution layer for commerce between companies. +1-800-872-1727",
+    "title": "Spend management Archives"
    },
    "news.sap.com/topics/supply-chain-management": {
     "baseline": false,
@@ -41600,6 +41618,15 @@
     "summary": "Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.",
     "title": "Create a source | Stripe API Reference"
    },
+   "docs.stripe.com/api/subscription_schedules/retrieve": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-04T00:41:16Z",
+    "link": "https://docs.stripe.com/api/subscription_schedules/retrieve",
+    "page": 3,
+    "summary": "Retrieves the details of an existing subscription schedule. You only need to supply the unique subscription schedule identifier that was returned upon ...",
+    "title": "Retrieve a schedule | Stripe API Reference"
+   },
    "docs.stripe.com/api/subscriptions/object": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -41886,6 +41913,15 @@
     "page": 1,
     "summary": "Compare Global Payouts and Connect cross-border payouts to determine which Stripe payouts integration fits your business model.",
     "title": "Understand differences between Global Payouts and ..."
+   },
+   "docs.stripe.com/connect/end-to-end-marketplace": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-04T00:41:16Z",
+    "link": "https://docs.stripe.com/connect/end-to-end-marketplace",
+    "page": 1,
+    "summary": "Create connected accounts using Accounts v1, collect payments from customers, then pay out to sellers or service providers on your marketplace.",
+    "title": "Build a marketplace"
    },
    "docs.stripe.com/connect/manage-connected-account-payouts": {
     "baseline": false,

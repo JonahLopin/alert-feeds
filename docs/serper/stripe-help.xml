@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-03T23:43:01Z</updated>
+  <updated>2026-11-04T00:41:16Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/connect/end-to-end-marketplace</id>
+    <title>Build a marketplace</title>
+    <link href="https://docs.stripe.com/connect/end-to-end-marketplace" />
+    <published>2026-11-04T00:41:16Z</published>
+    <updated>2026-11-04T00:41:16Z</updated>
+    <summary>Create connected accounts using Accounts v1, collect payments from customers, then pay out to sellers or service providers on your marketplace.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/subscription_schedules/retrieve</id>
+    <title>Retrieve a schedule | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/subscription_schedules/retrieve" />
+    <published>2026-11-04T00:41:16Z</published>
+    <updated>2026-11-04T00:41:16Z</updated>
+    <summary>Retrieves the details of an existing subscription schedule. You only need to supply the unique subscription schedule identifier that was returned upon ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/plans/list</id>
     <title>List all plans | Stripe API Reference</title>
@@ -787,21 +803,5 @@
     <published>2026-10-31T14:43:15Z</published>
     <updated>2026-10-31T14:43:15Z</updated>
     <summary>Attributes · objectstring, value is "v2.money_management.financial_address_credit_simulation" · livemodeboolean. Has the value true if the object exists in live ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESlAEB6zswFQk8lCkHgshLQEgOU_zY1LyKGUa7Fc7kCMJ03Fz_bHrX_8dYtBGV6Y5jYt2XROzr5DhDlvFKutCUlGs9-rNJ2GkJWJPKdF9WAr0ZeDH6JxFzJyoSr0ME1RVAUtNsqIv61SPoYFdJi0JEthG34zP0nFWq4lzTxSguDmbBEVLNwrcc1wOC5TvpHq2d0ZHVtUnW&amp;gsessionid=AoW1CnEIPxJ9lis8GbLQsDCe4_O6sGgAeTn4_ATIwd6iqKlKtRSj5w</id>
-    <title>Understand differences between Global Payouts and ...</title>
-    <link href="https://www.google.com/goto?url=CAESlAEB6zswFQk8lCkHgshLQEgOU_zY1LyKGUa7Fc7kCMJ03Fz_bHrX_8dYtBGV6Y5jYt2XROzr5DhDlvFKutCUlGs9-rNJ2GkJWJPKdF9WAr0ZeDH6JxFzJyoSr0ME1RVAUtNsqIv61SPoYFdJi0JEthG34zP0nFWq4lzTxSguDmbBEVLNwrcc1wOC5TvpHq2d0ZHVtUnW&amp;gsessionid=AoW1CnEIPxJ9lis8GbLQsDCe4_O6sGgAeTn4_ATIwd6iqKlKtRSj5w" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>Compare Global Payouts and Connect cross-border payouts to determine which Stripe payouts integration fits your business model.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESkwEB6zswFSCzMsUM6s_2ofwvDNdrvruw4Fn6orGHtuHHGB4KSBnebi1s0J7xMrKnlAey5zGQgUQ3W4xzURmwSveRSZZgmZY-xsK38LuRHCL6yNsdKIiiV6A-wPav2ZL7wr6v12L5wBdsvEkRUyACo3l84ADKHobP0-X2mP9uwf6e06nuEiS7QxVxg-rgpUPPbzwCZZQ&amp;gsessionid=AoW1CnEIPxJ9lis8GbLQsDCe4_O6sGgAeTn4_ATIwd6iqKlKtRSj5w</id>
-    <title>Use iDEAL | Wero to set up future SEPA Direct Debit</title>
-    <link href="https://www.google.com/goto?url=CAESkwEB6zswFSCzMsUM6s_2ofwvDNdrvruw4Fn6orGHtuHHGB4KSBnebi1s0J7xMrKnlAey5zGQgUQ3W4xzURmwSveRSZZgmZY-xsK38LuRHCL6yNsdKIiiV6A-wPav2ZL7wr6v12L5wBdsvEkRUyACo3l84ADKHobP0-X2mP9uwf6e06nuEiS7QxVxg-rgpUPPbzwCZZQ&amp;gsessionid=AoW1CnEIPxJ9lis8GbLQsDCe4_O6sGgAeTn4_ATIwd6iqKlKtRSj5w" />
-    <published>2026-10-31T14:43:15Z</published>
-    <updated>2026-10-31T14:43:15Z</updated>
-    <summary>Learn how to save bank details from an iDEAL | Wero payment and charge your customers later with SEPA Direct Debit.</summary>
   </entry>
 </feed>
