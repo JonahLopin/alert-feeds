@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-04T05:43:34Z</updated>
+  <updated>2026-11-04T06:43:50Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/ecommerce-laws</id>
+    <title>Ecommerce Laws: A Guide for Online Stores (2026)</title>
+    <link href="https://www.shopify.com/blog/ecommerce-laws" />
+    <published>2026-11-04T06:43:50Z</published>
+    <updated>2026-11-04T06:43:50Z</updated>
+    <summary>Ecommerce legal issues include misleading advertising, mishandling personal data, sales tax errors, and intellectual property infringement. For example, copying ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/find-broken-links-website</id>
     <title>How To Find Broken Links on a Website: 4 Methods (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T11:43:25Z</published>
     <updated>2026-10-31T11:43:25Z</updated>
     <summary>Learn how digital advertising works, and how it helps brands fine-tune their marketing to reach niche audiences who are most likely to convert.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZwHrOzAVwF_mykV4qxHqVAbbaV5nS64hWemhTXYuEMOvYJN2SEdmkHK-0UQXlSn7lVDYEspEusa4ODmK7Vax1AilMDgheYkJJAH0MoIIz3v2fONek0LkCsObI8ZFicpaDEdMKZo1EsA</id>
-    <title>Now Your Shop Store and Online Store Stay in Sync (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESZwHrOzAVwF_mykV4qxHqVAbbaV5nS64hWemhTXYuEMOvYJN2SEdmkHK-0UQXlSn7lVDYEspEusa4ODmK7Vax1AilMDgheYkJJAH0MoIIz3v2fONek0LkCsObI8ZFicpaDEdMKZo1EsA" />
-    <published>2026-10-31T11:43:25Z</published>
-    <updated>2026-10-31T11:43:25Z</updated>
-    <summary>Now, for select merchants, supported content from the homepage of your online store syncs directly with your Shop store.</summary>
   </entry>
 </feed>

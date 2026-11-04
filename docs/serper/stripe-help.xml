@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-04T05:43:34Z</updated>
+  <updated>2026-11-04T06:43:50Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/tokens/create_cvc_update</id>
+    <title>Create a CVC update token v1</title>
+    <link href="https://docs.stripe.com/api/tokens/create_cvc_update" />
+    <published>2026-11-04T06:43:50Z</published>
+    <updated>2026-11-04T06:43:50Z</updated>
+    <summary>Returns the created CVC update token if it's successful. Otherwise, this call raises an error. Server-side language. cURL. cURL. Stripe CLI. Ruby. Python. PHP.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/customer-management/pause-subscriptions</id>
     <title>Let customers pause subscriptions in the customer portal</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T15:42:45Z</published>
     <updated>2026-10-31T15:42:45Z</updated>
     <summary>This field indicates whether this payment method can be shown again to its customer in a checkout flow. Stripe products such as Checkout and Elements use this ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESawHrOzAVk8FW2CUVpISNiXgyBwOzDnLYkjwRa4TU6WzIaVhgj27p896TI6YVFZjCx7c6F6SlBFJ4CAVKC6Y201MAtpESEmCPKoxwJxng4Z6vtlTmKcpYgLyHLUIfT54XgeuPyOnTQq_JJskq&amp;gsessionid=DfGciI9PuDcOAazbSoxf_X2XwiFiNWYUBta-cYCopy47cmMyzkMUAQ</id>
-    <title>The Subscription object | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESawHrOzAVk8FW2CUVpISNiXgyBwOzDnLYkjwRa4TU6WzIaVhgj27p896TI6YVFZjCx7c6F6SlBFJ4CAVKC6Y201MAtpESEmCPKoxwJxng4Z6vtlTmKcpYgLyHLUIfT54XgeuPyOnTQq_JJskq&amp;gsessionid=DfGciI9PuDcOAazbSoxf_X2XwiFiNWYUBta-cYCopy47cmMyzkMUAQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>The account that's liable for tax. If set, the business address and tax registrations required to perform the tax calculation are loaded from this account.</summary>
   </entry>
 </feed>

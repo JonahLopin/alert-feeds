@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 29358,
+  "credits_used": 29411,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T05:43:34Z",
+  "last_run": "2026-11-04T06:43:50Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 588
+  "runs": 589
  },
  "feeds": {
   "adp-help": {
@@ -16726,6 +16726,15 @@
     "page": 3,
     "summary": "15 strategies to increase restaurant sales in 2026, with real data on what's actually working: menu engineering, delivery optimization, loyalty, ...",
     "title": "How to Increase Restaurant Sales: 15 Tactics with Real ..."
+   },
+   "merchants.doordash.com/en-us/blog/how-to-pitch-restaurant-investors": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-04T06:43:50Z",
+    "link": "https://merchants.doordash.com/en-us/blog/how-to-pitch-restaurant-investors",
+    "page": 2,
+    "summary": "Landing a meeting with an investor is hard. Walking out with a check is harder. You have a concept you believe in, but belief alone won't answer the ...",
+    "title": "How to Pitch Your Restaurant to Investors"
    },
    "merchants.doordash.com/en-us/blog/increase-holiday-sales": {
     "baseline": false,
@@ -36451,6 +36460,15 @@
     "summary": "Shopify is an all-in-one ecommerce CMS solution designed to help store owners easily build and manage their online businesses. With affordable plans, beautiful ...",
     "title": "Best Ecommerce CMS Platforms 2026: Top 9 Solutions"
    },
+   "shopify.com/blog/ecommerce-laws": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-04T06:43:50Z",
+    "link": "https://www.shopify.com/blog/ecommerce-laws",
+    "page": 2,
+    "summary": "Ecommerce legal issues include misleading advertising, mishandling personal data, sales tax errors, and intellectual property infringement. For example, copying ...",
+    "title": "Ecommerce Laws: A Guide for Online Stores (2026)"
+   },
    "shopify.com/blog/ecommerce-schema": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -41823,6 +41841,15 @@
     "page": 1,
     "summary": "The Standalone 3DS API allows you to run EMV 3D Secure (3DS) authentication using Stripe while authorizing the payment with any PSP. Related guide: Standalone ...",
     "title": "3DS Authentications | Stripe API Reference"
+   },
+   "docs.stripe.com/api/tokens/create_cvc_update": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-04T06:43:50Z",
+    "link": "https://docs.stripe.com/api/tokens/create_cvc_update",
+    "page": 4,
+    "summary": "Returns the created CVC update token if it's successful. Otherwise, this call raises an error. Server-side language. cURL. cURL. Stripe CLI. Ruby. Python. PHP.",
+    "title": "Create a CVC update token v1"
    },
    "docs.stripe.com/api/transfers": {
     "baseline": false,
