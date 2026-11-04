@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 30060,
+  "credits_used": 30111,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-04T20:23:12Z",
+  "last_run": "2026-11-04T21:23:31Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 602
+  "runs": 603
  },
  "feeds": {
   "adp-help": {
@@ -8133,6 +8133,15 @@
     "summary": "Salmon's practice focuses on FDA regulatory and corporate transactional matters, including product development, advertising and promotion, medical ...",
     "title": "Dentons Employs FDA and Health Care Transactions ..."
    },
+   "news.bloomberglaw.com/business-and-practice/dentons-lures-three-insurance-lawyers-for-new-jersey-practice": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T21:23:31Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/dentons-lures-three-insurance-lawyers-for-new-jersey-practice",
+    "page": 1,
+    "summary": "Jones advises industry clients on legal, regulatory and coverage-related issues and represents insurers in litigation and class actions nationwide. Her practice ...",
+    "title": "Dentons Lures Three Insurance Lawyers for New Jersey ..."
+   },
    "news.bloomberglaw.com/business-and-practice/deportations-lag-behind-aggressive-trump-targets-analysis-shows": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -8554,6 +8563,15 @@
     "page": 2,
     "summary": "Methane gas is flared in New Mexico. ... The EPA struggled to explain its reasoning for delaying compliance deadlines for methane emissions from oil and gas ...",
     "title": "EPA's Defense of Methane Emissions Delays Draws Court ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/equity-perps-can-keep-trading-judge-says-but-face-fight-1": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-04T21:23:31Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/equity-perps-can-keep-trading-judge-says-but-face-fight-1",
+    "page": 3,
+    "summary": "A federal judge refused to immediately halt the trading of so-called perpetual equity derivatives contracts, but signaled that she might ultimately rule in ...",
+    "title": "Equity Perps Can Keep Trading, Judge Says, But Face ..."
    },
    "news.bloomberglaw.com/business-and-practice/eu-officials-propose-guardrails-for-insurance-risk-transfer-boom": {
     "baseline": false,
@@ -10279,6 +10297,15 @@
     "summary": "Meta Platforms Inc . was hit with a new privacy lawsuit alleging the company recorded a California man's private conversations via its AI-enabled smart glasses",
     "title": "Meta Glasses Accused of Secretly Recording Private ..."
    },
+   "news.bloomberglaw.com/business-and-practice/meta-loses-liability-shield-bid-in-florida-minor-addiction-suit": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-04T21:23:31Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/meta-loses-liability-shield-bid-in-florida-minor-addiction-suit",
+    "page": 2,
+    "summary": "Meta and its Instagram platform must defend against Florida deceptive trade practices litigation because the company can't rely on the federal statutory ...",
+    "title": "Meta Loses Liability Shield Bid in Florida Minor Addiction Suit"
+   },
    "news.bloomberglaw.com/business-and-practice/meta-prevails-in-publishers-appeal-over-account-termination": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -11680,6 +11707,15 @@
     "page": 4,
     "summary": "The suit claims Trump violated the Foreign Emoluments Clause, a provision of the US Constitution that bars presidents from taking payments from foreign ...",
     "title": "Trump and Crypto Firm Sued for Profiting From Foreign ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trump-backed-american-crypto-pitch-draws-heat-from-justin-sun": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-11-04T21:23:31Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-backed-american-crypto-pitch-draws-heat-from-justin-sun",
+    "page": 3,
+    "summary": "World Liberty Financial, the cryptocurrency venture founded by President Donald Trump and his family, has cast itself as an all-American enterprise on a ...",
+    "title": "Trump-Backed 'American' Crypto Pitch Draws Heat From ..."
    },
    "news.bloomberglaw.com/business-and-practice/trump-diesel-deal-faces-fresh-legislative-challenge-in-congress": {
     "baseline": false,
