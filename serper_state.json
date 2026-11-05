@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 30745,
+  "credits_used": 30798,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T09:43:06Z",
+  "last_run": "2026-11-05T10:43:05Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 615
+  "runs": 616
  },
  "feeds": {
   "adp-help": {
@@ -23303,6 +23303,15 @@
     "summary": "Accountants and bookkeepers can use templates to set up a chart of accounts for new or existing clients in minutes. Templates give each client a standard ...",
     "title": "How to create chart of accounts templates in Intuit Accountant ..."
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/customer-company-settings/change-customer-facing-email-address/L1wA1rIZG_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-05T10:43:05Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/customer-company-settings/change-customer-facing-email-address/L1wA1rIZG_US_en_US",
+    "page": 2,
+    "summary": "Here's how to change customer-facing email address \u2014 so everything reconciles cleanly. Get it done in minutes.",
+    "title": "Change customer-facing email address in QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/customer-company-settings/change-federal-employer-identification-number-ein/L8cPoaxjF_US_en_US": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -23734,6 +23743,15 @@
     "page": 1,
     "summary": "QuickBooks Capital offers small business lending options to help you manage cash flow, cover business expenses, or invest in growth.",
     "title": "Learn about QuickBooks Capital Loans - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/login-and-password/manage-bank-accounts-quickbooks-online-wallet/L9ddEaahb_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-05T10:43:05Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/login-and-password/manage-bank-accounts-quickbooks-online-wallet/L9ddEaahb_US_en_US",
+    "page": 3,
+    "summary": "If you're still using QuickBooks Online Accountant, update to Intuit Accountant Suite (IAS) before you follow the steps in this article.",
+    "title": "Manage bank accounts in the QuickBooks Online Wallet Hub"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/login-and-password/reactivate-intuit-account/L4O9lZ14r_US_en_US": {
     "baseline": false,
@@ -28685,6 +28703,15 @@
     "page": 1,
     "summary": "Steigern Sie Ihre Effizienz mit AI-powered Finance: Entdecken Sie innovative L\u00f6sungen f\u00fcr bessere Planung und Berichterstattung.",
     "title": "AI-powered Finance: Neue Funktionen von SAP"
+   },
+   "news.sap.com/germany/2026/11/sap-und-hpe-tabellarische-ki-weltraum": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-05T10:43:05Z",
+    "link": "https://news.sap.com/germany/2026/11/sap-und-hpe-tabellarische-ki-weltraum/",
+    "page": 1,
+    "summary": "SAP-RPT soll Anfang 2027 auf dem HPE Spaceborne Computer-2 an Bord der ISS bereitgestellt werden. Damit soll gezeigt werden, wie das Modell betriebliche ...",
+    "title": "SAP und HPE wollen tabellarische KI im Weltraum einsetzen"
    },
    "news.sap.com/germany/2026/11/sap-und-hpe-tabellarische-ki-weltraum?amp=1": {
     "baseline": false,

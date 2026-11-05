@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-05T08:43:32Z</updated>
+  <updated>2026-11-05T10:43:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/2026/11/sap-und-hpe-tabellarische-ki-weltraum/</id>
+    <title>SAP und HPE wollen tabellarische KI im Weltraum einsetzen</title>
+    <link href="https://news.sap.com/germany/2026/11/sap-und-hpe-tabellarische-ki-weltraum/" />
+    <published>2026-11-05T10:43:05Z</published>
+    <updated>2026-11-05T10:43:05Z</updated>
+    <summary>SAP-RPT soll Anfang 2027 auf dem HPE Spaceborne Computer-2 an Bord der ISS bereitgestellt werden. Damit soll gezeigt werden, wie das Modell betriebliche ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/germany/2026/11/sap-und-hpe-tabellarische-ki-weltraum/?amp=1</id>
     <title>SAP und HPE wollen tabellarische KI im Weltraum einsetzen</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T06:43:16Z</published>
     <updated>2026-10-31T06:43:16Z</updated>
     <summary>Advancing SAP Lakehouse and New Data Fabric Innovations in SAP Business Data Cloud for the Autonomous Enterprise. by Irfan Khan. October 29, 2026 ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESXgHrOzAV7cibSwMW93VaqSfgMg09GEB8PSbEIuZhG4tNO9loPUmROQdBaldb0vWQzCJFe9NGVcxwChLLv8WVLTfIJ_R5EKLUoYJIU6xGC_c7VyrSXbE44Q11KQX7JmY</id>
-    <title>Tech Events Coverage, News &amp; Stories</title>
-    <link href="https://www.google.com/goto?url=CAESXgHrOzAV7cibSwMW93VaqSfgMg09GEB8PSbEIuZhG4tNO9loPUmROQdBaldb0vWQzCJFe9NGVcxwChLLv8WVLTfIJ_R5EKLUoYJIU6xGC_c7VyrSXbE44Q11KQX7JmY" />
-    <published>2026-10-31T06:43:16Z</published>
-    <updated>2026-10-31T06:43:16Z</updated>
-    <summary>News, information, feature articles, press releases &amp; stories from SAP about global technology and business events, conferences, etc.</summary>
   </entry>
 </feed>
