@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 31224,
+  "credits_used": 31277,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T18:43:24Z",
+  "last_run": "2026-11-05T19:42:57Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 624
+  "runs": 625
  },
  "feeds": {
   "adp-help": {
@@ -7559,6 +7559,15 @@
     "summary": "Carlyle Group Inc. posted third-quarter earnings that topped Wall Street estimates as profits from asset sales helped offset a decline in fee-related ...",
     "title": "Carlyle Beats as Deal Exits Mitigate Dip in Fee-Related ..."
    },
+   "news.bloomberglaw.com/business-and-practice/casa-azul-tequila-seller-revives-clase-azul-trademark-claims": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T19:42:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/casa-azul-tequila-seller-revives-clase-azul-trademark-claims",
+    "page": 2,
+    "summary": "Whether \u201cCasa Azul\u201d tequila soda infringes a \u201cClase Azul\u201d Tequila trademark requires further analysis after a lower court committed several legal errors, ...",
+    "title": "'Casa Azul' Tequila Seller Revives 'Clase Azul' Trademark ..."
+   },
    "news.bloomberglaw.com/business-and-practice/cattle-grazing-now-a-primary-public-lands-use-to-boost-beef": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -8771,6 +8780,15 @@
     "summary": "Immigration officials are barred from deporting dozens of Afghan immigrants, including women and families of US allies, to Pakistan and Afghanistan. ...",
     "title": "Federal Judge Blocks Deportation Flight of Afghans to Pakistan"
    },
+   "news.bloomberglaw.com/business-and-practice/federal-judge-freezes-trumps-obamacare-insurance-broker-ban": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-05T19:42:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/federal-judge-freezes-trumps-obamacare-insurance-broker-ban",
+    "page": 1,
+    "summary": "A federal judge in Maryland placed a temporary pause Thursday on the Trump administration's ban on new agent and broker registrations under the Affordable ...",
+    "title": "Federal Judge Freezes Trump's Obamacare Insurance ..."
+   },
    "news.bloomberglaw.com/business-and-practice/federal-switchblade-ban-is-unconstitutional-fifth-circuit-rules": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -8995,6 +9013,15 @@
     "summary": "GC x AI, arguing that artificial intelligence would remake the substance, process, and economics of legal services",
     "title": "GC x AI Retrospective: The Billable Hour, Like a Twinkie, ..."
    },
+   "news.bloomberglaw.com/business-and-practice/gemini-on-students-chromebook-targeted-in-mental-health-lawsuit": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-05T19:42:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/gemini-on-students-chromebook-targeted-in-mental-health-lawsuit",
+    "page": 2,
+    "summary": "Google LLC's Gemini chatbot on a school-issued Chromebook caused a teen girl's mental health crisis and helped coach her through a plan to commit suicide, ...",
+    "title": "Gemini on Student's Chromebook Targeted in Mental ..."
+   },
    "news.bloomberglaw.com/business-and-practice/genentech-novartis-regeneron-shed-false-claims-kickback-suit": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -9074,6 +9101,15 @@
     "page": 4,
     "summary": "All four of David Greene's claims that Google used his voice without permission in an artificial intelligence tool were overruled in the court's tentative ...",
     "title": "Google Is Unlikely to Axe Ex-NPR Host's AI Voice Use ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/googles-school-ai-spurred-teens-mental-crisis-lawsuit-says-1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-05T19:42:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/googles-school-ai-spurred-teens-mental-crisis-lawsuit-says-1",
+    "page": 2,
+    "summary": "Parents in North Carolina sued Google after their 13-year-old daughter spent months discussing suicidal thoughts with the company's artificial intelligence ...",
+    "title": "Google's School AI Spurred Teen's Mental Crisis, Lawsuit ..."
    },
    "news.bloomberglaw.com/business-and-practice/grants-dispute-opinion-highlights-supreme-courts-loose-ends": {
     "baseline": false,
@@ -9353,6 +9389,15 @@
     "page": 3,
     "summary": "The massive corporate firm had minimal ties to the parties: Skadden took in $4 million in legal fees from a 2025 deal with the Chan Zuckerberg Initiative and ...",
     "title": "How Skadden, Gibson Dunn Helped Mark Zuckerberg ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/how-the-ai-backlash-helped-fuel-democrats-midterm-landslide": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-05T19:42:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/how-the-ai-backlash-helped-fuel-democrats-midterm-landslide",
+    "page": 1,
+    "summary": "Widespread voter concern about data centers and artificial intelligence was one of several factors that powered Democrats to control of the House and Senate ...",
+    "title": "How the AI Backlash Helped Fuel Democrats' Midterm ..."
    },
    "news.bloomberglaw.com/business-and-practice/humana-members-advance-privacy-suit-over-health-data-disclosures": {
     "baseline": false,
@@ -9766,6 +9811,15 @@
     "page": 1,
     "summary": "The US Supreme Court considered whether to let a death-row defendant pursue another challenge to his sentence under a constitutional argument that got its ...",
     "title": "Justices Weigh Prisoner's New Challenge Citing Mental ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/kalshi-and-polymarket-get-a-passing-grade-on-the-midterms-exam": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T19:42:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kalshi-and-polymarket-get-a-passing-grade-on-the-midterms-exam",
+    "page": 3,
+    "summary": "While they've sometimes performed well \u2014 in 2024 both Kalshi and Polymarket favored a presidential victory for Donald Trump while polling models had him and ...",
+    "title": "Kalshi and Polymarket Get a Passing Grade on the ..."
    },
    "news.bloomberglaw.com/business-and-practice/kalshi-polymarket-piled-on-media-deals-ahead-of-the-midterms": {
     "baseline": false,
@@ -10531,6 +10585,15 @@
     "summary": "Monsanto Co. and Bayer Corp. convinced a federal appeals court Wednesday to reverse a ruling holding them liable for failing to warn a consumer about cancer ...",
     "title": "Monsanto Defeats Roundup Warning Claim After Supreme ..."
    },
+   "news.bloomberglaw.com/business-and-practice/montana-gop-conservative-groups-challenge-new-dark-money-ban": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T19:42:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/montana-gop-conservative-groups-challenge-new-dark-money-ban",
+    "page": 1,
+    "summary": "The Montana Republican Party and a coalition of conservative nonprofits are challenging the ban on political dark money approved Tuesday by nearly ...",
+    "title": "Montana GOP, Conservative Groups Challenge New Dark ..."
+   },
    "news.bloomberglaw.com/business-and-practice/montana-sues-general-motors-over-sale-of-drivers-personal-data": {
     "baseline": false,
     "date_hint": "47 minutes ago",
@@ -10908,6 +10971,15 @@
     "page": 2,
     "summary": "OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process in response to prior incidents ...",
     "title": "OpenAI to Train AI Models Without Internet After Cyber ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/oracle-beats-fired-sales-reps-race-bias-claim-at-fifth-circuit": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-05T19:42:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/oracle-beats-fired-sales-reps-race-bias-claim-at-fifth-circuit",
+    "page": 3,
+    "summary": "A former sales representative for Oracle America Inc. failed to establish a racial bias claim related to her termination because she didn't show any ...",
+    "title": "Oracle Beats Fired Sales Rep's Race Bias Claim at Fifth ..."
    },
    "news.bloomberglaw.com/business-and-practice/orrick-adds-kirkland-data-center-real-estate-partner-in-chicago": {
     "baseline": false,
@@ -11331,6 +11403,15 @@
     "page": 3,
     "summary": "The Securities and Exchange Commission wants to get out of the business of policing political donations from investment advisers.",
     "title": "SEC Proposal to Ax Pay-to-Play Rule Leaves Many Risks ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/sheppard-follows-milbank-mcdermott-in-associate-salary-boost": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T19:42:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/sheppard-follows-milbank-mcdermott-in-associate-salary-boost",
+    "page": 1,
+    "summary": "Sheppard is raising its base pay for associates, matching Milbank's boosted offerings, with salaries at the firm ranging from $235,000 to $455,000.",
+    "title": "Sheppard Follows Milbank, McDermott in Associate Salary ..."
    },
    "news.bloomberglaw.com/business-and-practice/sidelined-tariff-refunds-get-class-action-status-explained": {
     "baseline": false,
@@ -23199,6 +23280,15 @@
     "summary": "Learn how to manage clients from the new client list in Intuit Accountant Suite. Get a fast, responsive view with useful sorting and filtering, ...",
     "title": "Manage your clients with the new client list - QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/resolve-non-sufficient-funds-nsf-hold-payroll/L143xmSB8_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-05T19:42:57Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/resolve-non-sufficient-funds-nsf-hold-payroll/L143xmSB8_US_en_US",
+    "page": 3,
+    "summary": "An NSF (Non-Sufficient Funds) hold is the result of a failed payroll transaction. The failed payroll transaction is usually a paycheck and can be other payroll ...",
+    "title": "Resolve a non-sufficient funds (NSF) hold on your payroll ..."
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/use-quickbooks-connector-claude/L3YBlo6Ht_US_en_US": {
     "baseline": false,
     "date_hint": "1 day ago",
@@ -24582,6 +24672,15 @@
     "page": 2,
     "summary": "Learn how to take over billing for clients who currently pay for their own QuickBooks Online subscription. Or move existing ProAdvisor Preferred Pricing ...",
     "title": "Transfer clients to your ProAdvisor Preferred Pricing program ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/worker-training-and-development/assign-track-employee-training-learning/L3Xbl9qyu_US_en_US": {
+    "baseline": false,
+    "date_hint": "11 hours ago",
+    "first_seen": "2026-11-05T19:42:57Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/worker-training-and-development/assign-track-employee-training-learning/L3Xbl9qyu_US_en_US",
+    "page": 3,
+    "summary": "Learn how to connect Learning, assign compliance and skills training to your employees, and track who's completed it, who's behind, and who hasn't started ...",
+    "title": "Assign and track employee training with Learning - QuickBooks"
    }
   },
   "kintsugi-blog": {
@@ -54358,6 +54457,15 @@
     "page": 4,
     "summary": "Wolters Kluwer Health today announced a new collaboration with AME Publishing Company, an Open Access publisher specializing in medical journals and books, ...",
     "title": "AME and Wolters Kluwer aim to expand access to global ..."
+   },
+   "wolterskluwer.com/en/news/benelux-finance-professionals-ready-for-ai": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-05T19:42:57Z",
+    "link": "https://www.wolterskluwer.com/en/news/benelux-finance-professionals-ready-for-ai",
+    "page": 1,
+    "summary": "Seven in 10 finance professionals polled in Belgium and the Netherlands would give AI autonomy over transaction matching.",
+    "title": "Which finance activities are Benelux professionals ready to ..."
    },
    "wolterskluwer.com/en/news/cch-acquires-speedtax-move-positions-cch-as-only-provider-of-saas-solutions-premier-tax-content-and-services-in-corporate-market": {
     "baseline": false,

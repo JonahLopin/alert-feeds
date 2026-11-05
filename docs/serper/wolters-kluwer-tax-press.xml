@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:wolters-kluwer-tax-press</id>
   <title>Wolters Kluwer Tax press (site:wolterskluwer.com/en/news/) via Serper</title>
-  <updated>2026-11-05T15:42:50Z</updated>
+  <updated>2026-11-05T19:42:57Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/wolters-kluwer-tax-press.xml" />
+  <entry>
+    <id>https://www.wolterskluwer.com/en/news/benelux-finance-professionals-ready-for-ai</id>
+    <title>Which finance activities are Benelux professionals ready to ...</title>
+    <link href="https://www.wolterskluwer.com/en/news/benelux-finance-professionals-ready-for-ai" />
+    <published>2026-11-05T19:42:57Z</published>
+    <updated>2026-11-05T19:42:57Z</updated>
+    <summary>Seven in 10 finance professionals polled in Belgium and the Netherlands would give AI autonomy over transaction matching.</summary>
+  </entry>
   <entry>
     <id>https://www.wolterskluwer.com/en/news/medi-span-survey-medication-intelligence</id>
     <title>New survey highlights demand for trusted medication ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T03:43:22Z</published>
     <updated>2026-10-31T03:43:22Z</updated>
     <summary>Wolters Kluwer reaffirms its position as a trusted leader in innovation and digital transformation for the notarial profession in Italy.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESqQEB6zswFQHZUrpkpyH8F_aaEwnHeooCxwqRSblPzQh9_HNNvlnv7d4pKSbP5_uYv64doaHyPqY2asysQTNR-vALsnoFeSGEZktEcVWVdGNXdDZXVS0wxwVp8PerYxWFI-7u5IDIdfXtNC4EyAzDApKDA4Mvxqy6QXqacphxoXvw_tiU89qwZ7jlTD9fc9YIdeNyZG9rl7IqZRXOVPjo4ZLIUP0uYO9ugxtJ</id>
-    <title>Most-viewed TikTok videos on inflammatory bowel disease ...</title>
-    <link href="https://www.google.com/goto?url=CAESqQEB6zswFQHZUrpkpyH8F_aaEwnHeooCxwqRSblPzQh9_HNNvlnv7d4pKSbP5_uYv64doaHyPqY2asysQTNR-vALsnoFeSGEZktEcVWVdGNXdDZXVS0wxwVp8PerYxWFI-7u5IDIdfXtNC4EyAzDApKDA4Mvxqy6QXqacphxoXvw_tiU89qwZ7jlTD9fc9YIdeNyZG9rl7IqZRXOVPjo4ZLIUP0uYO9ugxtJ" />
-    <published>2026-10-31T03:43:22Z</published>
-    <updated>2026-10-31T03:43:22Z</updated>
-    <summary>The most popular TikTok videos related to inflammatory bowel disease (IBD) have millions of views – but very low scores for quality of medical information, ...</summary>
   </entry>
 </feed>
