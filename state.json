@@ -5625,6 +5625,12 @@
    "summary": "When you request W-8 or W-9 forms from your connected accounts, be prepared to help them submit the correct form successfully.",
    "title": "How connected accounts submit W-8 and W-9 forms - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:4041597582483389096": {
+   "first_seen": "2026-11-05T15:44:05Z",
+   "link": "https://docs.stripe.com/payments/au-becs-debit/set-up-payment?payment-ui=direct-api",
+   "summary": "This guide shows you how to build and manage your own setup form. You use the Australia Bank Account Element to collect the BSB number and account ...",
+   "title": "Save Australia BECS Direct Debit details for future payments | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:4197160707737336743": {
    "first_seen": "2026-10-10T10:10:42Z",
    "link": "https://docs.stripe.com/js/custom_checkout/checkout_form_methods?ref=spectralwebservices.com",

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-11-05T14:42:59Z</updated>
+  <updated>2026-11-05T15:42:50Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/company-file/firms-accounting-quickbooks-online-accountant/L8hCIQ77L_US_en_US</id>
+    <title>Do your firm's accounting in Intuit Accountant Suite (IAS)</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/company-file/firms-accounting-quickbooks-online-accountant/L8hCIQ77L_US_en_US" />
+    <published>2026-11-05T15:42:50Z</published>
+    <updated>2026-11-05T15:42:50Z</updated>
+    <summary>Understand do your firm's accounting in QuickBooks Online — so you can make the right call. Explained in plain terms.</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/update-products/release-notes-quickbooks-desktop-2024/L7oRK8JCw_US_en_US</id>
     <title>Release notes for QuickBooks Desktop 2024 - Intuit</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T10:43:10Z</published>
     <updated>2026-10-31T10:43:10Z</updated>
     <summary>The Centralized Audit Log in Intuit Accountant Suite gives your firm a single dashboard to track workflows and manage staff productivity across your entire ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESxAEB6zswFehJqbhU9in279ysuom1CfSltCFNgzZ0a3kIwNRZD-Fs9HxbFFVM9kwlNay5C92WWelh7UB_fvTYcBvkL3loY29mb0IoIIQxBFCJkBDOgL5W1qiC3JVkYtzS6doxxCpdIkGy9XwpZJRkYh-MLNyev1ZQmKiSefuTasyK4fHGtmcgO-OzHFVrummleccO72dlPFAVziS3gQG2a06m8viekn211X68FMFBiG-ulhzXMdUpVyBWRWjvvztBSeWupE6e</id>
-    <title>Use Claude to enter transactions and get insights in QuickBooks</title>
-    <link href="https://www.google.com/goto?url=CAESxAEB6zswFehJqbhU9in279ysuom1CfSltCFNgzZ0a3kIwNRZD-Fs9HxbFFVM9kwlNay5C92WWelh7UB_fvTYcBvkL3loY29mb0IoIIQxBFCJkBDOgL5W1qiC3JVkYtzS6doxxCpdIkGy9XwpZJRkYh-MLNyev1ZQmKiSefuTasyK4fHGtmcgO-OzHFVrummleccO72dlPFAVziS3gQG2a06m8viekn211X68FMFBiG-ulhzXMdUpVyBWRWjvvztBSeWupE6e" />
-    <published>2026-10-31T10:43:10Z</published>
-    <updated>2026-10-31T10:43:10Z</updated>
-    <summary>Connect QuickBooks Online to Claude in three steps. Generate reports, create invoices, and ask about your business data in chat.</summary>
   </entry>
 </feed>

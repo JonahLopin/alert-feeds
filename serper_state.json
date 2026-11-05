@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 31013,
+  "credits_used": 31067,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T14:42:59Z",
+  "last_run": "2026-11-05T15:42:50Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 620
+  "runs": 621
  },
  "feeds": {
   "adp-help": {
@@ -11789,6 +11789,15 @@
     "summary": "A new District of Columbia law that regulates event ticket resales in order to prevent deceptive practices violates the US Constitution \u201cseveral times over ...",
     "title": "Ticket Resellers Aim to Scrap DC's New Deceptive ..."
    },
+   "news.bloomberglaw.com/business-and-practice/tiktok-google-meta-challenge-california-youth-social-media-law": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T15:42:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/tiktok-google-meta-challenge-california-youth-social-media-law",
+    "page": 1,
+    "summary": "Meta, TikTok, and Google are challenging a new California law that bans online platforms from making personalized recommendations to users under 16 and ...",
+    "title": "TikTok, Google, Meta Challenge California Youth Social ..."
+   },
    "news.bloomberglaw.com/business-and-practice/top-oversight-democrat-plots-ice-investigation-if-house-flips": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -12553,6 +12562,15 @@
     "page": 3,
     "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
     "title": "Wake Up Call: Trump Press Secretary's Lawyer Claims ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-weils-project-dunkirk-lines-up-jobs-for-staff": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-05T15:42:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-weils-project-dunkirk-lines-up-jobs-for-staff",
+    "page": 3,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
+    "title": "Wake Up Call: Weil's 'Project Dunkirk' Lines Up Jobs for Staff"
    },
    "news.bloomberglaw.com/business-and-practice/wall-street-bosses-look-past-pain-points-to-ramp-up-india-bets": {
     "baseline": false,
@@ -23349,6 +23367,15 @@
     "page": 3,
     "summary": "Your Inbox is your unified workspace inside QuickBooks Online and Intuit Accountant Suite (IAS). Use it to message your team, your clients, and your accountant.",
     "title": "Manage communications in your QuickBooks Online and Intuit ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/company-file/firms-accounting-quickbooks-online-accountant/L8hCIQ77L_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-05T15:42:50Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/company-file/firms-accounting-quickbooks-online-accountant/L8hCIQ77L_US_en_US",
+    "page": 1,
+    "summary": "Understand do your firm's accounting in QuickBooks Online \u2014 so you can make the right call. Explained in plain terms.",
+    "title": "Do your firm's accounting in Intuit Accountant Suite (IAS)"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/compare-products/get-done-quickbooks-mobile-app-web/L9YN5gwQw_US_en_US": {
     "baseline": true,
@@ -54446,6 +54473,15 @@
     "page": 1,
     "summary": "Experts to examine practical AI applications, evolving oversight, and responsible adoption as financial institutions prepare for what comes next.",
     "title": "Experts to examine practical AI applications"
+   },
+   "wolterskluwer.com/en/news/medi-span-survey-medication-intelligence": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-05T15:42:50Z",
+    "link": "https://www.wolterskluwer.com/en/news/medi-span-survey-medication-intelligence",
+    "page": 1,
+    "summary": "Nearly all healthcare professionals surveyed report their organizations are advancing toward AI-enabled medication workflows.",
+    "title": "New survey highlights demand for trusted medication ..."
    },
    "wolterskluwer.com/en/news/mini-pcnl-surgery-has-higher-stone-free-rate-in-treating-intermediate-size-kidney-stones": {
     "baseline": false,

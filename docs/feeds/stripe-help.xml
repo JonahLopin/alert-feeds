@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-04T18:43:24Z</updated>
+  <updated>2026-11-05T15:44:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:4041597582483389096</id>
+    <title>Save Australia BECS Direct Debit details for future payments | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/au-becs-debit/set-up-payment?payment-ui=direct-api" />
+    <published>2026-11-05T15:44:05Z</published>
+    <updated>2026-11-05T15:44:05Z</updated>
+    <summary>This guide shows you how to build and manage your own setup form. You use the Australia Bank Account Element to collect the BSB number and account ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:9752497154821447430</id>
     <title>Manage disputes through pre-arbitration and - Stripe Documentation</title>
@@ -795,13 +803,5 @@
     <published>2026-10-16T22:44:10Z</published>
     <updated>2026-10-16T22:44:10Z</updated>
     <summary>Attributes · idstring. Unique identifier for the object. · objectstring. String representing the object's type. · actionableboolean. An EFW is actionable ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:14034177576267037701</id>
-    <title>Instant transfers | Stripe Documentation</title>
-    <link href="https://docs.stripe.com/treasury/send/instant-transfers" />
-    <published>2026-10-16T22:44:10Z</published>
-    <updated>2026-10-16T22:44:10Z</updated>
-    <summary>The money transfers instantly. To learn where this is available, see Availability. Send an instant transfer. To send money to another business's ...</summary>
   </entry>
 </feed>
