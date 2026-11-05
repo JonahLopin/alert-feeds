@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-05T11:43:26Z</updated>
+  <updated>2026-11-05T17:43:20Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/3446341648</id>
+    <title>Gift Cards | SpotOn Express (FOH)</title>
+    <link href="https://help.spoton.com/space/SK/3446341648" />
+    <published>2026-11-05T17:43:20Z</published>
+    <updated>2026-11-05T17:43:20Z</updated>
+    <summary>Gift Cards. A POS station with an Edge/Ledge EMV, customer-facing display (CFD), or older Handheld 1.0 v1 and v2 models.</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/4176969851</id>
     <title>Update Your Bank Account Right from Your Dashboard</title>
@@ -794,14 +802,6 @@
     <link href="https://www.google.com/goto?url=CAESZgHrOzAV7mZDNizrlfIE6c2xFVvXOq4k1pFkOPq437xUspKl71Lv1X4zeUV0mgmOp0xuhsjmOpgyz2iyPG-QssX-lt_akpRmQQeeusxf_kb67YCJEIqnGo-zleDCh55PsoorKqtplw" />
     <published>2026-10-30T21:43:22Z</published>
     <updated>2026-10-30T21:43:22Z</updated>
-    <summary>Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu price.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVexvovihjquFXxh2ADTTkc0fB_nyuhx_UDMMiNZ91XhabMW7yojnLZLngiz73xyKp1-fbgq41hBDfjcQV1MST7x8JJ-2JJw_BBDFuYWfOY2L3IrBvZ2_ML1QZyAqTqCnHuQ</id>
-    <title>Open Items and Market Price | SpotOn Restaurant BOH</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVexvovihjquFXxh2ADTTkc0fB_nyuhx_UDMMiNZ91XhabMW7yojnLZLngiz73xyKp1-fbgq41hBDfjcQV1MST7x8JJ-2JJw_BBDFuYWfOY2L3IrBvZ2_ML1QZyAqTqCnHuQ" />
-    <published>2026-10-30T20:43:11Z</published>
-    <updated>2026-10-30T20:43:11Z</updated>
     <summary>Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu price.</summary>
   </entry>
 </feed>

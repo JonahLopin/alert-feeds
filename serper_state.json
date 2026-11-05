@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 31120,
+  "credits_used": 31172,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T16:42:53Z",
+  "last_run": "2026-11-05T17:43:20Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 622
+  "runs": 623
  },
  "feeds": {
   "adp-help": {
@@ -41904,6 +41904,15 @@
     "page": 1,
     "summary": "Auto Gratuity allows you to automatically apply a gratuity to guest checks based on guest count or order total. This feature helps ensure consistent service ...",
     "title": "Auto Gratuity | SpotOn Restaurant BOH"
+   },
+   "help.spoton.com/space/SK/3446341648": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-05T17:43:20Z",
+    "link": "https://help.spoton.com/space/SK/3446341648",
+    "page": 1,
+    "summary": "Gift Cards. A POS station with an Edge/Ledge EMV, customer-facing display (CFD), or older Handheld 1.0 v1 and v2 models.",
+    "title": "Gift Cards | SpotOn Express (FOH)"
    },
    "help.spoton.com/space/SK/3683876865": {
     "baseline": false,
