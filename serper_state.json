@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 30427,
+  "credits_used": 30481,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T03:43:26Z",
+  "last_run": "2026-11-05T04:43:28Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 609
+  "runs": 610
  },
  "feeds": {
   "adp-help": {
@@ -22947,6 +22947,15 @@
     "summary": "Invite your contractors to complete their own profile and tax info in QuickBooks Onlineand QuickBooks Online Contractor Payments. This isn't available in ...",
     "title": "Invite a contractor to add their own tax info - QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/managing-accountant-users-quickbooks-online/L2AcdYvHw_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-05T04:43:28Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/account-management/managing-accountant-users-quickbooks-online/L2AcdYvHw_US_en_US",
+    "page": 1,
+    "summary": "Managing accountant users in QuickBooks Online, explained \u2014 so your books stay accurate. Easier than you'd expect.",
+    "title": "Invite accountant users - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/request-rate-review-quickbooks-payments-discount/L8ypAmskg_US_en_US": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -28262,6 +28271,15 @@
     "page": 1,
     "summary": "Udforsk alle omr\u00e5der af SAP. Uddannelse og support. Uddannelse og certificering \u00b7 Support \u00b7 Dokumentation \u00b7 Community.",
     "title": "F_304302_GettyImages-1331794262_medium_jpg"
+   },
+   "news.sap.com/features": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-05T04:43:28Z",
+    "link": "https://news.sap.com/features/",
+    "page": 1,
+    "summary": "From AI to Analytics: connected data and intelligent technology drive better external workforce decisions. New SAP Incentive Management, +1-800-872-1727",
+    "title": "Feature Archives | SAP News Center"
    },
    "news.sap.com/finland/2026/10/sap-business-data-cloud-taloussuunnittelu-helsingin-yliopisto": {
     "baseline": false,
