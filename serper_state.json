@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 30481,
+  "credits_used": 30535,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T04:43:28Z",
+  "last_run": "2026-11-05T05:43:22Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 610
+  "runs": 611
  },
  "feeds": {
   "adp-help": {
@@ -29684,6 +29684,15 @@
     "summary": "SAPi enables business users to query SAP data in natural language and execute transactions \u2013 creating sales orders, purchase orders, and financial documents ...",
     "title": "Beyond the Demo: SAP APAC Partners Turning Agentic AI ..."
    },
+   "news.sap.com/sea/2026/11/comfortdelgro-drives-onecdg-vision-forward-with-integrated-sap-core": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T05:43:22Z",
+    "link": "https://news.sap.com/sea/2026/11/comfortdelgro-drives-onecdg-vision-forward-with-integrated-sap-core/",
+    "page": 2,
+    "summary": "SAP S/4HANA provides CDG with a real-time digital core across finance and related operational processes. Real-time postings and validations, embedded analytics ...",
+    "title": "ComfortDelGro drives OneCDG vision forward with ..."
+   },
    "news.sap.com/spain/2026/10/aceleracion-de-la-transformacion-en-los-procesos-de-fabricacion-despliegue-estrategico-de-ia-y-arquitectura-en-la-nube-y-edge-computing": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -37295,6 +37304,15 @@
     "page": 2,
     "summary": "Learn how to identify high-demand products with low competition for your ecommerce store, with tips and examples from a successful dropshipping coach.",
     "title": "How To Find High-Demand Products With Low Competition"
+   },
+   "shopify.com/blog/high-ticket-affiliate-programs": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-05T05:43:22Z",
+    "link": "https://www.shopify.com/blog/high-ticket-affiliate-programs",
+    "page": 3,
+    "summary": "High-ticket affiliate marketing is a performance-based model where affiliates earn a commission when a referral leads to a sale of a higher-priced product ...",
+    "title": "High-Ticket Affiliate Marketing: 15 Programs (2026)"
    },
    "shopify.com/blog/hobby-to-business": {
     "baseline": false,
