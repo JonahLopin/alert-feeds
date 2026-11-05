@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 30798,
+  "credits_used": 30851,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T10:43:05Z",
+  "last_run": "2026-11-05T11:43:26Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 616
+  "runs": 617
  },
  "feeds": {
   "adp-help": {
@@ -6723,6 +6723,15 @@
     "summary": "Paramount Global, Inc., a dispute over a 1988 statute that purports to regulate what information about its customers a \u201cvideo tape service provider\u201d might share ...",
     "title": "A Blockbuster-Era Law Won't Save Your Privacy: Stephen ..."
    },
+   "news.bloomberglaw.com/business-and-practice/a-comprehensive-us-youth-online-safety-law-faces-a-shaky-future": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T11:43:26Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/a-comprehensive-us-youth-online-safety-law-faces-a-shaky-future",
+    "page": 3,
+    "summary": "The House in June passed the Kids Internet and Digital Safety Act, a consolidated package combining numerous youth-safety, AI, gaming, and data broker bills ...",
+    "title": "A Comprehensive US Youth Online Safety Law Faces ..."
+   },
    "news.bloomberglaw.com/business-and-practice/a-o-recruits-debt-finances-capital-markets-partners-in-new-york": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -9075,6 +9084,15 @@
     "summary": "Sebastian Kaplan, Ronald Minassian, and Ryan Vandernaald joined Gordon Rees Scully Mansukhani as partners in its Sacramento office, the firm announced.",
     "title": "GRSM Recruits Three Litigation Partners for Sacramento ..."
    },
+   "news.bloomberglaw.com/business-and-practice/gutted-irs-now-charged-with-enforcing-data-center-wage-promises": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T11:43:26Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/gutted-irs-now-charged-with-enforcing-data-center-wage-promises",
+    "page": 2,
+    "summary": "Despite massive downsizing, the IRS is the one agency that can make sure taxpayers can reap some benefit from data centers by ensuring developers that ...",
+    "title": "Gutted IRS Now Charged With Enforcing Data Center ..."
+   },
    "news.bloomberglaw.com/business-and-practice/hackers-expose-the-names-of-tens-of-thousands-of-dhs-employees": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -10395,6 +10413,15 @@
     "page": 3,
     "summary": "Microsoft Corp. and Alphabet Inc. shares have gone separate ways since the companies' last earnings reports as Wall Street increasingly digs in on the way ...",
     "title": "Microsoft and Alphabet Earnings Put Focus on AI Cash Flow ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/midterm-state-democratic-wins-invite-labor-friendly-legislation": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T11:43:26Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/midterm-state-democratic-wins-invite-labor-friendly-legislation",
+    "page": 1,
+    "summary": "Keisha Lance Bottoms won the Georgia governorship in the 2026 midterm elections, a major victory for the Democratic Party. Statehouse election wins by Democrats ...",
+    "title": "Midterm State Democratic Wins Invite Labor-Friendly ..."
    },
    "news.bloomberglaw.com/business-and-practice/milbank-hires-white-cases-doe-for-project-finance-in-chicago": {
     "baseline": false,
@@ -41724,6 +41751,15 @@
     "page": 1,
     "summary": "Dual Pricing is a type of cash discount program, so by default it will discount your item price when cash is selected.",
     "title": "Dual Pricing Overview"
+   },
+   "help.spoton.com/space/SK/4176969851": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-05T11:43:26Z",
+    "link": "https://help.spoton.com/space/SK/4176969851",
+    "page": 1,
+    "summary": "Update your bank account directly from your SpotOn Dashboard. This process takes just a few minutes and helps ensure your deposits go to the correct account ...",
+    "title": "Update Your Bank Account Right from Your Dashboard"
    },
    "help.spoton.com/space/SK/4183130205": {
     "baseline": false,

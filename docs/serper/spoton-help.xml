@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-03T00:41:54Z</updated>
+  <updated>2026-11-05T11:43:26Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/4176969851</id>
+    <title>Update Your Bank Account Right from Your Dashboard</title>
+    <link href="https://help.spoton.com/space/SK/4176969851" />
+    <published>2026-11-05T11:43:26Z</published>
+    <updated>2026-11-05T11:43:26Z</updated>
+    <summary>Update your bank account directly from your SpotOn Dashboard. This process takes just a few minutes and helps ensure your deposits go to the correct account ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/5281611781/Generate+Dine-In,+Pickup,+&amp;+Delivery+SpotOn+Order+QR+Codes+%7C+SpotOn+Restaurant+BOH</id>
     <title>Generate Dine-In, Pickup, &amp; Delivery SpotOn Order QR ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T20:43:11Z</published>
     <updated>2026-10-30T20:43:11Z</updated>
     <summary>Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu price.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVdz0xt-FjNav-aV-c5PKqDqwio5GGrGDEIGDvKJS7Y6JaOF4BdVVSGPFIOiWapxYmtYTGywvz_8gYuDAhBocdHurdde8jg8h6fp81QZhg_RzqbXiN82sh97acHn_ZvVtLdg</id>
-    <title>Deposits Setup &amp; Management | SpotOn Reserve Web Portal</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVdz0xt-FjNav-aV-c5PKqDqwio5GGrGDEIGDvKJS7Y6JaOF4BdVVSGPFIOiWapxYmtYTGywvz_8gYuDAhBocdHurdde8jg8h6fp81QZhg_RzqbXiN82sh97acHn_ZvVtLdg" />
-    <published>2026-10-30T20:43:11Z</published>
-    <updated>2026-10-30T20:43:11Z</updated>
-    <summary>The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,</summary>
   </entry>
 </feed>
