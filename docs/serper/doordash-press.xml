@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:doordash-press</id>
   <title>DoorDash press (site:about.doordash.com/en-us/news/) via Serper</title>
-  <updated>2026-11-02T15:43:01Z</updated>
+  <updated>2026-11-05T14:42:59Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/doordash-press.xml" />
+  <entry>
+    <id>https://about.doordash.com/en-us/news/doordash-and-lyft</id>
+    <title>Save on Rides and Orders with One Membership</title>
+    <link href="https://about.doordash.com/en-us/news/doordash-and-lyft" />
+    <published>2026-11-05T14:42:59Z</published>
+    <updated>2026-11-05T14:42:59Z</updated>
+    <summary>U.S. DashPass members will be able. Lyft Go, Lyft's new premier rideshare membership valued at $9.99 per month, at no additional cost.</summary>
+  </entry>
   <entry>
     <id>https://about.doordash.com/en-us/news/meal-boxes-and-catering</id>
     <title>From a Meal for One to Catering for 150</title>

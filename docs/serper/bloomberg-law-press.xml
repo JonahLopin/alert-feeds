@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-05T13:43:27Z</updated>
+  <updated>2026-11-05T14:42:59Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/carlyle-beats-as-deal-exits-mitigate-dip-in-fee-related-earnings</id>
+    <title>Carlyle Beats as Deal Exits Mitigate Dip in Fee-Related ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/carlyle-beats-as-deal-exits-mitigate-dip-in-fee-related-earnings" />
+    <published>2026-11-05T14:42:59Z</published>
+    <updated>2026-11-05T14:42:59Z</updated>
+    <summary>Carlyle Group Inc. posted third-quarter earnings that topped Wall Street estimates as profits from asset sales helped offset a decline in fee-related ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/chinas-copper-squeeze-deepens-as-buyers-scramble-for-metal</id>
     <title>China's Copper Squeeze Deepens as Buyers Scramble ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-02T17:43:28Z</published>
     <updated>2026-11-02T17:43:28Z</updated>
     <summary>The full Fifth Circuit will reconsider a panel decision upholding a National Labor Relations Board decision that Trader Joe's Co. illegally terminated an ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/elon-musks-xai-loses-bid-to-escape-naacp-suit-over-gas-turbines</id>
-    <title>Elon Musk's xAI Loses Bid to Escape NAACP Suit Over ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/elon-musks-xai-loses-bid-to-escape-naacp-suit-over-gas-turbines" />
-    <published>2026-11-02T17:43:28Z</published>
-    <updated>2026-11-02T17:43:28Z</updated>
-    <summary>The Oct. 30 ruling allows a Clean Air Act lawsuit over an unpermitted gas plant xAI built in Southaven, Miss., to power its Grok artificial intelligence chatbot ...</summary>
   </entry>
 </feed>

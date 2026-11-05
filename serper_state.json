@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 30959,
+  "credits_used": 31013,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T13:43:27Z",
+  "last_run": "2026-11-05T14:42:59Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 619
+  "runs": 620
  },
  "feeds": {
   "adp-help": {
@@ -7549,6 +7549,15 @@
     "page": 1,
     "summary": "The COMPETE Act expands California's antitrust law by allowing state enforcers to pursue monopolization and monopsonization claims, while introducing legal ...",
     "title": "California's COMPETE Act Widens Antitrust Law but Adds ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/carlyle-beats-as-deal-exits-mitigate-dip-in-fee-related-earnings": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-05T14:42:59Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/carlyle-beats-as-deal-exits-mitigate-dip-in-fee-related-earnings",
+    "page": 3,
+    "summary": "Carlyle Group Inc. posted third-quarter earnings that topped Wall Street estimates as profits from asset sales helped offset a decline in fee-related ...",
+    "title": "Carlyle Beats as Deal Exits Mitigate Dip in Fee-Related ..."
    },
    "news.bloomberglaw.com/business-and-practice/cattle-grazing-now-a-primary-public-lands-use-to-boost-beef": {
     "baseline": false,
@@ -17736,6 +17745,15 @@
     "summary": "Five beloved local grocers are now available on DoorDash for on-demand delivery. of fresh, local, and affordable grocery options available",
     "title": "DoorDash Expands Grocery Selection with New Partnerships"
    },
+   "about.doordash.com/en-us/news/doordash-and-lyft": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T14:42:59Z",
+    "link": "https://about.doordash.com/en-us/news/doordash-and-lyft",
+    "page": 1,
+    "summary": "U.S. DashPass members will be able. Lyft Go, Lyft's new premier rideshare membership valued at $9.99 per month, at no additional cost.",
+    "title": "Save on Rides and Orders with One Membership"
+   },
    "about.doordash.com/en-us/news/doordash-crash-out-corners-data": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -24448,6 +24466,15 @@
     "summary": "Running into trouble? Here's how to fix error message 15XXX when downloading payroll updates in QuickBooks Workforce. Get unstuck in minutes.",
     "title": "Fix error message 15XXX when downloading payroll updates ..."
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/update-products/release-notes-quickbooks-desktop-2024/L7oRK8JCw_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T14:42:59Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/update-products/release-notes-quickbooks-desktop-2024/L7oRK8JCw_US_en_US",
+    "page": 1,
+    "summary": "Faster search, simpler setup, and better visibility, Find accounts instantly by searching within descriptions to ensure you select the right record every ...",
+    "title": "Release notes for QuickBooks Desktop 2024 - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/update-products/understand-quickbooks-desktop-release-process/L2tnnGnFE_US_en_US": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -28334,6 +28361,15 @@
     "page": 2,
     "summary": "Ontologie v \u0159e\u0161en\u00ed SAP umo\u017e\u0148uje snadnou spolupr\u00e1ci AI agent\u016f a zlep\u0161en\u00ed anal\u00fdzy podnikov\u00fdch dat pro firmy.",
     "title": "Ontologie pro efektivn\u00ed \u0159\u00edzen\u00ed AI agent\u016f"
+   },
+   "news.sap.com/cz/2026/11/mattoni-1873-sjednotila-planovani-vyroby-ve-ctyrech-zemich-dalsi-na-rade-je-srbsko": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-05T14:42:59Z",
+    "link": "https://news.sap.com/cz/2026/11/mattoni-1873-sjednotila-planovani-vyroby-ve-ctyrech-zemich-dalsi-na-rade-je-srbsko/",
+    "page": 2,
+    "summary": "Skupina Mattoni 1873, kter\u00e1 ro\u010dn\u011b prod\u00e1 t\u00e9m\u011b\u0159 dv\u011b miliardy lahv\u00ed, zavedla spole\u010dn\u00fd syst\u00e9m pl\u00e1nov\u00e1n\u00ed popt\u00e1vky a v\u00fdroby v \u010cesku, na Slovensku, ...",
+    "title": "Mattoni 1873 sjednotila pl\u00e1nov\u00e1n\u00ed v\u00fdroby ve \u010dty\u0159ech ..."
    },
    "news.sap.com/cz/2026/11/mattoni-1873-sjednotila-planovani-vyroby-ve-ctyrech-zemich-dalsi-na-rade-je-srbsko?amp=1": {
     "baseline": false,
