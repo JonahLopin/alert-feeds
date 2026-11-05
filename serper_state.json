@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 30373,
+  "credits_used": 30427,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T02:42:36Z",
+  "last_run": "2026-11-05T03:43:26Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 608
+  "runs": 609
  },
  "feeds": {
   "adp-help": {
@@ -11492,6 +11492,15 @@
     "summary": "New York Attorney General Letitia James (D) should be removed as the special prosecutor in the high-profile Cornell University rape investigation, according to ...",
     "title": "Supreme Court Today, Oct. 15, 2026"
    },
+   "news.bloomberglaw.com/business-and-practice/supreme-courts-alito-repeated-he-wont-step-down-over-election": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T03:43:26Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/supreme-courts-alito-repeated-he-wont-step-down-over-election",
+    "page": 3,
+    "summary": "The 76-year-old Alito, an anchor of the court's conservative wing, has been the subject of speculation that he might abruptly step down to let President Donald ...",
+    "title": "Supreme Court's Alito Repeated He Won't Step Down Over ..."
+   },
    "news.bloomberglaw.com/business-and-practice/supreme-courts-kagan-says-election-rulings-creating-nightmare": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -17204,6 +17213,15 @@
     "summary": "1. Plan Your Holiday Inventory Early 2. Build a Black Friday Marketing Strategy That Fits a Local Store 3. Run Holiday Promotions That Protect Your Margins",
     "title": "How to Increase Holiday Sales: 10 Strategies for Retail ..."
    },
+   "merchants.doordash.com/en-us/blog/local-seo-for-restaurants": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-05T03:43:26Z",
+    "link": "https://merchants.doordash.com/en-us/blog/local-seo-for-restaurants",
+    "page": 2,
+    "summary": "Local SEO for restaurants is the practice of making your restaurant easy to find when someone nearby searches for food on Google. It involves everything from ...",
+    "title": "Local SEO for Restaurants: Get Found by Nearby Diners"
+   },
    "merchants.doordash.com/en-us/blog/marketing-kpis-for-restaurants": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -17418,6 +17436,15 @@
     "page": 1,
     "summary": "A clear, consistent brand helps customers remember the why behind your restaurant and makes every other marketing channel work harder. Keep it simple and ...",
     "title": "25 Restaurant Marketing Ideas to Increase Sales in 2026"
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-marketing-tools": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-05T03:43:26Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-marketing-tools",
+    "page": 2,
+    "summary": "Discover the best restaurant marketing tools, from AI and CRM to loyalty and reviews, powered by DoorDash Direct.",
+    "title": "Best Restaurant Marketing Tools to Boost Sales in 2026"
    },
    "merchants.doordash.com/en-us/blog/restaurant-mission-statement": {
     "baseline": false,
@@ -24495,6 +24522,15 @@
     "page": 1,
     "summary": "Running an online clothing boutique is both a high-potential standalone business and a powerful digital extension for an existing storefront.",
     "title": "How to Get Inventory for an Online Boutique: Complete Guide"
+   },
+   "lightspeedhq.com/blog/pga-merchandise-show": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-05T03:43:26Z",
+    "link": "https://www.lightspeedhq.com/blog/pga-merchandise-show/",
+    "page": 1,
+    "summary": "Hosted by the PGA of America, this event is the mecca of innovation in the golf industry. Each year, hundreds of exhibitors and thousands of attendees ...",
+    "title": "The 2027 PGA Show: What to Know Before You Attend"
    },
    "lightspeedhq.com/blog/retail-store-daily-checklist": {
     "baseline": false,
@@ -42658,6 +42694,15 @@
     "first_seen": "2026-11-04T15:23:47Z",
     "link": "https://docs.stripe.com/billing/retention/migrate-from-managed-operations",
     "page": 3,
+    "summary": "Move your Managed Operations benefits messages, cancellation surveys, and retention offers to product loss messages, customer portal settings, and retention ...",
+    "title": "Migrate from Managed Operations to retention rules"
+   },
+   "docs.stripe.com/billing/retention/migrate-from-managed-operations?locale=ja-JP": {
+    "baseline": false,
+    "date_hint": "14 hours ago",
+    "first_seen": "2026-11-05T03:43:26Z",
+    "link": "https://docs.stripe.com/billing/retention/migrate-from-managed-operations?locale=ja-JP",
+    "page": 4,
     "summary": "Move your Managed Operations benefits messages, cancellation surveys, and retention offers to product loss messages, customer portal settings, and retention ...",
     "title": "Migrate from Managed Operations to retention rules"
    },

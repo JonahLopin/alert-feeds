@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-04T22:23:42Z</updated>
+  <updated>2026-11-05T03:43:26Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/billing/retention/migrate-from-managed-operations?locale=ja-JP</id>
+    <title>Migrate from Managed Operations to retention rules</title>
+    <link href="https://docs.stripe.com/billing/retention/migrate-from-managed-operations?locale=ja-JP" />
+    <published>2026-11-05T03:43:26Z</published>
+    <updated>2026-11-05T03:43:26Z</updated>
+    <summary>Move your Managed Operations benefits messages, cancellation surveys, and retention offers to product loss messages, customer portal settings, and retention ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/connect/platform-express-dashboard-taxes-faqs?locale=fr-FR</id>
     <title>Recommandations d'assistance et modèles de FAQ</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T15:42:45Z</published>
     <updated>2026-10-31T15:42:45Z</updated>
     <summary>Attributes · objectstring, value is "v2.money_management.financial_address_credit_simulation" · livemodeboolean. Has the value true if the object exists in live ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESgwEB6zswFZsmPiyOVeekRmaBv0cPQrCJB_G9daq7LFLdu6x7b9o7Xz6FPf67g5SksUyjQoJbqumnhthvZe2iM52X-5xy4XOO-jMS_3oyFQj3Itvl1mJYWRKr8pRFEXqDoTs8KyKjfCC-e8L5SYKdCu92L8s1R8EAEPqkeTIql3paWsBIlQ&amp;gsessionid=DfGciI9PuDcOAazbSoxf_X2XwiFiNWYUBta-cYCopy47cmMyzkMUAQ</id>
-    <title>Enable tax by default for subscription schedules</title>
-    <link href="https://www.google.com/goto?url=CAESgwEB6zswFZsmPiyOVeekRmaBv0cPQrCJB_G9daq7LFLdu6x7b9o7Xz6FPf67g5SksUyjQoJbqumnhthvZe2iM52X-5xy4XOO-jMS_3oyFQj3Itvl1mJYWRKr8pRFEXqDoTs8KyKjfCC-e8L5SYKdCu92L8s1R8EAEPqkeTIql3paWsBIlQ&amp;gsessionid=DfGciI9PuDcOAazbSoxf_X2XwiFiNWYUBta-cYCopy47cmMyzkMUAQ" />
-    <published>2026-10-31T15:42:45Z</published>
-    <updated>2026-10-31T15:42:45Z</updated>
-    <summary>The Tax integration configuration lets Stripe calculate tax automatically on subscription schedule phases that don't explicitly set automatic_tax or inherit ...</summary>
   </entry>
 </feed>
