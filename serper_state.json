@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 31067,
+  "credits_used": 31120,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T15:42:50Z",
+  "last_run": "2026-11-05T16:42:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 621
+  "runs": 622
  },
  "feeds": {
   "adp-help": {
@@ -7631,6 +7631,15 @@
     "summary": "The premium for spot copper in Shanghai jumped to 2,100 yuan ($315) a ton over futures on Thursday, the highest since 2021, according to Shanghai Metals Market.",
     "title": "China's Copper Squeeze Deepens as Buyers Scramble ..."
    },
+   "news.bloomberglaw.com/business-and-practice/chip-stocks-sink-as-traders-rotate-into-old-economy-stocks": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T16:42:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/chip-stocks-sink-as-traders-rotate-into-old-economy-stocks",
+    "page": 3,
+    "summary": "US equities plunged Thursday as a rotation out of chipmakers deepened and investors looked past the initial relief rally following the US midterm elections.",
+    "title": "Chip Stocks Sink as Traders Rotate Into 'Old Economy ..."
+   },
    "news.bloomberglaw.com/business-and-practice/citigroup-convenes-analysts-in-mexico-to-prepare-for-banamex-ipo": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -7693,6 +7702,15 @@
     "page": 1,
     "summary": "CNN moved to shut down an unusual defamation case over its reporting on the Iran war, saying Azerbaijan is trying to export its own censorship policies. CNN ...",
     "title": "CNN Blasts Azerbaijan's 'Dangerous' Lawsuit Over Iran ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/cohen-seglias-says-sierra-leone-hasnt-paid-legal-bills": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T16:42:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cohen-seglias-says-sierra-leone-hasnt-paid-legal-bills",
+    "page": 1,
+    "summary": "Cohen Seglias Pallas Greenhall & Furman PC has sued the Republic of Sierra Leone over claims the West African nation stopped paying its legal bills.",
+    "title": "Cohen Seglias Says Sierra Leone Hasn't Paid Legal Bills"
    },
    "news.bloomberglaw.com/business-and-practice/coinbase-crypto-lobbies-cut-spending-in-q3-after-bill-fails": {
     "baseline": false,
@@ -9722,6 +9740,15 @@
     "summary": "Jump Trading and DRW are committing traders and capital to an emerging market for financial contracts tied to computing power, as efforts to make the ...",
     "title": "Jump, DRW Bet on New Compute Market as AI Boom ..."
    },
+   "news.bloomberglaw.com/business-and-practice/justice-department-civil-rights-head-dhillon-plans-to-resign": {
+    "baseline": false,
+    "date_hint": "38 minutes ago",
+    "first_seen": "2026-11-05T16:42:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/justice-department-civil-rights-head-dhillon-plans-to-resign",
+    "page": 2,
+    "summary": "Harmeet Dhillon plans to step down from her role leading the Justice Department's civil rights unit, marking the first senior DOJ official to resign ...",
+    "title": "Justice Department Civil Rights Head Dhillon Plans to ..."
+   },
    "news.bloomberglaw.com/business-and-practice/justices-skip-review-of-cemex-challenge-to-nlrb-bargaining-order": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -10953,6 +10980,15 @@
     "page": 2,
     "summary": "Paul Weiss Rifkind Wharton & Garrison hired a number of junior lawyers from Weil Gotshal & Manges yesterday, after the firm's sudden decision to wind down ...",
     "title": "Paul Weiss, Simpson Race to Hire Weil Lawyers After ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/paxton-successor-scrutinizes-big-contracts-to-gop-legal-allies": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-05T16:42:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/paxton-successor-scrutinizes-big-contracts-to-gop-legal-allies",
+    "page": 2,
+    "summary": "Texas Attorney General-elect Nathan Johnson (D) vowed to abandon pending lawsuits from Ken Paxton's (R) tenure that he determines were brought for political ...",
+    "title": "Paxton Successor Scrutinizes Big Contracts to GOP Legal ..."
    },
    "news.bloomberglaw.com/business-and-practice/paypal-raises-guidance-as-turnaround-strategy-shows-promise": {
     "baseline": false,
