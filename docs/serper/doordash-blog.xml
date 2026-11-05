@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:doordash-blog</id>
   <title>DoorDash blog (site:merchants.doordash.com/en-us/blog/) via Serper</title>
-  <updated>2026-11-05T03:43:26Z</updated>
+  <updated>2026-11-05T13:43:27Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/doordash-blog.xml" />
+  <entry>
+    <id>https://merchants.doordash.com/en-us/blog/restaurant-staff-scheduling</id>
+    <title>Restaurant Employee &amp; Staff Scheduling: The Ultimate Guide</title>
+    <link href="https://merchants.doordash.com/en-us/blog/restaurant-staff-scheduling" />
+    <published>2026-11-05T13:43:27Z</published>
+    <updated>2026-11-05T13:43:27Z</updated>
+    <summary>Struggling to build a fair, efficient restaurant schedule? Get a step-by-step guide to staff scheduling that cuts costs and reduces turnover.</summary>
+  </entry>
   <entry>
     <id>https://merchants.doordash.com/en-us/blog/restaurant-marketing-tools</id>
     <title>Best Restaurant Marketing Tools to Boost Sales in 2026</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T03:43:22Z</published>
     <updated>2026-10-31T03:43:22Z</updated>
     <summary>This guide gives you 60+ restaurant feedback questions, sorted by category. You'll find questions on your overall experience, food quality, service, ambiance, ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESfAHrOzAVw3AcwjQMCmdLt-9weBBg5ihBwh4vi0v4tKTzASLBJuwmrSf0LLD_K4Atbnye_etKQGLvggX_WiZKrAVIPdleO6cR7_JT2a2Kq6bkq8a173OJhdjYJMqhZuH77vsVdA7oNQ2L0cWnBJjxJog0DXYgNKP2rTTZtWg</id>
-    <title>The Anatomy of a High-Converting Restaurant CRM ...</title>
-    <link href="https://www.google.com/goto?url=CAESfAHrOzAVw3AcwjQMCmdLt-9weBBg5ihBwh4vi0v4tKTzASLBJuwmrSf0LLD_K4Atbnye_etKQGLvggX_WiZKrAVIPdleO6cR7_JT2a2Kq6bkq8a173OJhdjYJMqhZuH77vsVdA7oNQ2L0cWnBJjxJog0DXYgNKP2rTTZtWg" />
-    <published>2026-10-31T03:43:22Z</published>
-    <updated>2026-10-31T03:43:22Z</updated>
-    <summary>A restaurant CRM (Customer Relationship Management) campaign uses customer data to send targeted messages through email, SMS, or push notifications.</summary>
   </entry>
 </feed>

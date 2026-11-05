@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-05T12:42:48Z</updated>
+  <updated>2026-11-05T13:43:27Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/chinas-copper-squeeze-deepens-as-buyers-scramble-for-metal</id>
+    <title>China's Copper Squeeze Deepens as Buyers Scramble ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/chinas-copper-squeeze-deepens-as-buyers-scramble-for-metal" />
+    <published>2026-11-05T13:43:27Z</published>
+    <updated>2026-11-05T13:43:27Z</updated>
+    <summary>The premium for spot copper in Shanghai jumped to 2,100 yuan ($315) a ton over futures on Thursday, the highest since 2021, according to Shanghai Metals Market.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/vietnam-says-trade-talks-continue-after-us-midterm-elections</id>
     <title>Vietnam Says Trade Talks Continue After US Midterm ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-02T17:43:28Z</published>
     <updated>2026-11-02T17:43:28Z</updated>
     <summary>The Oct. 30 ruling allows a Clean Air Act lawsuit over an unpermitted gas plant xAI built in Southaven, Miss., to power its Grok artificial intelligence chatbot ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/dechert-recruits-corporate-transactions-partner-bekdur-in-dubai</id>
-    <title>Dechert Recruits Corporate Transactions Partner Bekdur in ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/dechert-recruits-corporate-transactions-partner-bekdur-in-dubai" />
-    <published>2026-11-02T16:42:52Z</published>
-    <updated>2026-11-02T16:42:52Z</updated>
-    <summary>Bekdur advises global funds, corporates and alternative capital managers on corporate transactional matters, including complex cross-border transactions.</summary>
   </entry>
 </feed>

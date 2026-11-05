@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-05T12:42:48Z</updated>
+  <updated>2026-11-05T13:43:27Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/customer-acquisition</id>
+    <title>Customer Acquisition: Strategy, Funnel, and CAC (2026)</title>
+    <link href="https://www.shopify.com/blog/customer-acquisition" />
+    <published>2026-11-05T13:43:27Z</published>
+    <updated>2026-11-05T13:43:27Z</updated>
+    <summary>Discover how customer acquisition works, from channels and funnel stages to 8 proven strategies, CAC benchmarks, metrics, and tools.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/video-marketing</id>
     <title>Video Marketing: Strategy, Formats, and Tools (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T12:42:37Z</published>
     <updated>2026-10-31T12:42:37Z</updated>
     <summary>Bring more of your business into view with app activity, annotations, custom product data, and interactive sales maps—all within Shopify Analytics.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZwHrOzAVHmwkcRfSIzEQFTGD0eljHYFIWd9wyOI5XNE-wYoFtWkbg9D3ZMr7TIB5sx_-AxRW9ik7TiMNNRjMDAQJ5iq5Uv_IRe8UHV1aJeh1EYdySl6p-TAFDlYxqHN2B7cONBWySOo</id>
-    <title>Website Content: Types, Examples &amp; Writing Tips (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESZwHrOzAVHmwkcRfSIzEQFTGD0eljHYFIWd9wyOI5XNE-wYoFtWkbg9D3ZMr7TIB5sx_-AxRW9ik7TiMNNRjMDAQJ5iq5Uv_IRe8UHV1aJeh1EYdySl6p-TAFDlYxqHN2B7cONBWySOo" />
-    <published>2026-10-31T12:42:37Z</published>
-    <updated>2026-10-31T12:42:37Z</updated>
-    <summary>A website's content is everything a visitor sees or interacts with on a page: text, images, video, audio, and interactive elements like forms and quizzes.</summary>
   </entry>
 </feed>

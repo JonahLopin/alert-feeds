@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 30905,
+  "credits_used": 30959,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T12:42:48Z",
+  "last_run": "2026-11-05T13:43:27Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 618
+  "runs": 619
  },
  "feeds": {
   "adp-help": {
@@ -7612,6 +7612,15 @@
     "page": 2,
     "summary": "Chinese robotics sector fundraising decelerated sharply in past months to about 11 billion yuan ($1.6 billion) in October, suggesting a cooling in the ...",
     "title": "China Robot Funding Slows to $1.6 Billion as Shakeout ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/chinas-copper-squeeze-deepens-as-buyers-scramble-for-metal": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-11-05T13:43:27Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/chinas-copper-squeeze-deepens-as-buyers-scramble-for-metal",
+    "page": 1,
+    "summary": "The premium for spot copper in Shanghai jumped to 2,100 yuan ($315) a ton over futures on Thursday, the highest since 2021, according to Shanghai Metals Market.",
+    "title": "China's Copper Squeeze Deepens as Buyers Scramble ..."
    },
    "news.bloomberglaw.com/business-and-practice/citigroup-convenes-analysts-in-mexico-to-prepare-for-banamex-ipo": {
     "baseline": false,
@@ -17580,6 +17589,15 @@
     "page": 1,
     "summary": "SMS marketing (Short Message Service marketing) means sending promotional text messages to customers who have agreed to receive them.",
     "title": "SMS Marketing for Restaurants: Drive More Orders With ..."
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-staff-scheduling": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-05T13:43:27Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-staff-scheduling",
+    "page": 1,
+    "summary": "Struggling to build a fair, efficient restaurant schedule? Get a step-by-step guide to staff scheduling that cuts costs and reduces turnover.",
+    "title": "Restaurant Employee & Staff Scheduling: The Ultimate Guide"
    },
    "merchants.doordash.com/en-us/blog/restaurant-waitlist-app": {
     "baseline": false,
@@ -27912,6 +27930,15 @@
     "summary": "The supply chain AI conversation is shifting. For years, the focus was on faster insights, better forecasts, and sharper visibility.",
     "title": "Emerging Market Quadrant for Integrated Supply Chain AI ..."
    },
+   "news.sap.com/2026/11/sap-business-one-30-years-of-growing-together": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-05T13:43:27Z",
+    "link": "https://news.sap.com/2026/11/sap-business-one-30-years-of-growing-together/",
+    "page": 1,
+    "summary": "For 30 years, SAP Business One has been growing alongside small- and medium-sized customers. Read to learn more about the solution.",
+    "title": "SAP Business One: 30 Years of Growing Together"
+   },
    "news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -27938,6 +27965,15 @@
     "page": 2,
     "summary": "SAP Incentive Management, starter edition, offers core compensation management capabilities for growth-focused organizations. Learn more.",
     "title": "SAP Incentive Management, Starter Edition, Now Available"
+   },
+   "news.sap.com/2026/11/three-skills-define-entry-level-job-ai-era": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T13:43:27Z",
+    "link": "https://news.sap.com/2026/11/three-skills-define-entry-level-job-ai-era/",
+    "page": 2,
+    "summary": "As AI reshapes entry-level work, judgment, trust, and rapid learning are becoming the skills that set early-career talent apart. Learn more.",
+    "title": "3 Skills That Define the New Entry-Level Job in the AI Era"
    },
    "news.sap.com/africa": {
     "baseline": false,
@@ -28298,6 +28334,15 @@
     "page": 2,
     "summary": "Ontologie v \u0159e\u0161en\u00ed SAP umo\u017e\u0148uje snadnou spolupr\u00e1ci AI agent\u016f a zlep\u0161en\u00ed anal\u00fdzy podnikov\u00fdch dat pro firmy.",
     "title": "Ontologie pro efektivn\u00ed \u0159\u00edzen\u00ed AI agent\u016f"
+   },
+   "news.sap.com/cz/2026/11/mattoni-1873-sjednotila-planovani-vyroby-ve-ctyrech-zemich-dalsi-na-rade-je-srbsko?amp=1": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-11-05T13:43:27Z",
+    "link": "https://news.sap.com/cz/2026/11/mattoni-1873-sjednotila-planovani-vyroby-ve-ctyrech-zemich-dalsi-na-rade-je-srbsko/?amp=1",
+    "page": 2,
+    "summary": "Skupina Mattoni 1873, kter\u00e1 ro\u010dn\u011b prod\u00e1 t\u00e9m\u011b\u0159 dv\u011b miliardy lahv\u00ed, zavedla spole\u010dn\u00fd syst\u00e9m pl\u00e1nov\u00e1n\u00ed popt\u00e1vky a v\u00fdroby v \u010cesku, na Slovensku, ...",
+    "title": "Mattoni 1873 sjednotila pl\u00e1nov\u00e1n\u00ed v\u00fdroby ve \u010dty\u0159ech ..."
    },
    "news.sap.com/cz/2026/11/vetsina-firem-v-cesku-drzi-investice-do-ai-pod-milionem-korun-navratnost-vidi-tri-ctvrtiny-z-nich-ukazuji-data-sap": {
     "baseline": false,
@@ -37134,6 +37179,15 @@
     "page": 2,
     "summary": "Learn how to offer curbside pickup at your store. Get the step-by-step setup in Shopify, plus real merchant examples, tech options, and operating tips.",
     "title": "How To Offer Curbside Pickup: Retail Guide (2026)"
+   },
+   "shopify.com/blog/customer-acquisition": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-05T13:43:27Z",
+    "link": "https://www.shopify.com/blog/customer-acquisition",
+    "page": 2,
+    "summary": "Discover how customer acquisition works, from channels and funnel stages to 8 proven strategies, CAC benchmarks, metrics, and tools.",
+    "title": "Customer Acquisition: Strategy, Funnel, and CAC (2026)"
    },
    "shopify.com/blog/customer-connection": {
     "baseline": false,
