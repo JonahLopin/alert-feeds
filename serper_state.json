@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 31172,
+  "credits_used": 31224,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T17:43:20Z",
+  "last_run": "2026-11-05T18:43:24Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 623
+  "runs": 624
  },
  "feeds": {
   "adp-help": {
@@ -17914,6 +17914,15 @@
     "page": 1,
     "summary": "Starbucks Canada and DoorDash Canada announced a new partnership to offer on-demand delivery of Starbucks at participating locations.",
     "title": "Starbucks and DoorDash Launch Delivery Partnership in ..."
+   },
+   "about.doordash.com/en-us/news/topic/consumers": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-05T18:43:24Z",
+    "link": "https://about.doordash.com/en-us/news/topic/consumers",
+    "page": 1,
+    "summary": "The Holidays Just Got Easier: Gifts, Christmas Trees, Catering and Returns, All on DoorDash From a new Holiday Hub to daily DashPass savings and up to 50% off during Black Friday week, DoorDash makes it easy to spend less and celebrate more.",
+    "title": "Consumers | News | DoorDash"
    },
    "google.com/goto?url=CAESigEB6zswFQnegQ6J5r1Gn4wl7VNCjsmg8pbvEDayR2H-UtVDW3qY_ly-HSDfDh-7DHY1JbjENRRoVtAqC6itbylh7t-FLEonNkIWj-mWx_qZ_esbBV6z_D2IebFC0pC7_LDXQv8bAlpcmOuRlgHc1691-x0IQid32gARwYh2ou__AXpck4BHm-YlHas&gsessionid=da0HqEeURtzJ4ZdNued2vCxDH-m1JGP3IR3Uz7vorFSVoF5DlzeO3w": {
     "baseline": false,
