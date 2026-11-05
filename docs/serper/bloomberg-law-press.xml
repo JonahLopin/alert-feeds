@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-05T00:41:43Z</updated>
+  <updated>2026-11-05T01:43:37Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/nra-seeks-arbitration-to-recoup-over-200-million-in-legal-fees</id>
+    <title>NRA Seeks Arbitration to Recoup Over $200 Million in ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/nra-seeks-arbitration-to-recoup-over-200-million-in-legal-fees" />
+    <published>2026-11-05T01:43:37Z</published>
+    <updated>2026-11-05T01:43:37Z</updated>
+    <summary>The National Rifle Association is seeking arbitration with its former outside counsel, Brewer, Attorneys &amp; Counselors, as the gun-rights group seeks to ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/dungeons-dragons-style-game-licensees-ip-win-upheld-on-appeal</id>
     <title>Dungeons &amp; Dragons-Style Game Licensee's IP Win ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T16:42:50Z</published>
     <updated>2026-10-31T16:42:50Z</updated>
     <summary>Weil Gotshal &amp; Manges' stunning collapse sends the firm's nearly 600 associates out on the job market with their career paths newly upended.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/seatgeek-defeats-privacy-lawsuit-over-data-sharing-with-tiktok</id>
-    <title>SeatGeek Defeats Privacy Lawsuit Over Data Sharing With ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/seatgeek-defeats-privacy-lawsuit-over-data-sharing-with-tiktok" />
-    <published>2026-10-31T16:42:50Z</published>
-    <updated>2026-10-31T16:42:50Z</updated>
-    <summary>SeatGeek Inc. defeated a proposed class action alleging it illegally disclosed consumers' personal information to TikTok Inc. , Meta Platforms Inc.</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 30268,
+  "credits_used": 30321,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T00:41:43Z",
+  "last_run": "2026-11-05T01:43:37Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 606
+  "runs": 607
  },
  "feeds": {
   "adp-help": {
@@ -10629,6 +10629,15 @@
     "page": 1,
     "summary": "North Carolina elections boards can implement mail ballot voting restrictions for the general election despite claims they violate civil rights laws, ...",
     "title": "North Carolina Mail Voting Restrictions Will Remain for ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/nra-seeks-arbitration-to-recoup-over-200-million-in-legal-fees": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-05T01:43:37Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/nra-seeks-arbitration-to-recoup-over-200-million-in-legal-fees",
+    "page": 4,
+    "summary": "The National Rifle Association is seeking arbitration with its former outside counsel, Brewer, Attorneys & Counselors, as the gun-rights group seeks to ...",
+    "title": "NRA Seeks Arbitration to Recoup Over $200 Million in ..."
    },
    "news.bloomberglaw.com/business-and-practice/nvidia-backed-lumentum-sold-out-of-ai-server-parts-till-2029-1": {
     "baseline": false,
@@ -29975,6 +29984,15 @@
     "page": 1,
     "summary": "Autonomous CX Arrives: What's New in SAP Customer Experience Q3 2026 \u00b7 The Suite Advantage: Why Enterprises Don't Evaluate CRM in Isolation \u00b7 From Two Weeks to ...",
     "title": "CRM and customer experience Archives"
+   },
+   "news.sap.com/topics/customers": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-05T01:43:37Z",
+    "link": "https://news.sap.com/topics/customers/",
+    "page": 1,
+    "summary": "SAP TechEd in 2026: SAP Tells Developers \u201cYou Can Build the Autonomous Enterprise\u201d \u00b7 From Two Weeks to Seconds: How Ericsson Is Reimagining B2B Commerce with AI.",
+    "title": "Customers Archives"
    },
    "news.sap.com/topics/ecosystem": {
     "baseline": false,

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-04T23:23:02Z</updated>
+  <updated>2026-11-05T01:43:37Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/topics/customers/</id>
+    <title>Customers Archives</title>
+    <link href="https://news.sap.com/topics/customers/" />
+    <published>2026-11-05T01:43:37Z</published>
+    <updated>2026-11-05T01:43:37Z</updated>
+    <summary>SAP TechEd in 2026: SAP Tells Developers “You Can Build the Autonomous Enterprise” · From Two Weeks to Seconds: How Ericsson Is Reimagining B2B Commerce with AI.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/germany/2026/11/ki-zukunft-servicebereitstellung/</id>
     <title>Servicebereitstellung durch KI-gestützte Lösungen</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T05:42:34Z</published>
     <updated>2026-10-31T05:42:34Z</updated>
     <summary>SAP en NTT willen hun technologie en dienstverlening combineren om organisaties te helpen profiteren van innovaties op het gebied van cloud en AI.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESiAEB6zswFd_hLrscHO4lLnIEuX27fu_3G7FQxBXTT3dzy7MggFv_G_hGYV9AbsW24FRcpG4Hz8jIkcixhZOYwkDnMsxY3jceGm30PARQR20u-NuYLkiZceZfmpNcpFm_TgIlk32CYS_F1PU5OMdOKaJAQ8U5Ibm24Wg646HjY6Bbhr6aBxypVipk</id>
-    <title>How to Lead with AI Governance | SAP TechEd</title>
-    <link href="https://www.google.com/goto?url=CAESiAEB6zswFd_hLrscHO4lLnIEuX27fu_3G7FQxBXTT3dzy7MggFv_G_hGYV9AbsW24FRcpG4Hz8jIkcixhZOYwkDnMsxY3jceGm30PARQR20u-NuYLkiZceZfmpNcpFm_TgIlk32CYS_F1PU5OMdOKaJAQ8U5Ibm24Wg646HjY6Bbhr6aBxypVipk" />
-    <published>2026-10-31T05:42:34Z</published>
-    <updated>2026-10-31T05:42:34Z</updated>
-    <summary>Learn about the offerings SAP highlighted at SAP TechEd to be able to manage AI governance and enforce governance policies at runtime.</summary>
   </entry>
 </feed>
