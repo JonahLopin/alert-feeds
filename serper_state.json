@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 30535,
+  "credits_used": 30588,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T05:43:22Z",
+  "last_run": "2026-11-05T06:44:24Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 611
+  "runs": 612
  },
  "feeds": {
   "adp-help": {
@@ -12861,6 +12861,15 @@
     "page": 2,
     "summary": "The best iPad kiosk software for a quick-service restaurant in 2026 is the one that holds up during your rush: fast to order on, connected to your kitchen and ...",
     "title": "Best iPad Kiosk Software for Quick-Service Restaurants in ..."
+   },
+   "chowbus.com/blog/best-pos-system-for-bakery-guide": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-05T06:44:24Z",
+    "link": "https://www.chowbus.com/blog/best-pos-system-for-bakery-guide",
+    "page": 1,
+    "summary": "Weight-based pricing \u2014 items like mooncakes, bulk cookies, or pastries sold by the pound or by weight tier Piece-count and box pricing",
+    "title": "Best POS System for Bakery: Why Weight-Based Pricing ..."
    },
    "chowbus.com/blog/best-restaurant-inventory-management-tools-multi-concept-kitchen": {
     "baseline": false,
@@ -29689,6 +29698,15 @@
     "date_hint": "2 hours ago",
     "first_seen": "2026-11-05T05:43:22Z",
     "link": "https://news.sap.com/sea/2026/11/comfortdelgro-drives-onecdg-vision-forward-with-integrated-sap-core/",
+    "page": 2,
+    "summary": "SAP S/4HANA provides CDG with a real-time digital core across finance and related operational processes. Real-time postings and validations, embedded analytics ...",
+    "title": "ComfortDelGro drives OneCDG vision forward with ..."
+   },
+   "news.sap.com/sea/2026/11/comfortdelgro-drives-onecdg-vision-forward-with-integrated-sap-core?amp=1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-05T06:44:24Z",
+    "link": "https://news.sap.com/sea/2026/11/comfortdelgro-drives-onecdg-vision-forward-with-integrated-sap-core/?amp=1",
     "page": 2,
     "summary": "SAP S/4HANA provides CDG with a real-time digital core across finance and related operational processes. Real-time postings and validations, embedded analytics ...",
     "title": "ComfortDelGro drives OneCDG vision forward with ..."
