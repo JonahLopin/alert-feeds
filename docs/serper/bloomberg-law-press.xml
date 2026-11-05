@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-05T01:43:37Z</updated>
+  <updated>2026-11-05T02:42:36Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/judge-in-rare-move-takes-witness-stand-in-death-threats-trial</id>
+    <title>Judge in Rare Move Takes Witness Stand in Death Threats ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/judge-in-rare-move-takes-witness-stand-in-death-threats-trial" />
+    <published>2026-11-05T02:42:36Z</published>
+    <updated>2026-11-05T02:42:36Z</updated>
+    <summary>US District Judge Charles Breyer testified Wednesday in the criminal trial of a man who allegedly threatened to murder him.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/nra-seeks-arbitration-to-recoup-over-200-million-in-legal-fees</id>
     <title>NRA Seeks Arbitration to Recoup Over $200 Million in ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-01T16:06:28Z</published>
     <updated>2026-11-01T16:06:28Z</updated>
     <summary>For restructuring lawyers at Weil Gotshal &amp; Manges, a golf and tennis outing in New Jersey last month was meant to be celebratory.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/weil-collapse-floods-market-with-lawyers-looking-for-new-jobs</id>
-    <title>Weil Collapse Floods Market With Lawyers Looking for ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/weil-collapse-floods-market-with-lawyers-looking-for-new-jobs" />
-    <published>2026-10-31T16:42:50Z</published>
-    <updated>2026-10-31T16:42:50Z</updated>
-    <summary>Weil Gotshal &amp; Manges' stunning collapse sends the firm's nearly 600 associates out on the job market with their career paths newly upended.</summary>
   </entry>
 </feed>

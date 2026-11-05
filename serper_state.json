@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 30321,
+  "credits_used": 30373,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T01:43:37Z",
+  "last_run": "2026-11-05T02:42:36Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 607
+  "runs": 608
  },
  "feeds": {
   "adp-help": {
@@ -9532,6 +9532,15 @@
     "page": 4,
     "summary": "Reyes, a Joe Biden appointee, blocked the government from removing or damaging trees on the East Potomac Park golf course while a legal challenge progresses.",
     "title": "Judge Deals Trump New Setback in DC Golf Course ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/judge-in-rare-move-takes-witness-stand-in-death-threats-trial": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-05T02:42:36Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/judge-in-rare-move-takes-witness-stand-in-death-threats-trial",
+    "page": 4,
+    "summary": "US District Judge Charles Breyer testified Wednesday in the criminal trial of a man who allegedly threatened to murder him.",
+    "title": "Judge in Rare Move Takes Witness Stand in Death Threats ..."
    },
    "news.bloomberglaw.com/business-and-practice/judge-keeps-block-on-border-wall-teeing-up-supreme-court-row": {
     "baseline": false,
@@ -37610,6 +37619,15 @@
     "summary": "Learn how to noindex a Shopify page with the seo.hidden metafield, confirm it worked, troubleshoot issues, and compare other indexing controls.",
     "title": "How To Noindex a Shopify Page With Metafields (2026)"
    },
+   "shopify.com/blog/nps-calculation": {
+    "baseline": false,
+    "date_hint": "11 hours ago",
+    "first_seen": "2026-11-05T02:42:36Z",
+    "link": "https://www.shopify.com/blog/nps-calculation",
+    "page": 1,
+    "summary": "Use this formula to calculate your Net Promoter Score (NPS) to understand how customers feel about your business. Plus tips to improve your NPS.",
+    "title": "Net Promoter Score (NPS) Calculation and Tips (2026)"
+   },
    "shopify.com/blog/on-page-seo": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -51351,6 +51369,15 @@
     "page": 1,
     "summary": "Sarah Vlasic of Vertex wins the 2026 Info-Tech Women Leading IT Award, recognizing her leadership in enterprise AI, data transformation and technology.",
     "title": "Vertex's Sarah Vlasic Wins Info-Tech Women Leading IT ..."
+   },
+   "vertexinc.com/company/news/latest-news/vertex-announces-third-quarter-2026-financial-results": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-05T02:42:36Z",
+    "link": "https://www.vertexinc.com/company/news/latest-news/vertex-announces-third-quarter-2026-financial-results",
+    "page": 1,
+    "summary": "Vertex is the leading and most-trusted provider of comprehensive, integrated tax technology solutions, having helped 10000+ businesses since 1978.",
+    "title": "Vertex Announces Third Quarter 2026 Financial Results"
    },
    "vertexinc.com/company/news/latest-news/vertex-delivers-enhanced-value-customers-vertex-o-series-tax-engine-oracle-deployed-oracle-cloud": {
     "baseline": false,

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-05T00:41:43Z</updated>
+  <updated>2026-11-05T02:42:36Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/nps-calculation</id>
+    <title>Net Promoter Score (NPS) Calculation and Tips (2026)</title>
+    <link href="https://www.shopify.com/blog/nps-calculation" />
+    <published>2026-11-05T02:42:36Z</published>
+    <updated>2026-11-05T02:42:36Z</updated>
+    <summary>Use this formula to calculate your Net Promoter Score (NPS) to understand how customers feel about your business. Plus tips to improve your NPS.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/things-to-make-and-sell</id>
     <title>25 Things to Make and Sell From Home (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T11:43:25Z</published>
     <updated>2026-10-31T11:43:25Z</updated>
     <summary>Discover 17 secret websites to make money online, from survey apps to gig platforms, including current pay rates, payout minimums, and fees.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdAHrOzAV3IHkr6ddhT5LUxF74l5KDBjHraEN0377v307ouIe3-qh-74P5Tws62dftpopD5TFt2duVw77LPQrgO9Z9qdvZZzgfQqH2f1efuC4YG5zgKzXyrF5q_2CfbbVHnG48KplkqS2GQdGPSyWbsma2rGi</id>
-    <title>How to test your business idea, one product at a time (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESdAHrOzAV3IHkr6ddhT5LUxF74l5KDBjHraEN0377v307ouIe3-qh-74P5Tws62dftpopD5TFt2duVw77LPQrgO9Z9qdvZZzgfQqH2f1efuC4YG5zgKzXyrF5q_2CfbbVHnG48KplkqS2GQdGPSyWbsma2rGi" />
-    <published>2026-10-31T11:43:25Z</published>
-    <updated>2026-10-31T11:43:25Z</updated>
-    <summary>Test your business idea by starting with one product, using AI to find products and build your Shopify store, then learning from real customer response.</summary>
   </entry>
 </feed>
