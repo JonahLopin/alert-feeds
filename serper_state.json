@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 31435,
+  "credits_used": 31489,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T22:43:09Z",
+  "last_run": "2026-11-05T23:42:58Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 628
+  "runs": 629
  },
  "feeds": {
   "adp-help": {
@@ -38951,6 +38951,15 @@
     "page": 1,
     "summary": "They help prevent illegal distribution outside regulated channels, reduce the risk of overconsumption, and encourage consumers to buy locally.",
     "title": "Customer Volume Limits: Key Facts for DtC Alcohol Shippers"
+   },
+   "sovos.com/blog/ship/economic-nexus-and-the-dtc-alcohol-shipper": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T23:42:58Z",
+    "link": "https://sovos.com/blog/ship/economic-nexus-and-the-dtc-alcohol-shipper/",
+    "page": 1,
+    "summary": "Nexus determines when a state can require you to collect sales tax. if a business wants to ship alcohol into the state, it must collect and pay sales tax on ...",
+    "title": "Economic Nexus and the DtC Alcohol Shipper - Sovos"
    },
    "sovos.com/blog/ship/five-years-of-proof-the-case-for-dtc-spirits-shipping": {
     "baseline": false,
