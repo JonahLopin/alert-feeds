@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 31330,
+  "credits_used": 31383,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T20:43:40Z",
+  "last_run": "2026-11-05T21:43:05Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 626
+  "runs": 627
  },
  "feeds": {
   "adp-help": {
@@ -7586,6 +7586,15 @@
     "summary": "The US derivatives regulator said it's not going to crack down on software companies offering access to trading forums without certain registration ...",
     "title": "CFTC Relief Opens Prediction Market Floodgates for App ..."
    },
+   "news.bloomberglaw.com/business-and-practice/challenge-to-idaho-trans-sports-ban-is-moot-appeals-court-says": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-05T21:43:05Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/challenge-to-idaho-trans-sports-ban-is-moot-appeals-court-says",
+    "page": 3,
+    "summary": "A challenge to Idaho's ban on transgender women and girls from participating on female school sports teams is moot after the US Supreme Court rejected the ...",
+    "title": "Challenge to Idaho Trans Sports Ban Is Moot, Appeals ..."
+   },
    "news.bloomberglaw.com/business-and-practice/chemical-companies-doj-seek-to-withdraw-test-order-lawsuit": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -10792,6 +10801,15 @@
     "summary": "North Carolina elections boards can implement mail ballot voting restrictions for the general election despite claims they violate civil rights laws, ...",
     "title": "North Carolina Mail Voting Restrictions Will Remain for ..."
    },
+   "news.bloomberglaw.com/business-and-practice/northwestern-law-gets-receptive-panel-in-anti-white-hiring-case": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T21:43:05Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/northwestern-law-gets-receptive-panel-in-anti-white-hiring-case",
+    "page": 2,
+    "summary": "Northwestern Law Gets Receptive Panel in Anti-White Hiring Case ... Northwestern University's law school faces a discrimination lawsuit over its hiring practices.",
+    "title": "Northwestern Law Gets Receptive Panel in Anti-White ..."
+   },
    "news.bloomberglaw.com/business-and-practice/nra-seeks-arbitration-to-recoup-over-200-million-in-legal-fees": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -12347,6 +12365,15 @@
     "summary": "The US audit watchdog's leader got a closer look at an inspection of an audit firm in Shanghai last week and stressed the importance of that oversight in ...",
     "title": "US Audit Watchdog's Leader Scrutinizes Chinese Firm ..."
    },
+   "news.bloomberglaw.com/business-and-practice/us-calls-prospect-of-patent-liability-for-moderna-devastating": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T21:43:05Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-calls-prospect-of-patent-liability-for-moderna-devastating",
+    "page": 1,
+    "summary": "Moderna should be shielded from patent infringement claims \u2014 with damages already assessed at $1.3 billion \u2014 under 28 U.S.C. \u00a7 1498(a),",
+    "title": "US Calls Prospect of Patent Liability for Moderna ' ..."
+   },
    "news.bloomberglaw.com/business-and-practice/us-china-blame-game-over-global-economy-tilts-in-beijings-favor": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -13255,6 +13282,15 @@
     "page": 1,
     "summary": "Kiosks, table tablets, and QR code ordering all let guests order for themselves. Each one fits a different service style. osks collect payment before the food ...",
     "title": "Let Your Service Style Pick Kiosk, Tablet, or QR"
+   },
+   "chowbus.com/blog/restaurant-waitlist-tools-what-they-save-host-stand": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-05T21:43:05Z",
+    "link": "https://www.chowbus.com/blog/restaurant-waitlist-tools-what-they-save-host-stand",
+    "page": 1,
+    "summary": "A host stand on a busy Friday night runs on a specific set of small tasks repeated dozens of times: write a name and party size on a paper list, ...",
+    "title": "Restaurant Waitlist Tools \u2014 What They Save at the Host ..."
    },
    "chowbus.com/blog/self-ordering-kiosk-cost-in-2026": {
     "baseline": false,
@@ -17688,6 +17724,15 @@
     "page": 1,
     "summary": "Fast casual or fast food restaurant statements lead with accessibility, value, and consistency. They speak to the community without the formality of fine- ...",
     "title": "20+ Restaurant Mission Statement Examples (+ Template)"
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-online-ordering-app": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-05T21:43:05Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-online-ordering-app",
+    "page": 1,
+    "summary": "Learn what a restaurant online ordering app is, what it costs, and how a branded app with DoorDash Direct can help turn regulars into repeat app orders.",
+    "title": "Restaurant Online Ordering App: How to Launch Your Own"
    },
    "merchants.doordash.com/en-us/blog/restaurant-order-management-system": {
     "baseline": false,
@@ -54997,6 +55042,15 @@
     "page": 2,
     "summary": "With the introduction of Ovid Guidelines AI, Wolters Kluwer is developing an agentic Generative AI (GenAI) workflow solution to accelerate this process and ...",
     "title": "Wolters Kluwer introduces Ovid Guidelines AI"
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-launches-agentic-tax-preparation-for-canadian-firms": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-05T21:43:05Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-launches-agentic-tax-preparation-for-canadian-firms",
+    "page": 1,
+    "summary": "New capabilities automate client intake, document organization, and data extraction while keeping tax professionals in control.",
+    "title": "Wolters Kluwer launches agentic tax preparation ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-launches-agentic-tax-preparation-in-cch-axcess": {
     "baseline": false,
