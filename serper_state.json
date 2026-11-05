@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 30693,
+  "credits_used": 30745,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T08:43:32Z",
+  "last_run": "2026-11-05T09:43:06Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 614
+  "runs": 615
  },
  "feeds": {
   "adp-help": {
@@ -11644,6 +11644,15 @@
     "page": 1,
     "summary": "Texas' chief election officer has failed to produce records involving a technical error that resulted in a backlog of 15,000 voter registrations,",
     "title": "Texas Sued by Voter Groups Over Registration Backlog ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/thailand-expects-us-tariff-to-stay-around-19-seeks-further-cut": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-05T09:43:06Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/thailand-expects-us-tariff-to-stay-around-19-seeks-further-cut",
+    "page": 4,
+    "summary": "Thailand expects a US tariff rate of around 19%, Prime Minister Anutin Charnvirakul said Thursday, adding that he hopes to persuade President Donald Trump ...",
+    "title": "Thailand Expects US Tariff to Stay Around 19%, Seeks ..."
    },
    "news.bloomberglaw.com/business-and-practice/the-burden-of-putins-war-is-mounting-on-russias-oil-giant": {
     "baseline": false,

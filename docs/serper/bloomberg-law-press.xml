@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-05T03:43:26Z</updated>
+  <updated>2026-11-05T09:43:06Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/thailand-expects-us-tariff-to-stay-around-19-seeks-further-cut</id>
+    <title>Thailand Expects US Tariff to Stay Around 19%, Seeks ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/thailand-expects-us-tariff-to-stay-around-19-seeks-further-cut" />
+    <published>2026-11-05T09:43:06Z</published>
+    <updated>2026-11-05T09:43:06Z</updated>
+    <summary>Thailand expects a US tariff rate of around 19%, Prime Minister Anutin Charnvirakul said Thursday, adding that he hopes to persuade President Donald Trump ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/supreme-courts-alito-repeated-he-wont-step-down-over-election</id>
     <title>Supreme Court's Alito Repeated He Won't Step Down Over ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-02T12:42:43Z</published>
     <updated>2026-11-02T12:42:43Z</updated>
     <summary>Traders have pulled billions from Binance since late last week, when the crypto exchange giant suffered the largest cyber theft in history.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/big-law-firms-track-midterm-election-vote-risking-trump-backlash</id>
-    <title>Big Law Firms Track Midterm Election Vote Risking Trump ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/big-law-firms-track-midterm-election-vote-risking-trump-backlash" />
-    <published>2026-11-02T11:42:37Z</published>
-    <updated>2026-11-02T11:42:37Z</updated>
-    <summary>Big Law firms are helping to staff a nationwide voter hotline as part of a broader effort to ensure ballot access and uphold voter rights in Tuesday's midterm ...</summary>
   </entry>
 </feed>
