@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-05T08:43:32Z</updated>
+  <updated>2026-11-05T12:42:48Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/video-marketing</id>
+    <title>Video Marketing: Strategy, Formats, and Tools (2026)</title>
+    <link href="https://www.shopify.com/blog/video-marketing" />
+    <published>2026-11-05T12:42:48Z</published>
+    <updated>2026-11-05T12:42:48Z</updated>
+    <summary>Video marketing, or video content marketing, is about using video to promote a business. This approach is a useful addition to many brands' overall strategies, ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/logo-design</id>
     <title>11 Types of Logos and How To Use Them (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T12:42:37Z</published>
     <updated>2026-10-31T12:42:37Z</updated>
     <summary>A website's content is everything a visitor sees or interacts with on a page: text, images, video, audio, and interactive elements like forms and quizzes.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZwHrOzAV-dvliV1a-or1uzN7SL9CCbFkOfKnumWZbIKq5LHPQDf2Ai_wngucWX8uO3QX1JN60FZK12MhcEEfABQ0sywEl8yC1XwjCZcscoutbiDqjy8wbIE_u455wbAA-7oxS_0k7J8</id>
-    <title>Now Your Shop Store and Online Store Stay in Sync (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESZwHrOzAV-dvliV1a-or1uzN7SL9CCbFkOfKnumWZbIKq5LHPQDf2Ai_wngucWX8uO3QX1JN60FZK12MhcEEfABQ0sywEl8yC1XwjCZcscoutbiDqjy8wbIE_u455wbAA-7oxS_0k7J8" />
-    <published>2026-10-31T12:42:37Z</published>
-    <updated>2026-10-31T12:42:37Z</updated>
-    <summary>Now, for select merchants, supported content from the homepage of your online store syncs directly with your Shop store.</summary>
   </entry>
 </feed>
