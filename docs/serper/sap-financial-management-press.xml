@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-05T06:44:24Z</updated>
+  <updated>2026-11-05T08:43:32Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/2026/11/sap-und-hpe-tabellarische-ki-weltraum/?amp=1</id>
+    <title>SAP und HPE wollen tabellarische KI im Weltraum einsetzen</title>
+    <link href="https://news.sap.com/germany/2026/11/sap-und-hpe-tabellarische-ki-weltraum/?amp=1" />
+    <published>2026-11-05T08:43:32Z</published>
+    <updated>2026-11-05T08:43:32Z</updated>
+    <summary>SAP-RPT soll Anfang 2027 auf dem HPE Spaceborne Computer-2 an Bord der ISS bereitgestellt werden. Damit soll gezeigt werden, wie das Modell betriebliche ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/sea/2026/11/comfortdelgro-drives-onecdg-vision-forward-with-integrated-sap-core/?amp=1</id>
     <title>ComfortDelGro drives OneCDG vision forward with ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T06:43:16Z</published>
     <updated>2026-10-31T06:43:16Z</updated>
     <summary>News, information, feature articles, press releases &amp; stories from SAP about global technology and business events, conferences, etc.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESXQHrOzAVSkiSBbpkojW6ZQ5EO-H8uXd0p_IFwIYthvNQnVxAUhbRRvuOirNkK2TgsNkWBYCSnO0wjm_9gLAz_GR8mZ-1mQ199_CF63z_OD1UATLu4QIaRxwLpJiUQA</id>
-    <title>SAP Cloud Computing News &amp; Stories</title>
-    <link href="https://www.google.com/goto?url=CAESXQHrOzAVSkiSBbpkojW6ZQ5EO-H8uXd0p_IFwIYthvNQnVxAUhbRRvuOirNkK2TgsNkWBYCSnO0wjm_9gLAz_GR8mZ-1mQ199_CF63z_OD1UATLu4QIaRxwLpJiUQA" />
-    <published>2026-10-31T06:43:16Z</published>
-    <updated>2026-10-31T06:43:16Z</updated>
-    <summary>Feature articles, press releases, blogs, news, information &amp; stories from SAP about about cloud trends and topics, cloud software, cloud solutions, ...</summary>
   </entry>
 </feed>

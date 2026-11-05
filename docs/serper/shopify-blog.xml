@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-05T07:42:50Z</updated>
+  <updated>2026-11-05T08:43:32Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/logo-design</id>
+    <title>11 Types of Logos and How To Use Them (2026)</title>
+    <link href="https://www.shopify.com/blog/logo-design" />
+    <published>2026-11-05T08:43:32Z</published>
+    <updated>2026-11-05T08:43:32Z</updated>
+    <summary>Logos can become intrinsically tied to your brand's identity, and they may define a customer's first impression—which is why the one you choose matters.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/pinterest-ads-examples</id>
     <title>Pinterest Ads Examples and Tips for Ecommerce - Shopify</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T12:42:37Z</published>
     <updated>2026-10-31T12:42:37Z</updated>
     <summary>Now, for select merchants, supported content from the homepage of your online store syncs directly with your Shop store.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVCdLKpYjIhrvPDSDN8lIq8ZAPR8kK5SBG_SCjRMq-3tGg1NcdPHxWan_0To5Xx1RXto2I0W4O3mAifFv0viWlellAiLF7qg_e-yMF5PuIDTf2s9Wi6XR6O2Gok4bG16HHDA</id>
-    <title>Hamburger Menu: Ecommerce Examples and Tips (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVCdLKpYjIhrvPDSDN8lIq8ZAPR8kK5SBG_SCjRMq-3tGg1NcdPHxWan_0To5Xx1RXto2I0W4O3mAifFv0viWlellAiLF7qg_e-yMF5PuIDTf2s9Wi6XR6O2Gok4bG16HHDA" />
-    <published>2026-10-31T12:42:37Z</published>
-    <updated>2026-10-31T12:42:37Z</updated>
-    <summary>A hamburger menu is a navigational icon. Learn when it can help or hurt your ecommerce store navigation, plus get hamburger menu examples and design tips.</summary>
   </entry>
 </feed>
