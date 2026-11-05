@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-05T15:44:05Z</updated>
+  <updated>2026-11-05T20:45:00Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8186003233800073947</id>
+    <title>Approval Requests | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/core/approval-requests?api-version=2026-09-30.preview" />
+    <published>2026-11-05T20:45:00Z</published>
+    <updated>2026-11-05T20:45:00Z</updated>
+    <summary>An approval request represents a pending action that requires review before execution. Learn more about calling API v2 endpoints. Was this section ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:4041597582483389096</id>
     <title>Save Australia BECS Direct Debit details for future payments | Stripe Documentation</title>
@@ -795,13 +803,5 @@
     <published>2026-10-16T22:44:10Z</published>
     <updated>2026-10-16T22:44:10Z</updated>
     <summary>Review changes to Apps on Devices APIs in private preview.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:14457789205863563794</id>
-    <title>The Early Fraud Warning object | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/radar/early_fraud_warnings/object?api-version=2026-04-22.preview" />
-    <published>2026-10-16T22:44:10Z</published>
-    <updated>2026-10-16T22:44:10Z</updated>
-    <summary>Attributes · idstring. Unique identifier for the object. · objectstring. String representing the object's type. · actionableboolean. An EFW is actionable ...</summary>
   </entry>
 </feed>

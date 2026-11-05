@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 31277,
+  "credits_used": 31330,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-05T19:42:57Z",
+  "last_run": "2026-11-05T20:43:40Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 625
+  "runs": 626
  },
  "feeds": {
   "adp-help": {
@@ -18591,6 +18591,15 @@
     "page": 1,
     "summary": "The Bulgarian Ministry of Finance has published a draft bill to amend the VAT Act and introduce a national structured electronic invoicing and digital ...",
     "title": "Bulgaria Makes Progress in Tax Digitization with SAF-T ..."
+   },
+   "edicomgroup.com/blog/digital-invoicing-venezuela": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-05T20:43:40Z",
+    "link": "https://edicomgroup.com/blog/digital-invoicing-venezuela",
+    "page": 1,
+    "summary": "A digital invoice is an electronic document that replaces the traditional paper invoice, a manual invoice.",
+    "title": "Digital Invoicing in Venezuela (SENIAT)"
    }
   },
   "edicom-press": {},

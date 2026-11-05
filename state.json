@@ -5823,6 +5823,12 @@
    "summary": "Use cross-border payouts to transfer funds to connected accounts in their local currencies when your platform and connected accounts are in ...",
    "title": "Connect cross-border payouts | Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:8186003233800073947": {
+   "first_seen": "2026-11-05T20:45:00Z",
+   "link": "https://docs.stripe.com/api/v2/core/approval-requests?api-version=2026-09-30.preview",
+   "summary": "An approval request represents a pending action that requires review before execution. Learn more about calling API v2 endpoints. Was this section ...",
+   "title": "Approval Requests | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:8295351546662826994": {
    "first_seen": "2026-10-09T11:10:19Z",
    "link": "https://docs.stripe.com/event-destinations/overview",
