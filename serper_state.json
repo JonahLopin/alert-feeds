@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 31705,
+  "credits_used": 31760,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-06T03:42:54Z",
+  "last_run": "2026-11-06T04:42:44Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 633
+  "runs": 634
  },
  "feeds": {
   "adp-help": {
@@ -24720,6 +24720,15 @@
     "summary": "Here's how you can get the latest bank transactions, and select the right category for your bank transactions to accurately represent your income and expenses.",
     "title": "Categorize bank transactions in QuickBooks Solopreneur - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/report-management/customize-reports-create-custom-summary-reports/L55HEZScC_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-06T04:42:44Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/report-management/customize-reports-create-custom-summary-reports/L55HEZScC_US_en_US",
+    "page": 3,
+    "summary": "Learn how to customize reports and create custom summary reports \u2014 and save hours on bookkeeping. Set it up with confidence.",
+    "title": "Customize reports and create custom summary reports"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/report-management/view-edit-management-reports-quickbooks-online/L90RAh2XZ_US_en_US": {
     "baseline": true,
     "date_hint": "22 hours ago",
@@ -29780,6 +29789,15 @@
     "date_hint": "2 hours ago",
     "first_seen": "2026-11-06T03:42:54Z",
     "link": "https://news.sap.com/korea/2026/11/30%EB%85%84-%EB%8F%99%ED%96%89-sap-business-one-ai-%EC%8B%9C%EB%8C%80%EC%97%90%EB%8F%84-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%99%80-%ED%95%A8%EA%BB%98-%EA%B0%84%EB%8B%A4/",
+    "page": 2,
+    "summary": "SAP Business One\uc774 \uc62c\ud574 30\uc8fc\ub144\uc744 \ub9de\uc558\uc2b5\ub2c8\ub2e4. \uc911\uc18c\uc911\uacac\uae30\uc5c5\uc6a9 \uc804\uc0ac\uc801 \uc790\uc6d0\uad00\ub9ac(ERP) \uc18c\ud504\ud2b8\uc6e8\uc5b4\uc778 \uc774 \uc81c\ud488\uc758 \uace0\uac1d \uc720\uc9c0\uc728\uc740 90%\ub300 \ud6c4\ubc18\uc785\ub2c8\ub2e4. \uace0\uac1d\uc774 \ub5a0\ub098\ub294 \uacbd\uc6b0\ub294 ...",
+    "title": "30\ub144 \ub3d9\ud589 SAP Business One, AI \uc2dc\ub300\uc5d0\ub3c4 \ud30c\ud2b8\ub108\uc640 \ud568\uaed8 \uac04\ub2e4"
+   },
+   "news.sap.com/korea/2026/11/30%EB%85%84-%EB%8F%99%ED%96%89-sap-business-one-ai-%EC%8B%9C%EB%8C%80%EC%97%90%EB%8F%84-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%99%80-%ED%95%A8%EA%BB%98-%EA%B0%84%EB%8B%A4?amp=1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-06T04:42:44Z",
+    "link": "https://news.sap.com/korea/2026/11/30%EB%85%84-%EB%8F%99%ED%96%89-sap-business-one-ai-%EC%8B%9C%EB%8C%80%EC%97%90%EB%8F%84-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%99%80-%ED%95%A8%EA%BB%98-%EA%B0%84%EB%8B%A4/?amp=1",
     "page": 2,
     "summary": "SAP Business One\uc774 \uc62c\ud574 30\uc8fc\ub144\uc744 \ub9de\uc558\uc2b5\ub2c8\ub2e4. \uc911\uc18c\uc911\uacac\uae30\uc5c5\uc6a9 \uc804\uc0ac\uc801 \uc790\uc6d0\uad00\ub9ac(ERP) \uc18c\ud504\ud2b8\uc6e8\uc5b4\uc778 \uc774 \uc81c\ud488\uc758 \uace0\uac1d \uc720\uc9c0\uc728\uc740 90%\ub300 \ud6c4\ubc18\uc785\ub2c8\ub2e4. \uace0\uac1d\uc774 \ub5a0\ub098\ub294 \uacbd\uc6b0\ub294 ...",
     "title": "30\ub144 \ub3d9\ud589 SAP Business One, AI \uc2dc\ub300\uc5d0\ub3c4 \ud30c\ud2b8\ub108\uc640 \ud568\uaed8 \uac04\ub2e4"
@@ -39322,6 +39340,15 @@
     "page": 1,
     "summary": "Intermittent issues are not as disruptive as downtime. This simply means that our system has detected some level of degradation from the IRS system that may ...",
     "title": "About IRS intermittent issues - Sovos Docs"
+   },
+   "docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/manage-your-account/manage-login": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-06T04:42:44Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/manage-your-account/manage-login",
+    "page": 1,
+    "summary": "Learn how to log in for the first time. Enter your email address and password. Then click Log In.",
+    "title": "Log in | Product Documentation Documentation - Sovos Docs"
    },
    "docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/tin-matching": {
     "baseline": false,
