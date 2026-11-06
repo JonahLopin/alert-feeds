@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-05T13:43:27Z</updated>
+  <updated>2026-11-06T00:41:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/streamline-business-processes</id>
+    <title>How to Streamline Business Processes for Ecommerce</title>
+    <link href="https://www.shopify.com/blog/streamline-business-processes" />
+    <published>2026-11-06T00:41:44Z</published>
+    <updated>2026-11-06T00:41:44Z</updated>
+    <summary>How to streamline business processes · 1. Audit and map current processes · 2. Establish clear standard operating procedures (SOPs) · 3. Automate repetitive tasks ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.shopify.com/blog/seo-url</id>
+    <title>Slug Optimization SEO: URL Slug Best Practices (2027)</title>
+    <link href="https://www.shopify.com/blog/seo-url" />
+    <published>2026-11-06T00:41:44Z</published>
+    <updated>2026-11-06T00:41:44Z</updated>
+    <summary>Slug optimization SEO guide: learn what a URL slug is and follow seven rules for clean, readable product, collection, and page URLs.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/customer-acquisition</id>
     <title>Customer Acquisition: Strategy, Funnel, and CAC (2026)</title>
@@ -787,21 +803,5 @@
     <published>2026-10-31T12:42:37Z</published>
     <updated>2026-10-31T12:42:37Z</updated>
     <summary>Digital advertising is the practice of promoting your products and services online through a range of ad formats and digital channels.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESawHrOzAVF8fuCtcwwC7kW2zTnqYDFa4_w149u-vw0Hh7wGTolZS9sIk8vFUpIDQO7QcG-94ze50veWd_9oSM53RST1Q1-7gWLyVls4dHov1owLbjO-SE3bxWw7iN2qaRF6JYzxL2UBN2GEcj</id>
-    <title>AI Customer Service for Ecommerce: Uses &amp; Tools (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESawHrOzAVF8fuCtcwwC7kW2zTnqYDFa4_w149u-vw0Hh7wGTolZS9sIk8vFUpIDQO7QcG-94ze50veWd_9oSM53RST1Q1-7gWLyVls4dHov1owLbjO-SE3bxWw7iN2qaRF6JYzxL2UBN2GEcj" />
-    <published>2026-10-31T12:42:37Z</published>
-    <updated>2026-10-31T12:42:37Z</updated>
-    <summary>AI customer service uses artificial intelligence to answer customer questions and assist support teams. For ecommerce businesses, that can mean explaining a ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESawHrOzAV3KwwSfgCM6Am3YtkSVUjvPkC3kj7zyYrslrR6ALQcXCL2rdkUsMuUgDMSKzPrAWxsOakmW5Ff9gNhOh6T9YfwpHVGSZuNvs-HEXbCfsKj60K2dDt3dPCL_20ZsReESmUbPuGtvYM</id>
-    <title>A More Complete View of Your Business in Shopify Analytics</title>
-    <link href="https://www.google.com/goto?url=CAESawHrOzAV3KwwSfgCM6Am3YtkSVUjvPkC3kj7zyYrslrR6ALQcXCL2rdkUsMuUgDMSKzPrAWxsOakmW5Ff9gNhOh6T9YfwpHVGSZuNvs-HEXbCfsKj60K2dDt3dPCL_20ZsReESmUbPuGtvYM" />
-    <published>2026-10-31T12:42:37Z</published>
-    <updated>2026-10-31T12:42:37Z</updated>
-    <summary>Bring more of your business into view with app activity, annotations, custom product data, and interactive sales maps—all within Shopify Analytics.</summary>
   </entry>
 </feed>
