@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 31542,
+  "credits_used": 31596,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-06T00:41:44Z",
+  "last_run": "2026-11-06T01:43:21Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 630
+  "runs": 631
  },
  "feeds": {
   "adp-help": {
@@ -17968,6 +17968,15 @@
     "summary": "Offer a prix fixe menu. Consider sticking to your crowd pleasers. Help guests plate their takeout meals at home. Consider Valentine's Day brunch specials. ...",
     "title": "8 Valentine's Day Tips for Restaurant Owners"
    },
+   "merchants.doordash.com/en-us/blog/what-is-a-commissary-kitchen": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-06T01:43:21Z",
+    "link": "https://merchants.doordash.com/en-us/blog/what-is-a-commissary-kitchen",
+    "page": 1,
+    "summary": "A commissary kitchen is a licensed, commercial-grade kitchen that food businesses rent. They use it to prep, cook, and store food they sell somewhere else. Food ...",
+    "title": "What Is a Commissary Kitchen? Types, Costs & Uses"
+   },
    "merchants.doordash.com/en-us/blog/what-is-a-gastropub": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -23969,6 +23978,24 @@
     "summary": "Learn how features and data transfer from QuickBooks Desktop to QuickBooks Online \u2014 without the usual headaches. Do it in just a few clicks.",
     "title": "Learn how features and data transfer from QuickBooks ... - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/import-export-data-files/export-convert-quickbooks-online-data-quickbooks/L0tKtLwhn_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-06T01:43:21Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/import-export-data-files/export-convert-quickbooks-online-data-quickbooks/L0tKtLwhn_US_en_US",
+    "page": 3,
+    "summary": "If you're interested in support any time, any day, consider upgrading to QuickBooks Online Advanced. Use the migration tool to export your company data from ...",
+    "title": "Use the migration tool to move QuickBooks Online data ... - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/import-export-data-files/move-quickbooks-desktop-file-quickbooks-online/L6af3Z0Fb_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-06T01:43:21Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/import-export-data-files/move-quickbooks-desktop-file-quickbooks-online/L6af3Z0Fb_US_en_US",
+    "page": 3,
+    "summary": "Desktop migration services in QuickBooks Online: here's how, step by step \u2014 so your books stay accurate. Do it in just a few clicks.",
+    "title": "Move your QuickBooks Desktop company file to ... - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/import-transactions/connect-amazon-seller-central-quickbooks/L7EyuwWEn_US_en_US": {
     "baseline": true,
     "date_hint": "1 day ago",
@@ -24095,6 +24122,15 @@
     "summary": "How to understand your subscription rates and charges, explained clearly \u2014 and what it means for your business. Clear answers, no jargon.",
     "title": "Understand your subscription rates and charges - QuickBooks"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/inventory-management/whats-new-quickbooks-desktop-2024/L381Krc4A_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-06T01:43:21Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/inventory-management/whats-new-quickbooks-desktop-2024/L381Krc4A_US_en_US",
+    "page": 2,
+    "summary": "Custom field improvements (QuickBooks Desktop Enterprise only). You can now filter reports using text or dropdown lists. We've also improved the error handling ...",
+    "title": "What's new in QuickBooks Desktop 2024 - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/invoicing/enter-billable-time-job-quickbooks-online/L7Rliz6dh_US_en_US": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -24139,6 +24175,15 @@
     "page": 1,
     "summary": "Searching how to depreciate an asset? Follow this quick guide in QuickBooks Online \u2014 so everything reconciles cleanly. Clear, step-by-step instructions.",
     "title": "Set up an asset depreciation account in QuickBooks Online"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/list-management/maximum-number-list-entries-list-limits-custom/L0q0uTz3u_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-06T01:43:21Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/list-management/maximum-number-list-entries-list-limits-custom/L0q0uTz3u_US_en_US",
+    "page": 3,
+    "summary": "List entries help you to better manage your company data. Using them to keep track of things like customers, vendors, services, inventory items, and non- ...",
+    "title": "Maximum number of list entries (list limits in QuickBooks ..."
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/loans/quickbooks-capital-faq/L9pC4w8h4_US_en_US": {
     "baseline": false,
