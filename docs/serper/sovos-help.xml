@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-06T04:42:44Z</updated>
+  <updated>2026-11-06T18:43:21Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/add-and-manage-users/delete-users</id>
+    <title>Delete users | Product Documentation Documentation - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/add-and-manage-users/delete-users" />
+    <published>2026-11-06T18:43:21Z</published>
+    <updated>2026-11-06T18:43:21Z</updated>
+    <summary>Delete users Permanently remove a user's access to your account. Note: Only Admin users can delete users. Caution: This action permanently deletes the user and ...</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/manage-your-account/manage-login</id>
     <title>Log in | Product Documentation Documentation - Sovos Docs</title>
@@ -795,13 +803,5 @@
     <published>2026-10-18T11:43:01Z</published>
     <updated>2026-10-18T11:43:01Z</updated>
     <summary>Learn how to log in for the first time. Enter your email address and password. Then click Log In.</summary>
-  </entry>
-  <entry>
-    <id>https://docs.sovos.com/en/1099-reporting/tincheck/manage-billing-and-subscription/update-billing-information/update-billing-information-in-tincheck</id>
-    <title>Update billing information in TINCheck - Sovos Docs</title>
-    <link href="https://docs.sovos.com/en/1099-reporting/tincheck/manage-billing-and-subscription/update-billing-information/update-billing-information-in-tincheck" />
-    <published>2026-10-18T07:44:57Z</published>
-    <updated>2026-10-18T07:44:57Z</updated>
-    <summary>Update billing information in TINCheck · Go to your profile, click your name, and select Billing and payments from the dropdown. · Click Update billing info.</summary>
   </entry>
 </feed>
