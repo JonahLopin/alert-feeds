@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-06T22:23:16Z</updated>
+  <updated>2026-11-06T23:23:12Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:5496127983343093569</id>
+    <title>Court Upholds Judgment That Insurer Owes Scholastic $20 Million - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/court-upholds-judgment-that-insurer-owes-scholastic-20-million" />
+    <published>2026-11-06T23:23:12Z</published>
+    <updated>2026-11-06T23:23:12Z</updated>
+    <summary>Scholastic Inc.'s secondary insurer failed to convince a federal appeals court that it was improperly ordered to pay nearly $20 million to cover ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:2542179547152819406</id>
     <title>Meta, Snap, TikTok Beat School Districts' Addiction State Suits - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-11-04T11:25:06Z</published>
     <updated>2026-11-04T11:25:06Z</updated>
     <summary>Hong Kong's government welcomes passage of the amended bill for crypto-asset reporting framework and common reporting standard by the Legislative ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:1430817413390263393</id>
-    <title>China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow" />
-    <published>2026-11-04T11:25:06Z</published>
-    <updated>2026-11-04T11:25:06Z</updated>
-    <summary>Chinese robotics sector fundraising decelerated sharply in past months to about 11 billion yuan ($1.6 billion) in October, suggesting a cooling in ...</summary>
   </entry>
 </feed>
