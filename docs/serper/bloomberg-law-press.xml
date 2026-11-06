@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-06T00:41:44Z</updated>
+  <updated>2026-11-06T02:42:46Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/goldman-goes-quiet-on-women-partner-promotions-as-progress-slows</id>
+    <title>Goldman Goes Quiet on Women Partner Promotions as ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/goldman-goes-quiet-on-women-partner-promotions-as-progress-slows" />
+    <published>2026-11-06T02:42:46Z</published>
+    <updated>2026-11-06T02:42:46Z</updated>
+    <summary>Goldman Sachs Group Inc.'s announcement of new partners Thursday boasted that 28% started as interns and that new members typically took 17 years to get ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/fired-labor-board-member-says-agencys-independence-undermined</id>
     <title>Fired Labor Board Member Says Agency's Independence ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-03T18:43:41Z</published>
     <updated>2026-11-03T18:43:41Z</updated>
     <summary>A landmark court decision — halting Cloudflare Inc.'s stock restructuring and offering a novel interpretation of last year's Delaware corporate overhaul ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/apple-watchs-new-siri-recap-feature-challenges-privacy-norms</id>
-    <title>Apple Watch's New 'Siri Recap' Feature Challenges ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/apple-watchs-new-siri-recap-feature-challenges-privacy-norms" />
-    <published>2026-11-03T18:43:41Z</published>
-    <updated>2026-11-03T18:43:41Z</updated>
-    <summary>The latest Apple Watches' always-on listening feature marks a new era of surveillance into private conversations and runs up against state eavesdropping laws</summary>
   </entry>
 </feed>

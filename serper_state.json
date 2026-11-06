@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 31596,
+  "credits_used": 31651,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-06T01:43:21Z",
+  "last_run": "2026-11-06T02:42:46Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 631
+  "runs": 632
  },
  "feeds": {
   "adp-help": {
@@ -9111,6 +9111,15 @@
     "summary": "A global forum on transparency affiliated with the Organization for Economic Cooperation and Development released new information and cybersecurity guidance ...",
     "title": "Global Forum Releases Cybersecurity Guidance for Tax ..."
    },
+   "news.bloomberglaw.com/business-and-practice/goldman-goes-quiet-on-women-partner-promotions-as-progress-slows": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-06T02:42:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/goldman-goes-quiet-on-women-partner-promotions-as-progress-slows",
+    "page": 3,
+    "summary": "Goldman Sachs Group Inc.'s announcement of new partners Thursday boasted that 28% started as interns and that new members typically took 17 years to get ...",
+    "title": "Goldman Goes Quiet on Women Partner Promotions as ..."
+   },
    "news.bloomberglaw.com/business-and-practice/goldmans-2-3-billion-deal-puts-tax-smart-etfs-under-scrutiny": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -17528,6 +17537,15 @@
     "summary": "s to Grow Your Restaurant Business Strategy 1: Optimize Your Google Business Profile. Strategy 2: Invest in Local SEO Local search Business Profile. Strategy 3 ...",
     "title": "Top 20 Ways to Grow Your Restaurant Business"
    },
+   "merchants.doordash.com/en-us/blog/how-much-does-it-cost-to-open-a-coffee-shop": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-06T02:42:46Z",
+    "link": "https://merchants.doordash.com/en-us/blog/how-much-does-it-cost-to-open-a-coffee-shop",
+    "page": 3,
+    "summary": "See real coffee shop startup costs \u2014 equipment, buildout, licenses, and working capital \u2014 plus tips to open on a leaner budget.",
+    "title": "How Much Does It Cost to Open a Coffee Shop in 2026?"
+   },
    "merchants.doordash.com/en-us/blog/how-to-create-online-ordering-for-restaurants": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -18744,6 +18762,15 @@
     "page": 1,
     "summary": "A digital invoice is an electronic document that replaces the traditional paper invoice, a manual invoice.",
     "title": "Digital Invoicing in Venezuela (SENIAT)"
+   },
+   "edicomgroup.com/blog/united-kingdom-electronic-invoicing-b2b-b2g": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-06T02:42:46Z",
+    "link": "https://edicomgroup.com/blog/united-kingdom-electronic-invoicing-b2b-b2g",
+    "page": 1,
+    "summary": "The United Kingdom is moving forward with the modernization of its tax system by implementing mandatory electronic invoicing effective April 1, 2029.",
+    "title": "United Kingdom: mandatory electronic invoicing in April 2029"
    }
   },
   "edicom-press": {},
@@ -24926,6 +24953,15 @@
     "page": 1,
     "summary": "Connect each Intuit Enterprise Suite entity to Kintsugi to automate sales tax calculation, nexus tracking, and filing, whether your team or a firm owns it.",
     "title": "Kintsugi Integrates with Intuit Enterprise Suite"
+   },
+   "trykintsugi.com/blog/kintsugi-sales-tax-monthly-november-2026": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-06T02:42:46Z",
+    "link": "https://trykintsugi.com/blog/kintsugi-sales-tax-monthly-november-2026",
+    "page": 1,
+    "summary": "Ready to automate your sales tax? We import your usage-based billing data to track sales tax exposure, calculate economic nexus, and prepare your filings, all ...",
+    "title": "Sales Tax Monthly: OpenMeter & Self-Serve Filings"
    },
    "trykintsugi.com/blog/kintsugi-sales-tax-monthly-october": {
     "baseline": true,
