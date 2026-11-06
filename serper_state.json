@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 31651,
+  "credits_used": 31705,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-06T02:42:46Z",
+  "last_run": "2026-11-06T03:42:54Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 632
+  "runs": 633
  },
  "feeds": {
   "adp-help": {
@@ -29774,6 +29774,15 @@
     "page": 2,
     "summary": "SAP \ube44\uc988\ub2c8\uc2a4 AI \ud50c\ub7ab\ud3fc\uc740 \uc870\uc9c1\uc774 SAP \ubc0f \uc11c\ub4dc\ud30c\ud2f0 \ud658\uacbd \uc804\ubc18\uc5d0\uc11c AI\ub97c \uad6c\ucd95\ud558\uace0 \ub9e5\ub77d\uc744 \ub354\ud558\uba70 \uac70\ubc84\ub10c\uc2a4\ub97c \uc801\uc6a9\ud560 \uc218 \uc788\ub294 \ub2e8\uc77c \uacf5\uac04\uc744 \uc81c\uacf5\ud55c\ub2e4. \ube44\uc988\ub2c8\uc2a4 \uc0ac\uc6a9\uc790\uc640 ...",
     "title": "SAP, AI \uac1c\ubc1c\uc790\uc758 \ud575\uc2ec \uc194\ub8e8\uc158 \uad6c\ucd95 \ubc0f \uc758\ub3c4 \uae30\ubc18 \uc790\uc728 \uc2e4\ud589 ..."
+   },
+   "news.sap.com/korea/2026/11/30%EB%85%84-%EB%8F%99%ED%96%89-sap-business-one-ai-%EC%8B%9C%EB%8C%80%EC%97%90%EB%8F%84-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%99%80-%ED%95%A8%EA%BB%98-%EA%B0%84%EB%8B%A4": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-06T03:42:54Z",
+    "link": "https://news.sap.com/korea/2026/11/30%EB%85%84-%EB%8F%99%ED%96%89-sap-business-one-ai-%EC%8B%9C%EB%8C%80%EC%97%90%EB%8F%84-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%99%80-%ED%95%A8%EA%BB%98-%EA%B0%84%EB%8B%A4/",
+    "page": 2,
+    "summary": "SAP Business One\uc774 \uc62c\ud574 30\uc8fc\ub144\uc744 \ub9de\uc558\uc2b5\ub2c8\ub2e4. \uc911\uc18c\uc911\uacac\uae30\uc5c5\uc6a9 \uc804\uc0ac\uc801 \uc790\uc6d0\uad00\ub9ac(ERP) \uc18c\ud504\ud2b8\uc6e8\uc5b4\uc778 \uc774 \uc81c\ud488\uc758 \uace0\uac1d \uc720\uc9c0\uc728\uc740 90%\ub300 \ud6c4\ubc18\uc785\ub2c8\ub2e4. \uace0\uac1d\uc774 \ub5a0\ub098\ub294 \uacbd\uc6b0\ub294 ...",
+    "title": "30\ub144 \ub3d9\ud589 SAP Business One, AI \uc2dc\ub300\uc5d0\ub3c4 \ud30c\ud2b8\ub108\uc640 \ud568\uaed8 \uac04\ub2e4"
    },
    "news.sap.com/latinamerica/2026/10/bold-simplifica-sus-operaciones-con-sap-grow-para-potenciar-su-crecimiento": {
     "baseline": false,
