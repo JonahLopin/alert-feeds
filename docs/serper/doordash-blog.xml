@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:doordash-blog</id>
   <title>DoorDash blog (site:merchants.doordash.com/en-us/blog/) via Serper</title>
-  <updated>2026-11-06T19:42:36Z</updated>
+  <updated>2026-11-06T20:42:38Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/doordash-blog.xml" />
+  <entry>
+    <id>https://merchants.doordash.com/en-us/blog/low-waste-kitchens</id>
+    <title>How Restaurants Can Benefit from Low-Waste Kitchens</title>
+    <link href="https://merchants.doordash.com/en-us/blog/low-waste-kitchens" />
+    <published>2026-11-06T20:42:38Z</published>
+    <updated>2026-11-06T20:42:38Z</updated>
+    <summary>A low-waste kitchen focuses on reducing waste in food and packaging. Low-waste kitchens may use minimal-waste packaging, repurpose food scraps, or maximize ...</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAEShgEBxCJF1w3XJfbw_p-9ZeEWYGtoxOTTrNiPTw5JVbObgnHJ1qEkTB182iybOgOLdZCII1GZugjBR8gJlnB63k8KLUgljkCI9IqXfpDphFG6e6im0M_PYqmYBYhnPXV8ZvWW5PK-EVHRIo5KuDis4E_uT7uYmik3V4AwF0nsRIDfmTfhEWeyOQ</id>
     <title>How to Manage Your Restaurant Finances: A Guide for ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-05T21:43:05Z</published>
     <updated>2026-11-05T21:43:05Z</updated>
     <summary>Learn what a restaurant online ordering app is, what it costs, and how a branded app with DoorDash Direct can help turn regulars into repeat app orders.</summary>
-  </entry>
-  <entry>
-    <id>https://merchants.doordash.com/en-us/blog/restaurant-staff-scheduling</id>
-    <title>Restaurant Employee &amp; Staff Scheduling: The Ultimate Guide</title>
-    <link href="https://merchants.doordash.com/en-us/blog/restaurant-staff-scheduling" />
-    <published>2026-11-05T13:43:27Z</published>
-    <updated>2026-11-05T13:43:27Z</updated>
-    <summary>Struggling to build a fair, efficient restaurant schedule? Get a step-by-step guide to staff scheduling that cuts costs and reduces turnover.</summary>
   </entry>
 </feed>
