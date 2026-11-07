@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 32953,
+  "credits_used": 33004,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-07T04:24:19Z",
+  "last_run": "2026-11-07T05:23:15Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 657
+  "runs": 658
  },
  "feeds": {
   "adp-help": {
@@ -31808,6 +31808,15 @@
     "summary": "Learn how to assign ProAdvisor Academy courses to your team members, track their certifications, and manage learning deadlines directly within Intuit ...",
     "title": "Manage ProAdvisor training for your team in Intuit Accountant ..."
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/pap-website/create-proadvisor-profile/L4TVGFCG1_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-07T05:23:15Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/pap-website/create-proadvisor-profile/L4TVGFCG1_US_en_US",
+    "page": 1,
+    "summary": "Creating and publishing a ProAdvisor profile in Intuit Accountant Suite allows you to showcase your expertise on the Find a ProAdvisor website.",
+    "title": "Create and publish your ProAdvisor profile - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/pay-bills/pay-bills-across-companies-intuit-enterprise-suite/L5ewQGkkJ_US_en_US": {
     "baseline": true,
     "date_hint": "6 days ago",
@@ -48729,6 +48738,15 @@
     "summary": "A brand differentiation strategy aims to set your brand apart from the competition and attract the right customers.",
     "title": "Brand Differentiation Strategies for Small Businesses (2026)"
    },
+   "shopify.com/blog/brand-positioning-map": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-07T05:23:15Z",
+    "link": "https://www.shopify.com/blog/brand-positioning-map",
+    "page": 1,
+    "summary": "A brand positioning map can help you identify how to set your business apart from competitors. Learn how to make and use one for your brand strategy.",
+    "title": "How To Create a Brand Positioning Map (2026)"
+   },
    "shopify.com/blog/branded-dropshipping": {
     "baseline": false,
     "date_hint": "1 day ago",
@@ -48746,6 +48764,15 @@
     "page": 2,
     "summary": "A company's break-even point is the line between generating a net profit and operating at a net loss. It identifies the exact sales volume or revenue that ...",
     "title": "How To Calculate the Break-Even Point for Your Products"
+   },
+   "shopify.com/blog/build-website-timeline": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-07T05:23:15Z",
+    "link": "https://www.shopify.com/blog/build-website-timeline",
+    "page": 3,
+    "summary": "Learn how long it takes to build a website, including choosing a platform to launch and the factors that speed up or delay your timeline.",
+    "title": "How Long Does It Take to Build a Website? (2026)"
    },
    "shopify.com/blog/business-acronyms-list": {
     "baseline": false,
@@ -49401,6 +49428,15 @@
     "page": 1,
     "summary": "Fraud prevention and dispute management, built into Shopify\u2014and much of it is already working on your store.",
     "title": "Introducing Shopify Protect: block fraud, not customers (2026)"
+   },
+   "shopify.com/blog/is-accumulated-depreciation-an-asset": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-07T05:23:15Z",
+    "link": "https://www.shopify.com/blog/is-accumulated-depreciation-an-asset",
+    "page": 3,
+    "summary": "Accumulated depreciation is the cumulative total of depreciation recorded against an asset's cost, and it's recorded as a contra-asset on the balance sheet.",
+    "title": "Is Accumulated Depreciation an Asset on Your Balance Sheet? (2026)"
    },
    "shopify.com/blog/lead-scoring-template": {
     "baseline": false,
@@ -70092,6 +70128,15 @@
     "page": 1,
     "summary": "The use and adoption of virtual simulation in nursing education has come a long way in the past ten years. Not only has this technology become a mainstay in ...",
     "title": "Wolters Kluwer celebrates a decade of bringing virtual ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-completes-acquisition-of-brightflag": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-07T05:23:15Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-completes-acquisition-of-brightflag",
+    "page": 1,
+    "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting; ...",
+    "title": "Wolters Kluwer completes acquisition of Brightflag"
    },
    "wolterskluwer.com/en/news/wolters-kluwer-completes-acquisition-of-enablon": {
     "baseline": false,

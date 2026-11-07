@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-11-07T04:24:19Z</updated>
+  <updated>2026-11-07T05:23:15Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/pap-website/create-proadvisor-profile/L4TVGFCG1_US_en_US</id>
+    <title>Create and publish your ProAdvisor profile - QuickBooks - Intuit</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/pap-website/create-proadvisor-profile/L4TVGFCG1_US_en_US" />
+    <published>2026-11-07T05:23:15Z</published>
+    <updated>2026-11-07T05:23:15Z</updated>
+    <summary>Creating and publishing a ProAdvisor profile in Intuit Accountant Suite allows you to showcase your expertise on the Find a ProAdvisor website.</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/migrate-services/move-lists-quickbooks-online/L6v7AmS9l_US_en_US</id>
     <title>Move your lists from QuickBooks Desktop to QuickBooks Online - Intuit</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T17:43:17Z</published>
     <updated>2026-11-06T17:43:17Z</updated>
     <summary>Your guide to verify the business identity in QuickBooks Payroll — and save hours on bookkeeping. See exactly how below.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAES1gEBxCJF18po11jPPUZD7F2FsSTkQzW-AEw5tr1YaSCCtvE-Yj1nKYGSHBloiGEpwZmdwkpXBcUfCHG5bipp7gjzxu7SJPVNnAatHRZclgvrGH0wrsiwMbzzAgqRKIrEUmrkNyAYja6jL-PB9rEyke-_YKUlKy3wmI0lsrhFQbC1gyShPlijoxNZSei5y0V-qOdtewdyvmQgCrmYQxht7tqUTDdoUC-oCRt4cJCo46IgxL4EnJ0lEtSkQvSX0dWa38F5VaUYspc4Od3nuKo226v7mr7fihdL</id>
-    <title>Undo a client's entire reconciliation in Intuit Accountant Suite</title>
-    <link href="https://www.google.com/goto?url=CAES1gEBxCJF18po11jPPUZD7F2FsSTkQzW-AEw5tr1YaSCCtvE-Yj1nKYGSHBloiGEpwZmdwkpXBcUfCHG5bipp7gjzxu7SJPVNnAatHRZclgvrGH0wrsiwMbzzAgqRKIrEUmrkNyAYja6jL-PB9rEyke-_YKUlKy3wmI0lsrhFQbC1gyShPlijoxNZSei5y0V-qOdtewdyvmQgCrmYQxht7tqUTDdoUC-oCRt4cJCo46IgxL4EnJ0lEtSkQvSX0dWa38F5VaUYspc4Od3nuKo226v7mr7fihdL" />
-    <published>2026-11-06T17:43:17Z</published>
-    <updated>2026-11-06T17:43:17Z</updated>
-    <summary>In Intuit Accountant Suite, you can undo a client's whole reconciliation instead of removing individual transactions. This lets you start over from scratch to ...</summary>
   </entry>
 </feed>
