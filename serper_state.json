@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 33159,
+  "credits_used": 33212,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-07T08:42:39Z",
+  "last_run": "2026-11-07T09:43:06Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 661
+  "runs": 662
  },
  "feeds": {
   "adp-help": {
@@ -65582,6 +65582,15 @@
     "page": 1,
     "summary": "The four-layer audit pyramid helps firms reduce silos, streamline processes, and create a foundation for scalable AI adoption. Firms that move from fragmented ...",
     "title": "Four layers of a connected, AI-powered audit ecosystem"
+   },
+   "tax.thomsonreuters.com/blog/how-to-compare-ai-tax-prep-software": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-07T09:43:06Z",
+    "link": "https://tax.thomsonreuters.com/blog/how-to-compare-ai-tax-prep-software/",
+    "page": 1,
+    "summary": "Learn how to compare AI tax prep software with eight criteria, from source traceability to data security, and see how four common options stack up.",
+    "title": "How to compare AI tax prep software"
    },
    "tax.thomsonreuters.com/blog/how-to-improve-audit-team-productivity": {
     "baseline": false,
