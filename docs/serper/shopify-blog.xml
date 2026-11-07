@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-07T13:42:44Z</updated>
+  <updated>2026-11-07T19:42:59Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/facebook-ad-examples</id>
+    <title>Facebook Ad Examples: 9 Ads and Why They Work (2026)</title>
+    <link href="https://www.shopify.com/blog/facebook-ad-examples" />
+    <published>2026-11-07T19:42:59Z</published>
+    <updated>2026-11-07T19:42:59Z</updated>
+    <summary>Whether you're starting out with Facebook advertising or looking for inspiration to scale your campaigns, Facebook ad examples give a useful starting point.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/etsy-alternatives</id>
     <title>8 Etsy Alternatives for Selling Your Crafts (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T17:43:17Z</published>
     <updated>2026-11-06T17:43:17Z</updated>
     <summary>High-ticket affiliate marketing is a performance-based model where affiliates earn a commission when a referral leads to a sale of a higher-priced product ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdwHEIkXXpmPs93Fhx1h2DPgKWy15UVq3H-R_y6YY3XZ1mCf43npFkFWWV4ECFHbmJiex_BJbGmgCTgenQoWGzgDsXCvPoJvdVh6rma7_2uacF9csy6TB7IA9AEU73-rWfJ6sChPFdjPqbUYh_absqUC1NVyOPJYG</id>
-    <title>Content Creator vs. Influencer: What's the Difference? (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESdwHEIkXXpmPs93Fhx1h2DPgKWy15UVq3H-R_y6YY3XZ1mCf43npFkFWWV4ECFHbmJiex_BJbGmgCTgenQoWGzgDsXCvPoJvdVh6rma7_2uacF9csy6TB7IA9AEU73-rWfJ6sChPFdjPqbUYh_absqUC1NVyOPJYG" />
-    <published>2026-11-06T17:43:17Z</published>
-    <updated>2026-11-06T17:43:17Z</updated>
-    <summary>The difference between a content creator and influencer lies in their area of expertise and focus. Learn how to partner with both.</summary>
   </entry>
 </feed>
