@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-06T19:42:36Z</updated>
+  <updated>2026-11-07T13:42:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/unclaimed-property/reportmyup/create-and-submit-state-reports/arizona-preliminary-report-request-fall-2026</id>
+    <title>Arizona preliminary report request (Fall 2026) - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/unclaimed-property/reportmyup/create-and-submit-state-reports/arizona-preliminary-report-request-fall-2026" />
+    <published>2026-11-07T13:42:44Z</published>
+    <updated>2026-11-07T13:42:44Z</updated>
+    <summary>The Arizona Department of Revenue is requesting that businesses submit a preliminary NAUPA II report file before the annual reporting deadline of November 1, ...</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESxQEBxCJF1xJ_81f8LNZb_VrYXp0aCSJd9L5JKUAzMwFGsVveaXk_0YF3N6-14TLGlOQbulBqkTf8HBwjVv1elAfA6W60Rq03KOGF_FYzrjw9GAeNOIdFqUqJKzuLiGSysHi5tWnb5qX5jAyqXb-IOE-uO5twYEdPdLMNTJqWMp5tM9rtYjMvxdIG_89o840IC-QgwQMFLd00kN4yitwXsE1-LjT5tIPUKycxm772fx6ka5WkwaUuwhCs0GzKV6jPefbZVBryQQ</id>
     <title>Fix XML schema validation errors - Sovos Docs</title>
@@ -795,13 +803,5 @@
     <published>2026-10-20T11:46:17Z</published>
     <updated>2026-10-20T11:46:17Z</updated>
     <summary>Intermittent issues are not as disruptive as downtime. This simply means that our system has detected some level of degradation from the IRS system that may ...</summary>
-  </entry>
-  <entry>
-    <id>https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/fix-iris-transmittal-errors</id>
-    <title>Fix IRIS transmittal errors - Sovos Docs</title>
-    <link href="https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/fix-iris-transmittal-errors" />
-    <published>2026-10-20T10:46:30Z</published>
-    <updated>2026-10-20T10:46:30Z</updated>
-    <summary>When the IRS processes your transmittal, you may receive errors that need to be corrected or rejected records that need to be resubmitted.</summary>
   </entry>
 </feed>

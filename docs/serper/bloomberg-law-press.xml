@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-07T03:24:15Z</updated>
+  <updated>2026-11-07T13:42:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/supreme-court-weighs-federal-officer-liability-as-ice-suits-loom</id>
+    <title>Supreme Court Weighs Federal Officer Liability as ICE Suits Loom</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/supreme-court-weighs-federal-officer-liability-as-ice-suits-loom" />
+    <published>2026-11-07T13:42:44Z</published>
+    <updated>2026-11-07T13:42:44Z</updated>
+    <summary>The dispute, to be argued Monday, comes amid a spike in claims targeting federal agents' actions as part of the Trump administration's immigration crackdown.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/us-measles-cases-top-5-000-for-the-first-time-since-the-1990s</id>
     <title>US Measles Cases Top 5000 for the First Time Since the 1990s</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T17:43:17Z</published>
     <updated>2026-11-06T17:43:17Z</updated>
     <summary>Under Armour Inc.'s shares fell after a reduction in its profitability guidance cast more doubt on the sports brand's turnaround prospects.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESsAEBxCJF18hQyPD82nCRktcjpEvQ0rCW3m_hDPWVqF-j8YApe7qoqxWcU4ZQz3z3yQf87ilWRi4OEh6EPmYOLcWiLmZiMEseNWy751-xIG3o9HdpCzLR4Cgr6v-QdXV22JXGeCwS6e-HZEt8OqEq-dxs-4oFqLVXuPyIwk0o4NkW8j7InpnCGO39UmZP3egw5alxcERHuLP5RvQZYGVTmtORIwm60612wh5f1WWltIsa-Q</id>
-    <title>Trump-Linked Crypto Firm Plans Token Buyback After ...</title>
-    <link href="https://www.google.com/goto?url=CAESsAEBxCJF18hQyPD82nCRktcjpEvQ0rCW3m_hDPWVqF-j8YApe7qoqxWcU4ZQz3z3yQf87ilWRi4OEh6EPmYOLcWiLmZiMEseNWy751-xIG3o9HdpCzLR4Cgr6v-QdXV22JXGeCwS6e-HZEt8OqEq-dxs-4oFqLVXuPyIwk0o4NkW8j7InpnCGO39UmZP3egw5alxcERHuLP5RvQZYGVTmtORIwm60612wh5f1WWltIsa-Q" />
-    <published>2026-11-06T17:43:17Z</published>
-    <updated>2026-11-06T17:43:17Z</updated>
-    <summary>The Trump family crypto venture World Liberty Financial has announced a new buyback plan for its WLFI token after the price fell following this week's US ...</summary>
   </entry>
 </feed>
