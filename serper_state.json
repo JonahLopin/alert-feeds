@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 32905,
+  "credits_used": 32953,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-07T03:24:15Z",
+  "last_run": "2026-11-07T04:24:19Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 656
+  "runs": 657
  },
  "feeds": {
   "adp-help": {
@@ -31700,6 +31700,15 @@
     "page": 2,
     "summary": "Your guide to condense your QuickBooks Desktop file for import to QuickBooks Online \u2014 without the usual headaches. Set it up with confidence.",
     "title": "Condense your QuickBooks Desktop file for import to QuickBooks Online"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/migrate-services/move-lists-quickbooks-online/L6v7AmS9l_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-07T04:24:19Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/migrate-services/move-lists-quickbooks-online/L6v7AmS9l_US_en_US",
+    "page": 1,
+    "summary": "Learn how to export your customers, vendors, products and services, and chart of accounts, then import them into QuickBooks Online.",
+    "title": "Move your lists from QuickBooks Desktop to QuickBooks Online - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/mobile-apps/capture-signatures-using-quickbooks-online-app/L9M3lRB8F_US_en_US": {
     "baseline": true,

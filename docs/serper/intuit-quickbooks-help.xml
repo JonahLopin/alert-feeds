@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-11-07T02:25:05Z</updated>
+  <updated>2026-11-07T04:24:19Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/migrate-services/move-lists-quickbooks-online/L6v7AmS9l_US_en_US</id>
+    <title>Move your lists from QuickBooks Desktop to QuickBooks Online - Intuit</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/migrate-services/move-lists-quickbooks-online/L6v7AmS9l_US_en_US" />
+    <published>2026-11-07T04:24:19Z</published>
+    <updated>2026-11-07T04:24:19Z</updated>
+    <summary>Learn how to export your customers, vendors, products and services, and chart of accounts, then import them into QuickBooks Online.</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/intuit-billing-updates/using-split-billing-manage-client-subscriptions/L9pp0cQQi_US_en_US</id>
     <title>Using split billing to manage client subscriptions in Intuit Accountant ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T17:43:17Z</published>
     <updated>2026-11-06T17:43:17Z</updated>
     <summary>In Intuit Accountant Suite, you can undo a client's whole reconciliation instead of removing individual transactions. This lets you start over from scratch to ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAES1AEBxCJF1xiN6snS45Y_IvvR2JPxMibcXPp48P9Z8X98jhNUoYCk4PDaZWcA-1qfKdEOvbXoa7qKS_TumNwc7WQoePQiWILzCywhpcyvNpO1kaUCf8h3m_-a5dCi8-dQ_Quq8nzOE6VeqJrqkkWJLGPs7fsQ-pKb2kAT6p9s7KsW4NQfdRyvjuNyWfr58ghzJcrCY32tDWmDiRDcWb9AsH4Fg0YkpJzQNnjgjq7vfxuTQUiwektjCUUX-xzVXjJRQMPxonQPhZ76wAnEMVb3JxUt8DSiGg</id>
-    <title>Manage and track your work with projects and tasks</title>
-    <link href="https://www.google.com/goto?url=CAES1AEBxCJF1xiN6snS45Y_IvvR2JPxMibcXPp48P9Z8X98jhNUoYCk4PDaZWcA-1qfKdEOvbXoa7qKS_TumNwc7WQoePQiWILzCywhpcyvNpO1kaUCf8h3m_-a5dCi8-dQ_Quq8nzOE6VeqJrqkkWJLGPs7fsQ-pKb2kAT6p9s7KsW4NQfdRyvjuNyWfr58ghzJcrCY32tDWmDiRDcWb9AsH4Fg0YkpJzQNnjgjq7vfxuTQUiwektjCUUX-xzVXjJRQMPxonQPhZ76wAnEMVb3JxUt8DSiGg" />
-    <published>2026-11-06T17:43:17Z</published>
-    <updated>2026-11-06T17:43:17Z</updated>
-    <summary>Step-by-step: manage and track your work with projects and tasks — and avoid common mistakes. Do it in just a few clicks.</summary>
   </entry>
 </feed>
