@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 33312,
+  "credits_used": 33362,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-07T11:42:28Z",
+  "last_run": "2026-11-07T12:42:36Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 664
+  "runs": 665
  },
  "feeds": {
   "adp-help": {
@@ -54217,6 +54217,15 @@
     "link": "https://help.spoton.com/space/SK/4292608001",
     "page": 1,
     "summary": "The Split Check function lets you divide one check into multiple checks quickly, perfect for groups who want to pay separately.",
+    "title": "How to Split a Check | SpotOn Express (FOH)"
+   },
+   "help.spoton.com/space/SK/4292608001/How+to+Split+a+Check+%7C+SpotOn+Express+(FOH)": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-07T12:42:36Z",
+    "link": "https://help.spoton.com/space/SK/4292608001/How+to+Split+a+Check+%7C+SpotOn+Express+(FOH)",
+    "page": 1,
+    "summary": "How to Split a Check. From your Checks list, select the check to split. From the action items (top), choose Split > click Confirm split.",
     "title": "How to Split a Check | SpotOn Express (FOH)"
    },
    "help.spoton.com/space/SK/4292608001/How+to+Split+a+Check+on+SpotOn+Express+%7C+SpotOn+Express+(FOH)": {
