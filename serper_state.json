@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 33862,
+  "credits_used": 33915,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-07T22:42:46Z",
+  "last_run": "2026-11-07T23:42:39Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 675
+  "runs": 676
  },
  "feeds": {
   "adp-help": {
@@ -10501,6 +10501,15 @@
     "page": 1,
     "summary": "Michael Macko, who built the enforcement team for California's one-of-a-kind privacy agency, has joined Latham & Watkins' privacy and cyber practice.",
     "title": "California Privacy Agency's Top Regulator Joins Latham & ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/california-rejects-environmental-protection-process-overhaul": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-07T23:42:39Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/california-rejects-environmental-protection-process-overhaul",
+    "page": 1,
+    "summary": "California voters rejected a ballot measure that would have overhauled part of the state's landmark environmental protection law.",
+    "title": "California Rejects Environmental Protection Process ..."
    },
    "news.bloomberglaw.com/business-and-practice/california-says-doj-non-citizen-voting-suit-borders-on-absurd": {
     "baseline": false,
