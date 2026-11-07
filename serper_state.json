@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 33212,
+  "credits_used": 33263,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-07T09:43:06Z",
+  "last_run": "2026-11-07T10:43:04Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 662
+  "runs": 663
  },
  "feeds": {
   "adp-help": {
@@ -21812,6 +21812,15 @@
     "summary": "Compare the best retail delivery platforms for your store, from delivery apps to couriers, and see how each one connects to your POS or online store.",
     "title": "Best Delivery Platforms for Small Retail Stores"
    },
+   "merchants.doordash.com/en-us/blog/best-restaurant-crm-software": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-07T10:43:04Z",
+    "link": "https://merchants.doordash.com/en-us/blog/best-restaurant-crm-software",
+    "page": 2,
+    "summary": "Compare the 10 best restaurant CRM software tools. Find the right system to own your guest data, automate marketing, and drive repeat visits.",
+    "title": "What Are The Best Restaurant CRM Software: Top 10 Picks"
+   },
    "merchants.doordash.com/en-us/blog/black-friday-checklist": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -21892,6 +21901,15 @@
     "page": 2,
     "summary": "Check out these food delivery marketing ideas to help you get the word out about your off-premise offerings.",
     "title": "5 Food Delivery Marketing Tips for Restaurants"
+   },
+   "merchants.doordash.com/en-us/blog/food-truck-delivery": {
+    "baseline": false,
+    "date_hint": "Oct 23, 2026",
+    "first_seen": "2026-11-07T10:43:04Z",
+    "link": "https://merchants.doordash.com/en-us/blog/food-truck-delivery",
+    "page": 2,
+    "summary": "Find out how DoorDash works for food trucks, and learn about key features that set up food truck operators for success.",
+    "title": "How DoorDash Works for Food Truck Delivery"
    },
    "merchants.doordash.com/en-us/blog/funding-for-restaurants": {
     "baseline": false,
@@ -21991,6 +22009,15 @@
     "page": 3,
     "summary": "15 strategies to increase restaurant sales in 2026, with real data on what's actually working: menu engineering, delivery optimization, loyalty, ...",
     "title": "How to Increase Restaurant Sales: 15 Tactics with Real ..."
+   },
+   "merchants.doordash.com/en-us/blog/how-to-optimize-your-menu-for-profit": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-07T10:43:04Z",
+    "link": "https://merchants.doordash.com/en-us/blog/how-to-optimize-your-menu-for-profit",
+    "page": 2,
+    "summary": "You can set separate prices for the delivery and pickup menus on DoorDash. This gives you more control over pricing, while also helping create a consistent experience for customers. For pickup orders, we recommend matching your DoorDash Pickup prices with your in-store prices to build customer trust and encourage repeat orders.",
+    "title": "How to Set Pricing for Delivery and Pickup Orders on DoorDash"
    },
    "merchants.doordash.com/en-us/blog/how-to-pitch-restaurant-investors": {
     "baseline": false,
@@ -22127,6 +22154,15 @@
     "summary": "Start with the executive summary and market analysis from your full business plan; together, they establish the concept and the opportunity. Then tailor the ...",
     "title": "How to Write a Restaurant Business Plan: Ultimate Guide"
    },
+   "merchants.doordash.com/en-us/blog/restaurant-calculate-overhead": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-07T10:43:04Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-calculate-overhead",
+    "page": 2,
+    "summary": "Learn how to calculate overhead costs and increase profitability across your business.",
+    "title": "How to Calculate Overhead & Increase Your Profitability"
+   },
    "merchants.doordash.com/en-us/blog/restaurant-crm-campaign": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -22261,6 +22297,15 @@
     "summary": "Discover the best restaurant marketing tools, from AI and CRM to loyalty and reviews, powered by DoorDash Direct.",
     "title": "Best Restaurant Marketing Tools to Boost Sales in 2026"
    },
+   "merchants.doordash.com/en-us/blog/restaurant-menu-examples": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-07T10:43:04Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-menu-examples",
+    "page": 2,
+    "summary": "See menu design examples and learn how to create an online restaurant menu that attracts more customers and increases sales.",
+    "title": "7 Restaurant Menu Examples: How to Design a Menu that Sells"
+   },
    "merchants.doordash.com/en-us/blog/restaurant-mission-statement": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -22296,6 +22341,15 @@
     "page": 2,
     "summary": "POS, KDS, aggregators, direct ordering \u2014 here's what restaurant order management actually means, and how to stop the tablet chaos costing you money.",
     "title": "What Is a Restaurant Order Management System?"
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-partnerships": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-07T10:43:04Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-partnerships",
+    "page": 2,
+    "summary": "From business partnerships to food delivery partnerships to community partnerships, learn how restaurant partnerships can help you thrive.",
+    "title": "Restaurant Partnerships: What Business Owners Need to Know"
    },
    "merchants.doordash.com/en-us/blog/restaurant-pos-systems-cost": {
     "baseline": false,
@@ -48972,6 +49026,15 @@
     "summary": "Dropshipping apps connect you with suppliers who can package and deliver your product to consumers. They help online store owners design, promote, ...",
     "title": "13 Best Shopify Dropshipping Apps for 2026"
    },
+   "shopify.com/blog/best-t-shirt-fonts": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-07T10:43:04Z",
+    "link": "https://www.shopify.com/blog/best-t-shirt-fonts",
+    "page": 4,
+    "summary": "Compare the best T-shirt fonts by design style, from bold sans serifs to scripts. See which print methods and pairings work for each.",
+    "title": "Best T-Shirt Fonts: A 2026 Guide To Style, Fit, and Printing"
+   },
    "shopify.com/blog/bfcm-checklist": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -49563,6 +49626,15 @@
     "page": 3,
     "summary": "Follow this guide for how to get verified on Instagram and enhance your credibility on the app.",
     "title": "How To Get Verified on Instagram in 2027"
+   },
+   "shopify.com/blog/how-to-get-website-indexed-by-google": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-07T10:43:04Z",
+    "link": "https://www.shopify.com/blog/how-to-get-website-indexed-by-google",
+    "page": 4,
+    "summary": "1. Request indexing \u00b7 Turn off your store's private mode so Google can access it. \u00b7 Choose HTML tag and copy the entire meta tag. \u00b7 In your Shopify admin, go to ...",
+    "title": "How To Get Your Website Indexed by Google (2026)"
    },
    "shopify.com/blog/how-to-make-money-using-ai": {
     "baseline": false,
