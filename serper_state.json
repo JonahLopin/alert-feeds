@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 32701,
+  "credits_used": 32750,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-06T22:42:52Z",
+  "last_run": "2026-11-07T00:15:44Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 652
+  "runs": 653
  },
  "feeds": {
   "adp-help": {
@@ -12592,6 +12592,15 @@
     "page": 2,
     "summary": "Japan's financial regulator ordered Prudential Financial Inc.'s local units to suspend sales of new policies after repeated misconduct by employees led to ...",
     "title": "Japan Orders Prudential Units to Halt Sales After ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/jetblues-defiant-cfo-to-employees-not-considering-bankruptcy": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-07T00:15:44Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/jetblues-defiant-cfo-to-employees-not-considering-bankruptcy",
+    "page": 1,
+    "summary": "JetBlue Airways Corp. executives again reassured employees that the financially strained carrier has no plans to file for Chapter 11 bankruptcy protection, ...",
+    "title": "JetBlue's Defiant CFO to Employees: 'Not Considering Bankruptcy'"
    },
    "news.bloomberglaw.com/business-and-practice/jim-justice-owes-insurer-25-million-in-coal-surety-bond-case": {
     "baseline": false,
@@ -30461,6 +30470,15 @@
     "page": 2,
     "summary": "Learn how to create, view, and edit a Management report in QuickBooks Online and Intuit Enterprise Suite. Management reports let you build branded, ...",
     "title": "Create, edit, or view a Management report in QuickBooks ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/access-permissions/add-manage-accounting-team-quickbooks-online/L13kRqbLq_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-07T00:15:44Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/access-permissions/add-manage-accounting-team-quickbooks-online/L13kRqbLq_US_en_US",
+    "page": 2,
+    "summary": "Add and manage your accounting team in QuickBooks Online \u2014 without the usual headaches. Set it up with confidence.",
+    "title": "Add and manage your accounting team in Intuit Accountant Suite"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/access-permissions/add-manage-custom-roles-quickbooks-online-advanced/L8Ugph7xl_US_en_US": {
     "baseline": false,
@@ -49400,6 +49418,15 @@
     "page": 1,
     "summary": "You can monetize your Facebook page by joining Facebook's creator program, landing a monetization invite, setting up a Facebook Shop, and more.",
     "title": "How To Monetize a Facebook Page (2026)"
+   },
+   "shopify.com/blog/needs-based-selling": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-07T00:15:44Z",
+    "link": "https://www.shopify.com/blog/needs-based-selling",
+    "page": 1,
+    "summary": "Needs-based selling involves learning about your customers' requirements and providing a tailored solution. Learn how to implement this sales strategy.",
+    "title": "Needs-Based Selling: Sales Guide for Small Businesses (2026)"
    },
    "shopify.com/blog/neuro-from-reddit-to-retail": {
     "baseline": true,
@@ -69699,6 +69726,15 @@
     "summary": "Radiofrequency heating plus electromagnetic stimulation reduces belly fat and increases muscle. Radiofrequency energy is used to increase the temperature of ...",
     "title": "Radiofrequency heating plus electromagnetic stimulation ..."
    },
+   "wolterskluwer.com/en/news/share-buyback-transaction-details-august-27-september-2-2026": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-07T00:15:44Z",
+    "link": "https://www.wolterskluwer.com/en/news/share-buyback-transaction-details-august-27-september-2-2026",
+    "page": 2,
+    "summary": "Wolters Kluwer, a global leader in information solutions, software and services, announces today that it has completed the reduction in share capital approved ...",
+    "title": "Share Buyback Transaction Details August 27 - September 2, 2026"
+   },
    "wolterskluwer.com/en/news/share-buyback-transaction-details-september-17-23-2026": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -70027,6 +70063,15 @@
     "summary": "Capego is a cloud-based software suite of products, designed to support accounting, auditing, and tax professionals. Capego streamlines financial workflows, ...",
     "title": "Wolters Kluwer launches Capego Practice Management"
    },
+   "wolterskluwer.com/en/news/wolters-kluwer-launches-cch-axcess-expert-ai": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-07T00:15:44Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-launches-cch-axcess-expert-ai",
+    "page": 1,
+    "summary": "Discover CCH Axcess\u2122 Expert AI\u2014Wolters Kluwer's cloud-native, agentic-ready platform unifying tax, audit & firm management for smarter, faster decisions.",
+    "title": "Wolters Kluwer launches CCH Axcess\u2122 Expert AI: intelligence across tax, ..."
+   },
    "wolterskluwer.com/en/news/wolters-kluwer-launches-digital-health-tech-solutions": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -70179,6 +70224,15 @@
     "page": 2,
     "summary": "Founded in 2014, Brightflag is an AI-powered legal operations platform designed to streamline matter management, control legal spend, and enhance collaboration ...",
     "title": "Wolters Kluwer to acquire global legal software provider ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-to-celebrate-50-years-of-euronext-amsterdam-listing": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-07T00:15:44Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-to-celebrate-50-years-of-euronext-amsterdam-listing",
+    "page": 2,
+    "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting; ...",
+    "title": "Wolters Kluwer to celebrate 50 years of Euronext Amsterdam listing"
    },
    "wolterskluwer.com/en/news/wolters-kluwer-to-divest-german-consumer-tax-business": {
     "baseline": false,
