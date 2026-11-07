@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-07T17:43:05Z</updated>
+  <updated>2026-11-07T21:42:28Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/4291887114/Digital+Tips+Pre+or+Post-Payment+on+CFD+%7C+SpotOn+Express</id>
+    <title>Digital Tips Pre or Post-Payment on CFD | SpotOn Express</title>
+    <link href="https://help.spoton.com/space/SK/4291887114/Digital+Tips+Pre+or+Post-Payment+on+CFD+%7C+SpotOn+Express" />
+    <published>2026-11-07T21:42:28Z</published>
+    <updated>2026-11-07T21:42:28Z</updated>
+    <summary>The SpotOn Express digital tip flow lets you choose when customers are prompted to leave a tip on Customer Facing Displays (CFDs): before payment or after ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/3446341648/Gift+Cards+%7C+SpotOn+Express+(FOH)</id>
     <title>Gift Cards | SpotOn Express (FOH)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T22:42:59Z</published>
     <updated>2026-10-30T22:42:59Z</updated>
     <summary>Overview. Order Types determine how orders are processed within SpotOn Restaurant (RPOS). They can be configured with unique pricing, customer requirements, ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVe3Pvikq3MzkmA-0rKG8MBlcCL0NzaGQACjMcdICA4UoDvG2sBxotR2JMVU_CiX5HvILDQWVvCBkljvkscScZ2HL6_PUU-PKPM4ErCjEBljQic06IrX4GBWLXLpM4HKHMGw</id>
-    <title>Tip Adjustments | SpotOn Express</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVe3Pvikq3MzkmA-0rKG8MBlcCL0NzaGQACjMcdICA4UoDvG2sBxotR2JMVU_CiX5HvILDQWVvCBkljvkscScZ2HL6_PUU-PKPM4ErCjEBljQic06IrX4GBWLXLpM4HKHMGw" />
-    <published>2026-10-30T22:42:59Z</published>
-    <updated>2026-10-30T22:42:59Z</updated>
-    <summary>Adjust Tip: You can adjust the tip within 10 minutes of the initial change. If you entered the wrong tip, correct it here. Changes apply to the customer only ...</summary>
   </entry>
 </feed>

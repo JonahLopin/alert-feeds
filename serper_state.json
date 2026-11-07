@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 33756,
+  "credits_used": 33809,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-07T20:42:41Z",
+  "last_run": "2026-11-07T21:42:28Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 673
+  "runs": 674
  },
  "feeds": {
   "adp-help": {
@@ -32172,6 +32172,15 @@
     "summary": "Manage custom roles in QuickBooks Online \u2014 so your books stay accurate. Easier than you'd expect.",
     "title": "Manage custom roles in Intuit Accountant Suite - QuickBooks"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/manage-users/move-quickbooks-desktop-payments-quickbooks-online/L0TLpagvG_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-07T21:42:28Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-users/move-quickbooks-desktop-payments-quickbooks-online/L0TLpagvG_US_en_US",
+    "page": 4,
+    "summary": "Learn how your QuickBooks Payments account moves with your company file, and what to check before and after. When you move your QuickBooks Desktop company ...",
+    "title": "Move your QuickBooks Desktop Payments to QuickBooks Online"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/matching-rules/learn-updates-new-ai-powered-banking-page/L0hR7A9Zf_US_en_US": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -54708,6 +54717,15 @@
     "summary": "The SpotOn Express digital tip flow lets you choose when customers are prompted to leave a tip on Customer Facing Displays (CFDs): before payment or after ...",
     "title": "Digital Tips Pre or Post-Payment on CFD | SpotOn Express"
    },
+   "help.spoton.com/space/SK/4291887114/Digital+Tips+Pre+or+Post-Payment+on+CFD+%7C+SpotOn+Express": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-07T21:42:28Z",
+    "link": "https://help.spoton.com/space/SK/4291887114/Digital+Tips+Pre+or+Post-Payment+on+CFD+%7C+SpotOn+Express",
+    "page": 1,
+    "summary": "The SpotOn Express digital tip flow lets you choose when customers are prompted to leave a tip on Customer Facing Displays (CFDs): before payment or after ...",
+    "title": "Digital Tips Pre or Post-Payment on CFD | SpotOn Express"
+   },
    "help.spoton.com/space/SK/4292608001": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -71561,6 +71579,15 @@
     "page": 2,
     "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting; ...",
     "title": "OneSumX Reg Manager triumphs in \"Best RegTech ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwers-innovative-solutions-and-leadership-recognized-with-multiple-global-awards": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-07T21:42:28Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwers-innovative-solutions-and-leadership-recognized-with-multiple-global-awards",
+    "page": 3,
+    "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting; ...",
+    "title": "Wolters Kluwer's innovative solutions and leadership ..."
    }
   },
   "zamp-help": {}
