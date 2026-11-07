@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-05T20:45:00Z</updated>
+  <updated>2026-11-07T17:44:19Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:18371695099439330972</id>
+    <title>Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api?api-version=2026-10-28.preview" />
+    <published>2026-11-07T17:44:19Z</published>
+    <updated>2026-11-07T17:44:19Z</updated>
+    <summary>API Reference ... The Stripe API is organized around REST. Our API has predictable resource-oriented URLs, accepts form-encoded request bodies, returns ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8186003233800073947</id>
     <title>Approval Requests | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-16T22:44:10Z</published>
     <updated>2026-10-16T22:44:10Z</updated>
     <summary>The ID of the Checkout Session. billingAddress nullable object. Billing details of the Customer.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:14970350843857164666</id>
-    <title>Apps on Devices API changelog - Stripe Documentation</title>
-    <link href="https://docs.stripe.com/terminal/features/apps-on-devices/changelog" />
-    <published>2026-10-16T22:44:10Z</published>
-    <updated>2026-10-16T22:44:10Z</updated>
-    <summary>Review changes to Apps on Devices APIs in private preview.</summary>
   </entry>
 </feed>

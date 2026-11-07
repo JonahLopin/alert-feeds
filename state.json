@@ -5937,6 +5937,12 @@
    "summary": "customer_details.customer_accountnullable string. The ID of the Account representing the customer whose upcoming payment was evaluated.",
    "title": "The Billing Evaluation object | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:18371695099439330972": {
+   "first_seen": "2026-11-07T17:44:19Z",
+   "link": "https://docs.stripe.com/api?api-version=2026-10-28.preview",
+   "summary": "API Reference ... The Stripe API is organized around REST. Our API has predictable resource-oriented URLs, accepts form-encoded request bodies, returns ...",
+   "title": "Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:18392163744034660140": {
    "first_seen": "2026-10-20T22:44:24Z",
    "link": "https://docs.stripe.com/api/v2/money-management/payout-methods?api-version=2026-09-30.preview",

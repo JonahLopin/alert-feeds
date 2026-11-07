@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-07T12:42:36Z</updated>
+  <updated>2026-11-07T17:43:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/3446341648/Gift+Cards+%7C+SpotOn+Express+(FOH)</id>
+    <title>Gift Cards | SpotOn Express (FOH)</title>
+    <link href="https://help.spoton.com/space/SK/3446341648/Gift+Cards+%7C+SpotOn+Express+(FOH)" />
+    <published>2026-11-07T17:43:05Z</published>
+    <updated>2026-11-07T17:43:05Z</updated>
+    <summary>Gift Cards. A POS station with an Edge/Ledge EMV, customer-facing display (CFD), or older Handheld 1.0 v1 and v2 models.</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/4292608001/How+to+Split+a+Check+%7C+SpotOn+Express+(FOH)</id>
     <title>How to Split a Check | SpotOn Express (FOH)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T22:42:59Z</published>
     <updated>2026-10-30T22:42:59Z</updated>
     <summary>Adjust Tip: You can adjust the tip within 10 minutes of the initial change. If you entered the wrong tip, correct it here. Changes apply to the customer only ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVVzl_N4XLy6ZaUsPVnvArbsGF8RPf9QO7z36Xuz8Y2f34WTBoqZqihI8lHkilqkQx_OQXprfD3AX8yUTMvRBe4KbGY2MkUz_yujP6iWFQk0luq7VLQoPeBqahsBhHVG8Jmw</id>
-    <title>Dual Pricing Overview</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVVzl_N4XLy6ZaUsPVnvArbsGF8RPf9QO7z36Xuz8Y2f34WTBoqZqihI8lHkilqkQx_OQXprfD3AX8yUTMvRBe4KbGY2MkUz_yujP6iWFQk0luq7VLQoPeBqahsBhHVG8Jmw" />
-    <published>2026-10-30T22:42:59Z</published>
-    <updated>2026-10-30T22:42:59Z</updated>
-    <summary>Dual Pricing is a type of cash discount program, so by default it will discount your item price when cash is selected. By building your processing costs into ...</summary>
   </entry>
 </feed>
