@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-blog</id>
   <title>Sovos blog (site:sovos.com/blog/) via Serper</title>
-  <updated>2026-11-06T14:42:45Z</updated>
+  <updated>2026-11-07T01:23:13Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-blog.xml" />
+  <entry>
+    <id>https://sovos.com/blog/vat/aviation-tax-compliance-documents-data/</id>
+    <title>Aviation Tax Compliance: Moving From Documents to Data - Sovos</title>
+    <link href="https://sovos.com/blog/vat/aviation-tax-compliance-documents-data/" />
+    <published>2026-11-07T01:23:13Z</published>
+    <updated>2026-11-07T01:23:13Z</updated>
+    <summary>Discover how airlines can adapt to evolving tax requirements by connecting operational data with digital tax compliance processes.</summary>
+  </entry>
   <entry>
     <id>https://sovos.com/blog/vat/passenger-air-transport-tax-compliance-latin-america/</id>
     <title>Passenger Air Transport Tax Compliance in Latin America</title>

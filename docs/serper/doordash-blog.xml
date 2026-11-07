@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:doordash-blog</id>
   <title>DoorDash blog (site:merchants.doordash.com/en-us/blog/) via Serper</title>
-  <updated>2026-11-06T20:42:38Z</updated>
+  <updated>2026-11-07T01:23:13Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/doordash-blog.xml" />
+  <entry>
+    <id>https://merchants.doordash.com/en-us/blog/how-to-start-a-restaurant-from-home</id>
+    <title>How to Start a Restaurant from Home (Legally)</title>
+    <link href="https://merchants.doordash.com/en-us/blog/how-to-start-a-restaurant-from-home" />
+    <published>2026-11-07T01:23:13Z</published>
+    <updated>2026-11-07T01:23:13Z</updated>
+    <summary>Dreaming of selling your cooking? Learn how to start a restaurant from home legally in 2026, from permits and kitchen options to getting your first orders.</summary>
+  </entry>
   <entry>
     <id>https://merchants.doordash.com/en-us/blog/low-waste-kitchens</id>
     <title>How Restaurants Can Benefit from Low-Waste Kitchens</title>
@@ -795,13 +803,5 @@
     <published>2026-11-05T22:43:09Z</published>
     <updated>2026-11-05T22:43:09Z</updated>
     <summary>Bakery marketing ideas that work: get found on Google and social, take pre-orders online, and turn birthday-cake buyers into weekly regulars.</summary>
-  </entry>
-  <entry>
-    <id>https://merchants.doordash.com/en-us/blog/restaurant-online-ordering-app</id>
-    <title>Restaurant Online Ordering App: How to Launch Your Own</title>
-    <link href="https://merchants.doordash.com/en-us/blog/restaurant-online-ordering-app" />
-    <published>2026-11-05T21:43:05Z</published>
-    <updated>2026-11-05T21:43:05Z</updated>
-    <summary>Learn what a restaurant online ordering app is, what it costs, and how a branded app with DoorDash Direct can help turn regulars into repeat app orders.</summary>
   </entry>
 </feed>
