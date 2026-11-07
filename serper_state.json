@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 32800,
+  "credits_used": 32853,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-07T01:23:13Z",
+  "last_run": "2026-11-07T02:25:05Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 654
+  "runs": 655
  },
  "feeds": {
   "adp-help": {
@@ -22225,6 +22225,15 @@
     "summary": "Fast casual or fast food restaurant statements lead with accessibility, value, and consistency. They speak to the community without the formality of fine- ...",
     "title": "20+ Restaurant Mission Statement Examples (+ Template)"
    },
+   "merchants.doordash.com/en-us/blog/restaurant-models": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-07T02:25:05Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-models",
+    "page": 1,
+    "summary": "Restaurant models range from full-service to delivery-only. Compare costs, staffing, and growth potential to choose the right model for you.",
+    "title": "Restaurant Models: 8 Types and How to Choose"
+   },
    "merchants.doordash.com/en-us/blog/restaurant-online-ordering-app": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -31348,6 +31357,15 @@
     "page": 2,
     "summary": "Find the best accounting tools for your business as QuickBooks grows with it. Upgrade your subscription when you're ready for more features.",
     "title": "Upgrade or change your subscription - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-billing-updates/using-split-billing-manage-client-subscriptions/L9pp0cQQi_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-07T02:25:05Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/intuit-billing-updates/using-split-billing-manage-client-subscriptions/L9pp0cQQi_US_en_US",
+    "page": 4,
+    "summary": "Split billing gives Accountants flexibility and control over their billing options for QuickBooks clients. When you split the bill, your firm or your client ...",
+    "title": "Using split billing to manage client subscriptions in Intuit Accountant ..."
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-subscriptions/delete-data-start-quickbooks-online/L0cpXkDlh_US_en_US": {
     "baseline": false,
@@ -49283,6 +49301,15 @@
     "page": 1,
     "summary": "Fraud prevention and dispute management, built into Shopify\u2014and much of it is already working on your store.",
     "title": "Introducing Shopify Protect: block fraud, not customers (2026)"
+   },
+   "shopify.com/blog/lead-scoring-template": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-11-07T02:25:05Z",
+    "link": "https://www.shopify.com/blog/lead-scoring-template",
+    "page": 1,
+    "summary": "An effective lead scoring template assigns points to prospect qualities and behaviors so your sales team knows which contacts to prioritize.",
+    "title": "How To Build a Lead Scoring Template and Automate Scoring (2026)"
    },
    "shopify.com/blog/lean-canvas-example": {
     "baseline": false,
@@ -70152,6 +70179,15 @@
     "page": 1,
     "summary": "AI study tool helps students learn flexibly, explore and engage with course materials on demand. Read the press release.",
     "title": "Wolters Kluwer launches Expert AI enhancements to ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-launches-inaugural-cch-william-awards-to-honor-excellence-in-tax-and-accounting": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-07T02:25:05Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-launches-inaugural-cch-william-awards-to-honor-excellence-in-tax-and-accounting",
+    "page": 3,
+    "summary": "Celebrating leadership, innovation, and legacy across the profession\u2014nominations open through September 15, 2025.",
+    "title": "Wolters Kluwer launches inaugural CCH William Awards to honor ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-launches-libra-academy-across-europe": {
     "baseline": false,

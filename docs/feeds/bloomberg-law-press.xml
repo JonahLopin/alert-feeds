@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-07T00:40:11Z</updated>
+  <updated>2026-11-07T02:26:16Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:3398213625932249625</id>
+    <title>US Measles Cases Top 5,000 for the First Time Since the 1990s - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/us-measles-cases-top-5-000-for-the-first-time-since-the-1990s" />
+    <published>2026-11-07T02:26:16Z</published>
+    <updated>2026-11-07T02:26:16Z</updated>
+    <summary>More than 5000 people have been infected with measles in the US this year, as the country faces the loss of its long-held elimination status later ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:5840388631610258791</id>
     <title>Fox Closes $22 Billion Roku Deal Early in Streaming TV Push (2) - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-11-04T11:25:06Z</published>
     <updated>2026-11-04T11:25:06Z</updated>
     <summary>Voters in three states backed legal protections for abortion access, marking the latest shift in reproductive rights since Roe v.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:5798480090723216556</id>
-    <title>Hedge Funds Flag Growing Private Credit Risks Amid Rising Rates - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/hedge-funds-flag-growing-private-credit-risks-amid-rising-rates" />
-    <published>2026-11-04T11:25:06Z</published>
-    <updated>2026-11-04T11:25:06Z</updated>
-    <summary>Some of the world's biggest hedge funds warned that risks are growing in private credit, adding to debate about how rising interest rates will ...</summary>
   </entry>
 </feed>

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-07T00:15:44Z</updated>
+  <updated>2026-11-07T02:25:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/lead-scoring-template</id>
+    <title>How To Build a Lead Scoring Template and Automate Scoring (2026)</title>
+    <link href="https://www.shopify.com/blog/lead-scoring-template" />
+    <published>2026-11-07T02:25:05Z</published>
+    <updated>2026-11-07T02:25:05Z</updated>
+    <summary>An effective lead scoring template assigns points to prospect qualities and behaviors so your sales team knows which contacts to prioritize.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/needs-based-selling</id>
     <title>Needs-Based Selling: Sales Guide for Small Businesses (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T16:43:02Z</published>
     <updated>2026-11-06T16:43:02Z</updated>
     <summary>How Ruggable used Reddit feedback to fix their product and drive 70% of revenue from a single innovation in just eight weeks.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESfQHEIkXXpUfip80JmiqMnECaNp71M2dbOLllBjge-lwxqmFAQ9OiVjEYgy7KFxC-cO5IMvJKLZnnOkFFJXtbEwNNyZDcwRm8oPyzAGz02up5MXAaINvEQu_7ideuT_HgEyIB1JRBg9Jq_9aCgsk8tfnUC5g0Z3tF0NSyJT_k</id>
-    <title>Marketing Automation for Small Business: Tools and Tips</title>
-    <link href="https://www.google.com/goto?url=CAESfQHEIkXXpUfip80JmiqMnECaNp71M2dbOLllBjge-lwxqmFAQ9OiVjEYgy7KFxC-cO5IMvJKLZnnOkFFJXtbEwNNyZDcwRm8oPyzAGz02up5MXAaINvEQu_7ideuT_HgEyIB1JRBg9Jq_9aCgsk8tfnUC5g0Z3tF0NSyJT_k" />
-    <published>2026-11-06T16:43:02Z</published>
-    <updated>2026-11-06T16:43:02Z</updated>
-    <summary>To implement marketing automation for small businesses, start with free or low-cost tools that send welcome emails and cart reminders automatically.</summary>
   </entry>
 </feed>

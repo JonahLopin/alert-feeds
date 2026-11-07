@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:doordash-blog</id>
   <title>DoorDash blog (site:merchants.doordash.com/en-us/blog/) via Serper</title>
-  <updated>2026-11-07T01:23:13Z</updated>
+  <updated>2026-11-07T02:25:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/doordash-blog.xml" />
+  <entry>
+    <id>https://merchants.doordash.com/en-us/blog/restaurant-models</id>
+    <title>Restaurant Models: 8 Types and How to Choose</title>
+    <link href="https://merchants.doordash.com/en-us/blog/restaurant-models" />
+    <published>2026-11-07T02:25:05Z</published>
+    <updated>2026-11-07T02:25:05Z</updated>
+    <summary>Restaurant models range from full-service to delivery-only. Compare costs, staffing, and growth potential to choose the right model for you.</summary>
+  </entry>
   <entry>
     <id>https://merchants.doordash.com/en-us/blog/how-to-start-a-restaurant-from-home</id>
     <title>How to Start a Restaurant from Home (Legally)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T01:43:21Z</published>
     <updated>2026-11-06T01:43:21Z</updated>
     <summary>A commissary kitchen is a licensed, commercial-grade kitchen that food businesses rent. They use it to prep, cook, and store food they sell somewhere else. Food ...</summary>
-  </entry>
-  <entry>
-    <id>https://merchants.doordash.com/en-us/blog/bakery-marketing</id>
-    <title>Bakery Marketing: How to Attract Customers and Keep ...</title>
-    <link href="https://merchants.doordash.com/en-us/blog/bakery-marketing" />
-    <published>2026-11-05T22:43:09Z</published>
-    <updated>2026-11-05T22:43:09Z</updated>
-    <summary>Bakery marketing ideas that work: get found on Google and social, take pre-orders online, and turn birthday-cake buyers into weekly regulars.</summary>
   </entry>
 </feed>
