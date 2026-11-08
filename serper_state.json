@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 34233,
+  "credits_used": 34284,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-08T05:42:57Z",
+  "last_run": "2026-11-08T06:43:08Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 682
+  "runs": 683
  },
  "feeds": {
   "adp-help": {
@@ -32716,6 +32716,15 @@
     "summary": "Use this feature to monitor real-time data, identify trends, and track progress against goals to make informed business decisions.",
     "title": "View key performance indicators for your business - QuickBooks"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/set-inventory-lists/set-inventory-conversion/L9OUrQZdv_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-08T06:43:08Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/set-inventory-lists/set-inventory-conversion/L9OUrQZdv_US_en_US",
+    "page": 1,
+    "summary": "Learn how to set up inventory after converting from QuickBooks Desktop to QuickBooks Online \u2014 and avoid common mistakes. Clear, step-by-step instructions.",
+    "title": "Set up inventory after you move from QuickBooks Desktop to ..."
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/state-taxes/faq-filing-taxes/L7id93G7F_US_en_US": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -51338,6 +51347,15 @@
     "page": 2,
     "summary": "What are the uses of OneTrust? Businesses use OneTrust to manage privacy and consent, assess vendor and technology risks, and oversee data and AI use. OneTrust ...",
     "title": "What Is OneTrust? Features and Pricing (2026)"
+   },
+   "shopify.com/blog/what-is-private-label": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-08T06:43:08Z",
+    "link": "https://www.shopify.com/blog/what-is-private-label",
+    "page": 3,
+    "summary": "Private labels can offer higher margins and more control. Learn how to evaluate manufacturers, source products, and build a profitable brand.",
+    "title": "What Is a Private Label? How Private Labels Work (2026)"
    },
    "shopify.com/blog/what-is-shopify": {
     "baseline": false,

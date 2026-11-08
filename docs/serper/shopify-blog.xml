@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-07T20:42:41Z</updated>
+  <updated>2026-11-08T06:43:08Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/what-is-private-label</id>
+    <title>What Is a Private Label? How Private Labels Work (2026)</title>
+    <link href="https://www.shopify.com/blog/what-is-private-label" />
+    <published>2026-11-08T06:43:08Z</published>
+    <updated>2026-11-08T06:43:08Z</updated>
+    <summary>Private labels can offer higher margins and more control. Learn how to evaluate manufacturers, source products, and build a profitable brand.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/how-to-price-your-product</id>
     <title>How to Price a Product in 2026 (+ Pricing Calculator)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T18:43:21Z</published>
     <updated>2026-11-06T18:43:21Z</updated>
     <summary>Logos can become intrinsically tied to your brand's identity, and they may define a customer's first impression—which is why the one you choose matters.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEShAEBxCJF149IpU2F7rLBvsOQ8CILtLr4lVkOIPqVqYfAMVvmy-tit9j8TYWldoFeafirUabGewLp7AqZFnNj0RyidNJUw1tRGzx8IUTK9VpL-UsyqbO2H4G2Ae_s2Bi6eDU4rODxsbltOkZPM6udLInQxJYzOdhnvJswBFVyh1o3GZ86cKI</id>
-    <title>Ruggable's Secret Weapon for Growth? The Internet's ...</title>
-    <link href="https://www.google.com/goto?url=CAEShAEBxCJF149IpU2F7rLBvsOQ8CILtLr4lVkOIPqVqYfAMVvmy-tit9j8TYWldoFeafirUabGewLp7AqZFnNj0RyidNJUw1tRGzx8IUTK9VpL-UsyqbO2H4G2Ae_s2Bi6eDU4rODxsbltOkZPM6udLInQxJYzOdhnvJswBFVyh1o3GZ86cKI" />
-    <published>2026-11-06T17:43:17Z</published>
-    <updated>2026-11-06T17:43:17Z</updated>
-    <summary>How Ruggable used Reddit feedback to fix their product and drive 70% of revenue from a single innovation in just eight weeks.</summary>
   </entry>
 </feed>
