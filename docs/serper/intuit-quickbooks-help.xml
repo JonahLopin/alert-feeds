@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-11-08T10:43:13Z</updated>
+  <updated>2026-11-08T19:42:37Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/learn-converting-quickbooks-desktop-quickbooks/L8TAphzFD_US_en_US</id>
+    <title>Learn about switching from QuickBooks Desktop to ... - Intuit</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/learn-converting-quickbooks-desktop-quickbooks/L8TAphzFD_US_en_US" />
+    <published>2026-11-08T19:42:37Z</published>
+    <updated>2026-11-08T19:42:37Z</updated>
+    <summary>Step-by-step: learn about switching from QuickBooks Desktop to QuickBooks Online — so your books stay accurate. Set it up with confidence.</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/migrate-data/move-quickbooks-desktop-accounting-info-quickbooks/L7LUsedYj_US_en_US</id>
     <title>Move your QuickBooks Desktop payroll and accounting data ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T17:43:17Z</published>
     <updated>2026-11-06T17:43:17Z</updated>
     <summary>Connect Amazon Seller Central to automatically import sales transactions (such as sales, fees, sales tax, and shipping costs), refunds, and payouts into ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESzAEBxCJF18Z1fdsD8oQ3gxGXu7h2sftgxcDkenlXAYgo0_OpAys_ERrKSHWg9xUzy7TempuWAV-Aw5yKkURc1Lg8h86ZuoitIP8qS4RCHCtTGORUy6XHRek-FCn4i-bB6lLpyQPJjktePqfow2LiLCvpmGWoVSVP_dn92IkMthWScUpkoA5w9U1B0YCgdlYRVyAxdXmH6a1lycTRnIF54WBrrC9wZkiV_Wy3w2iTkjUw6CJPZIAzJS7fme1g_lyMzzMls2feHuBREPBW38M</id>
-    <title>Move your payroll from ADP, Gusto, or Paychex ... - QuickBooks</title>
-    <link href="https://www.google.com/goto?url=CAESzAEBxCJF18Z1fdsD8oQ3gxGXu7h2sftgxcDkenlXAYgo0_OpAys_ERrKSHWg9xUzy7TempuWAV-Aw5yKkURc1Lg8h86ZuoitIP8qS4RCHCtTGORUy6XHRek-FCn4i-bB6lLpyQPJjktePqfow2LiLCvpmGWoVSVP_dn92IkMthWScUpkoA5w9U1B0YCgdlYRVyAxdXmH6a1lycTRnIF54WBrrC9wZkiV_Wy3w2iTkjUw6CJPZIAzJS7fme1g_lyMzzMls2feHuBREPBW38M" />
-    <published>2026-11-06T17:43:17Z</published>
-    <updated>2026-11-06T17:43:17Z</updated>
-    <summary>Move your payroll data from ADP, Gusto, or Paychex to Intuit QuickBooks Workforce or QuickBooks Desktop Payroll without entering each record manually.</summary>
   </entry>
 </feed>

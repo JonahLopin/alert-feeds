@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 34938,
+  "credits_used": 34992,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-08T18:43:10Z",
+  "last_run": "2026-11-08T19:42:37Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 695
+  "runs": 696
  },
  "feeds": {
   "adp-help": {
@@ -21929,6 +21929,15 @@
     "summary": "Learn how to set up delivery for your restaurant in 5 steps. Compare models, launch on DoorDash, optimize menus, and grow revenue.",
     "title": "How to Set Up Delivery for Your Restaurant in 5 Simple Steps"
    },
+   "merchants.doordash.com/en-us/blog/ai-technology-for-restaurants": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-08T19:42:37Z",
+    "link": "https://merchants.doordash.com/en-us/blog/ai-technology-for-restaurants",
+    "page": 2,
+    "summary": "AI for restaurants already affects where diners choose to eat. See 9 practical ways independent operators use it to save time and grow.",
+    "title": "AI for Restaurants: 9 Ways AI Is Already Changing How You Grow"
+   },
    "merchants.doordash.com/en-us/blog/alcohol-delivery": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -31284,6 +31293,15 @@
     "page": 2,
     "summary": "How to add a foreign currency account, explained clearly \u2014 minus the accounting jargon. The short, useful version.",
     "title": "How to add a foreign currency account - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/learn-converting-quickbooks-desktop-quickbooks/L8TAphzFD_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-08T19:42:37Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/learn-converting-quickbooks-desktop-quickbooks/L8TAphzFD_US_en_US",
+    "page": 2,
+    "summary": "Step-by-step: learn about switching from QuickBooks Desktop to QuickBooks Online \u2014 so your books stay accurate. Set it up with confidence.",
+    "title": "Learn about switching from QuickBooks Desktop to ... - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/learn-new-intuit-accountant-suite-client-list/L9WyuPE6J_US_en_US": {
     "baseline": false,
@@ -49867,6 +49885,15 @@
     "summary": "Dropshipping apps connect you with suppliers who can package and deliver your product to consumers. They help online store owners design, promote, ...",
     "title": "13 Best Shopify Dropshipping Apps for 2026"
    },
+   "shopify.com/blog/best-dropshipping-products": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-08T19:42:37Z",
+    "link": "https://www.shopify.com/blog/best-dropshipping-products",
+    "page": 4,
+    "summary": "Choosing which dropshipping products to sell is an important business decision for new entrepreneurs, with long-term effects for your brand and website.",
+    "title": "Dropshipping Products: 150+ Ideas To Sell in 2026"
+   },
    "shopify.com/blog/best-software-for-small-business": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -51536,6 +51563,15 @@
     "page": 1,
     "summary": "Usage rights define how your brand is allowed to use content are, how they differ from copyright and traditional licensing, and how to manage them via usage ...",
     "title": "Understanding Usage Rights Agreements (2026)"
+   },
+   "shopify.com/blog/user-generated-content": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-08T19:42:37Z",
+    "link": "https://www.shopify.com/blog/user-generated-content",
+    "page": 4,
+    "summary": "User-generated content (UGC) is any content created by your customers rather than your brand. According to Emplifi's Q3 2025 Social Media Benchmarks report, ...",
+    "title": "User Generated Content: What It Is and Examples (2026)"
    },
    "shopify.com/blog/user-persona": {
     "baseline": false,
