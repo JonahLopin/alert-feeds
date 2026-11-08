@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 35045,
+  "credits_used": 35100,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-08T20:43:03Z",
+  "last_run": "2026-11-08T21:42:54Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 697
+  "runs": 698
  },
  "feeds": {
   "adp-help": {
@@ -22539,6 +22539,15 @@
     "page": 2,
     "summary": "Find out what the average restaurant profit margin is by type, why margins stay thin, and 5 ways to improve yours, backed by data.",
     "title": "What Is the Average Restaurant Profit Margin? (Guide)"
+   },
+   "merchants.doordash.com/en-us/blog/restaurant-self-ordering-system": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-08T21:42:54Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-self-ordering-system",
+    "page": 2,
+    "summary": "Self-ordering systems let customers place and pay for their own orders without a cashier or server \u2014 through kiosks, table devices, or mobile ordering. The core ...",
+    "title": "Restaurant Self-Ordering Systems: The Complete Guide"
    },
    "merchants.doordash.com/en-us/blog/restaurant-seo": {
     "baseline": false,
@@ -50045,6 +50054,15 @@
     "page": 3,
     "summary": "Learn how to calculate small-business shipping costs with a simple formula. Review carrier rates and get pricing strategies that protect your margins.",
     "title": "How to Calculate Shipping Costs for Online Store (2026)"
+   },
+   "shopify.com/blog/competitive-analysis": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-08T21:42:54Z",
+    "link": "https://www.shopify.com/blog/competitive-analysis",
+    "page": 3,
+    "summary": "Learn how to conduct a competitive analysis step by step. Get a free template, frameworks, and AI tools to find market gaps and beat rivals.",
+    "title": "Competitive Analysis: How to Do It + Free Template (2026)"
    },
    "shopify.com/blog/content-creator-vs-influencer": {
     "baseline": false,
