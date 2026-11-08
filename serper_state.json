@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 34338,
+  "credits_used": 34392,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-08T07:43:17Z",
+  "last_run": "2026-11-08T08:42:45Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 684
+  "runs": 685
  },
  "feeds": {
   "adp-help": {
@@ -31571,6 +31571,15 @@
     "summary": "Searching how to request a W-9 from a vendor? Follow this quick guide \u2014 without the usual headaches. Clear, step-by-step instructions.",
     "title": "Manage contractor and vendor W-9 invites in QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/convert-files/converting-quickbooks-desktop-windows-mac-online/L6QYzKBOV_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-08T08:42:45Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/convert-files/converting-quickbooks-desktop-windows-mac-online/L6QYzKBOV_US_en_US",
+    "page": 4,
+    "summary": "Step-by-step: learn what to do after you move from QuickBooks Desktop to QuickBooks Online \u2014 and avoid common mistakes. Do it in just a few clicks.",
+    "title": "Check your data after you move from QuickBooks Desktop to ..."
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/credit-cards/understand-intuit-business-credit-card/L3L1PJGRe_US_en_US": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -31991,6 +32000,15 @@
     "page": 4,
     "summary": "Split billing gives Accountants flexibility and control over their billing options for QuickBooks clients. When you split the bill, your firm or your client ...",
     "title": "Using split billing to manage client subscriptions in Intuit Accountant ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-discounts/learn-proadvisor-discounts-pricing/L1W08tx82_US_en_US": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-08T08:42:45Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/intuit-discounts/learn-proadvisor-discounts-pricing/L1W08tx82_US_en_US",
+    "page": 1,
+    "summary": "Learn about direct discounts (we bill your client) for: QuickBooks Online \u00b7 QuickBooks Desktop \u00b7 QuickBooks Desktop Enterprise \u00b7 QuickBooks Online Payroll.",
+    "title": "Learn about discounts and pricing - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-subscriptions/delete-data-start-quickbooks-online/L0cpXkDlh_US_en_US": {
     "baseline": false,
@@ -66611,6 +66629,15 @@
     "summary": "end\u2010to\u2010end compliance connects indirect tax determination, tax compliance and reporting, e\u2010invoicing, and global trade management within a single, Oracle\u2010 ...",
     "title": "End-to-end compliance for Oracle Fusion Cloud ERP users"
    },
+   "tax.thomsonreuters.com/blog/topic/audit": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-08T08:42:45Z",
+    "link": "https://tax.thomsonreuters.com/blog/topic/audit/",
+    "page": 1,
+    "summary": "Tax & Accounting Blog Posts by Thomson Reuters. How to bridge the experience gap in accounting firms. For accounting firms",
+    "title": "Tax & Accounting Blog Posts by Thomson Reuters | Audit"
+   },
    "tax.thomsonreuters.com/blog/topic/tax-preparation": {
     "baseline": false,
     "date_hint": "Oct 14, 2026",
@@ -71428,6 +71455,15 @@
     "page": 1,
     "summary": "Healthcare professionals see generative AI (GenAI) as key to solving sustainability problems, including the workforce crisis. But many organizations remain ...",
     "title": "Wolters Kluwer Future Ready Healthcare Survey Report"
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-governance-risk-compliance-signs-agreement-to-divest-corsearch": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-08T08:42:45Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-governance-risk-compliance-signs-agreement-to-divest-corsearch",
+    "page": 4,
+    "summary": "Wolters Kluwer, a global leader in information solutions, software and services, announces today that it has completed the reduction in share capital approved ...",
+    "title": "Divest Corsearch"
    },
    "wolterskluwer.com/en/news/wolters-kluwer-hosts-legal-hackathon-2026-in-germany": {
     "baseline": false,
