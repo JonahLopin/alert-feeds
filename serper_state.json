@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 35100,
+  "credits_used": 35155,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-08T21:42:54Z",
+  "last_run": "2026-11-08T22:42:37Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 698
+  "runs": 699
  },
  "feeds": {
   "adp-help": {
@@ -14031,6 +14031,15 @@
     "page": 4,
     "summary": "Lumentum Holdings Inc.'s optical components are \u201ccompletely sold out\u201d through early 2029 on demand from tech companies clamoring for faster AI data centers, ...",
     "title": "Nvidia-Backed Lumentum Sold Out of AI Server Parts Till ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/nvidia-board-to-probe-spying-case-after-ceo-admits-infidelity": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-08T22:42:37Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/nvidia-board-to-probe-spying-case-after-ceo-admits-infidelity",
+    "page": 1,
+    "summary": "Chief Executive Officer Jensen Huang was targeted by a foreign espionage plot after he admitted to employees that he was unfaithful to his wife.",
+    "title": "Nvidia Board to Probe Spying Case After CEO Admits ..."
    },
    "news.bloomberglaw.com/business-and-practice/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai": {
     "baseline": false,
@@ -49741,6 +49750,15 @@
     "page": 1,
     "summary": "AI marketing uses artificial intelligence tools to plan, create, and run marketing across channels. The goal is to get more out of the time and budget you ...",
     "title": "AI Marketing: How To Use AI Tools for Marketing (2026)"
+   },
+   "shopify.com/blog/ai-models": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-08T22:42:37Z",
+    "link": "https://www.shopify.com/blog/ai-models",
+    "page": 3,
+    "summary": "AI models are the engines already powering the artificial intelligence tools you use to run your business. It's the software trained to generate content, ...",
+    "title": "AI Models: Types, How They Work, and Key Uses (2026)"
    },
    "shopify.com/blog/ai-recommendation-system": {
     "baseline": false,
