@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 33968,
+  "credits_used": 34021,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-08T00:46:03Z",
+  "last_run": "2026-11-08T01:42:39Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 677
+  "runs": 678
  },
  "feeds": {
   "adp-help": {
@@ -22638,6 +22638,15 @@
     "page": 1,
     "summary": "Offer a prix fixe menu. Consider sticking to your crowd pleasers. Help guests plate their takeout meals at home. Consider Valentine's Day brunch specials. ...",
     "title": "8 Valentine's Day Tips for Restaurant Owners"
+   },
+   "merchants.doordash.com/en-us/blog/what-does-all-day-mean-in-a-kitchen": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-08T01:42:39Z",
+    "link": "https://merchants.doordash.com/en-us/blog/what-does-all-day-mean-in-a-kitchen",
+    "page": 2,
+    "summary": "Ever heard a chef yell \"all day\" mid-rush? Here's what it really means, why chefs use it, and how it helps a busy kitchen run more smoothly.",
+    "title": "What Does \"All Day\" Mean in a Restaurant Kitchen?"
    },
    "merchants.doordash.com/en-us/blog/what-is-a-commissary-kitchen": {
     "baseline": false,
@@ -70823,6 +70832,15 @@
     "page": 2,
     "summary": "Hip arthroplasty can be 'appropriately considered' for nonagenarians, reports Journal of Bone & Joint Surgery.",
     "title": "Is hip replacement safe for people in their 90s? Risks ..."
+   },
+   "wolterskluwer.com/en/news/kluwer-arbitration-introduces-new-ai-functionality-accelerating-international-arbitration-research": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-08T01:42:39Z",
+    "link": "https://www.wolterskluwer.com/en/news/kluwer-arbitration-introduces-new-ai-functionality-accelerating-international-arbitration-research",
+    "page": 3,
+    "summary": "Wolters Kluwer Legal & Regulatory U.S. today announced the launch of a new functionality powered by Expert AI for Kluwer Arbitration.",
+    "title": "Kluwer Arbitration introduces new AI functionality ..."
    },
    "wolterskluwer.com/en/news/legal-ai-wolters-kluwer-ilta-milan": {
     "baseline": false,
