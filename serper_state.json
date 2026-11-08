@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 34992,
+  "credits_used": 35045,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-08T19:42:37Z",
+  "last_run": "2026-11-08T20:43:03Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 696
+  "runs": 697
  },
  "feeds": {
   "adp-help": {
@@ -49742,6 +49742,15 @@
     "summary": "Learn how an AI recommendation system works and which type fits your store. Compare built-in, app, and custom options, then start with one placement.",
     "title": "AI Recommendation Systems: How They Work + Types ..."
    },
+   "shopify.com/blog/ai-tools-for-ecommerce": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-08T20:43:03Z",
+    "link": "https://www.shopify.com/blog/ai-tools-for-ecommerce",
+    "page": 3,
+    "summary": "Compare top AI tools for ecommerce by use case, pricing, and Shopify integration. Find the right AI for content, service, and personalization.",
+    "title": "AI Tools for Ecommerce: 11 Best Options (2026) - Shopify"
+   },
    "shopify.com/blog/alabama-business-license": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -71744,6 +71753,15 @@
     "page": 3,
     "summary": "Wolters Kluwer, a global leader in information solutions, software and services, announces today that it has completed the reduction in share capital approved ...",
     "title": "Wolters Kluwer Completes Acquisition of Remaining 62% ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-completes-acquisition-of-the-isabel-groups-european-accountancy-portfolio": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-08T20:43:03Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-completes-acquisition-of-the-isabel-groups-european-accountancy-portfolio",
+    "page": 5,
+    "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting; ...",
+    "title": "Wolters Kluwer completes acquisition of the Isabel Group's ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-completes-capital-reduction-2026": {
     "baseline": false,
