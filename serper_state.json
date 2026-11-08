@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 34128,
+  "credits_used": 34179,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-08T03:42:59Z",
+  "last_run": "2026-11-08T04:42:42Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 680
+  "runs": 681
  },
  "feeds": {
   "adp-help": {
@@ -31373,6 +31373,15 @@
     "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/bank-transactions/accounting-agent-features/L6pl9rv94_US_en_US",
     "summary": "When you view your reports, QuickBooks gives you insights on new or unusual trends it sees. Your Accounting AI can review and analyze the trends for potential ...",
     "title": "Learn about Accounting AI features - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/bank-transactions/add-existing-expenses-project-quickbooks-online/L5vKMv06F_US_en_US": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-08T04:42:42Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/bank-transactions/add-existing-expenses-project-quickbooks-online/L5vKMv06F_US_en_US",
+    "page": 2,
+    "summary": "Learn how to add existing expenses to a project in QuickBooks Online \u2014 so your books stay accurate. See exactly how below.",
+    "title": "Add existing expenses to a project in QuickBooks Online or ..."
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/bank-transactions/ai-suggestions-help-match-categorize-bank/L8FHOh4AD_US_en_US": {
     "baseline": false,

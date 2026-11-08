@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-11-08T02:43:11Z</updated>
+  <updated>2026-11-08T04:42:42Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/bank-transactions/add-existing-expenses-project-quickbooks-online/L5vKMv06F_US_en_US</id>
+    <title>Add existing expenses to a project in QuickBooks Online or ...</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/bank-transactions/add-existing-expenses-project-quickbooks-online/L5vKMv06F_US_en_US" />
+    <published>2026-11-08T04:42:42Z</published>
+    <updated>2026-11-08T04:42:42Z</updated>
+    <summary>Learn how to add existing expenses to a project in QuickBooks Online — so your books stay accurate. See exactly how below.</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/close-books/set-books-close-templates-intuit-accountant-suite/L2rWOu1mn_US_en_US</id>
     <title>Set up Books Close templates in Intuit Accountant Suite</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T17:43:17Z</published>
     <updated>2026-11-06T17:43:17Z</updated>
     <summary>Manage custom roles in QuickBooks Online — so your books stay accurate. Easier than you'd expect.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESxgEBxCJF1ztlDv8USOQsqg7O8Eu7eqzZR4-ztRwHJIKnOmthyA9RyYtqaKQqFTr5Eewsfvj7X7XZhX4qAU37YUtzNYz2uFnpGiUaKmGdj2ZguNH8N0yXae0Vt0kn360ZxH4DeVGN4qZMzfoDM59LmiTPIaVsGxtFUz5si4A2QSP4KezQxuPUNbdxiF3UDMOVGa37Hz2qmoScXQijpEd1ruInhJxBte97iWvza9REqd5UGkS7O32kxCay7vEyMvvE6Crqig3UH28</id>
-    <title>What's new in QuickBooks Desktop 2024 - Intuit</title>
-    <link href="https://www.google.com/goto?url=CAESxgEBxCJF1ztlDv8USOQsqg7O8Eu7eqzZR4-ztRwHJIKnOmthyA9RyYtqaKQqFTr5Eewsfvj7X7XZhX4qAU37YUtzNYz2uFnpGiUaKmGdj2ZguNH8N0yXae0Vt0kn360ZxH4DeVGN4qZMzfoDM59LmiTPIaVsGxtFUz5si4A2QSP4KezQxuPUNbdxiF3UDMOVGa37Hz2qmoScXQijpEd1ruInhJxBte97iWvza9REqd5UGkS7O32kxCay7vEyMvvE6Crqig3UH28" />
-    <published>2026-11-06T17:43:17Z</published>
-    <updated>2026-11-06T17:43:17Z</updated>
-    <summary>Custom field improvements (QuickBooks Desktop Enterprise only). You can now filter reports using text or dropdown lists. We've also improved the error handling ...</summary>
   </entry>
 </feed>
