@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 34718,
+  "credits_used": 34773,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-08T14:43:11Z",
+  "last_run": "2026-11-08T15:42:36Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 691
+  "runs": 692
  },
  "feeds": {
   "adp-help": {
@@ -49714,6 +49714,15 @@
     "summary": "Dropshipping apps connect you with suppliers who can package and deliver your product to consumers. They help online store owners design, promote, ...",
     "title": "13 Best Shopify Dropshipping Apps for 2026"
    },
+   "shopify.com/blog/best-software-for-small-business": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-08T15:42:36Z",
+    "link": "https://www.shopify.com/blog/best-software-for-small-business",
+    "page": 5,
+    "summary": "Website builders like Shopify and Squarespace let you create professional websites with minimal to no coding knowledge. Many tools offer drag-and-drop ...",
+    "title": "Best Software for Small Business: 24 Essential Tools (2026)"
+   },
    "shopify.com/blog/best-t-shirt-fonts": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -50081,6 +50090,15 @@
     "page": 3,
     "summary": "Compare EBITDA and net income with formulas, a worked retail example, and industry margin benchmarks to see when to use each metric.",
     "title": "EBITDA vs. Net Income: Key Differences (2026)"
+   },
+   "shopify.com/blog/ecommerce-accounting": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-08T15:42:36Z",
+    "link": "https://www.shopify.com/blog/ecommerce-accounting",
+    "page": 3,
+    "summary": "Ecommerce accounting records and reviews the money moving through an online business. It tracks transactions like sales, payment processing fees, ...",
+    "title": "Ecommerce Accounting: A Beginner's Guide (2026)"
    },
    "shopify.com/blog/ecommerce-brands": {
     "baseline": false,
