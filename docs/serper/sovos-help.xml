@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-07T13:42:44Z</updated>
+  <updated>2026-11-08T12:42:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/tax-determination/tax-determination-rest-api/tax-calculation-endpoints/tax-calculation/document</id>
+    <title>Calculate tax | Product Documentation ... - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/tax-determination/tax-determination-rest-api/tax-calculation-endpoints/tax-calculation/document" />
+    <published>2026-11-08T12:42:44Z</published>
+    <updated>2026-11-08T12:42:44Z</updated>
+    <summary>More than 100,000 customers – including half the Fortune 500 – trust Sovos' tax and regulatory expertise and unparalleled integration with their business ...</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/unclaimed-property/reportmyup/create-and-submit-state-reports/arizona-preliminary-report-request-fall-2026</id>
     <title>Arizona preliminary report request (Fall 2026) - Sovos Docs</title>
@@ -795,13 +803,5 @@
     <published>2026-10-20T11:46:17Z</published>
     <updated>2026-10-20T11:46:17Z</updated>
     <summary>Only Admin users can edit users. Go to Settings &gt; Users. The Settings icon and the Users button are highlighted.</summary>
-  </entry>
-  <entry>
-    <id>https://docs.sovos.com/en/1099-reporting/tincheck/run-checks/about-irs-intermittent-issues</id>
-    <title>About IRS intermittent issues - Sovos Docs</title>
-    <link href="https://docs.sovos.com/en/1099-reporting/tincheck/run-checks/about-irs-intermittent-issues" />
-    <published>2026-10-20T11:46:17Z</published>
-    <updated>2026-10-20T11:46:17Z</updated>
-    <summary>Intermittent issues are not as disruptive as downtime. This simply means that our system has detected some level of degradation from the IRS system that may ...</summary>
   </entry>
 </feed>

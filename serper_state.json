@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 34555,
+  "credits_used": 34609,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-08T11:42:46Z",
+  "last_run": "2026-11-08T12:42:44Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 688
+  "runs": 689
  },
  "feeds": {
   "adp-help": {
@@ -51955,6 +51955,15 @@
     "summary": "The tax calculation endpoints are used to calculate sales and use tax for each line item on a document based on product characteristics, shipping addresses,",
     "title": "Tax calculation endpoints - Sovos Docs"
    },
+   "docs.sovos.com/en/tax-determination/tax-determination-rest-api/tax-calculation-endpoints/tax-calculation/document": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-08T12:42:44Z",
+    "link": "https://docs.sovos.com/en/tax-determination/tax-determination-rest-api/tax-calculation-endpoints/tax-calculation/document",
+    "page": 1,
+    "summary": "More than 100,000 customers \u2013 including half the Fortune 500 \u2013 trust Sovos' tax and regulatory expertise and unparalleled integration with their business ...",
+    "title": "Calculate tax | Product Documentation ... - Sovos Docs"
+   },
    "docs.sovos.com/en/tax-determination/tax-determination/map-products-exemptions-and-locations/geo-codes": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -54503,6 +54512,15 @@
     "page": 1,
     "summary": "Overview. Canceling an order depends on whether items have been sent to the kitchen. Unsent items can be canceled immediately. Sent items must first be ...",
     "title": "How to Cancel an Order (Sent vs. Unsent Items)"
+   },
+   "help.spoton.com/space/SK/1066992036": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-08T12:42:44Z",
+    "link": "https://help.spoton.com/space/SK/1066992036",
+    "page": 1,
+    "summary": "The Loyalty page in your SpotOn Dashboard shows how your customers earn and redeem spots. You can also manage your loyalty program settings here.",
+    "title": "SpotOn Loyalty | SpotOn Dashboard"
    },
    "help.spoton.com/space/SK/1916370973": {
     "baseline": false,
