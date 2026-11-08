@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-11-07T21:42:28Z</updated>
+  <updated>2026-11-08T02:43:11Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/close-books/set-books-close-templates-intuit-accountant-suite/L2rWOu1mn_US_en_US</id>
+    <title>Set up Books Close templates in Intuit Accountant Suite</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/close-books/set-books-close-templates-intuit-accountant-suite/L2rWOu1mn_US_en_US" />
+    <published>2026-11-08T02:43:11Z</published>
+    <updated>2026-11-08T02:43:11Z</updated>
+    <summary>With Books Close in Intuit Accountant Suite, you can track and finish the monthly close process for all your clients in one place.</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-users/move-quickbooks-desktop-payments-quickbooks-online/L0TLpagvG_US_en_US</id>
     <title>Move your QuickBooks Desktop Payments to QuickBooks Online</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T17:43:17Z</published>
     <updated>2026-11-06T17:43:17Z</updated>
     <summary>Custom field improvements (QuickBooks Desktop Enterprise only). You can now filter reports using text or dropdown lists. We've also improved the error handling ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESxQEBxCJF17EuqTU9vSHVZjCaTpJpd21VEu8gM9sqpLsOkyyZ4BtQanHvpZoba9OZb8i0jvXBH7ap8iU-ARyIzXmej7tSYgJCz0u2RE8JHEwp-6d-IRw_AvaalYSpIjk3k6-XET-PSBkBCjvc389gShCnZd-WYcEopYCwycBa7o3-V8X3N8zmCXY0k7_wiQLDl-cJ4vuxT6DOOMkuSJcd_8YpRUWrsTas37mBHj_HCC3uEdJC7SG-X1IbP5f6i5KIq13fIE37wQ</id>
-    <title>Release notes for QuickBooks Desktop 2024 - Intuit</title>
-    <link href="https://www.google.com/goto?url=CAESxQEBxCJF17EuqTU9vSHVZjCaTpJpd21VEu8gM9sqpLsOkyyZ4BtQanHvpZoba9OZb8i0jvXBH7ap8iU-ARyIzXmej7tSYgJCz0u2RE8JHEwp-6d-IRw_AvaalYSpIjk3k6-XET-PSBkBCjvc389gShCnZd-WYcEopYCwycBa7o3-V8X3N8zmCXY0k7_wiQLDl-cJ4vuxT6DOOMkuSJcd_8YpRUWrsTas37mBHj_HCC3uEdJC7SG-X1IbP5f6i5KIq13fIE37wQ" />
-    <published>2026-11-06T17:43:17Z</published>
-    <updated>2026-11-06T17:43:17Z</updated>
-    <summary>Faster search, simpler setup, and better visibility Find accounts instantly by. You can now right-click to duplicate accounts, customers, vendors, and jobs.</summary>
   </entry>
 </feed>

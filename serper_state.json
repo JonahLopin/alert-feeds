@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 34021,
+  "credits_used": 34074,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-08T01:42:39Z",
+  "last_run": "2026-11-08T02:43:11Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 678
+  "runs": 679
  },
  "feeds": {
   "adp-help": {
@@ -31507,6 +31507,15 @@
     "page": 2,
     "summary": "Learn how to create, customize, preview, and send professional proposals to your customers directly from QuickBooks Online. Use the proposal builder to create a ...",
     "title": "Create and send proposals - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/close-books/set-books-close-templates-intuit-accountant-suite/L2rWOu1mn_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-08T02:43:11Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/close-books/set-books-close-templates-intuit-accountant-suite/L2rWOu1mn_US_en_US",
+    "page": 4,
+    "summary": "With Books Close in Intuit Accountant Suite, you can track and finish the monthly close process for all your clients in one place.",
+    "title": "Set up Books Close templates in Intuit Accountant Suite"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/communications/manage-communications-inbox/L5wTADrud_US_en_US": {
     "baseline": false,
