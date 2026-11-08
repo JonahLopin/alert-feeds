@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 34447,
+  "credits_used": 34500,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-08T09:42:56Z",
+  "last_run": "2026-11-08T10:43:13Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 686
+  "runs": 687
  },
  "feeds": {
   "adp-help": {
@@ -32262,6 +32262,15 @@
     "summary": "Learn how to manage your migrated attachments in QuickBooks Online \u2014 and save hours on bookkeeping. Get it done in minutes.",
     "title": "Manage your attachments when you migrate to ... - QuickBooks"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/migrate-data/move-quickbooks-desktop-accounting-info-quickbooks/L7LUsedYj_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-08T10:43:13Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/migrate-data/move-quickbooks-desktop-accounting-info-quickbooks/L7LUsedYj_US_en_US",
+    "page": 4,
+    "summary": "Move your QuickBooks Desktop accounting info to QuickBooks Online Payroll \u2014 without the usual headaches. Clear, step-by-step instructions.",
+    "title": "Move your QuickBooks Desktop payroll and accounting data ..."
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/migrate-services/condense-quickbooks-desktop-file-import-quickbooks/L4NvqoGAz_US_en_US": {
     "baseline": false,
     "date_hint": "17 hours ago",
@@ -50791,6 +50800,15 @@
     "summary": "Unmatched payments can hide fraud and bookkeeping errors. See how payment reconciliation catches them and learn how to automate the process.",
     "title": "Payment Reconciliation: Types & Example (2026)"
    },
+   "shopify.com/blog/performance-marketing": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-08T10:43:13Z",
+    "link": "https://www.shopify.com/blog/performance-marketing",
+    "page": 2,
+    "summary": "Performance marketing is a type of digital marketing focused on generating measurable actions, like someone clicking through to a product page or completing a ...",
+    "title": "Performance Marketing: A Beginner's Guide (2026)"
+   },
    "shopify.com/blog/pinterest-ads-examples": {
     "baseline": false,
     "date_hint": "1 day ago",
@@ -56474,6 +56492,15 @@
     "page": 1,
     "summary": "Payment Element \u00b7 Create a Payment Element \u00b7 Express Checkout Element \u00b7 Create an Express Checkout Element \u00b7 Contact Details Element \u00b7 Create a Contact Details ...",
     "title": "Stripe JS Reference"
+   },
+   "docs.stripe.com/js/custom_checkout/get_tax_id_element": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-08T10:43:13Z",
+    "link": "https://docs.stripe.com/js/custom_checkout/get_tax_id_element",
+    "page": 1,
+    "summary": "Checkout \u00b7 Create a Payment Element \u00b7 Create a Billing Address Element \u00b7 Create a Shipping Address Element \u00b7 Create an Express Checkout Element \u00b7 Create a Currency ...",
+    "title": "Get the Tax ID Element"
    },
    "docs.stripe.com/js/custom_checkout/load_fonts?___SID=U": {
     "baseline": false,

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-06T21:43:20Z</updated>
+  <updated>2026-11-08T10:43:13Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/js/custom_checkout/get_tax_id_element</id>
+    <title>Get the Tax ID Element</title>
+    <link href="https://docs.stripe.com/js/custom_checkout/get_tax_id_element" />
+    <published>2026-11-08T10:43:13Z</published>
+    <updated>2026-11-08T10:43:13Z</updated>
+    <summary>Checkout · Create a Payment Element · Create a Billing Address Element · Create a Shipping Address Element · Create an Express Checkout Element · Create a Currency ...</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESjwEBxCJF12GGLsEQpV7uKWafnYq39vkD3jKwHAuq0DWNfgxT7SHOahOdp204cuux5ktTnt6F4lCdB2yP70F1zuvTNV6-iXohO64uVdzkRCRaYwOgCknjQT6lXMBImPaY2ib7PIKQDwkZWtuyGArbY5gAKNiOILkQImoUHv4IkDhreCPZOAM7yNLN6LY0fzgMaw</id>
     <title>Recommandations d'assistance et modèles de FAQ</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T14:42:45Z</published>
     <updated>2026-11-06T14:42:45Z</updated>
     <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdAHEIkXXGXDBTPo5QZdMLaKEIkWN-Jpnt10yZWFLT168e1T2RhIySJvAK_k0n28cn-fWxp2Chw90MZ5nucse8bhukvCrv0txuKqDvkZVyr8oWOvhs0NarBbLtswJB-tvASY9WguBh3bf317xFk01fA_Kg7cQ</id>
-    <title>Manage your stablecoin-backed card program</title>
-    <link href="https://www.google.com/goto?url=CAESdAHEIkXXGXDBTPo5QZdMLaKEIkWN-Jpnt10yZWFLT168e1T2RhIySJvAK_k0n28cn-fWxp2Chw90MZ5nucse8bhukvCrv0txuKqDvkZVyr8oWOvhs0NarBbLtswJB-tvASY9WguBh3bf317xFk01fA_Kg7cQ" />
-    <published>2026-11-06T14:42:45Z</published>
-    <updated>2026-11-06T14:42:45Z</updated>
-    <summary>Manage your stablecoin-backed card program by providing cardholder support, generating monthly statements, and handling complaints. Use the Stripe and Bridge ...</summary>
   </entry>
 </feed>

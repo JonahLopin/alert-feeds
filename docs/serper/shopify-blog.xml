@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-08T07:43:17Z</updated>
+  <updated>2026-11-08T10:43:13Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/performance-marketing</id>
+    <title>Performance Marketing: A Beginner's Guide (2026)</title>
+    <link href="https://www.shopify.com/blog/performance-marketing" />
+    <published>2026-11-08T10:43:13Z</published>
+    <updated>2026-11-08T10:43:13Z</updated>
+    <summary>Performance marketing is a type of digital marketing focused on generating measurable actions, like someone clicking through to a product page or completing a ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/tiktok-shopping</id>
     <title>What Is TikTok Shop? How It Works for Sellers (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T18:43:21Z</published>
     <updated>2026-11-06T18:43:21Z</updated>
     <summary>Buying a domain name gives consumers a way to easily access your brand's online store or website. Typing in an address like yourbrand.com into an internet ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESaQHEIkXXQlcPRHZeAvOryvDsLPxY1YGo6yqcpWTb0SjGdzQ5jbODOKAs8KWgHVo5AqcAXeu4jLtbK0JM118_XD48Gi5HGvCIztw_uPRtooZeUuTymtDbJVbW3JDy3GGlg8VtC1tEs1dnog</id>
-    <title>Video Marketing: Strategy, Formats, and Tools (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESaQHEIkXXQlcPRHZeAvOryvDsLPxY1YGo6yqcpWTb0SjGdzQ5jbODOKAs8KWgHVo5AqcAXeu4jLtbK0JM118_XD48Gi5HGvCIztw_uPRtooZeUuTymtDbJVbW3JDy3GGlg8VtC1tEs1dnog" />
-    <published>2026-11-06T18:43:21Z</published>
-    <updated>2026-11-06T18:43:21Z</updated>
-    <summary>Video marketing, or video content marketing, is about using video to promote a business. This approach is a useful addition to many brands' overall strategies, ...</summary>
   </entry>
 </feed>
