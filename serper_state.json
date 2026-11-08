@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 34663,
+  "credits_used": 34718,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-08T13:42:39Z",
+  "last_run": "2026-11-08T14:43:11Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 690
+  "runs": 691
  },
  "feeds": {
   "adp-help": {
@@ -49884,6 +49884,15 @@
     "summary": "These content templates help you create social media posts, articles, videos, marketing emails, press releases, and more. Learn how to use each type.",
     "title": "19 Practical Content Templates to Improve Your Marketing"
    },
+   "shopify.com/blog/create-membership-site": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-08T14:43:11Z",
+    "link": "https://www.shopify.com/blog/create-membership-site",
+    "page": 4,
+    "summary": "Learn how to create a membership site in 8 steps, from validating your idea and choosing a platform to setting up billing and members-only access.",
+    "title": "How To Create a Membership Site in 8 Steps (2026)"
+   },
    "shopify.com/blog/credit-card-processing-fees": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -50970,6 +50979,15 @@
     "summary": "Website promotion is the work of getting people to your site. See 11 free and paid ways to promote your store, and what each one costs.",
     "title": "Website Promotion: 11 Ways to Promote Your Store (2026)"
    },
+   "shopify.com/blog/register-business": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-08T14:43:11Z",
+    "link": "https://www.shopify.com/blog/register-business",
+    "page": 3,
+    "summary": "Learn how to register a US online business, including picking a name, choosing a structure, getting an EIN, and acquiring the licenses you need, ...",
+    "title": "How To Register an Online Business in 5 Steps (2026)"
+   },
    "shopify.com/blog/reputation-management": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -51014,6 +51032,15 @@
     "page": 2,
     "summary": "Shopify is always evolving, with new features and updates rolling out regularly to help retailers stay ahead\u2014but keeping up shouldn't be a chore.",
     "title": "Shopify Retail Roundup (2026)"
+   },
+   "shopify.com/blog/retail-signage": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-08T14:43:11Z",
+    "link": "https://www.shopify.com/blog/retail-signage",
+    "page": 3,
+    "summary": "Retail store signage shows shoppers what your business can do and how to navigate your store without having to speak to anyone. It helps them find the ...",
+    "title": "Retail Signage: Types, Design Tips, and Examples (2026)"
    },
    "shopify.com/blog/rfm-analysis": {
     "baseline": false,
@@ -51819,6 +51846,15 @@
     "page": 1,
     "summary": "TIN Matching helps you verify recipient information before filing. It checks recipient information against government records and sanctions data",
     "title": "TIN Matching | Product Documentation Documentation"
+   },
+   "docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/transmit/iris/about-the-new-iris-filing-system": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-08T14:43:11Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/transmit/iris/about-the-new-iris-filing-system",
+    "page": 1,
+    "summary": "The Information Returns Intake System (IRIS) is the IRS's new platform for submitting 1099 information returns previously reported through their FIRE portal.",
+    "title": "About the new IRIS filing system - Sovos Docs"
    },
    "docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/transmit/transmit-to-the-irs/fix-xml-schema-validation-errors": {
     "baseline": false,

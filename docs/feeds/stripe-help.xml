@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-07T17:44:19Z</updated>
+  <updated>2026-11-08T14:44:30Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12465156951724838520</id>
+    <title>Run a report from the Reports v1 API - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/reports/v1-api" />
+    <published>2026-11-08T14:44:30Z</published>
+    <updated>2026-11-08T14:44:30Z</updated>
+    <summary>Check data availability, create report runs, and download CSV results with the Reports v1 API. Automate reporting with webhook notifications.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:18371695099439330972</id>
     <title>Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-16T22:44:10Z</published>
     <updated>2026-10-16T22:44:10Z</updated>
     <summary>Explore the Stripe API tables, columns, and Postgres data types available through Data Pipeline real-time sync.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:15018945167130862954</id>
-    <title>useCheckout - Stripe JS Reference</title>
-    <link href="https://docs.stripe.com/js/react_stripe_js/checkout/use_checkout?client_id=1937835283.1772150402&amp;session_id=1772150402" />
-    <published>2026-10-16T22:44:10Z</published>
-    <updated>2026-10-16T22:44:10Z</updated>
-    <summary>The ID of the Checkout Session. billingAddress nullable object. Billing details of the Customer.</summary>
   </entry>
 </feed>

@@ -5673,6 +5673,12 @@
    "summary": "Connect the reader to the internet. Because the Stripe Reader T600 is a smart reader, its reader software communicates directly with Stripe. Your ...",
    "title": "Set up Stripe Reader T600"
   },
+  "tag:google.com,2013:googlealerts/feed:12465156951724838520": {
+   "first_seen": "2026-11-08T14:44:30Z",
+   "link": "https://docs.stripe.com/reports/v1-api",
+   "summary": "Check data availability, create report runs, and download CSV results with the Reports v1 API. Automate reporting with webhook notifications.",
+   "title": "Run a report from the Reports v1 API - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:12527214962471402690": {
    "first_seen": "2026-10-20T22:44:24Z",
    "link": "https://docs.stripe.com/api/reserve/release?api-version=2026-09-30.preview",

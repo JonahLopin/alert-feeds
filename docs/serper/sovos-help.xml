@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-08T12:42:44Z</updated>
+  <updated>2026-11-08T14:43:11Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/transmit/iris/about-the-new-iris-filing-system</id>
+    <title>About the new IRIS filing system - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/transmit/iris/about-the-new-iris-filing-system" />
+    <published>2026-11-08T14:43:11Z</published>
+    <updated>2026-11-08T14:43:11Z</updated>
+    <summary>The Information Returns Intake System (IRIS) is the IRS's new platform for submitting 1099 information returns previously reported through their FIRE portal.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/tax-determination/tax-determination-rest-api/tax-calculation-endpoints/tax-calculation/document</id>
     <title>Calculate tax | Product Documentation ... - Sovos Docs</title>
@@ -795,13 +803,5 @@
     <published>2026-10-20T17:45:51Z</published>
     <updated>2026-10-20T17:45:51Z</updated>
     <summary>Use the Documents endpoints to send new documents, retrieve documents, or perform actions on previously sent documents.</summary>
-  </entry>
-  <entry>
-    <id>https://docs.sovos.com/en/unclaimed-property/reportmyup/add-and-manage-users/edit-users/edit-users-reportmyup-plus</id>
-    <title>Edit users (ReportMyUP Plus) - Sovos Docs</title>
-    <link href="https://docs.sovos.com/en/unclaimed-property/reportmyup/add-and-manage-users/edit-users/edit-users-reportmyup-plus" />
-    <published>2026-10-20T11:46:17Z</published>
-    <updated>2026-10-20T11:46:17Z</updated>
-    <summary>Only Admin users can edit users. Go to Settings &gt; Users. The Settings icon and the Users button are highlighted.</summary>
   </entry>
 </feed>
