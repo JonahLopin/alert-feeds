@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-09T03:43:01Z</updated>
+  <updated>2026-11-09T06:41:20Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/instagram-checkout</id>
+    <title>Instagram Checkout: What It Is and How to Set It Up (2026)</title>
+    <link href="https://www.shopify.com/blog/instagram-checkout" />
+    <published>2026-11-09T06:41:20Z</published>
+    <updated>2026-11-09T06:41:20Z</updated>
+    <summary>Instagram Checkout was a feature within Instagram Shop that let users make a direct purchase from your business. It enabled a seamless shopping experience where ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/retail-metrics</id>
     <title>Retail Metrics: 16 Key Metrics for Your Store (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T20:42:38Z</published>
     <updated>2026-11-06T20:42:38Z</updated>
     <summary>The difference between a content creator and influencer lies in their area of expertise and focus. Learn how to partner with both.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdAHEIkXXlxwROa6RDMyiGbyjDcl8YJjDwAWjyEHEoqt2n-aHPXZG74Hi5UR4DCQcU-2BwwKAf1WldzAsKPwkeNs_M8dH0fzGpU0ZgvFnTv1Ulgr7aRHwrD4SGGVURF2KSl4CzsfS-NihBxZsZgoyASxpNHPg</id>
-    <title>Business Entity Definition and How To Choose (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESdAHEIkXXlxwROa6RDMyiGbyjDcl8YJjDwAWjyEHEoqt2n-aHPXZG74Hi5UR4DCQcU-2BwwKAf1WldzAsKPwkeNs_M8dH0fzGpU0ZgvFnTv1Ulgr7aRHwrD4SGGVURF2KSl4CzsfS-NihBxZsZgoyASxpNHPg" />
-    <published>2026-11-06T20:42:38Z</published>
-    <updated>2026-11-06T20:42:38Z</updated>
-    <summary>A business entity is the legal structure that a company or individual uses to register with the government, pay taxes, and conduct daily operations.</summary>
   </entry>
 </feed>

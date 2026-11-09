@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 35539,
+  "credits_used": 35594,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-09T05:42:55Z",
+  "last_run": "2026-11-09T06:41:20Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 706
+  "runs": 707
  },
  "feeds": {
   "adp-help": {
@@ -31303,6 +31303,15 @@
     "summary": "The ProAdvisor Academy lets you advance your expertise and manage your professional achievements from your Intuit Accountant Suite firm.",
     "title": "ProAdvisor Academy and certification courses - QuickBooks"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/accountant-features/keep-client-notes-quickbooks-online-accountant/L2yrhCHPL_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-09T06:41:20Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/accountant-features/keep-client-notes-quickbooks-online-accountant/L2yrhCHPL_US_en_US",
+    "page": 3,
+    "summary": "Everything you need on keep client notes in QuickBooks Online \u2014 and save hours on bookkeeping. Do it in just a few clicks.",
+    "title": "Keep client notes - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/accountant-features/manage-track-work-client-requests-projects-tasks/L0IYImRhk_US_en_US": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -50792,6 +50801,15 @@
     "summary": "Instagram's Explore page algorithm is designed to help users discover new things. It uses the same signals as the feed and Stories, but uses them to curate and ...",
     "title": "Instagram Algorithm 2026: What You Need To Know"
    },
+   "shopify.com/blog/instagram-checkout": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-09T06:41:20Z",
+    "link": "https://www.shopify.com/blog/instagram-checkout",
+    "page": 2,
+    "summary": "Instagram Checkout was a feature within Instagram Shop that let users make a direct purchase from your business. It enabled a seamless shopping experience where ...",
+    "title": "Instagram Checkout: What It Is and How to Set It Up (2026)"
+   },
    "shopify.com/blog/instagram-story-features": {
     "baseline": false,
     "date_hint": "1 day ago",
@@ -52170,6 +52188,15 @@
     "page": 1,
     "summary": "Delete users Permanently remove a user's access to your account. Note: Only Admin users can delete users. Caution: This action permanently deletes the user and ...",
     "title": "Delete users | Product Documentation Documentation - Sovos Docs"
+   },
+   "docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/identity-management-forms/print-w-9-solicitations": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-09T06:41:20Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/identity-management-forms/print-w-9-solicitations",
+    "page": 1,
+    "summary": "Learn how to request corrected information from recipients with mismatched names and TINs.",
+    "title": "Print W-9 solicitations | Product Documentation Documentation"
    },
    "docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/manage-your-account/manage-login": {
     "baseline": false,
@@ -54927,6 +54954,15 @@
     "summary": "SpotOn Capital gives eligible merchants access to business loans to help manage cash flow or invest in growth. You can review your pre-approved offer, apply, ...",
     "title": "How to Apply for SpotOn Capital | Parafin"
    },
+   "help.spoton.com/space/SK/1106805506/How+to+Apply+for+SpotOn+Capital+%7C+Parafin": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-09T06:41:20Z",
+    "link": "https://help.spoton.com/space/SK/1106805506/How+to+Apply+for+SpotOn+Capital+%7C+Parafin",
+    "page": 2,
+    "summary": "SpotOn Capital gives eligible merchants access to business loans to help manage cash flow or invest in growth. If you have a pre-approved offer, it will appear ...",
+    "title": "How to Apply for SpotOn Capital | Parafin"
+   },
    "help.spoton.com/space/SK/1916370973": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -55515,6 +55551,15 @@
     "page": 2,
     "summary": "Overview. The Tip Ownership Method determines which employee ultimately receives tips on an order, particularly when checks are transferred or when credit ...",
     "title": "Tip Ownership Method | Location Settings"
+   },
+   "help.spoton.com/space/SK/4892295261/How+to+Hide+Menu+Items+Using+Pricing+Events+%7C+SpotOn+Restaurant+BOH": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-09T06:41:20Z",
+    "link": "https://help.spoton.com/space/SK/4892295261/How+to+Hide+Menu+Items+Using+Pricing+Events+%7C+SpotOn+Restaurant+BOH",
+    "page": 2,
+    "summary": "Pricing Events can be configured to automatically hide specific menu items during designated days and times. This eliminates the need to manually 86 items and ...",
+    "title": "How to Hide Menu Items Using Pricing Events"
    },
    "help.spoton.com/space/SK/4893540534": {
     "baseline": false,
