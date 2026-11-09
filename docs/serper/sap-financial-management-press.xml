@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-09T07:42:39Z</updated>
+  <updated>2026-11-09T11:42:46Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/norway/2026/11/generasjon-z-omfavner-ai-shopping-men-merkevarer-ma-gjore-seg-fortjent-til-retten-til-a-automatisere/</id>
+    <title>Gen Z og AI-shopping: Hva du må vite</title>
+    <link href="https://news.sap.com/norway/2026/11/generasjon-z-omfavner-ai-shopping-men-merkevarer-ma-gjore-seg-fortjent-til-retten-til-a-automatisere/" />
+    <published>2026-11-09T11:42:46Z</published>
+    <updated>2026-11-09T11:42:46Z</updated>
+    <summary>Kunstig intelligens har beveget seg fra å være et nyttig hjelpemiddel i forbindelse med netthandel til å spille en aktiv rolle i kjøpsbeslutninger. En ny global ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/2026/11/interview-with-manish-prasad-sap-india/</id>
     <title>Interview with SAP India's Manish Prasad</title>
@@ -795,13 +803,5 @@
     <published>2026-11-05T08:43:32Z</published>
     <updated>2026-11-05T08:43:32Z</updated>
     <summary>SAP-RPT soll Anfang 2027 auf dem HPE Spaceborne Computer-2 an Bord der ISS bereitgestellt werden. Damit soll gezeigt werden, wie das Modell betriebliche ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/sea/2026/11/comfortdelgro-drives-onecdg-vision-forward-with-integrated-sap-core/?amp=1</id>
-    <title>ComfortDelGro drives OneCDG vision forward with ...</title>
-    <link href="https://news.sap.com/sea/2026/11/comfortdelgro-drives-onecdg-vision-forward-with-integrated-sap-core/?amp=1" />
-    <published>2026-11-05T06:44:24Z</published>
-    <updated>2026-11-05T06:44:24Z</updated>
-    <summary>SAP S/4HANA provides CDG with a real-time digital core across finance and related operational processes. Real-time postings and validations, embedded analytics ...</summary>
   </entry>
 </feed>

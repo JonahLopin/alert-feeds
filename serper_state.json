@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 35813,
+  "credits_used": 35870,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-09T10:43:24Z",
+  "last_run": "2026-11-09T11:42:46Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 711
+  "runs": 712
  },
  "feeds": {
   "adp-help": {
@@ -10736,6 +10736,15 @@
     "summary": "Both players are scheduled to go on trial Monday for allegedly tipping off accomplices about the speed and types of specific pitches they would make.",
     "title": "Cleveland Pitchers Face Trial in New York Over 'Rigged' Bets"
    },
+   "news.bloomberglaw.com/business-and-practice/clients-want-law-firms-to-use-ai-but-thats-not-all-they-want": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-09T11:42:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/clients-want-law-firms-to-use-ai-but-thats-not-all-they-want",
+    "page": 2,
+    "summary": "We know you're using AI. In fact, we expect you to. Using AI isn't something outside counsel needs to apologize for. Much of the legal work I did as a junior ...",
+    "title": "Clients Want Law Firms to Use AI. But That's Not All They ..."
+   },
    "news.bloomberglaw.com/business-and-practice/clinic-violated-labor-law-during-union-election-nlrb-judge-says": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -10924,6 +10933,15 @@
     "summary": "A federal judge on Friday rejected a Justice Department bid to disqualify Susman Godfrey from representing the American Bar Association in a lawsuit that ...",
     "title": "Court Denies Bid to End Susman ABA Representation in ..."
    },
+   "news.bloomberglaw.com/business-and-practice/court-to-weigh-false-claims-act-penalties-without-injury-showing": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-09T11:42:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/court-to-weigh-false-claims-act-penalties-without-injury-showing",
+    "page": 1,
+    "summary": "The Seventh Circuit will consider on Tuesday whether corporations should pay sky high fraud penalties in False Claims Act cases even if the government ...",
+    "title": "Court to Weigh False Claims Act Penalties Without Injury ..."
+   },
    "news.bloomberglaw.com/business-and-practice/court-upholds-judgment-that-insurer-owes-scholastic-20-million": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -11004,6 +11022,15 @@
     "page": 2,
     "summary": "Crypto.com said its consumer-facing app won't be made available to users in Hong Kong as of Feb. 1, 2027.",
     "title": "Crypto.com to Shutter Consumer App in Hong Kong ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/crypto-exemption-will-test-secs-authority-to-rein-in-states": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-09T11:42:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/crypto-exemption-will-test-secs-authority-to-rein-in-states",
+    "page": 1,
+    "summary": "The SEC's proposal to exempt certain digital asset offerings from securities registration requirements would attempt to preempt state laws to the contrary, ...",
+    "title": "Crypto Exemption Will Test SEC's Authority to Rein in States"
    },
    "news.bloomberglaw.com/business-and-practice/crypto-firm-htx-exits-uk-after-settling-lawsuit-with-fca": {
     "baseline": false,
@@ -14482,6 +14509,15 @@
     "summary": "Royal Bank of Canada is blocking third-party artificial intelligence agents such as Meta Platform Inc.'s Muse from accessing its banking systems, ...",
     "title": "RBC to Block AI Agents, Calling Out 'Unacceptable' Client ..."
    },
+   "news.bloomberglaw.com/business-and-practice/reality-tvs-newest-viewers-are-traders-here-to-chase-payouts": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-09T11:42:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/reality-tvs-newest-viewers-are-traders-here-to-chase-payouts",
+    "page": 1,
+    "summary": "Hunter Button first learned about prediction markets the way most people did \u2014 through elections. He started by hedging his vote on the 2020 presidential ...",
+    "title": "Reality TV's Newest Viewers Are Traders Here to Chase ..."
+   },
    "news.bloomberglaw.com/business-and-practice/realtors-top-k-street-spending-while-ai-companies-smash-records": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -15074,6 +15110,15 @@
     "summary": "A merger between Elon Musk 's Tesla Inc. and SpaceX could be announced ahead of the electric-vehicle maker's annual general meeting, according to analysts ...",
     "title": "Tesla-SpaceX Deal News Possible This Year, Barclays ..."
    },
+   "news.bloomberglaw.com/business-and-practice/tesla-spacex-union-would-test-texas-business-code-merger-process": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-09T11:42:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/tesla-spacex-union-would-test-texas-business-code-merger-process",
+    "page": 1,
+    "summary": "Elon Musk confirmed late last month that Tesla Inc. and SpaceX had formed separate special committees of independent directors to consider combining.",
+    "title": "Tesla\u2013SpaceX Union Would Test Texas Business Code ..."
+   },
    "news.bloomberglaw.com/business-and-practice/tesla-workers-testify-to-persistent-racial-slurs-as-trial-closes": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -15109,6 +15154,15 @@
     "page": 3,
     "summary": "Emily Jolly joined Troutman Pepper Locke's energy regulatory practice group as a partner in Austin, the firm announced Wednesday.",
     "title": "Texas Energy Lawyer Jolly Joins Troutman Pepper in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/texas-flip-to-blue-is-major-blow-to-red-states-legal-fights": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-09T11:42:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/texas-flip-to-blue-is-major-blow-to-red-states-legal-fights",
+    "page": 1,
+    "summary": "The midterms punched a Texas-sized hole in the GOP attorneys general coalition, creating leadership questions for red states and handing Democrats new ...",
+    "title": "Texas' Flip to Blue Is Major Blow to Red States' Legal Fights"
    },
    "news.bloomberglaw.com/business-and-practice/texas-is-investing-in-rural-justice-better-data-can-grow-access": {
     "baseline": false,
@@ -16279,6 +16333,15 @@
     "page": 3,
     "summary": "The leader of a Weil Gotshal & Manges practice group told his junior lawyers to look for employment elsewhere as the firm's future has become uncertain.",
     "title": "Weil Practice Head Tells Lawyers to Find Jobs as Firm ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/weil-real-estate-head-five-other-lawyers-accept-latham-offers": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-09T11:42:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/weil-real-estate-head-five-other-lawyers-accept-latham-offers",
+    "page": 1,
+    "summary": "The leader of Weil Gotshal & Manges' real estate practice is headed for Latham & Watkins along with five colleagues as Weil, a once-powerful Wall Street law ...",
+    "title": "Weil Real Estate Head, Five Other Lawyers, Accept Latham ..."
    },
    "news.bloomberglaw.com/business-and-practice/weil-real-estate-leader-jumps-to-goodwin-as-firm-winds-down": {
     "baseline": false,
@@ -39317,6 +39380,15 @@
     "page": 2,
     "summary": "Oppdag hvordan SAP utvider AI-plattform med nye verkt\u00f8y og agenter for bedre forretningsanalyse og datastyring.",
     "title": "SAP utvider AI-plattform med nye verkt\u00f8y og agenter og ..."
+   },
+   "news.sap.com/norway/2026/11/generasjon-z-omfavner-ai-shopping-men-merkevarer-ma-gjore-seg-fortjent-til-retten-til-a-automatisere": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-09T11:42:46Z",
+    "link": "https://news.sap.com/norway/2026/11/generasjon-z-omfavner-ai-shopping-men-merkevarer-ma-gjore-seg-fortjent-til-retten-til-a-automatisere/",
+    "page": 1,
+    "summary": "Kunstig intelligens har beveget seg fra \u00e5 v\u00e6re et nyttig hjelpemiddel i forbindelse med netthandel til \u00e5 spille en aktiv rolle i kj\u00f8psbeslutninger. En ny global ...",
+    "title": "Gen Z og AI-shopping: Hva du m\u00e5 vite"
    },
    "news.sap.com/poland/2026/10/95-mniej-papierowych-dokumentow-czyli-jak-press-glass-cyfryzuje-hr-na-skale-miedzynarodowa/office-building": {
     "baseline": false,
