@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-09T13:42:39Z</updated>
+  <updated>2026-11-09T14:43:09Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/hedge-funds-wield-new-tactic-to-fight-private-equity-deal-prices</id>
+    <title>Hedge Funds Wield New Tactic to Fight Private Equity Deal Prices</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/hedge-funds-wield-new-tactic-to-fight-private-equity-deal-prices" />
+    <published>2026-11-09T14:43:09Z</published>
+    <updated>2026-11-09T14:43:09Z</updated>
+    <summary>The hedge funds, which also include Glazer Capital and Empyrean Capital Partners , are seeking to fill a role traditionally played by individual shareholders ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/wake-up-call-squire-baker-mckenzie-face-data-breach-suits</id>
     <title>Wake Up Call: Squire, Baker McKenzie Face Data Breach ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T19:42:36Z</published>
     <updated>2026-11-06T19:42:36Z</updated>
     <summary>A federal appeals panel indicated they thought a grocery chain's microcaptive insurance scheme wasn't legitimate and that they shouldn't have been able to ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/devon-holders-toms-and-kimmeridge-ramp-up-pressure-to-sell</id>
-    <title>Devon Holders Toms and Kimmeridge Ramp Up Pressure ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/devon-holders-toms-and-kimmeridge-ramp-up-pressure-to-sell" />
-    <published>2026-11-06T19:42:36Z</published>
-    <updated>2026-11-06T19:42:36Z</updated>
-    <summary>Two activist investors in Devon Energy Corp. renewed calls for the company to sell itself, signaling the shale driller's recent divestment didn't go far ...</summary>
   </entry>
 </feed>
