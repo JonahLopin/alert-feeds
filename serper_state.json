@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 35429,
+  "credits_used": 35484,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-09T03:43:01Z",
+  "last_run": "2026-11-09T04:42:49Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 704
+  "runs": 705
  },
  "feeds": {
   "adp-help": {
@@ -10240,6 +10240,15 @@
     "page": 1,
     "summary": "Berkeley, Calif. was within its right to begin clearing a homeless encampment in a city park where a bacterial disease was detected, the Ninth Circuit ruled ...",
     "title": "Berkeley Can Remove Homeless Encampment, Ninth ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/berkshire-hathaway-plans-first-japan-bond-offering-since-april": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-09T04:42:49Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/berkshire-hathaway-plans-first-japan-bond-offering-since-april",
+    "page": 1,
+    "summary": "Berkshire Hathaway Inc. has hired banks for its first yen bond sale since April as it prepares to raise more funds in Japan.",
+    "title": "Berkshire Plans First Japan Bond Offering Since April (1)"
    },
    "news.bloomberglaw.com/business-and-practice/berkshire-hathaways-operating-earnings-fall-buybacks-rise": {
     "baseline": false,
@@ -54908,6 +54917,15 @@
     "page": 1,
     "summary": "The Loyalty page in your SpotOn Dashboard shows how your customers earn and redeem spots. You can also manage your loyalty program settings here.",
     "title": "SpotOn Loyalty | SpotOn Dashboard"
+   },
+   "help.spoton.com/space/SK/1106805506": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-09T04:42:49Z",
+    "link": "https://help.spoton.com/space/SK/1106805506",
+    "page": 1,
+    "summary": "SpotOn Capital gives eligible merchants access to business loans to help manage cash flow or invest in growth. You can review your pre-approved offer, apply, ...",
+    "title": "How to Apply for SpotOn Capital | Parafin"
    },
    "help.spoton.com/space/SK/1916370973": {
     "baseline": false,

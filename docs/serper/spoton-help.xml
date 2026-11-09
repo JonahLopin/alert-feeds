@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-09T02:42:43Z</updated>
+  <updated>2026-11-09T04:42:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/1106805506</id>
+    <title>How to Apply for SpotOn Capital | Parafin</title>
+    <link href="https://help.spoton.com/space/SK/1106805506" />
+    <published>2026-11-09T04:42:49Z</published>
+    <updated>2026-11-09T04:42:49Z</updated>
+    <summary>SpotOn Capital gives eligible merchants access to business loans to help manage cash flow or invest in growth. You can review your pre-approved offer, apply, ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/2666660554/How+to+Process+Refunds+in+SpotOn+Restaurant+FOH</id>
     <title>How to Process Refunds in SpotOn Restaurant (RPOS)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T23:42:38Z</published>
     <updated>2026-10-30T23:42:38Z</updated>
     <summary>Dual Pricing is a type of cash discount program, so by default it will discount your item price when cash is selected.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAV7vwyycZQmwvEElI-sx4PZDnqKT1rE_ZDN5Q4zGApEraNnkJRX2FnFnDsQj-nNUDR-EcyFIWiGgdUJP_BlvMufj0cx7BXmCeuUmxsgoI1kiNOD2xGTAsRAzMrfu1Qn07Q6Q&amp;gsessionid=REuxYN_ZhUbkPNhPwT8U8ndCBAzvh0ST5xMXUvOO5yUPZw22aHqT7A</id>
-    <title>Deposits Setup &amp; Management | SpotOn Reserve Web Portal</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAV7vwyycZQmwvEElI-sx4PZDnqKT1rE_ZDN5Q4zGApEraNnkJRX2FnFnDsQj-nNUDR-EcyFIWiGgdUJP_BlvMufj0cx7BXmCeuUmxsgoI1kiNOD2xGTAsRAzMrfu1Qn07Q6Q&amp;gsessionid=REuxYN_ZhUbkPNhPwT8U8ndCBAzvh0ST5xMXUvOO5yUPZw22aHqT7A" />
-    <published>2026-10-30T23:42:38Z</published>
-    <updated>2026-10-30T23:42:38Z</updated>
-    <summary>The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,</summary>
   </entry>
 </feed>
