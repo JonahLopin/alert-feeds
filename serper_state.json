@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 35757,
+  "credits_used": 35813,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-09T09:42:35Z",
+  "last_run": "2026-11-09T10:43:24Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 710
+  "runs": 711
  },
  "feeds": {
   "adp-help": {
@@ -9800,6 +9800,15 @@
     "page": 3,
     "summary": "Character Technologies should hire a privacy ombudsman to assess whether its artificial intelligence platform is harmful to children, as part of its plan to ...",
     "title": "AI Media Firm Needs Privacy Ombudsman in Disney Deal ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/ai-platforms-create-new-risks-when-they-compete-with-customers": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-09T10:43:24Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ai-platforms-create-new-risks-when-they-compete-with-customers",
+    "page": 1,
+    "summary": "When a competing product launches, enterprise customers and AI providers should preserve and review applicable agreements, historical terms, technical records, ...",
+    "title": "AI Platforms Create New Risks When They Compete With ..."
    },
    "news.bloomberglaw.com/business-and-practice/ai-safety-emerges-as-midterm-flashpoint-in-battleground-races": {
     "baseline": false,
