@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 35484,
+  "credits_used": 35539,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-09T04:42:49Z",
+  "last_run": "2026-11-09T05:42:55Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 705
+  "runs": 706
  },
  "feeds": {
   "adp-help": {
@@ -55177,6 +55177,15 @@
     "link": "https://help.spoton.com/space/SK/2666660428",
     "summary": "The Split Check by Guest feature allows you to divide a single check based on the items each guest ordered. This ensures accurate billing and allows each guest ...",
     "title": "Split Check by Guest"
+   },
+   "help.spoton.com/space/SK/2666660554/How+to+Process+Refunds+in+SpotOn+Restaurant+(RPOS)": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-09T05:42:55Z",
+    "link": "https://help.spoton.com/space/SK/2666660554/How+to+Process+Refunds+in+SpotOn+Restaurant+(RPOS)",
+    "page": 2,
+    "summary": "SpotOn Restaurant Front of House (FOH) allows managers to process refunds for previously completed credit card transactions using the Refund Show Command. The ...",
+    "title": "How to Process Refunds in SpotOn Restaurant (RPOS)"
    },
    "help.spoton.com/space/SK/2666660554/How+to+Process+Refunds+in+SpotOn+Restaurant+FOH": {
     "baseline": false,

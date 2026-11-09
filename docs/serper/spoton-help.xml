@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-09T04:42:49Z</updated>
+  <updated>2026-11-09T05:42:55Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2666660554/How+to+Process+Refunds+in+SpotOn+Restaurant+(RPOS)</id>
+    <title>How to Process Refunds in SpotOn Restaurant (RPOS)</title>
+    <link href="https://help.spoton.com/space/SK/2666660554/How+to+Process+Refunds+in+SpotOn+Restaurant+(RPOS)" />
+    <published>2026-11-09T05:42:55Z</published>
+    <updated>2026-11-09T05:42:55Z</updated>
+    <summary>SpotOn Restaurant Front of House (FOH) allows managers to process refunds for previously completed credit card transactions using the Refund Show Command. The ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/1106805506</id>
     <title>How to Apply for SpotOn Capital | Parafin</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T23:42:38Z</published>
     <updated>2026-10-30T23:42:38Z</updated>
     <summary>Adjust tips after payment for paid orders in receipt-based tipping workflows. You can adjust the tip within 10 minutes of the initial change. SpotOn Customer ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAV8FIUjy7GotPxEBmGZqbHWVRQIjgoV3P62UaTXxGC1_lojUzBT_MTLKSOuBh9cTGuUrQSlECIwl8xAatuyr42fh18Y8WzdI0-JwsG1jYgKmwGc4LgQ8gCX1EkHRbCDaG-Nw&amp;gsessionid=REuxYN_ZhUbkPNhPwT8U8ndCBAzvh0ST5xMXUvOO5yUPZw22aHqT7A</id>
-    <title>Dual Pricing Overview</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAV8FIUjy7GotPxEBmGZqbHWVRQIjgoV3P62UaTXxGC1_lojUzBT_MTLKSOuBh9cTGuUrQSlECIwl8xAatuyr42fh18Y8WzdI0-JwsG1jYgKmwGc4LgQ8gCX1EkHRbCDaG-Nw&amp;gsessionid=REuxYN_ZhUbkPNhPwT8U8ndCBAzvh0ST5xMXUvOO5yUPZw22aHqT7A" />
-    <published>2026-10-30T23:42:38Z</published>
-    <updated>2026-10-30T23:42:38Z</updated>
-    <summary>Dual Pricing is a type of cash discount program, so by default it will discount your item price when cash is selected.</summary>
   </entry>
 </feed>
