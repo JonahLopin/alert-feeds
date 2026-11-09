@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-09T06:41:20Z</updated>
+  <updated>2026-11-09T13:42:39Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/4524900379/Timecards+%7C+Dashboard+%7C+SpotOn+Express</id>
+    <title>Timecards | Dashboard | SpotOn Express</title>
+    <link href="https://help.spoton.com/space/SK/4524900379/Timecards+%7C+Dashboard+%7C+SpotOn+Express" />
+    <published>2026-11-09T13:42:39Z</published>
+    <updated>2026-11-09T13:42:39Z</updated>
+    <summary>Overview. The Timecards section in the SpotOn Dashboard allows managers and owners to view, edit, and manage employee time records with ease.</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/4892295261/How+to+Hide+Menu+Items+Using+Pricing+Events+%7C+SpotOn+Restaurant+BOH</id>
     <title>How to Hide Menu Items Using Pricing Events</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T00:41:09Z</published>
     <updated>2026-10-31T00:41:09Z</updated>
     <summary>Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu price.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAV7nFQCaZt9jqKGhrQme3wUM9vHEXCzSdO8dSKDVKVuHnGQGDJUbVYzQumROlZ3MlKr2BYa9by5aD9kZKsblvpUCrqg8vuY4ENxwzUieH6Qd14ohBnG008qtJnfSgfudX-QA&amp;gsessionid=0L71pqcP43fmZEM6JzFFgDtZAIODurqsSj4-gpadKFSDRNkPwWj_qA</id>
-    <title>Create Order Type | SpotOn Restaurant (RPOS)</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAV7nFQCaZt9jqKGhrQme3wUM9vHEXCzSdO8dSKDVKVuHnGQGDJUbVYzQumROlZ3MlKr2BYa9by5aD9kZKsblvpUCrqg8vuY4ENxwzUieH6Qd14ohBnG008qtJnfSgfudX-QA&amp;gsessionid=0L71pqcP43fmZEM6JzFFgDtZAIODurqsSj4-gpadKFSDRNkPwWj_qA" />
-    <published>2026-10-31T00:41:09Z</published>
-    <updated>2026-10-31T00:41:09Z</updated>
-    <summary>Overview. Order Types determine how orders are processed within SpotOn Restaurant (RPOS). They can be configured with unique pricing, customer requirements, ...</summary>
   </entry>
 </feed>

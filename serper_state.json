@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 35926,
+  "credits_used": 35984,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-09T12:42:48Z",
+  "last_run": "2026-11-09T13:42:39Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 713
+  "runs": 714
  },
  "feeds": {
   "adp-help": {
@@ -10790,6 +10790,15 @@
     "summary": "Coinbase and some of the largest crypto groups spent more than $4 million on federal lobbying in the third quarter, marking the sixth consecutive quarter they' ...",
     "title": "Coinbase, Crypto Lobbies Cut Spending in Q3 After Bill Fails"
    },
+   "news.bloomberglaw.com/business-and-practice/coinbase-gets-final-regulatory-stamp-for-trust-bank-charter": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-09T13:42:39Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/coinbase-gets-final-regulatory-stamp-for-trust-bank-charter",
+    "page": 1,
+    "summary": "Coinbase Global Inc., the largest US crypto exchange, said a key regulator has fully signed off on its request to become a nationally chartered trust bank, ...",
+    "title": "Coinbase Gets Final Regulatory Stamp For Trust-Bank ..."
+   },
    "news.bloomberglaw.com/business-and-practice/cole-schotz-brings-on-commercial-litigator-ikpe-in-miami-office": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -11300,6 +11309,15 @@
     "page": 1,
     "summary": "Funders have battled a series of Republican-introduced federal bills that would enact disclosure requirements or set parameters on outside investment in US ...",
     "title": "Democrat Wins Ease Regulation Threats: Litigation Finance"
+   },
+   "news.bloomberglaw.com/business-and-practice/democratic-sweep-tests-trump-tied-trades-in-latin-america-1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-09T13:42:39Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/democratic-sweep-tests-trump-tied-trades-in-latin-america-1",
+    "page": 1,
+    "summary": "Donald Trump into their Latin America trades are confronting a new variable: a Democratic-controlled US Congress.",
+    "title": "Democratic Sweep Tests Trump-Tied Trades in Latin ..."
    },
    "news.bloomberglaw.com/business-and-practice/democrats-gain-power-to-probe-trump-big-law-deals-in-election": {
     "baseline": false,
@@ -13573,6 +13591,15 @@
     "summary": "Mark Zuckerberg's months of wrangling with his own board came to a head with a dinner-table ultimatum.",
     "title": "Mark Zuckerberg Plots Deal to Pay Wealth Tax, Keep Meta ..."
    },
+   "news.bloomberglaw.com/business-and-practice/massumi-consoli-heads-to-silicon-valley-with-m-a-weil-addition": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-09T13:42:39Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/massumi-consoli-heads-to-silicon-valley-with-m-a-weil-addition",
+    "page": 2,
+    "summary": "Massumi + Consoli is hiring a Weil Gotshal private equity partner, the deals boutique said Monday.",
+    "title": "Massumi + Consoli Heads to Silicon Valley With M&A Weil ..."
+   },
    "news.bloomberglaw.com/business-and-practice/mastercard-ceo-sees-cross-border-payments-as-top-stablecoin-use": {
     "baseline": false,
     "date_hint": "12 hours ago",
@@ -14140,6 +14167,15 @@
     "summary": "Nvidia and ChipAgents released a benchmark that measures how different AI models perform at the task, The Information reports, citing ChipAgents CEO William ...",
     "title": "Nvidia, ChipAgents Launch Eval for AI Chip Design"
    },
+   "news.bloomberglaw.com/business-and-practice/nvidia-controversy-throws-high-profile-korea-event-into-disarray": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-09T13:42:39Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/nvidia-controversy-throws-high-profile-korea-event-into-disarray",
+    "page": 1,
+    "summary": "Nvidia Corp. co-founder Jensen Huang's daughter planned to showcase deepening ties with two of South Korea's most important AI players Monday.",
+    "title": "Nvidia Controversy Throws High-Profile Korea Event Into ..."
+   },
    "news.bloomberglaw.com/business-and-practice/ogletree-deakins-lands-two-california-employment-shareholders": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -14508,6 +14544,24 @@
     "page": 3,
     "summary": "Thoma Bravo-backed Proofpoint Inc. agreed to buy cybersecurity company Varonis Systems Inc. for about $6.3 billion.",
     "title": "Proofpoint to Buy Varonis for $6.3 Billion as Tech M&A ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/punching-in-senate-flip-creates-crunch-for-eeoc-top-lawyer-pick-32": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-09T13:42:39Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/punching-in-senate-flip-creates-crunch-for-eeoc-top-lawyer-pick-32",
+    "page": 3,
+    "summary": "The clock is ticking for Senate Republicans to confirm the EEOC's top lawyer now that the chamber has flipped to Democratic control.",
+    "title": "Punching In: Senate Flip Creates Crunch for EEOC Top ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/pwc-us-to-roll-out-certification-on-critical-thinking-in-ai-era": {
+    "baseline": false,
+    "date_hint": "43 minutes ago",
+    "first_seen": "2026-11-09T13:42:39Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/pwc-us-to-roll-out-certification-on-critical-thinking-in-ai-era",
+    "page": 2,
+    "summary": "PwC is rolling out a new critical thinking certification program as AI tools transform the professional services firm's work. Photographer: Patrick Bolger/ ...",
+    "title": "PwC US to Roll Out Certification on Critical Thinking in AI Era"
    },
    "news.bloomberglaw.com/business-and-practice/quinn-emanuel-nabs-top-weil-litigator-fee-as-ny-firm-winds-down": {
     "baseline": false,
@@ -15271,6 +15325,15 @@
     "page": 1,
     "summary": "Hyperliquid, widely described as an exchange for digital assets, isn't an exchange at all but \u201ca layer on which exchanges can be deployed.\u201d",
     "title": "The Crypto Mogul Behind Trading Powerhouse Hyperliquid"
+   },
+   "news.bloomberglaw.com/business-and-practice/the-new-corporate-status-symbol-is-how-much-ai-access-you-have": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-09T13:42:39Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/the-new-corporate-status-symbol-is-how-much-ai-access-you-have",
+    "page": 3,
+    "summary": "To know where you stand in your company's hierarchy, check your AI budget. Companies are quietly sorting workers into different tiers of access as they ...",
+    "title": "The New Corporate Status Symbol Is How Much AI Access ..."
    },
    "news.bloomberglaw.com/business-and-practice/third-circuit-upholds-gun-ban-for-those-with-violent-felonies": {
     "baseline": false,
@@ -16136,6 +16199,15 @@
     "summary": "Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel. Law firm partners in Silicon Valley earned 4% more \u2014 $2.57 ...",
     "title": "Wake Up Call: Silicon Valley Partners Outearned NY ..."
    },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-squire-baker-mckenzie-face-data-breach-suits": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-09T13:42:39Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-squire-baker-mckenzie-face-data-breach-suits",
+    "page": 1,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
+    "title": "Wake Up Call: Squire, Baker McKenzie Face Data Breach ..."
+   },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-sullivan-eyes-pricey-space-to-bolster-uk-presence": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -16730,6 +16802,15 @@
     "summary": "For many small operators, the answer is closer than they think. Take a look at what's already available inside your POS, or explore how a system built ...",
     "title": "The Small Restaurant Owner's Guide to a Loyalty Program ..."
    },
+   "chowbus.com/blog/no-tax-on-tips-restaurant-w2-tip-reporting": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-09T13:42:39Z",
+    "link": "https://www.chowbus.com/blog/no-tax-on-tips-restaurant-w2-tip-reporting",
+    "page": 1,
+    "summary": "Eligible workers can deduct up to $25,000 of qualified tips per tax return for tax years 2025 through 2028. The deduction phases out for higher earners,",
+    "title": "No Tax on Tips: What Restaurant Owners Need From Their ..."
+   },
    "chowbus.com/blog/point-of-sale-hardware-checklist-new-restaurant-location": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -16828,6 +16909,15 @@
     "page": 1,
     "summary": "Repeat purchase rate. Third-party delivery customers come back to the marketplace, not to you. Direct online ordering customers come back to your URL or app.",
     "title": "The Best Restaurant Online Ordering System for 2026"
+   },
+   "chowbus.com/blog/tip-pooling-vs-tip-out-restaurant-rules": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-09T13:42:39Z",
+    "link": "https://www.chowbus.com/blog/tip-pooling-vs-tip-out-restaurant-rules",
+    "page": 1,
+    "summary": "Tip pooling and tip-outs both move tip money from the people who receive it to the people who helped earn it. The difference is who collects first and how ...",
+    "title": "Tip Pooling vs Tip Out: Split Formulas, Federal Rules and ..."
    },
    "chowbus.com/blog/why-restaurant-order-errors-spike-during-peak-hours": {
     "baseline": false,
@@ -37735,6 +37825,24 @@
     "summary": "Organisations need to combine intelligence with business context to make their operations predictive rather than reactive, according to SAP.",
     "title": "SAP says Enterprise Context is Key to Predictive AI ..."
    },
+   "news.sap.com/africa/2026/11/ai-fraud-fears-surge-in-sa": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-09T13:42:39Z",
+    "link": "https://news.sap.com/africa/2026/11/ai-fraud-fears-surge-in-sa/",
+    "page": 1,
+    "summary": "AI-driven fraud is the leading emerging identity fraud threat for which businesses believe they need to prepare.",
+    "title": "AI Fraud Fears Surge in SA"
+   },
+   "news.sap.com/africa/2026/11/ai-fraud-fears-surge-in-sa?amp=1": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-11-09T13:42:39Z",
+    "link": "https://news.sap.com/africa/2026/11/ai-fraud-fears-surge-in-sa/?amp=1",
+    "page": 1,
+    "summary": "AI-driven fraud is the leading emerging identity fraud threat for which businesses believe they need to prepare.",
+    "title": "AI Fraud Fears Surge in SA"
+   },
    "news.sap.com/africa/2026/11/sap-beefs-up-business-ai-platform-and-joule-to-drive-agentic-ai-adoption": {
     "baseline": false,
     "date_hint": "48 minutes ago",
@@ -39479,6 +39587,15 @@
     "page": 1,
     "summary": "Kunstig intelligens har beveget seg fra \u00e5 v\u00e6re et nyttig hjelpemiddel i forbindelse med netthandel til \u00e5 spille en aktiv rolle i kj\u00f8psbeslutninger. En ny global ...",
     "title": "Gen Z og AI-shopping: Hva du m\u00e5 vite"
+   },
+   "news.sap.com/norway/2026/11/generasjon-z-omfavner-ai-shopping-men-merkevarer-ma-gjore-seg-fortjent-til-retten-til-a-automatisere?amp=1": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-11-09T13:42:39Z",
+    "link": "https://news.sap.com/norway/2026/11/generasjon-z-omfavner-ai-shopping-men-merkevarer-ma-gjore-seg-fortjent-til-retten-til-a-automatisere/?amp=1",
+    "page": 1,
+    "summary": "Kunstig intelligens har beveget seg fra \u00e5 v\u00e6re et nyttig hjelpemiddel i forbindelse med netthandel til \u00e5 spille en aktiv rolle i kj\u00f8psbeslutninger. En ny global ...",
+    "title": "Gen Z og AI-shopping: Hva du m\u00e5 vite - SAP Norge Nyheter"
    },
    "news.sap.com/poland/2026/10/95-mniej-papierowych-dokumentow-czyli-jak-press-glass-cyfryzuje-hr-na-skale-miedzynarodowa/office-building": {
     "baseline": false,
@@ -55758,6 +55875,15 @@
     "link": "https://help.spoton.com/space/SK/4513038363",
     "summary": "SpotOn Express Dashboard gives you a centralized view of your restaurant's performance, helping you track sales, payments, labor, and payroll data in one place.",
     "title": "Reports | Dashboard | SpotOn Express"
+   },
+   "help.spoton.com/space/SK/4524900379/Timecards+%7C+Dashboard+%7C+SpotOn+Express": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-09T13:42:39Z",
+    "link": "https://help.spoton.com/space/SK/4524900379/Timecards+%7C+Dashboard+%7C+SpotOn+Express",
+    "page": 1,
+    "summary": "Overview. The Timecards section in the SpotOn Dashboard allows managers and owners to view, edit, and manage employee time records with ease.",
+    "title": "Timecards | Dashboard | SpotOn Express"
    },
    "help.spoton.com/space/SK/4561305760": {
     "baseline": false,
