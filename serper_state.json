@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 35320,
+  "credits_used": 35375,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-09T01:42:55Z",
+  "last_run": "2026-11-09T02:42:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 702
+  "runs": 703
  },
  "feeds": {
   "adp-help": {
@@ -33357,6 +33357,15 @@
     "summary": "Built for the operational complexity of modern retail, Lightspeed AI can reason across a retailer's catalog, inventory, sales and purchasing data, recommend ...",
     "title": "Lightspeed AI Expands From Insights to Action With New ..."
    },
+   "lightspeedhq.com/news/lightspeed-announces-second-quarter-2027-financial-results": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-09T02:42:43Z",
+    "link": "https://www.lightspeedhq.com/news/lightspeed-announces-second-quarter-2027-financial-results/",
+    "page": 1,
+    "summary": "Second quarter revenue of $323.8 million and organic1 revenue growth of 15% year-over-year. Gross profit of $142.8 million and organic1 gross profit growth ...",
+    "title": "Lightspeed Announces Second Quarter 2027 Financial ..."
+   },
    "minipedia.me/en/pedia/asterisk": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -55123,6 +55132,15 @@
     "link": "https://help.spoton.com/space/SK/2666660428",
     "summary": "The Split Check by Guest feature allows you to divide a single check based on the items each guest ordered. This ensures accurate billing and allows each guest ...",
     "title": "Split Check by Guest"
+   },
+   "help.spoton.com/space/SK/2666660554/How+to+Process+Refunds+in+SpotOn+Restaurant+FOH": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-09T02:42:43Z",
+    "link": "https://help.spoton.com/space/SK/2666660554/How+to+Process+Refunds+in+SpotOn+Restaurant+FOH",
+    "page": 2,
+    "summary": "SpotOn Restaurant Front of House (FOH) allows managers to process refunds for previously completed credit card transactions using the Refund Show Command. The ...",
+    "title": "How to Process Refunds in SpotOn Restaurant (RPOS)"
    },
    "help.spoton.com/space/SK/2705096726": {
     "baseline": false,

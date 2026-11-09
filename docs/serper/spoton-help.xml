@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-08T12:42:44Z</updated>
+  <updated>2026-11-09T02:42:43Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2666660554/How+to+Process+Refunds+in+SpotOn+Restaurant+FOH</id>
+    <title>How to Process Refunds in SpotOn Restaurant (RPOS)</title>
+    <link href="https://help.spoton.com/space/SK/2666660554/How+to+Process+Refunds+in+SpotOn+Restaurant+FOH" />
+    <published>2026-11-09T02:42:43Z</published>
+    <updated>2026-11-09T02:42:43Z</updated>
+    <summary>SpotOn Restaurant Front of House (FOH) allows managers to process refunds for previously completed credit card transactions using the Refund Show Command. The ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/1066992036</id>
     <title>SpotOn Loyalty | SpotOn Dashboard</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T23:42:38Z</published>
     <updated>2026-10-30T23:42:38Z</updated>
     <summary>The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAV4z4kzqcQpbT_ihtwMS088UDckD54hTRY58q9Xf4SBlQDHaaaWckQ1i02_etscl4a0Qs3rkv96jBgOA20oRh_TnLFv27JcvSmwI4aUrUZqctRGxPc21cJ15a96e60YlvWIA&amp;gsessionid=REuxYN_ZhUbkPNhPwT8U8ndCBAzvh0ST5xMXUvOO5yUPZw22aHqT7A</id>
-    <title>Open Items and Market Price | SpotOn Restaurant BOH</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAV4z4kzqcQpbT_ihtwMS088UDckD54hTRY58q9Xf4SBlQDHaaaWckQ1i02_etscl4a0Qs3rkv96jBgOA20oRh_TnLFv27JcvSmwI4aUrUZqctRGxPc21cJ15a96e60YlvWIA&amp;gsessionid=REuxYN_ZhUbkPNhPwT8U8ndCBAzvh0ST5xMXUvOO5yUPZw22aHqT7A" />
-    <published>2026-10-30T23:42:38Z</published>
-    <updated>2026-10-30T23:42:38Z</updated>
-    <summary>Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu price.</summary>
   </entry>
 </feed>
