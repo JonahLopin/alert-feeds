@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 35594,
+  "credits_used": 35648,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-09T06:41:20Z",
+  "last_run": "2026-11-09T07:42:39Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 707
+  "runs": 708
  },
  "feeds": {
   "adp-help": {
@@ -10636,6 +10636,15 @@
     "page": 2,
     "summary": "China's currency is having a good year, and Beijing wants everyone to know it.",
     "title": "China Is Too Defensive Over the Yuan: Daniel Moss"
+   },
+   "news.bloomberglaw.com/business-and-practice/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-09T07:42:39Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties",
+    "page": 1,
+    "summary": "A Chinese state-run newspaper denied Beijing had any link to Nvidia Corp. Chief Executive Officer Jensen Huang's extramarital affair, accusing American ...",
+    "title": "China Newspaper Dismisses Jensen Huang Spy Claim, ..."
    },
    "news.bloomberglaw.com/business-and-practice/china-plans-broad-ai-guardrails-after-global-security-lapses": {
     "baseline": false,
@@ -32280,6 +32289,15 @@
     "summary": "A lead is a person or business you hope to sell to. An opportunity is a specific deal you're working on. One lead can have more than one opportunity open at ...",
     "title": "Manually add leads in the Customer Hub - QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/manage-risks/termination-reinstatement-payroll-services/L1MZpjQ4Q_US_en_US": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-09T07:42:39Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-risks/termination-reinstatement-payroll-services/L1MZpjQ4Q_US_en_US",
+    "page": 1,
+    "summary": "Simplify payday and set payroll to run automatically on QuickBooks. Explore Intuit QuickBooks Workforce. Green Circle Icon with Stylized White Letters.",
+    "title": "Request reinstatement for terminated QuickBooks Online ..."
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/manage-teams/check-firm-s-proadvisor-certification-status-projected-tier/L2C5QaOuO_US_en_US": {
     "baseline": false,
     "date_hint": "8 hours ago",
@@ -37437,6 +37455,15 @@
     "page": 1,
     "summary": "Learn how India evolved into an important global innovation hub for SAP, shaping key AI tech like Joule and agentic AI.",
     "title": "How India Drives SAP's AI Future"
+   },
+   "news.sap.com/2026/11/interview-with-manish-prasad-sap-india": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-09T07:42:39Z",
+    "link": "https://news.sap.com/2026/11/interview-with-manish-prasad-sap-india/",
+    "page": 1,
+    "summary": "In an interview, SAP's Manish Prasad shares how SAP India adapts to industry changes and promotes tech talent in the region and beyond.",
+    "title": "Interview with SAP India's Manish Prasad"
    },
    "news.sap.com/2026/11/new-economist-enterprise-research-ai-moving-faster-than-organizations-can-adapt": {
     "baseline": false,

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-06T20:42:38Z</updated>
+  <updated>2026-11-09T07:42:39Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/2026/11/interview-with-manish-prasad-sap-india/</id>
+    <title>Interview with SAP India's Manish Prasad</title>
+    <link href="https://news.sap.com/2026/11/interview-with-manish-prasad-sap-india/" />
+    <published>2026-11-09T07:42:39Z</published>
+    <updated>2026-11-09T07:42:39Z</updated>
+    <summary>In an interview, SAP's Manish Prasad shares how SAP India adapts to industry changes and promotes tech talent in the region and beyond.</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESzAEBxCJF1w3_6v1nSONyVsQxIvc-nsTKFoXQsNbdWxMSED2ZZ8oorlxnaIvclYjxK2EMaRYVKpq8nS5Ab-MlOe7ziwXpBhLABNhntZ4ycfOqNGWKFiCdELHkgp0uzzhdw4nLqhOwzVW0GuNt-p_RRiZTCivXb32OQrzQwTyOcTrr_TXvk33AfHGCK6sNvEQBESqvrifOrsOXRZjrYYHBQ3m-b5Au3eKlYIZvUhBcFi-s2EYJrLN7kOk61eqTZgMIdMpVg72WpbrGj_jHmqY</id>
     <title>QEMETICA integruje przejęty biznes krzemionki. Wspólne ...</title>
@@ -794,14 +802,6 @@
     <link href="https://news.sap.com/sea/2026/11/comfortdelgro-drives-onecdg-vision-forward-with-integrated-sap-core/?amp=1" />
     <published>2026-11-05T06:44:24Z</published>
     <updated>2026-11-05T06:44:24Z</updated>
-    <summary>SAP S/4HANA provides CDG with a real-time digital core across finance and related operational processes. Real-time postings and validations, embedded analytics ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/sea/2026/11/comfortdelgro-drives-onecdg-vision-forward-with-integrated-sap-core/</id>
-    <title>ComfortDelGro drives OneCDG vision forward with ...</title>
-    <link href="https://news.sap.com/sea/2026/11/comfortdelgro-drives-onecdg-vision-forward-with-integrated-sap-core/" />
-    <published>2026-11-05T05:43:22Z</published>
-    <updated>2026-11-05T05:43:22Z</updated>
     <summary>SAP S/4HANA provides CDG with a real-time digital core across finance and related operational processes. Real-time postings and validations, embedded analytics ...</summary>
   </entry>
 </feed>
