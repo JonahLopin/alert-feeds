@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-09T06:41:20Z</updated>
+  <updated>2026-11-09T21:43:18Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/tax-determination/tax-determination-rest-api/business-location-endpoints/business-location/updateorganizationbusinesslocation</id>
+    <title>Update organization business location - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/tax-determination/tax-determination-rest-api/business-location-endpoints/business-location/updateorganizationbusinesslocation" />
+    <published>2026-11-09T21:43:18Z</published>
+    <updated>2026-11-09T21:43:18Z</updated>
+    <summary>More than 100,000 customers – including half the Fortune 500 – trust Sovos' tax and regulatory expertise and unparalleled integration with their business ...</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/identity-management-forms/print-w-9-solicitations</id>
     <title>Print W-9 solicitations | Product Documentation Documentation</title>
@@ -795,13 +803,5 @@
     <published>2026-10-22T06:48:25Z</published>
     <updated>2026-10-22T06:48:25Z</updated>
     <summary>A Geo Code represents the unique combination of these jurisdictions and is one of the primary factors in determining which tax rules apply to a transaction.</summary>
-  </entry>
-  <entry>
-    <id>https://docs.sovos.com/en/1099-reporting/efilemyforms</id>
-    <title>What is eFileMyForms? - Sovos Docs</title>
-    <link href="https://docs.sovos.com/en/1099-reporting/efilemyforms" />
-    <published>2026-10-20T20:10:19Z</published>
-    <updated>2026-10-20T20:10:19Z</updated>
-    <summary>eFileMyForms offers fully compliant services for printing, mailing, and electronicnic filing of your employee, vendor, and customer tax forms.</summary>
   </entry>
 </feed>
