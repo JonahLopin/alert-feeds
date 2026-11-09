@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 36040,
+  "credits_used": 36096,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-09T14:43:09Z",
+  "last_run": "2026-11-09T15:43:13Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 715
+  "runs": 716
  },
  "feeds": {
   "adp-help": {
@@ -37744,6 +37744,15 @@
     "summary": "Across finance, HR, and supply chain, AI adoption is moving faster than the workforce, processes, and capabilities needed to support it.",
     "title": "New Research Finds AI Is Moving Faster Than Organizations Can Adapt"
    },
+   "news.sap.com/2026/11/oliva-cigar-crafting-digital-legacy-for-next-century": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-09T15:43:13Z",
+    "link": "https://news.sap.com/2026/11/oliva-cigar-crafting-digital-legacy-for-next-century/",
+    "page": 1,
+    "summary": "Discover the legacy of Oliva, a renowned cigar brand transitioning to SAP S/4HANA Cloud for innovative growth. Read to learn more.",
+    "title": "Oliva Cigar: Crafting a Digital Legacy for the Next Century"
+   },
    "news.sap.com/2026/11/sap-a-leader-2026-gartner-magic-quadrant-cloud-erp-product-centric-enterprises": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -37752,6 +37761,15 @@
     "page": 1,
     "summary": "SAP has been named a Leader in the 2026 Gartner Magic Quadrant for Cloud ERP for Product-Centric Enterprises.",
     "title": "Gartner Names SAP a Leader in Product-Centric ERP"
+   },
+   "news.sap.com/2026/11/sap-a-leader-2026-gartner-magic-quadrant-cloud-erp-service-centric-enterprises": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-09T15:43:13Z",
+    "link": "https://news.sap.com/2026/11/sap-a-leader-2026-gartner-magic-quadrant-cloud-erp-service-centric-enterprises/",
+    "page": 1,
+    "summary": "SAP is a Leader in the 2026 Gartner Magic Quadrant for Cloud ERP for Service-Centric Enterprises, marking five consecutive years.",
+    "title": "Gartner Names SAP a Leader in Service-Centric ERP"
    },
    "news.sap.com/2026/11/sap-a-market-shaper-inaugural-2026-gartner-emerging-market-quadrant-integrated-supply-chain-ai-agents-established-vendors": {
     "baseline": false,
@@ -38895,6 +38913,15 @@
     "page": 1,
     "summary": "L'edizione 2026 dei SAP Quality Award segna un momento significativo: per la prima volta, il riconoscimento dedicato ai Clienti e Partner SAP che hanno ...",
     "title": "l'AI agentica protagonista dei progetti premiati"
+   },
+   "news.sap.com/italy/2026/11/natura-co-sta-trasformando-la-funzione-finance-con-lai-generativa-su-sap-s-4hana": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-09T15:43:13Z",
+    "link": "https://news.sap.com/italy/2026/11/natura-co-sta-trasformando-la-funzione-finance-con-lai-generativa-su-sap-s-4hana/",
+    "page": 1,
+    "summary": "Sviluppata su SAP Business AI Platform, l'applicazione si collega direttamente ai dati presenti in SAP S/4HANA per fornire ai team Finance insight automatizzati ...",
+    "title": "Natura &Co sta trasformando la funzione Finance con l'AI ..."
    },
    "news.sap.com/italy/2026/11/natura-co-sta-trasformando-la-funzione-finance-con-lai-generativa-su-sap-s-4hana?amp=1": {
     "baseline": false,
@@ -40826,6 +40853,15 @@
     "page": 1,
     "summary": "Disable Demo Mode: If you're brought to a screen that says \u201cWelcome to Shift4 Dine!\u201d swipe left until you reach the \u201cTake a look for yourself!",
     "title": "Disable Demo Mode on Shift4 Duo"
+   },
+   "shift4.zendesk.com/hc/en-us/articles/360039133073": {
+    "baseline": false,
+    "date_hint": "",
+    "first_seen": "2026-11-09T15:43:13Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/360039133073",
+    "page": 1,
+    "summary": "No information is available for this page.",
+    "title": "https://shift4.zendesk.com/hc/en-us/articles/36003..."
    },
    "shift4.zendesk.com/hc/en-us/articles/38745992918547-Merchant-Comprehensive-Troubleshooting-Guide-for-Shift4-Dine-and-Peripherals": {
     "baseline": false,
@@ -71842,6 +71878,15 @@
     "page": 2,
     "summary": "Digital maturity is closely linked to AI readiness. Organizations reporting higher levels of AI readiness are more likely to have digitalized key EHS processes, ...",
     "title": "AI adoption is becoming mainstream in EHS, but process ..."
+   },
+   "wolterskluwer.com/en/news/ai-tops-governance-pressures-internal-audit-strategic-role": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-09T15:43:13Z",
+    "link": "https://www.wolterskluwer.com/en/news/ai-tops-governance-pressures-internal-audit-strategic-role",
+    "page": 1,
+    "summary": "56.1% identified AI, data, and emerging technology oversight as the governance pressure most stretching their organization,",
+    "title": "AI tops governance pressures for internal audit"
    },
    "wolterskluwer.com/en/news/ame-and-wolters-kluwer-aim-to-expand-access-to-global-medical-research-through-new-collaboration": {
     "baseline": false,
