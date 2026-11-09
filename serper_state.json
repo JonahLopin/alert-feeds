@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 35265,
+  "credits_used": 35320,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-09T00:46:01Z",
+  "last_run": "2026-11-09T01:42:55Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 701
+  "runs": 702
  },
  "feeds": {
   "adp-help": {
@@ -50737,6 +50737,15 @@
     "page": 1,
     "summary": "An immersive retail experience blends art-designed physical spaces and unique services or events to attract customers and make in-store shopping more engaging ...",
     "title": "How To Create an Immersive Retail Experience: Tips & ..."
+   },
+   "shopify.com/blog/instagram-ads": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-09T01:42:55Z",
+    "link": "https://www.shopify.com/blog/instagram-ads",
+    "page": 3,
+    "summary": "How to create Instagram ads with Ads Manager \u00b7 1. Link your Instagram to your Facebook \u00b7 2. Create an Instagram ad campaign \u00b7 3. Choose your campaign objective.",
+    "title": "Instagram Ads (2026): How They Work, Examples, Costs ..."
    },
    "shopify.com/blog/instagram-algorithm": {
     "baseline": false,
