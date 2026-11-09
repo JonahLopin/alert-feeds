@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/)</title>
-  <updated>2026-11-08T22:05:57Z</updated>
+  <updated>2026-11-09T22:06:09Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/shopify-blog.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:15332393554316377794</id>
+    <title>https://www.shopify.com/blog/topics/payments-checkout?country=us&amp;lang=en</title>
+    <link href="https://www.shopify.com/blog/topics/payments-checkout?country=us&amp;lang=en" />
+    <published>2026-11-09T22:06:09Z</published>
+    <updated>2026-11-09T22:06:09Z</updated>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:5692242354601961259</id>
     <title>https://www.shopify.com/blog/topics/conversion?gtm_latency=1&amp;page=2</title>
