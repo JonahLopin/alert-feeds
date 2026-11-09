@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-11-08T19:42:37Z</updated>
+  <updated>2026-11-09T03:43:01Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/custom-templates/create-chart-accounts-template-quickbooks-online/L4lEaWrRe_US_en_US</id>
+    <title>Create a chart of accounts from a template in Intuit Accountant ...</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/custom-templates/create-chart-accounts-template-quickbooks-online/L4lEaWrRe_US_en_US" />
+    <published>2026-11-09T03:43:01Z</published>
+    <updated>2026-11-09T03:43:01Z</updated>
+    <summary>Accountants and bookkeepers can use templates to quickly set up a chart of accounts for new or existing clients. With this organized list, you can focus on ...</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/accounting-bookkeeping/learn-converting-quickbooks-desktop-quickbooks/L8TAphzFD_US_en_US</id>
     <title>Learn about switching from QuickBooks Desktop to ... - Intuit</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T17:43:17Z</published>
     <updated>2026-11-06T17:43:17Z</updated>
     <summary>List entries help you to better manage your company data. Using them to keep track of things like customers, vendors, services, inventory items, and non- ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESzAEBxCJF1wibhXXA8-3ycX6C_ZZuYe_RV3FrYurrKV7sZtryiHhYfE9_ltFbFbRN0uAwDCig2nHsUGyhrpwS6Pa5cEILId-GENZkYDp1WW_NeJ0L-ZedDJj1FP4Vad2cavmFZOqV14wBYLCOy3Cn8dDhtYNf1z2n5RwZm9vQb1TI_K_cl7R01uTFDeLUbOut_DPrNCFURV93Gc0oPFk_MpfhJiSqMAycXcfLdFaTTfaxsOsnGPC3Nf4vjQAwFvkIO6uzHL4J9UZ_w8Mb7F4</id>
-    <title>Connect Amazon Seller Central to QuickBooks Online - Intuit</title>
-    <link href="https://www.google.com/goto?url=CAESzAEBxCJF1wibhXXA8-3ycX6C_ZZuYe_RV3FrYurrKV7sZtryiHhYfE9_ltFbFbRN0uAwDCig2nHsUGyhrpwS6Pa5cEILId-GENZkYDp1WW_NeJ0L-ZedDJj1FP4Vad2cavmFZOqV14wBYLCOy3Cn8dDhtYNf1z2n5RwZm9vQb1TI_K_cl7R01uTFDeLUbOut_DPrNCFURV93Gc0oPFk_MpfhJiSqMAycXcfLdFaTTfaxsOsnGPC3Nf4vjQAwFvkIO6uzHL4J9UZ_w8Mb7F4" />
-    <published>2026-11-06T17:43:17Z</published>
-    <updated>2026-11-06T17:43:17Z</updated>
-    <summary>Connect Amazon Seller Central to automatically import sales transactions (such as sales, fees, sales tax, and shipping costs), refunds, and payouts into ...</summary>
   </entry>
 </feed>

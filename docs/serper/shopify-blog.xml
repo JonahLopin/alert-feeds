@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-09T01:42:55Z</updated>
+  <updated>2026-11-09T03:43:01Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/retail-metrics</id>
+    <title>Retail Metrics: 16 Key Metrics for Your Store (2026)</title>
+    <link href="https://www.shopify.com/blog/retail-metrics" />
+    <published>2026-11-09T03:43:01Z</published>
+    <updated>2026-11-09T03:43:01Z</updated>
+    <summary>Discover the 16 retail KPIs every store should track in 2026, plus bonus metrics to improve profitability, inventory efficiency, and customer loyalty.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/instagram-ads</id>
     <title>Instagram Ads (2026): How They Work, Examples, Costs ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T20:42:38Z</published>
     <updated>2026-11-06T20:42:38Z</updated>
     <summary>A business entity is the legal structure that a company or individual uses to register with the government, pay taxes, and conduct daily operations.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEScwHEIkXXrPhNK8OgG-m5qG6GdKQYm0XPe0TPRuOQdJOYs2kXUecZMVP7opzqB1zgFwL31fPUyY_EdPKZg8mCD-IUEPQzOgU3yNY5ufOWBwAkByAs19yJoSMLQw2xGYKaJ8kLEGATP4HIqufpsM97qLwUJNg</id>
-    <title>How To Find Broken Links on a Website: 4 Methods (2026)</title>
-    <link href="https://www.google.com/goto?url=CAEScwHEIkXXrPhNK8OgG-m5qG6GdKQYm0XPe0TPRuOQdJOYs2kXUecZMVP7opzqB1zgFwL31fPUyY_EdPKZg8mCD-IUEPQzOgU3yNY5ufOWBwAkByAs19yJoSMLQw2xGYKaJ8kLEGATP4HIqufpsM97qLwUJNg" />
-    <published>2026-11-06T20:42:38Z</published>
-    <updated>2026-11-06T20:42:38Z</updated>
-    <summary>Learn how to find broken links on a website and fix them with free tools, Google Search Console, and Shopify apps to improve SEO and user experience.</summary>
   </entry>
 </feed>

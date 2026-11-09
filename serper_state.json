@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 35375,
+  "credits_used": 35429,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-09T02:42:43Z",
+  "last_run": "2026-11-09T03:43:01Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 703
+  "runs": 704
  },
  "feeds": {
   "adp-help": {
@@ -22073,6 +22073,15 @@
     "summary": "Check out these food delivery marketing ideas to help you get the word out about your off-premise offerings.",
     "title": "5 Food Delivery Marketing Tips for Restaurants"
    },
+   "merchants.doordash.com/en-us/blog/food-truck-business-plan": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-09T03:43:01Z",
+    "link": "https://merchants.doordash.com/en-us/blog/food-truck-business-plan",
+    "page": 2,
+    "summary": "Are you starting your own food truck? Read this guide and download the free food truck business plan template. November 5, 2026\u00b77 min read.",
+    "title": "How to Write a Food Truck Business Plan (Free Template)"
+   },
    "merchants.doordash.com/en-us/blog/food-truck-delivery": {
     "baseline": false,
     "date_hint": "Oct 23, 2026",
@@ -31649,6 +31658,15 @@
     "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/currency/learn-exchange-rates-quickbooks-online/L97rmEAdR_US_en_US",
     "summary": "Note: QuickBooks downloads and uses exchange rates from IHS Markit. If you need to, you can enter and use your own rates. How QuickBooks uses exchange ...",
     "title": "Learn about exchange rates - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/custom-templates/create-chart-accounts-template-quickbooks-online/L4lEaWrRe_US_en_US": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-09T03:43:01Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/custom-templates/create-chart-accounts-template-quickbooks-online/L4lEaWrRe_US_en_US",
+    "page": 3,
+    "summary": "Accountants and bookkeepers can use templates to quickly set up a chart of accounts for new or existing clients. With this organized list, you can focus on ...",
+    "title": "Create a chart of accounts from a template in Intuit Accountant ..."
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/custom-templates/create-chart-accounts-templates-intuit-accountant-suite/L9XHR06i4_US_en_US": {
     "baseline": false,
@@ -51311,6 +51329,15 @@
     "page": 5,
     "summary": "Successful retail businesses are built on numbers, not hunches, and retail math is how you keep score. It helps you determine what's selling, ...",
     "title": "Retail Math: Meaning and 15 Formulas (2026)"
+   },
+   "shopify.com/blog/retail-metrics": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-09T03:43:01Z",
+    "link": "https://www.shopify.com/blog/retail-metrics",
+    "page": 2,
+    "summary": "Discover the 16 retail KPIs every store should track in 2026, plus bonus metrics to improve profitability, inventory efficiency, and customer loyalty.",
+    "title": "Retail Metrics: 16 Key Metrics for Your Store (2026)"
    },
    "shopify.com/blog/retail-optimization": {
     "baseline": false,
