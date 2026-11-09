@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-09T13:24:11Z</updated>
+  <updated>2026-11-09T14:24:59Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:6370678848289392938</id>
+    <title>Hedge Funds Wield New Tactic to Fight Private Equity Deal Prices - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/hedge-funds-wield-new-tactic-to-fight-private-equity-deal-prices" />
+    <published>2026-11-09T14:24:59Z</published>
+    <updated>2026-11-09T14:24:59Z</updated>
+    <summary>Deploying a rarely used tool for hedge funds, Carl Icahn's firm and other investors are spearheading proposed class actions that challenge ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:5656142870842364407</id>
     <title>Democratic Sweep Tests Trump-Tied Trades in Latin America (1) - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-11-04T22:25:08Z</published>
     <updated>2026-11-04T22:25:08Z</updated>
     <summary>A federal judge refused to immediately halt the trading of so-called perpetual equity derivatives contracts, but signaled that she might ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:3844408724994092823</id>
-    <title>Robinhood's Gambling Enforcement Fears Get Judges' Attention - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/robinhoods-gambling-enforcement-fears-get-judges-attention" />
-    <published>2026-11-04T22:25:08Z</published>
-    <updated>2026-11-04T22:25:08Z</updated>
-    <summary>Massachusetts' pledge not to sue Robinhood until the state's top court rules on the legality of sports event contracts may not be enough to escape ...</summary>
   </entry>
 </feed>

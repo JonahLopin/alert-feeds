@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com)</title>
-  <updated>2026-11-01T15:22:59Z</updated>
+  <updated>2026-11-09T14:24:59Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sovos-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:15287462857331814740</id>
+    <title>Edit properties | Product Documentation Documentation - Sovos Docs</title>
+    <link href="https://docs.sovos.com/unclaimed-property/reportmyup/manage-properties/view-and-manage-properties/edit-properties" />
+    <published>2026-11-09T14:24:59Z</published>
+    <updated>2026-11-09T14:24:59Z</updated>
+    <summary>The following fields can't be edited: Due date: The date when the property must be reported to the state. We automatically calculate this for you.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:6071108579561087441</id>
     <title>Add a payment method | Product Documentation Documentation - Sovos Docs</title>
