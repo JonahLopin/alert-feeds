@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-09T14:43:09Z</updated>
+  <updated>2026-11-09T16:43:17Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/roberto-clementes-sons-denied-high-court-look-at-trademark-case</id>
+    <title>Roberto Clemente's Sons Denied High Court Look at Trademark Case</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/roberto-clementes-sons-denied-high-court-look-at-trademark-case" />
+    <published>2026-11-09T16:43:17Z</published>
+    <updated>2026-11-09T16:43:17Z</updated>
+    <summary>Roberto Clemente's sons failed to convince the US Supreme Court Monday to consider limiting Puerto Rico's sovereign immunity to advance their trademark ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/hedge-funds-wield-new-tactic-to-fight-private-equity-deal-prices</id>
     <title>Hedge Funds Wield New Tactic to Fight Private Equity Deal Prices</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T19:42:36Z</published>
     <updated>2026-11-06T19:42:36Z</updated>
     <summary>Jansen advises clients on brand decisions spanning global brand strategy, high-stakes disputes, and the intellectual property aspects of mergers, acquisitions, ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/judges-in-microcaptive-tax-case-view-insurance-scheme-dimly</id>
-    <title>Judges in Microcaptive Tax Case View Insurance Scheme Dimly</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/judges-in-microcaptive-tax-case-view-insurance-scheme-dimly" />
-    <published>2026-11-06T19:42:36Z</published>
-    <updated>2026-11-06T19:42:36Z</updated>
-    <summary>A federal appeals panel indicated they thought a grocery chain's microcaptive insurance scheme wasn't legitimate and that they shouldn't have been able to ...</summary>
   </entry>
 </feed>
