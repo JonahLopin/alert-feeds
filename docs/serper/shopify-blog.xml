@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-09T22:42:49Z</updated>
+  <updated>2026-11-09T23:43:06Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/innovative-products</id>
+    <title>Innovative Products: 35 Examples and Trends (2026)</title>
+    <link href="https://www.shopify.com/blog/innovative-products" />
+    <published>2026-11-09T23:43:06Z</published>
+    <updated>2026-11-09T23:43:06Z</updated>
+    <summary>Discover 35 innovative products across health, sustainability, AI, and more. See real examples, current trends, and how to build and sell your own.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/warehouse-shipping</id>
     <title>Retail Shipping Warehouse: Benefits, Costs &amp; Best ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T21:43:20Z</published>
     <updated>2026-11-06T21:43:20Z</updated>
     <summary>Discover how customer acquisition works, from channels and funnel stages to 8 proven strategies, CAC benchmarks, metrics, and tools.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbQHEIkXXRcyyP3PEiaBEAnBsBaDRAtR-QlzOTOYvHw_W-A6gfFNNcJUda9Ez7_ZyK0g7aTUTcEqrd9vszUx9nrovGuJ3vU-3AJ2I2y7VBVxV-crL0XdROielnAL8khjymyemGFXAMTjsW5RDGr0</id>
-    <title>How To Ship Clothes: 3 Steps + What It Costs (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESbQHEIkXXRcyyP3PEiaBEAnBsBaDRAtR-QlzOTOYvHw_W-A6gfFNNcJUda9Ez7_ZyK0g7aTUTcEqrd9vszUx9nrovGuJ3vU-3AJ2I2y7VBVxV-crL0XdROielnAL8khjymyemGFXAMTjsW5RDGr0" />
-    <published>2026-11-06T21:43:20Z</published>
-    <updated>2026-11-06T21:43:20Z</updated>
-    <summary>Learn how to ship clothes in three easy steps and compare USPS and UPS rates by weight so apparel shipping costs stay predictable.</summary>
   </entry>
 </feed>
