@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 36632,
+  "credits_used": 36693,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-10T00:40:42Z",
+  "last_run": "2026-11-10T01:43:10Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 725
+  "runs": 726
  },
  "feeds": {
   "adp-help": {
@@ -14392,6 +14392,15 @@
     "summary": "Nvidia Corp. co-founder Jensen Huang's daughter planned to showcase deepening ties with two of South Korea's most important AI players Monday.",
     "title": "Nvidia Controversy Throws High-Profile Korea Event Into ..."
    },
+   "news.bloomberglaw.com/business-and-practice/ny-budget-head-warns-of-ai-rules-impact-on-tax-collections": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T01:43:10Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ny-budget-head-warns-of-ai-rules-impact-on-tax-collections",
+    "page": 5,
+    "summary": "New York budget officials are bracing for potential new AI regulations to slow the growth of tax collections that have surged in recent months due to record ...",
+    "title": "NY Budget Head Warns of AI Rules' Impact on Tax Collections"
+   },
    "news.bloomberglaw.com/business-and-practice/ogletree-deakins-lands-two-california-employment-shareholders": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -16819,6 +16828,15 @@
     "page": 1,
     "summary": "White House Press Secretary Katie Zacharia appeared to acknowledge Thursday that she did not pass the California bar exam,",
     "title": "Trump Press Secretary Defends Career, Downplays Bar ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/white-house-nominates-mufarrige-to-ftc-commissioner-spot": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T01:43:10Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/white-house-nominates-mufarrige-to-ftc-commissioner-spot",
+    "page": 1,
+    "summary": "The White House nominated Christopher Mufarrige to the US Federal Trade Commission, according to an announcement Monday evening, elevating him from heading ...",
+    "title": "White House Nominates Mufarrige to FTC Commissioner ..."
    },
    "news.bloomberglaw.com/business-and-practice/white-house-taps-doj-official-for-open-republican-eeoc-seat": {
     "baseline": false,
