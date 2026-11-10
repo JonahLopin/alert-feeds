@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 37422,
+  "credits_used": 37483,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-10T13:43:03Z",
+  "last_run": "2026-11-10T14:42:56Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 738
+  "runs": 739
  },
  "feeds": {
   "adp-help": {
@@ -15058,6 +15058,15 @@
     "summary": "Former US Deputy Attorney General Sally Yates pledged to conduct an independent investigation into Cornell University 's handling of sexual assault ...",
     "title": "Sally Yates Vows Independent Review of Cornell Sex ..."
    },
+   "news.bloomberglaw.com/business-and-practice/samuel-alitos-retirement-plans-are-his-to-make-stephen-carter": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T14:42:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/samuel-alitos-retirement-plans-are-his-to-make-stephen-carter",
+    "page": 3,
+    "summary": "The episode comes to mind in light of the panicky voices on the right begging Justice Samuel Alito to step down so that President Donald Trump might have the ...",
+    "title": "Samuel Alito's Retirement Plans Are His to Make: Stephen ..."
+   },
    "news.bloomberglaw.com/business-and-practice/sanctioned-lawyer-clark-aims-to-help-fight-democrats-probes": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -17172,6 +17181,15 @@
     "summary": "\"Buy a $50 gift card, get a $10 bonus card\" is the most common holiday offer in restaurants, and it works because it gives guests a reason to buy now ...",
     "title": "Structuring a Holiday Bonus Offer That Pays Off"
    },
+   "chowbus.com/blog/hospitality-pos-vs-retail-pos": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T14:42:56Z",
+    "link": "https://www.chowbus.com/blog/hospitality-pos-vs-retail-pos",
+    "page": 1,
+    "summary": "A hospitality POS is a point-of-sale system designed for businesses that serve guests over time, such as restaurants, bars and caf\u00e9s.",
+    "title": "Why a Retail Register Breaks Down Between Seating and ..."
+   },
    "chowbus.com/blog/how-restaurants-prevent-order-errors-during-the-friday-night-rush": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -17269,6 +17287,15 @@
     "page": 1,
     "summary": "A full dining room looks like a good problem \u2014 until you watch what a reservation and waitlist system that doesn't work actually costs you: no-shows that ...",
     "title": "Restaurant Reservation & Waitlist System (2026): How It ..."
+   },
+   "chowbus.com/blog/restaurant-sales-tax-dine-in-takeout-delivery": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T14:42:56Z",
+    "link": "https://www.chowbus.com/blog/restaurant-sales-tax-dine-in-takeout-delivery",
+    "page": 1,
+    "summary": "How sales tax applies to restaurants: dine-in, takeout, delivery and app orders, marketplace facilitator rules, service charges and fees, plus a POS setup ...",
+    "title": "Restaurant Sales Tax: Dine-In, Takeout, Delivery Apps and ..."
    },
    "chowbus.com/blog/restaurant-self-ordering-system-kiosk-tablet-qr-service-style": {
     "baseline": false,
@@ -38365,6 +38392,15 @@
     "summary": "SAP Incentive Management, starter edition, offers core compensation management capabilities for growth-focused organizations. Learn more.",
     "title": "SAP Incentive Management, Starter Edition, Now Available"
    },
+   "news.sap.com/2026/11/supply-chain-ai-must-do-more-than-inform-it-must-help-businesses-act": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T14:42:56Z",
+    "link": "https://news.sap.com/2026/11/supply-chain-ai-must-do-more-than-inform-it-must-help-businesses-act/",
+    "page": 2,
+    "summary": "As AI moves from providing insights to enabling action, supply chain leaders have an opportunity to create greater business value.",
+    "title": "Supply Chain AI Must Help Businesses Act"
+   },
    "news.sap.com/2026/11/three-skills-define-entry-level-job-ai-era": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -38463,6 +38499,24 @@
     "page": 1,
     "summary": "AI-driven fraud is the leading emerging identity fraud threat for which businesses believe they need to prepare.",
     "title": "AI Fraud Fears Surge in SA"
+   },
+   "news.sap.com/africa/2026/11/ai-raises-the-cyber-stakes-for-african-enterprises": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T14:42:56Z",
+    "link": "https://news.sap.com/africa/2026/11/ai-raises-the-cyber-stakes-for-african-enterprises/",
+    "page": 1,
+    "summary": "By early 2025, most phishing emails being detected were AI-generated, a dramatic rise from a low base just a year earlier. AI-automated spear-phishing campaigns ...",
+    "title": "AI Raises the Cyber Stakes for African Enterprises"
+   },
+   "news.sap.com/africa/2026/11/ai-raises-the-cyber-stakes-for-african-enterprises?amp=1": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-11-10T14:42:56Z",
+    "link": "https://news.sap.com/africa/2026/11/ai-raises-the-cyber-stakes-for-african-enterprises/?amp=1",
+    "page": 2,
+    "summary": "By early 2025, most phishing emails being detected were AI-generated, a dramatic rise from a low base just a year earlier. AI-automated spear-phishing campaigns ...",
+    "title": "AI Raises the Cyber Stakes for African Enterprises"
    },
    "news.sap.com/africa/2026/11/sap-beefs-up-business-ai-platform-and-joule-to-drive-agentic-ai-adoption": {
     "baseline": false,
@@ -39273,6 +39327,15 @@
     "page": 1,
     "summary": "Erfahren Sie, wie die SAP zur KI-Akzeptanz beitr\u00e4gt und ethische Grunds\u00e4tze f\u00fcr vertrauensvolle Technologien etabliert.",
     "title": "KI-Akzeptanz und die Verantwortung der Unternehmen"
+   },
+   "news.sap.com/germany/2026/11/planung-fuer-zeit-nach-2030": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T14:42:56Z",
+    "link": "https://news.sap.com/germany/2026/11/planung-fuer-zeit-nach-2030/",
+    "page": 1,
+    "summary": "Entdecken Sie die Bedeutung der Planung f\u00fcr SAP Business Suite 7 und was Sie bis Ende 2030 beachten sollten.",
+    "title": "Planung f\u00fcr die SAP Business Suite 7 bis 2030"
    },
    "news.sap.com/germany/2026/11/planung-fuer-zeit-nach-2030?amp=1": {
     "baseline": false,
@@ -52644,6 +52707,15 @@
     "summary": "How to write a sales pitch \u00b7 1. Know your target audience \u00b7 2. Tailor the pitch to the buyer in front of you \u00b7 3. Choose your opening line \u00b7 4. Start with the ...",
     "title": "Sales Pitch Examples, Templates, and How To Write One ..."
    },
+   "shopify.com/blog/sales-statistics": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-10T14:42:56Z",
+    "link": "https://www.shopify.com/blog/sales-statistics",
+    "page": 3,
+    "summary": "Knowing the latest sales statistics can help you benchmark your performance, spot opportunities, and see how you stack up against national and global ...",
+    "title": "Sales Statistics 2026: 51 Key Stats to Know"
+   },
    "shopify.com/blog/sales-tools": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -52814,6 +52886,15 @@
     "page": 1,
     "summary": "How to streamline business processes \u00b7 1. Audit and map current processes \u00b7 2. Establish clear standard operating procedures (SOPs) \u00b7 3. Automate repetitive tasks ...",
     "title": "How to Streamline Business Processes for Ecommerce"
+   },
+   "shopify.com/blog/supplement-dropshipping": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-10T14:42:56Z",
+    "link": "https://www.shopify.com/blog/supplement-dropshipping",
+    "page": 3,
+    "summary": "If you're passionate about health and looking to start a small wellness business, supplement dropshipping might be for you. With the right suppliers and ...",
+    "title": "Supplement Dropshipping: Best Suppliers, Products & Tips ..."
    },
    "shopify.com/blog/swot-analysis": {
     "baseline": false,
