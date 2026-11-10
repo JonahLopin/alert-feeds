@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 36693,
+  "credits_used": 36755,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-10T01:43:10Z",
+  "last_run": "2026-11-10T02:42:44Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 726
+  "runs": 727
  },
  "feeds": {
   "adp-help": {
@@ -9908,6 +9908,15 @@
     "page": 2,
     "summary": "Huang Le, also known as Alice Huang, has been identified in a series of reports as a spy who was recruited by Beijing to target Nvidia's Chief Executive Officer ...",
     "title": "Alice Huang, Suspected China Spy, Spent Years in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/allianz-insurance-unit-sues-steel-dynamics-over-contamination": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T02:42:44Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/allianz-insurance-unit-sues-steel-dynamics-over-contamination",
+    "page": 1,
+    "summary": "An Allianz SE insurance unit sued a steel company and its subsidiary, seeking to limit coverage for a 2024 radioactive contamination incident at a West ...",
+    "title": "Allianz Insurance Unit Sues Steel Dynamics Over ..."
    },
    "news.bloomberglaw.com/business-and-practice/alphabet-is-in-talks-to-join-trumps-golden-dome-defense-program": {
     "baseline": false,
@@ -23387,6 +23396,15 @@
     "summary": "Today, DoorDash introduced Brand Center, a platform built for the marketing, supply chain, category, ecommerce, and national account teams to get a clearer view ...",
     "title": "DoorDash Introduces Brand Center: A Platform For Retailer ..."
    },
+   "about.doordash.com/en-us/news/doordash-thanksgiving-cooking-order-trends": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-10T02:42:44Z",
+    "link": "https://about.doordash.com/en-us/news/doordash-thanksgiving-cooking-order-trends",
+    "page": 1,
+    "summary": "From the pizza the night before to the noon thermometer panic, DoorDash orders reveal Thanksgiving hour by hour.",
+    "title": "Thanksgiving Trends: What America Cooked, Forgot, and ..."
+   },
    "about.doordash.com/en-us/news/doordash-to-acquire-instacart": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -33139,6 +33157,15 @@
     "page": 2,
     "summary": "Tax forms and filing. Withholding information. Unemployment and other taxes. General state and agency information.",
     "title": "Access state agency websites for payroll - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/payroll-forms/manage-automatic-tax-payments-form-filings/L8IgYMkDo_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T02:42:44Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll-forms/manage-automatic-tax-payments-form-filings/L8IgYMkDo_US_en_US",
+    "page": 3,
+    "summary": "Here's how to set up payroll taxes and forms in Intuit QuickBooks Workforce \u2014 the right way, the first time. Do it in just a few clicks.",
+    "title": "Set up payroll taxes and forms in Intuit QuickBooks Workforce"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/payroll-preferences/set-quickbooks-workforce-account/L7lTybIK7_US_en_US": {
     "baseline": false,
@@ -53322,6 +53349,15 @@
     "page": 1,
     "summary": "More than 100,000 customers \u2013 including half the Fortune 500 \u2013 trust Sovos' tax and regulatory expertise and unparalleled integration with their business ...",
     "title": "Calculate tax | Product Documentation ... - Sovos Docs"
+   },
+   "docs.sovos.com/en/tax-determination/tax-determination/get-started/get-started-with-tax-determination": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-10T02:42:44Z",
+    "link": "https://docs.sovos.com/en/tax-determination/tax-determination/get-started/get-started-with-tax-determination",
+    "page": 1,
+    "summary": "Get started with Tax Determination \u00b7 Step 1: Creating and configuring your account \u00b7 Step 2: Installing the connector \u00b7 Step 3: Mapping codes and creating ...",
+    "title": "Get started with Tax Determination | Product Documentation ..."
    },
    "docs.sovos.com/en/tax-determination/tax-determination/map-products-exemptions-and-locations/geo-codes": {
     "baseline": false,
