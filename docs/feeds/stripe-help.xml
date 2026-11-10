@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-08T14:44:30Z</updated>
+  <updated>2026-11-10T10:44:33Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:471714446565255243</id>
+    <title>Run a SQL query - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/data/api/queries" />
+    <published>2026-11-10T10:44:33Z</published>
+    <updated>2026-11-10T10:44:33Z</updated>
+    <summary>Create a QueryRun with SQL against the analytical dataset, then retrieve a download URL or inline rows. Requires the Queries Read permission.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:17184795472988406221</id>
+    <title>Run a Sigma query programmatically - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/reports/sigma-query-runs" />
+    <published>2026-11-10T10:44:33Z</published>
+    <updated>2026-11-10T10:44:33Z</updated>
+    <summary>You can programmatically execute SQL queries against your Stripe data using the QueryRun endpoints of the Reports API v2.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:12465156951724838520</id>
     <title>Run a report from the Reports v1 API - Stripe Documentation</title>
@@ -787,21 +803,5 @@
     <published>2026-10-16T22:44:10Z</published>
     <updated>2026-10-16T22:44:10Z</updated>
     <summary>Use Link Agent Wallet to answer an 402 payment challenge with a shared payment token and complete a machine payment.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:3120035659458498931</id>
-    <title>CardCvcElement - Stripe JS Reference</title>
-    <link href="https://docs.stripe.com/js/react_stripe_js/elements/other/card_cvc_element?__hsfp=2833975420&amp;__hssc=195197683.1.1662249600281&amp;__hstc=195197683.0b939b89ab5ebd558205abc6212f6da3.1662249600278.1662249600279.1662249600280.1" />
-    <published>2026-10-16T22:44:10Z</published>
-    <updated>2026-10-16T22:44:10Z</updated>
-    <summary>Set custom class names on the container DOM element when the Stripe element is in a particular state. Hide classes properties ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:16821937480774260821</id>
-    <title>Real-time sync schema | Stripe Documentation</title>
-    <link href="https://docs.stripe.com/data/data-pipeline/real-time-sync-to-postgres/schema" />
-    <published>2026-10-16T22:44:10Z</published>
-    <updated>2026-10-16T22:44:10Z</updated>
-    <summary>Explore the Stripe API tables, columns, and Postgres data types available through Data Pipeline real-time sync.</summary>
   </entry>
 </feed>

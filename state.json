@@ -6387,6 +6387,12 @@
    "summary": "Learn how collected tax moves through your Stripe balance, how to remit it, and how a tax account sets aside and funds payments for supported ...",
    "title": "How remittance works | Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:17184795472988406221": {
+   "first_seen": "2026-11-10T10:44:33Z",
+   "link": "https://docs.stripe.com/reports/sigma-query-runs",
+   "summary": "You can programmatically execute SQL queries against your Stripe data using the QueryRun endpoints of the Reports API v2.",
+   "title": "Run a Sigma query programmatically - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:17624767214187221706": {
    "first_seen": "2026-10-12T11:36:05Z",
    "link": "https://docs.stripe.com/use-stripe-apps/netsuite/customer-payment-page-setup",
@@ -6602,6 +6608,12 @@
    "link": "https://docs.stripe.com/api/tax_reporting/forms/object",
    "summary": "NZ-MRDP statements are used to report payment transactions for New Zealand sellers. us_1099_k. 1099-K forms are typically used to report payment ...",
    "title": "The Tax form object | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:471714446565255243": {
+   "first_seen": "2026-11-10T10:44:33Z",
+   "link": "https://docs.stripe.com/data/api/queries",
+   "summary": "Create a QueryRun with SQL against the analytical dataset, then retrieve a download URL or inline rows. Requires the Queries Read permission.",
+   "title": "Run a SQL query - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:5075244174158080457": {
    "first_seen": "2026-10-09T11:10:19Z",
