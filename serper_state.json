@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 37669,
+  "credits_used": 37730,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-10T17:42:52Z",
+  "last_run": "2026-11-10T18:42:56Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 742
+  "runs": 743
  },
  "feeds": {
   "adp-help": {
@@ -11903,6 +11903,15 @@
     "summary": "The US presidential election in 2024 served as a big-bang moment for prediction markets. Two years later, their forecasts on the 2026 midterms are getting ...",
     "title": "Election Trading Stagnates on Prediction Markets After ..."
    },
+   "news.bloomberglaw.com/business-and-practice/election-workers-in-one-county-prepped-for-chaos-then-exhaled": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T18:42:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/election-workers-in-one-county-prepped-for-chaos-then-exhaled",
+    "page": 2,
+    "summary": "Home to Cincinnati, Hamilton is the third-largest county in a key state that this year had bitterly competitive and widely watched races for governor and US ...",
+    "title": "Election Workers in One County Prepped for Chaos, Then ..."
+   },
    "news.bloomberglaw.com/business-and-practice/eli-lilly-toughens-legal-game-plan-over-next-weight-loss-drug": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -23576,6 +23585,15 @@
     "page": 1,
     "summary": "U.S. DashPass members will be able. Lyft Go, Lyft's new premier rideshare membership valued at $9.99 per month, at no additional cost.",
     "title": "Save on Rides and Orders with One Membership"
+   },
+   "about.doordash.com/en-us/news/doordash-announces-new-partnerships-with-beloved-west-coast-grocers": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-10T18:42:56Z",
+    "link": "https://about.doordash.com/en-us/news/doordash-announces-new-partnerships-with-beloved-west-coast-grocers",
+    "page": 1,
+    "summary": "Today, we're excited to announce several new partnerships to offer consumers access to on-demand delivery of essentials from local grocers they know and love.",
+    "title": "DoorDash Announces New Partnerships With Beloved ..."
    },
    "about.doordash.com/en-us/news/doordash-crash-out-corners-data": {
     "baseline": false,
@@ -68493,6 +68511,24 @@
     "page": 1,
     "summary": "Learn how to compare AI tax prep software with eight criteria, from source traceability to data security, and see how four common options stack up.",
     "title": "How to compare AI tax prep software"
+   },
+   "tax.thomsonreuters.com/blog/how-to-design-efficient-audit-workflow-processes": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T18:42:56Z",
+    "link": "https://tax.thomsonreuters.com/blog/how-to-design-efficient-audit-workflow-processes/",
+    "page": 1,
+    "summary": "Audit workflows built on disconnected tools slow firms down. See how centralized data, automation, and AI create faster, more efficient audits.",
+    "title": "How to design efficient audit workflow processes: Approaches that deliver ..."
+   },
+   "tax.thomsonreuters.com/blog/how-to-fix-tax-prep-bottlenecks-6-failures-that-might-be-hidden-in-your-workflow": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T18:42:56Z",
+    "link": "https://tax.thomsonreuters.com/blog/how-to-fix-tax-prep-bottlenecks-6-failures-that-might-be-hidden-in-your-workflow/",
+    "page": 1,
+    "summary": "From late organizers to disconnected handoffs, uncover six workflow failures that slow tax preparation\u2014and learn how to fix them.",
+    "title": "6 failures that might be hidden in your tax prep workflow"
    },
    "tax.thomsonreuters.com/blog/how-to-improve-audit-team-productivity": {
     "baseline": false,
