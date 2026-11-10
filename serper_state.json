@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 37483,
+  "credits_used": 37545,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-10T14:42:56Z",
+  "last_run": "2026-11-10T15:43:15Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 739
+  "runs": 740
  },
  "feeds": {
   "adp-help": {
@@ -635,6 +635,15 @@
     "page": 1,
     "summary": "The ADP National Employment Report is an independent measure of the labor market based on the anonymized weekly payroll data of more than 26 million private- ...",
     "title": "ADP National Employment Report: Private-Sector ..."
+   },
+   "mediacenter.adp.com/2026-11-10-ADP-National-Employment-Report-Preliminary-Estimate-for-October-24,-2026": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T15:43:15Z",
+    "link": "https://mediacenter.adp.com/2026-11-10-ADP-National-Employment-Report-Preliminary-Estimate-for-October-24,-2026",
+    "page": 1,
+    "summary": "The NER Pulse is an estimate of the week-over-week change in employment based on a four-week moving average. These estimates are based on ADP's finely tuned, ...",
+    "title": "ADP National Employment Report Preliminary Estimate for ..."
    },
    "mediacenter.adp.com/adp-and-campfire-announce-strategic-partnership-to-expand-access-to-hcm-capabilities-across-the-erp-experience": {
     "baseline": false,
@@ -14859,6 +14868,15 @@
     "page": 2,
     "summary": "Weil Gotshal & Manges litigator Adam Fee is joining Quinn Emanuel Urquhart & Sullivan as the storied New York law firm winds down its operations.",
     "title": "Quinn Emanuel Nabs Top Weil Litigator Fee as NY Firm ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/rainmaker-mousavi-heads-to-paul-weiss-for-silicon-valley-debut": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-10T15:43:15Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/rainmaker-mousavi-heads-to-paul-weiss-for-silicon-valley-debut",
+    "page": 3,
+    "summary": "Mousavi joined Sullivan & Cromwell in 2010 and co-led its technology, digital infrastructure and artificial intelligence practices. He guides top AI players, ...",
+    "title": "Rainmaker Mousavi Heads to Paul Weiss for Silicon Valley ..."
    },
    "news.bloomberglaw.com/business-and-practice/rays-brewers-world-series-posed-unusual-foley-lardner-conflict": {
     "baseline": false,
@@ -34395,6 +34413,15 @@
     "summary": "From tax recovery and consulting to compliance, advocacy, and technology, Ryan works alongside clients to address complex needs and create solutions that ...",
     "title": "Ryan Earns Great Place To Work\u00ae Certification Across ..."
    },
+   "ryan.com/insights/press-room/ryan-2026-houston-top-workplaces": {
+    "baseline": false,
+    "date_hint": "57 minutes ago",
+    "first_seen": "2026-11-10T15:43:15Z",
+    "link": "https://ryan.com/insights/press-room/ryan-2026-houston-top-workplaces",
+    "page": 1,
+    "summary": "Ryan, a leading global tax services and software provider, has been named one of Houston's Top Workplaces for 2026 by the Houston Chronicle,",
+    "title": "Ryan Named One of Houston's Top Workplaces by the ..."
+   },
    "ryan.com/insights/press-room/ryan-austin-top-workplaces-11th-consecutive-year": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -40298,6 +40325,15 @@
     "page": 2,
     "summary": "SAP wil zijn AI-model SAP-RPT uiterlijk begin 2027 inzetten aan boord van het internationale ruimtestation ISS. Het model gaat draaien op de Spaceborne ...",
     "title": "Van ruimtestation naar bedrijfsleven: SAP en HPE testen AI ..."
+   },
+   "news.sap.com/netherlands/2026/11/van-slimme-assistent-tot-digitale-collega-hoe-ai-het-bedrijfsleven-ingrijpend-verandert?amp=1": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T15:43:15Z",
+    "link": "https://news.sap.com/netherlands/2026/11/van-slimme-assistent-tot-digitale-collega-hoe-ai-het-bedrijfsleven-ingrijpend-verandert/?amp=1",
+    "page": 2,
+    "summary": "Van slimme assistent tot digitale collega: hoe AI het bedrijfsleven ingrijpend verandert \u00b7 1. AI-assistent Joule: van dagen voorbereiding naar enkele minuten \u00b7 2.",
+    "title": "Van slimme assistent tot digitale collega: hoe AI het ..."
    },
    "news.sap.com/norway/2026/10/sap-utvider-ai-plattform-med-nye-verktoy-og-agenter-og-sender-ai-modell-ut-i-rommet": {
     "baseline": false,
@@ -51862,6 +51898,15 @@
     "page": 2,
     "summary": "Customer acquisition cost (CAC) is the amount you spend in a given period to acquire customers. It's an average, determined by adding up all the costs of your ...",
     "title": "How To Calculate CAC: Customer Acquisition Cost Formula"
+   },
+   "shopify.com/blog/how-to-choose-a-crm": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-10T15:43:15Z",
+    "link": "https://www.shopify.com/blog/how-to-choose-a-crm",
+    "page": 5,
+    "summary": "Some ecommerce retailers may not need a standalone CRM solution. For example, Shopify includes built-in customer management tools that let you create and manage ...",
+    "title": "How To Choose a CRM System in 2026"
    },
    "shopify.com/blog/how-to-design-a-shirt": {
     "baseline": false,

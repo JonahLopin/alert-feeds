@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-10T14:42:56Z</updated>
+  <updated>2026-11-10T15:43:15Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/netherlands/2026/11/van-slimme-assistent-tot-digitale-collega-hoe-ai-het-bedrijfsleven-ingrijpend-verandert/?amp=1</id>
+    <title>Van slimme assistent tot digitale collega: hoe AI het ...</title>
+    <link href="https://news.sap.com/netherlands/2026/11/van-slimme-assistent-tot-digitale-collega-hoe-ai-het-bedrijfsleven-ingrijpend-verandert/?amp=1" />
+    <published>2026-11-10T15:43:15Z</published>
+    <updated>2026-11-10T15:43:15Z</updated>
+    <summary>Van slimme assistent tot digitale collega: hoe AI het bedrijfsleven ingrijpend verandert · 1. AI-assistent Joule: van dagen voorbereiding naar enkele minuten · 2.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/germany/2026/11/planung-fuer-zeit-nach-2030/</id>
     <title>Planung für die SAP Business Suite 7 bis 2030</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T08:43:31Z</published>
     <updated>2026-11-06T08:43:31Z</updated>
     <summary>SAP Business One이 올해 30주년을 맞았습니다. 중소중견기업용 전사적 자원관리(ERP) 소프트웨어인 이 제품의 고객 유지율은 90%대 후반입니다. 고객이 떠나는 경우는 ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESiAEBxCJF1zMjOlQ_b8rSIed9PDuQzF5bQAQ6iMf_gdflmVlTN-wdi36HWRJlU6HbIVntlgfXTrR5-wFFFCuUdqIaQjfKT7CKo4jxZ-I9HldjPCfw4PKBIVumieM0JXKTlzkcU5o7eMlsvW2m1b3O_p-NKKXQuCQu_w_8n1QNNu11_E3maztR_rKZ</id>
-    <title>SAP Business One: 30 Years of Growing Together</title>
-    <link href="https://www.google.com/goto?url=CAESiAEBxCJF1zMjOlQ_b8rSIed9PDuQzF5bQAQ6iMf_gdflmVlTN-wdi36HWRJlU6HbIVntlgfXTrR5-wFFFCuUdqIaQjfKT7CKo4jxZ-I9HldjPCfw4PKBIVumieM0JXKTlzkcU5o7eMlsvW2m1b3O_p-NKKXQuCQu_w_8n1QNNu11_E3maztR_rKZ" />
-    <published>2026-11-06T08:43:31Z</published>
-    <updated>2026-11-06T08:43:31Z</updated>
-    <summary>For 30 years, SAP Business One has been growing alongside small- and medium-sized customers. Read to learn more about the solution.</summary>
   </entry>
 </feed>
