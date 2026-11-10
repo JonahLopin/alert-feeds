@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 37304,
+  "credits_used": 37361,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-10T11:42:48Z",
+  "last_run": "2026-11-10T12:43:09Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 736
+  "runs": 737
  },
  "feeds": {
   "adp-help": {
@@ -9774,6 +9774,15 @@
     "summary": "The seven guidance documents address racial discrimination in student discipline, how colleges can still pursue diverse student bodies following the high ...",
     "title": "Agencies Review Obama, Biden Education Civil Rights ..."
    },
+   "news.bloomberglaw.com/business-and-practice/ai-becomes-a-daily-tool-for-lawyers-who-still-dont-trust-it": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T12:43:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ai-becomes-a-daily-tool-for-lawyers-who-still-dont-trust-it",
+    "page": 5,
+    "summary": "Samual Miller uses artificial intelligence every day, and he says it has made his legal work better. But the Orlando-based Akerman litigation partner ...",
+    "title": "AI Becomes a Daily Tool for Lawyers Who Still Don't Trust It"
+   },
    "news.bloomberglaw.com/business-and-practice/ai-data-centers-water-use-grows-in-drought-stricken-areas": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -12127,6 +12136,15 @@
     "page": 1,
     "summary": "The GAO will investigate whether staff cuts at the Commodity Futures Trading Commission is affecting its ability to function, following a request by Senate",
     "title": "Federal Watchdog Will Investigate CFTC Job Cuts and ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/fedex-fined-over-wrongly-sharing-personal-data-with-google-meta-11": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T12:43:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/fedex-fined-over-wrongly-sharing-personal-data-with-google-meta-11",
+    "page": 4,
+    "summary": "FedEx Corp. has agreed to pay a nearly $3 million fine over charges of illegally sharing customer data with major tech companies. Photographer: Christopher ...",
+    "title": "FedEx Fined Over Wrongly Sharing Personal Data With ..."
    },
    "news.bloomberglaw.com/business-and-practice/feds-cook-puts-off-white-house-hearing-over-trumps-allegations": {
     "baseline": false,
@@ -15300,6 +15318,15 @@
     "summary": "Attorneys general across 45 states are urging Congress to pass Senate legislation that would strengthen online protections for children and teens.",
     "title": "State AGs Urge Congress to Pass Senate's Kids Online ..."
    },
+   "news.bloomberglaw.com/business-and-practice/state-of-practice-attorneys-rely-on-ai-but-fear-losing-jobs": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T12:43:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/state-of-practice-attorneys-rely-on-ai-but-fear-losing-jobs",
+    "page": 4,
+    "summary": "A quarter of attorneys now fear losing their jobs to artificial intelligence, according to Bloomberg Law's new State of Practice survey. For early-career ...",
+    "title": "State of Practice: Attorneys Rely on AI but Fear Losing Jobs"
+   },
    "news.bloomberglaw.com/business-and-practice/steptoe-role-in-hughes-bankruptcy-challenged-over-echostar-ties": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -15451,6 +15478,15 @@
     "page": 2,
     "summary": "The Labor Department's Oct. 8 suspension of eight employers from the PERM labor certification program \u2014 including Microsoft Corp., Adobe Inc., ...",
     "title": "Suspended Tech Visa Program Offers a Warning on Hiring ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/swiss-brand-on-sees-higher-profit-on-shoe-demand-tariff-refunds": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T12:43:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/swiss-brand-on-sees-higher-profit-on-shoe-demand-tariff-refunds",
+    "page": 4,
+    "summary": "The Roger Federer -backed company now expects its gross profit margin to reach 67.5% this year, On said Tuesday, or 66% excluding the impact of tariff refunds.",
+    "title": "Swiss Brand On Sees Higher Profit on Shoe Demand, Tariff ..."
    },
    "news.bloomberglaw.com/business-and-practice/taiwans-lai-urges-democracies-to-unite-after-trump-xi-summit": {
     "baseline": false,
@@ -16405,6 +16441,15 @@
     "page": 1,
     "summary": "Three Big Law firms steered Salesforce Inc.'s agreement to buy an artificial intelligence-powered marketing platform Braze Inc. for nearly $5.7 billion.",
     "title": "Wachtell, Covington, Davis Polk Guide Salesforce's Braze ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-ai-native-firm-bets-on-tech-to-avoid-weils-fate": {
+    "baseline": false,
+    "date_hint": "43 minutes ago",
+    "first_seen": "2026-11-10T12:43:09Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-ai-native-firm-bets-on-tech-to-avoid-weils-fate",
+    "page": 5,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
+    "title": "Wake Up Call: AI-Native Firm Bets on Tech to Avoid Weil's ..."
    },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-biden-antitrust-chiefs-start-legal-ai-company": {
     "baseline": false,
@@ -40717,6 +40762,15 @@
     "summary": "SAP \u5546\u696dAI \u5e73\u53f0\u70ba\u4f01\u696d\u63d0\u4f9b\u7d71\u4e00\u7684\u74b0\u5883\uff0c\u652f\u6301\u5728\u8de8SAP \u7cfb\u7d71\u548c\u7b2c\u4e09\u65b9\u7cfb\u7d71\u4e2d\u57f7\u884c\u5efa\u69cb\u3001\u6253\u9020\u696d\u52d9\u8a9e\u7fa9\u4e0a\u4e0b\u6587\uff0c\u4ee5\u53ca\u5168\u9762\u7684AI \u6cbb\u7406\u3002\u501f\u52a9Joule Studio\uff0c\u696d\u52d9\u4eba\u54e1\u548c\u5c08\u696d\u958b\u767c\u8005\u53ef\u4ee5 ...",
     "title": "SAP \u8ce6\u80fdAI \u958b\u767c\u8005\u6253\u9020\u6838\u5fc3\u61c9\u7528\uff0c\u5c07\u696d\u52d9\u610f\u5716\u8f49\u8b8a\u70ba\u81ea\u4e3b\u57f7\u884c"
    },
+   "news.sap.com/taiwan/2026/11/realtek-implements-sap-hcm-to-transform-payroll-management?amp=1": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-10T12:43:09Z",
+    "link": "https://news.sap.com/taiwan/2026/11/realtek-implements-sap-hcm-to-transform-payroll-management/?amp=1",
+    "page": 1,
+    "summary": "\u96a8\u8de8\u570b\u898f\u6a21\u64f4\u5927\uff0c\u65e2\u6709IT \u67b6\u69cb\u5df2\u96e3\u4ee5\u652f\u6490\u8907\u96dc\u7684\u8ca1\u52d9\u8207\u4eba\u8cc7\u6d41\u7a0b\uff0c\u56e0\u6b64\u745e\u6631\u555f\u52d5\u7d71\u4e00\u85aa\u916c\u7ba1\u7406\u5e73\u53f0\u5efa\u7f6e\uff0c\u4ee5\u63d0\u5347\u85aa\u8cc7\u3001\u8003\u52e4\u8207\u54e1\u5de5\u8cc7\u6599\u7ba1\u7406\u6548\u7387\uff0c\u6539\u5584\u5404\u5730\u6d41\u7a0b\u4e0d\u4e00\u81f4\u554f\u984c\uff0c\u4e26\u5f37\u5316 ...",
+    "title": "\u745e\u6631\u534a\u5c0e\u9ad4\u5ba3\u5e03\u5c0e\u5165SAP HCM \u91cd\u5851\u85aa\u8cc7\u7ba1\u7406\u6a21\u5f0f\u6253\u9020\u652f\u6301 ..."
+   },
    "news.sap.com/topics/artificial-intelligence": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -41020,6 +41074,15 @@
     "page": 1,
     "summary": "\u0417\u0430\u0432\u0434\u044f\u043a\u0438 Joule \u0442\u0430 SAP Autonomous Suite \u043d\u0430 \u0431\u0430\u0437\u0456 SAP Business AI Platform \u043c\u0438 \u0434\u043e\u043f\u043e\u043c\u0430\u0433\u0430\u0454\u043c\u043e \u0442\u0430\u043a\u0438\u043c \u043a\u043e\u043c\u043f\u0430\u043d\u0456\u044f\u043c, \u044f\u043a Novartis, Morgan Foods, Nestl\u00e9 \u0442\u0430 PwC, \u043e\u0431'\u0454\u0434\u043d\u0443\u0432\u0430\u0442\u0438 ...",
     "title": "SAP \u0440\u043e\u0437\u0432\u0438\u0432\u0430\u0454 \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0456\u044e \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u043e\u0433\u043e \u043f\u0456\u0434\u043f\u0440\u0438\u0454\u043c\u0441\u0442\u0432\u0430 \u043d\u0430 ..."
+   },
+   "news.sap.com/ukraine/2026/11/sap-%D1%80%D0%BE%D0%B7%D1%88%D0%B8%D1%80%D1%8E%D1%94-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%96-%D0%B4%D0%BB%D1%8F-%D1%80%D0%BE%D0%B7%D1%80%D0%BE%D0%B1%D0%BD%D0%B8%D0%BA%D1%96%D0%B2": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T12:43:09Z",
+    "link": "https://news.sap.com/ukraine/2026/11/sap-%D1%80%D0%BE%D0%B7%D1%88%D0%B8%D1%80%D1%8E%D1%94-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%96-%D0%B4%D0%BB%D1%8F-%D1%80%D0%BE%D0%B7%D1%80%D0%BE%D0%B1%D0%BD%D0%B8%D0%BA%D1%96%D0%B2/",
+    "page": 1,
+    "summary": "SAP Business AI Platform \u043e\u0431'\u0454\u0434\u043d\u0443\u0454 \u0456\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0438 \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438, \u043d\u0430\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043d\u043d\u044f \u0442\u0430 \u0443\u043f\u0440\u0430\u0432\u043b\u0456\u043d\u043d\u044f \u0428\u0406 \u0432 \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0430\u0445 SAP \u0456 \u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0456\u0445 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0445. \u0417\u0430\u0432\u0434\u044f\u043a\u0438 Joule Studio \u0431\u0456\u0437\u043d\u0435\u0441- ...",
+    "title": "SAP \u0440\u043e\u0437\u0448\u0438\u0440\u044e\u0454 \u043c\u043e\u0436\u043b\u0438\u0432\u043e\u0441\u0442\u0456 \u0434\u043b\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043d\u0438\u043a\u0456\u0432 \u0428\u0406"
    },
    "news.sap.com/video/whats-new-in-ai-joule-and-the-autonomous-enterprise-sap-teched-in-2026": {
     "baseline": false,
