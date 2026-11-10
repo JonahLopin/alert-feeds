@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com)</title>
-  <updated>2026-11-09T14:24:59Z</updated>
+  <updated>2026-11-10T07:23:28Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sovos-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12076074430598752690</id>
+    <title>Generate a special electronic report | Product Documentation Documentation - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/e-invoicing/paperless---chile/send-documents/purchase-and-sales-ledgers/generate-a-special-electronic-report" />
+    <published>2026-11-10T07:23:28Z</published>
+    <updated>2026-11-10T07:23:28Z</updated>
+    <summary>Tipo de Documentos. The document type codes separated by commas. Example: 30,33,34. Folio Notificación. The notification folio number. Example: 1234.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:15287462857331814740</id>
     <title>Edit properties | Product Documentation Documentation - Sovos Docs</title>
