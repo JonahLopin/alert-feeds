@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-10T20:42:48Z</updated>
+  <updated>2026-11-10T23:42:48Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/abc-analysis</id>
+    <title>ABC Analysis: Categorize and Optimize Inventory (2026)</title>
+    <link href="https://www.shopify.com/blog/abc-analysis" />
+    <published>2026-11-10T23:42:48Z</published>
+    <updated>2026-11-10T23:42:48Z</updated>
+    <summary>Use ABC analysis to classify products by revenue contribution. Apply the formula and learn from examples to make better inventory decisions.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/paid-social-ad-examples</id>
     <title>Paid Social Ad Examples: Effective Social Ads in 2026</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T22:42:52Z</published>
     <updated>2026-11-06T22:42:52Z</updated>
     <summary>Read real dropshipping success stories from Shopify store owners, with dated results and early failures, plus beginner tips for your own store.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbgHEIkXX4QE0DDGMnJ6yzy2IxcqeDsWm8IU8O4kE0X0h6_qrHwK8feFdPTnQ5RjcKFX4NfUqKwLLSIztGLjYga6HEWI48NnXSS-gs2taRLn-7NfrSBoVxPJrCwt62Iv_pe5hVnKk6bqKWrIWPZPl</id>
-    <title>Customer Acquisition: Strategy, Funnel, and CAC (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESbgHEIkXX4QE0DDGMnJ6yzy2IxcqeDsWm8IU8O4kE0X0h6_qrHwK8feFdPTnQ5RjcKFX4NfUqKwLLSIztGLjYga6HEWI48NnXSS-gs2taRLn-7NfrSBoVxPJrCwt62Iv_pe5hVnKk6bqKWrIWPZPl" />
-    <published>2026-11-06T22:42:52Z</published>
-    <updated>2026-11-06T22:42:52Z</updated>
-    <summary>Discover how customer acquisition works, from channels and funnel stages to 8 proven strategies, CAC benchmarks, metrics, and tools.</summary>
   </entry>
 </feed>

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-10T20:42:48Z</updated>
+  <updated>2026-11-10T23:42:48Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/italy/2026/11/sap-business-one-30-anni-di-crescita-insieme/?amp=1</id>
+    <title>SAP Business One: 30 anni di crescita insieme</title>
+    <link href="https://news.sap.com/italy/2026/11/sap-business-one-30-anni-di-crescita-insieme/?amp=1" />
+    <published>2026-11-10T23:42:48Z</published>
+    <updated>2026-11-10T23:42:48Z</updated>
+    <summary>Per SAP Business One, la soluzione SAP dedicata alle piccole e medie imprese, significa valorizzare un percorso di crescita lungo tre decenni al fianco delle ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/belgie/2026/11/van-slimme-assistent-tot-digitale-collega-hoe-ai-het-bedrijfsleven-ingrijpend-verandert/?amp=1</id>
     <title>Van slimme assistent tot digitale collega: hoe AI het ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T09:43:28Z</published>
     <updated>2026-11-06T09:43:28Z</updated>
     <summary>For 30 years, SAP Business One has been growing alongside small- and medium-sized customers. Read to learn more about the solution.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEShQEBxCJF1xJ62gOwwSSRA-A-9vB6z7LSF_G-hfgteVN43T7khDYvSWD3cDAwcyp1quHmpQ1fwU4QHQN0ag7NIiU7PfC7CVaUxZUeOYwr7ixJyGp14VdIYJf4NrMZK7-4M-fw9FmZ54esApMO5JoihCuEkj6a2aRmYPWR538pgpuSCE21x_ML&amp;gsessionid=wCuEvhEwwdtVa9mAAC9P_70xkP1LkhpKnS_GvcGOBGAFma60YZYTuA</id>
-    <title>3 Skills That Define the New Entry-Level Job in the AI Era</title>
-    <link href="https://www.google.com/goto?url=CAEShQEBxCJF1xJ62gOwwSSRA-A-9vB6z7LSF_G-hfgteVN43T7khDYvSWD3cDAwcyp1quHmpQ1fwU4QHQN0ag7NIiU7PfC7CVaUxZUeOYwr7ixJyGp14VdIYJf4NrMZK7-4M-fw9FmZ54esApMO5JoihCuEkj6a2aRmYPWR538pgpuSCE21x_ML&amp;gsessionid=wCuEvhEwwdtVa9mAAC9P_70xkP1LkhpKnS_GvcGOBGAFma60YZYTuA" />
-    <published>2026-11-06T09:43:28Z</published>
-    <updated>2026-11-06T09:43:28Z</updated>
-    <summary>As AI reshapes entry-level work, judgment, trust, and rapid learning are becoming the skills that set early-career talent apart.</summary>
   </entry>
 </feed>
