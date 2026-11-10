@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 37361,
+  "credits_used": 37422,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-10T12:43:09Z",
+  "last_run": "2026-11-10T13:43:03Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 737
+  "runs": 738
  },
  "feeds": {
   "adp-help": {
@@ -17225,6 +17225,15 @@
     "summary": "Most new restaurants buy point of sale hardware the same way: one big order, a few weeks before opening, based on a list from the sales rep.",
     "title": "Point of Sale Hardware for a New Location"
    },
+   "chowbus.com/blog/restaurant-labor-cost-percentage-calculate-benchmarks": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-10T13:43:03Z",
+    "link": "https://www.chowbus.com/blog/restaurant-labor-cost-percentage-calculate-benchmarks",
+    "page": 1,
+    "summary": "The basic formula is: Labor cost % = total labor cost \u00f7 net sales \u00d7 100 Net sales means sales after discounts, comps and voids, and before sales tax and tips.",
+    "title": "Restaurant Labor Cost Percentage: How to Calculate It and ..."
+   },
    "chowbus.com/blog/restaurant-loyalty-membership-program-2026": {
     "baseline": false,
     "date_hint": "6 hours ago",
@@ -17233,6 +17242,15 @@
     "page": 1,
     "summary": "A loyalty and membership program flips that priority: it turns one-time visitors into repeat customers, and repeat customers into a database you can actually ...",
     "title": "How to Build a Restaurant Loyalty & Membership Program ..."
+   },
+   "chowbus.com/blog/restaurant-manager-pos-voids-comps-cash-drops": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-10T13:43:03Z",
+    "link": "https://www.chowbus.com/blog/restaurant-manager-pos-voids-comps-cash-drops",
+    "page": 1,
+    "summary": "A restaurant manager POS is the part of your point-of-sale system that only managers can reach: the permissions that decide who can void an item, the approvals ...",
+    "title": "Why Every Void, Comp and Cash Drop Should Carry a Name"
    },
    "chowbus.com/blog/restaurant-prime-cost-calculate-year-end-review": {
     "baseline": false,
@@ -23593,6 +23611,15 @@
     "page": 1,
     "summary": "Starbucks Canada and DoorDash Canada announced a new partnership to offer on-demand delivery of Starbucks at participating locations.",
     "title": "Starbucks and DoorDash Launch Delivery Partnership in ..."
+   },
+   "about.doordash.com/en-us/news/state-of-local-commerce-2026": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T13:43:03Z",
+    "link": "https://about.doordash.com/en-us/news/state-of-local-commerce-2026",
+    "page": 1,
+    "summary": "Our second annual State of Local Commerce report draws on DoorDash data from restaurants, grocers, and retailers to tracks affordability, business openings, ...",
+    "title": "State of Local Commerce 2026: The Economy Up Close, ..."
    },
    "about.doordash.com/en-us/news/topic/consumers": {
     "baseline": false,
@@ -39247,6 +39274,15 @@
     "summary": "Erfahren Sie, wie die SAP zur KI-Akzeptanz beitr\u00e4gt und ethische Grunds\u00e4tze f\u00fcr vertrauensvolle Technologien etabliert.",
     "title": "KI-Akzeptanz und die Verantwortung der Unternehmen"
    },
+   "news.sap.com/germany/2026/11/planung-fuer-zeit-nach-2030?amp=1": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-11-10T13:43:03Z",
+    "link": "https://news.sap.com/germany/2026/11/planung-fuer-zeit-nach-2030/?amp=1",
+    "page": 1,
+    "summary": "Entdecken Sie die Bedeutung der Planung f\u00fcr SAP Business Suite 7 und was Sie bis Ende 2030 beachten sollten.",
+    "title": "Planung f\u00fcr die SAP Business Suite 7 bis 2030"
+   },
    "news.sap.com/germany/2026/11/sap-optimiert-finanzprozesse": {
     "baseline": false,
     "date_hint": "7 hours ago",
@@ -40761,6 +40797,15 @@
     "page": 2,
     "summary": "SAP \u5546\u696dAI \u5e73\u53f0\u70ba\u4f01\u696d\u63d0\u4f9b\u7d71\u4e00\u7684\u74b0\u5883\uff0c\u652f\u6301\u5728\u8de8SAP \u7cfb\u7d71\u548c\u7b2c\u4e09\u65b9\u7cfb\u7d71\u4e2d\u57f7\u884c\u5efa\u69cb\u3001\u6253\u9020\u696d\u52d9\u8a9e\u7fa9\u4e0a\u4e0b\u6587\uff0c\u4ee5\u53ca\u5168\u9762\u7684AI \u6cbb\u7406\u3002\u501f\u52a9Joule Studio\uff0c\u696d\u52d9\u4eba\u54e1\u548c\u5c08\u696d\u958b\u767c\u8005\u53ef\u4ee5 ...",
     "title": "SAP \u8ce6\u80fdAI \u958b\u767c\u8005\u6253\u9020\u6838\u5fc3\u61c9\u7528\uff0c\u5c07\u696d\u52d9\u610f\u5716\u8f49\u8b8a\u70ba\u81ea\u4e3b\u57f7\u884c"
+   },
+   "news.sap.com/taiwan/2026/11/realtek-implements-sap-hcm-to-transform-payroll-management": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T13:43:03Z",
+    "link": "https://news.sap.com/taiwan/2026/11/realtek-implements-sap-hcm-to-transform-payroll-management/",
+    "page": 1,
+    "summary": "\u96a8\u8de8\u570b\u898f\u6a21\u64f4\u5927\uff0c\u65e2\u6709IT \u67b6\u69cb\u5df2\u96e3\u4ee5\u652f\u6490\u8907\u96dc\u7684\u8ca1\u52d9\u8207\u4eba\u8cc7\u6d41\u7a0b\uff0c\u56e0\u6b64\u745e\u6631\u555f\u52d5\u7d71\u4e00\u85aa\u916c\u7ba1\u7406\u5e73\u53f0\u5efa\u7f6e\uff0c\u4ee5\u63d0\u5347\u85aa\u8cc7\u3001\u8003\u52e4\u8207\u54e1\u5de5\u8cc7\u6599\u7ba1\u7406\u6548\u7387\uff0c\u6539\u5584\u5404\u5730\u6d41\u7a0b\u4e0d\u4e00\u81f4\u554f\u984c\uff0c\u4e26\u5f37\u5316 ...",
+    "title": "\u745e\u6631\u534a\u5c0e\u9ad4\u5ba3\u5e03\u5c0e\u5165SAP HCM \u91cd\u5851\u85aa\u8cc7\u7ba1\u7406\u6a21\u5f0f\u6253\u9020\u652f\u6301 ..."
    },
    "news.sap.com/taiwan/2026/11/realtek-implements-sap-hcm-to-transform-payroll-management?amp=1": {
     "baseline": false,
