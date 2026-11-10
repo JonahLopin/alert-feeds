@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 36755,
+  "credits_used": 36816,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-10T02:42:44Z",
+  "last_run": "2026-11-10T03:43:06Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 727
+  "runs": 728
  },
  "feeds": {
   "adp-help": {
@@ -15739,6 +15739,15 @@
     "page": 1,
     "summary": "His practice spans the full litigation lifecycle, from pleadings and discovery through depositions, expert challenges, summary judgment, and trial preparation.",
     "title": "Troutman Pepper Locke Lands Two Health Care Litigation ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trump-administration-asks-supreme-court-to-end-ballroom-dispute": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T03:43:06Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-administration-asks-supreme-court-to-end-ballroom-dispute",
+    "page": 2,
+    "summary": "The Trump administration says the US Supreme Court should allow it to proceed with White House ballroom construction without further delay in the lower ...",
+    "title": "Trump Administration Asks Supreme Court to End Ballroom ..."
    },
    "news.bloomberglaw.com/business-and-practice/trump-administration-escapes-black-ex-officials-race-bias-suit": {
     "baseline": false,
@@ -33391,6 +33400,15 @@
     "summary": "Here's how you can get the latest bank transactions, and select the right category for your bank transactions to accurately represent your income and expenses.",
     "title": "Categorize bank transactions in QuickBooks Solopreneur - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/remote-access/use-smartlook-share-screen-support-agents/L9qN7BuTP_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T03:43:06Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/remote-access/use-smartlook-share-screen-support-agents/L9qN7BuTP_US_en_US",
+    "page": 2,
+    "summary": "You can use Screen share to work with QuickBooks Live to help resolve issues and get help with migrations. There are two primary methods for screen sharing, ...",
+    "title": "Use Screen share with QuickBooks Support experts - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/report-management/customize-reports-create-custom-summary-reports/L55HEZScC_US_en_US": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -33722,6 +33740,15 @@
     "page": 1,
     "summary": "Two states start taxing software as a service (SaaS) on January 1, 2027: California and Colorado. and Illinois starts a new tax on targeted advertising. . The ...",
     "title": "Sales Tax Changes Taking Effect January 1, 2027"
+   },
+   "trykintsugi.com/blog/sales-tax-for-beauty-and-skincare-brands": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T03:43:06Z",
+    "link": "https://trykintsugi.com/blog/sales-tax-for-beauty-and-skincare-brands",
+    "page": 1,
+    "summary": "This guide walks through what changes as you scale: when you start owing tax in new states, which products are taxable, and how wholesale changes the picture.",
+    "title": "Sales Tax for Beauty and Skincare Brands"
    },
    "trykintsugi.com/blog/shopify-automated-filing-ending": {
     "baseline": false,
