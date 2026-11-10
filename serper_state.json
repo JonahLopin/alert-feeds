@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 37910,
+  "credits_used": 37971,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-10T21:42:38Z",
+  "last_run": "2026-11-10T22:43:05Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 746
+  "runs": 747
  },
  "feeds": {
   "adp-help": {
@@ -11921,6 +11921,15 @@
     "summary": "Dutch investors will likely ditch their cryptocurrency if the asset class is carved out of a shift to a new investor-friendly wealth tax, industry groups ...",
     "title": "Dutch Investors Poised to Flee Crypto Over Wealth-Tax ..."
    },
+   "news.bloomberglaw.com/business-and-practice/ecbs-cipollone-warns-of-delay-in-digital-euro-if-talks-drag-on": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-11-10T22:43:05Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ecbs-cipollone-warns-of-delay-in-digital-euro-if-talks-drag-on",
+    "page": 4,
+    "summary": "European Central Bank Executive Board member Piero Cipollone warned that the introduction of the digital euro could be delayed if talks needed to pass key ...",
+    "title": "ECB's Cipollone Warns of Delay in Digital Euro If Talks ..."
+   },
    "news.bloomberglaw.com/business-and-practice/edison-must-face-jury-over-equipments-role-in-massive-2025-fire": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -12037,6 +12046,15 @@
     "page": 3,
     "summary": "A federal judge refused to immediately halt the trading of so-called perpetual equity derivatives contracts, but signaled that she might ultimately rule in ...",
     "title": "Equity Perps Can Keep Trading, Judge Says, But Face ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/ethan-allen-names-former-neiman-marcus-executive-as-interim-ceo": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T22:43:05Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ethan-allen-names-former-neiman-marcus-executive-as-interim-ceo",
+    "page": 3,
+    "summary": "Ethan Allen Interiors Inc. has named former Neiman Marcus Group Ltd. executive Stefanie Tsen Ward as its interim chief executive officer and expanded its ...",
+    "title": "Ethan Allen Names Former Neiman Marcus Executive as ..."
    },
    "news.bloomberglaw.com/business-and-practice/eu-officials-propose-guardrails-for-insurance-risk-transfer-boom": {
     "baseline": false,
@@ -14508,6 +14526,15 @@
     "page": 4,
     "summary": "Lumentum Holdings Inc.'s optical components are \u201ccompletely sold out\u201d through early 2029 on demand from tech companies clamoring for faster AI data centers, ...",
     "title": "Nvidia-Backed Lumentum Sold Out of AI Server Parts Till ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/nvidia-board-members-tap-wachtell-lipton-to-probe-ceo-affair": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T22:43:05Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/nvidia-board-members-tap-wachtell-lipton-to-probe-ceo-affair",
+    "page": 2,
+    "summary": "Nvidia Corp.'s independent board members tapped the law firm Wachtell, Lipton, Rosen & Katz to help probe Chief Executive Officer Jensen Huang's ...",
+    "title": "Nvidia Board Members Tap Wachtell Lipton to Probe CEO ..."
    },
    "news.bloomberglaw.com/business-and-practice/nvidia-board-to-probe-spying-case-after-ceo-admits-infidelity": {
     "baseline": false,
@@ -68869,6 +68896,15 @@
     "page": 1,
     "summary": "Learn 3 tax automation benchmarks changing how leaders justify investment: 50% faster prep, $275K/year compliance savings, and $1.1M+ avoided headcount.",
     "title": "Tax automation benchmarks: 3 Metrics to justify investment"
+   },
+   "tax.thomsonreuters.com/blog/the-hidden-cost-of-manual-denied-party-screening": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-10T22:43:05Z",
+    "link": "https://tax.thomsonreuters.com/blog/the-hidden-cost-of-manual-denied-party-screening/",
+    "page": 1,
+    "summary": "Manual denied party screening hides four costs: false positives, inconsistent decisions, audit prep burden, and volume that outgrows your team.",
+    "title": "The hidden cost of manual denied party screening"
    },
    "tax.thomsonreuters.com/blog/the-impact-of-ai-on-the-tax-and-accounting-profession": {
     "baseline": false,
