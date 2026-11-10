@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-10T06:43:25Z</updated>
+  <updated>2026-11-10T07:43:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/clifford-chance-hires-sidleys-baker-for-sports-private-equity</id>
+    <title>Clifford Chance Hires Sidley's Baker for Sports Private Equity</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/clifford-chance-hires-sidleys-baker-for-sports-private-equity" />
+    <published>2026-11-10T07:43:05Z</published>
+    <updated>2026-11-10T07:43:05Z</updated>
+    <summary>Baker advises team owners, investors, private equity sponsors, leagues and sports-focused investment platforms across major professional sports leagues and ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/anthropic-plans-ipo-live-stream-with-amodei-jpmorgan-ceo-dimon</id>
     <title>Anthropic Plans IPO Live Stream With Amodei, JPMorgan ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T21:43:20Z</published>
     <updated>2026-11-06T21:43:20Z</updated>
     <summary>Nu Holdings Ltd. and Mercado Pago temporarily suspended some crypto operations because of problems with external providers, a week after hackers stole $6.3 ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESsAEBxCJF18sqJIGly6tkjtnA2_KU2jlb7KWslVU-fzHF4oeyrkPyF1qWdEi1irNXUsCPyikEhKLUxd-5BFeY8CgSN1IlvufmCRtGAAiZlc1BJ9eyNVihD0nL_dWAUceN7H9AJdRSVMsvn5v8TYKUpiBhanHn-Yf3C7tkeuHpGP8-_7d-zHU6Uob8y5sOfEeZAX8L-Q3cOAq6jvZ-wG-nskxBMlrOiORrJNHyyzQ2zNTtiw&amp;gsessionid=eI6TzOBCgTYa4YISvTMEpa0MrRBbOZKngMdxlTU1kl5MdYC5ZeS6Ig</id>
-    <title>Trump-Linked Crypto Firm Plans Token Buyback After ...</title>
-    <link href="https://www.google.com/goto?url=CAESsAEBxCJF18sqJIGly6tkjtnA2_KU2jlb7KWslVU-fzHF4oeyrkPyF1qWdEi1irNXUsCPyikEhKLUxd-5BFeY8CgSN1IlvufmCRtGAAiZlc1BJ9eyNVihD0nL_dWAUceN7H9AJdRSVMsvn5v8TYKUpiBhanHn-Yf3C7tkeuHpGP8-_7d-zHU6Uob8y5sOfEeZAX8L-Q3cOAq6jvZ-wG-nskxBMlrOiORrJNHyyzQ2zNTtiw&amp;gsessionid=eI6TzOBCgTYa4YISvTMEpa0MrRBbOZKngMdxlTU1kl5MdYC5ZeS6Ig" />
-    <published>2026-11-06T20:42:38Z</published>
-    <updated>2026-11-06T20:42:38Z</updated>
-    <summary>The Trump family crypto venture World Liberty Financial has announced a new buyback plan for its WLFI token after the price fell following this week's US ...</summary>
   </entry>
 </feed>

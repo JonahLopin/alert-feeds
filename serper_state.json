@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 37000,
+  "credits_used": 37061,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-10T06:43:25Z",
+  "last_run": "2026-11-10T07:43:05Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 731
+  "runs": 732
  },
  "feeds": {
   "adp-help": {
@@ -10825,6 +10825,15 @@
     "page": 2,
     "summary": "We know you're using AI. In fact, we expect you to. Using AI isn't something outside counsel needs to apologize for. Much of the legal work I did as a junior ...",
     "title": "Clients Want Law Firms to Use AI. But That's Not All They ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/clifford-chance-hires-sidleys-baker-for-sports-private-equity": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T07:43:05Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/clifford-chance-hires-sidleys-baker-for-sports-private-equity",
+    "page": 2,
+    "summary": "Baker advises team owners, investors, private equity sponsors, leagues and sports-focused investment platforms across major professional sports leagues and ...",
+    "title": "Clifford Chance Hires Sidley's Baker for Sports Private Equity"
    },
    "news.bloomberglaw.com/business-and-practice/clinic-violated-labor-law-during-union-election-nlrb-judge-says": {
     "baseline": false,
@@ -50704,6 +50713,15 @@
     "page": 2,
     "summary": "Learn how an AI recommendation system works and which type fits your store. Compare built-in, app, and custom options, then start with one placement.",
     "title": "AI Recommendation Systems: How They Work + Types ..."
+   },
+   "shopify.com/blog/ai-statistics": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-10T07:43:05Z",
+    "link": "https://www.shopify.com/blog/ai-statistics",
+    "page": 3,
+    "summary": "Discover the latest 2026 AI statistics and how to leverage them to personalize experiences, optimize ecommerce operations, and boost online sales.",
+    "title": "AI Statistics: Key Trends and Data for 2026"
    },
    "shopify.com/blog/ai-tools-for-ecommerce": {
     "baseline": false,
