@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 36938,
+  "credits_used": 37000,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-10T05:43:03Z",
+  "last_run": "2026-11-10T06:43:25Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 730
+  "runs": 731
  },
  "feeds": {
   "adp-help": {
@@ -10025,6 +10025,15 @@
     "page": 1,
     "summary": "According to Politico, the proposal suggests the government could block the release of an AI model if it's determined to imminently risk killing or injuring ...",
     "title": "Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says"
+   },
+   "news.bloomberglaw.com/business-and-practice/anthropic-plans-ipo-live-stream-with-amodei-jpmorgan-ceo-dimon": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T06:43:25Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/anthropic-plans-ipo-live-stream-with-amodei-jpmorgan-ceo-dimon",
+    "page": 2,
+    "summary": "Anthropic PBC is planning a live-streamed event, at which co-founder and Chief Executive Officer Dario Amodei will discuss the Claude chatbot maker's ...",
+    "title": "Anthropic Plans IPO Live Stream With Amodei, JPMorgan ..."
    },
    "news.bloomberglaw.com/business-and-practice/anthropic-results-may-aid-ipo-but-not-ai-trade-analysts-say": {
     "baseline": false,
@@ -50669,6 +50678,15 @@
     "summary": "AI marketing uses artificial intelligence tools to plan, create, and run marketing across channels. The goal is to get more out of the time and budget you ...",
     "title": "AI Marketing: How To Use AI Tools for Marketing (2026)"
    },
+   "shopify.com/blog/ai-marketing-tools": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-10T06:43:25Z",
+    "link": "https://www.shopify.com/blog/ai-marketing-tools",
+    "page": 5,
+    "summary": "Discover the top AI marketing tools for ecommerce in 2026. Boost sales and save time streamlining tasks like copywriting, image editing, ...",
+    "title": "15+ Best AI Marketing Tools for Ecommerce Now in 2026"
+   },
    "shopify.com/blog/ai-models": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -51089,6 +51107,15 @@
     "page": 2,
     "summary": "Everything you need to know about crowdfunding and how to transition from a successful crowdfunding campaign to a profitable, long-term business.",
     "title": "How to Crowdfund: Tips for a Successful Campaign (2026)"
+   },
+   "shopify.com/blog/cta-button-best-practices": {
+    "baseline": false,
+    "date_hint": "15 hours ago",
+    "first_seen": "2026-11-10T06:43:25Z",
+    "link": "https://www.shopify.com/blog/cta-button-best-practices",
+    "page": 2,
+    "summary": "CTA buttons guide customers through the marketing funnel. These link-based buttons take users from page to page and encourage them to complete actions like ...",
+    "title": "CTA Button Best Practices for Ecommerce Businesses (2026)"
    },
    "shopify.com/blog/curbside-pickup": {
     "baseline": false,
@@ -51601,6 +51628,15 @@
     "page": 4,
     "summary": "Learn how to make money with AI in 13 different ways, such as launching a product or scaling a services business, with startup costs for each.",
     "title": "How To Make Money With AI: 13 Ideas for 2026"
+   },
+   "shopify.com/blog/how-to-market-online-business": {
+    "baseline": false,
+    "date_hint": "15 hours ago",
+    "first_seen": "2026-11-10T06:43:25Z",
+    "link": "https://www.shopify.com/blog/how-to-market-online-business",
+    "page": 5,
+    "summary": "Marketing an online business means building a digital marketing strategy to promote your brand online, leveraging digital channels like organic search, ...",
+    "title": "How to Market an Online Business in 2026"
    },
    "shopify.com/blog/how-to-price-your-product": {
     "baseline": false,
@@ -56658,6 +56694,15 @@
     "page": 1,
     "summary": "Overview. SpotOn Order QR Codes provide guests with quick access to online ordering and Scan & Pay functionality. Merchants can generate QR codes for pickup ...",
     "title": "Generate Dine-In, Pickup, & Delivery SpotOn Order QR ..."
+   },
+   "help.spoton.com/space/SK/5333516293": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-10T06:43:25Z",
+    "link": "https://help.spoton.com/space/SK/5333516293",
+    "page": 1,
+    "summary": "The SpotOn Dashboard Tax Summary report shows your complete sales tax picture for any time period \u2014 what you earned, what was taxable, what tax was calculated ...",
+    "title": "Tax Summary Report | SpotOn Dashboard"
    },
    "help.spoton.com/space/SK/5529468936": {
     "baseline": false,
