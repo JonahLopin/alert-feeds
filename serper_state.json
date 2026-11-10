@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 37122,
+  "credits_used": 37183,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-10T08:43:07Z",
+  "last_run": "2026-11-10T09:43:05Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 733
+  "runs": 734
  },
  "feeds": {
   "adp-help": {
@@ -32694,6 +32694,15 @@
     "summary": "Your guide to the Evolution of QuickBooks Online Accountant: Updating to Intuit Accountant Suite \u2014 the right way, the first time. Easier than you'd expect.",
     "title": "Update from QuickBooks Online Accountant to Intuit ..."
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-account-management/getting-started-intuit-accountant-suite/L7UmR2gtO_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T09:43:05Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/intuit-account-management/getting-started-intuit-accountant-suite/L7UmR2gtO_US_en_US",
+    "page": 2,
+    "summary": "Intuit Accountant Suite (IAS) is a unified, AI-first platform that lets you manage clients, access innovations, and drive efficiency.",
+    "title": "Get started with Intuit Accountant Suite - QuickBooks"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-ai/ask-intuit-intelligence-help-common-tasks/L0ZIVPyns_US_en_US": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -50705,6 +50714,15 @@
     "summary": "ChatGPT is an AI assistant built by OpenAI that generates text, answers questions, writes content, and holds multiturn conversations based on natural ...",
     "title": "AI ChatGPT: 2026 Guide for Shopify Merchants"
    },
+   "shopify.com/blog/ai-customer-segmentation": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-10T09:43:05Z",
+    "link": "https://www.shopify.com/blog/ai-customer-segmentation",
+    "page": 5,
+    "summary": "Learn how to use AI customer segmentation to increase marketing ROI and customer lifetime value and deliver personalization at scale.",
+    "title": "AI Customer Segmentation: How It Works (2026)"
+   },
    "shopify.com/blog/ai-customer-service": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -50776,6 +50794,15 @@
     "page": 3,
     "summary": "Compare top AI tools for ecommerce by use case, pricing, and Shopify integration. Find the right AI for content, service, and personalization.",
     "title": "AI Tools for Ecommerce: 11 Best Options (2026) - Shopify"
+   },
+   "shopify.com/blog/ai-trends": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-10T09:43:05Z",
+    "link": "https://www.shopify.com/blog/ai-trends",
+    "page": 5,
+    "summary": "Discover the top AI trends shaping business in 2026. Learn how AI is transforming ecommerce, and get actionable insights for your online store.",
+    "title": "AI Trends in 2026: What Businesses Need to Know"
    },
    "shopify.com/blog/alabama-business-license": {
     "baseline": false,
@@ -52463,6 +52490,15 @@
     "page": 2,
     "summary": "How Ruggable used Reddit feedback to fix their product and drive 70% of revenue from a single innovation in just eight weeks.",
     "title": "Ruggable's Secret Weapon for Growth? The Internet's ..."
+   },
+   "shopify.com/blog/sales-methodology": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-11-10T09:43:05Z",
+    "link": "https://www.shopify.com/blog/sales-methodology",
+    "page": 1,
+    "summary": "Sales methodologies provide a rubric for talking to customers and guiding them towards conversion. Learn how different methodologies work.",
+    "title": "How Sales Methodology Works: 7 Useful ..."
    },
    "shopify.com/blog/sales-pitch": {
     "baseline": false,

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-11-10T03:43:06Z</updated>
+  <updated>2026-11-10T09:43:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/intuit-account-management/getting-started-intuit-accountant-suite/L7UmR2gtO_US_en_US</id>
+    <title>Get started with Intuit Accountant Suite - QuickBooks</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/intuit-account-management/getting-started-intuit-accountant-suite/L7UmR2gtO_US_en_US" />
+    <published>2026-11-10T09:43:05Z</published>
+    <updated>2026-11-10T09:43:05Z</updated>
+    <summary>Intuit Accountant Suite (IAS) is a unified, AI-first platform that lets you manage clients, access innovations, and drive efficiency.</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/remote-access/use-smartlook-share-screen-support-agents/L9qN7BuTP_US_en_US</id>
     <title>Use Screen share with QuickBooks Support experts - Intuit</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T18:43:21Z</published>
     <updated>2026-11-06T18:43:21Z</updated>
     <summary>Step-by-step: manage and track your work with projects and tasks — and avoid common mistakes. Do it in just a few clicks.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAES1AEBxCJF14B5_ayFfiqEKySDYPfaIDoE2_0HCNc-tEZoS5CtRXD99EswZQd5bihHwPhL777Bf5p4exluuY18JjuuBstpruLprx6eqlbPjawTVVCUS_MV85CA176rOLBqVfDf4cbrnSVr-12zQs1io8NPxh5XkWonOkkg0CtQ9CV9AJGHp-pLeckN9_oN46wMY_dga2Jpn-oVRSeig3TMsOLJcBh8nGe5dgZCdZOSq3GpmiBiZV7PfvdrmDxOs3i6ro0ax0J5S1JPEaHRzdfkPv4KfWpVVQ</id>
-    <title>Resolve a non-sufficient funds (NSF) hold on your payroll ...</title>
-    <link href="https://www.google.com/goto?url=CAES1AEBxCJF14B5_ayFfiqEKySDYPfaIDoE2_0HCNc-tEZoS5CtRXD99EswZQd5bihHwPhL777Bf5p4exluuY18JjuuBstpruLprx6eqlbPjawTVVCUS_MV85CA176rOLBqVfDf4cbrnSVr-12zQs1io8NPxh5XkWonOkkg0CtQ9CV9AJGHp-pLeckN9_oN46wMY_dga2Jpn-oVRSeig3TMsOLJcBh8nGe5dgZCdZOSq3GpmiBiZV7PfvdrmDxOs3i6ro0ax0J5S1JPEaHRzdfkPv4KfWpVVQ" />
-    <published>2026-11-06T18:43:21Z</published>
-    <updated>2026-11-06T18:43:21Z</updated>
-    <summary>An NSF (Non-Sufficient Funds) hold is the result of a failed payroll transaction. The failed payroll transaction is usually a paycheck and can be other payroll ...</summary>
   </entry>
 </feed>
