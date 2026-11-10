@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-10T15:43:15Z</updated>
+  <updated>2026-11-10T17:42:52Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/ecommerce-packaging</id>
+    <title>Product Packaging: Essential Tips for 2026</title>
+    <link href="https://www.shopify.com/blog/ecommerce-packaging" />
+    <published>2026-11-10T17:42:52Z</published>
+    <updated>2026-11-10T17:42:52Z</updated>
+    <summary>Learn how to create attractive product packaging that increases customer loyalty and boosts retention for your ecommerce business.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/how-to-choose-a-crm</id>
     <title>How To Choose a CRM System in 2026</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T22:42:52Z</published>
     <updated>2026-11-06T22:42:52Z</updated>
     <summary>Learn how to ship clothes in three easy steps and compare USPS and UPS rates by weight so apparel shipping costs stay predictable.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbQHEIkXXElIZFQVfSgng5960OgGz62oQbjTJma8K3kbleaXGKSmrRZbEQ2zEIgVkN_raLWvcFnabaR5FKgyXii9Lf3bXX1tfiuzXK11di_Fm2al5_19DYwOMbVMoI9nUqlbu2PvjRQp6Qu4i630</id>
-    <title>How To Buy a Domain Name Step by Step (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESbQHEIkXXElIZFQVfSgng5960OgGz62oQbjTJma8K3kbleaXGKSmrRZbEQ2zEIgVkN_raLWvcFnabaR5FKgyXii9Lf3bXX1tfiuzXK11di_Fm2al5_19DYwOMbVMoI9nUqlbu2PvjRQp6Qu4i630" />
-    <published>2026-11-06T22:42:52Z</published>
-    <updated>2026-11-06T22:42:52Z</updated>
-    <summary>The second-level domain is the name immediately to the left of the TLD. In Shopify.com, “Shopify” is the second-level domain. Together, “Shopify” and “.com” ...</summary>
   </entry>
 </feed>
