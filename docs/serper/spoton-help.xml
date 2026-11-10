@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-09T13:42:39Z</updated>
+  <updated>2026-11-10T05:43:03Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/1066992036/Loyalty+SpotOn+Dashboard</id>
+    <title>SpotOn Loyalty | SpotOn Dashboard</title>
+    <link href="https://help.spoton.com/space/SK/1066992036/Loyalty+SpotOn+Dashboard" />
+    <published>2026-11-10T05:43:03Z</published>
+    <updated>2026-11-10T05:43:03Z</updated>
+    <summary>The Loyalty page in your SpotOn Dashboard shows how your customers earn and redeem spots. You can also manage your loyalty program settings here.</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/4524900379/Timecards+%7C+Dashboard+%7C+SpotOn+Express</id>
     <title>Timecards | Dashboard | SpotOn Express</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T00:41:09Z</published>
     <updated>2026-10-31T00:41:09Z</updated>
     <summary>Find answers to common questions about SpotOn Marketing Assist, managing your campaigns, and updating your preferences. available 24/7 to help. Support at (877 ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVFPlwyyVRqbwtRn3va_oznIgGMrlYF-ajhS-cnu1oIGTRhkt2qf8LOIBJ0PsuR3xBpFbv0roLlTEeaS1t46S-YEzroMpeylqoQsOL_UbSXa2VvipFEwHORU2_h_Ge7saazw&amp;gsessionid=0L71pqcP43fmZEM6JzFFgDtZAIODurqsSj4-gpadKFSDRNkPwWj_qA</id>
-    <title>Open Items and Market Price | SpotOn Restaurant BOH</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVFPlwyyVRqbwtRn3va_oznIgGMrlYF-ajhS-cnu1oIGTRhkt2qf8LOIBJ0PsuR3xBpFbv0roLlTEeaS1t46S-YEzroMpeylqoQsOL_UbSXa2VvipFEwHORU2_h_Ge7saazw&amp;gsessionid=0L71pqcP43fmZEM6JzFFgDtZAIODurqsSj4-gpadKFSDRNkPwWj_qA" />
-    <published>2026-10-31T00:41:09Z</published>
-    <updated>2026-10-31T00:41:09Z</updated>
-    <summary>Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu price.</summary>
   </entry>
 </feed>

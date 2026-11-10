@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-09T23:43:06Z</updated>
+  <updated>2026-11-10T05:43:03Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/what-is-sme</id>
+    <title>What Is SME? How Small- and Medium-Sized Enterprises ...</title>
+    <link href="https://www.shopify.com/blog/what-is-sme" />
+    <published>2026-11-10T05:43:03Z</published>
+    <updated>2026-11-10T05:43:03Z</updated>
+    <summary>Small and medium-sized enterprises (SMEs) typically are businesses with fewer than 500 and 1,500 employees, respectively, and less than $47 million in annual ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/innovative-products</id>
     <title>Innovative Products: 35 Examples and Trends (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T21:43:20Z</published>
     <updated>2026-11-06T21:43:20Z</updated>
     <summary>Read real dropshipping success stories from Shopify store owners, with dated results and early failures, plus beginner tips for your own store.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbgHEIkXXKzUtahWWmzI1NIbd9V4xWc_ZiAxCCuD8M26i8AFswTPaGuCxsp_0B8V1m5lbUa4lYKwdTHYaUq4FASgbTgHxE12GK2v6vWeeOvrxgWRQmtKYP1aHg9vpuHoIUEedZfITf_SKZTb94yN0</id>
-    <title>Customer Acquisition: Strategy, Funnel, and CAC (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESbgHEIkXXKzUtahWWmzI1NIbd9V4xWc_ZiAxCCuD8M26i8AFswTPaGuCxsp_0B8V1m5lbUa4lYKwdTHYaUq4FASgbTgHxE12GK2v6vWeeOvrxgWRQmtKYP1aHg9vpuHoIUEedZfITf_SKZTb94yN0" />
-    <published>2026-11-06T21:43:20Z</published>
-    <updated>2026-11-06T21:43:20Z</updated>
-    <summary>Discover how customer acquisition works, from channels and funnel stages to 8 proven strategies, CAC benchmarks, metrics, and tools.</summary>
   </entry>
 </feed>
