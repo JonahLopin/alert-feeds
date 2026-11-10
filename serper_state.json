@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 36571,
+  "credits_used": 36632,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-09T23:43:06Z",
+  "last_run": "2026-11-10T00:40:42Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 724
+  "runs": 725
  },
  "feeds": {
   "adp-help": {
@@ -15451,6 +15451,15 @@
     "page": 3,
     "summary": "Senate Commerce Committee Chairman Ted Cruz is questioning whether investor recommendations by Glass Lewis & Co. and Institutional Shareholder Services Inc.",
     "title": "Ted Cruz Probes Glass Lewis, ISS After They Opposed ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/tenth-circuit-partly-backs-emporia-state-u-regents-over-firings": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T00:40:42Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/tenth-circuit-partly-backs-emporia-state-u-regents-over-firings",
+    "page": 4,
+    "summary": "A divided federal appeals court allowed Emporia State University administrators and Kansas Board of Regents members to escape some allegations that it ...",
+    "title": "Tenth Circuit Partly Backs Emporia State U, Regents Over ..."
    },
    "news.bloomberglaw.com/business-and-practice/tesla-spacex-deal-news-possible-this-year-barclays-analyst-says": {
     "baseline": false,
@@ -33390,6 +33399,15 @@
     "page": 1,
     "summary": "Use this feature to monitor real-time data, identify trends, and track progress against goals to make informed business decisions.",
     "title": "View key performance indicators for your business - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/sales-taxes/set-use-automated-sales-tax-quickbooks-online/L4Lx8eL7V_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T00:40:42Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/sales-taxes/set-use-automated-sales-tax-quickbooks-online/L4Lx8eL7V_US_en_US",
+    "page": 5,
+    "summary": "Step 1: Learn how QuickBooks calculates sales tax. Step 2: Tell QuickBooks where you collect sales tax. Step 3: Add tax categories to your products and services.",
+    "title": "Set up and use automated sales tax in QuickBooks Online - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/set-inventory-lists/set-inventory-conversion/L9OUrQZdv_US_en_US": {
     "baseline": false,
