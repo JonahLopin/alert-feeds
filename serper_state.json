@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 37545,
+  "credits_used": 37607,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-10T15:43:15Z",
+  "last_run": "2026-11-10T16:43:13Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 740
+  "runs": 741
  },
  "feeds": {
   "adp-help": {
@@ -34286,6 +34286,15 @@
    }
   },
   "ncr-voyix-press": {
+   "google.com/goto?url=CAEShgIBxCJF19CyAqp0f_WLgPlIcuxETBfe-WILgn4yZ1ridetTdqqoI2cqQN9NyVIJmYqRFnji_LkPhIoa6aM3aTFG07eadXQR90RrzWAaJoC_8i-Y7abQA2M90FbDzGrMrI8DWpcbt-01MSesNxUGq8GkSG22ot_oaUQmehI6c8a-zJ8AT16HSatsiJQRj3NQRreoPvORByDLVOEuGzsMyU94UT3GcBBUakrY61ZKAI1U0o-fLZQ6GEcO8wQgmGOkquYZX8j3WtILf63WMtrteO7xjBwellDC7eE01O5PPLe7_RXYhr5U5skKe-muSIMGzuWy4Hs37mHfqeDZ3Ir79cKctr_tFJkj&gsessionid=piuXhyuwwi3tewHB0bXgt3-lt-uRmf2wvvsRTqEto9W5qo13lTa0qQ": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-10T16:43:13Z",
+    "link": "https://www.google.com/goto?url=CAEShgIBxCJF19CyAqp0f_WLgPlIcuxETBfe-WILgn4yZ1ridetTdqqoI2cqQN9NyVIJmYqRFnji_LkPhIoa6aM3aTFG07eadXQR90RrzWAaJoC_8i-Y7abQA2M90FbDzGrMrI8DWpcbt-01MSesNxUGq8GkSG22ot_oaUQmehI6c8a-zJ8AT16HSatsiJQRj3NQRreoPvORByDLVOEuGzsMyU94UT3GcBBUakrY61ZKAI1U0o-fLZQ6GEcO8wQgmGOkquYZX8j3WtILf63WMtrteO7xjBwellDC7eE01O5PPLe7_RXYhr5U5skKe-muSIMGzuWy4Hs37mHfqeDZ3Ir79cKctr_tFJkj&gsessionid=piuXhyuwwi3tewHB0bXgt3-lt-uRmf2wvvsRTqEto9W5qo13lTa0qQ",
+    "page": 1,
+    "summary": "As President, Mr. Wilson will oversee the Company's Retail and Restaurant sales organizations, customer operations and support, product strategy and deployment, ...",
+    "title": "NCR Voyix Promotes Darren Wilson to President and ..."
+   },
    "ncrvoyix.com/newsroom/brusters-real-ice-cream-adopts-aloha-next-by-ncr-voyix-to-modernize-technology-across-its-230-stores": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -39382,6 +39391,24 @@
     "summary": "Steigern Sie Ihre Effizienz mit AI-powered Finance: Entdecken Sie innovative L\u00f6sungen f\u00fcr bessere Planung und Berichterstattung.",
     "title": "AI-powered Finance: Neue Funktionen von SAP"
    },
+   "news.sap.com/germany/2026/11/sap-und-astrazeneca-vertiefen-zusammenarbeit-mit-rise-with-sap-und-business-ai": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T16:43:13Z",
+    "link": "https://news.sap.com/germany/2026/11/sap-und-astrazeneca-vertiefen-zusammenarbeit-mit-rise-with-sap-und-business-ai/",
+    "page": 2,
+    "summary": "Zu den Schwerpunkten z\u00e4hlen Onkologie und seltene Erkrankungen sowie die Bereiche Herz-Kreislauf, Niere und Stoffwechsel sowie Atemwegs- und Immunerkrankungen.",
+    "title": "AstraZeneca setzt auf RISE with SAP Cloud ERP"
+   },
+   "news.sap.com/germany/2026/11/sap-und-astrazeneca-vertiefen-zusammenarbeit-mit-rise-with-sap-und-business-ai?amp=1": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-10T16:43:13Z",
+    "link": "https://news.sap.com/germany/2026/11/sap-und-astrazeneca-vertiefen-zusammenarbeit-mit-rise-with-sap-und-business-ai/?amp=1",
+    "page": 2,
+    "summary": "Zu den Schwerpunkten z\u00e4hlen Onkologie und seltene Erkrankungen sowie die Bereiche Herz-Kreislauf, Niere und Stoffwechsel sowie Atemwegs- und Immunerkrankungen.",
+    "title": "AstraZeneca setzt auf RISE with SAP Cloud ERP"
+   },
    "news.sap.com/germany/2026/11/sap-und-hpe-tabellarische-ki-weltraum": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -40325,6 +40352,15 @@
     "page": 2,
     "summary": "SAP wil zijn AI-model SAP-RPT uiterlijk begin 2027 inzetten aan boord van het internationale ruimtestation ISS. Het model gaat draaien op de Spaceborne ...",
     "title": "Van ruimtestation naar bedrijfsleven: SAP en HPE testen AI ..."
+   },
+   "news.sap.com/netherlands/2026/11/van-slimme-assistent-tot-digitale-collega-hoe-ai-het-bedrijfsleven-ingrijpend-verandert": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-10T16:43:13Z",
+    "link": "https://news.sap.com/netherlands/2026/11/van-slimme-assistent-tot-digitale-collega-hoe-ai-het-bedrijfsleven-ingrijpend-verandert/",
+    "page": 2,
+    "summary": "Veel bedrijven gebruiken AI vandaag vooral om individuele taken sneller uit te voeren. Volgens Van der Biest moeten organisaties verder kijken dan die ...",
+    "title": "Van slimme assistent tot digitale collega: hoe AI het ..."
    },
    "news.sap.com/netherlands/2026/11/van-slimme-assistent-tot-digitale-collega-hoe-ai-het-bedrijfsleven-ingrijpend-verandert?amp=1": {
     "baseline": false,
@@ -68710,6 +68746,15 @@
    }
   },
   "vertex-press": {
+   "vertexinc.com/company/news/latest-news/only-one-six-enterprises-treats-indirect-tax-standing-board-item": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-10T16:43:13Z",
+    "link": "https://www.vertexinc.com/company/news/latest-news/only-one-six-enterprises-treats-indirect-tax-standing-board-item",
+    "page": 1,
+    "summary": "Vertex's 2026 CompOps\u2122 Index reveals a gap in tax governance, with only 1 in 6 enterprises giving indirect tax compliance a regular place on board agendas.",
+    "title": "Only 1 in 6 Enterprises Prioritize Tax at Board Level"
+   },
    "vertexinc.com/company/news/latest-news/vertex-ai-and-data-leader-sarah-vlasic-named-2026-info-tech-women-leading-it-award-winner": {
     "baseline": false,
     "date_hint": "1 hour ago",
