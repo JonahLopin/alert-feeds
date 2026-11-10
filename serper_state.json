@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 37244,
+  "credits_used": 37304,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-10T10:43:03Z",
+  "last_run": "2026-11-10T11:42:48Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 735
+  "runs": 736
  },
  "feeds": {
   "adp-help": {
@@ -38265,6 +38265,15 @@
     "page": 1,
     "summary": "It enables organizations to create AI agents and workflow automations to streamline operations across finance, sales, HR, IT, and customer support. Use cases ...",
     "title": "Cohere North Generally Available on SAP Business AI ..."
+   },
+   "news.sap.com/2026/11/sap-expands-collaboration-astrazeneca-rise-with-sap-business-ai": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-10T11:42:48Z",
+    "link": "https://news.sap.com/2026/11/sap-expands-collaboration-astrazeneca-rise-with-sap-business-ai/",
+    "page": 1,
+    "summary": "AstraZeneca is a global, science-led biopharmaceutical company focused on the discovery, development and commercialization of prescription medicines in oncology ...",
+    "title": "AstraZeneca to Adopt RISE with SAP and Business AI"
    },
    "news.sap.com/2026/11/sap-fieldglass-stands-out-2026-sia-vms-landscape": {
     "baseline": false,
