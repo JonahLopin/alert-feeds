@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com)</title>
-  <updated>2026-11-09T22:23:06Z</updated>
+  <updated>2026-11-10T01:06:56Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sap-financial-management-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8975093700862825550</id>
+    <title>banking - SAP News</title>
+    <link href="https://news.sap.com/australia/tag/banking/" />
+    <published>2026-11-10T01:06:56Z</published>
+    <updated>2026-11-10T01:06:56Z</updated>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:3849631387728910542</id>
     <title>Gartner Names SAP a Leader in Service-Centric ERP</title>
