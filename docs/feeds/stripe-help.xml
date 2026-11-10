@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-10T10:44:33Z</updated>
+  <updated>2026-11-10T20:44:27Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:3086239793551697411</id>
+    <title>Enums | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/enums?api-version=2026-10-28.preview" />
+    <published>2026-11-10T20:44:27Z</published>
+    <updated>2026-11-10T20:44:27Z</updated>
+    <summary>Some properties on API resources use a fixed set of possible string values, which are known as enums. Enums can be closed or open: Closed: The set of ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:471714446565255243</id>
     <title>Run a SQL query - Stripe Documentation</title>
@@ -795,13 +803,5 @@
     <published>2026-10-17T22:43:04Z</published>
     <updated>2026-10-17T22:43:04Z</updated>
     <summary>Attributes · idstring. Unique identifier for the object. · objectstring, value is "radar.early_fraud_warning" · actionableboolean. An EFW is actionable ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:3868782616282525844</id>
-    <title>Pay machine-payment businesses - Stripe Documentation</title>
-    <link href="https://docs.stripe.com/agentic-commerce/agents/link-agent-wallet/machine-payments" />
-    <published>2026-10-16T22:44:10Z</published>
-    <updated>2026-10-16T22:44:10Z</updated>
-    <summary>Use Link Agent Wallet to answer an 402 payment challenge with a shared payment token and complete a machine payment.</summary>
   </entry>
 </feed>
