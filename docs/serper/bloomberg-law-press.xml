@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-11T02:42:38Z</updated>
+  <updated>2026-11-11T05:43:06Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/oklahoma-senators-opposition-imperils-trump-trial-court-pick</id>
+    <title>Oklahoma Senator's Opposition Imperils Trump Trial Court ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/oklahoma-senators-opposition-imperils-trump-trial-court-pick" />
+    <published>2026-11-11T05:43:06Z</published>
+    <updated>2026-11-11T05:43:06Z</updated>
+    <summary>Alan Armstrong (R-Okla.) reversed course to oppose a Trump judicial nominee for his state as Senate Republicans scramble to confirm as many picks as possible ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/kennedy-family-seeks-to-intervene-in-fight-to-block-trump-arch</id>
     <title>Kennedy Family Seeks to Intervene in Fight to Block Trump ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-09T11:42:46Z</published>
     <updated>2026-11-09T11:42:46Z</updated>
     <summary>Hunter Button first learned about prediction markets the way most people did — through elections. He started by hedging his vote on the 2020 presidential ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/crypto-exemption-will-test-secs-authority-to-rein-in-states</id>
-    <title>Crypto Exemption Will Test SEC's Authority to Rein in States</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/crypto-exemption-will-test-secs-authority-to-rein-in-states" />
-    <published>2026-11-09T11:42:46Z</published>
-    <updated>2026-11-09T11:42:46Z</updated>
-    <summary>The SEC's proposal to exempt certain digital asset offerings from securities registration requirements would attempt to preempt state laws to the contrary, ...</summary>
   </entry>
 </feed>

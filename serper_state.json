@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 38336,
+  "credits_used": 38398,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-11T04:42:55Z",
+  "last_run": "2026-11-11T05:43:06Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 753
+  "runs": 754
  },
  "feeds": {
   "adp-help": {
@@ -689,6 +689,15 @@
     "page": 1,
     "summary": "Noting ADP's strengths, NelsonHall recognized ADP's ability to combine global payroll with workforce management, support enterprise delivery at scale, configure ...",
     "title": "NelsonHall and Everest Group Recognize ADP as a ..."
+   },
+   "mediacenter.adp.com/power-of-data-full-panel": {
+    "baseline": false,
+    "date_hint": "15 hours ago",
+    "first_seen": "2026-11-11T05:43:06Z",
+    "link": "https://mediacenter.adp.com/power-of-data-full-panel",
+    "page": 1,
+    "summary": "It's like the ingredients and a meal. What data is is feeding into it? What context does it have? focused on global data privacy. We call this in privacy data ...",
+    "title": "Understanding The Power of Data"
    },
    "mediacenter.adp.com/the-power-of-data": {
     "baseline": false,
@@ -14743,6 +14752,15 @@
     "summary": "A federal appeals panel appeared unlikely to reverse a lower court's default judgment against a California oil company for violating Ventura County's zoning ...",
     "title": "Oil Company Unlikely to Revive Suit Against California ..."
    },
+   "news.bloomberglaw.com/business-and-practice/oklahoma-senators-opposition-imperils-trump-trial-court-pick": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-11T05:43:06Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/oklahoma-senators-opposition-imperils-trump-trial-court-pick",
+    "page": 1,
+    "summary": "Alan Armstrong (R-Okla.) reversed course to oppose a Trump judicial nominee for his state as Senate Republicans scramble to confirm as many picks as possible ...",
+    "title": "Oklahoma Senator's Opposition Imperils Trump Trial Court ..."
+   },
    "news.bloomberglaw.com/business-and-practice/omni-bridgeway-investment-report-sees-growth-litigation-finance": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -23989,6 +24007,15 @@
     "page": 1,
     "summary": "Today, DoorDash announced that WNBA star Paige Bueckers will be the first-ever athlete to take on a Creative Director role with the brand.",
     "title": "Paige Bueckers Joins DoorDash as Creative Director for ..."
+   },
+   "about.doordash.com/en-us/news/prop-22-decision": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-11T05:43:06Z",
+    "link": "https://about.doordash.com/en-us/news/prop-22-decision",
+    "page": 1,
+    "summary": "Prop 22 remains the law of the land in California, and Dashers can continue to set their own hours, earn flexibly, and receive the other benefits and ...",
+    "title": "California Supreme Court Upholds Prop 22, Protecting ..."
    },
    "about.doordash.com/en-us/news/snap-report-2026": {
     "baseline": false,
@@ -52115,6 +52142,15 @@
     "page": 3,
     "summary": "Shopify is an all-in-one ecommerce CMS solution designed to help store owners easily build and manage their online businesses. With affordable plans, beautiful ...",
     "title": "Best Ecommerce CMS Platforms 2026: Top 9 Solutions"
+   },
+   "shopify.com/blog/ecommerce-gamification": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-11T05:43:06Z",
+    "link": "https://www.shopify.com/blog/ecommerce-gamification",
+    "page": 2,
+    "summary": "What is ecommerce gamification? Ecommerce gamification is a marketing strategy where an ecommerce business creates game-like experiences to engage customers and ...",
+    "title": "Ecommerce Gamification: 10 Examples and Techniques"
    },
    "shopify.com/blog/ecommerce-laws": {
     "baseline": false,
