@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 38759,
+  "credits_used": 38818,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-11T11:42:33Z",
+  "last_run": "2026-11-11T12:42:34Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 760
+  "runs": 761
  },
  "feeds": {
   "adp-help": {
@@ -14490,6 +14490,15 @@
     "page": 1,
     "summary": "The US District Court for the District of New Mexico last month granted a chemical industry coalition's request to temporarily block New Mexico's PFAS labeling ...",
     "title": "New Mexico Appeals Preliminary Injunction on PFAS Label ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/new-mexico-senator-pushes-permitting-bill-despite-states-qualms": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-11T12:42:34Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/new-mexico-senator-pushes-permitting-bill-despite-states-qualms",
+    "page": 1,
+    "summary": "New Mexico Sen. Martin Heinrich has emerged as one of the key Democrats on Capitol Hill pushing permitting reform legislation.",
+    "title": "New Mexico Senator Pushes Permitting Bill Despite State's ..."
    },
    "news.bloomberglaw.com/business-and-practice/new-york-ag-biased-in-cornell-rape-case-gop-challenger-says": {
     "baseline": false,
@@ -38769,6 +38778,15 @@
     "page": 2,
     "summary": "To evaluate and deploy CRM and ERP independently leaves a structural gap in the information available to customer-facing employees.",
     "title": "Why Enterprises Don't Evaluate CRM in Isolation"
+   },
+   "news.sap.com/2026/11/abap-platform-becoming-enterprise-grade-execution-backbone-agentic-ai": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-11T12:42:34Z",
+    "link": "https://news.sap.com/2026/11/abap-platform-becoming-enterprise-grade-execution-backbone-agentic-ai/",
+    "page": 2,
+    "summary": "Find out how ABAP platform is transforming the way enterprises leverage agentic AI with insights from SAP's Sonja Li\u00e9nard. Read more.",
+    "title": "ABAP Platform Becoming Execution Backbone for Agentic AI"
    },
    "news.sap.com/2026/11/ai-transformation-guidance-for-every-customer": {
     "baseline": false,

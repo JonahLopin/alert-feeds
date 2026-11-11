@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-11T09:43:18Z</updated>
+  <updated>2026-11-11T12:42:34Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/2026/11/abap-platform-becoming-enterprise-grade-execution-backbone-agentic-ai/</id>
+    <title>ABAP Platform Becoming Execution Backbone for Agentic AI</title>
+    <link href="https://news.sap.com/2026/11/abap-platform-becoming-enterprise-grade-execution-backbone-agentic-ai/" />
+    <published>2026-11-11T12:42:34Z</published>
+    <updated>2026-11-11T12:42:34Z</updated>
+    <summary>Find out how ABAP platform is transforming the way enterprises leverage agentic AI with insights from SAP's Sonja Liénard. Read more.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/latinamerica/2026/11/farmacia-san-pablo-y-sap-impulsan-una-nueva-era-en-la-experiencia-del-cliente-en-el-sector-farmaceutico/</id>
     <title>Farmacia San Pablo y SAP impulsan una nueva era en la ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T10:42:43Z</published>
     <updated>2026-11-06T10:42:43Z</updated>
     <summary>SAP Business One이 올해 30주년을 맞았습니다. 중소중견기업용 전사적 자원관리(ERP) 소프트웨어인 이 제품의 고객 유지율은 90%대 후반입니다. 고객이 떠나는 경우는 ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESiAEBxCJF129szUHkCE8ctSOmXrM2-6tSSBAgjs6Hyp86Emamlpr4Yogg8yYkI45sPLjTU89Y5IWDbQjVvM_73Eq7ztCRM3u52jGJWlZiZrzZIzjWuydacsgP_4QTKs6jwAtrozn4w4QfhuJEoaztZ2kVTzagfj7LGgGcwS_pS3ZgvtdAr6ECb39h</id>
-    <title>SAP Business One: 30 Years of Growing Together</title>
-    <link href="https://www.google.com/goto?url=CAESiAEBxCJF129szUHkCE8ctSOmXrM2-6tSSBAgjs6Hyp86Emamlpr4Yogg8yYkI45sPLjTU89Y5IWDbQjVvM_73Eq7ztCRM3u52jGJWlZiZrzZIzjWuydacsgP_4QTKs6jwAtrozn4w4QfhuJEoaztZ2kVTzagfj7LGgGcwS_pS3ZgvtdAr6ECb39h" />
-    <published>2026-11-06T10:42:43Z</published>
-    <updated>2026-11-06T10:42:43Z</updated>
-    <summary>For 30 years, SAP Business One has been growing alongside small- and medium-sized customers. Read to learn more about the solution.</summary>
   </entry>
 </feed>
