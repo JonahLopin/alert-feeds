@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-11T19:43:05Z</updated>
+  <updated>2026-11-11T20:57:16Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/seo-strategies-small-businesses</id>
+    <title>Best SEO Strategies for Small Businesses in 2026</title>
+    <link href="https://www.shopify.com/blog/seo-strategies-small-businesses" />
+    <published>2026-11-11T20:57:16Z</published>
+    <updated>2026-11-11T20:57:16Z</updated>
+    <summary>Effective SEO strategies allow small businesses to reach their target audiences via search engines, whether that's local shoppers or a niche market.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/split-order</id>
     <title>Split Order (Split Shipment): Causes &amp; Fixes (2027)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-07T05:23:15Z</published>
     <updated>2026-11-07T05:23:15Z</updated>
     <summary>Learn how long it takes to build a website, including choosing a platform to launch and the factors that speed up or delay your timeline.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/brand-positioning-map</id>
-    <title>How To Create a Brand Positioning Map (2026)</title>
-    <link href="https://www.shopify.com/blog/brand-positioning-map" />
-    <published>2026-11-07T05:23:15Z</published>
-    <updated>2026-11-07T05:23:15Z</updated>
-    <summary>A brand positioning map can help you identify how to set your business apart from competitors. Learn how to make and use one for your brand strategy.</summary>
   </entry>
 </feed>

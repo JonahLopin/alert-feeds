@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 39234,
+  "credits_used": 39295,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-11T19:43:05Z",
+  "last_run": "2026-11-11T20:57:16Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 768
+  "runs": 769
  },
  "feeds": {
   "adp-help": {
@@ -11499,6 +11499,15 @@
     "summary": "A defunct Chicago law firm's retirement plan paid out nearly $6.5 million in assets to 40 employees after the US Department of Labor alleged its fiduciaries ...",
     "title": "Defunct Law Firm's Retirement Plan Pays Out Funds After ..."
    },
+   "news.bloomberglaw.com/business-and-practice/delaware-voters-file-federal-suit-for-extra-member-of-congress": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-11T20:57:16Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/delaware-voters-file-federal-suit-for-extra-member-of-congress",
+    "page": 3,
+    "summary": "A federal lawsuit filed Wednesday seeks to double Delaware's power in the US House of Representatives, where it only has one member.",
+    "title": "Delaware Voters File Federal Suit for Extra Member of ..."
+   },
    "news.bloomberglaw.com/business-and-practice/delawares-ai-run-company-proposal-draws-congressional-scrutiny": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -12773,6 +12782,15 @@
     "page": 3,
     "summary": "More than half a dozen states sued OpenAI Inc. Wednesday alleging the tech giant didn't implement sufficient safeguards to protect vulnerable users, ...",
     "title": "Half-Dozen States Hit OpenAI With Kids Online Safety ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/harley-davidson-hit-with-proposed-class-action-after-data-breach": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-11T20:57:16Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/harley-davidson-hit-with-proposed-class-action-after-data-breach",
+    "page": 3,
+    "summary": "A former Harley-Davidson Inc. employee sued the motorcycle maker over a September ransomware attack in which a criminal hacking group stole roughly 270 ...",
+    "title": "Harley-Davidson Hit With Proposed Class Action After Data ..."
    },
    "news.bloomberglaw.com/business-and-practice/harvard-wins-dismissal-of-us-suit-over-admissions-race-data-1": {
     "baseline": false,
@@ -14940,6 +14958,15 @@
     "page": 1,
     "summary": "US Patent and Trademark Office Director John Squires rejected a bid to invalidate a blind fastener patent because of the petitioner's ties to China's ...",
     "title": "Patent Chief Denies Challenge Over Ties to China's ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/patent-office-director-loosens-grip-on-patent-challenge-review": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-11T20:57:16Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/patent-office-director-loosens-grip-on-patent-challenge-review",
+    "page": 2,
+    "summary": "The US Patent and Trademark Office said Tuesday it will restore the authority of the Patent Trial and Appeal Board to institute Inter Partes Review and ...",
+    "title": "Patent Office Director Loosens Grip on Patent Challenge ..."
    },
    "news.bloomberglaw.com/business-and-practice/paul-hastings-hires-dla-pipers-omran-for-brussels-and-london": {
     "baseline": false,
@@ -53724,6 +53751,15 @@
     "summary": "Discover 17 secret websites to make money online, from survey apps to gig platforms, including current pay rates, payout minimums, and fees.",
     "title": "17 Secret Websites to Make Money Online in 2026"
    },
+   "shopify.com/blog/seo-strategies-small-businesses": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-11T20:57:16Z",
+    "link": "https://www.shopify.com/blog/seo-strategies-small-businesses",
+    "page": 1,
+    "summary": "Effective SEO strategies allow small businesses to reach their target audiences via search engines, whether that's local shoppers or a niche market.",
+    "title": "Best SEO Strategies for Small Businesses in 2026"
+   },
    "shopify.com/blog/seo-url": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -57919,6 +57955,15 @@
     "summary": "SpotOn Express Dashboard gives you a centralized view of your restaurant's performance, helping you track sales, payments, labor, and payroll data in one place.",
     "title": "Reports | Dashboard | SpotOn Express"
    },
+   "help.spoton.com/space/SK/4514021383": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-11T20:57:16Z",
+    "link": "https://help.spoton.com/space/SK/4514021383",
+    "page": 1,
+    "summary": "The SpotOn Dashboard Accounting Summary report provides a detailed snapshot of your restaurant's sales performance for a selected date range. It brings together ...",
+    "title": "Accounting Summary | SpotOn Dashboard"
+   },
    "help.spoton.com/space/SK/4514021383/Accounting+Summary+%7C+SpotOn+Dashboard": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -59292,6 +59337,15 @@
     "page": 1,
     "summary": "With Stripe Fundraising, you create a board consent to approve a round of fundraising, and then send Simple Agreements for Future Equity (SAFEs) to investors.",
     "title": "Fundraise with SAFEs"
+   },
+   "docs.stripe.com/get-started/account/orgs/build?locale=id-ID": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-11T20:57:16Z",
+    "link": "https://docs.stripe.com/get-started/account/orgs/build?locale=id-ID",
+    "page": 1,
+    "summary": "Buat organisasi, kelola akun Anda dari satu lokasi di Stripe Dashboard. Setelah membuat organisasi, Anda dapat mengundang anggota tim tambahan untuk ...",
+    "title": "Bangun sebuah organisasi | Dokumentasi Stripe"
    },
    "docs.stripe.com/global-payouts/recipient-countries": {
     "baseline": false,

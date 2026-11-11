@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-11T02:42:38Z</updated>
+  <updated>2026-11-11T20:57:16Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/get-started/account/orgs/build?locale=id-ID</id>
+    <title>Bangun sebuah organisasi | Dokumentasi Stripe</title>
+    <link href="https://docs.stripe.com/get-started/account/orgs/build?locale=id-ID" />
+    <published>2026-11-11T20:57:16Z</published>
+    <updated>2026-11-11T20:57:16Z</updated>
+    <summary>Buat organisasi, kelola akun Anda dari satu lokasi di Stripe Dashboard. Setelah membuat organisasi, Anda dapat mengundang anggota tim tambahan untuk ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/extensions/scripts/monitor-and-debug</id>
     <title>Monitor and debug scripts</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T14:42:45Z</published>
     <updated>2026-11-06T14:42:45Z</updated>
     <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdQHEIkXXy_CRDyT-gKNW9Sr1N00eQdTFcfCl_PXe_4zFYGcBbYHR4cMh53DUVc5u5vq6FAfxXzgRxZJ9ZmyiOSsRYZzbMN8Be0C_chdIHLKwS7F83KwcgxtHwij0vmNjGkelswuQ8SLRFUX4X2p06Lm2qsds5Q</id>
-    <title>Test stablecoin-backed cards</title>
-    <link href="https://www.google.com/goto?url=CAESdQHEIkXXy_CRDyT-gKNW9Sr1N00eQdTFcfCl_PXe_4zFYGcBbYHR4cMh53DUVc5u5vq6FAfxXzgRxZJ9ZmyiOSsRYZzbMN8Be0C_chdIHLKwS7F83KwcgxtHwij0vmNjGkelswuQ8SLRFUX4X2p06Lm2qsds5Q" />
-    <published>2026-11-06T14:42:45Z</published>
-    <updated>2026-11-06T14:42:45Z</updated>
-    <summary>Set up connected Stripe and Bridge sandboxes, fund test wallets on testnets, and simulate authorizations for stablecoin-backed cards.</summary>
   </entry>
 </feed>

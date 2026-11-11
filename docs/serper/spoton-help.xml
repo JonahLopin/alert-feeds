@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-11T16:43:26Z</updated>
+  <updated>2026-11-11T20:57:16Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/4514021383</id>
+    <title>Accounting Summary | SpotOn Dashboard</title>
+    <link href="https://help.spoton.com/space/SK/4514021383" />
+    <published>2026-11-11T20:57:16Z</published>
+    <updated>2026-11-11T20:57:16Z</updated>
+    <summary>The SpotOn Dashboard Accounting Summary report provides a detailed snapshot of your restaurant's sales performance for a selected date range. It brings together ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/4514021383/Accounting+Summary+%7C+SpotOn+Dashboard</id>
     <title>Accounting Summary | SpotOn Dashboard</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T02:42:41Z</published>
     <updated>2026-10-31T02:42:41Z</updated>
     <summary>Overview. Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVZEVa5jpLeE7O_12DZRO0i9cy7Tbq6UN-ZyhcyZB3XQIYg4PBJ16biFPCE3J4PuZw8FxKO7hv_SFuRoJFTyi-TA73ztpM56Cw08G1T9vdolxoikHkDyJGv6cNlbRgFaNViQ</id>
-    <title>Tip Adjustments | SpotOn Express</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVZEVa5jpLeE7O_12DZRO0i9cy7Tbq6UN-ZyhcyZB3XQIYg4PBJ16biFPCE3J4PuZw8FxKO7hv_SFuRoJFTyi-TA73ztpM56Cw08G1T9vdolxoikHkDyJGv6cNlbRgFaNViQ" />
-    <published>2026-10-31T02:42:41Z</published>
-    <updated>2026-10-31T02:42:41Z</updated>
-    <summary>Adjust Tip: You can adjust the tip within 10 minutes of the initial change. If you entered the wrong tip, correct it here. Changes apply to the customer only ...</summary>
   </entry>
 </feed>
