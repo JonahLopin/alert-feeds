@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-10T20:44:27Z</updated>
+  <updated>2026-11-11T02:24:07Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:5498119005365095702</id>
+    <title>Monitor and debug scripts - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/extensions/scripts/monitor-and-debug" />
+    <published>2026-11-11T02:24:07Z</published>
+    <updated>2026-11-11T02:24:07Z</updated>
+    <summary>You can use Workbench to inspect extension runs and troubleshoot failures. For Billing extensions, you can also receive email or event ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:3086239793551697411</id>
     <title>Enums | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-17T22:43:04Z</published>
     <updated>2026-10-17T22:43:04Z</updated>
     <summary>Setting up · The Elements object · The Element · Embedded Checkout · Checkout · React Stripe.js · Payment Intents · Setup Intents.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:13168888411314708221</id>
-    <title>The Early Fraud Warning object | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/radar/early_fraud_warnings/object?api-version=2026-09-30.preview" />
-    <published>2026-10-17T22:43:04Z</published>
-    <updated>2026-10-17T22:43:04Z</updated>
-    <summary>Attributes · idstring. Unique identifier for the object. · objectstring, value is "radar.early_fraud_warning" · actionableboolean. An EFW is actionable ...</summary>
   </entry>
 </feed>
