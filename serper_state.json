@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 38579,
+  "credits_used": 38639,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-11T08:42:44Z",
+  "last_run": "2026-11-11T09:43:18Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 757
+  "runs": 758
  },
  "feeds": {
   "adp-help": {
@@ -32768,6 +32768,15 @@
     "summary": "The chart of accounts is the foundation of your company's accounting. When you create a new account, you must select an account type and a detail type.",
     "title": "Account type and detail types in QuickBooks Online - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/chart-of-accounts/clean-chart-accounts-quickbooks-online/L5aVdBfnq_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-11T09:43:18Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/chart-of-accounts/clean-chart-accounts-quickbooks-online/L5aVdBfnq_US_en_US",
+    "page": 5,
+    "summary": "Learn how to use the Chart of Accounts Cleanup tool to find and fix duplicate, misnamed, and unused accounts. QuickBooks works best when your transactions ...",
+    "title": "Clean up your chart of accounts in QuickBooks Online - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/client-relationships/create-send-proposals/L6nlEXigC_US_en_US": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -40551,6 +40560,15 @@
     "page": 3,
     "summary": "La escuder\u00eda llega al Gran Premio de la Ciudad de M\u00e9xico, del 30 de octubre al 1 de noviembre, como l\u00edder del campeonato de constructores que usa soluciones ...",
     "title": "Mercedes-AMG PETRONAS llega a M\u00e9xico al frente del ..."
+   },
+   "news.sap.com/latinamerica/2026/11/farmacia-san-pablo-y-sap-impulsan-una-nueva-era-en-la-experiencia-del-cliente-en-el-sector-farmaceutico": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-11T09:43:18Z",
+    "link": "https://news.sap.com/latinamerica/2026/11/farmacia-san-pablo-y-sap-impulsan-una-nueva-era-en-la-experiencia-del-cliente-en-el-sector-farmaceutico/",
+    "page": 3,
+    "summary": "En este contexto, Farmacia San Pablo y SAP comparten c\u00f3mo la integraci\u00f3n de datos, tecnolog\u00eda e inteligencia artificial est\u00e1 transformando su cadena de ...",
+    "title": "Farmacia San Pablo y SAP impulsan una nueva era en la ..."
    },
    "news.sap.com/latinamerica/2026/11/farmacia-san-pablo-y-sap-impulsan-una-nueva-era-en-la-experiencia-del-cliente-en-el-sector-farmaceutico?amp=1": {
     "baseline": false,
@@ -73852,6 +73870,15 @@
     "page": 1,
     "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information, software solutions and services for professionals in healthcare; tax and accounting;",
     "title": "Wolters Kluwer and Vanderbilt University collaborate on ..."
+   },
+   "wolterskluwer.com/en/news/vha-turns-to-wolters-kluwer-to-harmonize-veterans-healthcare-nationwide": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-11T09:43:18Z",
+    "link": "https://www.wolterskluwer.com/en/news/vha-turns-to-wolters-kluwer-to-harmonize-veterans-healthcare-nationwide",
+    "page": 4,
+    "summary": "Wolters Kluwer digital technology and expert solutions also support the VHA in its role as the nation's largest provider of graduate medical education and as a ...",
+    "title": "VHA Turns to Wolters Kluwer to Harmonize Veterans ..."
    },
    "wolterskluwer.com/en/news/with-batwing-mastopexy-more-women-can-undergo-nipple-sparing-mastectomy": {
     "baseline": false,

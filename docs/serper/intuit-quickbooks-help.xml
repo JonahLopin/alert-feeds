@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-11-11T08:42:44Z</updated>
+  <updated>2026-11-11T09:43:18Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/chart-of-accounts/clean-chart-accounts-quickbooks-online/L5aVdBfnq_US_en_US</id>
+    <title>Clean up your chart of accounts in QuickBooks Online - Intuit</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/chart-of-accounts/clean-chart-accounts-quickbooks-online/L5aVdBfnq_US_en_US" />
+    <published>2026-11-11T09:43:18Z</published>
+    <updated>2026-11-11T09:43:18Z</updated>
+    <summary>Learn how to use the Chart of Accounts Cleanup tool to find and fix duplicate, misnamed, and unused accounts. QuickBooks works best when your transactions ...</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-projects/set-create-projects-quickbooks-online/L9GAdLMyT_US_en_US</id>
     <title>Create projects in QuickBooks Online or Intuit Enterprise Suite</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T18:43:21Z</published>
     <updated>2026-11-06T18:43:21Z</updated>
     <summary>Custom field improvements (QuickBooks Desktop Enterprise only). You can now filter reports using text or dropdown lists. We've also improved the error handling ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESxQEBxCJF1xYeG7pGCPOQheGFv2nczGR1LR_wGhC9KF8SrummwFzvDT2Wr5XhS0Op0PnOWQwUpiH8xWavYK7U3BAPKb0a0mAQ-ZJvpIpbV55SrNCk5lTYvNnTZ1s6dFFbBnJsGt8seL8-54ZpZyJ2a5o-ygBo0SsP1DvYv0E_lxGNIT7okAHkopH8314mF4jGr8cI2gXyvH46E0NjNbSKQXnZgJNderk8mte2Eu4YJRMDLrcB_mqcyjNbFgCOZoEmdAVzNY21xg</id>
-    <title>Release notes for QuickBooks Desktop 2024 - Intuit</title>
-    <link href="https://www.google.com/goto?url=CAESxQEBxCJF1xYeG7pGCPOQheGFv2nczGR1LR_wGhC9KF8SrummwFzvDT2Wr5XhS0Op0PnOWQwUpiH8xWavYK7U3BAPKb0a0mAQ-ZJvpIpbV55SrNCk5lTYvNnTZ1s6dFFbBnJsGt8seL8-54ZpZyJ2a5o-ygBo0SsP1DvYv0E_lxGNIT7okAHkopH8314mF4jGr8cI2gXyvH46E0NjNbSKQXnZgJNderk8mte2Eu4YJRMDLrcB_mqcyjNbFgCOZoEmdAVzNY21xg" />
-    <published>2026-11-06T18:43:21Z</published>
-    <updated>2026-11-06T18:43:21Z</updated>
-    <summary>Faster search, simpler setup, and better visibility, Find accounts instantly by searching within descriptions to ensure you select the right record every ...</summary>
   </entry>
 </feed>
