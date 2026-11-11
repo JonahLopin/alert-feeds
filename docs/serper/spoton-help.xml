@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-11T14:42:44Z</updated>
+  <updated>2026-11-11T16:43:26Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/4514021383/Accounting+Summary+%7C+SpotOn+Dashboard</id>
+    <title>Accounting Summary | SpotOn Dashboard</title>
+    <link href="https://help.spoton.com/space/SK/4514021383/Accounting+Summary+%7C+SpotOn+Dashboard" />
+    <published>2026-11-11T16:43:26Z</published>
+    <updated>2026-11-11T16:43:26Z</updated>
+    <summary>The SpotOn Dashboard Accounting Summary report provides a detailed snapshot of your restaurant's sales performance for a selected date range. It brings together ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/1066992036/Loyalty+SpotOn+Merchant+Dashboard</id>
     <title>SpotOn Loyalty | SpotOn Dashboard</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T02:42:41Z</published>
     <updated>2026-10-31T02:42:41Z</updated>
     <summary>Adjust Tip: You can adjust the tip within 10 minutes of the initial change. If you entered the wrong tip, correct it here. Changes apply to the customer only ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVJKC-fmdrj3KV9vTm_jin_A88YcYkopAC_6Y148agLThZAuzxcEoS9kZpXPK9a-WUcVCKfc_6XnTdcxUOD1Tssn5UhcIG4tDyefHw4MBS-T7i0_67lmHH1EpTWIcEPUZcVQ</id>
-    <title>Create Order Type | SpotOn Restaurant (RPOS)</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVJKC-fmdrj3KV9vTm_jin_A88YcYkopAC_6Y148agLThZAuzxcEoS9kZpXPK9a-WUcVCKfc_6XnTdcxUOD1Tssn5UhcIG4tDyefHw4MBS-T7i0_67lmHH1EpTWIcEPUZcVQ" />
-    <published>2026-10-31T02:42:41Z</published>
-    <updated>2026-10-31T02:42:41Z</updated>
-    <summary>Overview. Order Types determine how orders are processed within SpotOn Restaurant (RPOS). They can be configured with unique pricing, customer requirements, ...</summary>
   </entry>
 </feed>
