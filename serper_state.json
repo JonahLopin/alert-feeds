@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 39355,
+  "credits_used": 39414,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-11T22:06:11Z",
+  "last_run": "2026-11-11T23:05:56Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 770
+  "runs": 771
  },
  "feeds": {
   "adp-help": {
@@ -12944,6 +12944,15 @@
     "page": 1,
     "summary": "Hospital Sisters Health System has reached a settlement of a proposed class action alleging it required job applicants to disclose their family medical ...",
     "title": "Hospital Sisters Health Reaches Deal in Genetic Privacy Suit"
+   },
+   "news.bloomberglaw.com/business-and-practice/house-passes-bill-to-broaden-nonprofit-retirement-investments": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-11T23:05:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/house-passes-bill-to-broaden-nonprofit-retirement-investments",
+    "page": 1,
+    "summary": "Teachers, healthcare workers and nonprofit employees would have expanded investment options available under their retirement plans under a bill passed by ...",
+    "title": "House Passes Bill to Broaden Nonprofit Retirement Investments"
    },
    "news.bloomberglaw.com/business-and-practice/how-ai-is-making-cyberattacks-a-bigger-threat-explainer": {
     "baseline": false,
@@ -69474,6 +69483,15 @@
     "page": 1,
     "summary": "Staying on a legacy trade compliance platform can cost 3% to 8% in overpaid duties and leave free trade agreement savings unclaimed. See the hidden costs, and how to switch.",
     "title": "How to switch from legacy trade compliance software"
+   },
+   "tax.thomsonreuters.com/blog/how-do-you-measure-ai-roi-in-indirect-tax": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-11T23:05:56Z",
+    "link": "https://tax.thomsonreuters.com/blog/how-do-you-measure-ai-roi-in-indirect-tax/",
+    "page": 1,
+    "summary": "AI ROI means measurable change from a baseline, covering efficiency, risk, revenue protection, and strategic capacity.",
+    "title": "How do you measure AI ROI in indirect tax?"
    },
    "tax.thomsonreuters.com/blog/how-to-bridge-the-experience-gap-in-accounting-firms": {
     "baseline": false,

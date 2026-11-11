@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-11T20:57:16Z</updated>
+  <updated>2026-11-11T23:05:56Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/house-passes-bill-to-broaden-nonprofit-retirement-investments</id>
+    <title>House Passes Bill to Broaden Nonprofit Retirement Investments</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/house-passes-bill-to-broaden-nonprofit-retirement-investments" />
+    <published>2026-11-11T23:05:56Z</published>
+    <updated>2026-11-11T23:05:56Z</updated>
+    <summary>Teachers, healthcare workers and nonprofit employees would have expanded investment options available under their retirement plans under a bill passed by ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/patent-office-director-loosens-grip-on-patent-challenge-review</id>
     <title>Patent Office Director Loosens Grip on Patent Challenge ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-09T13:42:39Z</published>
     <updated>2026-11-09T13:42:39Z</updated>
     <summary>To know where you stand in your company's hierarchy, check your AI budget. Companies are quietly sorting workers into different tiers of access as they ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/pwc-us-to-roll-out-certification-on-critical-thinking-in-ai-era</id>
-    <title>PwC US to Roll Out Certification on Critical Thinking in AI Era</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/pwc-us-to-roll-out-certification-on-critical-thinking-in-ai-era" />
-    <published>2026-11-09T13:42:39Z</published>
-    <updated>2026-11-09T13:42:39Z</updated>
-    <summary>PwC is rolling out a new critical thinking certification program as AI tools transform the professional services firm's work. Photographer: Patrick Bolger/ ...</summary>
   </entry>
 </feed>
