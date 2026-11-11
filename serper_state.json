@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 39173,
+  "credits_used": 39234,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-11T18:43:14Z",
+  "last_run": "2026-11-11T19:43:05Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 767
+  "runs": 768
  },
  "feeds": {
   "adp-help": {
@@ -14625,6 +14625,15 @@
     "page": 2,
     "summary": "Northwestern Law Gets Receptive Panel in Anti-White Hiring Case ... Northwestern University's law school faces a discrimination lawsuit over its hiring practices.",
     "title": "Northwestern Law Gets Receptive Panel in Anti-White ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/norton-rose-fulbright-hires-crowell-financial-litigation-head": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-11T19:43:05Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/norton-rose-fulbright-hires-crowell-financial-litigation-head",
+    "page": 1,
+    "summary": "Eric Aronson joined Norton Rose Fulbright as a partner in its litigation and disputes practice in New York, the firm announced Wednesday.",
+    "title": "Norton Rose Fulbright Hires Crowell Financial Litigation ..."
    },
    "news.bloomberglaw.com/business-and-practice/nra-seeks-arbitration-to-recoup-over-200-million-in-legal-fees": {
     "baseline": false,
@@ -52619,6 +52628,15 @@
     "summary": "Compare 8 Etsy alternatives for selling crafts online, including store builders and marketplaces, with current fees and tips for choosing the right fit.",
     "title": "8 Etsy Alternatives for Selling Your Crafts (2026)"
    },
+   "shopify.com/blog/etsy-vs-ebay": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-11T19:43:05Z",
+    "link": "https://www.shopify.com/blog/etsy-vs-ebay",
+    "page": 5,
+    "summary": "Compare Etsy vs. eBay across fees, shipping costs, and customer base to find out which marketplace matches your ecommerce selling strategy.",
+    "title": "Etsy vs. eBay: How To Choose an Ecommerce Marketplace"
+   },
    "shopify.com/blog/eur-1-certificate": {
     "baseline": false,
     "date_hint": "11 hours ago",
@@ -52681,6 +52699,15 @@
     "page": 1,
     "summary": "No top-level domain is permanently free. Here's how to get a domain name for free, what each really costs, and which fits a store.",
     "title": "How To Get a Domain Name for Free (2026)"
+   },
+   "shopify.com/blog/generative-ai-for-business": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-11T19:43:05Z",
+    "link": "https://www.shopify.com/blog/generative-ai-for-business",
+    "page": 1,
+    "summary": "Learn how businesses are using generative AI to scale marketing, support, web design, and operations.",
+    "title": "Generative AI for Business: Complete Guide (2026)"
    },
    "shopify.com/blog/generative-ai-tools": {
     "baseline": false,
@@ -53813,6 +53840,15 @@
     "page": 2,
     "summary": "What is social selling? Social selling is the use of social media platforms to locate, connect with, and nurture potential customers. It relies on platforms ...",
     "title": "Social Selling: Strategies and Examples (2026)"
+   },
+   "shopify.com/blog/split-order": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-11T19:43:05Z",
+    "link": "https://www.shopify.com/blog/split-order",
+    "page": 2,
+    "summary": "A split order ships one purchase in several packages. Learn why it happens, what it costs, and how to split or prevent one in Shopify.",
+    "title": "Split Order (Split Shipment): Causes & Fixes (2027)"
    },
    "shopify.com/blog/standard-operating-procedure": {
     "baseline": false,

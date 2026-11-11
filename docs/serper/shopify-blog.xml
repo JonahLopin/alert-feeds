@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-11T13:43:18Z</updated>
+  <updated>2026-11-11T19:43:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/split-order</id>
+    <title>Split Order (Split Shipment): Causes &amp; Fixes (2027)</title>
+    <link href="https://www.shopify.com/blog/split-order" />
+    <published>2026-11-11T19:43:05Z</published>
+    <updated>2026-11-11T19:43:05Z</updated>
+    <summary>A split order ships one purchase in several packages. Learn why it happens, what it costs, and how to split or prevent one in Shopify.</summary>
+  </entry>
+  <entry>
+    <id>https://www.shopify.com/blog/generative-ai-for-business</id>
+    <title>Generative AI for Business: Complete Guide (2026)</title>
+    <link href="https://www.shopify.com/blog/generative-ai-for-business" />
+    <published>2026-11-11T19:43:05Z</published>
+    <updated>2026-11-11T19:43:05Z</updated>
+    <summary>Learn how businesses are using generative AI to scale marketing, support, web design, and operations.</summary>
+  </entry>
+  <entry>
+    <id>https://www.shopify.com/blog/etsy-vs-ebay</id>
+    <title>Etsy vs. eBay: How To Choose an Ecommerce Marketplace</title>
+    <link href="https://www.shopify.com/blog/etsy-vs-ebay" />
+    <published>2026-11-11T19:43:05Z</published>
+    <updated>2026-11-11T19:43:05Z</updated>
+    <summary>Compare Etsy vs. eBay across fees, shipping costs, and customer base to find out which marketplace matches your ecommerce selling strategy.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/international-ecommerce</id>
     <title>What Is International Ecommerce? Best Practices in 2027</title>
@@ -779,29 +803,5 @@
     <published>2026-11-07T05:23:15Z</published>
     <updated>2026-11-07T05:23:15Z</updated>
     <summary>A brand positioning map can help you identify how to set your business apart from competitors. Learn how to make and use one for your brand strategy.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/lead-scoring-template</id>
-    <title>How To Build a Lead Scoring Template and Automate Scoring (2026)</title>
-    <link href="https://www.shopify.com/blog/lead-scoring-template" />
-    <published>2026-11-07T02:25:05Z</published>
-    <updated>2026-11-07T02:25:05Z</updated>
-    <summary>An effective lead scoring template assigns points to prospect qualities and behaviors so your sales team knows which contacts to prioritize.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/needs-based-selling</id>
-    <title>Needs-Based Selling: Sales Guide for Small Businesses (2026)</title>
-    <link href="https://www.shopify.com/blog/needs-based-selling" />
-    <published>2026-11-07T00:15:44Z</published>
-    <updated>2026-11-07T00:15:44Z</updated>
-    <summary>Needs-based selling involves learning about your customers' requirements and providing a tailored solution. Learn how to implement this sales strategy.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEShAEBxCJF132MSZ3NaCss_EUnZsayxo1P2XcDN35ZN0Ryo5Vu6uX3P-q6qqCMJwaldOUMr5366w9o-93Cp-HxLwGyWt68M9KldMG6fDSHXe78txe7LRxiM0PMzM41yMrjEN7VDogYzk3VVQ4osLjhePUwtlbKG09W8S7PaAacpEf3GezPeqQ</id>
-    <title>Ruggable's Secret Weapon for Growth? The Internet's ...</title>
-    <link href="https://www.google.com/goto?url=CAEShAEBxCJF132MSZ3NaCss_EUnZsayxo1P2XcDN35ZN0Ryo5Vu6uX3P-q6qqCMJwaldOUMr5366w9o-93Cp-HxLwGyWt68M9KldMG6fDSHXe78txe7LRxiM0PMzM41yMrjEN7VDogYzk3VVQ4osLjhePUwtlbKG09W8S7PaAacpEf3GezPeqQ" />
-    <published>2026-11-06T22:42:52Z</published>
-    <updated>2026-11-06T22:42:52Z</updated>
-    <summary>How Ruggable used Reddit feedback to fix their product and drive 70% of revenue from a single innovation in just eight weeks.</summary>
   </entry>
 </feed>
