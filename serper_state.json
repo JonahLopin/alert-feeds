@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 39295,
+  "credits_used": 39355,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-11T20:57:16Z",
+  "last_run": "2026-11-11T22:06:11Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 769
+  "runs": 770
  },
  "feeds": {
   "adp-help": {
@@ -52171,6 +52171,15 @@
     "summary": "Knowing these business acronyms can improve your business communications and how well you understand documents, reports, and business software.",
     "title": "The Essential Business Acronyms List for Entrepreneurs"
    },
+   "shopify.com/blog/business-capital-loans": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-11T22:06:11Z",
+    "link": "https://www.shopify.com/blog/business-capital-loans",
+    "page": 1,
+    "summary": "Business capital loans give companies the money they need to fund daily operations, manage cash flow in slow months, expand the business, and more.",
+    "title": "Business Capital Loans: 6 Types & How They Work (2026)"
+   },
    "shopify.com/blog/business-entity-definition": {
     "baseline": false,
     "date_hint": "8 hours ago",
@@ -52241,6 +52250,15 @@
     "page": 3,
     "summary": "Learn how to conduct a competitive analysis step by step. Get a free template, frameworks, and AI tools to find market gaps and beat rivals.",
     "title": "Competitive Analysis: How to Do It + Free Template (2026)"
+   },
+   "shopify.com/blog/consumer-trends": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-11T22:06:11Z",
+    "link": "https://www.shopify.com/blog/consumer-trends",
+    "page": 5,
+    "summary": "Between rising inflation, an uncertain economy, and the digital transformation revolutionizing shopping habits, consumers are demanding much more these days ...",
+    "title": "Buying Trends: 11 Consumer Trends to Watch (2026)"
    },
    "shopify.com/blog/content-creator-vs-influencer": {
     "baseline": false,
