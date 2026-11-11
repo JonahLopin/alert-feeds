@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 39113,
+  "credits_used": 39173,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-11T17:43:19Z",
+  "last_run": "2026-11-11T18:43:14Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 766
+  "runs": 767
  },
  "feeds": {
   "adp-help": {
@@ -11060,6 +11060,15 @@
     "summary": "The disputed 2024 rule requires providers to notify the FCC of data breaches involving 500 or more customers' personal data within seven business days. The ...",
     "title": "Congressional Power Tested in Argument Over FCC Data ..."
    },
+   "news.bloomberglaw.com/business-and-practice/cooley-adds-ai-and-tech-partner-barath-chari-in-san-francisco": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-11T18:43:14Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cooley-adds-ai-and-tech-partner-barath-chari-in-san-francisco",
+    "page": 3,
+    "summary": "Barath Chari joined Cooley as a partner in its technology transactions practice in San Francisco, the firm announced Tuesday.",
+    "title": "Cooley Adds AI and Tech Partner Barath Chari in San ..."
+   },
    "news.bloomberglaw.com/business-and-practice/core-scientific-patent-owner-resolve-cryptography-tech-dispute": {
     "baseline": true,
     "date_hint": "22 hours ago",
@@ -11453,6 +11462,15 @@
     "page": 1,
     "summary": "Aaron Scow joined Dechert LLP as a partner in its corporate and securities practice in Dallas, the firm announced Thursday.",
     "title": "Dechert Expands Capital Markets Team With New Dallas Partner"
+   },
+   "news.bloomberglaw.com/business-and-practice/dechert-hires-global-finance-partner-jon-ruiss-in-new-york": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-11T18:43:14Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/dechert-hires-global-finance-partner-jon-ruiss-in-new-york",
+    "page": 3,
+    "summary": "Jon Ruiss joined Dechert LLP as a partner in its global finance practice in New York, the firm announced Tuesday.",
+    "title": "Dechert Hires Global Finance Partner Jon Ruiss in New York"
    },
    "news.bloomberglaw.com/business-and-practice/dechert-recruits-corporate-transactions-partner-bekdur-in-dubai": {
     "baseline": false,
@@ -17640,6 +17658,15 @@
     "summary": "\"Buy a $50 gift card, get a $10 bonus card\" is the most common holiday offer in restaurants, and it works because it gives guests a reason to buy now ...",
     "title": "Structuring a Holiday Bonus Offer That Pays Off"
    },
+   "chowbus.com/blog/gift-cards-for-small-business": {
+    "baseline": false,
+    "date_hint": "14 hours ago",
+    "first_seen": "2026-11-11T18:43:14Z",
+    "link": "https://www.chowbus.com/blog/gift-cards-for-small-business",
+    "page": 2,
+    "summary": "Cost structures for gift card programs vary, and small business owners should understand the different models before committing: Bundled into existing POS ...",
+    "title": "A Practical Guide for Restaurant Owners Who Can't Afford ..."
+   },
    "chowbus.com/blog/gift-cards-loyalty-pos-one-system-instead-of-three": {
     "baseline": false,
     "date_hint": "8 hours ago",
@@ -17719,6 +17746,15 @@
     "page": 1,
     "summary": "Most new restaurants buy point of sale hardware the same way: one big order, a few weeks before opening, based on a list from the sales rep.",
     "title": "Point of Sale Hardware for a New Location"
+   },
+   "chowbus.com/blog/pos-setup-timeline-before-opening": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-11-11T18:43:14Z",
+    "link": "https://www.chowbus.com/blog/pos-setup-timeline-before-opening",
+    "page": 1,
+    "summary": "The most common opening-night POS problem has nothing to do with the software itself. It's a terminal that's still running the demo menu \u2014 eight sample ...",
+    "title": "A Realistic Timeline for Getting Your POS Ready Before Opening Night"
    },
    "chowbus.com/blog/restaurant-labor-cost-percentage-calculate-benchmarks": {
     "baseline": false,
@@ -24035,6 +24071,15 @@
     "page": 1,
     "summary": "DoorDash is launching Crash Out Corners to help people reset, including a pop-up in one of New York City's top cry spots.",
     "title": "DoorDash Launches \"Crash Out Corners,\u201d Backed by Data ..."
+   },
+   "about.doordash.com/en-us/news/doordash-crimson-expands-with-plaid-integration": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-11T18:43:14Z",
+    "link": "https://about.doordash.com/en-us/news/doordash-crimson-expands-with-plaid-integration",
+    "page": 1,
+    "summary": "Giving Dashers more flexibility to connect DoorDash Crimson to the financial apps and services they already use.",
+    "title": "DoorDash Crimson Expands Financial Connectivity With ..."
    },
    "about.doordash.com/en-us/news/doordash-earns-aam-incrementality-certification": {
     "baseline": true,
@@ -74265,6 +74310,15 @@
     "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-and-suki-to-integrate-uptodates-trusted-physicianauthored-content-into-suki-assistant",
     "summary": "Wolters Kluwer Health and Suki\u00ae are partnering to streamline administrative tasks for clinicians by making UpToDate\u00ae, a market-leading clinical decision support ...",
     "title": "Wolters Kluwer and Suki to integrate UpToDate's physician ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-announces-winners-of-the-2026-cch-william-awards": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-11T18:43:14Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-announces-winners-of-the-2026-cch-william-awards",
+    "page": 4,
+    "summary": "The CCH William Awards recognize customers making a meaningful difference across the tax and accounting profession. Winners are selected for bold ideas, ...",
+    "title": "Wolters Kluwer announces winners of the 2026 CCH ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-appoints-dean-sonderegger-as-svp-and-general-manager-of-elm-solutions": {
     "baseline": false,
