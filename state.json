@@ -6999,6 +6999,12 @@
    "summary": "ip_address_location.countrynullable string. Two-letter ISO code representing the country where the payment originated.",
    "title": "The Review object | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:364013935007585276": {
+   "first_seen": "2026-11-11T17:44:53Z",
+   "link": "https://docs.stripe.com/api/v2/network/business-profiles?api-version=2026-10-28.preview",
+   "summary": "The Stripe business profile represents a business' public identity on the Stripe network. Learn more about calling API v2 endpoints. Was this section ...",
+   "title": "Business Profiles | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:3681600417212081977": {
    "first_seen": "2026-10-29T19:42:55Z",
    "link": "https://docs.stripe.com/payments/qris/accept-a-payment",
@@ -7016,6 +7022,12 @@
    "link": "https://docs.stripe.com/agentic-commerce/agents/link-agent-wallet/machine-payments",
    "summary": "Use Link Agent Wallet to answer an 402 payment challenge with a shared payment token and complete a machine payment.",
    "title": "Pay machine-payment businesses - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:4009932443448941189": {
+   "first_seen": "2026-11-11T17:44:53Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/outbound-transfers?api-version=2026-10-28.preview",
+   "summary": "Outbound Transfers v2 ... OutboundTransfer represents a single money movement from one FinancialAccount you own to a payout method you also own. ... Need ...",
+   "title": "Outbound Transfers | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:4031576726200630501": {
    "first_seen": "2026-11-04T18:43:24Z",
@@ -7065,6 +7077,12 @@
    "summary": "Create a QueryRun with SQL against the analytical dataset, then retrieve a download URL or inline rows. Requires the Queries Read permission.",
    "title": "Run a SQL query - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:499688698766006807": {
+   "first_seen": "2026-11-11T17:44:53Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/inbound-transfers?api-version=2026-10-28.preview",
+   "summary": "An InboundTransfer object, representing a money movement from a user owned PaymentMethod to a FinancialAccount belonging to the same user. Learn more ...",
+   "title": "Inbound Transfers v2 - Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:5075244174158080457": {
    "first_seen": "2026-10-09T11:10:19Z",
    "link": "https://docs.stripe.com/tax/file-with-stripe-outside-us",
@@ -7112,6 +7130,12 @@
    "link": "https://docs.stripe.com/api/prices?api-version=2026-09-30.preview",
    "summary": "Prices define the unit cost, currency, and (optional) billing cycle for both recurring and one-time purchases of products. Products help you track ...",
    "title": "Prices | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:7299100348183929988": {
+   "first_seen": "2026-11-11T17:44:53Z",
+   "link": "https://docs.stripe.com/api/customer_portal/configurations/object?api-version=2026-10-28.preview",
+   "summary": "Attributes \u00b7 idstring. Unique identifier for the object. \u00b7 objectstring, value is \"billing_portal.configuration\" \u00b7 activeboolean \u00b7 applicationnullable ...",
+   "title": "The Customer portal configuration object | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:7333119713045988003": {
    "first_seen": "2026-11-02T16:44:12Z",

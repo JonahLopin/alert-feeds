@@ -2,8 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-11T02:24:07Z</updated>
+  <updated>2026-11-11T17:44:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:7299100348183929988</id>
+    <title>The Customer portal configuration object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/customer_portal/configurations/object?api-version=2026-10-28.preview" />
+    <published>2026-11-11T17:44:53Z</published>
+    <updated>2026-11-11T17:44:53Z</updated>
+    <summary>Attributes · idstring. Unique identifier for the object. · objectstring, value is "billing_portal.configuration" · activeboolean · applicationnullable ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:499688698766006807</id>
+    <title>Inbound Transfers v2 - Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/inbound-transfers?api-version=2026-10-28.preview" />
+    <published>2026-11-11T17:44:53Z</published>
+    <updated>2026-11-11T17:44:53Z</updated>
+    <summary>An InboundTransfer object, representing a money movement from a user owned PaymentMethod to a FinancialAccount belonging to the same user. Learn more ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:4009932443448941189</id>
+    <title>Outbound Transfers | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/outbound-transfers?api-version=2026-10-28.preview" />
+    <published>2026-11-11T17:44:53Z</published>
+    <updated>2026-11-11T17:44:53Z</updated>
+    <summary>Outbound Transfers v2 ... OutboundTransfer represents a single money movement from one FinancialAccount you own to a payout method you also own. ... Need ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:364013935007585276</id>
+    <title>Business Profiles | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/network/business-profiles?api-version=2026-10-28.preview" />
+    <published>2026-11-11T17:44:53Z</published>
+    <updated>2026-11-11T17:44:53Z</updated>
+    <summary>The Stripe business profile represents a business' public identity on the Stripe network. Learn more about calling API v2 endpoints. Was this section ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:5498119005365095702</id>
     <title>Monitor and debug scripts - Stripe Documentation</title>
@@ -771,37 +803,5 @@
     <published>2026-10-19T22:44:10Z</published>
     <updated>2026-10-19T22:44:10Z</updated>
     <summary>Simulate OutboundPayment state changes with the /v1/test_helpers/treasury/outbound_payments endpoints. These methods can only be called on test mode ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:13292501989663731748</id>
-    <title>Coupons | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/coupons?api-version=2026-07-29.preview" />
-    <published>2026-10-18T22:42:56Z</published>
-    <updated>2026-10-18T22:42:56Z</updated>
-    <summary>A coupon contains information about a percent-off or amount-off discount you might want to apply to a customer. Coupons may be applied to ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:9362988663949533849</id>
-    <title>CheckoutForm - Stripe JS Reference</title>
-    <link href="https://docs.stripe.com/js/react_stripe_js/checkout_form/checkout_form?type=payment" />
-    <published>2026-10-17T22:43:04Z</published>
-    <updated>2026-10-17T22:43:04Z</updated>
-    <summary>Configuration for client-side features of the embedded form, such as amount summary expansion and promotion code collection. Hide features properties ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:3030721683110167856</id>
-    <title>Cards | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/cards?api-version=2026-09-30.preview" />
-    <published>2026-10-17T22:43:04Z</published>
-    <updated>2026-10-17T22:43:04Z</updated>
-    <summary>You can store multiple cards on a customer in order to charge the customer later. You can also store multiple debit cards on a recipient in order to ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:290258394636359139</id>
-    <title>Using the embedded form provider - Stripe JS Reference</title>
-    <link href="https://docs.stripe.com/js/react_stripe_js/checkout_form?type=affirmMessage" />
-    <published>2026-10-17T22:43:04Z</published>
-    <updated>2026-10-17T22:43:04Z</updated>
-    <summary>Setting up · The Elements object · The Element · Embedded Checkout · Checkout · React Stripe.js · Payment Intents · Setup Intents.</summary>
   </entry>
 </feed>

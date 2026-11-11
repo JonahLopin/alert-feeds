@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 39054,
+  "credits_used": 39113,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-11T16:43:26Z",
+  "last_run": "2026-11-11T17:43:19Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 765
+  "runs": 766
  },
  "feeds": {
   "adp-help": {
@@ -9999,6 +9999,15 @@
     "summary": "Veteran federal judge Alvin Hellerstein, who oversaw cases against Venezuelan President Nicol\u00e1s Maduro, Archegos family office founder Bill Hwang and ...",
     "title": "Alvin Hellerstein, Judge in Archegos and 9/11 Trials, Dies ..."
    },
+   "news.bloomberglaw.com/business-and-practice/amazon-fails-to-evade-class-certification-over-biometric-privacy": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-11T17:43:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/amazon-fails-to-evade-class-certification-over-biometric-privacy",
+    "page": 2,
+    "summary": "Amazon.com Inc. couldn't convince a federal judge to deny class certification for users of Amazon Photos whose faces were scanned in photographs in alleged ...",
+    "title": "Amazon Fails to Evade Class Certification Over Biometric ..."
+   },
    "news.bloomberglaw.com/business-and-practice/amazon-law-chiefs-pay-hits-nearly-18-2-million-on-stock-grants": {
     "baseline": false,
     "date_hint": "Apr 13, 2023",
@@ -10537,6 +10546,15 @@
     "page": 2,
     "summary": "Some of Virgin Media O2 's biggest creditors are getting legal advice from Milbank LLP after a UK regulator flagged concerns over a deal that would have ...",
     "title": "BlackRock, Pimco Hire Lawyers Over Faltering Virgin ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/blackstone-aims-to-raise-3-billion-for-real-estate-secondaries": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-11T17:43:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/blackstone-aims-to-raise-3-billion-for-real-estate-secondaries",
+    "page": 2,
+    "summary": "Blackstone Inc. is pitching a fund that will snap up stakes in other asset managers' real estate vehicles, expecting to raise at least $3 billion amid a ...",
+    "title": "Blackstone Aims to Raise $3 Billion for Real Estate ..."
    },
    "news.bloomberglaw.com/business-and-practice/blackstone-hauls-in-8-7-billion-for-energy-transition-fund": {
     "baseline": false,
@@ -16649,6 +16667,15 @@
     "summary": "The consumer price index rose 0.6% from a month earlier, driven by a surge in fuel costs, according to Bureau of Labor Statistics data out Wednesday. A key ...",
     "title": "US Consumer Prices Rise by Most Since April in Broad ..."
    },
+   "news.bloomberglaw.com/business-and-practice/us-envoy-to-china-says-relations-are-bumpy-after-nvidia-affair": {
+    "baseline": false,
+    "date_hint": "11 hours ago",
+    "first_seen": "2026-11-11T17:43:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-envoy-to-china-says-relations-are-bumpy-after-nvidia-affair",
+    "page": 3,
+    "summary": "The top US diplomat in China indicated that the furor over Nvidia Corp. Chief Executive Officer Jensen Huang's affair with an alleged spy was posing a test ...",
+    "title": "US Envoy to China Says Relations Are 'Bumpy' After Nvidia ..."
+   },
    "news.bloomberglaw.com/business-and-practice/us-factory-production-rebounds-on-pickup-in-output-of-supplies": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -17341,6 +17368,15 @@
     "page": 3,
     "summary": "The White House is expected to nominate Matt Zandi, chief of staff at the Justice Department's Civil Rights Division, to fill the third Republican seat on ...",
     "title": "White House Taps DOJ Official for Open Republican EEOC ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/white-house-threatens-house-democrats-over-coming-investigations": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-11T17:43:19Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/white-house-threatens-house-democrats-over-coming-investigations",
+    "page": 1,
+    "summary": "The brash claim, made by White House counsel Will Scharf , indicates Trump's team plans to take a hostile approach toward Democratic probes in the next Congress ...",
+    "title": "White House Threatens Democrats Over Coming ..."
    },
    "news.bloomberglaw.com/business-and-practice/white-house-will-fail-to-overturn-any-elections-noah-feldman": {
     "baseline": false,
@@ -39967,6 +40003,15 @@
     "summary": "Steigern Sie Ihre Effizienz mit AI-powered Finance: Entdecken Sie innovative L\u00f6sungen f\u00fcr bessere Planung und Berichterstattung.",
     "title": "AI-powered Finance: Neue Funktionen von SAP"
    },
+   "news.sap.com/germany/2026/11/sap-praesentiert-physische-ki": {
+    "baseline": false,
+    "date_hint": "11 hours ago",
+    "first_seen": "2026-11-11T17:43:19Z",
+    "link": "https://news.sap.com/germany/2026/11/sap-praesentiert-physische-ki/",
+    "page": 1,
+    "summary": "Physische KI von SAP unterst\u00fctzt Unternehmen dabei, zu handeln. SAP verkn\u00fcpft Roboter und physische Systeme direkt mit den Gesch\u00e4ftsprozessen von Unternehmen.",
+    "title": "Der n\u00e4chste Schritt f\u00fcr Autonome Unternehmen: Physical AI"
+   },
    "news.sap.com/germany/2026/11/sap-praesentiert-physische-ki?amp=1": {
     "baseline": false,
     "date_hint": "10 hours ago",
@@ -54555,6 +54600,15 @@
     "page": 1,
     "summary": "Learn about the benefits of ReportMyUP and how it is different from UPExchange.",
     "title": "Coming from UPExchange? - ReportMyUP - Sovos Docs"
+   },
+   "docs.sovos.com/en/tax-determination/certmanager/customers": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-11-11T17:43:19Z",
+    "link": "https://docs.sovos.com/en/tax-determination/certmanager/customers",
+    "page": 1,
+    "summary": "Understand the roles of parent and child customers, and how to manage their exemptions and emails.",
+    "title": "Customer hierarchy: parents and children - Sovos Docs"
    },
    "docs.sovos.com/en/tax-determination/certmanager/release-notes/exemptions-in-tax-determination-are-now-managed-in-certmanager": {
     "baseline": false,
