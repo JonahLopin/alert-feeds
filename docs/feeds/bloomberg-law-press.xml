@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-11T02:24:07Z</updated>
+  <updated>2026-11-11T07:23:56Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:6283362110023548015</id>
+    <title>Oklahoma Senator's Opposition Imperils Trump Trial Court Pick - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/oklahoma-senators-opposition-imperils-trump-trial-court-pick" />
+    <published>2026-11-11T07:23:56Z</published>
+    <updated>2026-11-11T07:23:56Z</updated>
+    <summary>Oklahoma Republican Sen. Alan Armstrong (R-Okla.) reversed course to oppose a Trump judicial nominee for his state as Senate Republicans scramble ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:3534626336911747897</id>
     <title>Abortion Bans May Be on Way Out in Arkansas, South Carolina - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-11-09T10:23:16Z</published>
     <updated>2026-11-09T10:23:16Z</updated>
     <summary>The leader of Weil Gotshal &amp; Manges' real estate practice is headed for Latham &amp; Watkins along with five colleagues as Weil, a once-powerful Wall ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:10311528051332216668</id>
-    <title>Crypto Exemption Will Test SEC's Authority to Rein in States - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/crypto-exemption-will-test-secs-authority-to-rein-in-states" />
-    <published>2026-11-09T10:23:16Z</published>
-    <updated>2026-11-09T10:23:16Z</updated>
-    <summary>The SEC's proposal to exempt certain digital asset offerings from securities registration requirements would attempt to preempt state laws to the ...</summary>
   </entry>
 </feed>
