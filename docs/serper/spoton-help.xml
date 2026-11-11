@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-11T11:42:33Z</updated>
+  <updated>2026-11-11T13:43:18Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/3746562157</id>
+    <title>eCard Systems Gift Cards | SpotOn Lite</title>
+    <link href="https://help.spoton.com/space/SK/3746562157" />
+    <published>2026-11-11T13:43:18Z</published>
+    <updated>2026-11-11T13:43:18Z</updated>
+    <summary>Used to issue new gift cards to customers Add/Check Balance: Used to check or add balance to existing gift cards. Merchants can check the balance on existing ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/3746562157/eCard+Systems+Gift+Cards+%7C+SpotOn+Lite</id>
     <title>eCard Systems Gift Cards | SpotOn Lite</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T01:43:06Z</published>
     <updated>2026-10-31T01:43:06Z</updated>
     <summary>The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVOIkyjYOnzUczhhTkHnz8gXPgu_JhCNoVprKV1jAy5ijSch2sN22O6ezH5ozR1cm4mF4rZXAxUhE7Wh_yqtaII_l1nRx9qFiDuXCjZwa2UU8l-nnC0phK8TcQd46ARye55A</id>
-    <title>Open Items and Market Price | SpotOn Restaurant BOH</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVOIkyjYOnzUczhhTkHnz8gXPgu_JhCNoVprKV1jAy5ijSch2sN22O6ezH5ozR1cm4mF4rZXAxUhE7Wh_yqtaII_l1nRx9qFiDuXCjZwa2UU8l-nnC0phK8TcQd46ARye55A" />
-    <published>2026-10-31T01:43:06Z</published>
-    <updated>2026-10-31T01:43:06Z</updated>
-    <summary>Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu price.</summary>
   </entry>
 </feed>
