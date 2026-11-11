@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-08T10:43:13Z</updated>
+  <updated>2026-11-11T02:42:38Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/extensions/scripts/monitor-and-debug</id>
+    <title>Monitor and debug scripts</title>
+    <link href="https://docs.stripe.com/extensions/scripts/monitor-and-debug" />
+    <published>2026-11-11T02:42:38Z</published>
+    <updated>2026-11-11T02:42:38Z</updated>
+    <summary>You can use Workbench to inspect extension runs and troubleshoot failures. For Billing extensions, you can also receive email or event notifications when a ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/js/custom_checkout/get_tax_id_element</id>
     <title>Get the Tax ID Element</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T14:42:45Z</published>
     <updated>2026-11-06T14:42:45Z</updated>
     <summary>Set up connected Stripe and Bridge sandboxes, fund test wallets on testnets, and simulate authorizations for stablecoin-backed cards.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdAHEIkXXNNdvB0g1bhJloJ5GxcqYvqlUahqrk97Qozg-ATBV5qqrc0dLhTPxLIFrfAMD6vweNtWGW_8zwlMqogL55j3nSxUEx88XF_i2lby1B5nCyz4hK01nBkg9mpyH_38jRrIr3xUbsm4F1DVycfwrUWqC</id>
-    <title>GoPay Payments</title>
-    <link href="https://www.google.com/goto?url=CAESdAHEIkXXNNdvB0g1bhJloJ5GxcqYvqlUahqrk97Qozg-ATBV5qqrc0dLhTPxLIFrfAMD6vweNtWGW_8zwlMqogL55j3nSxUEx88XF_i2lby1B5nCyz4hK01nBkg9mpyH_38jRrIr3xUbsm4F1DVycfwrUWqC" />
-    <published>2026-11-06T14:42:45Z</published>
-    <updated>2026-11-06T14:42:45Z</updated>
-    <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
   </entry>
 </feed>

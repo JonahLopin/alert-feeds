@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-11T01:42:44Z</updated>
+  <updated>2026-11-11T02:42:38Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/kennedy-family-seeks-to-intervene-in-fight-to-block-trump-arch</id>
+    <title>Kennedy Family Seeks to Intervene in Fight to Block Trump ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/kennedy-family-seeks-to-intervene-in-fight-to-block-trump-arch" />
+    <published>2026-11-11T02:42:38Z</published>
+    <updated>2026-11-11T02:42:38Z</updated>
+    <summary>Kennedy 's brothers, Robert and Edward Kennedy, asked a federal judge to join a lawsuit seeking to block the proposed monument. Plans for the “Independence Arch ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/trump-pulls-eighth-circuit-nominee-taps-arkansas-senators-pick</id>
     <title>Trump Pulls Eighth Circuit Nominee, Taps Arkansas ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-09T11:42:46Z</published>
     <updated>2026-11-09T11:42:46Z</updated>
     <summary>The SEC's proposal to exempt certain digital asset offerings from securities registration requirements would attempt to preempt state laws to the contrary, ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/court-to-weigh-false-claims-act-penalties-without-injury-showing</id>
-    <title>Court to Weigh False Claims Act Penalties Without Injury ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/court-to-weigh-false-claims-act-penalties-without-injury-showing" />
-    <published>2026-11-09T11:42:46Z</published>
-    <updated>2026-11-09T11:42:46Z</updated>
-    <summary>The Seventh Circuit will consider on Tuesday whether corporations should pay sky high fraud penalties in False Claims Act cases even if the government ...</summary>
   </entry>
 </feed>

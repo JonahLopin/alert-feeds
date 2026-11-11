@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 38155,
+  "credits_used": 38214,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-11T01:42:44Z",
+  "last_run": "2026-11-11T02:42:38Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 750
+  "runs": 751
  },
  "feeds": {
   "adp-help": {
@@ -13519,6 +13519,15 @@
     "page": 1,
     "summary": "A spate of cyberattacks that has rocked Japan Inc. in recent weeks is alarming not because of some novel artificial intelligence hacking methods, ...",
     "title": "Karaoke Hack Shows Routine Cybercrime: Catherine ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/kennedy-family-seeks-to-intervene-in-fight-to-block-trump-arch": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-11T02:42:38Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kennedy-family-seeks-to-intervene-in-fight-to-block-trump-arch",
+    "page": 4,
+    "summary": "Kennedy 's brothers, Robert and Edward Kennedy, asked a federal judge to join a lawsuit seeking to block the proposed monument. Plans for the \u201cIndependence Arch ...",
+    "title": "Kennedy Family Seeks to Intervene in Fight to Block Trump ..."
    },
    "news.bloomberglaw.com/business-and-practice/kennedys-joins-dallas-law-firm-rush-with-aviation-trial-boutique": {
     "baseline": false,
@@ -40192,6 +40201,15 @@
     "summary": "SAP \u306f\u3053\u3046\u3057\u305f\u8ab2\u984c\u3078\u306e\u5bfe\u5fdc\u3092\u652f\u63f4\u3059\u308b\u305f\u3081\u3001SAP Ariba\u3001SAP Fieldglass\u3001SAP Concur \u306e\u30dd\u30fc\u30c8\u30d5\u30a9\u30ea\u30aa\u5168\u4f53\u306b\u308f\u305f\u308b\u4e00\u9023\u306e\u30a4\u30ce\u30d9\u30fc\u30b7\u30e7\u30f3\u3092 SAP Connect \u3067\u767a\u8868\u3057\u307e\u3057\u305f\u3002",
     "title": "\u652f\u51fa\u7ba1\u7406\u306e\u6b21\u7ae0\uff1aSAP Ariba\u00ae\u3001SAP Fieldglass"
    },
+   "news.sap.com/japan/2026/11/1111_sap-successfactors-2h-2026-release?amp=1": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-11T02:42:38Z",
+    "link": "https://news.sap.com/japan/2026/11/1111_sap-successfactors-2h-2026-release/?amp=1",
+    "page": 1,
+    "summary": "\u30a8\u30fc\u30b8\u30a7\u30f3\u30c6\u30a3\u30c3\u30af AI\u3001\u4fe1\u983c\u6027\u306e\u9ad8\u3044\u4eba\u6750\u30c7\u30fc\u30bf\u3001\u5404\u7a2e\u4eba\u4e8b\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u3092\u7d71\u5408\u3059\u308b\u3053\u3068\u3067\u3001\u4f01\u696d\u306b\u3068\u3063\u3066\u6700\u3082\u91cd\u8981\u306a\u6210\u679c\u306e\u5275\u51fa\u3092\u652f\u63f4\u3057\u307e\u3059\u3002\u305d\u306e\u4e2d\u6838\u3092\u306a\u3059\u306e\u304c\u3001\u6b21\u306e ...",
+    "title": "SAP SuccessFactors\u00ae 2H 2026 \u30ea\u30ea\u30fc\u30b9\uff1a\u4eba\u7684\u8cc7\u672c\u7ba1\u7406\uff08 ..."
+   },
    "news.sap.com/korea/2026/10/%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%97%94-%EA%B0%99%EC%9D%80-%EB%8B%B5-sap-%ED%91%9C-%ED%98%95%EC%8B%9D-ai%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%88%98": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -52736,6 +52754,15 @@
     "summary": "A marketing strategy is a necessary part of running a business, whether you're a scrappy startup or an established brand. It's what keeps your team focused ...",
     "title": "Marketing Strategies: Types & How To Build One (2026)"
    },
+   "shopify.com/blog/marketing-trends": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-11T02:42:38Z",
+    "link": "https://www.shopify.com/blog/marketing-trends",
+    "page": 3,
+    "summary": "What are the marketing trends? The top marketing trends are influencer marketing, mobile optimization, blogging, visual storytelling, push notifications, social ...",
+    "title": "Marketing Trends: 10 Key Examples (2026)"
+   },
    "shopify.com/blog/mija-books-community-over-volume": {
     "baseline": false,
     "date_hint": "8 hours ago",
@@ -58725,6 +58752,15 @@
     "page": 1,
     "summary": "Deprecate when you need to make an extension version unavailable for new activations while allowing extensions already activated on that version to continue ...",
     "title": "Deprecate and archive extensions"
+   },
+   "docs.stripe.com/extensions/scripts/monitor-and-debug": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-11T02:42:38Z",
+    "link": "https://docs.stripe.com/extensions/scripts/monitor-and-debug",
+    "page": 1,
+    "summary": "You can use Workbench to inspect extension runs and troubleshoot failures. For Billing extensions, you can also receive email or event notifications when a ...",
+    "title": "Monitor and debug scripts"
    },
    "docs.stripe.com/fundraising/safes": {
     "baseline": false,

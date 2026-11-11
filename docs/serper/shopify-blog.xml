@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-10T23:42:48Z</updated>
+  <updated>2026-11-11T02:42:38Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/marketing-trends</id>
+    <title>Marketing Trends: 10 Key Examples (2026)</title>
+    <link href="https://www.shopify.com/blog/marketing-trends" />
+    <published>2026-11-11T02:42:38Z</published>
+    <updated>2026-11-11T02:42:38Z</updated>
+    <summary>What are the marketing trends? The top marketing trends are influencer marketing, mobile optimization, blogging, visual storytelling, push notifications, social ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/abc-analysis</id>
     <title>ABC Analysis: Categorize and Optimize Inventory (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T22:42:52Z</published>
     <updated>2026-11-06T22:42:52Z</updated>
     <summary>If you want to run an online store without the stress of managing inventory, dropshipping is an attractive online business model. But you'll need to find ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbgHEIkXXrf0L7KLgloU8MKau_md_xRE6wPVAprGX1xltAqn2KNtY_FjRuawPtMs86RrRbLQYR_bUkdLWxYMYY1-0jTYp85WvXPiY3hQW-KYup02KLH3S_YZtNddd0b3_QDS04vBNI-YH8wi5XLHK</id>
-    <title>5 Real Dropshipping Success Stories + Tips (2026)</title>
-    <link href="https://www.google.com/goto?url=CAESbgHEIkXXrf0L7KLgloU8MKau_md_xRE6wPVAprGX1xltAqn2KNtY_FjRuawPtMs86RrRbLQYR_bUkdLWxYMYY1-0jTYp85WvXPiY3hQW-KYup02KLH3S_YZtNddd0b3_QDS04vBNI-YH8wi5XLHK" />
-    <published>2026-11-06T22:42:52Z</published>
-    <updated>2026-11-06T22:42:52Z</updated>
-    <summary>Read real dropshipping success stories from Shopify store owners, with dated results and early failures, plus beginner tips for your own store.</summary>
   </entry>
 </feed>
