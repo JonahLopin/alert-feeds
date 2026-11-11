@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 38459,
+  "credits_used": 38519,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-11T06:44:18Z",
+  "last_run": "2026-11-11T07:42:39Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 755
+  "runs": 756
  },
  "feeds": {
   "adp-help": {
@@ -24017,6 +24017,15 @@
     "summary": "Prop 22 remains the law of the land in California, and Dashers can continue to set their own hours, earn flexibly, and receive the other benefits and ...",
     "title": "California Supreme Court Upholds Prop 22, Protecting ..."
    },
+   "about.doordash.com/en-us/news/salt-lake-city-dot-weather-launch": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-11T07:42:39Z",
+    "link": "https://about.doordash.com/en-us/news/salt-lake-city-dot-weather-launch",
+    "page": 1,
+    "summary": "DoorDash launches a dedicated pilot program in Salt Lake City to teach Dot how to deliver through different weather conditions. Nov 10, 2026.",
+    "title": "DoorDash Begins Weather Resilience Pilot for Dot, Its ..."
+   },
    "about.doordash.com/en-us/news/snap-report-2026": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -40254,6 +40263,24 @@
     "page": 1,
     "summary": "\u30a8\u30fc\u30b8\u30a7\u30f3\u30c6\u30a3\u30c3\u30af AI\u3001\u4fe1\u983c\u6027\u306e\u9ad8\u3044\u4eba\u6750\u30c7\u30fc\u30bf\u3001\u5404\u7a2e\u4eba\u4e8b\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u3092\u7d71\u5408\u3059\u308b\u3053\u3068\u3067\u3001\u4f01\u696d\u306b\u3068\u3063\u3066\u6700\u3082\u91cd\u8981\u306a\u6210\u679c\u306e\u5275\u51fa\u3092\u652f\u63f4\u3057\u307e\u3059\u3002\u305d\u306e\u4e2d\u6838\u3092\u306a\u3059\u306e\u304c\u3001\u6b21\u306e ...",
     "title": "SAP SuccessFactors\u00ae 2H 2026 \u30ea\u30ea\u30fc\u30b9\uff1a\u4eba\u7684\u8cc7\u672c\u7ba1\u7406\uff08 ..."
+   },
+   "news.sap.com/japan/2026/11/1111_sap-teched-developers-you-can-build-autonomous-enterprise": {
+    "baseline": false,
+    "date_hint": "50 minutes ago",
+    "first_seen": "2026-11-11T07:42:39Z",
+    "link": "https://news.sap.com/japan/2026/11/1111_sap-teched-developers-you-can-build-autonomous-enterprise/",
+    "page": 2,
+    "summary": "\u30d3\u30b8\u30e7\u30f3\u304b\u3089\u73fe\u5b9f\u3078\u2015\u20152026 \u5e74\u306e SAP TechEd \u306b\u304a\u3044\u3066\u3001SAP \u306e\u7d4c\u55b6\u9663\u306f\u3001\u958b\u767a\u8005\u3001\u5c0e\u5165\u4f01\u696d\u3001\u30d1\u30fc\u30c8\u30ca\u30fc\u304c Autonomous Enterprise\uff08\u81ea\u5f8b\u578b\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba\uff09\u3092\u3044\u304b\u306b\u69cb\u7bc9 ...",
+    "title": "\u958b\u767a\u8005\u306b\u5411\u3051\u3066\u300cAutonomous Enterprise \u306f\u69cb\u7bc9\u3067\u304d\u308b\u300d\u3068\u767a\u4fe1"
+   },
+   "news.sap.com/japan/2026/11/1111_sap-teched-developers-you-can-build-autonomous-enterprise?amp=1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-11T07:42:39Z",
+    "link": "https://news.sap.com/japan/2026/11/1111_sap-teched-developers-you-can-build-autonomous-enterprise/?amp=1",
+    "page": 2,
+    "summary": "\u30d3\u30b8\u30e7\u30f3\u304b\u3089\u73fe\u5b9f\u3078\u2015\u20152026 \u5e74\u306e SAP TechEd \u306b\u304a\u3044\u3066\u3001SAP \u306e\u7d4c\u55b6\u9663\u306f\u3001\u958b\u767a\u8005\u3001\u5c0e\u5165\u4f01\u696d\u3001\u30d1\u30fc\u30c8\u30ca\u30fc\u304c Autonomous Enterprise\uff08\u81ea\u5f8b\u578b\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba\uff09\u3092\u3044\u304b\u306b\u69cb\u7bc9 ...",
+    "title": "\u958b\u767a\u8005\u306b\u5411\u3051\u3066\u300cAutonomous Enterprise \u306f\u69cb\u7bc9\u3067\u304d\u308b\u300d\u3068\u767a\u4fe1"
    },
    "news.sap.com/korea/2026/10/%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%97%94-%EA%B0%99%EC%9D%80-%EB%8B%B5-sap-%ED%91%9C-%ED%98%95%EC%8B%9D-ai%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%88%98": {
     "baseline": false,
@@ -57175,6 +57202,15 @@
     "link": "https://help.spoton.com/space/SK/2666660428",
     "summary": "The Split Check by Guest feature allows you to divide a single check based on the items each guest ordered. This ensures accurate billing and allows each guest ...",
     "title": "Split Check by Guest"
+   },
+   "help.spoton.com/space/SK/2666660519/eCard+Systems+Gift+Cards:+Activate,+Reloads,+and+Balance+Checks+%7C+SpotOn+Restaurant": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-11T07:42:39Z",
+    "link": "https://help.spoton.com/space/SK/2666660519/eCard+Systems+Gift+Cards:+Activate,+Reloads,+and+Balance+Checks+%7C+SpotOn+Restaurant",
+    "page": 1,
+    "summary": "Gift cards can be used in SpotOn Restaurant FOH to pay for orders, reload funds, or check the remaining balance. This article explains how to apply a gift card",
+    "title": "eCard Systems Gift Cards: Activate, Reloads, and Balance ..."
    },
    "help.spoton.com/space/SK/2666660554/How+to+Process+Refunds+in+SpotOn+Restaurant+(RPOS)": {
     "baseline": false,

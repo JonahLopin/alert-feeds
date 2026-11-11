@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-10T06:43:25Z</updated>
+  <updated>2026-11-11T07:42:39Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2666660519/eCard+Systems+Gift+Cards:+Activate,+Reloads,+and+Balance+Checks+%7C+SpotOn+Restaurant</id>
+    <title>eCard Systems Gift Cards: Activate, Reloads, and Balance ...</title>
+    <link href="https://help.spoton.com/space/SK/2666660519/eCard+Systems+Gift+Cards:+Activate,+Reloads,+and+Balance+Checks+%7C+SpotOn+Restaurant" />
+    <published>2026-11-11T07:42:39Z</published>
+    <updated>2026-11-11T07:42:39Z</updated>
+    <summary>Gift cards can be used in SpotOn Restaurant FOH to pay for orders, reload funds, or check the remaining balance. This article explains how to apply a gift card</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/5333516293</id>
     <title>Tax Summary Report | SpotOn Dashboard</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T00:41:09Z</published>
     <updated>2026-10-31T00:41:09Z</updated>
     <summary>The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVs94rdSzxApKE6btDHRxKWeit8CaJBmSi5xN1oF6GAxkaBXTuYXGfk-519HeG-TKGCW8nb3mLqAJHvN5-KB54E3tvwiUycNfGGTiyhihPqcAQmTVTr52gjTRp_55C_rlmXA&amp;gsessionid=0L71pqcP43fmZEM6JzFFgDtZAIODurqsSj4-gpadKFSDRNkPwWj_qA</id>
-    <title>Tip Adjustments | SpotOn Express</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVs94rdSzxApKE6btDHRxKWeit8CaJBmSi5xN1oF6GAxkaBXTuYXGfk-519HeG-TKGCW8nb3mLqAJHvN5-KB54E3tvwiUycNfGGTiyhihPqcAQmTVTr52gjTRp_55C_rlmXA&amp;gsessionid=0L71pqcP43fmZEM6JzFFgDtZAIODurqsSj4-gpadKFSDRNkPwWj_qA" />
-    <published>2026-10-31T00:41:09Z</published>
-    <updated>2026-10-31T00:41:09Z</updated>
-    <summary>Adjust tips after payment for paid orders in receipt-based tipping workflows. You can adjust the tip within 10 minutes of the initial change. SpotOn Customer ...</summary>
   </entry>
 </feed>
