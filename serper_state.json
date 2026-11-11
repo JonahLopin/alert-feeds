@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 38639,
+  "credits_used": 38699,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-11T09:43:18Z",
+  "last_run": "2026-11-11T10:42:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 758
+  "runs": 759
  },
  "feeds": {
   "adp-help": {
@@ -17425,6 +17425,15 @@
    }
   },
   "chowbus-blog": {
+   "chowbus.com/blog/a-real-guide-to-optimizing-google-ads-for-restaurants": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-11T10:42:53Z",
+    "link": "https://www.chowbus.com/blog/a-real-guide-to-optimizing-google-ads-for-restaurants",
+    "page": 2,
+    "summary": "Tip Pooling vs Tip Out: Split Formulas, Federal Rules and the Records to Keep. Tip pooling vs tip out compared: how each works on a busy shift, split formulas ...",
+    "title": "A Real Guide to Optimizing Google Ads for Restaurants"
+   },
    "chowbus.com/blog/bar-pos-izakaya-ktv-asian-nightlife-2026": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -17611,6 +17620,15 @@
     "page": 1,
     "summary": "Eligible workers can deduct up to $25,000 of qualified tips per tax return for tax years 2025 through 2028. The deduction phases out for higher earners,",
     "title": "No Tax on Tips: What Restaurant Owners Need From Their ..."
+   },
+   "chowbus.com/blog/pizza-pos-commission-free-delivery-2026": {
+    "baseline": false,
+    "date_hint": "17 hours ago",
+    "first_seen": "2026-11-11T10:42:53Z",
+    "link": "https://www.chowbus.com/blog/pizza-pos-commission-free-delivery-2026",
+    "page": 2,
+    "summary": "Chowbus is the all-in-one AI POS with commission-free online ordering, used across 9,000+ restaurants in all 50 U.S. states and Canada with 24/7 support.",
+    "title": "Pizza POS Systems and the Delivery Margin Problem (2026)"
    },
    "chowbus.com/blog/point-of-sale-hardware-checklist-new-restaurant-location": {
     "baseline": false,
@@ -74075,6 +74093,15 @@
     "page": 1,
     "summary": "Wolters Kluwer, a global leader in information solutions, software and services, announces today that it has completed the reduction in share capital approved ...",
     "title": "Wolters Kluwer completes capital reduction"
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-completes-divestment-of-transport-services": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-11T10:42:53Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-completes-divestment-of-transport-services",
+    "page": 2,
+    "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting; ...",
+    "title": "Wolters Kluwer Completes Divestment of Transport Services"
    },
    "wolterskluwer.com/en/news/wolters-kluwer-equips-primary-care-providers-tools-meet-burgeoning-mental-health-demand": {
     "baseline": false,
