@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-11T12:42:34Z</updated>
+  <updated>2026-11-11T14:42:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/insurers-react-to-riot-risks-across-europe-by-capping-coverage</id>
+    <title>Riot Risks in Europe Lead Insurers to Start Capping ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/insurers-react-to-riot-risks-across-europe-by-capping-coverage" />
+    <published>2026-11-11T14:42:44Z</published>
+    <updated>2026-11-11T14:42:44Z</updated>
+    <summary>Insurers are taking steps to limit their exposure to the risk of losses tied to a wave of street protests in cities across Europe.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/new-mexico-senator-pushes-permitting-bill-despite-states-qualms</id>
     <title>New Mexico Senator Pushes Permitting Bill Despite State's ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-09T11:42:46Z</published>
     <updated>2026-11-09T11:42:46Z</updated>
     <summary>The leader of Weil Gotshal &amp; Manges' real estate practice is headed for Latham &amp; Watkins along with five colleagues as Weil, a once-powerful Wall Street law ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/texas-flip-to-blue-is-major-blow-to-red-states-legal-fights</id>
-    <title>Texas' Flip to Blue Is Major Blow to Red States' Legal Fights</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/texas-flip-to-blue-is-major-blow-to-red-states-legal-fights" />
-    <published>2026-11-09T11:42:46Z</published>
-    <updated>2026-11-09T11:42:46Z</updated>
-    <summary>The midterms punched a Texas-sized hole in the GOP attorneys general coalition, creating leadership questions for red states and handing Democrats new ...</summary>
   </entry>
 </feed>

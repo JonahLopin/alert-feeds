@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-11T13:43:18Z</updated>
+  <updated>2026-11-11T14:42:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/1066992036/Loyalty+SpotOn+Merchant+Dashboard</id>
+    <title>SpotOn Loyalty | SpotOn Dashboard</title>
+    <link href="https://help.spoton.com/space/SK/1066992036/Loyalty+SpotOn+Merchant+Dashboard" />
+    <published>2026-11-11T14:42:44Z</published>
+    <updated>2026-11-11T14:42:44Z</updated>
+    <summary>The Loyalty page in your SpotOn Dashboard shows how your customers earn and redeem spots. You can also manage your loyalty program settings here.</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/3746562157</id>
     <title>eCard Systems Gift Cards | SpotOn Lite</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T02:42:41Z</published>
     <updated>2026-10-31T02:42:41Z</updated>
     <summary>Overview. Order Types determine how orders are processed within SpotOn Restaurant (RPOS). They can be configured with unique pricing, customer requirements, ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVlYptnpWjnM_lJ6j1qCn5geVR-DqgHGn_4DWwQo82olwEBGxVyHimy8TGCBXJkSvyAjxBf5RINm5uzUSO8fkHizigBKxCrhO03itCr8mR7LnTaARByLeL7hUUQmrr8VtdCA</id>
-    <title>Deposits Setup &amp; Management | SpotOn Reserve Web Portal</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVlYptnpWjnM_lJ6j1qCn5geVR-DqgHGn_4DWwQo82olwEBGxVyHimy8TGCBXJkSvyAjxBf5RINm5uzUSO8fkHizigBKxCrhO03itCr8mR7LnTaARByLeL7hUUQmrr8VtdCA" />
-    <published>2026-10-31T01:43:06Z</published>
-    <updated>2026-10-31T01:43:06Z</updated>
-    <summary>The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,</summary>
   </entry>
 </feed>

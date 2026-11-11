@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 38878,
+  "credits_used": 38937,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-11T13:43:18Z",
+  "last_run": "2026-11-11T14:42:44Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 762
+  "runs": 763
  },
  "feeds": {
   "adp-help": {
@@ -13088,6 +13088,15 @@
     "summary": "Insurers are withdrawing coverage for climate-driven risks and increasingly passing on losses to governments and homeowners, according to a report published ...",
     "title": "Insurance Pullback Is Coming as Climate Risk Grows, ..."
    },
+   "news.bloomberglaw.com/business-and-practice/insurers-react-to-riot-risks-across-europe-by-capping-coverage": {
+    "baseline": false,
+    "date_hint": "21 hours ago",
+    "first_seen": "2026-11-11T14:42:44Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/insurers-react-to-riot-risks-across-europe-by-capping-coverage",
+    "page": 4,
+    "summary": "Insurers are taking steps to limit their exposure to the risk of losses tied to a wave of street protests in cities across Europe.",
+    "title": "Riot Risks in Europe Lead Insurers to Start Capping ..."
+   },
    "news.bloomberglaw.com/business-and-practice/integer-beats-investors-electrophysiology-product-demand-suit": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -23936,6 +23945,15 @@
     "page": 1,
     "summary": "Dashers in the Golden State are seeing higher earnings, guaranteed flexibility and access to unprecedented benefits thanks to the landmark law.",
     "title": "Thanks to California's Prop 22 Dashers are Doing Better ..."
+   },
+   "about.doordash.com/en-us/news/dol-final-rule-statement": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-11T14:42:44Z",
+    "link": "https://about.doordash.com/en-us/news/dol-final-rule-statement",
+    "page": 1,
+    "summary": "DoorDash is confident that Dashers are properly classified as independent contractors under the FLSA, and we do not anticipate this rule causing changes to ...",
+    "title": "DoorDash Statement on the Department of Labor's Final ..."
    },
    "about.doordash.com/en-us/news/doordash-adds-new-grocery-partners": {
     "baseline": false,
@@ -57074,6 +57092,15 @@
     "date_hint": "6 days ago",
     "first_seen": "2026-11-10T05:43:03Z",
     "link": "https://help.spoton.com/space/SK/1066992036/Loyalty+SpotOn+Dashboard",
+    "page": 1,
+    "summary": "The Loyalty page in your SpotOn Dashboard shows how your customers earn and redeem spots. You can also manage your loyalty program settings here.",
+    "title": "SpotOn Loyalty | SpotOn Dashboard"
+   },
+   "help.spoton.com/space/SK/1066992036/Loyalty+SpotOn+Merchant+Dashboard": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-11T14:42:44Z",
+    "link": "https://help.spoton.com/space/SK/1066992036/Loyalty+SpotOn+Merchant+Dashboard",
     "page": 1,
     "summary": "The Loyalty page in your SpotOn Dashboard shows how your customers earn and redeem spots. You can also manage your loyalty program settings here.",
     "title": "SpotOn Loyalty | SpotOn Dashboard"

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:doordash-press</id>
   <title>DoorDash press (site:about.doordash.com/en-us/news/) via Serper</title>
-  <updated>2026-11-11T13:43:18Z</updated>
+  <updated>2026-11-11T14:42:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/doordash-press.xml" />
+  <entry>
+    <id>https://about.doordash.com/en-us/news/dol-final-rule-statement</id>
+    <title>DoorDash Statement on the Department of Labor's Final ...</title>
+    <link href="https://about.doordash.com/en-us/news/dol-final-rule-statement" />
+    <published>2026-11-11T14:42:44Z</published>
+    <updated>2026-11-11T14:42:44Z</updated>
+    <summary>DoorDash is confident that Dashers are properly classified as independent contractors under the FLSA, and we do not anticipate this rule causing changes to ...</summary>
+  </entry>
   <entry>
     <id>https://about.doordash.com/en-us/news/dashers-doing-better-than-ever-under-prop-22</id>
     <title>Thanks to California's Prop 22 Dashers are Doing Better ...</title>
