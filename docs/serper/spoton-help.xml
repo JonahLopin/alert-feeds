@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-11T07:42:39Z</updated>
+  <updated>2026-11-11T08:42:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/1116667961/FAQs+%7C+SpotOn+Reserve</id>
+    <title>FAQs | SpotOn Reserve</title>
+    <link href="https://help.spoton.com/space/SK/1116667961/FAQs+%7C+SpotOn+Reserve" />
+    <published>2026-11-11T08:42:44Z</published>
+    <updated>2026-11-11T08:42:44Z</updated>
+    <summary>SpotOn Reserve is a comprehensive front-of-house management platform designed for restaurant merchants. It provides tools for managing reservations, waitlists, ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/2666660519/eCard+Systems+Gift+Cards:+Activate,+Reloads,+and+Balance+Checks+%7C+SpotOn+Restaurant</id>
     <title>eCard Systems Gift Cards: Activate, Reloads, and Balance ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T01:43:06Z</published>
     <updated>2026-10-31T01:43:06Z</updated>
     <summary>Overview. Order Types determine how orders are processed within SpotOn Restaurant (RPOS). They can be configured with unique pricing, customer requirements, ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVvAmJSSG94gQNZ018DOKnFlCUw2VOlIDu7Rdd1wZMZlPlJAUMBHXJhpV69GJtWNkHKx-_bxX8AnDnmFAD7oD66jzcITapPjxt5W3RPVNNbgurw1ivTSd_Mpdz2y0oURnVIQ&amp;gsessionid=0L71pqcP43fmZEM6JzFFgDtZAIODurqsSj4-gpadKFSDRNkPwWj_qA</id>
-    <title>Deposits Setup &amp; Management | SpotOn Reserve Web Portal</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVvAmJSSG94gQNZ018DOKnFlCUw2VOlIDu7Rdd1wZMZlPlJAUMBHXJhpV69GJtWNkHKx-_bxX8AnDnmFAD7oD66jzcITapPjxt5W3RPVNNbgurw1ivTSd_Mpdz2y0oURnVIQ&amp;gsessionid=0L71pqcP43fmZEM6JzFFgDtZAIODurqsSj4-gpadKFSDRNkPwWj_qA" />
-    <published>2026-10-31T00:41:09Z</published>
-    <updated>2026-10-31T00:41:09Z</updated>
-    <summary>The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,</summary>
   </entry>
 </feed>
