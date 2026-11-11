@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 38214,
+  "credits_used": 38274,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-11T02:42:38Z",
+  "last_run": "2026-11-11T03:42:50Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 751
+  "runs": 752
  },
  "feeds": {
   "adp-help": {
@@ -17531,6 +17531,15 @@
     "page": 1,
     "summary": "\"Buy a $50 gift card, get a $10 bonus card\" is the most common holiday offer in restaurants, and it works because it gives guests a reason to buy now ...",
     "title": "Structuring a Holiday Bonus Offer That Pays Off"
+   },
+   "chowbus.com/blog/gift-cards-loyalty-pos-one-system-instead-of-three": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-11T03:42:50Z",
+    "link": "https://www.chowbus.com/blog/gift-cards-loyalty-pos-one-system-instead-of-three",
+    "page": 2,
+    "summary": "When gift cards, loyalty, and POS come from three separate vendors, purchases stop earning loyalty credit and redemptions stop looking like anything but ...",
+    "title": "Gift Cards, Loyalty, and POS on One System Instead of Three"
    },
    "chowbus.com/blog/hospitality-pos-vs-retail-pos": {
     "baseline": false,
@@ -52258,6 +52267,15 @@
     "page": 3,
     "summary": "Whether you're starting out with Facebook advertising or looking for inspiration to scale your campaigns, Facebook ad examples give a useful starting point.",
     "title": "Facebook Ad Examples: 9 Ads and Why They Work (2026)"
+   },
+   "shopify.com/blog/facebook-statistics": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-11T03:42:50Z",
+    "link": "https://www.shopify.com/blog/facebook-statistics",
+    "page": 4,
+    "summary": "Pew Research Center's 2026 data shows that 70% of US adults use Facebook, making it the second most widely used online platform in the country, after YouTube.",
+    "title": "53 Facebook Statistics That Can Help Your Business (2026)"
    },
    "shopify.com/blog/find-broken-links-website": {
     "baseline": false,
