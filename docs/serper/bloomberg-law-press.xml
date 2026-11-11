@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-11T05:43:06Z</updated>
+  <updated>2026-11-11T11:42:33Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/wilmerhale-ramps-up-deals-work-by-trading-on-regulatory-chops</id>
+    <title>WilmerHale Ramps Up Deals Work by Trading on ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/wilmerhale-ramps-up-deals-work-by-trading-on-regulatory-chops" />
+    <published>2026-11-11T11:42:33Z</published>
+    <updated>2026-11-11T11:42:33Z</updated>
+    <summary>WilmerHale is leveraging its strengths as a regulatory adviser to try to build up its profile as a bicoastal dealmaker.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/oklahoma-senators-opposition-imperils-trump-trial-court-pick</id>
     <title>Oklahoma Senator's Opposition Imperils Trump Trial Court ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-09T11:42:46Z</published>
     <updated>2026-11-09T11:42:46Z</updated>
     <summary>Elon Musk confirmed late last month that Tesla Inc. and SpaceX had formed separate special committees of independent directors to consider combining.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/reality-tvs-newest-viewers-are-traders-here-to-chase-payouts</id>
-    <title>Reality TV's Newest Viewers Are Traders Here to Chase ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/reality-tvs-newest-viewers-are-traders-here-to-chase-payouts" />
-    <published>2026-11-09T11:42:46Z</published>
-    <updated>2026-11-09T11:42:46Z</updated>
-    <summary>Hunter Button first learned about prediction markets the way most people did — through elections. He started by hedging his vote on the 2020 presidential ...</summary>
   </entry>
 </feed>
