@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 39712,
+  "credits_used": 39772,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-12T04:24:57Z",
+  "last_run": "2026-11-12T05:23:46Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 776
+  "runs": 777
  },
  "feeds": {
   "adp-help": {
@@ -34326,6 +34326,15 @@
     "page": 3,
     "summary": "Learn how to customize reports and create custom summary reports \u2014 and save hours on bookkeeping. Set it up with confidence.",
     "title": "Customize reports and create custom summary reports"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/report-management/run-reports-quickbooks-online/L7aILHhbl_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-12T05:23:46Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/report-management/run-reports-quickbooks-online/L7aILHhbl_US_en_US",
+    "page": 1,
+    "summary": "With QuickBooks Online Advanced, you can create your own reports using Custom Report Builder. Financial reports provide a quick overview of your business ...",
+    "title": "Run reports in QuickBooks Online - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/report-management/set-default-date-range-quickbooks-online/L0GZxLMB1_US_en_US": {
     "baseline": false,
