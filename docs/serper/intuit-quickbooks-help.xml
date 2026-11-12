@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-11-12T18:43:04Z</updated>
+  <updated>2026-11-12T20:42:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/account-management/get-help-sign-quickbooks-online-account/L389eWYin_US_en_US</id>
+    <title>Recover your Intuit Account if you can't sign in - QuickBooks</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/account-management/get-help-sign-quickbooks-online-account/L389eWYin_US_en_US" />
+    <published>2026-11-12T20:42:49Z</published>
+    <updated>2026-11-12T20:42:49Z</updated>
+    <summary>Hit a snag? Here's how to fix recover your Intuit Account if you can't sign in — and understand what caused it. Clear the blocker for good.</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll/year-end-checklist-quickbooks-desktop-payroll/L72tiQmbn_US_en_US</id>
     <title>Year-end checklist for QuickBooks Desktop Payroll - Intuit</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T18:43:21Z</published>
     <updated>2026-11-06T18:43:21Z</updated>
     <summary>Here's how to change customer-facing email address — so everything reconciles cleanly. Get it done in minutes.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESzgEBxCJF17a1FSco_MkKxkgAwmI6jptGSgmVC-UU4Ya1Myv3K9OxGviubNHHO6Fyk_MWpCKw6MzWKRSCz8sWu8D3dizgT7vF_lPfzH-mfqqNJ4UL4ZKlHzCEGnDC7ykIdRKCFvgIRnaFQ-D_pqzjq6xJt4yVTrm3laU3jCSCt2P1kOPyy7DiBWksQDUK2hsDR-q_fJzO31lXWED02dx56qJ_F_JKuQxd30wnR1jS72JxewWDju2XBvFwDeiEVGQhM0jruYgyzVPPRpfScQkSbw</id>
-    <title>Learn about payment processing limits in QuickBooks Bill Pay</title>
-    <link href="https://www.google.com/goto?url=CAESzgEBxCJF17a1FSco_MkKxkgAwmI6jptGSgmVC-UU4Ya1Myv3K9OxGviubNHHO6Fyk_MWpCKw6MzWKRSCz8sWu8D3dizgT7vF_lPfzH-mfqqNJ4UL4ZKlHzCEGnDC7ykIdRKCFvgIRnaFQ-D_pqzjq6xJt4yVTrm3laU3jCSCt2P1kOPyy7DiBWksQDUK2hsDR-q_fJzO31lXWED02dx56qJ_F_JKuQxd30wnR1jS72JxewWDju2XBvFwDeiEVGQhM0jruYgyzVPPRpfScQkSbw" />
-    <published>2026-11-06T18:43:21Z</published>
-    <updated>2026-11-06T18:43:21Z</updated>
-    <summary>If you're still using QuickBooks Online Accountant, update to Intuit Accountant Suite (IAS) before you follow the steps in this article.</summary>
   </entry>
 </feed>
