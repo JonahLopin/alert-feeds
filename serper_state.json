@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 39652,
+  "credits_used": 39712,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-12T03:25:43Z",
+  "last_run": "2026-11-12T04:24:57Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 775
+  "runs": 776
  },
  "feeds": {
   "adp-help": {
@@ -16261,6 +16261,15 @@
     "page": 2,
     "summary": "A Black former government official who was removed from office when President Donald Trump returned to office last year can't proceed with his claim that he ...",
     "title": "Trump Administration Escapes Black Ex-Official's Race ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trump-administration-unveils-new-plan-to-sell-federal-lands": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T04:24:57Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-administration-unveils-new-plan-to-sell-federal-lands",
+    "page": 1,
+    "summary": "The Trump administration has formally unveiled plans to sell public land as part of a new strategy laying out Interior Department goals.",
+    "title": "Trump Administration Unveils New Plan to Sell Federal ..."
    },
    "news.bloomberglaw.com/business-and-practice/trump-and-crypto-firm-sued-for-profiting-from-foreign-government": {
     "baseline": false,
@@ -54933,6 +54942,15 @@
     "page": 1,
     "summary": "The Arizona Department of Revenue is requesting that businesses submit a preliminary NAUPA II report file before the annual reporting deadline of November 1, ...",
     "title": "Arizona preliminary report request (Fall 2026) - Sovos Docs"
+   },
+   "docs.sovos.com/en/unclaimed-property/reportmyup/create-and-submit-state-reports/create-and-submit-reports": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-12T04:24:57Z",
+    "link": "https://docs.sovos.com/en/unclaimed-property/reportmyup/create-and-submit-state-reports/create-and-submit-reports",
+    "page": 1,
+    "summary": "You can find upcoming report deadlines by state in the Important dates section of the Dashboard page. Look up report due dates for each state in the Filing ...",
+    "title": "Create and submit reports - Sovos Docs"
    },
    "google.com/goto?url=CAESqAEBxCJF1xKdS_PGBWGtevVHC-5-Te2cNElHV0jf09JDQoM6hcz4W9BK64u_9yubpetd6vvVdEnqbDnqsuA-dvbJDH-48QLIBXzHpANjqAEaM6zPHCZdKh5uAetIQDdD72XeVlhS-Czh8aMyAnyEqFIKB4kT-OKdKV-H4ysOixtpvt0PpC3X0QGQe8bceLsGzSh8JlPFCFbZEaQGkfQs5bjF72nmR8YRkhk": {
     "baseline": false,

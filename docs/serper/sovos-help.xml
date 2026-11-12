@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-12T02:26:08Z</updated>
+  <updated>2026-11-12T04:24:57Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/unclaimed-property/reportmyup/create-and-submit-state-reports/create-and-submit-reports</id>
+    <title>Create and submit reports - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/unclaimed-property/reportmyup/create-and-submit-state-reports/create-and-submit-reports" />
+    <published>2026-11-12T04:24:57Z</published>
+    <updated>2026-11-12T04:24:57Z</updated>
+    <summary>You can find upcoming report deadlines by state in the Important dates section of the Dashboard page. Look up report due dates for each state in the Filing ...</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/unclaimed-property/reportmyup/compliance-resources</id>
     <title>Compliance Resources - Sovos Docs</title>
@@ -795,13 +803,5 @@
     <published>2026-10-27T11:09:56Z</published>
     <updated>2026-10-27T11:09:56Z</updated>
     <summary>A Geo Code represents a unique combination of taxing jurisdictions to which an address belongs. Geo Codes play a key role in assigning the correct tax rate.</summary>
-  </entry>
-  <entry>
-    <id>https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/check-the-status-of-irs-transmittals</id>
-    <title>Check the status of IRS transmittals - Sovos Docs</title>
-    <link href="https://docs.sovos.com/en/1099-reporting/tax-information-reporting/transmit/transmit-to-the-irs/check-the-status-of-irs-transmittals" />
-    <published>2026-10-26T11:36:32Z</published>
-    <updated>2026-10-26T11:36:32Z</updated>
-    <summary>View whether your transmittals were accepted or need action directly in Sovos's Tax Information Reporting software.</summary>
   </entry>
 </feed>

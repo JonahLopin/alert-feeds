@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-12T03:25:43Z</updated>
+  <updated>2026-11-12T04:24:57Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/trump-administration-unveils-new-plan-to-sell-federal-lands</id>
+    <title>Trump Administration Unveils New Plan to Sell Federal ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/trump-administration-unveils-new-plan-to-sell-federal-lands" />
+    <published>2026-11-12T04:24:57Z</published>
+    <updated>2026-11-12T04:24:57Z</updated>
+    <summary>The Trump administration has formally unveiled plans to sell public land as part of a new strategy laying out Interior Department goals.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/nvidia-working-with-outside-firm-to-identify-ceo-candidates-1</id>
     <title>Nvidia Working With Outside Firm to Identify CEO ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-09T17:43:10Z</published>
     <updated>2026-11-09T17:43:10Z</updated>
     <summary>A Justice Department attorney who defended the Trump administration's ability to place an ally in a key US attorney post is joining Dechert as a partner ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/baker-botts-recruits-energy-and-infrastructure-partner-in-london</id>
-    <title>Baker Botts Recruits Energy and Infrastructure Partner in ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/baker-botts-recruits-energy-and-infrastructure-partner-in-london" />
-    <published>2026-11-09T17:43:10Z</published>
-    <updated>2026-11-09T17:43:10Z</updated>
-    <summary>Kirsti Massie joined Baker Botts as a partner in its global projects practice in London, the firm announced Monday.</summary>
   </entry>
 </feed>
