@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 40470,
+  "credits_used": 40522,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-12T18:43:04Z",
+  "last_run": "2026-11-12T19:43:15Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 790
+  "runs": 791
  },
  "feeds": {
   "adp-help": {
@@ -15643,6 +15643,15 @@
     "summary": "Much of the US financial reporting rulebook will continue to be applicable should the SEC adjust how often public companies need to file financial reports, ...",
     "title": "SEC Semiannual Proposal Spurs Accounting Rulebook ..."
    },
+   "news.bloomberglaw.com/business-and-practice/senate-democrat-defends-oversight-after-us-attorney-probe-threat": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-12T19:43:15Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/senate-democrat-defends-oversight-after-us-attorney-probe-threat",
+    "page": 1,
+    "summary": "A key Senate Democrat is defending his authority to probe White House dealings and accused the administration of intimidation after one of President Donald Trump\u2019s US attorneys threatened him with a Justice Department investigation.",
+    "title": "Senate Democrat Defends Oversight After US Attorney Probe Threat"
+   },
    "news.bloomberglaw.com/business-and-practice/seventh-circuit-probes-supervalu-whistleblowers-penalties-ask": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -16990,6 +16999,15 @@
     "page": 4,
     "summary": "A US plan to rehabilitate sanctioned tankers to boost oil supply may attract only a sliver of the dark fleet, as existing contracts, complex compliance ...",
     "title": "US Plan to Rehabilitate Dark Fleet Tankers May Find Few ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/us-probing-if-alice-huang-helped-smuggle-super-micro-products": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-12T19:43:15Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-probing-if-alice-huang-helped-smuggle-super-micro-products",
+    "page": 1,
+    "summary": "The Justice Department is probing Alice Huang, the woman US officials suspect as a possible spy targeting the ousted head of Nvidia Corp., over whether entities linked to her were involved in efforts to smuggle products made by Super Micro Computer Inc. to China, according a person familiar with the matter.",
+    "title": "US Probing If Alice Huang Helped Smuggle Super Micro ..."
    },
    "news.bloomberglaw.com/business-and-practice/us-push-for-higher-german-drug-prices-would-backfire-study-says": {
     "baseline": false,
