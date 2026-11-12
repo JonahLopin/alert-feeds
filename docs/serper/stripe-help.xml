@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-12T01:22:56Z</updated>
+  <updated>2026-11-12T10:43:03Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/get-started/account/orgs/build?locale=zh-CN</id>
+    <title>构建组织</title>
+    <link href="https://docs.stripe.com/get-started/account/orgs/build?locale=zh-CN" />
+    <published>2026-11-12T10:43:03Z</published>
+    <updated>2026-11-12T10:43:03Z</updated>
+    <summary>创建一个组织,在Stripe 管理平台中一站式集中管理账户。创建组织后,您可以在团队和安全设置中邀请更多团队成员访问组织。</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/v2/money-management/received-debit-mandates</id>
     <title>Received Debit Mandates | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T15:43:24Z</published>
     <updated>2026-11-06T15:43:24Z</updated>
     <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESjwEBxCJF1_rjEwzlDlq_Nt8uvc6QzUIHbbYOlBaJ-ss5bA1xfS020RGrFJPXu2UpAZ1ByWbqqg5L4bnV9eWrtXH0r7c3H_0uo2pTd428dFolEO0wVHoSqozGmLkm_SV7gHcvmOFwqMCRCTW4thdTg_xoxH8wvFcHC2z3UgzvpeGvKrdEroh3nfpqEzj9k4j1kw</id>
-    <title>Recommandations d'assistance et modèles de FAQ</title>
-    <link href="https://www.google.com/goto?url=CAESjwEBxCJF1_rjEwzlDlq_Nt8uvc6QzUIHbbYOlBaJ-ss5bA1xfS020RGrFJPXu2UpAZ1ByWbqqg5L4bnV9eWrtXH0r7c3H_0uo2pTd428dFolEO0wVHoSqozGmLkm_SV7gHcvmOFwqMCRCTW4thdTg_xoxH8wvFcHC2z3UgzvpeGvKrdEroh3nfpqEzj9k4j1kw" />
-    <published>2026-11-06T14:42:45Z</published>
-    <updated>2026-11-06T14:42:45Z</updated>
-    <summary>Modèles de FAQ destinés aux plateformes utilisant Stripe Express pour la confirmation préalable à la déclaration et l'envoi électronique des formulaires fiscaux ...</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 39994,
+  "credits_used": 40046,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-12T09:42:33Z",
+  "last_run": "2026-11-12T10:43:03Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 781
+  "runs": 782
  },
  "feeds": {
   "adp-help": {
@@ -57824,6 +57824,15 @@
     "summary": "The Split Check by Guest feature allows you to divide a single check based on the items each guest ordered. This ensures accurate billing and allows each guest ...",
     "title": "Split Check by Guest"
    },
+   "help.spoton.com/space/SK/2666660519/eCard+Systems+Gift+Cards%3A+Activate%2C+Reloads%2C+and+Balance+Checks+%7C+SpotOn+Restaurant": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-12T10:43:03Z",
+    "link": "https://help.spoton.com/space/SK/2666660519/eCard+Systems+Gift+Cards%3A+Activate%2C+Reloads%2C+and+Balance+Checks+%7C+SpotOn+Restaurant",
+    "page": 1,
+    "summary": "Gift cards can be used in SpotOn Restaurant FOH to pay for orders, reload funds, or check the remaining balance. This article explains how to apply a gift card",
+    "title": "eCard Systems Gift Cards: Activate, Reloads, and Balance ..."
+   },
    "help.spoton.com/space/SK/2666660519/eCard+Systems+Gift+Cards:+Activate,+Reloads,+and+Balance+Checks+%7C+SpotOn+Restaurant": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -59625,6 +59634,15 @@
     "page": 1,
     "summary": "Buat organisasi, kelola akun Anda dari satu lokasi di Stripe Dashboard. Setelah membuat organisasi, Anda dapat mengundang anggota tim tambahan untuk ...",
     "title": "Bangun sebuah organisasi | Dokumentasi Stripe"
+   },
+   "docs.stripe.com/get-started/account/orgs/build?locale=zh-CN": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-11-12T10:43:03Z",
+    "link": "https://docs.stripe.com/get-started/account/orgs/build?locale=zh-CN",
+    "page": 1,
+    "summary": "\u521b\u5efa\u4e00\u4e2a\u7ec4\u7ec7,\u5728Stripe \u7ba1\u7406\u5e73\u53f0\u4e2d\u4e00\u7ad9\u5f0f\u96c6\u4e2d\u7ba1\u7406\u8d26\u6237\u3002\u521b\u5efa\u7ec4\u7ec7\u540e,\u60a8\u53ef\u4ee5\u5728\u56e2\u961f\u548c\u5b89\u5168\u8bbe\u7f6e\u4e2d\u9080\u8bf7\u66f4\u591a\u56e2\u961f\u6210\u5458\u8bbf\u95ee\u7ec4\u7ec7\u3002",
+    "title": "\u6784\u5efa\u7ec4\u7ec7"
    },
    "docs.stripe.com/global-payouts/recipient-countries": {
     "baseline": false,
