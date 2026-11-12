@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 40686,
+  "credits_used": 40742,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-12T22:42:31Z",
+  "last_run": "2026-11-12T23:43:41Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 794
+  "runs": 795
  },
  "feeds": {
   "adp-help": {
@@ -35457,6 +35457,15 @@
     "summary": "Ryan, an award-winning global tax services and software provider, is the largest Firm in the world dedicated exclusively to business taxes.",
     "title": "Ryan Marks 35\u1d57\u02b0 Anniversary with Refreshed Brand and ..."
    },
+   "ryan.com/insights/press-room/ryan-2026-austin-top-workplaces": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T23:43:41Z",
+    "link": "https://ryan.com/insights/press-room/ryan-2026-austin-top-workplaces",
+    "page": 1,
+    "summary": "Ryan, an award-winning global tax services and software provider, is the largest Firm in the world dedicated exclusively to business taxes. Headquartered in ...",
+    "title": "Ryan Named One of Austin's Top Workplaces for the 15\u1d57\u02b0 ..."
+   },
    "ryan.com/insights/press-room/ryan-2026-best-places-to-work-north-texas": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -69857,6 +69866,15 @@
     "page": 1,
     "summary": "Learn how marketplace sales tax works, which states have facilitator laws, and what sellers on Amazon, Walmart, Etsy, and other platforms need to know.",
     "title": "Marketplace Sales Tax Explained: How Facilitator Laws Works"
+   },
+   "taxcloud.com/blog/netsuite-legacy-tax-integration": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-12T23:43:41Z",
+    "link": "https://taxcloud.com/blog/netsuite-legacy-tax-integration/",
+    "page": 1,
+    "summary": "TaxCloud now automates sales tax in NetSuite Legacy Tax with the SuiteApp by Nova Module. Get real-time calculation, nexus tracking, filing, and remittance.",
+    "title": "TaxCloud Now Integrates With NetSuite Legacy Tax"
    },
    "taxcloud.com/blog/new-transactions-page": {
     "baseline": false,

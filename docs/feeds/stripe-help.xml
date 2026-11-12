@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-12T09:07:53Z</updated>
+  <updated>2026-11-12T23:45:17Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:16827804621733525377</id>
+    <title>Issuing regulated customer notices | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/issuing/commercial-compliance/issuing-regulated-customer-notices?issuing-notices-sender=platform" />
+    <published>2026-11-12T23:45:17Z</published>
+    <updated>2026-11-12T23:45:17Z</updated>
+    <summary>Stripe offers a no-code solution to send regulated emails on your behalf. We recommend this option because it helps you stay compliant automatically.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:9047186606943768044</id>
     <title>Rate Card Custom Unit Overage Rates | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-20T22:44:24Z</published>
     <updated>2026-10-20T22:44:24Z</updated>
     <summary>Export your agentic commerce catalog feed, prevent out-of-stock and price failures with a price and availability hook, and offer promotions ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:12527214962471402690</id>
-    <title>Reserve Releases | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/reserve/release?api-version=2026-09-30.preview" />
-    <published>2026-10-20T22:44:24Z</published>
-    <updated>2026-10-20T22:44:24Z</updated>
-    <summary>ReserveReleases represent the release of funds from a ReserveHold. Was this section helpful?YesNo. EndpointsEvents. More.</summary>
   </entry>
 </feed>
