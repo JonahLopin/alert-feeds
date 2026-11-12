@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 40256,
+  "credits_used": 40309,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-12T14:42:50Z",
+  "last_run": "2026-11-12T15:43:06Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 786
+  "runs": 787
  },
  "feeds": {
   "adp-help": {
@@ -39130,6 +39130,15 @@
     "summary": "To evaluate and deploy CRM and ERP independently leaves a structural gap in the information available to customer-facing employees.",
     "title": "Why Enterprises Don't Evaluate CRM in Isolation"
    },
+   "news.sap.com/2026/11/a-smooth-ride-through-peak-season-with-trek-bikes": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T15:43:06Z",
+    "link": "https://news.sap.com/2026/11/a-smooth-ride-through-peak-season-with-trek-bikes/",
+    "page": 1,
+    "summary": "Trek Bikes stays ready for peak season with reliable digital commerce and faster issue resolution via SAP Commerce Cloud. Read to learn how.",
+    "title": "A Smooth Ride Through Peak Season with Trek Bikes"
+   },
    "news.sap.com/2026/11/abap-platform-becoming-enterprise-grade-execution-backbone-agentic-ai": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -41514,6 +41523,15 @@
     "summary": "Herman Erlach_Header SAP Polska 00 800 491 1525. Speak Out at SAP SAP Trust Center SAP Store Platforma technologiczna Bran\u017ce \u2026 \u00a9 2026 SAP SE",
     "title": "Herman Erlach_Header - SAP Poland Centrum Wiadomo\u015bci"
    },
+   "news.sap.com/poland/2026/11/ai-zmienia-reguly-walki-o-klientow-co-to-oznacza-dla-e-commerce": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T15:43:06Z",
+    "link": "https://news.sap.com/poland/2026/11/ai-zmienia-reguly-walki-o-klientow-co-to-oznacza-dla-e-commerce/",
+    "page": 1,
+    "summary": "Wed\u0142ug raportu \u201eE-commerce w Polsce 2026\u201d, przygotowanego przez Gemius, strony i aplikacje zakupowe odwiedza przynajmniej raz w miesi\u0105cu 93 proc. polskich ...",
+    "title": "AI zmienia regu\u0142y walki o klient\u00f3w. Co to oznacza dla e- ..."
+   },
    "news.sap.com/poland/2026/11/ai-zmienia-reguly-walki-o-klientow-co-to-oznacza-dla-e-commerce?amp=1": {
     "baseline": false,
     "date_hint": "6 hours ago",
@@ -41657,6 +41675,15 @@
     "page": 1,
     "summary": "SAPi enables business users to query SAP data in natural language and execute transactions \u2013 creating sales orders, purchase orders, and financial documents ...",
     "title": "Beyond the Demo: SAP APAC Partners Turning Agentic AI ..."
+   },
+   "news.sap.com/sea/2026/11/beyond-the-demo-sap-apac-partners-turning-agentic-ai-into-business-reality/282697_06192017_sap0850_f1_v1": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T15:43:06Z",
+    "link": "https://news.sap.com/sea/2026/11/beyond-the-demo-sap-apac-partners-turning-agentic-ai-into-business-reality/282697_06192017_sap0850_f1_v1/",
+    "page": 2,
+    "summary": "Skip to content. News Center \u00b7 Press \u00b7 Features \u00b7 Topics \u00b7 Countries \u00b7 Follow. Explore SAP. Explore all areas of SAP.",
+    "title": "282697_06192017_SAP0850_F..."
    },
    "news.sap.com/sea/2026/11/beyond-the-demo-sap-apac-partners-turning-agentic-ai-into-business-reality?amp=1": {
     "baseline": false,
