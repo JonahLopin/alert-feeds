@@ -6633,6 +6633,12 @@
    "summary": "Applies custom CSS classes to the Element container. options object. Options for creating a cardNumber element.",
    "title": "CardNumberElement - Stripe JS Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:10157764222728523968": {
+   "first_seen": "2026-11-12T09:07:53Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/funding-intents",
+   "summary": "A FundingIntent represents the lifecycle of adding funds to a FinancialAccount. Learn more about calling API v2 endpoints. Was this section helpful?",
+   "title": "Funding Intents | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:11181571382661186532": {
    "first_seen": "2026-10-15T10:47:01Z",
    "link": "https://docs.stripe.com/tax/use-stripe-to-register/united-states",
@@ -6644,6 +6650,18 @@
    "link": "https://docs.stripe.com/atlas/agents",
    "summary": "Start or resume a Stripe Atlas application for a Delaware C corporation or LLC from an AI assistant or terminal, then review and submit it in the ...",
    "title": "Prepare an Atlas application with an agent or CLI - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:11501438840455152343": {
+   "first_seen": "2026-11-12T09:07:53Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/received-debit-mandates",
+   "summary": "A ReceivedDebitMandate represents an authorization from a third party to debit a financial account on a recurring basis. Learn more about calling API ...",
+   "title": "Received Debit Mandates | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:11540242838516143044": {
+   "first_seen": "2026-11-12T09:07:53Z",
+   "link": "https://docs.stripe.com/api/v2/core/fee-batches",
+   "summary": "A FeeBatch represents a settlement grouping of fees. It bridges the fee domain with actual money movement, tracking what was settled and how. Learn ...",
+   "title": "Fee Batches | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:11568300831970177174": {
    "first_seen": "2026-10-19T22:44:10Z",
@@ -6861,6 +6879,12 @@
    "summary": "updated ). If an array attribute has any updated elements, this object contains the entire array. In Stripe API versions 2017-04-06 or earlier, an ...",
    "title": "The Event object | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:15131999441799509829": {
+   "first_seen": "2026-11-12T09:07:53Z",
+   "link": "https://docs.stripe.com/api/v2/billing/custom-pricing-units",
+   "summary": "The Custom Pricing Unit object. Learn more about calling API v2 endpoints. Was this section helpful?YesNo.",
+   "title": "Custom Pricing Units | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:15183435629383904580": {
    "first_seen": "2026-10-10T10:10:42Z",
    "link": "https://docs.stripe.com/workload-identity-federation",
@@ -7011,6 +7035,12 @@
    "summary": "Learn how to generate statements with Bridge, handle complaints, use the Stripe and Bridge dashboards, and support cardholders in a ...",
    "title": "Manage your stablecoin-backed card program - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:18107073308317126131": {
+   "first_seen": "2026-11-12T09:07:53Z",
+   "link": "https://docs.stripe.com/api/v2/core/vault/network-tokens",
+   "summary": "A NetworkToken object represents a network token provisioned for a card. Learn more about calling API v2 endpoints. Was this section helpful?YesNo.",
+   "title": "Network Tokens v2 - Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:18131888084454230377": {
    "first_seen": "2026-10-29T19:42:55Z",
    "link": "https://docs.stripe.com/reports/report-types/financial-accounts",
@@ -7040,6 +7070,12 @@
    "link": "https://docs.stripe.com/api/v2/money-management/payout-methods?api-version=2026-09-30.preview",
    "summary": "Payout Methods v2 ... Use the PayoutMethods API to list and interact with PayoutMethod objects. ... Need help? Contact Support. Chat with Stripe ...",
    "title": "Payout Methods | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:1999520579149050143": {
+   "first_seen": "2026-11-12T09:07:53Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/inbound-fundings",
+   "summary": "An InboundFunding represents an other-to-me pull movement into a FinancialAccount. Learn more about calling API v2 endpoints. Was this section helpful ...",
+   "title": "Inbound Fundings v2 - Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:2144877956246236942": {
    "first_seen": "2026-10-27T22:42:43Z",
@@ -7124,6 +7160,12 @@
    "link": "https://docs.stripe.com/js/react_stripe_js/elements/other/card_cvc_element?__hsfp=2833975420&__hssc=195197683.1.1662249600281&__hstc=195197683.0b939b89ab5ebd558205abc6212f6da3.1662249600278.1662249600279.1662249600280.1",
    "summary": "Set custom class names on the container DOM element when the Stripe element is in a particular state. Hide classes properties ...",
    "title": "CardCvcElement - Stripe JS Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:3309265839870597283": {
+   "first_seen": "2026-11-12T09:07:53Z",
+   "link": "https://docs.stripe.com/api/v2/core/resource-copy-records",
+   "summary": "A resource copy record tracks the relationship between an object in a source account and its copied counterpart in a destination account. ... Need help?",
+   "title": "Resource Copy Records | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:3397542122403223042": {
    "first_seen": "2026-10-10T10:10:42Z",
@@ -7251,11 +7293,23 @@
    "summary": "Learn about UnionPay card acceptance and the business locations, web integrations, and limitations for UnionPay payments through Apple Pay.",
    "title": "UnionPay | Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:61087197590445606": {
+   "first_seen": "2026-11-12T09:07:53Z",
+   "link": "https://docs.stripe.com/api/v2/billing-contracts",
+   "summary": "A contract is an agreement between a customer and a merchant that specifies the products and services being purchased, their pricing, usage terms, and ...",
+   "title": "Contracts | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:6303201195354843856": {
    "first_seen": "2026-11-04T18:43:24Z",
    "link": "https://docs.stripe.com/issuing/stablecoin-cards/spending-restrictions",
    "summary": "Review the blocked and limited merchant categories, default spending limits, and velocity controls that apply to every stablecoin-backed card ...",
    "title": "Spending restrictions and limits for stablecoin-backed cards - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:6443898604433181806": {
+   "first_seen": "2026-11-12T09:07:53Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/earned-credits",
+   "summary": "Need help? Contact Support. Chat with Stripe developers on Discord. Check out our changelog.",
+   "title": "Earned Credits v2 - Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:6471659853664775720": {
    "first_seen": "2026-10-20T22:44:24Z",
@@ -7263,11 +7317,23 @@
    "summary": "parameters.interval_endnullable timestamp. Ending timestamp of data to be included in the report run. Can be any UTC timestamp between 1 second after ...",
    "title": "The Report Run object | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:694856652413688570": {
+   "first_seen": "2026-11-12T09:07:53Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/spending-mandates",
+   "summary": "A SpendingMandate authorizes a counterparty to pull money from a Financial Account. Learn more about calling API v2 endpoints. Was this section ...",
+   "title": "Spending Mandates | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:7098977794028413137": {
    "first_seen": "2026-10-20T22:44:24Z",
    "link": "https://docs.stripe.com/api/prices?api-version=2026-09-30.preview",
    "summary": "Prices define the unit cost, currency, and (optional) billing cycle for both recurring and one-time purchases of products. Products help you track ...",
    "title": "Prices | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:7214175324765221050": {
+   "first_seen": "2026-11-12T09:07:53Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/inbound-transfer-mandates",
+   "summary": "An InboundTransferMandate represents Stripe's authorization to debit a merchant's external bank account (v2 credential) on their behalf. ... Need help?",
+   "title": "Inbound Transfer Mandates | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:7299100348183929988": {
    "first_seen": "2026-11-11T17:44:53Z",
@@ -7358,6 +7424,12 @@
    "link": "https://docs.stripe.com/capital?capital-country=GB",
    "summary": "Stripe, with our financial partner, uses a combination of factors, including overall processing volume and history on Stripe to determine eligibility ...",
    "title": "How Stripe Capital works"
+  },
+  "tag:google.com,2013:googlealerts/feed:9047186606943768044": {
+   "first_seen": "2026-11-12T09:07:53Z",
+   "link": "https://docs.stripe.com/api/v2/billing/rate-card-custom-unit-overage-rates",
+   "summary": "A rate card custom unit overage rate defines the conversion rate from a custom pricing unit to fiat currency when credits are exhausted. This enables ...",
+   "title": "Rate Card Custom Unit Overage Rates | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:914212263924450625": {
    "first_seen": "2026-10-21T11:47:05Z",
