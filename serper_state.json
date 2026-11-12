@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 40576,
+  "credits_used": 40632,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-12T20:42:49Z",
+  "last_run": "2026-11-12T21:42:44Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 792
+  "runs": 793
  },
  "feeds": {
   "adp-help": {
@@ -11248,6 +11248,15 @@
     "summary": "Scholastic Inc.'s secondary insurer failed to convince a federal appeals court that it was improperly ordered to pay nearly $20 million to cover the ...",
     "title": "Court Upholds Judgment That Insurer Owes Scholastic $20 Million"
    },
+   "news.bloomberglaw.com/business-and-practice/cravath-employee-arrested-in-ny-accused-of-insider-trading": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-12T21:42:44Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cravath-employee-arrested-in-ny-accused-of-insider-trading",
+    "page": 1,
+    "summary": "US authorities are accusing a longtime Cravath, Swaine & Moore employee of insider trading, alleging the Queens, NY man used nonpublic information tied to ...",
+    "title": "Cravath Employee Arrested in NY, Accused of Insider ..."
+   },
    "news.bloomberglaw.com/business-and-practice/cravath-europe-counsel-bruno-jumps-to-paul-hastings-in-london": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -12073,6 +12082,24 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/dojs-transgender-care-subpoena-appeal-confronts-doubtful-judges",
     "summary": "The First Circuit on Wednesday heard the government's appeals of rulings that quashed sweeping subpoenas into the provision of care for transgender minors at ...",
     "title": "DOJ's Transgender Care Subpoena Appeal Confronts ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/donald-trump-jr-out-as-kalshi-adviser-following-midterms": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T21:42:44Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/donald-trump-jr-out-as-kalshi-adviser-following-midterms",
+    "page": 1,
+    "summary": "Donald Trump Jr. is leaving his role as an adviser to Kalshi Inc., ending a role that has created political headaches for the prediction market platform.",
+    "title": "Donald Trump Jr. Out as Kalshi Adviser Following Midterms"
+   },
+   "news.bloomberglaw.com/business-and-practice/draftkings-user-says-dark-patterns-induce-unintentional-bets": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-12T21:42:44Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/draftkings-user-says-dark-patterns-induce-unintentional-bets",
+    "page": 1,
+    "summary": "DraftKings Inc. uses a deceptive interface design that causes consumers to make unintended bets by occasionally changing the number of steps required to ...",
+    "title": "DraftKings User Says Dark Patterns Induce Unintentional ..."
    },
    "news.bloomberglaw.com/business-and-practice/dungeons-dragons-style-game-licensees-ip-win-upheld-on-appeal": {
     "baseline": false,
@@ -15787,6 +15814,15 @@
     "summary": "The new tradable products will be based on the company's LLM token indexes, which track token prices across various AI models weighted by usage, Silicon Data ...",
     "title": "Silicon Data Plans Tradable Token Index Products With CME"
    },
+   "news.bloomberglaw.com/business-and-practice/silicon-valley-stunned-by-swift-action-on-huang-by-nvidia-board": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T21:42:44Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/silicon-valley-stunned-by-swift-action-on-huang-by-nvidia-board",
+    "page": 3,
+    "summary": "Huang was removed by Nvidia's board of directors after reports of two affairs, including one with a woman suspected of spying for China and another with an ...",
+    "title": "Silicon Valley Stunned by Swift Action on Huang by Nvidia ..."
+   },
    "news.bloomberglaw.com/business-and-practice/simone-greenspan-joins-white-case-as-a-partner-in-new-york": {
     "baseline": false,
     "date_hint": "11 hours ago",
@@ -17080,6 +17116,15 @@
     "page": 4,
     "summary": "The Trump administration argues that Germany has consistently been underpaying for drugs and needs to contribute more to pharmaceutical research and development ...",
     "title": "US Push for Higher German Drug Prices Would Backfire, ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/us-records-404-billion-deficit-in-first-month-of-fiscal-year": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-12T21:42:44Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-records-404-billion-deficit-in-first-month-of-fiscal-year",
+    "page": 3,
+    "summary": "The US budget gap widened to $404 billion in October, up 42% from the same period a year earlier, Treasury Department data showed Thursday.",
+    "title": "US Records $404 Billion Deficit in First Month of Fiscal Year"
    },
    "news.bloomberglaw.com/business-and-practice/us-sanctions-icc-after-former-judge-gets-nobel-peace-prize-1": {
     "baseline": false,
@@ -54533,6 +54578,15 @@
     "page": 3,
     "summary": "Explore 25 things you can make and sell from home, including candles and digital products, with startup costs, pricing tips, and where to sell them.",
     "title": "25 Things to Make and Sell From Home (2026)"
+   },
+   "shopify.com/blog/tiktok-dropshipping": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-12T21:42:44Z",
+    "link": "https://www.shopify.com/blog/tiktok-dropshipping",
+    "page": 3,
+    "summary": "Learn how to launch and market a TikTok dropshipping store using Shopify and TikTok Shop, with tips from experienced entrepreneurs.",
+    "title": "TikTok Dropshipping: Your TikTok Shop Setup Guide (2027)"
    },
    "shopify.com/blog/tiktok-shopping": {
     "baseline": false,
