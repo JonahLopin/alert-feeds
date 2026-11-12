@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 39414,
+  "credits_used": 39473,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-11T23:05:56Z",
+  "last_run": "2026-11-12T00:17:35Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 771
+  "runs": 772
  },
  "feeds": {
   "adp-help": {
@@ -58983,6 +58983,15 @@
     "summary": "Retrieves the details of an Account. Learn more about calling API v2 endpoints. Parameters. includearray of enums. Additional fields to include in the ...",
     "title": "Retrieve an account v2"
    },
+   "docs.stripe.com/api/v2/money-management/earned-credits": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-12T00:17:35Z",
+    "link": "https://docs.stripe.com/api/v2/money-management/earned-credits",
+    "page": 1,
+    "summary": "The EarnedCredit object. Learn more about calling API v2 endpoints. Contact Support. Chat with Stripe developers on Discord. Questions? Contact Sales.",
+    "title": "Earned Credits v2 - Stripe API Reference"
+   },
    "docs.stripe.com/api/v2/money-management/financial-addresses/credit-simulation/object": {
     "baseline": false,
     "date_hint": "8 hours ago",
@@ -58991,6 +59000,24 @@
     "page": 5,
     "summary": "Attributes \u00b7 objectstring, value is \"v2.money_management.financial_address_credit_simulation\" \u00b7 livemodeboolean. Has the value true if the object exists in live ...",
     "title": "The Financial Address Credit Simulation object v2"
+   },
+   "docs.stripe.com/api/v2/money-management/inbound-fundings": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-12T00:17:35Z",
+    "link": "https://docs.stripe.com/api/v2/money-management/inbound-fundings",
+    "page": 1,
+    "summary": "An InboundFunding represents an other-to-me pull movement into a FinancialAccount. Learn more about calling API v2 endpoints",
+    "title": "Inbound Fundings v2 - Stripe API Reference"
+   },
+   "docs.stripe.com/api/v2/money-management/inbound-transfer-mandates": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-12T00:17:35Z",
+    "link": "https://docs.stripe.com/api/v2/money-management/inbound-transfer-mandates",
+    "page": 1,
+    "summary": "An InboundTransferMandate represents Stripe's authorization to debit a merchant's external bank account (v2 credential) on their behalf.",
+    "title": "Inbound Transfer Mandates | Stripe API Reference"
    },
    "docs.stripe.com/api/v2/money-management/payout-intents": {
     "baseline": false,
@@ -59018,6 +59045,15 @@
     "page": 2,
     "summary": "RecipientVerification represents a verification of recipient you intend to send funds to. Learn more about calling API v2 endpoints. Was this section helpful?",
     "title": "Recipient Verifications | Stripe API Reference"
+   },
+   "docs.stripe.com/api/v2/money-management/spending-mandates": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-12T00:17:35Z",
+    "link": "https://docs.stripe.com/api/v2/money-management/spending-mandates",
+    "page": 1,
+    "summary": "A SpendingMandate authorizes a counterparty to pull money from a Financial Account. Learn more about calling API v2 endpoints",
+    "title": "Spending Mandates | Stripe API Reference"
    },
    "docs.stripe.com/api/v2/signals/account-activities/create?api-version=2026-10-28.preview": {
     "baseline": false,
@@ -69449,6 +69485,15 @@
     "summary": "Before choosing a tax workflow platform, ask these 7 questions about integrations, AI, automation, ROI, client adoption, and busy season performance.",
     "title": "Can you trust your tax workflow platform? 7 questions to ask."
    },
+   "tax.thomsonreuters.com/blog/corporate-tax-data-accuracy-where-it-breaks-and-how-to-fix-it": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T00:17:35Z",
+    "link": "https://tax.thomsonreuters.com/blog/corporate-tax-data-accuracy-where-it-breaks-and-how-to-fix-it/",
+    "page": 1,
+    "summary": "Corporate tax data accuracy can break at every system handoff. Learn where data loses accuracy from ERP to provision to filing\u2014and how to fix it.",
+    "title": "Corporate tax data accuracy: Where it breaks & how to fix it"
+   },
    "tax.thomsonreuters.com/blog/cost-of-outdated-tax-technology": {
     "baseline": false,
     "date_hint": "1 day ago",
@@ -69804,6 +69849,15 @@
     "page": 1,
     "summary": "Putting off a tax software upgrade? Explore the costs of another manual year and practical ways to get your team ready for change.",
     "title": "Why firms keep putting off tax software upgrades"
+   },
+   "tax.thomsonreuters.com/blog/why-indirect-tax-leaders-need-more-than-time-savings-to-justify-ai": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T00:17:35Z",
+    "link": "https://tax.thomsonreuters.com/blog/why-indirect-tax-leaders-need-more-than-time-savings-to-justify-ai/",
+    "page": 1,
+    "summary": "Hours saved only shows part of AI's value, so indirect tax teams should track efficiency, risk, revenue, and capacity.",
+    "title": "Indirect tax leaders need more than time savings to justify AI"
    },
    "tax.thomsonreuters.com/blog/why-pay-for-a-tax-research-tool": {
     "baseline": false,

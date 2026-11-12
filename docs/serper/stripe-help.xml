@@ -2,8 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-11T20:57:16Z</updated>
+  <updated>2026-11-12T00:17:35Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/v2/money-management/spending-mandates</id>
+    <title>Spending Mandates | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/spending-mandates" />
+    <published>2026-11-12T00:17:35Z</published>
+    <updated>2026-11-12T00:17:35Z</updated>
+    <summary>A SpendingMandate authorizes a counterparty to pull money from a Financial Account. Learn more about calling API v2 endpoints</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/v2/money-management/inbound-transfer-mandates</id>
+    <title>Inbound Transfer Mandates | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/inbound-transfer-mandates" />
+    <published>2026-11-12T00:17:35Z</published>
+    <updated>2026-11-12T00:17:35Z</updated>
+    <summary>An InboundTransferMandate represents Stripe's authorization to debit a merchant's external bank account (v2 credential) on their behalf.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/v2/money-management/inbound-fundings</id>
+    <title>Inbound Fundings v2 - Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/inbound-fundings" />
+    <published>2026-11-12T00:17:35Z</published>
+    <updated>2026-11-12T00:17:35Z</updated>
+    <summary>An InboundFunding represents an other-to-me pull movement into a FinancialAccount. Learn more about calling API v2 endpoints</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/v2/money-management/earned-credits</id>
+    <title>Earned Credits v2 - Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/earned-credits" />
+    <published>2026-11-12T00:17:35Z</published>
+    <updated>2026-11-12T00:17:35Z</updated>
+    <summary>The EarnedCredit object. Learn more about calling API v2 endpoints. Contact Support. Chat with Stripe developers on Discord. Questions? Contact Sales.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/get-started/account/orgs/build?locale=id-ID</id>
     <title>Bangun sebuah organisasi | Dokumentasi Stripe</title>
@@ -771,37 +803,5 @@
     <published>2026-11-06T14:42:45Z</published>
     <updated>2026-11-06T14:42:45Z</updated>
     <summary>In the customer portal, you can let your customers pause their subscriptions for a duration you choose, and resume them automatically at the end of that ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESfAHEIkXXW5a7hLnXetndmmW-4DFDSm2kM2DMSeffLVTRNmSxaA-vzvvjA0319OVo3Xh8Hrsw5pJUFTV606dTHAgje3IA1i_4Gziw7Dwn9DEmfGDhap-AUfZtY-kWxwiBKi9o2CPfvIXsA8_YoKZJEn8AFWUSpwLz7RCaIO8</id>
-    <title>Authorizations and webhooks for stablecoin-backed cards</title>
-    <link href="https://www.google.com/goto?url=CAESfAHEIkXXW5a7hLnXetndmmW-4DFDSm2kM2DMSeffLVTRNmSxaA-vzvvjA0319OVo3Xh8Hrsw5pJUFTV606dTHAgje3IA1i_4Gziw7Dwn9DEmfGDhap-AUfZtY-kWxwiBKi9o2CPfvIXsA8_YoKZJEn8AFWUSpwLz7RCaIO8" />
-    <published>2026-11-06T14:42:45Z</published>
-    <updated>2026-11-06T14:42:45Z</updated>
-    <summary>Learn how authorizations, captures, refunds, and expirations on stablecoin-backed cards move funds onchain, which events Stripe and Bridge send,</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESegHEIkXXqRSiz5a16_-IQFXoAXmC_eDOdD8x0wR_teWpoC-9G-rPW-cgxx61o347OnzRmwIL_3wboOAoytPqba6lmtyM67g93zSyuOi8sVLW9vINPefVzb8ywjcGkn60qAqv1mh2HMPfgsXLcU0Q2DZ-b5AMALiRc2HU</id>
-    <title>Set up future GoPay payments</title>
-    <link href="https://www.google.com/goto?url=CAESegHEIkXXqRSiz5a16_-IQFXoAXmC_eDOdD8x0wR_teWpoC-9G-rPW-cgxx61o347OnzRmwIL_3wboOAoytPqba6lmtyM67g93zSyuOi8sVLW9vINPefVzb8ywjcGkn60qAqv1mh2HMPfgsXLcU0Q2DZ-b5AMALiRc2HU" />
-    <published>2026-11-06T14:42:45Z</published>
-    <updated>2026-11-06T14:42:45Z</updated>
-    <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESegHEIkXXg33tilYpLI3d_LOFzhvkJvPcVMMxFAwLMmFUz_djhnH60AyuWq9ADKjBiF6h1DCx_yI7HUSFPHvdXXGUFwR1bg1zPkkQHqXoom7ZcedQYlVzBwyLxhULMgTg5n49d0EhZO5oqnezuQzIS1xbHZdQBcz-5f1W</id>
-    <title>How Stripe, Bridge, and Privy work together</title>
-    <link href="https://www.google.com/goto?url=CAESegHEIkXXg33tilYpLI3d_LOFzhvkJvPcVMMxFAwLMmFUz_djhnH60AyuWq9ADKjBiF6h1DCx_yI7HUSFPHvdXXGUFwR1bg1zPkkQHqXoom7ZcedQYlVzBwyLxhULMgTg5n49d0EhZO5oqnezuQzIS1xbHZdQBcz-5f1W" />
-    <published>2026-11-06T14:42:45Z</published>
-    <updated>2026-11-06T14:42:45Z</updated>
-    <summary>Stripe issues and processes cards, while Bridge verifies cardholders and moves funds from the linked wallets. You can fund cards with a Bridge wallet, a Privy ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdwHEIkXXOKACR-8A1WdpF-zx2RIcWlcnDskLOQMLOD1HOh__Hl6_9JUH9iL6_wGxQWzV9SJnDrg5zNq3tUygvA0ePqrdri_mGRg0tdTpNwkoJpxpgc39HVjPNw2IT9gixT5HIzEApGYN4h6h7G7_NXTMUo-Kzlxl</id>
-    <title>Save payment method for future GoPay payments</title>
-    <link href="https://www.google.com/goto?url=CAESdwHEIkXXOKACR-8A1WdpF-zx2RIcWlcnDskLOQMLOD1HOh__Hl6_9JUH9iL6_wGxQWzV9SJnDrg5zNq3tUygvA0ePqrdri_mGRg0tdTpNwkoJpxpgc39HVjPNw2IT9gixT5HIzEApGYN4h6h7G7_NXTMUo-Kzlxl" />
-    <published>2026-11-06T14:42:45Z</published>
-    <updated>2026-11-06T14:42:45Z</updated>
-    <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
   </entry>
 </feed>
