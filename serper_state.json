@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 39942,
+  "credits_used": 39994,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-12T08:42:56Z",
+  "last_run": "2026-11-12T09:42:33Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 780
+  "runs": 781
  },
  "feeds": {
   "adp-help": {
@@ -9953,6 +9953,15 @@
     "page": 2,
     "summary": "Huang Le, also known as Alice Huang, has been identified in a series of reports as a spy who was recruited by Beijing to target Nvidia's Chief Executive Officer ...",
     "title": "Alice Huang, Suspected China Spy, Spent Years in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/alleged-chinese-spy-at-heart-of-nvidia-scandal-is-in-beijing-1": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T09:42:33Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/alleged-chinese-spy-at-heart-of-nvidia-scandal-is-in-beijing-1",
+    "page": 2,
+    "summary": "The suspected Chinese spy at the center of a scandal that threatens to take down Nvidia Corp. Chief Executive Officer Jensen Huang has returned to her home ...",
+    "title": "Alleged Chinese Spy at Heart of Nvidia Scandal Is in ..."
    },
    "news.bloomberglaw.com/business-and-practice/allianz-insurance-unit-sues-steel-dynamics-over-contamination": {
     "baseline": false,

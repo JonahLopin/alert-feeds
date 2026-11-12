@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-12T04:24:57Z</updated>
+  <updated>2026-11-12T09:42:33Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/alleged-chinese-spy-at-heart-of-nvidia-scandal-is-in-beijing-1</id>
+    <title>Alleged Chinese Spy at Heart of Nvidia Scandal Is in ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/alleged-chinese-spy-at-heart-of-nvidia-scandal-is-in-beijing-1" />
+    <published>2026-11-12T09:42:33Z</published>
+    <updated>2026-11-12T09:42:33Z</updated>
+    <summary>The suspected Chinese spy at the center of a scandal that threatens to take down Nvidia Corp. Chief Executive Officer Jensen Huang has returned to her home ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/trump-administration-unveils-new-plan-to-sell-federal-lands</id>
     <title>Trump Administration Unveils New Plan to Sell Federal ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-09T17:43:10Z</published>
     <updated>2026-11-09T17:43:10Z</updated>
     <summary>The Senate Judiciary Committee on Sunday received Elliot Gaiser's nomination paperwork for a seat on the US District Court for the Northern District of Texas, a ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/dechert-adds-doj-attorney-whitaker-for-securities-litigation</id>
-    <title>Dechert Adds DOJ Attorney Whitaker for Securities, Litigation</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/dechert-adds-doj-attorney-whitaker-for-securities-litigation" />
-    <published>2026-11-09T17:43:10Z</published>
-    <updated>2026-11-09T17:43:10Z</updated>
-    <summary>A Justice Department attorney who defended the Trump administration's ability to place an ally in a key US attorney post is joining Dechert as a partner ...</summary>
   </entry>
 </feed>
