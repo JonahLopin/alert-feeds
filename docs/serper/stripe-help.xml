@@ -2,8 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-12T00:17:35Z</updated>
+  <updated>2026-11-12T01:22:56Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/api/v2/money-management/received-debit-mandates</id>
+    <title>Received Debit Mandates | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/received-debit-mandates" />
+    <published>2026-11-12T01:22:56Z</published>
+    <updated>2026-11-12T01:22:56Z</updated>
+    <summary>A ReceivedDebitMandate represents an authorization from a third party to debit a financial account on a recurring basis. Learn more about calling API v2 ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/v2/core/vault/network-tokens</id>
+    <title>Network Tokens v2 - Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/core/vault/network-tokens" />
+    <published>2026-11-12T01:22:56Z</published>
+    <updated>2026-11-12T01:22:56Z</updated>
+    <summary>A NetworkToken object represents a network token provisioned for a card. Learn more about calling API v2 endpoints</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/v2/core/resource-copy-records</id>
+    <title>Resource Copy Records | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/core/resource-copy-records" />
+    <published>2026-11-12T01:22:56Z</published>
+    <updated>2026-11-12T01:22:56Z</updated>
+    <summary>A resource copy record tracks the relationship between an object in a source account and its copied counterpart in a destination account.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/v2/core/fee-batches</id>
+    <title>Fee Batches | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/core/fee-batches" />
+    <published>2026-11-12T01:22:56Z</published>
+    <updated>2026-11-12T01:22:56Z</updated>
+    <summary>A FeeBatch represents a settlement grouping of fees. It bridges the fee domain with actual money movement, tracking what was settled and how.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/v2/billing/rate-card-custom-unit-overage-rates</id>
+    <title>Rate Card Custom Unit Overage Rates v2</title>
+    <link href="https://docs.stripe.com/api/v2/billing/rate-card-custom-unit-overage-rates" />
+    <published>2026-11-12T01:22:56Z</published>
+    <updated>2026-11-12T01:22:56Z</updated>
+    <summary>A rate card custom unit overage rate defines the conversion rate from a custom pricing unit to fiat currency when credits are exhausted. This enables automatic ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/api/v2/billing-contracts</id>
+    <title>Contracts | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/billing-contracts" />
+    <published>2026-11-12T01:22:56Z</published>
+    <updated>2026-11-12T01:22:56Z</updated>
+    <summary>A contract is an agreement between a customer and a merchant that specifies the products and services being purchased, their pricing, usage terms, and payment ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/api/v2/money-management/spending-mandates</id>
     <title>Spending Mandates | Stripe API Reference</title>
@@ -755,53 +803,5 @@
     <published>2026-11-06T14:42:45Z</published>
     <updated>2026-11-06T14:42:45Z</updated>
     <summary>Modèles de FAQ destinés aux plateformes utilisant Stripe Express pour la confirmation préalable à la déclaration et l'envoi électronique des formulaires fiscaux ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESjwEBxCJF12Nl8J6xJfLOVHFc-m5tfmEDUcPooXdcOOKWRBsObCzWtsDhTXSt8urFlXnXFczHFwyEwTQuGmr_ogHj4HeOKq9WgooHJO-o_nuesKXFF61PktgFaPBHsP_7eBGplbVc5wFyFTzPcX7M7nueOlFcvRM2IfyRFWMP7n7dNDsvLa4Vfr3z0cHL5M9bBg</id>
-    <title>Migrate a card payments integration from the legacy ...</title>
-    <link href="https://www.google.com/goto?url=CAESjwEBxCJF12Nl8J6xJfLOVHFc-m5tfmEDUcPooXdcOOKWRBsObCzWtsDhTXSt8urFlXnXFczHFwyEwTQuGmr_ogHj4HeOKq9WgooHJO-o_nuesKXFF61PktgFaPBHsP_7eBGplbVc5wFyFTzPcX7M7nueOlFcvRM2IfyRFWMP7n7dNDsvLa4Vfr3z0cHL5M9bBg" />
-    <published>2026-11-06T14:42:45Z</published>
-    <updated>2026-11-06T14:42:45Z</updated>
-    <summary>Learn how to migrate from using the Charges, Tokens, and Cards or Sources APIs to using the Payment Methods and Payment Intents APIs.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEShwEBxCJF1-ON_YOn7Y_Rw3mib3c9hTUKGBZj4rlnZNKdHOdNyLKOUiRS6yuKhyMiPG3xk_z3klbRS61MysClgWGvPazzRmSEKI3-cPHmwu-Z4CwGw2r1jozsFN-0tcwgADWSOG3kadOGek_BrwULbTmJxIBygxugcjR1E-BEGlFoxAR5d7_fG3w</id>
-    <title>Zukünftige GoPay-Zahlungen einrichten</title>
-    <link href="https://www.google.com/goto?url=CAEShwEBxCJF1-ON_YOn7Y_Rw3mib3c9hTUKGBZj4rlnZNKdHOdNyLKOUiRS6yuKhyMiPG3xk_z3klbRS61MysClgWGvPazzRmSEKI3-cPHmwu-Z4CwGw2r1jozsFN-0tcwgADWSOG3kadOGek_BrwULbTmJxIBygxugcjR1E-BEGlFoxAR5d7_fG3w" />
-    <published>2026-11-06T14:42:45Z</published>
-    <updated>2026-11-06T14:42:45Z</updated>
-    <summary>Sie können eine GoPay-Verknüpfung einrichten, um zukünftige wiederkehrende Zahlungen einzuziehen, ohne dass eine erneute Kundenautorisierung erforderlich ist.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEShgEBxCJF1xhKg-3P1EwmdYzgv5h3DsdvZTsmk7O72mlLxhRPZLqrxpPtTpu0Eu9QfG7WxOaHZv6fZ-g-L1UVzYv3ebAf1_vMkmvwJtM2I6bZKYKH-3JHr3ISYiEhXpINz_IxL1pDP18JIRG83b-b5GlDH-oZKgVMxI-qEmVclDlLFPCeuHy9WQ</id>
-    <title>Card contract architecture and security</title>
-    <link href="https://www.google.com/goto?url=CAEShgEBxCJF1xhKg-3P1EwmdYzgv5h3DsdvZTsmk7O72mlLxhRPZLqrxpPtTpu0Eu9QfG7WxOaHZv6fZ-g-L1UVzYv3ebAf1_vMkmvwJtM2I6bZKYKH-3JHr3ISYiEhXpINz_IxL1pDP18JIRG83b-b5GlDH-oZKgVMxI-qEmVclDlLFPCeuHy9WQ" />
-    <published>2026-11-06T14:42:45Z</published>
-    <updated>2026-11-06T14:42:45Z</updated>
-    <summary>Learn how Stripe card contracts pull funds from non-custodial wallets and keep customer funds secure. Ask about this page.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESgwEBxCJF1xTNUOFKUchyerv_f1VbXrQWeoVHRS1_Y83_DSK357vrWGbqdeovsBvpwqX1bY7Q7jAcZerOZo2A8kf-pQQBSbQfaRJ2lqKjKDOWuoPAzXb_vVmd9dUO4A4T1VyYrCI83I-SSx6Jlbuir68C5ebjNw01qKoqXb0mFpQeEpb-8Q</id>
-    <title>Spending restrictions and limits for stablecoin-backed cards</title>
-    <link href="https://www.google.com/goto?url=CAESgwEBxCJF1xTNUOFKUchyerv_f1VbXrQWeoVHRS1_Y83_DSK357vrWGbqdeovsBvpwqX1bY7Q7jAcZerOZo2A8kf-pQQBSbQfaRJ2lqKjKDOWuoPAzXb_vVmd9dUO4A4T1VyYrCI83I-SSx6Jlbuir68C5ebjNw01qKoqXb0mFpQeEpb-8Q" />
-    <published>2026-11-06T14:42:45Z</published>
-    <updated>2026-11-06T14:42:45Z</updated>
-    <summary>Review the blocked and limited merchant categories, default spending limits, and velocity controls that apply to every stablecoin-backed card program.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESfwHEIkXXUhU-Gr3yRf3tpbNN9sEut8B2yk3T98SKC5nDuC3aPJtZC2G3fl1HMWoxV7HMv_WavZ8FtRkdkcTD7uk2TY1LWElGr0H77sOT-ibkGxfOnq7WMIbmUwJRt-DrExQZ47iKlLzamrrbMyui6w8v3kN5PCkO4JysTLC-A8Y</id>
-    <title>How connected accounts submit W-8 and W-9 forms</title>
-    <link href="https://www.google.com/goto?url=CAESfwHEIkXXUhU-Gr3yRf3tpbNN9sEut8B2yk3T98SKC5nDuC3aPJtZC2G3fl1HMWoxV7HMv_WavZ8FtRkdkcTD7uk2TY1LWElGr0H77sOT-ibkGxfOnq7WMIbmUwJRt-DrExQZ47iKlLzamrrbMyui6w8v3kN5PCkO4JysTLC-A8Y" />
-    <published>2026-11-06T14:42:45Z</published>
-    <updated>2026-11-06T14:42:45Z</updated>
-    <summary>When you request W-8 or W-9 forms from your connected accounts, be prepared to help them submit the correct form successfully.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESfAHEIkXXtDSdCZOXkcyYQjY8Bl74KtSGLihgzjLYFYQPzXU6ckMfhb6Ico6eq9TiW3xSrJ3SSPnD9Xyx6pOXZXHB1xwyUo9QAZyiCgentjL2GWWWcawqz76AbgZYxpqph8GeKqesEx84lHbAFLFmHAiGWT_IZ_8YwlXp86E</id>
-    <title>Let customers pause subscriptions in the customer portal</title>
-    <link href="https://www.google.com/goto?url=CAESfAHEIkXXtDSdCZOXkcyYQjY8Bl74KtSGLihgzjLYFYQPzXU6ckMfhb6Ico6eq9TiW3xSrJ3SSPnD9Xyx6pOXZXHB1xwyUo9QAZyiCgentjL2GWWWcawqz76AbgZYxpqph8GeKqesEx84lHbAFLFmHAiGWT_IZ_8YwlXp86E" />
-    <published>2026-11-06T14:42:45Z</published>
-    <updated>2026-11-06T14:42:45Z</updated>
-    <summary>In the customer portal, you can let your customers pause their subscriptions for a duration you choose, and resume them automatically at the end of that ...</summary>
   </entry>
 </feed>

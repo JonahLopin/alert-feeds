@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 39473,
+  "credits_used": 39532,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-12T00:17:35Z",
+  "last_run": "2026-11-12T01:22:56Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 772
+  "runs": 773
  },
  "feeds": {
   "adp-help": {
@@ -33828,6 +33828,15 @@
     "summary": "Hit a snag? Here's how to fix errors when you move from desktop to online in QuickBooks \u2014 and understand what caused it. Clear the blocker for good.",
     "title": "Fix errors when you move from QuickBooks Desktop to ... - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/migrate-services/move-files-quickbooks-online-accountant-batch-tool/L4iyuxCPp_US_en_US": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-12T01:22:56Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/migrate-services/move-files-quickbooks-online-accountant-batch-tool/L4iyuxCPp_US_en_US",
+    "page": 5,
+    "summary": "Learn how to move QuickBooks Desktop files to QuickBooks Online with the Accountant Batch Migration Tool. Clear, step-by-step instructions.",
+    "title": "Move QuickBooks Desktop files to QuickBooks Online with the ..."
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/migrate-services/move-lists-quickbooks-online/L6v7AmS9l_US_en_US": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -58956,6 +58965,24 @@
     "summary": "A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 ...",
     "title": "List all transfers | Stripe API Reference"
    },
+   "docs.stripe.com/api/v2/billing-contracts": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T01:22:56Z",
+    "link": "https://docs.stripe.com/api/v2/billing-contracts",
+    "page": 1,
+    "summary": "A contract is an agreement between a customer and a merchant that specifies the products and services being purchased, their pricing, usage terms, and payment ...",
+    "title": "Contracts | Stripe API Reference"
+   },
+   "docs.stripe.com/api/v2/billing/rate-card-custom-unit-overage-rates": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T01:22:56Z",
+    "link": "https://docs.stripe.com/api/v2/billing/rate-card-custom-unit-overage-rates",
+    "page": 2,
+    "summary": "A rate card custom unit overage rate defines the conversion rate from a custom pricing unit to fiat currency when credits are exhausted. This enables automatic ...",
+    "title": "Rate Card Custom Unit Overage Rates v2"
+   },
    "docs.stripe.com/api/v2/core/account-tokens/object": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -58982,6 +59009,33 @@
     "page": 5,
     "summary": "Retrieves the details of an Account. Learn more about calling API v2 endpoints. Parameters. includearray of enums. Additional fields to include in the ...",
     "title": "Retrieve an account v2"
+   },
+   "docs.stripe.com/api/v2/core/fee-batches": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T01:22:56Z",
+    "link": "https://docs.stripe.com/api/v2/core/fee-batches",
+    "page": 1,
+    "summary": "A FeeBatch represents a settlement grouping of fees. It bridges the fee domain with actual money movement, tracking what was settled and how.",
+    "title": "Fee Batches | Stripe API Reference"
+   },
+   "docs.stripe.com/api/v2/core/resource-copy-records": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T01:22:56Z",
+    "link": "https://docs.stripe.com/api/v2/core/resource-copy-records",
+    "page": 1,
+    "summary": "A resource copy record tracks the relationship between an object in a source account and its copied counterpart in a destination account.",
+    "title": "Resource Copy Records | Stripe API Reference"
+   },
+   "docs.stripe.com/api/v2/core/vault/network-tokens": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T01:22:56Z",
+    "link": "https://docs.stripe.com/api/v2/core/vault/network-tokens",
+    "page": 1,
+    "summary": "A NetworkToken object represents a network token provisioned for a card. Learn more about calling API v2 endpoints",
+    "title": "Network Tokens v2 - Stripe API Reference"
    },
    "docs.stripe.com/api/v2/money-management/earned-credits": {
     "baseline": false,
@@ -59027,6 +59081,15 @@
     "page": 2,
     "summary": "PayoutIntent represents an intent to send funds from a Financial Account to a payout method. Learn more about calling API v2 endpoints. Was this section helpful ...",
     "title": "Payout Intents v2 - Stripe API Reference"
+   },
+   "docs.stripe.com/api/v2/money-management/received-debit-mandates": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T01:22:56Z",
+    "link": "https://docs.stripe.com/api/v2/money-management/received-debit-mandates",
+    "page": 2,
+    "summary": "A ReceivedDebitMandate represents an authorization from a third party to debit a financial account on a recurring basis. Learn more about calling API v2 ...",
+    "title": "Received Debit Mandates | Stripe API Reference"
    },
    "docs.stripe.com/api/v2/money-management/received-debits/retrieve?api-version=2026-10-28.preview": {
     "baseline": false,
