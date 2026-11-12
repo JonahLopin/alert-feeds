@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-11T17:43:19Z</updated>
+  <updated>2026-11-12T02:26:08Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/unclaimed-property/reportmyup/compliance-resources</id>
+    <title>Compliance Resources - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/unclaimed-property/reportmyup/compliance-resources" />
+    <published>2026-11-12T02:26:08Z</published>
+    <updated>2026-11-12T02:26:08Z</updated>
+    <summary>Discover the latest state regulations and filing requirements. Access state-specific reporting information, including filing dates, property codes, and contact ...</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/tax-determination/certmanager/customers</id>
     <title>Customer hierarchy: parents and children - Sovos Docs</title>
@@ -795,13 +803,5 @@
     <published>2026-10-26T11:36:32Z</published>
     <updated>2026-10-26T11:36:32Z</updated>
     <summary>View whether your transmittals were accepted or need action directly in Sovos's Tax Information Reporting software.</summary>
-  </entry>
-  <entry>
-    <id>https://docs.sovos.com/e-invoicing/compliance-network-implementation-guide/working-with-sovos-canonical-invoice/about-compliance-tools-hub</id>
-    <title>About Compliance Tools Hub - Sovos Docs</title>
-    <link href="https://docs.sovos.com/e-invoicing/compliance-network-implementation-guide/working-with-sovos-canonical-invoice/about-compliance-tools-hub" />
-    <published>2026-10-24T08:47:51Z</published>
-    <updated>2026-10-24T08:47:51Z</updated>
-    <summary>Compliance Tools Hub is a self-service portal that centralizes all compliance tools in one place. Use it to look up requirements, test your documents, and ...</summary>
   </entry>
 </feed>

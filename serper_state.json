@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 39532,
+  "credits_used": 39591,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-12T01:22:56Z",
+  "last_run": "2026-11-12T02:26:08Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 773
+  "runs": 774
  },
  "feeds": {
   "adp-help": {
@@ -40390,6 +40390,24 @@
     "summary": "Per SAP Business One, la soluzione SAP dedicata alle piccole e medie imprese, significa valorizzare un percorso di crescita lungo tre decenni al fianco delle ...",
     "title": "SAP Business One: 30 anni di crescita insieme"
    },
+   "news.sap.com/italy/2026/11/sap-lakehouse-e-nuove-innovazioni-data-fabric-in-sap-business-data-cloud-per-lautonomous-enterprise": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-12T02:26:08Z",
+    "link": "https://news.sap.com/italy/2026/11/sap-lakehouse-e-nuove-innovazioni-data-fabric-in-sap-business-data-cloud-per-lautonomous-enterprise/",
+    "page": 2,
+    "summary": "SAP Lakehouse e nuove innovazioni Data Fabric in SAP Business Data Cloud per l'Autonomous Enterprise \u00b7 Estendere il business data fabric con un lakehouse aperto.",
+    "title": "SAP Lakehouse e nuove innovazioni Data Fabric in SAP ..."
+   },
+   "news.sap.com/italy/2026/11/sap-lakehouse-e-nuove-innovazioni-data-fabric-in-sap-business-data-cloud-per-lautonomous-enterprise?amp=1": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-11-12T02:26:08Z",
+    "link": "https://news.sap.com/italy/2026/11/sap-lakehouse-e-nuove-innovazioni-data-fabric-in-sap-business-data-cloud-per-lautonomous-enterprise/?amp=1",
+    "page": 2,
+    "summary": "A fine ottobre, a SAP TechEd Berlin, abbiamo annunciato nuove funzionalit\u00e0 di lakehouse e business data fabric per aiutare le imprese a costruire agenti AI ...",
+    "title": "SAP Lakehouse e nuove innovazioni Data Fabric in SAP ..."
+   },
    "news.sap.com/italy/2026/11/sap-una-nuova-generazione-di-supply-chain-collaboration-per-i-processi-vmi-di-pirelli": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -54861,6 +54879,15 @@
     "page": 1,
     "summary": "Only Admin users can edit users. Go to Settings > Users. The Settings icon and the Users button are highlighted.",
     "title": "Edit users (ReportMyUP Plus) - Sovos Docs"
+   },
+   "docs.sovos.com/en/unclaimed-property/reportmyup/compliance-resources": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-12T02:26:08Z",
+    "link": "https://docs.sovos.com/en/unclaimed-property/reportmyup/compliance-resources",
+    "page": 1,
+    "summary": "Discover the latest state regulations and filing requirements. Access state-specific reporting information, including filing dates, property codes, and contact ...",
+    "title": "Compliance Resources - Sovos Docs"
    },
    "docs.sovos.com/en/unclaimed-property/reportmyup/create-and-submit-state-reports/arizona-preliminary-report-request-fall-2026": {
     "baseline": false,
