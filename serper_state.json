@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 40363,
+  "credits_used": 40416,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-12T16:42:40Z",
+  "last_run": "2026-11-12T17:42:54Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 788
+  "runs": 789
  },
  "feeds": {
   "adp-help": {
@@ -10718,6 +10718,15 @@
     "summary": "Lyft Inc. will pay $1.8 million to California's attorney general to resolve claims the ride-share app didn't let users easily opt out of the sale of their ...",
     "title": "California Hits Lyft With $2 Million Fine for Privacy Violations"
    },
+   "news.bloomberglaw.com/business-and-practice/california-justices-reject-groups-challenge-to-healthcare-tax": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-12T17:42:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/california-justices-reject-groups-challenge-to-healthcare-tax",
+    "page": 1,
+    "summary": "The California Supreme Court won't consider a challenge to the state's new managed care organization tax that insurance and doctors groups called an ...",
+    "title": "California Justices Reject Groups' Challenge to Healthcare Tax"
+   },
    "news.bloomberglaw.com/business-and-practice/california-privacy-agencys-top-regulator-joins-latham-watkins": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -11167,6 +11176,15 @@
     "summary": "The scandal engulfing Cornell University underscores the importance of handling internal reviews and taking steps to ensure the credibility of the reviewer ...",
     "title": "Cornell Scandal Offers Lessons For High-Stakes Internal ..."
    },
+   "news.bloomberglaw.com/business-and-practice/corporate-espionage-is-getting-personal-management-work": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-12T17:42:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/corporate-espionage-is-getting-personal-management-work",
+    "page": 1,
+    "summary": "The revelation that Nvidia Chief Executive Officer Jensen Huang had an affair with a suspected Chinese spy sent shockwaves through corporate America and led to ...",
+    "title": "Corporate Espionage is Getting Personal: Management & ..."
+   },
    "news.bloomberglaw.com/business-and-practice/corteva-gets-asset-freeze-lifted-during-pfas-liability-appeal": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -11247,6 +11265,15 @@
     "page": 1,
     "summary": "Jeff McSorley joined Crowell & Moring as a partner in its health care group in Washington, D.C., the firm announced Thursday.",
     "title": "Crowell & Moring Adds DOJ Health Care Litigator Jeff ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/crowell-moring-adds-ryan-nowicki-as-senior-tax-counsel": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-12T17:42:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/crowell-moring-adds-ryan-nowicki-as-senior-tax-counsel",
+    "page": 1,
+    "summary": "Nowicki advises private companies, emerging growth businesses, and high-net-worth individuals on tax planning and structuring, with a transactional practice ...",
+    "title": "Crowell & Moring Adds Ryan Nowicki as Senior Tax Counsel"
    },
    "news.bloomberglaw.com/business-and-practice/crowell-moring-hires-sheppard-mullin-m-a-partner-bowers-in-la": {
     "baseline": false,
@@ -14509,6 +14536,15 @@
     "summary": "Jacob Harper rejoined Morgan Lewis as a partner in its FDA & healthcare practice in Washington, the firm announced Tuesday.",
     "title": "Morgan Lewis Healthcare Partner Harper Returns to Firm ..."
    },
+   "news.bloomberglaw.com/business-and-practice/motorola-settles-lawsuit-over-data-sharing-with-google-tiktok": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-12T17:42:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/motorola-settles-lawsuit-over-data-sharing-with-google-tiktok",
+    "page": 1,
+    "summary": "Motorola Mobility LLC settled a proposed class action alleging it disclosed consumers' personal information to Google LLC , TikTok Inc. , Amazon.com Inc.",
+    "title": "Motorola Settles Lawsuit Over Data Sharing With Google, ..."
+   },
    "news.bloomberglaw.com/business-and-practice/msg-sports-entertainment-giant-pays-11-million-to-four-lawyers": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -15669,6 +15705,15 @@
     "page": 1,
     "summary": "Sidley Austin has bolstered its global finance practice with the acquisition of Mayer Brown partner Glenn Kunkes in Charlotte, North Carolina.",
     "title": "Sidley Lands Mayer Brown Partner Kunkes to Grow ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/sidley-to-bring-on-group-of-12-partners-from-weil-in-new-york": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-12T17:42:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/sidley-to-bring-on-group-of-12-partners-from-weil-in-new-york",
+    "page": 3,
+    "summary": "Sidley is poised to pick up at last 50 lawyers, including 12 partners, from Weil Gotshal & Manges as the former New York powerhouse firm winds down its ...",
+    "title": "Sidley to Bring On Group of 12 Partners from Weil in New ..."
    },
    "news.bloomberglaw.com/business-and-practice/silicon-data-plans-tradable-token-index-products-with-cme": {
     "baseline": false,
