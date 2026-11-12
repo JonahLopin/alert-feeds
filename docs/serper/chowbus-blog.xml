@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:chowbus-blog</id>
   <title>Chowbus blog (site:chowbus.com/blog/) via Serper</title>
-  <updated>2026-11-11T18:43:14Z</updated>
+  <updated>2026-11-12T16:42:40Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/chowbus-blog.xml" />
+  <entry>
+    <id>https://www.chowbus.com/blog/point-of-sale-financing-buy-lease-rent-36-months</id>
+    <title>Point of Sale Financing: Why Paying Less Up Front Often ...</title>
+    <link href="https://www.chowbus.com/blog/point-of-sale-financing-buy-lease-rent-36-months" />
+    <published>2026-11-12T16:42:40Z</published>
+    <updated>2026-11-12T16:42:40Z</updated>
+    <summary>Point of sale financing, for a restaurant, usually means one decision made under pressure: how to pay for the terminals, card readers, printers and kitchen ...</summary>
+  </entry>
   <entry>
     <id>https://www.chowbus.com/blog/pos-setup-timeline-before-opening</id>
     <title>A Realistic Timeline for Getting Your POS Ready Before Opening Night</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T08:42:41Z</published>
     <updated>2026-10-31T08:42:41Z</updated>
     <summary>A kitchen running one concept can get away with a rough inventory system — a clipboard count on Sunday, a gut-check reorder, a shrug when the numbers don't ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESkwEB6zswFaaZ72EvdcNSs-U5ST2yJgsmzUwO5nAWd2dpy71ED5z8Q9uncEW86yqWzESgbecg871gAzVARfeHWh-HbO0VIspqYzI9G189XatK_XZfqNy-P9ojajiUkOpGWJo3OsC-nTvl8VDeZzoO9u6zLWEfcun0PI9PmAYSOMLAZSLgs-UO_WJkTMzX2Pqdx2kTL9M</id>
-    <title>Switch to a Cloud Point of Sale System on a Quiet ...</title>
-    <link href="https://www.google.com/goto?url=CAESkwEB6zswFaaZ72EvdcNSs-U5ST2yJgsmzUwO5nAWd2dpy71ED5z8Q9uncEW86yqWzESgbecg871gAzVARfeHWh-HbO0VIspqYzI9G189XatK_XZfqNy-P9ojajiUkOpGWJo3OsC-nTvl8VDeZzoO9u6zLWEfcun0PI9PmAYSOMLAZSLgs-UO_WJkTMzX2Pqdx2kTL9M" />
-    <published>2026-10-31T08:42:41Z</published>
-    <updated>2026-10-31T08:42:41Z</updated>
-    <summary>A thirty-day countdown for switching to a cloud POS: contracts, data export, menu rebuild, gift cards, training, and a weeknight cutover before the first ...</summary>
   </entry>
 </feed>
