@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com)</title>
-  <updated>2026-11-10T07:23:28Z</updated>
+  <updated>2026-11-12T22:23:19Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sovos-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:3403612752090487832</id>
+    <title>Create a credit memo from an invoice - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/tax-determination/netsuite-suitetax-connector-for-tax-determination/credit-memos" />
+    <published>2026-11-12T22:23:19Z</published>
+    <updated>2026-11-12T22:23:19Z</updated>
+    <summary>How to create a credit memo from an invoice in NetSuite SuiteTax with taxes from Tax Determination. Note: This article is for NetSuite SuiteTax users ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:12076074430598752690</id>
     <title>Generate a special electronic report | Product Documentation Documentation - Sovos Docs</title>
