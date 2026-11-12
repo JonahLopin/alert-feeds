@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-12T10:43:03Z</updated>
+  <updated>2026-11-12T18:43:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/4671504385</id>
+    <title>Create a Discount</title>
+    <link href="https://help.spoton.com/space/SK/4671504385" />
+    <published>2026-11-12T18:43:04Z</published>
+    <updated>2026-11-12T18:43:04Z</updated>
+    <summary>Overview. Discounts allow you to reduce the price of items or orders based on rules you define. You can control how a discount is applied, which order types ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/2666660519/eCard+Systems+Gift+Cards%3A+Activate%2C+Reloads%2C+and+Balance+Checks+%7C+SpotOn+Restaurant</id>
     <title>eCard Systems Gift Cards: Activate, Reloads, and Balance ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T03:43:22Z</published>
     <updated>2026-10-31T03:43:22Z</updated>
     <summary>Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu price.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZQHrOzAVwtUscm2NdMf2yFEe6xJgou3jbwjhKozcbE91FZNsrE5oQ99EucntTYoEoVrQQmsT4ADfvUmuwwIZAREeyb-uOSlxBsiHWgSOmmdBPz-30THCbUnFYpUNEejLo9Kkw2cn</id>
-    <title>Employee Management | SpotOn Restaurant BOH</title>
-    <link href="https://www.google.com/goto?url=CAESZQHrOzAVwtUscm2NdMf2yFEe6xJgou3jbwjhKozcbE91FZNsrE5oQ99EucntTYoEoVrQQmsT4ADfvUmuwwIZAREeyb-uOSlxBsiHWgSOmmdBPz-30THCbUnFYpUNEejLo9Kkw2cn" />
-    <published>2026-10-31T03:43:22Z</published>
-    <updated>2026-10-31T03:43:22Z</updated>
-    <summary>Overview. The Employees section in the SpotOn Restaurant Back of House (BOH) allows restaurant owners and managers to create, manage, terminate, ...</summary>
   </entry>
 </feed>

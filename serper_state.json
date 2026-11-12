@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 40416,
+  "credits_used": 40470,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-12T17:42:54Z",
+  "last_run": "2026-11-12T18:43:04Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 789
+  "runs": 790
  },
  "feeds": {
   "adp-help": {
@@ -33747,6 +33747,15 @@
     "summary": "Learn about direct discounts (we bill your client) for: QuickBooks Online \u00b7 QuickBooks Desktop \u00b7 QuickBooks Desktop Enterprise \u00b7 QuickBooks Online Payroll.",
     "title": "Learn about discounts and pricing - QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-refunds/request-refund-quickbooks-product/L4BOVrmUn_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-12T18:43:04Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/intuit-refunds/request-refund-quickbooks-product/L4BOVrmUn_US_en_US",
+    "page": 1,
+    "summary": "Searching refund request form? Follow this quick guide \u2014 without the usual headaches. Get it done in minutes.",
+    "title": "Request a refund for your product - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/intuit-subscriptions/delete-data-start-quickbooks-online/L0cpXkDlh_US_en_US": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -34371,6 +34380,15 @@
     "page": 4,
     "summary": "Searching pt deposit? Follow this quick guide \u2014 so everything reconciles cleanly. Get it done in minutes.",
     "title": "When to send your direct deposit payroll - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/payroll/year-end-checklist-quickbooks-desktop-payroll/L72tiQmbn_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-12T18:43:04Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/payroll/year-end-checklist-quickbooks-desktop-payroll/L72tiQmbn_US_en_US",
+    "page": 2,
+    "summary": "Searching payroll year end checklist? Follow this quick guide in QuickBooks Desktop Payroll \u2014 and save hours on bookkeeping. Set it up with confidence.",
+    "title": "Year-end checklist for QuickBooks Desktop Payroll - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/payroll/year-end-checklist-quickbooks-online-payroll/L8ljkFylP_US_en_US": {
     "baseline": false,
@@ -58458,6 +58476,15 @@
     "page": 1,
     "summary": "The Receipt Header & Footer settings allow you to customize the text that appears at the top and bottom of sale receipts. These fields can be used for branding, ...",
     "title": "Receipt Header & Footer | SpotOn Restaurant BOH"
+   },
+   "help.spoton.com/space/SK/4671504385": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-12T18:43:04Z",
+    "link": "https://help.spoton.com/space/SK/4671504385",
+    "page": 1,
+    "summary": "Overview. Discounts allow you to reduce the price of items or orders based on rules you define. You can control how a discount is applied, which order types ...",
+    "title": "Create a Discount"
    },
    "help.spoton.com/space/SK/4714954760/Job+Positions:+Permissions,+FAQs,+and+Best+Practices+%7C+SpotOn+Restaurant+BOH": {
     "baseline": false,
