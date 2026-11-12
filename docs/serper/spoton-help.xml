@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-11T20:57:16Z</updated>
+  <updated>2026-11-12T06:33:07Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/1874428146</id>
+    <title>eCard Systems Gift Cards | SpotOn Restaurant (FOH)</title>
+    <link href="https://help.spoton.com/space/SK/1874428146" />
+    <published>2026-11-12T06:33:07Z</published>
+    <updated>2026-11-12T06:33:07Z</updated>
+    <summary>Command Buttons | SpotOn Restaurant FOH. Station Setup Configuration &amp; Settings | SpotOn Restaurant FOH · Employee &amp; User Navigation Guide | SpotOn Restaurant ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/4514021383</id>
     <title>Accounting Summary | SpotOn Dashboard</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T02:42:41Z</published>
     <updated>2026-10-31T02:42:41Z</updated>
     <summary>Step-by-Step Instructions · Part 1: Set Up a Deposit in the Reserve Web Portal · Part 2: Creating a Reservation with a Deposit · Part 3: Create a Prepaid ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVdHegGgfxlIzgJIrX8KstLzswmpATHmnV9SYiqTJEIieala5CtkKdGs6VJOkPMlI1nps8GJyBE7IwtUjSNoseidGAQRxxchZkzOgO2HDVEifwvuaFznI9Jwegk16khqJkMg</id>
-    <title>Open Items and Market Price | SpotOn Restaurant BOH</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVdHegGgfxlIzgJIrX8KstLzswmpATHmnV9SYiqTJEIieala5CtkKdGs6VJOkPMlI1nps8GJyBE7IwtUjSNoseidGAQRxxchZkzOgO2HDVEifwvuaFznI9Jwegk16khqJkMg" />
-    <published>2026-10-31T02:42:41Z</published>
-    <updated>2026-10-31T02:42:41Z</updated>
-    <summary>Overview. Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu ...</summary>
   </entry>
 </feed>
