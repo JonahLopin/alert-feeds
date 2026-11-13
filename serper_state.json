@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 41524,
+  "credits_used": 41579,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-13T13:42:50Z",
+  "last_run": "2026-11-13T14:42:56Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 809
+  "runs": 810
  },
  "feeds": {
   "adp-help": {
@@ -17495,6 +17495,15 @@
     "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
     "title": "Wake Up Call: LA Attorney Race Pits Underdog Against ..."
    },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-latham-creates-1-million-pot-to-reward-ai-use": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-13T14:42:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-latham-creates-1-million-pot-to-reward-ai-use",
+    "page": 4,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
+    "title": "Wake Up Call: Latham Creates $1 Million Pot to Reward AI ..."
+   },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-legora-ceo-says-theres-enough-work-to-go-around": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -18061,6 +18070,15 @@
     "page": 3,
     "summary": "The Women's Pro Baseball League ended its inaugural season last month with a championship title for the Los Angeles Queens, who prevailed over the San Francisco ...",
     "title": "Women's Baseball Infighting Sets Up Sour Finish to First ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/xiaomi-has-western-automakers-playing-catch-up-to-chinese-brands": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-13T14:42:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/xiaomi-has-western-automakers-playing-catch-up-to-chinese-brands",
+    "page": 2,
+    "summary": "Xiaomi Has Western Automakers Playing Catch-Up to Chinese Brands ... In the 1990s, negotiators working to secure China's entry into the World Trade Organization ...",
+    "title": "Xiaomi Has Western Automakers Playing Catch-Up to ..."
    }
   },
   "chowbus-blog": {
@@ -34821,6 +34839,15 @@
     "page": 4,
     "summary": "Intuit Accountant Suite (IAS) brings your firm, clients, and team together in one AI-powered platform designed to improve efficiency, streamline workflows, and ...",
     "title": "Learn about Intuit Accountant Suite - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/product-setup/use-reports-center-categories-insights-information/L2KcVzxB7_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-13T14:42:56Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/product-setup/use-reports-center-categories-insights-information/L2KcVzxB7_US_en_US",
+    "page": 3,
+    "summary": "Let's go over the Reports Center in QuickBooks Online and how to run reports from it. Then you'll learn how to customize your reports so you see what you need ...",
+    "title": "How to run and customize reports in QuickBooks Online - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/product-system-requirements/quickbooks-online-slow/L8N9Ezzqj_US_en_US": {
     "baseline": false,
@@ -54085,6 +54112,15 @@
     "page": 1,
     "summary": "Imgur is an image hosting and sharing community where users upload images, including memes andGIFs. It's popular with Reddit users, but brands and marketers ...",
     "title": "8 Best Image Hosting Sites and How To Choose One (2026)"
+   },
+   "shopify.com/blog/image-sizes": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-13T14:42:56Z",
+    "link": "https://www.shopify.com/blog/image-sizes",
+    "page": 3,
+    "summary": "Get the best website image size for hero, banner, blog, and logo images, plus recommended pixel dimensions, ratios, and file sizes.",
+    "title": "Website Image Size Guidelines for 2027"
    },
    "shopify.com/blog/immersive-retail-experience": {
     "baseline": false,
