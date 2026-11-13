@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 41412,
+  "credits_used": 41468,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-13T11:42:44Z",
+  "last_run": "2026-11-13T12:43:13Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 807
+  "runs": 808
  },
  "feeds": {
   "adp-help": {
@@ -11275,6 +11275,15 @@
     "summary": "Scholastic Inc.'s secondary insurer failed to convince a federal appeals court that it was improperly ordered to pay nearly $20 million to cover the ...",
     "title": "Court Upholds Judgment That Insurer Owes Scholastic $20 Million"
    },
+   "news.bloomberglaw.com/business-and-practice/courts-reject-ai-waiver-rule-chat-use-doesnt-kill-privilege": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-13T12:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/courts-reject-ai-waiver-rule-chat-use-doesnt-kill-privilege",
+    "page": 3,
+    "summary": "AI platforms don't automatically destroy privilege. Under current case law, using an AI platform \u2014 for transcription, document analysis, or legal research \u2014 ...",
+    "title": "Courts Reject AI Waiver Rule. Chat Use Doesn't Kill Privilege"
+   },
    "news.bloomberglaw.com/business-and-practice/cravath-employee-arrested-in-ny-accused-of-insider-trading": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -12172,6 +12181,15 @@
     "page": 1,
     "summary": "Sexual abuse of students by K-12 school employees has emerged as a new Education Department civil rights enforcement priority",
     "title": "Education Agency Targets Student Abuse as Other Cases ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/election-lawyers-gear-up-for-2028-just-days-after-midterms": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-13T12:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/election-lawyers-gear-up-for-2028-just-days-after-midterms",
+    "page": 2,
+    "summary": "The legal battlefields for the 2028 presidential race are already taking shape, even as ballots are still being counted in last week's US midterm elections.",
+    "title": "Election Lawyers Gear Up for 2028 Just Days After Midterms"
    },
    "news.bloomberglaw.com/business-and-practice/election-trading-stagnates-on-prediction-markets-after-2024-boom": {
     "baseline": false,
@@ -14698,6 +14716,15 @@
     "summary": "My Chemical Romance's decision to back down when the Dallas Cowboys Cheerleaders sued over the band wearing their uniforms on stage evokes questions about ...",
     "title": "My Chemical Romance Folds to Cowboys Cheerleaders ..."
    },
+   "news.bloomberglaw.com/business-and-practice/naacp-survival-in-data-center-case-opens-door-for-similar-suits": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-13T12:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/naacp-survival-in-data-center-case-opens-door-for-similar-suits",
+    "page": 3,
+    "summary": "A federal judge's order denying a bid from Elon Musk's xAI to toss the NAACP's data center case could bolster current and future Clean Air Act lawsuits ...",
+    "title": "NAACP Survival in Data Center Case Opens Door for ..."
+   },
    "news.bloomberglaw.com/business-and-practice/nasa-disrupts-patent-dispute-over-apple-voice-command-technology": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -15012,6 +15039,15 @@
     "page": 2,
     "summary": "Nvidia Corp.'s board has been working with an outside firm to identify potential replacements for Chief Executive Officer Jensen Huang following reports of ...",
     "title": "Nvidia Working With Outside Firm to Identify CEO ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/nvidias-no-stars-board-takes-on-techs-most-important-ceo-hunt": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-13T12:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/nvidias-no-stars-board-takes-on-techs-most-important-ceo-hunt",
+    "page": 3,
+    "summary": "While Nvidia Corp. spent decades becoming one of the world's most influential technology companies, its board failed to keep pace.",
+    "title": "Nvidia's No-Stars Board Takes On Tech's Most Important ..."
    },
    "news.bloomberglaw.com/business-and-practice/ny-budget-head-warns-of-ai-rules-impact-on-tax-collections": {
     "baseline": false,
@@ -16406,6 +16442,15 @@
     "summary": "Thailand expects a US tariff rate of around 19%, Prime Minister Anutin Charnvirakul said Thursday, adding that he hopes to persuade President Donald Trump ...",
     "title": "Thailand Expects US Tariff to Stay Around 19%, Seeks ..."
    },
+   "news.bloomberglaw.com/business-and-practice/thailand-lets-tourists-turn-crypto-into-baht-for-spending": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-11-13T12:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/thailand-lets-tourists-turn-crypto-into-baht-for-spending",
+    "page": 1,
+    "summary": "WORPT lets foreign visitors convert cryptocurrency into baht and spend it at shops and restaurants by scanning barcodes widely used for payments in the country, ...",
+    "title": "Thailand Lets Tourists Turn Crypto Into Baht for Spending"
+   },
    "news.bloomberglaw.com/business-and-practice/the-burden-of-putins-war-is-mounting-on-russias-oil-giant": {
     "baseline": false,
     "date_hint": "7 hours ago",
@@ -17566,6 +17611,15 @@
     "page": 1,
     "summary": "The Treasury said Wednesday it anticipates sales of interest-bearing securities, known as coupons, to remain steady \u201cfor the next several quarters.\u201d That's a ...",
     "title": "Wall Street Revises Treasury Sales Forecasts on Guidance ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/wall-street-sees-profits-in-companies-mass-tort-liability-woes": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-13T12:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wall-street-sees-profits-in-companies-mass-tort-liability-woes",
+    "page": 3,
+    "summary": "The companies are putting money into vehicles that reflect the cost of existing and future litigation through transactions called liability divestitures.",
+    "title": "Wall Street Sees Profits in Companies' Mass Tort Liability ..."
    },
    "news.bloomberglaw.com/business-and-practice/warren-curtis-press-kalshi-polymarket-on-election-wagers": {
     "baseline": false,
@@ -33247,6 +33301,15 @@
     "summary": "How the pre-file check works explained \u2014 so you can make the right call. Everything you need to know.",
     "title": "How to reconcile your sales numbers on QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/archived-forms/access-payroll-tax-forms-tax-payments/L0uBf3gf9_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-13T12:43:13Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/archived-forms/access-payroll-tax-forms-tax-payments/L0uBf3gf9_US_en_US",
+    "page": 2,
+    "summary": "To view your saved forms: Go to the Employees menu and select Payroll Center. Select the File Forms tab. Under Filing History select the Save Filings or E- ...",
+    "title": "View your previously filed tax forms and payments - QuickBooks"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/audit-log/clients-accountants-view-audit-log/L8wWnKPK3_US_en_US": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -41001,6 +41064,24 @@
     "page": 1,
     "summary": "L'edizione 2026 dei SAP Quality Award segna un momento significativo: per la prima volta, il riconoscimento dedicato ai Clienti e Partner SAP che hanno ...",
     "title": "l'AI agentica protagonista dei progetti premiati"
+   },
+   "news.sap.com/italy/2026/11/dalle-risposte-alle-previsioni-il-prossimo-salto-dellai-per-il-business": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-13T12:43:13Z",
+    "link": "https://news.sap.com/italy/2026/11/dalle-risposte-alle-previsioni-il-prossimo-salto-dellai-per-il-business/",
+    "page": 2,
+    "summary": "L'AI generativa aiuta a scrivere, fare ricerca, programmare e analizzare contenuti pi\u00f9 rapidamente. Ma i benefici individuali non si traducono ...",
+    "title": "Dalle risposte alle previsioni: il prossimo salto dell'AI per ..."
+   },
+   "news.sap.com/italy/2026/11/dalle-risposte-alle-previsioni-il-prossimo-salto-dellai-per-il-business?amp=1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-13T12:43:13Z",
+    "link": "https://news.sap.com/italy/2026/11/dalle-risposte-alle-previsioni-il-prossimo-salto-dellai-per-il-business/?amp=1",
+    "page": 2,
+    "summary": "L'AI generativa aiuta a scrivere, fare ricerca, programmare e analizzare contenuti pi\u00f9 rapidamente. Ma i benefici individuali non si traducono ...",
+    "title": "Dalle risposte alle previsioni: il prossimo salto dell'AI per ..."
    },
    "news.sap.com/italy/2026/11/natura-co-sta-trasformando-la-funzione-finance-con-lai-generativa-su-sap-s-4hana": {
     "baseline": false,
