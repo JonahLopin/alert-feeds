@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-13T14:42:56Z</updated>
+  <updated>2026-11-13T15:42:43Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/calculate-conversion-rate</id>
+    <title>How To Calculate Conversion Rate: Formula and Example</title>
+    <link href="https://www.shopify.com/blog/calculate-conversion-rate" />
+    <published>2026-11-13T15:42:43Z</published>
+    <updated>2026-11-13T15:42:43Z</updated>
+    <summary>Shopify measures conversion rate as the percentage of online store sessions that end in a purchase. Learn how to run and read your own numbers.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/image-sizes</id>
     <title>Website Image Size Guidelines for 2027</title>
@@ -795,13 +803,5 @@
     <published>2026-11-08T14:43:11Z</published>
     <updated>2026-11-08T14:43:11Z</updated>
     <summary>Retail store signage shows shoppers what your business can do and how to navigate your store without having to speak to anyone. It helps them find the ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/register-business</id>
-    <title>How To Register an Online Business in 5 Steps (2026)</title>
-    <link href="https://www.shopify.com/blog/register-business" />
-    <published>2026-11-08T14:43:11Z</published>
-    <updated>2026-11-08T14:43:11Z</updated>
-    <summary>Learn how to register a US online business, including picking a name, choosing a structure, getting an EIN, and acquiring the licenses you need, ...</summary>
   </entry>
 </feed>

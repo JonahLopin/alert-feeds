@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-11-13T14:42:56Z</updated>
+  <updated>2026-11-13T15:42:43Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/close-books/managing-final-reviews-books-close/L49bWsoML_US_en_US</id>
+    <title>Final reviews in Books Close - QuickBooks - Intuit</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/close-books/managing-final-reviews-books-close/L49bWsoML_US_en_US" />
+    <published>2026-11-13T15:42:43Z</published>
+    <updated>2026-11-13T15:42:43Z</updated>
+    <summary>In this video, you'll see how to review client reports using Final review. Start on the File review page for a selected client and period. Scroll to the bottom ...</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/product-setup/use-reports-center-categories-insights-information/L2KcVzxB7_US_en_US</id>
     <title>How to run and customize reports in QuickBooks Online - Intuit</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T19:42:36Z</published>
     <updated>2026-11-06T19:42:36Z</updated>
     <summary>In Intuit Accountant Suite, you can undo a client's whole reconciliation instead of removing individual transactions. This lets you start over from scratch to ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAES1AEBxCJF1zxZcTqOe2oLRgAjtmzr4CbHaQ1i5QI1sC6s5qTipe8IJQmDCNjcBGfHcTAydXcwhYf6UG1AKF-rNPUul2ZkWPrGdbsyuwhxi9CaUuuBfehLBDDV_QJYeFL6hNO43HmqxKAtRh8t15l1hnp8JPxSNct5jq_2G0MvAc2_amLJwkT6WtKnRbLnVZDs_LkagDkLyW_PCcuA6MpwqsLCM99FHPWVP4H3FU-xFtMCIEhCuxxolrVsx2mmKeR4H8PSKUxcXjgGaxnw6d80ldklLj03pQ</id>
-    <title>Resolve a non-sufficient funds (NSF) hold on your payroll ...</title>
-    <link href="https://www.google.com/goto?url=CAES1AEBxCJF1zxZcTqOe2oLRgAjtmzr4CbHaQ1i5QI1sC6s5qTipe8IJQmDCNjcBGfHcTAydXcwhYf6UG1AKF-rNPUul2ZkWPrGdbsyuwhxi9CaUuuBfehLBDDV_QJYeFL6hNO43HmqxKAtRh8t15l1hnp8JPxSNct5jq_2G0MvAc2_amLJwkT6WtKnRbLnVZDs_LkagDkLyW_PCcuA6MpwqsLCM99FHPWVP4H3FU-xFtMCIEhCuxxolrVsx2mmKeR4H8PSKUxcXjgGaxnw6d80ldklLj03pQ" />
-    <published>2026-11-06T19:42:36Z</published>
-    <updated>2026-11-06T19:42:36Z</updated>
-    <summary>An NSF (Non-Sufficient Funds) hold is the result of a failed payroll transaction. The failed payroll transaction is usually a paycheck and can be other payroll ...</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 41579,
+  "credits_used": 41635,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-13T14:42:56Z",
+  "last_run": "2026-11-13T15:42:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 810
+  "runs": 811
  },
  "feeds": {
   "adp-help": {
@@ -15993,6 +15993,15 @@
     "page": 2,
     "summary": "Skydance Corp. co-Chief Executive Officer David Ellison told employees of the newly merged company that they will be expected to come into the office five ...",
     "title": "Skydance Asks Staff to Take Voluntary Buyouts Before ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/small-business-fraud-suit-revived-after-whistleblower-decision": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-13T15:42:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/small-business-fraud-suit-revived-after-whistleblower-decision",
+    "page": 1,
+    "summary": "A small business contract fraud suit is returning to a Florida federal district court following a separate but related appeals court ruling on the ...",
+    "title": "Small Business Fraud Suit Revived After Whistleblower ..."
    },
    "news.bloomberglaw.com/business-and-practice/snell-wilmer-opens-mexico-city-office-with-four-partner-group-1": {
     "baseline": false,
@@ -33568,6 +33577,15 @@
     "page": 2,
     "summary": "Learn how to create, customize, preview, and send professional proposals to your customers directly from QuickBooks Online. Use the proposal builder to create a ...",
     "title": "Create and send proposals - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/close-books/managing-final-reviews-books-close/L49bWsoML_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-13T15:42:43Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/close-books/managing-final-reviews-books-close/L49bWsoML_US_en_US",
+    "page": 2,
+    "summary": "In this video, you'll see how to review client reports using Final review. Start on the File review page for a selected client and period. Scroll to the bottom ...",
+    "title": "Final reviews in Books Close - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/close-books/review-books-close-transactions/L7M7trAQH_US_en_US": {
     "baseline": false,
@@ -53276,6 +53294,15 @@
     "page": 1,
     "summary": "How do you make a buyers guide? Start by defining whom the guide is for, then build the content around your own products. Format the guide for fast scanning, ...",
     "title": "Buyers Guide: How To Create One for Your Store (2026)"
+   },
+   "shopify.com/blog/calculate-conversion-rate": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-13T15:42:43Z",
+    "link": "https://www.shopify.com/blog/calculate-conversion-rate",
+    "page": 5,
+    "summary": "Shopify measures conversion rate as the percentage of online store sessions that end in a purchase. Learn how to run and read your own numbers.",
+    "title": "How To Calculate Conversion Rate: Formula and Example"
    },
    "shopify.com/blog/cash-register-pos": {
     "baseline": false,
