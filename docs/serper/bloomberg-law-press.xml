@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-13T03:42:57Z</updated>
+  <updated>2026-11-13T10:43:15Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/hims-hers-suit-shows-privacy-policies-should-match-promises</id>
+    <title>Hims &amp; Hers Suit Shows Privacy Policies Should Match ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/hims-hers-suit-shows-privacy-policies-should-match-promises" />
+    <published>2026-11-13T10:43:15Z</published>
+    <updated>2026-11-13T10:43:15Z</updated>
+    <summary>Hims sells prescription treatments for hair loss, sexual health, mental health, weight loss, and other conditions through its websites and apps.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/gop-proposes-78-billion-for-department-of-homeland-security</id>
     <title>GOP Proposes $78 Billion for Department of Homeland ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-10T14:42:56Z</published>
     <updated>2026-11-10T14:42:56Z</updated>
     <summary>The episode comes to mind in light of the panicky voices on the right begging Justice Samuel Alito to step down so that President Donald Trump might have the ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/wake-up-call-ai-native-firm-bets-on-tech-to-avoid-weils-fate</id>
-    <title>Wake Up Call: AI-Native Firm Bets on Tech to Avoid Weil's ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/wake-up-call-ai-native-firm-bets-on-tech-to-avoid-weils-fate" />
-    <published>2026-11-10T12:43:09Z</published>
-    <updated>2026-11-10T12:43:09Z</updated>
-    <summary>Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.</summary>
   </entry>
 </feed>
