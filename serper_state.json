@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 41742,
+  "credits_used": 41797,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-13T17:42:35Z",
+  "last_run": "2026-11-13T18:43:07Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 813
+  "runs": 814
  },
  "feeds": {
   "adp-help": {
@@ -12766,6 +12766,15 @@
     "summary": "Jens Hafemann joined Gibson Dunn as a partner in its tax practice group in Frankfurt, the firm announced Thursday.",
     "title": "Gibson Dunn Adds Jens Hafemann as Tax Partner in ..."
    },
+   "news.bloomberglaw.com/business-and-practice/gibson-dunn-fortifies-funds-practice-with-weil-120-lawyer-haul-1": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-13T18:43:07Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/gibson-dunn-fortifies-funds-practice-with-weil-120-lawyer-haul-1",
+    "page": 3,
+    "summary": "Gibson Dunn & Crutcher's addition of more than 120 lawyers from Weil announced Thursday achieves the Big Law firm's push to build one of the industry's top ...",
+    "title": "Gibson Dunn Fortifies Funds Practice With Weil 120 ..."
+   },
    "news.bloomberglaw.com/business-and-practice/gibson-dunn-recruits-120-lawyer-funds-group-from-weil-gotshal": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -17692,6 +17701,15 @@
     "page": 1,
     "summary": "Illinois Rep. Sean Casten told California Rep. Maxine Waters he plans to run for the top job on the influential House Financial Services Committee, ...",
     "title": "Waters' Long Tenure at Financial Services Challenged by ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/waters-promises-power-to-subcommittee-chairs-in-her-gavel-bid": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-13T18:43:07Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/waters-promises-power-to-subcommittee-chairs-in-her-gavel-bid",
+    "page": 2,
+    "summary": "Rep. Maxine Waters (Calif.), the House Financial Services Committee's top Democrat, is promising to empower other lawmakers on the panel. Photographer: Eric Lee ...",
+    "title": "Waters Promises Power to Subcommittee Chairs in Her ..."
    },
    "news.bloomberglaw.com/business-and-practice/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews": {
     "baseline": true,
@@ -71059,6 +71077,15 @@
     "summary": "Pay transparency laws in 2026 are putting payroll under pressure. Three experts explain how to defend pay structures, hiring choices and HRIS controls.",
     "title": "Payroll Pulse: Can you defend it? Pay transparency laws ..."
    },
+   "tax.thomsonreuters.com/blog/preparing-for-bis-50-a-practical-screening-readiness-framework": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-13T18:43:07Z",
+    "link": "https://tax.thomsonreuters.com/blog/preparing-for-bis-50-a-practical-screening-readiness-framework/",
+    "page": 1,
+    "summary": "Score your screening program across five domains and four maturity levels. Use this BIS 50 readiness assessment to find and fix gaps.",
+    "title": "BIS 50 readiness assessment: A screening maturity ..."
+   },
    "tax.thomsonreuters.com/blog/season-proofing-the-team-protecting-tax-compliance-continuity-through-turnover": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -76404,6 +76431,15 @@
     "page": 1,
     "summary": "This year's event will focus on how internal audit teams can become more nimble and agile in response to a rapidly changing audit environment, and how better ...",
     "title": "Wolters Kluwer TeamMate Live User Conference Exploring ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-to-acquire-ai-powered-clinical-decision-support-platform-agilemd": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-13T18:43:07Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-to-acquire-ai-powered-clinical-decision-support-platform-agilemd",
+    "page": 2,
+    "summary": "Wolters Kluwer Health has signed an agreement to acquire AgileMD, a healthcare technology company, for up to $100 million, of which $40 million is an ...",
+    "title": "Wolters Kluwer to acquire AI-powered clinical decision ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-to-acquire-global-legal-software-provider-brightflag": {
     "baseline": false,
