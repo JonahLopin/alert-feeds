@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-13T22:44:08Z</updated>
+  <updated>2026-11-13T23:22:50Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8849212304568567452</id>
+    <title>Anthropic CEO Calls Computing Power 'Deepest Business Dilemma' - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/anthropic-ceo-calls-computing-power-deepest-business-dilemma" />
+    <published>2026-11-13T23:22:50Z</published>
+    <updated>2026-11-13T23:22:50Z</updated>
+    <summary>Anthropic PBC Chief Executive Officer Dario Amodei named sourcing computing power as one of the artificial intelligence company's biggest ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:10350697069544521760</id>
     <title>Nvidia Says Speculation on New CEO Candidates Is 'Premature' - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-11-10T23:22:33Z</published>
     <updated>2026-11-10T23:22:33Z</updated>
     <summary>The Trump administration has formally denied over $112 million in Medicaid funding to Minnesota, escalating a fight with the the state over ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:7659230524585680792</id>
-    <title>Matt Levine's Money Stuff: Anthropic Has Some Anchor Investors - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/matt-levines-money-stuff-anthropic-has-some-anchor-investors" />
-    <published>2026-11-10T21:23:25Z</published>
-    <updated>2026-11-10T21:23:25Z</updated>
-    <summary>If you give Anthropic PBC a certain amount of money — say $74 — you get a share of Anthropic stock. This gives you partial ownership of Anthropic's ...</summary>
   </entry>
 </feed>
