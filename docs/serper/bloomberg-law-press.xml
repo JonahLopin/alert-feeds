@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-13T12:43:13Z</updated>
+  <updated>2026-11-13T13:42:50Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/cahill-rivals-approach-for-tie-up-firm-stays-strong-chair-says</id>
+    <title>Cahill Rivals Approach for Tie-Up, Firm Stays Strong, Chair ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/cahill-rivals-approach-for-tie-up-firm-stays-strong-chair-says" />
+    <published>2026-11-13T13:42:50Z</published>
+    <updated>2026-11-13T13:42:50Z</updated>
+    <summary>Herbert Washer, who has chaired the law firm for nearly three years, said Cahill is on track for double-digit revenue growth this year and that the Wall Street ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/wall-street-sees-profits-in-companies-mass-tort-liability-woes</id>
     <title>Wall Street Sees Profits in Companies' Mass Tort Liability ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-10T19:42:55Z</published>
     <updated>2026-11-10T19:42:55Z</updated>
     <summary>A panel of Seventh Circuit judges Tuesday questioned two whistleblowers' argument that the False Claims Act requires a penalty for each false claim ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/paxton-ends-claims-against-migrant-shelter-he-sought-to-close</id>
-    <title>Paxton Ends Claims Against Migrant Shelter He Sought to ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/paxton-ends-claims-against-migrant-shelter-he-sought-to-close" />
-    <published>2026-11-10T19:42:55Z</published>
-    <updated>2026-11-10T19:42:55Z</updated>
-    <summary>Texas Attorney General Ken Paxton has abandoned his legal efforts to close a migrant shelter he said was unlawfully harboring undocumented immigrants.</summary>
   </entry>
 </feed>

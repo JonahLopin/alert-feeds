@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 41468,
+  "credits_used": 41524,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-13T12:43:13Z",
+  "last_run": "2026-11-13T13:42:50Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 808
+  "runs": 809
  },
  "feeds": {
   "adp-help": {
@@ -10717,6 +10717,15 @@
     "page": 4,
     "summary": "ByteDance Ltd. is close to an agreement to buy MediaTek Inc. data center semiconductors, a deal that would secure vital components for TikTok's owner while ...",
     "title": "ByteDance in Talks to Secure MediaTek AI Chips for Data ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/cahill-rivals-approach-for-tie-up-firm-stays-strong-chair-says": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-13T13:42:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cahill-rivals-approach-for-tie-up-firm-stays-strong-chair-says",
+    "page": 3,
+    "summary": "Herbert Washer, who has chaired the law firm for nearly three years, said Cahill is on track for double-digit revenue growth this year and that the Wall Street ...",
+    "title": "Cahill Rivals Approach for Tie-Up, Firm Stays Strong, Chair ..."
    },
    "news.bloomberglaw.com/business-and-practice/california-climate-reporting-partially-blocked-by-ninth-circuit": {
     "baseline": false,
@@ -39751,6 +39760,15 @@
     "summary": "SAP Incentive Management, starter edition, offers core compensation management capabilities for growth-focused organizations. Learn more.",
     "title": "SAP Incentive Management, Starter Edition, Now Available"
    },
+   "news.sap.com/2026/11/sap-leader-idc-marketscapes-warehouse-management-manufacturing-retail": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-13T13:42:50Z",
+    "link": "https://news.sap.com/2026/11/sap-leader-idc-marketscapes-warehouse-management-manufacturing-retail/",
+    "page": 1,
+    "summary": "SAP is named a Leader in 2026 IDC MarketScape assessments for warehouse management in manufacturing and retail. Read to learn more.",
+    "title": "IDC Names SAP a Leader in Warehouse Management"
+   },
    "news.sap.com/2026/11/sap-product-level-cloud-emissions-energy-data-customers": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -39759,6 +39777,15 @@
     "page": 1,
     "summary": "SAP gives customers product-level cloud emissions and energy data based on infrastructure activity, helping identify reduction opportunities.",
     "title": "SAP Puts Product-Level Cloud Emissions and Energy Data ..."
+   },
+   "news.sap.com/2026/11/successful-sap-transformation-business-processes": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-13T13:42:50Z",
+    "link": "https://news.sap.com/2026/11/successful-sap-transformation-business-processes/",
+    "page": 1,
+    "summary": "Discover how SAP BTP, AI, and connected business processes can drive enterprise transformation while keeping humans in control.",
+    "title": "Successful SAP Transformation Starts With Business ..."
    },
    "news.sap.com/2026/11/supply-chain-ai-must-do-more-than-inform-it-must-help-businesses-act": {
     "baseline": false,
