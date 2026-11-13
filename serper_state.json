@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 40855,
+  "credits_used": 40911,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-13T01:43:26Z",
+  "last_run": "2026-11-13T02:42:58Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 797
+  "runs": 798
  },
  "feeds": {
   "adp-help": {
@@ -34856,6 +34856,15 @@
     "page": 3,
     "summary": "Learn how to adjust or prorate an employee's fixed salary in Intuit QuickBooks Workforce and QuickBooks Desktop Payroll. Salaried employees have a fixed ...",
     "title": "Override an employee's salary - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/unemployment-taxes/authorize-quickbooks-indiana-unemployment-third/L6Tq1MtPM_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-13T02:42:58Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/unemployment-taxes/authorize-quickbooks-indiana-unemployment-third/L6Tq1MtPM_US_en_US",
+    "page": 2,
+    "summary": "Authorize QuickBooks as your Indiana unemployment Third Party Agent \u2014 and save hours on bookkeeping. Do it in just a few clicks.",
+    "title": "Authorize QuickBooks as your Indiana unemployment Third ..."
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/update-products/error-15222/L5eWIDaBC_US_en_US": {
     "baseline": false,
