@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-13T19:42:49Z</updated>
+  <updated>2026-11-13T20:43:13Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/ghost-commerce</id>
+    <title>Ghost Commerce: What It Is and How It Works (2026)</title>
+    <link href="https://www.shopify.com/blog/ghost-commerce" />
+    <published>2026-11-13T20:43:13Z</published>
+    <updated>2026-11-13T20:43:13Z</updated>
+    <summary>Ghost commerce is an informal umbrella term for running an online business with no physical storefront for shoppers to visit and no physical inventory to store.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/natural-fabrics-for-clothing</id>
     <title>Types of Natural Fabrics for Clothing (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-08T15:42:36Z</published>
     <updated>2026-11-08T15:42:36Z</updated>
     <summary>Ecommerce accounting records and reviews the money moving through an online business. It tracks transactions like sales, payment processing fees, ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/best-software-for-small-business</id>
-    <title>Best Software for Small Business: 24 Essential Tools (2026)</title>
-    <link href="https://www.shopify.com/blog/best-software-for-small-business" />
-    <published>2026-11-08T15:42:36Z</published>
-    <updated>2026-11-08T15:42:36Z</updated>
-    <summary>Website builders like Shopify and Squarespace let you create professional websites with minimal to no coding knowledge. Many tools offer drag-and-drop ...</summary>
   </entry>
 </feed>

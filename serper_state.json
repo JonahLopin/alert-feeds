@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 41851,
+  "credits_used": 41906,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-13T19:42:49Z",
+  "last_run": "2026-11-13T20:43:13Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 815
+  "runs": 816
  },
  "feeds": {
   "adp-help": {
@@ -10862,6 +10862,15 @@
     "summary": "The US derivatives regulator said it's not going to crack down on software companies offering access to trading forums without certain registration ...",
     "title": "CFTC Relief Opens Prediction Market Floodgates for App ..."
    },
+   "news.bloomberglaw.com/business-and-practice/cftc-sues-arkansas-over-move-to-halt-event-contract-trading": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-13T20:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cftc-sues-arkansas-over-move-to-halt-event-contract-trading",
+    "page": 2,
+    "summary": "The CFTC sued Arkansas in an attempt to block the state's effort to stop event-contract trading and impose fines on exchanges, according to an agency ...",
+    "title": "CFTC Sues Arkansas Over Move to Halt Event-Contract ..."
+   },
    "news.bloomberglaw.com/business-and-practice/challenge-to-idaho-trans-sports-ban-is-moot-appeals-court-says": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -12021,6 +12030,15 @@
     "summary": "A top Justice Department official moved to disqualify a federal judge from a legal challenge to President Donald Trump's changes to a Washington golf course ...",
     "title": "DOJ Official Requests New Judge in Golf Course Case ..."
    },
+   "news.bloomberglaw.com/business-and-practice/doj-properly-axed-fraud-suit-against-pfizer-partner-court-says": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-13T20:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-properly-axed-fraud-suit-against-pfizer-partner-court-says",
+    "page": 2,
+    "summary": "The US government properly intervened in and sought dismissal of a whistleblower's False Claims Act suit alleging that Pfizer contractor Ventavia Research ...",
+    "title": "DOJ Properly Axed Fraud Suit Against Pfizer Partner, Court ..."
+   },
    "news.bloomberglaw.com/business-and-practice/doj-re-charges-wiretap-offenses-in-leaked-kanye-west-tape-case": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -13169,6 +13187,15 @@
     "page": 1,
     "summary": "Teachers, healthcare workers and nonprofit employees would have expanded investment options available under their retirement plans under a bill passed by ...",
     "title": "House Passes Bill to Broaden Nonprofit Retirement Investments"
+   },
+   "news.bloomberglaw.com/business-and-practice/house-vote-gives-nonprofit-retirement-investment-bill-fresh-look": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-13T20:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/house-vote-gives-nonprofit-retirement-investment-bill-fresh-look",
+    "page": 1,
+    "summary": "The House voted on Wednesday to pass the Retirement Fairness for Charities and Educational Institutions Act (H.R. 1013), which would allow teachers, healthcare ...",
+    "title": "House Vote Gives Nonprofit Retirement Investment Bill ..."
    },
    "news.bloomberglaw.com/business-and-practice/how-ai-is-making-cyberattacks-a-bigger-threat-explainer": {
     "baseline": false,
@@ -16532,6 +16559,15 @@
     "summary": "Hyperliquid, widely described as an exchange for digital assets, isn't an exchange at all but \u201ca layer on which exchanges can be deployed.\u201d",
     "title": "The Crypto Mogul Behind Trading Powerhouse Hyperliquid"
    },
+   "news.bloomberglaw.com/business-and-practice/the-judge-who-wanted-laws-to-make-economic-sense-noah-feldman": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-13T20:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/the-judge-who-wanted-laws-to-make-economic-sense-noah-feldman",
+    "page": 3,
+    "summary": "Judge Richard Posner, who died this week at 87, was the godfather of what is known as the law and economics movement. In a career spanning half a century ...",
+    "title": "The Judge Who Wanted Laws to Make Economic Sense"
+   },
    "news.bloomberglaw.com/business-and-practice/the-new-corporate-status-symbol-is-how-much-ai-access-you-have": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -16603,6 +16639,15 @@
     "page": 1,
     "summary": "Meta, TikTok, and Google are challenging a new California law that bans online platforms from making personalized recommendations to users under 16 and ...",
     "title": "TikTok, Google, Meta Challenge California Youth Social ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/tkos-top-lawyer-exits-ari-emanuels-entertainment-conglomerate": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-13T20:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/tkos-top-lawyer-exits-ari-emanuels-entertainment-conglomerate",
+    "page": 1,
+    "summary": "Krauss, one of the highest-paid corporate legal leaders in the media and entertainment industry, stepped down Nov. 4 but will remain a senior adviser to TKO",
+    "title": "TKO's Top Lawyer Exits Ari Emanuel's Entertainment ..."
    },
    "news.bloomberglaw.com/business-and-practice/top-oversight-democrat-plots-ice-investigation-if-house-flips": {
     "baseline": false,
@@ -53941,6 +53986,15 @@
     "page": 4,
     "summary": "Gaining followers on TikTok can bring more opportunities for your brand. Learn 11 tactics to get more followers from creators and founders.",
     "title": "How To Get More Followers on TikTok (2027)"
+   },
+   "shopify.com/blog/ghost-commerce": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-13T20:43:13Z",
+    "link": "https://www.shopify.com/blog/ghost-commerce",
+    "page": 3,
+    "summary": "Ghost commerce is an informal umbrella term for running an online business with no physical storefront for shoppers to visit and no physical inventory to store.",
+    "title": "Ghost Commerce: What It Is and How It Works (2026)"
    },
    "shopify.com/blog/grants-for-black-women": {
     "baseline": false,
