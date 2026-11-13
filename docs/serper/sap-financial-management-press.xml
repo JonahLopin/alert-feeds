@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-13T07:42:35Z</updated>
+  <updated>2026-11-13T08:42:37Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/2026/11/30-jahre-sap-business-one/?amp=1</id>
+    <title>SAP Business One: 30 Jahre gemeinsames Wachstum</title>
+    <link href="https://news.sap.com/germany/2026/11/30-jahre-sap-business-one/?amp=1" />
+    <published>2026-11-13T08:42:37Z</published>
+    <updated>2026-11-13T08:42:37Z</updated>
+    <summary>Entdecken Sie SAP Business One, eine kostengünstige ERP-Lösung für kleine und mittlere Unternehmen mit über 30 Jahren Erfolg.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/japan/2026/11/sap%E3%80%812026%E5%B9%B4%E7%89%88gartner-magic-quadrant%E3%81%AE%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E4%B8%AD%E5%BF%83%E5%9E%8B%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%82%AF/?amp=1</id>
     <title>2026年版Gartner® Magic Quadrant™のプロダクト中心型 ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T17:43:17Z</published>
     <updated>2026-11-06T17:43:17Z</updated>
     <summary>Across finance, HR, and supply chain, AI adoption is moving faster than the workforce, processes, and capabilities needed to support it.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESqgEBxCJF14AdM3XxC5k_Ul2eedOH--3ZUYQXUUmN5Xj__ZoLEx_oRZMPSMUmi3rTcO1ZUMWM1rnalq4ZBTDPNksZnuYeX8m98oVUNJtOuwJDpllooY-RVzGzGmHfKxVo6zUX_OWvtM2quUIO13qTnQTfQocVhL1Bywjsu3qfnGnK9zxWuYUdZCwpzcyRY-UnKgXlx5l6n7DIFqyZ0uEZB8k8AOtLxzlSoWfSwg</id>
-    <title>New Research Finds AI Is Moving Faster Than ...</title>
-    <link href="https://www.google.com/goto?url=CAESqgEBxCJF14AdM3XxC5k_Ul2eedOH--3ZUYQXUUmN5Xj__ZoLEx_oRZMPSMUmi3rTcO1ZUMWM1rnalq4ZBTDPNksZnuYeX8m98oVUNJtOuwJDpllooY-RVzGzGmHfKxVo6zUX_OWvtM2quUIO13qTnQTfQocVhL1Bywjsu3qfnGnK9zxWuYUdZCwpzcyRY-UnKgXlx5l6n7DIFqyZ0uEZB8k8AOtLxzlSoWfSwg" />
-    <published>2026-11-06T16:43:02Z</published>
-    <updated>2026-11-06T16:43:02Z</updated>
-    <summary>New research from Economist Enterprise sponsored by SAP finds AI is advancing faster than organizations can adapt.</summary>
   </entry>
 </feed>
