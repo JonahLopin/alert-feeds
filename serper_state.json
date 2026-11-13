@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 40968,
+  "credits_used": 41024,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-13T03:42:57Z",
+  "last_run": "2026-11-13T04:42:58Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 799
+  "runs": 800
  },
  "feeds": {
   "adp-help": {
@@ -33343,6 +33343,15 @@
     "page": 2,
     "summary": "Automate QuickBooks Online tasks with Custom Automations -- describe what you want in plain English and Intuit Intelligence builds it.",
     "title": "Automate tasks with Custom Automations - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/business-profile/invited-users-receive-email-invitation-quickbooks/L3sX8mWKg_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-13T04:42:58Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/business-profile/invited-users-receive-email-invitation-quickbooks/L3sX8mWKg_US_en_US",
+    "page": 3,
+    "summary": "Your guide to invited user didn't receive your email invitation \u2014 and save hours on bookkeeping. Clear, step-by-step instructions.",
+    "title": "Invited user didn't receive your email invitation - QuickBooks"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/business-reports/create-dashboards-view-key-business-insights/L7C4Ftrzx_US_en_US": {
     "baseline": false,
