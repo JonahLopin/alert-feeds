@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 41797,
+  "credits_used": 41851,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-13T18:43:07Z",
+  "last_run": "2026-11-13T19:42:49Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 814
+  "runs": 815
  },
  "feeds": {
   "adp-help": {
@@ -11822,6 +11822,15 @@
     "page": 3,
     "summary": "The Trump administration has banned DeepSeek products from federal civilian agency information technology systems. The removal order from the Department of ...",
     "title": "DHS Bans DeepSeek, but Replacing Model Won't Erase Its ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/dhs-detentions-of-previously-released-noncitizens-draw-suit": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-13T19:42:49Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/dhs-detentions-of-previously-released-noncitizens-draw-suit",
+    "page": 1,
+    "summary": "Due to DHS' policy change, thousands of noncitizens in North Carolina, South Carolina, and Georgia face an imminent risk of baseless detention,",
+    "title": "DHS Detentions of Previously Released Noncitizens Draw ..."
    },
    "news.bloomberglaw.com/business-and-practice/dhs-rejects-guidance-for-body-cameras-to-turn-on-automatically": {
     "baseline": false,
@@ -54499,6 +54508,15 @@
     "page": 1,
     "summary": "You can monetize your Facebook page by joining Facebook's creator program, landing a monetization invite, setting up a Facebook Shop, and more.",
     "title": "How To Monetize a Facebook Page (2026)"
+   },
+   "shopify.com/blog/natural-fabrics-for-clothing": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-13T19:42:49Z",
+    "link": "https://www.shopify.com/blog/natural-fabrics-for-clothing",
+    "page": 1,
+    "summary": "Natural fabrics are created entirely from organic sources, such as animal fleece, seed hairs, and plant-based fibers like the woody cores of flax and hemp.",
+    "title": "Types of Natural Fabrics for Clothing (2026)"
    },
    "shopify.com/blog/needs-based-selling": {
     "baseline": false,

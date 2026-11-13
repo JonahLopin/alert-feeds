@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-13T15:42:43Z</updated>
+  <updated>2026-11-13T19:42:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/natural-fabrics-for-clothing</id>
+    <title>Types of Natural Fabrics for Clothing (2026)</title>
+    <link href="https://www.shopify.com/blog/natural-fabrics-for-clothing" />
+    <published>2026-11-13T19:42:49Z</published>
+    <updated>2026-11-13T19:42:49Z</updated>
+    <summary>Natural fabrics are created entirely from organic sources, such as animal fleece, seed hairs, and plant-based fibers like the woody cores of flax and hemp.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/calculate-conversion-rate</id>
     <title>How To Calculate Conversion Rate: Formula and Example</title>
@@ -795,13 +803,5 @@
     <published>2026-11-08T15:42:36Z</published>
     <updated>2026-11-08T15:42:36Z</updated>
     <summary>Website builders like Shopify and Squarespace let you create professional websites with minimal to no coding knowledge. Many tools offer drag-and-drop ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/retail-signage</id>
-    <title>Retail Signage: Types, Design Tips, and Examples (2026)</title>
-    <link href="https://www.shopify.com/blog/retail-signage" />
-    <published>2026-11-08T14:43:11Z</published>
-    <updated>2026-11-08T14:43:11Z</updated>
-    <summary>Retail store signage shows shoppers what your business can do and how to navigate your store without having to speak to anyone. It helps them find the ...</summary>
   </entry>
 </feed>

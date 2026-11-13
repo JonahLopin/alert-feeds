@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-13T18:43:07Z</updated>
+  <updated>2026-11-13T19:42:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/dhs-detentions-of-previously-released-noncitizens-draw-suit</id>
+    <title>DHS Detentions of Previously Released Noncitizens Draw ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/dhs-detentions-of-previously-released-noncitizens-draw-suit" />
+    <published>2026-11-13T19:42:49Z</published>
+    <updated>2026-11-13T19:42:49Z</updated>
+    <summary>Due to DHS' policy change, thousands of noncitizens in North Carolina, South Carolina, and Georgia face an imminent risk of baseless detention,</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/waters-promises-power-to-subcommittee-chairs-in-her-gavel-bid</id>
     <title>Waters Promises Power to Subcommittee Chairs in Her ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-10T21:42:38Z</published>
     <updated>2026-11-10T21:42:38Z</updated>
     <summary>If you give Anthropic PBC a certain amount of money — say $74 — you get a share of Anthropic stock. This gives you partial ownership of Anthropic's future ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/curbs-to-dhs-use-of-force-at-portland-facility-vacated-on-appeal</id>
-    <title>Curbs to DHS Use of Force at Portland Facility Vacated on ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/curbs-to-dhs-use-of-force-at-portland-facility-vacated-on-appeal" />
-    <published>2026-11-10T21:42:38Z</published>
-    <updated>2026-11-10T21:42:38Z</updated>
-    <summary>The US Department of Homeland Security can continue using nonlethal munitions against protesters and press at a federal immigration facility in Portland, ...</summary>
   </entry>
 </feed>
