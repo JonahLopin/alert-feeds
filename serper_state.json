@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 41138,
+  "credits_used": 41195,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-13T06:44:29Z",
+  "last_run": "2026-11-13T07:42:35Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 802
+  "runs": 803
  },
  "feeds": {
   "adp-help": {
@@ -41227,6 +41227,24 @@
     "summary": "\u30d3\u30b8\u30e7\u30f3\u304b\u3089\u73fe\u5b9f\u3078\u2015\u20152026 \u5e74\u306e SAP TechEd \u306b\u304a\u3044\u3066\u3001SAP \u306e\u7d4c\u55b6\u9663\u306f\u3001\u958b\u767a\u8005\u3001\u5c0e\u5165\u4f01\u696d\u3001\u30d1\u30fc\u30c8\u30ca\u30fc\u304c Autonomous Enterprise\uff08\u81ea\u5f8b\u578b\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba\uff09\u3092\u3044\u304b\u306b\u69cb\u7bc9 ...",
     "title": "\u958b\u767a\u8005\u306b\u5411\u3051\u3066\u300cAutonomous Enterprise \u306f\u69cb\u7bc9\u3067\u304d\u308b\u300d\u3068\u767a\u4fe1"
    },
+   "news.sap.com/japan/2026/11/sap%E3%80%812026%E5%B9%B4%E7%89%88gartner-emerging-market-quadrant%E3%81%AE%E7%B5%B1%E5%90%88%E5%9E%8B%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3ai%E3%82%A8%E3%83%BC?amp=1": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-13T07:42:35Z",
+    "link": "https://news.sap.com/japan/2026/11/sap%E3%80%812026%E5%B9%B4%E7%89%88gartner-emerging-market-quadrant%E3%81%AE%E7%B5%B1%E5%90%88%E5%9E%8B%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3ai%E3%82%A8%E3%83%BC/?amp=1",
+    "page": 2,
+    "summary": "\u4eca\u56de\u306e\u30ec\u30dd\u30fc\u30c8\u306f\u3001Gartner\u304c\u3053\u306e\u65b0\u8208\u30ab\u30c6\u30b4\u30ea\u30fc\u306b\u3064\u3044\u3066\u521d\u3081\u3066\u5b9f\u65bd\u3057\u305f\u6b63\u5f0f\u306a\u8a55\u4fa1\u3067\u3059\u3002SAP\u306f\u3001\u3053\u306e\u8a55\u4fa1\u304c\u3001\u30b5\u30d7\u30e9\u30a4\u30c1\u30a7\u30fc\u30f3\u696d\u52d9\u306e\u4e2d\u6838\u306bAI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u3092\u7d44\u307f\u8fbc\u3080\u305f\u3081\u306b ...",
+    "title": "SAP\u30012026\u5e74\u7248Gartner\u00ae Emerging Market Quadrant\u306e\u7d71\u5408 ..."
+   },
+   "news.sap.com/japan/2026/11/sap%E3%80%812026%E5%B9%B4%E7%89%88gartner-magic-quadrant%E3%81%AE%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E4%B8%AD%E5%BF%83%E5%9E%8B%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%82%AF?amp=1": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-13T07:42:35Z",
+    "link": "https://news.sap.com/japan/2026/11/sap%E3%80%812026%E5%B9%B4%E7%89%88gartner-magic-quadrant%E3%81%AE%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E4%B8%AD%E5%BF%83%E5%9E%8B%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%82%AF/?amp=1",
+    "page": 2,
+    "summary": "SAP\u306f\u30012026\u5e74\u7248Gartner Magic Quadrant\u306e\u30d7\u30ed\u30c0\u30af\u30c8\u4e2d\u5fc3\u578b\u4f01\u696d\u5411\u3051\u30af\u30e9\u30a6\u30c9ERP\u5206\u91ce\u306b\u304a\u3044\u3066\u30015\u5e74\u9023\u7d9a\u3067\u300c\u30ea\u30fc\u30c0\u30fc\u300d\u306b\u8a8d\u5b9a\u3055\u308c\u307e\u3057\u305f\u3002 SAP\u306f\u3001\u3053\u306eMagic Quadrant\u304c ...",
+    "title": "2026\u5e74\u7248Gartner\u00ae Magic Quadrant\u2122\u306e\u30d7\u30ed\u30c0\u30af\u30c8\u4e2d\u5fc3\u578b ..."
+   },
    "news.sap.com/japan/2026/11/sap%E3%80%81gartner-magic-quadrant%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B3%E3%83%9E%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -58944,6 +58962,15 @@
     "page": 1,
     "summary": "SpotOn Profit AI helps you understand what impacted your revenue and labor last week and what you can do next.",
     "title": "SpotOn Profit AI: Revenue & Labor Insights"
+   },
+   "help.spoton.com/space/SK/5075566689/SpotOn+Shop+%7C+SpotOn+Dashboard": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-13T07:42:35Z",
+    "link": "https://help.spoton.com/space/SK/5075566689/SpotOn+Shop+%7C+SpotOn+Dashboard",
+    "page": 1,
+    "summary": "SpotOn Shop is a self-service store in the SpotOn Dashboard, clients can order approved hardware and accessories.",
+    "title": "SpotOn Shop | SpotOn Dashboard"
    },
    "help.spoton.com/space/SK/5254742018": {
     "baseline": false,
