@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 41081,
+  "credits_used": 41138,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-13T05:43:15Z",
+  "last_run": "2026-11-13T06:44:29Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 801
+  "runs": 802
  },
  "feeds": {
   "adp-help": {
@@ -24340,6 +24340,15 @@
     "summary": "Every strong restaurant website starts with the same question: what do you want a visitor to do next? Order takeout, book a table, or just fall for your ...",
     "title": "220+ Restaurant Website Examples: 2026 Design ..."
    },
+   "merchants.doordash.com/en-us/blog/retail-delivery-doordash": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-13T06:44:29Z",
+    "link": "https://merchants.doordash.com/en-us/blog/retail-delivery-doordash",
+    "page": 1,
+    "summary": "See how DoorDash retail delivery and retail pickup work, from order to handoff, plus tips to make in-store pickup easy for your store and customers.",
+    "title": "How Does Retail Delivery and Pickup Work on DoorDash?"
+   },
    "merchants.doordash.com/en-us/blog/saas-for-restaurants": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -41217,6 +41226,24 @@
     "page": 2,
     "summary": "\u30d3\u30b8\u30e7\u30f3\u304b\u3089\u73fe\u5b9f\u3078\u2015\u20152026 \u5e74\u306e SAP TechEd \u306b\u304a\u3044\u3066\u3001SAP \u306e\u7d4c\u55b6\u9663\u306f\u3001\u958b\u767a\u8005\u3001\u5c0e\u5165\u4f01\u696d\u3001\u30d1\u30fc\u30c8\u30ca\u30fc\u304c Autonomous Enterprise\uff08\u81ea\u5f8b\u578b\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba\uff09\u3092\u3044\u304b\u306b\u69cb\u7bc9 ...",
     "title": "\u958b\u767a\u8005\u306b\u5411\u3051\u3066\u300cAutonomous Enterprise \u306f\u69cb\u7bc9\u3067\u304d\u308b\u300d\u3068\u767a\u4fe1"
+   },
+   "news.sap.com/japan/2026/11/sap%E3%80%81gartner-magic-quadrant%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B3%E3%83%9E%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-13T06:44:29Z",
+    "link": "https://news.sap.com/japan/2026/11/sap%E3%80%81gartner-magic-quadrant%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B3%E3%83%9E%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9/",
+    "page": 2,
+    "summary": "SAP\u00ae Commerce Cloud\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u306f\u3001\u4f01\u696d\u306e\u53d6\u5f15\u306b\u6c42\u3081\u3089\u308c\u308b\u696d\u52d9\u4e0a\u306e\u7d71\u5236\u3092\u7dad\u6301\u3057\u306a\u304c\u3089\u3001\u9867\u5ba2\u4f53\u9a13\u3084\u30b3\u30de\u30fc\u30b9\u696d\u52d9\u306e\u30ef\u30fc\u30af\u30d5\u30ed\u30fc\u306bAI\u3092\u7d44\u307f\u8fbc\u3080\u3053\u3068\u3092\u652f\u63f4\u3057\u307e\u3059\u3002",
+    "title": "SAP\u3001Gartner\u00ae Magic Quadrant\u2122\u306e\u30c7\u30b8\u30bf\u30eb\u30b3\u30de\u30fc\u30b9\u30fb ..."
+   },
+   "news.sap.com/japan/2026/11/sap%E3%80%81gartner-magic-quadrant%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B3%E3%83%9E%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9?amp=1": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-13T06:44:29Z",
+    "link": "https://news.sap.com/japan/2026/11/sap%E3%80%81gartner-magic-quadrant%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B3%E3%83%9E%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9/?amp=1",
+    "page": 2,
+    "summary": "SAP\u00ae Commerce Cloud\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u306f\u3001\u4f01\u696d\u306e\u53d6\u5f15\u306b\u6c42\u3081\u3089\u308c\u308b\u696d\u52d9\u4e0a\u306e\u7d71\u5236\u3092\u7dad\u6301\u3057\u306a\u304c\u3089\u3001\u9867\u5ba2\u4f53\u9a13\u3084\u30b3\u30de\u30fc\u30b9\u696d\u52d9\u306e\u30ef\u30fc\u30af\u30d5\u30ed\u30fc\u306bAI\u3092\u7d44\u307f\u8fbc\u3080\u3053\u3068\u3092\u652f\u63f4\u3057\u307e\u3059\u3002",
+    "title": "SAP\u3001Gartner\u00ae Magic Quadrant\u2122\u306e\u30c7\u30b8\u30bf\u30eb\u30b3\u30de\u30fc\u30b9 ..."
    },
    "news.sap.com/korea/2026/10/%EA%B0%99%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%97%94-%EA%B0%99%EC%9D%80-%EB%8B%B5-sap-%ED%91%9C-%ED%98%95%EC%8B%9D-ai%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%88%98": {
     "baseline": false,
@@ -74956,6 +74983,15 @@
     "page": 1,
     "summary": "Putting AI to work requires organizations to align data, governance, processes, skills, technology and cultural readiness while keeping human judgment",
     "title": "What does it take to put AI to work in finance?"
+   },
+   "wolterskluwer.com/en/news/celebrates-asian-pacific-american-heritage-month-sidd-shenoy": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-13T06:44:29Z",
+    "link": "https://www.wolterskluwer.com/en/news/celebrates-asian-pacific-american-heritage-month-sidd-shenoy",
+    "page": 2,
+    "summary": "Wolters Kluwer, a global leader in professional information solutions, software and services, today releases its 2026 nine-month trading update. Read More. Pink ...",
+    "title": "Wolters Kluwer celebrates Asian Pacific American Heritage ..."
    },
    "wolterskluwer.com/en/news/connected-operational-risk-ai-digital-transformation": {
     "baseline": false,

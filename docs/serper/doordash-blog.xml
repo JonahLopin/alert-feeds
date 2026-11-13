@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:doordash-blog</id>
   <title>DoorDash blog (site:merchants.doordash.com/en-us/blog/) via Serper</title>
-  <updated>2026-11-13T05:43:15Z</updated>
+  <updated>2026-11-13T06:44:29Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/doordash-blog.xml" />
+  <entry>
+    <id>https://merchants.doordash.com/en-us/blog/retail-delivery-doordash</id>
+    <title>How Does Retail Delivery and Pickup Work on DoorDash?</title>
+    <link href="https://merchants.doordash.com/en-us/blog/retail-delivery-doordash" />
+    <published>2026-11-13T06:44:29Z</published>
+    <updated>2026-11-13T06:44:29Z</updated>
+    <summary>See how DoorDash retail delivery and retail pickup work, from order to handoff, plus tips to make in-store pickup easy for your store and customers.</summary>
+  </entry>
   <entry>
     <id>https://merchants.doordash.com/en-us/blog/how-to-increase-sales-in-retail</id>
     <title>How to Increase Sales in Retail: 13 Practical Ways</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T08:43:31Z</published>
     <updated>2026-11-06T08:43:31Z</updated>
     <summary>POS integration connects your website and app orders straight to your POS, so tickets reach the kitchen without anyone re-typing them.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEShgEBxCJF11irk77kRygoxrvOJDtn5xZyZt512h3R0AM2DGwtTlBUahZjZtuSJrrbkw3CfiPrxeaXt8TJj9hQ3z-LNQhXuaZYExT47sSFHfh8kB9R2nAK6399yZkvUgBIKEtBWc2K0yxaSZuUq7W9uB41fdo4L0_-MGC7SIcm5US77jt7vB1Buw</id>
-    <title>How to Manage Your Restaurant Finances: A Guide for ...</title>
-    <link href="https://www.google.com/goto?url=CAEShgEBxCJF11irk77kRygoxrvOJDtn5xZyZt512h3R0AM2DGwtTlBUahZjZtuSJrrbkw3CfiPrxeaXt8TJj9hQ3z-LNQhXuaZYExT47sSFHfh8kB9R2nAK6399yZkvUgBIKEtBWc2K0yxaSZuUq7W9uB41fdo4L0_-MGC7SIcm5US77jt7vB1Buw" />
-    <published>2026-11-06T08:43:31Z</published>
-    <updated>2026-11-06T08:43:31Z</updated>
-    <summary>This guide hands you the tools to read your numbers, track what counts, build a budget, control costs, and weigh delivery revenue.</summary>
   </entry>
 </feed>
