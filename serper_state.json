@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 40742,
+  "credits_used": 40799,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-12T23:43:41Z",
+  "last_run": "2026-11-13T00:43:17Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 795
+  "runs": 796
  },
  "feeds": {
   "adp-help": {
@@ -12495,6 +12495,15 @@
     "page": 3,
     "summary": "Nvidia Corp. -backed Firmus and its advisers are in talks with existing investors to help raise $2 billion to $3 billion in a private round, the people said, ...",
     "title": "Firmus Is Said to Explore Raising $3 Billion After Shelving ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/first-deep-sea-mining-certification-expected-by-mid-december": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-13T00:43:17Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/first-deep-sea-mining-certification-expected-by-mid-december",
+    "page": 1,
+    "summary": "The National Oceanic and Atmospheric Administration is expected to certify the first consolidated exploration and commercial recovery permit for deep-sea ...",
+    "title": "First Deep-Sea Mining Certification Expected by Mid- ..."
    },
    "news.bloomberglaw.com/business-and-practice/flock-safety-increases-lobbying-spend-amid-bipartisan-backlash": {
     "baseline": false,
@@ -41317,6 +41326,24 @@
     "summary": "SAP \ube44\uc988\ub2c8\uc2a4 AI \ud50c\ub7ab\ud3fc\uc740 \uc870\uc9c1\uc774 SAP \ubc0f \uc11c\ub4dc\ud30c\ud2f0 \ud658\uacbd \uc804\ubc18\uc5d0\uc11c AI\ub97c \uad6c\ucd95\ud558\uace0 \ub9e5\ub77d\uc744 \ub354\ud558\uba70 \uac70\ubc84\ub10c\uc2a4\ub97c \uc801\uc6a9\ud560 \uc218 \uc788\ub294 \ub2e8\uc77c \uacf5\uac04\uc744 \uc81c\uacf5\ud55c\ub2e4. \ube44\uc988\ub2c8\uc2a4 \uc0ac\uc6a9\uc790\uc640 ...",
     "title": "SAP, AI \uac1c\ubc1c\uc790\uc758 \ud575\uc2ec \uc194\ub8e8\uc158 \uad6c\ucd95 \ubc0f \uc758\ub3c4 \uae30\ubc18 \uc790\uc728 \uc2e4\ud589 ..."
    },
+   "news.sap.com/korea/2026/11/%EA%B3%B5%EA%B8%89%EB%A7%9D-ai-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EB%8D%B0%EC%84%9C-%EB%81%9D%EB%82%98%EB%A9%B4-%EC%9D%98%EB%AF%B8-%EC%97%86%EB%8B%A4": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-13T00:43:17Z",
+    "link": "https://news.sap.com/korea/2026/11/%EA%B3%B5%EA%B8%89%EB%A7%9D-ai-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EB%8D%B0%EC%84%9C-%EB%81%9D%EB%82%98%EB%A9%B4-%EC%9D%98%EB%AF%B8-%EC%97%86%EB%8B%A4/",
+    "page": 2,
+    "summary": "\uc54c\ub9bc\ub9cc \uc6b8\ub9ac\ub294 \uacf5\uae09\ub9dd\uc73c\ub85c\ub294 \ubcc0\ud654\uc5d0 \uc55e\uc11c\uac08 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \uae30\uc220\uc774 \uc544\ub2cc \ube44\uc988\ub2c8\uc2a4 \ubb38\uc81c\uc5d0\uc11c \ucd9c\ubc1c\ud574, AI\uac00 \ub2e8\uacc4\uc801\uc73c\ub85c \uc2e0\ub8b0\ub97c \uc5bb\uace0 \ud589\ub3d9\ud558\uac8c \ub418\ub294 \uacf5\uae09\ub9dd\uc758 \ubbf8\ub798\ub97c SAP ...",
+    "title": "\uacf5\uae09\ub9dd AI, \uc54c\ub824\uc8fc\ub294 \ub370\uc11c \ub05d\ub098\uba74 \uc758\ubbf8 \uc5c6\ub2e4"
+   },
+   "news.sap.com/korea/2026/11/%EA%B3%B5%EA%B8%89%EB%A7%9D-ai-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EB%8D%B0%EC%84%9C-%EB%81%9D%EB%82%98%EB%A9%B4-%EC%9D%98%EB%AF%B8-%EC%97%86%EB%8B%A4?amp=1": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-13T00:43:17Z",
+    "link": "https://news.sap.com/korea/2026/11/%EA%B3%B5%EA%B8%89%EB%A7%9D-ai-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EB%8D%B0%EC%84%9C-%EB%81%9D%EB%82%98%EB%A9%B4-%EC%9D%98%EB%AF%B8-%EC%97%86%EB%8B%A4/?amp=1",
+    "page": 1,
+    "summary": "\uc54c\ub9bc\ub9cc \uc6b8\ub9ac\ub294 \uacf5\uae09\ub9dd\uc73c\ub85c\ub294 \ubcc0\ud654\uc5d0 \uc55e\uc11c\uac08 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \uae30\uc220\uc774 \uc544\ub2cc \ube44\uc988\ub2c8\uc2a4 \ubb38\uc81c\uc5d0\uc11c \ucd9c\ubc1c\ud574, AI\uac00 \ub2e8\uacc4\uc801\uc73c\ub85c \uc2e0\ub8b0\ub97c \uc5bb\uace0 \ud589\ub3d9\ud558\uac8c \ub418\ub294 \uacf5\uae09\ub9dd\uc758 \ubbf8\ub798\ub97c SAP ...",
+    "title": "\uacf5\uae09\ub9dd AI, \uc54c\ub824\uc8fc\ub294 \ub370\uc11c \ub05d\ub098\uba74 \uc758\ubbf8 \uc5c6\ub2e4 - SAP Korea \ub274\uc2a4\uc13c\ud130"
+   },
    "news.sap.com/korea/2026/11/30%EB%85%84-%EB%8F%99%ED%96%89-sap-business-one-ai-%EC%8B%9C%EB%8C%80%EC%97%90%EB%8F%84-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%99%80-%ED%95%A8%EA%BB%98-%EA%B0%84%EB%8B%A4": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -52531,6 +52558,15 @@
     "page": 1,
     "summary": "Bring more of your business into view with app activity, annotations, custom product data, and interactive sales maps\u2014all within Shopify Analytics.",
     "title": "A More Complete View of Your Business in Shopify Analytics"
+   },
+   "shopify.com/blog/anchor-link": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-13T00:43:17Z",
+    "link": "https://www.shopify.com/blog/anchor-link",
+    "page": 3,
+    "summary": "Anchor links send shoppers to a specific section of a page. Learn how to create one in HTML and add it to your Shopify store.",
+    "title": "Anchor Link: How To Create One in HTML (2027)"
    },
    "shopify.com/blog/appointment-booking-app": {
     "baseline": false,

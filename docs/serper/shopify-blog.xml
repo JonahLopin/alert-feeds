@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-12T22:42:31Z</updated>
+  <updated>2026-11-13T00:43:17Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/anchor-link</id>
+    <title>Anchor Link: How To Create One in HTML (2027)</title>
+    <link href="https://www.shopify.com/blog/anchor-link" />
+    <published>2026-11-13T00:43:17Z</published>
+    <updated>2026-11-13T00:43:17Z</updated>
+    <summary>Anchor links send shoppers to a specific section of a page. Learn how to create one in HTML and add it to your Shopify store.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/sell-gift-cards</id>
     <title>How To Create Gift Cards for Your Business (2026) - Shopify</title>
@@ -795,13 +803,5 @@
     <published>2026-11-07T11:42:28Z</published>
     <updated>2026-11-07T11:42:28Z</updated>
     <summary>Short answer: The asterisk * is Shift + 8 on US and UK keyboards, and the * key on any numeric keypad. Alt + 42 also works on Windows.</summary>
-  </entry>
-  <entry>
-    <id>https://iconpantry.com/symbols/asterisk-operator-symbol</id>
-    <title>Asterisk operator symbol ∗ copy and paste - Icon Pantry</title>
-    <link href="https://iconpantry.com/symbols/asterisk-operator-symbol" />
-    <published>2026-11-07T11:42:28Z</published>
-    <updated>2026-11-07T11:42:28Z</updated>
-    <summary>How do I insert the asterisk operator symbol in Word? Type 2217 and then press Alt+X, and Word turns it into ∗. You can also use Insert, Symbol ...</summary>
   </entry>
 </feed>
