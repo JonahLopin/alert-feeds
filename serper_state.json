@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 41906,
+  "credits_used": 41963,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-13T20:43:13Z",
+  "last_run": "2026-11-13T21:43:03Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 816
+  "runs": 817
  },
  "feeds": {
   "adp-help": {
@@ -15076,6 +15076,15 @@
     "summary": "Nvidia Corp. co-founder Jensen Huang's daughter planned to showcase deepening ties with two of South Korea's most important AI players Monday.",
     "title": "Nvidia Controversy Throws High-Profile Korea Event Into ..."
    },
+   "news.bloomberglaw.com/business-and-practice/nvidia-scandal-raises-new-concerns-about-scale-of-chinese-spying": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-13T21:43:03Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/nvidia-scandal-raises-new-concerns-about-scale-of-chinese-spying",
+    "page": 2,
+    "summary": "The revelation that Nvidia Corp. 's now ex-CEO had an affair with a woman suspected of spying for China has rocked the US artificial intelligence boom and ...",
+    "title": "Nvidia Scandal Raises New Concerns About Scale of ..."
+   },
    "news.bloomberglaw.com/business-and-practice/nvidia-turns-to-cfo-kress-to-steady-ship-after-huang-exits-1": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -18448,6 +18457,15 @@
     "page": 1,
     "summary": "A restaurant manager POS is the part of your point-of-sale system that only managers can reach: the permissions that decide who can void an item, the approvals ...",
     "title": "Why Every Void, Comp and Cash Drop Should Carry a Name"
+   },
+   "chowbus.com/blog/restaurant-payment-processing-software-contract-questions": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-13T21:43:03Z",
+    "link": "https://www.chowbus.com/blog/restaurant-payment-processing-software-contract-questions",
+    "page": 2,
+    "summary": "A clause-by-clause checklist for restaurant payment processing contracts: term, renewal, termination fees, equipment, rate changes, fees, deposits, ...",
+    "title": "The Contract Terms Restaurants Miss Behind the Rate"
    },
    "chowbus.com/blog/restaurant-prime-cost-calculate-year-end-review": {
     "baseline": false,
@@ -34044,6 +34062,15 @@
     "summary": "Learn how to invite your employees to see pay stubs, W-2s and more in QuickBooks Workforce \u2014 without the usual headaches. Do it in just a few clicks.",
     "title": "Invite your employees to see pay stubs, W-2s and more"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/form-w-2/preview-w-2s/L0QW8qAlk_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-13T21:43:03Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/form-w-2/preview-w-2s/L0QW8qAlk_US_en_US",
+    "page": 1,
+    "summary": "Getting your employees' W-2s right is important. You can preview your W-2s before they're filed with the government and sent to your employees.",
+    "title": "Preview your W-2s - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/form-w-2/view-print-w-2s-quickbooks-workforce/L0fCqetxm_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -35533,6 +35560,15 @@
     "page": 1,
     "summary": "Hosted by the PGA of America, this event is the mecca of innovation in the golf industry. Each year, hundreds of exhibitors and thousands of attendees ...",
     "title": "The 2027 PGA Show: What to Know Before You Attend"
+   },
+   "lightspeedhq.com/blog/pop-up-shop": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-13T21:43:03Z",
+    "link": "https://www.lightspeedhq.com/blog/pop-up-shop/",
+    "page": 1,
+    "summary": "Who doesn't love the feeling of a good pop-up shop purchase? There's something exciting about nabbing a rare product from a pop-up shop.",
+    "title": "What Are Pop-Up Shops? Meaning, Types, Benefits, Tips & ..."
    },
    "lightspeedhq.com/blog/retail-store-daily-checklist": {
     "baseline": false,
@@ -41524,6 +41560,15 @@
     "summary": "\u30d3\u30b8\u30e7\u30f3\u304b\u3089\u73fe\u5b9f\u3078\u2015\u20152026 \u5e74\u306e SAP TechEd \u306b\u304a\u3044\u3066\u3001SAP \u306e\u7d4c\u55b6\u9663\u306f\u3001\u958b\u767a\u8005\u3001\u5c0e\u5165\u4f01\u696d\u3001\u30d1\u30fc\u30c8\u30ca\u30fc\u304c Autonomous Enterprise\uff08\u81ea\u5f8b\u578b\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba\uff09\u3092\u3044\u304b\u306b\u69cb\u7bc9 ...",
     "title": "\u958b\u767a\u8005\u306b\u5411\u3051\u3066\u300cAutonomous Enterprise \u306f\u69cb\u7bc9\u3067\u304d\u308b\u300d\u3068\u767a\u4fe1"
    },
+   "news.sap.com/japan/2026/11/1111_sap-teched-developers-you-can-build-autonomous-enterprise/sap-teched-berlin-2026": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-13T21:43:03Z",
+    "link": "https://news.sap.com/japan/2026/11/1111_sap-teched-developers-you-can-build-autonomous-enterprise/sap-teched-berlin-2026/",
+    "page": 2,
+    "summary": "SAP \u306e\u3059\u3079\u3066\u306e\u9818\u57df\u3092\u898b\u308b. \u30e9\u30fc\u30cb\u30f3\u30b0\u3068\u30b5\u30dd\u30fc\u30c8. \u30e9\u30fc\u30cb\u30f3\u30b0\u3068\u8a8d\u5b9a\u8cc7\u683c \u00b7 \u30b5\u30dd\u30fc\u30c8 \u00b7 \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8 \u00b7 \u30b3\u30df\u30e5\u30cb\u30c6\u30a3. SAP \u306b\u3064\u3044\u3066.",
+    "title": "SAP TechEd Berlin 2026 - SAP Japan \u30d7\u30ec\u30b9\u30eb\u30fc\u30e0"
+   },
    "news.sap.com/japan/2026/11/1111_sap-teched-developers-you-can-build-autonomous-enterprise?amp=1": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -41532,6 +41577,15 @@
     "page": 2,
     "summary": "\u30d3\u30b8\u30e7\u30f3\u304b\u3089\u73fe\u5b9f\u3078\u2015\u20152026 \u5e74\u306e SAP TechEd \u306b\u304a\u3044\u3066\u3001SAP \u306e\u7d4c\u55b6\u9663\u306f\u3001\u958b\u767a\u8005\u3001\u5c0e\u5165\u4f01\u696d\u3001\u30d1\u30fc\u30c8\u30ca\u30fc\u304c Autonomous Enterprise\uff08\u81ea\u5f8b\u578b\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba\uff09\u3092\u3044\u304b\u306b\u69cb\u7bc9 ...",
     "title": "\u958b\u767a\u8005\u306b\u5411\u3051\u3066\u300cAutonomous Enterprise \u306f\u69cb\u7bc9\u3067\u304d\u308b\u300d\u3068\u767a\u4fe1"
+   },
+   "news.sap.com/japan/2026/11/sap%E3%80%812026%E5%B9%B4%E7%89%88gartner-emerging-market-quadrant%E3%81%AE%E7%B5%B1%E5%90%88%E5%9E%8B%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3ai%E3%82%A8%E3%83%BC/male-manager-hand-holding-tablet-with-ar-application-for-check-order-pick-time-in-smart-factory-warehouse-technology-interface-global-partner-connection-for-logistic-import-export-background-2": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-13T21:43:03Z",
+    "link": "https://news.sap.com/japan/2026/11/sap%E3%80%812026%E5%B9%B4%E7%89%88gartner-emerging-market-quadrant%E3%81%AE%E7%B5%B1%E5%90%88%E5%9E%8B%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3ai%E3%82%A8%E3%83%BC/male-manager-hand-holding-tablet-with-ar-application-for-check-order-pick-time-in-smart-factory-warehouse-technology-interface-global-partner-connection-for-logistic-import-export-background-2/",
+    "page": 2,
+    "summary": "male manager hand holding tablet with AR application for check order pick time in smart factory warehouse, technology interface global partner connection ...",
+    "title": "male manager hand holding tablet with AR application for ..."
    },
    "news.sap.com/japan/2026/11/sap%E3%80%812026%E5%B9%B4%E7%89%88gartner-emerging-market-quadrant%E3%81%AE%E7%B5%B1%E5%90%88%E5%9E%8B%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3ai%E3%82%A8%E3%83%BC?amp=1": {
     "baseline": false,

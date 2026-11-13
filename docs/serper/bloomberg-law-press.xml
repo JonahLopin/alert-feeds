@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-13T20:43:13Z</updated>
+  <updated>2026-11-13T21:43:03Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/nvidia-scandal-raises-new-concerns-about-scale-of-chinese-spying</id>
+    <title>Nvidia Scandal Raises New Concerns About Scale of ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/nvidia-scandal-raises-new-concerns-about-scale-of-chinese-spying" />
+    <published>2026-11-13T21:43:03Z</published>
+    <updated>2026-11-13T21:43:03Z</updated>
+    <summary>The revelation that Nvidia Corp. 's now ex-CEO had an affair with a woman suspected of spying for China has rocked the US artificial intelligence boom and ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/tkos-top-lawyer-exits-ari-emanuels-entertainment-conglomerate</id>
     <title>TKO's Top Lawyer Exits Ari Emanuel's Entertainment ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-10T23:42:48Z</published>
     <updated>2026-11-10T23:42:48Z</updated>
     <summary>Associate salaries at the firm range from $235,000 to $455,000 and go into effect in January, from $26,000 to $140,000,</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/barrick-mining-files-to-take-north-american-gold-assets-public</id>
-    <title>Barrick Mining Files to Take North American Gold Assets ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/barrick-mining-files-to-take-north-american-gold-assets-public" />
-    <published>2026-11-10T23:42:48Z</published>
-    <updated>2026-11-10T23:42:48Z</updated>
-    <summary>Barrick Mining Corp. filed for a US initial public offering of its top North American gold assets, as the Canadian miner looks to reset strategically.</summary>
   </entry>
 </feed>
