@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:taxcloud-blog</id>
   <title>TaxCloud blog (site:taxcloud.com/blog/)</title>
-  <updated>2026-10-20T08:13:47Z</updated>
+  <updated>2026-11-13T05:44:39Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/taxcloud-blog.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:1698729648714583164</id>
+    <title>TaxCloud Now Integrates With NetSuite Legacy Tax</title>
+    <link href="https://taxcloud.com/blog/netsuite-legacy-tax-integration/" />
+    <published>2026-11-13T05:44:39Z</published>
+    <updated>2026-11-13T05:44:39Z</updated>
+    <summary>Our NetSuite Legacy Tax SuiteApp calculates tax in real time right inside NetSuite, while TaxCloud handles nexus tracking, filing, and remittance ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:6830349045638204816</id>
     <title>Voluntary Disclosure Agreements: How VDAs Work for Sales Tax - TaxCloud</title>

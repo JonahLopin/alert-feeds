@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 41024,
+  "credits_used": 41081,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-13T04:42:58Z",
+  "last_run": "2026-11-13T05:43:15Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 800
+  "runs": 801
  },
  "feeds": {
   "adp-help": {
@@ -23872,6 +23872,15 @@
     "page": 3,
     "summary": "15 strategies to increase restaurant sales in 2026, with real data on what's actually working: menu engineering, delivery optimization, loyalty, ...",
     "title": "How to Increase Restaurant Sales: 15 Tactics with Real ..."
+   },
+   "merchants.doordash.com/en-us/blog/how-to-increase-sales-in-retail": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-13T05:43:15Z",
+    "link": "https://merchants.doordash.com/en-us/blog/how-to-increase-sales-in-retail",
+    "page": 1,
+    "summary": "Learn how to increase sales in retail with 13 practical tactics to bring in more shoppers, turn browsers into buyers, raise basket size, and win repeat ...",
+    "title": "How to Increase Sales in Retail: 13 Practical Ways"
    },
    "merchants.doordash.com/en-us/blog/how-to-optimize-your-menu-for-profit": {
     "baseline": false,
