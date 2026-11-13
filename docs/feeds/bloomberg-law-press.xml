@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-13T21:44:38Z</updated>
+  <updated>2026-11-13T22:44:08Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:10350697069544521760</id>
+    <title>Nvidia Says Speculation on New CEO Candidates Is 'Premature' - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/nvidia-says-speculation-on-new-ceo-candidates-is-premature" />
+    <published>2026-11-13T22:44:08Z</published>
+    <updated>2026-11-13T22:44:08Z</updated>
+    <summary>Nvidia Corp. tamped down speculation that the company is already engaging with potential chief executive officer candidates, saying it's still in ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:15762143732704713003</id>
     <title>Microsoft Cites Progress Fixing Outage That Roiled the World (2) - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-11-10T21:23:25Z</published>
     <updated>2026-11-10T21:23:25Z</updated>
     <summary>If you give Anthropic PBC a certain amount of money — say $74 — you get a share of Anthropic stock. This gives you partial ownership of Anthropic's ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:3320625560969541979</id>
-    <title>Goodwin Procter Matches Milbank Associate Salary Bump, Bonuses - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/goodwin-procter-matches-milbank-associate-salary-bump-bonuses" />
-    <published>2026-11-10T21:23:25Z</published>
-    <updated>2026-11-10T21:23:25Z</updated>
-    <summary>Goodwin is the latest law firm to match Milbank's increased associate salaries and extra incentives.</summary>
   </entry>
 </feed>
