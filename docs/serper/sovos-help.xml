@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-12T04:24:57Z</updated>
+  <updated>2026-11-13T11:42:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/regulated-shipping/shipcompliant/release-notes</id>
+    <title>November 12, 2026 | Product Documentation Documentation</title>
+    <link href="https://docs.sovos.com/en/regulated-shipping/shipcompliant/release-notes" />
+    <published>2026-11-13T11:42:44Z</published>
+    <updated>2026-11-13T11:42:44Z</updated>
+    <summary>We are releasing the following ShipCompliant updates to Production (PRD) on November 12, 2026. Regulated Shipping 1099 Reporting Statutory Reporting</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/unclaimed-property/reportmyup/create-and-submit-state-reports/create-and-submit-reports</id>
     <title>Create and submit reports - Sovos Docs</title>
@@ -795,13 +803,5 @@
     <published>2026-10-28T17:42:55Z</published>
     <updated>2026-10-28T17:42:55Z</updated>
     <summary>Go to the Sovos Portal. then click Create a case. then click Submit case.</summary>
-  </entry>
-  <entry>
-    <id>https://docs.sovos.com/en/tax-determination/tax-determination/map-products-exemptions-and-locations/geo-codes</id>
-    <title>Geo Codes | Product Documentation Documentation</title>
-    <link href="https://docs.sovos.com/en/tax-determination/tax-determination/map-products-exemptions-and-locations/geo-codes" />
-    <published>2026-10-27T11:09:56Z</published>
-    <updated>2026-10-27T11:09:56Z</updated>
-    <summary>A Geo Code represents a unique combination of taxing jurisdictions to which an address belongs. Geo Codes play a key role in assigning the correct tax rate.</summary>
   </entry>
 </feed>

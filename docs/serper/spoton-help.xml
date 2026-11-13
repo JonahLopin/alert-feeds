@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-13T07:42:35Z</updated>
+  <updated>2026-11-13T11:42:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2065858936/Statements+%7C+SpotOn+Dashboard</id>
+    <title>Statements | SpotOn Dashboard</title>
+    <link href="https://help.spoton.com/space/SK/2065858936/Statements+%7C+SpotOn+Dashboard" />
+    <published>2026-11-13T11:42:44Z</published>
+    <updated>2026-11-13T11:42:44Z</updated>
+    <summary>You can easily view and download your monthly statements right from your Dashboard. This includes both your credit card processing and PayPal statements, all ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/5075566689/SpotOn+Shop+%7C+SpotOn+Dashboard</id>
     <title>SpotOn Shop | SpotOn Dashboard</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T03:43:22Z</published>
     <updated>2026-10-31T03:43:22Z</updated>
     <summary>Find answers to common questions about SpotOn Marketing Assist, managing your campaigns, and updating your preferences. available 24/7 to help. Support at (877 ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVKSHlHcIrWqpR1FVidfTIah3lBKRZBMYYKRTi8hfJwUOjmeAWn6lZVHY_QaJPOyWbjBMz3XEU1SUTfrYwH-Fb5gatjPG15KZyYlAs3STXK7NRQq_r59flb95zR4HgItvZNg</id>
-    <title>Create Order Type | SpotOn Restaurant (RPOS)</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVKSHlHcIrWqpR1FVidfTIah3lBKRZBMYYKRTi8hfJwUOjmeAWn6lZVHY_QaJPOyWbjBMz3XEU1SUTfrYwH-Fb5gatjPG15KZyYlAs3STXK7NRQq_r59flb95zR4HgItvZNg" />
-    <published>2026-10-31T03:43:22Z</published>
-    <updated>2026-10-31T03:43:22Z</updated>
-    <summary>Overview. Order Types determine how orders are processed within SpotOn Restaurant (RPOS). They can be configured with unique pricing, customer requirements, ...</summary>
   </entry>
 </feed>

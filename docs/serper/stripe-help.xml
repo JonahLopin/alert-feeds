@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-12T10:43:03Z</updated>
+  <updated>2026-11-13T11:42:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/payments/checkout/custom-shipping-options?ui=elements&amp;locale=fr-FR</id>
+    <title>Personnaliser dynamiquement les options d'expédition</title>
+    <link href="https://docs.stripe.com/payments/checkout/custom-shipping-options?ui=elements&amp;locale=fr-FR" />
+    <published>2026-11-13T11:42:44Z</published>
+    <updated>2026-11-13T11:42:44Z</updated>
+    <summary>Calculer de manière dynamique les frais de livraison : Calculez et affichez les frais de livraison en fonction de l'adresse de livraison du client. Update ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/get-started/account/orgs/build?locale=zh-CN</id>
     <title>构建组织</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T15:43:24Z</published>
     <updated>2026-11-06T15:43:24Z</updated>
     <summary>Manage your stablecoin-backed card program by providing cardholder support, generating monthly statements, and handling complaints. Use the Stripe and Bridge ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdAHEIkXXL4ABJI5XtMbq73l_qUySszAvW7IHN-eFAWsIPZHRX4_kO99GnUErQ3knNAz-fKLXnITU13wEL_3V3kXQ6ocStRYaGFFz0DjtN5-Y0qzMiomeEeVlY8Lv5l4vmQan3Ye1ZutLUBP8ZMobSFjiwiaB</id>
-    <title>GoPay Payments</title>
-    <link href="https://www.google.com/goto?url=CAESdAHEIkXXL4ABJI5XtMbq73l_qUySszAvW7IHN-eFAWsIPZHRX4_kO99GnUErQ3knNAz-fKLXnITU13wEL_3V3kXQ6ocStRYaGFFz0DjtN5-Y0qzMiomeEeVlY8Lv5l4vmQan3Ye1ZutLUBP8ZMobSFjiwiaB" />
-    <published>2026-11-06T15:43:24Z</published>
-    <updated>2026-11-06T15:43:24Z</updated>
-    <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
   </entry>
 </feed>
