@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-12T23:45:17Z</updated>
+  <updated>2026-11-13T20:06:38Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:17806366736642007197</id>
+    <title>Supported metrics | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/data/metrics/supported-metrics" />
+    <published>2026-11-13T20:06:38Z</published>
+    <updated>2026-11-13T20:06:38Z</updated>
+    <summary>Without product or price grouping or filtering, the counts are unique-session-grain. Grouping or filtering by product_id or price_id instead computes ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:13433495769161560067</id>
+    <title>Dynamically customize shipping options - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/checkout/custom-shipping-options?ui=elements" />
+    <published>2026-11-13T20:06:38Z</published>
+    <updated>2026-11-13T20:06:38Z</updated>
+    <summary>Customize shipping options. Server-side · Retrieve the Checkout Session using the checkoutSessionId from the request body. · Validate the customer's ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:10004146594614017937</id>
+    <title>Collect surcharges | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/checkout/surcharge/automatic-surcharge?ui=elements" />
+    <published>2026-11-13T20:06:38Z</published>
+    <updated>2026-11-13T20:06:38Z</updated>
+    <summary>Configure your Checkout Session to collect surcharge · Set automatic_surcharge[enabled] to true , along with an automatic_surcharge[calculation_basis] ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:16827804621733525377</id>
     <title>Issuing regulated customer notices | Stripe Documentation</title>
@@ -779,29 +803,5 @@
     <published>2026-10-20T22:44:24Z</published>
     <updated>2026-10-20T22:44:24Z</updated>
     <summary>parameters.interval_endnullable timestamp. Ending timestamp of data to be included in the report run. Can be any UTC timestamp between 1 second after ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:18392163744034660140</id>
-    <title>Payout Methods | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/v2/money-management/payout-methods?api-version=2026-09-30.preview" />
-    <published>2026-10-20T22:44:24Z</published>
-    <updated>2026-10-20T22:44:24Z</updated>
-    <summary>Payout Methods v2 ... Use the PayoutMethods API to list and interact with PayoutMethod objects. ... Need help? Contact Support. Chat with Stripe ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:15029214710669861825</id>
-    <title>The Event object | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/events/object?api-version=2026-05-27.preview" />
-    <published>2026-10-20T22:44:24Z</published>
-    <updated>2026-10-20T22:44:24Z</updated>
-    <summary>updated ). If an array attribute has any updated elements, this object contains the entire array. In Stripe API versions 2017-04-06 or earlier, an ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:1466521222168124325</id>
-    <title>Share your catalog with agents | Stripe Documentation</title>
-    <link href="https://docs.stripe.com/agentic-commerce/sellers/use-cases/retail/catalog" />
-    <published>2026-10-20T22:44:24Z</published>
-    <updated>2026-10-20T22:44:24Z</updated>
-    <summary>Export your agentic commerce catalog feed, prevent out-of-stock and price failures with a price and availability hook, and offer promotions ...</summary>
   </entry>
 </feed>

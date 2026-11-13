@@ -1073,6 +1073,12 @@
    "summary": "Junk bond buyers are increasingly freezing out tech startups looking for financing, as CoreWeave Inc.'s pain raises bigger questions about how ...",
    "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly"
   },
+  "tag:google.com,2013:googlealerts/feed:13159316743261625742": {
+   "first_seen": "2026-11-13T20:06:38Z",
+   "link": "https://news.bloomberglaw.com/business-and-practice/bitcoins-billion-dollar-wipeouts-are-becoming-a-familiar-sight",
+   "summary": "Bitcoin traders are no strangers to big market swings that can decimate their portfolios in a matter of minutes.",
+   "title": "Bitcoin's Billion-Dollar Wipeouts Are Becoming a Familiar Sight - Bloomberg Law"
+  },
   "tag:google.com,2013:googlealerts/feed:13183320203780529943": {
    "first_seen": "2026-11-05T10:07:23Z",
    "link": "https://news.bloomberglaw.com/business-and-practice/gutted-irs-now-charged-with-enforcing-data-center-wage-promises",
@@ -5027,6 +5033,12 @@
    "summary": "A federal appeals panel indicated they thought a grocery chain's microcaptive insurance scheme wasn't legitimate and that they shouldn't have been ...",
    "title": "Judges in Microcaptive Tax Case View Insurance Scheme Dimly"
   },
+  "tag:google.com,2013:googlealerts/feed:9891560246986404779": {
+   "first_seen": "2026-11-13T20:06:38Z",
+   "link": "https://news.bloomberglaw.com/business-and-practice/the-judge-who-wanted-laws-to-make-economic-sense-noah-feldman",
+   "summary": "Judge Richard Posner, who died this week at 87, was the godfather of what is known as the law and economics movement. In a career spanning half a ...",
+   "title": "The Judge Who Wanted Laws to Make Economic Sense: Noah Feldman"
+  },
   "tag:google.com,2013:googlealerts/feed:9905909197126562633": {
    "first_seen": "2026-10-26T15:16:00Z",
    "link": "https://news.bloomberglaw.com/business-and-practice/california-privacy-agencys-top-regulator-joins-latham-watkins",
@@ -6981,6 +6993,12 @@
   }
  },
  "stripe-help": {
+  "tag:google.com,2013:googlealerts/feed:10004146594614017937": {
+   "first_seen": "2026-11-13T20:06:38Z",
+   "link": "https://docs.stripe.com/payments/checkout/surcharge/automatic-surcharge?ui=elements",
+   "summary": "Configure your Checkout Session to collect surcharge \u00b7 Set automatic_surcharge[enabled] to true , along with an automatic_surcharge[calculation_basis] ...",
+   "title": "Collect surcharges | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:10091216470159376916": {
    "first_seen": "2026-10-31T20:44:17Z",
    "link": "https://docs.stripe.com/api/v2/money-management/financial-addresses/credit-simulation/object",
@@ -7112,6 +7130,12 @@
    "link": "https://docs.stripe.com/api/v2/money-management/adjustments?api-version=2026-09-30.preview",
    "summary": "Adjustments represent Stripe-initiated credits or debits to a user balance. They might be used to amend balances due to technical or operational error ...",
    "title": "Adjustments | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:13433495769161560067": {
+   "first_seen": "2026-11-13T20:06:38Z",
+   "link": "https://docs.stripe.com/payments/checkout/custom-shipping-options?ui=elements",
+   "summary": "Customize shipping options. Server-side \u00b7 Retrieve the Checkout Session using the checkoutSessionId from the request body. \u00b7 Validate the customer's ...",
+   "title": "Dynamically customize shipping options - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:13688216295203785807": {
    "first_seen": "2026-10-19T22:44:10Z",
@@ -7376,6 +7400,12 @@
    "link": "https://docs.stripe.com/agentic-commerce/concepts/catalog-feed",
    "summary": "Send your product data securely using the Stripe Product Catalog Import API in CSV format. Each row represents one product or variant. Submit a full ...",
    "title": "Catalog feed | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:17806366736642007197": {
+   "first_seen": "2026-11-13T20:06:38Z",
+   "link": "https://docs.stripe.com/data/metrics/supported-metrics",
+   "summary": "Without product or price grouping or filtering, the counts are unique-session-grain. Grouping or filtering by product_id or price_id instead computes ...",
+   "title": "Supported metrics | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:17825622934416249447": {
    "first_seen": "2026-11-04T18:43:24Z",
