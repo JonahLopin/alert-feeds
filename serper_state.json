@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 41250,
+  "credits_used": 41302,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-13T08:42:37Z",
+  "last_run": "2026-11-13T09:42:50Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 804
+  "runs": 805
  },
  "feeds": {
   "adp-help": {
@@ -40623,6 +40623,15 @@
     "page": 1,
     "summary": "Autonomous HCM ist die Zukunft des Human Capital Management. Dabei sorgt KI f\u00fcr eine Automatisierung durchg\u00e4ngiger Prozesse, erm\u00f6glicht kontextbezogene ...",
     "title": "Autonomous HCM: Die Zukunft der Personalabteilungen"
+   },
+   "news.sap.com/germany/2026/11/30-jahre-sap-business-one": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-13T09:42:50Z",
+    "link": "https://news.sap.com/germany/2026/11/30-jahre-sap-business-one/",
+    "page": 1,
+    "summary": "Entdecken Sie SAP Business One, eine kosteng\u00fcnstige ERP-L\u00f6sung f\u00fcr kleine und mittlere Unternehmen mit \u00fcber 30 Jahren Erfolg.",
+    "title": "SAP Business One: 30 Jahre gemeinsames Wachstum"
    },
    "news.sap.com/germany/2026/11/30-jahre-sap-business-one?amp=1": {
     "baseline": false,
