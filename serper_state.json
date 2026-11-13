@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 40799,
+  "credits_used": 40855,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-13T00:43:17Z",
+  "last_run": "2026-11-13T01:43:26Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 796
+  "runs": 797
  },
  "feeds": {
   "adp-help": {
@@ -16648,6 +16648,15 @@
     "page": 3,
     "summary": "The Trump administration must temporarily reinstate a 21-day notice period for asylum interviews in cases involving migrant children.",
     "title": "Trump Must Temporarily Halt Fast-Track Asylum System for ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trump-nominates-bipartisan-slate-of-cftc-sec-commissioners": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-13T01:43:26Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trump-nominates-bipartisan-slate-of-cftc-sec-commissioners",
+    "page": 1,
+    "summary": "President Donald Trump nominated a bipartisan slate of commissioners for the Securities and Exchange Commission and the Commodity Futures Trading Commission ...",
+    "title": "Trump Nominates Bipartisan Slate of CFTC, SEC ..."
    },
    "news.bloomberglaw.com/business-and-practice/trump-opens-door-to-replacing-press-secretary-after-rocky-start": {
     "baseline": false,

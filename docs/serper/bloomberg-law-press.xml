@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-13T00:43:17Z</updated>
+  <updated>2026-11-13T01:43:26Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/trump-nominates-bipartisan-slate-of-cftc-sec-commissioners</id>
+    <title>Trump Nominates Bipartisan Slate of CFTC, SEC ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/trump-nominates-bipartisan-slate-of-cftc-sec-commissioners" />
+    <published>2026-11-13T01:43:26Z</published>
+    <updated>2026-11-13T01:43:26Z</updated>
+    <summary>President Donald Trump nominated a bipartisan slate of commissioners for the Securities and Exchange Commission and the Commodity Futures Trading Commission ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/first-deep-sea-mining-certification-expected-by-mid-december</id>
     <title>First Deep-Sea Mining Certification Expected by Mid- ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-10T12:43:09Z</published>
     <updated>2026-11-10T12:43:09Z</updated>
     <summary>FedEx Corp. has agreed to pay a nearly $3 million fine over charges of illegally sharing customer data with major tech companies. Photographer: Christopher ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/ai-becomes-a-daily-tool-for-lawyers-who-still-dont-trust-it</id>
-    <title>AI Becomes a Daily Tool for Lawyers Who Still Don't Trust It</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/ai-becomes-a-daily-tool-for-lawyers-who-still-dont-trust-it" />
-    <published>2026-11-10T12:43:09Z</published>
-    <updated>2026-11-10T12:43:09Z</updated>
-    <summary>Samual Miller uses artificial intelligence every day, and he says it has made his legal work better. But the Orlando-based Akerman litigation partner ...</summary>
   </entry>
 </feed>
