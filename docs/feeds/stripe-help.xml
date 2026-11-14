@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-14T16:06:17Z</updated>
+  <updated>2026-11-14T21:05:40Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:18370535762810399770</id>
+    <title>Notifications réglementées Issuing destinées aux clients | Documentation Stripe</title>
+    <link href="https://docs.stripe.com/issuing/commercial-compliance/issuing-regulated-customer-notices?issuing-notices-sender=platform&amp;locale=fr-FR" />
+    <published>2026-11-14T21:05:40Z</published>
+    <updated>2026-11-14T21:05:40Z</updated>
+    <summary>Envoyez vos modèles d'e-mails · Effectuer l'intégration avec l'API Notice Reporting de Stripe · Notifications facultatives · Informer Stripe lorsque vous ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8357886982859832540</id>
     <title>Savings financial accounts | Stripe Documentation</title>
@@ -795,13 +803,5 @@
     <published>2026-10-24T16:45:23Z</published>
     <updated>2026-10-24T16:45:23Z</updated>
     <summary>Account Activities v2 ... Account Activity resource for the Signals API. ... Need help? Contact Support. Chat with Stripe developers on Discord. Check out ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:16183938699034417944</id>
-    <title>The Tax Transaction object | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/tax/transactions/object?api-version=2026-09-30.preview" />
-    <published>2026-10-23T22:44:13Z</published>
-    <updated>2026-10-23T22:44:13Z</updated>
-    <summary>customer_details.address.line1nullable string. Address line 1, such as the street, PO Box, or company name.</summary>
   </entry>
 </feed>

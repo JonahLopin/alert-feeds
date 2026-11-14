@@ -7683,6 +7683,12 @@
    "summary": "customer_details.customer_accountnullable string. The ID of the Account representing the customer whose upcoming payment was evaluated.",
    "title": "The Billing Evaluation object | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:18370535762810399770": {
+   "first_seen": "2026-11-14T21:05:40Z",
+   "link": "https://docs.stripe.com/issuing/commercial-compliance/issuing-regulated-customer-notices?issuing-notices-sender=platform&locale=fr-FR",
+   "summary": "Envoyez vos mod\u00e8les d'e-mails \u00b7 Effectuer l'int\u00e9gration avec l'API Notice Reporting de Stripe \u00b7 Notifications facultatives \u00b7 Informer Stripe lorsque vous ...",
+   "title": "Notifications r\u00e9glement\u00e9es Issuing destin\u00e9es aux clients | Documentation Stripe"
+  },
   "tag:google.com,2013:googlealerts/feed:18371695099439330972": {
    "first_seen": "2026-11-07T17:44:19Z",
    "link": "https://docs.stripe.com/api?api-version=2026-10-28.preview",
