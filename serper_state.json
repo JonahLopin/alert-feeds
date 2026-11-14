@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 42884,
+  "credits_used": 42938,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-14T14:42:51Z",
+  "last_run": "2026-11-14T15:42:38Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 834
+  "runs": 835
  },
  "feeds": {
   "adp-help": {
@@ -56653,6 +56653,15 @@
     "summary": "You can find upcoming report deadlines by state in the Important dates section of the Dashboard page. Look up report due dates for each state in the Filing ...",
     "title": "Create and submit reports - Sovos Docs"
    },
+   "docs.sovos.com/unclaimed-property/reportmyup/manage-properties/property-and-owner-details/property-codes-reportmyup": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-14T15:42:38Z",
+    "link": "https://docs.sovos.com/unclaimed-property/reportmyup/manage-properties/property-and-owner-details/property-codes-reportmyup",
+    "page": 1,
+    "summary": "Sovos maintains most state-specific codes as well as custom codes for properties with additional rules around limiting age, expiration dates, and more.",
+    "title": "Property codes (ReportMyUP) - Sovos Docs"
+   },
    "google.com/goto?url=CAESqAEBxCJF1xKdS_PGBWGtevVHC-5-Te2cNElHV0jf09JDQoM6hcz4W9BK64u_9yubpetd6vvVdEnqbDnqsuA-dvbJDH-48QLIBXzHpANjqAEaM6zPHCZdKh5uAetIQDdD72XeVlhS-Czh8aMyAnyEqFIKB4kT-OKdKV-H4ysOixtpvt0PpC3X0QGQe8bceLsGzSh8JlPFCFbZEaQGkfQs5bjF72nmR8YRkhk": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -59850,6 +59859,15 @@
     "date_hint": "3 days ago",
     "first_seen": "2026-11-14T13:42:32Z",
     "link": "https://help.spoton.com/space/SK/4616290379",
+    "page": 1,
+    "summary": "SpotOn Restaurant POS provides a robust reporting system with over 70 pre-built reports and automation features. Go to https://restaurantreports.spoton.com/",
+    "title": "Reporting| SpotOn Restaurant"
+   },
+   "help.spoton.com/space/SK/4616290379/Reporting%7C+SpotOn+Restaurant": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-14T15:42:38Z",
+    "link": "https://help.spoton.com/space/SK/4616290379/Reporting%7C+SpotOn+Restaurant",
     "page": 1,
     "summary": "SpotOn Restaurant POS provides a robust reporting system with over 70 pre-built reports and automation features. Go to https://restaurantreports.spoton.com/",
     "title": "Reporting| SpotOn Restaurant"

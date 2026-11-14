@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-13T11:42:44Z</updated>
+  <updated>2026-11-14T15:42:38Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/unclaimed-property/reportmyup/manage-properties/property-and-owner-details/property-codes-reportmyup</id>
+    <title>Property codes (ReportMyUP) - Sovos Docs</title>
+    <link href="https://docs.sovos.com/unclaimed-property/reportmyup/manage-properties/property-and-owner-details/property-codes-reportmyup" />
+    <published>2026-11-14T15:42:38Z</published>
+    <updated>2026-11-14T15:42:38Z</updated>
+    <summary>Sovos maintains most state-specific codes as well as custom codes for properties with additional rules around limiting age, expiration dates, and more.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/regulated-shipping/shipcompliant/release-notes</id>
     <title>November 12, 2026 | Product Documentation Documentation</title>
@@ -795,13 +803,5 @@
     <published>2026-10-29T05:08:16Z</published>
     <updated>2026-10-29T05:08:16Z</updated>
     <summary>Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.</summary>
-  </entry>
-  <entry>
-    <id>https://docs.sovos.com/en/filing/sales-tax-filing/support</id>
-    <title>Create a support case - Sovos Docs</title>
-    <link href="https://docs.sovos.com/en/filing/sales-tax-filing/support" />
-    <published>2026-10-28T17:42:55Z</published>
-    <updated>2026-10-28T17:42:55Z</updated>
-    <summary>Go to the Sovos Portal. then click Create a case. then click Submit case.</summary>
   </entry>
 </feed>

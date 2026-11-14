@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-14T13:42:32Z</updated>
+  <updated>2026-11-14T15:42:38Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/4616290379/Reporting%7C+SpotOn+Restaurant</id>
+    <title>Reporting| SpotOn Restaurant</title>
+    <link href="https://help.spoton.com/space/SK/4616290379/Reporting%7C+SpotOn+Restaurant" />
+    <published>2026-11-14T15:42:38Z</published>
+    <updated>2026-11-14T15:42:38Z</updated>
+    <summary>SpotOn Restaurant POS provides a robust reporting system with over 70 pre-built reports and automation features. Go to https://restaurantreports.spoton.com/</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/4616290379</id>
     <title>Reporting| SpotOn Restaurant</title>
@@ -794,14 +802,6 @@
     <link href="https://www.google.com/goto?url=CAESZgHrOzAVM0gZRDwDtFhk0opzrO8IGfv99yc57S3yTRT_kyMXlD07iquMr-0_14zMJIiX6rNPDj8X7GogfoNFXZgCekKQNpMJ-6NQOGIiFrBXBCfpTMMihsXtnTmN8Id6ToRD5uS19A" />
     <published>2026-10-31T04:43:04Z</published>
     <updated>2026-10-31T04:43:04Z</updated>
-    <summary>The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVyUa-OT6sl2XoE-vIm3k1_QTTyTvnd60dEmBkTrwGN0UEmG4PU4BpY2uWlnIT_aAVTRE7s8TLZYvtd_ZK2L4glD763eDS585AabG-tqINJUpkKzpgyI4dAVhc91iPsIEHNg</id>
-    <title>Deposits Setup &amp; Management | SpotOn Reserve Web Portal</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVyUa-OT6sl2XoE-vIm3k1_QTTyTvnd60dEmBkTrwGN0UEmG4PU4BpY2uWlnIT_aAVTRE7s8TLZYvtd_ZK2L4glD763eDS585AabG-tqINJUpkKzpgyI4dAVhc91iPsIEHNg" />
-    <published>2026-10-31T03:43:22Z</published>
-    <updated>2026-10-31T03:43:22Z</updated>
     <summary>The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,</summary>
   </entry>
 </feed>
