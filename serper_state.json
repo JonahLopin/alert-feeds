@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 42074,
+  "credits_used": 42131,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-13T23:43:06Z",
+  "last_run": "2026-11-14T00:40:33Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 819
+  "runs": 820
  },
  "feeds": {
   "adp-help": {
@@ -35252,6 +35252,15 @@
     "page": 3,
     "summary": "Learn how to adjust or prorate an employee's fixed salary in Intuit QuickBooks Workforce and QuickBooks Desktop Payroll. Salaried employees have a fixed ...",
     "title": "Override an employee's salary - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/tip-income/impact-tax-tips-provision-quickbooks-payroll/L6kRbKsEY_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-14T00:40:33Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/tip-income/impact-tax-tips-provision-quickbooks-payroll/L6kRbKsEY_US_en_US",
+    "page": 3,
+    "summary": "The code is required for tipped employees starting tax year 2026. You may add up to two codes per employee. If an employee received tips in more than two ...",
+    "title": "Track qualified tips and assign Treasury Tipped Occupation ..."
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/unemployment-taxes/authorize-quickbooks-indiana-unemployment-third/L6Tq1MtPM_US_en_US": {
     "baseline": false,

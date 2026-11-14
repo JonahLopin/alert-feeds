@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-13T23:22:50Z</updated>
+  <updated>2026-11-14T00:42:01Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:11504987581194871277</id>
+    <title>NetChoice Sues New York Over Social Media Warning Label Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/netchoice-sues-new-york-over-social-media-warning-label-law" />
+    <published>2026-11-14T00:42:01Z</published>
+    <updated>2026-11-14T00:42:01Z</updated>
+    <summary>Tech industry trade association NetChoice sued the New York attorney general to block enforcement of a state law requiring certain social media ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8849212304568567452</id>
     <title>Anthropic CEO Calls Computing Power 'Deepest Business Dilemma' - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-11-10T23:22:33Z</published>
     <updated>2026-11-10T23:22:33Z</updated>
     <summary>Barrick Mining Corp. filed for a US initial public offering of its top North American gold assets, as the Canadian miner looks to reset ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:1046692586610496228</id>
-    <title>Trump Pulls $112 Million From Minnesota in Medicaid Funds Fight - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/trump-pulls-112-million-from-minnesota-in-medicaid-funds-fight" />
-    <published>2026-11-10T23:22:33Z</published>
-    <updated>2026-11-10T23:22:33Z</updated>
-    <summary>The Trump administration has formally denied over $112 million in Medicaid funding to Minnesota, escalating a fight with the the state over ...</summary>
   </entry>
 </feed>
