@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-14T06:42:36Z</updated>
+  <updated>2026-11-14T08:42:54Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/connect/test-tax-reporting</id>
+    <title>Test 1099 integrations</title>
+    <link href="https://docs.stripe.com/connect/test-tax-reporting" />
+    <published>2026-11-14T08:42:54Z</published>
+    <updated>2026-11-14T08:42:54Z</updated>
+    <summary>You can partially test the Stripe 1099 tax reporting integrations in a sandbox. Use this guide to learn what you can and can't test, test the general ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/radar/account-farming</id>
     <title>Account farming prevention</title>
@@ -792,14 +800,6 @@
     <id>https://www.google.com/goto?url=CAESegHEIkXX5QaRPYYpibHu9heuaWpITFGU7y2Qox0s9o1912KETeJ1_4x_VfdsybG3ukouxiNFnBAWlkJVK84yhB1YRkAlftsDZxh2cmrlsHR2r7MxXTxJLh9uOld_ILeZCf_rzGyMse0akIZXm9Yq38V-3eYDlqtFG_eb</id>
     <title>Set up future GoPay payments</title>
     <link href="https://www.google.com/goto?url=CAESegHEIkXX5QaRPYYpibHu9heuaWpITFGU7y2Qox0s9o1912KETeJ1_4x_VfdsybG3ukouxiNFnBAWlkJVK84yhB1YRkAlftsDZxh2cmrlsHR2r7MxXTxJLh9uOld_ILeZCf_rzGyMse0akIZXm9Yq38V-3eYDlqtFG_eb" />
-    <published>2026-11-06T15:43:24Z</published>
-    <updated>2026-11-06T15:43:24Z</updated>
-    <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdwHEIkXXhT4GfJT70jPEgPggAHOijbpGrTnpQ8cL0otWNSKdJ6vMQ0uIHZIpflyrHlpmNJ_qZGsBdr4iQffnbgo9kkmuPBFwepcbGgcDY08J5YRENio0Ptjw85XqqFEcfkTcluZa1JHgNhu8rrNScQ2IxmCDtl2F</id>
-    <title>Save payment method for future GoPay payments</title>
-    <link href="https://www.google.com/goto?url=CAESdwHEIkXXhT4GfJT70jPEgPggAHOijbpGrTnpQ8cL0otWNSKdJ6vMQ0uIHZIpflyrHlpmNJ_qZGsBdr4iQffnbgo9kkmuPBFwepcbGgcDY08J5YRENio0Ptjw85XqqFEcfkTcluZa1JHgNhu8rrNScQ2IxmCDtl2F" />
     <published>2026-11-06T15:43:24Z</published>
     <updated>2026-11-06T15:43:24Z</updated>
     <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
