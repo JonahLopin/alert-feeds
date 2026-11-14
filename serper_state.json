@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 42621,
+  "credits_used": 42674,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-14T09:42:40Z",
+  "last_run": "2026-11-14T10:42:50Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 829
+  "runs": 830
  },
  "feeds": {
   "adp-help": {
@@ -60927,6 +60927,15 @@
     "summary": "\u9280\u884c\u632f\u8fbc\u3092\u4f7f\u7528\u3057\u305f\u30b5\u30d6\u30b9\u30af\u30ea\u30d7\u30b7\u30e7\u30f3\u306e\u4f5c\u6210\u3068\u8acb\u6c42\u306e\u65b9\u6cd5\u3092\u3054\u7d39\u4ecb\u3057\u307e\u3059\u3002",
     "title": "\u9280\u884c\u632f\u8fbc\u306b\u3088\u308b\u30b5\u30d6\u30b9\u30af\u30ea\u30d7\u30b7\u30e7\u30f3\u3092\u8a2d\u5b9a\u3059\u308b"
    },
+   "docs.stripe.com/billing/subscriptions/build-subscriptions?payment-ui=checkout&ui=embedded-page&platform=web": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-14T10:42:50Z",
+    "link": "https://docs.stripe.com/billing/subscriptions/build-subscriptions?payment-ui=checkout&ui=embedded-page&platform=web",
+    "page": 2,
+    "summary": "Build subscriptions integrations using Checkout or custom payment flows with Elements for fixed-price, per-seat, and usage-based billing models.",
+    "title": "Build a subscriptions integration"
+   },
    "docs.stripe.com/billing/subscriptions/manage-fraud": {
     "baseline": false,
     "date_hint": "8 hours ago",
@@ -61542,6 +61551,24 @@
     "summary": "Para Elements con Checkout Sessions, puedes personalizar las marcas de tarjetas y los tipos de financiaci\u00f3n que quieres restringir cuando creas una sesi\u00f3n ...",
     "title": "Personalizar marcas de tarjetas | Documentaci\u00f3n de Stripe"
    },
+   "docs.stripe.com/payments/checkout/express-checkout-element": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-14T10:42:50Z",
+    "link": "https://docs.stripe.com/payments/checkout/express-checkout-element",
+    "page": 1,
+    "summary": "The Express Checkout Element is an integration for accepting payments through one-click payment method buttons. PayPal, Klarna, and Amazon Pay.",
+    "title": "Accept a payment with the Express Checkout Element"
+   },
+   "docs.stripe.com/payments/checkout/tax-id-element": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-14T10:42:50Z",
+    "link": "https://docs.stripe.com/payments/checkout/tax-id-element",
+    "page": 1,
+    "summary": "Use the Tax ID Element in your Elements integration with the Checkout Sessions API to collect your customer's business tax ID.",
+    "title": "Collect tax IDs with the Tax ID Element"
+   },
    "docs.stripe.com/payments/electronic-commerce-indicator?locale=fr-FR": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -61756,6 +61783,15 @@
     "page": 1,
     "summary": "Stripe \u4ee5\u63d0\u73b0\u7684\u5f62\u5f0f\u5c06\u8d44\u91d1\u4ece\u60a8\u7684\u53ef\u7528\u4f59\u989d\u53d1\u9001\u5230\u60a8\u7684\u94f6\u884c\u8d26\u6237\uff1a. **\u9996\u6b21\u63d0\u73b0\uff1a**\u5728\u60a8\u6210\u529f\u63a5\u6536\u7b2c\u4e00\u7b14\u771f\u5b9e\u4ed8\u6b3e\u540e\uff0cStripe \u901a\u5e38\u4f1a\u5b89\u6392\u60a8\u7684\u521d\u59cb\u63d0\u73b0\u57287 \u2013 14 \u5929\u5185\u5b8c\u6210\uff0c ...",
     "title": "\u63a5\u6536\u63d0\u73b0\u6b3e\u9879"
+   },
+   "docs.stripe.com/projects/mcp": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-14T10:42:50Z",
+    "link": "https://docs.stripe.com/projects/mcp",
+    "page": 1,
+    "summary": "To deploy an app, an agent that can run local commands to package and upload your app. Chat-only clients can provision services and add domains,",
+    "title": "Provision and deploy apps with AI agents"
    },
    "docs.stripe.com/radar/account-farming": {
     "baseline": false,

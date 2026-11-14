@@ -2,8 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-14T08:42:54Z</updated>
+  <updated>2026-11-14T10:42:50Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/projects/mcp</id>
+    <title>Provision and deploy apps with AI agents</title>
+    <link href="https://docs.stripe.com/projects/mcp" />
+    <published>2026-11-14T10:42:50Z</published>
+    <updated>2026-11-14T10:42:50Z</updated>
+    <summary>To deploy an app, an agent that can run local commands to package and upload your app. Chat-only clients can provision services and add domains,</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/payments/checkout/tax-id-element</id>
+    <title>Collect tax IDs with the Tax ID Element</title>
+    <link href="https://docs.stripe.com/payments/checkout/tax-id-element" />
+    <published>2026-11-14T10:42:50Z</published>
+    <updated>2026-11-14T10:42:50Z</updated>
+    <summary>Use the Tax ID Element in your Elements integration with the Checkout Sessions API to collect your customer's business tax ID.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/payments/checkout/express-checkout-element</id>
+    <title>Accept a payment with the Express Checkout Element</title>
+    <link href="https://docs.stripe.com/payments/checkout/express-checkout-element" />
+    <published>2026-11-14T10:42:50Z</published>
+    <updated>2026-11-14T10:42:50Z</updated>
+    <summary>The Express Checkout Element is an integration for accepting payments through one-click payment method buttons. PayPal, Klarna, and Amazon Pay.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/billing/subscriptions/build-subscriptions?payment-ui=checkout&amp;ui=embedded-page&amp;platform=web</id>
+    <title>Build a subscriptions integration</title>
+    <link href="https://docs.stripe.com/billing/subscriptions/build-subscriptions?payment-ui=checkout&amp;ui=embedded-page&amp;platform=web" />
+    <published>2026-11-14T10:42:50Z</published>
+    <updated>2026-11-14T10:42:50Z</updated>
+    <summary>Build subscriptions integrations using Checkout or custom payment flows with Elements for fixed-price, per-seat, and usage-based billing models.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/connect/test-tax-reporting</id>
     <title>Test 1099 integrations</title>
@@ -771,37 +803,5 @@
     <published>2026-11-06T15:43:24Z</published>
     <updated>2026-11-06T15:43:24Z</updated>
     <summary>When you request W-8 or W-9 forms from your connected accounts, be prepared to help them submit the correct form successfully.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESfAHEIkXXdBQE11ROcE1DslCamojgk0NlT44WFgggNKJVRFqkf6yT9Y6V8LjiVl_UDFfwxCOrI6c2q3Smt4SY6qIe5lm6naM_FQlJc4_Ph7Fsz9pb0JWoyo06ZxcKAwY9CRmoQnIjMkWc_mw5atBxbOKR-US4nNrW0FcQtNY</id>
-    <title>Let customers pause subscriptions in the customer portal</title>
-    <link href="https://www.google.com/goto?url=CAESfAHEIkXXdBQE11ROcE1DslCamojgk0NlT44WFgggNKJVRFqkf6yT9Y6V8LjiVl_UDFfwxCOrI6c2q3Smt4SY6qIe5lm6naM_FQlJc4_Ph7Fsz9pb0JWoyo06ZxcKAwY9CRmoQnIjMkWc_mw5atBxbOKR-US4nNrW0FcQtNY" />
-    <published>2026-11-06T15:43:24Z</published>
-    <updated>2026-11-06T15:43:24Z</updated>
-    <summary>In the customer portal, you can let your customers pause their subscriptions for a duration you choose, and resume them automatically at the end of that ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESfAHEIkXXOtE0ZZLaoUFnsyp9IJS5uOHx8TcniDh3qrj1ZrVlSS9UmWVMcSIBYE2sAd782ZoI3fDs_idD2xay0OIUsFuegZsFNRN9w9B-XYvVX_Z4_DDgJAcrMwmHMkT0pVZRIuERD_Yf4IenJEf8r_TO4KjZ4mCuFWnTRiw</id>
-    <title>Authorizations and webhooks for stablecoin-backed cards</title>
-    <link href="https://www.google.com/goto?url=CAESfAHEIkXXOtE0ZZLaoUFnsyp9IJS5uOHx8TcniDh3qrj1ZrVlSS9UmWVMcSIBYE2sAd782ZoI3fDs_idD2xay0OIUsFuegZsFNRN9w9B-XYvVX_Z4_DDgJAcrMwmHMkT0pVZRIuERD_Yf4IenJEf8r_TO4KjZ4mCuFWnTRiw" />
-    <published>2026-11-06T15:43:24Z</published>
-    <updated>2026-11-06T15:43:24Z</updated>
-    <summary>Learn how authorizations, captures, refunds, and expirations on stablecoin-backed cards move funds onchain, which events Stripe and Bridge send,</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESegHEIkXXnH_8mHH_QfGp232rgh7u1eZYkHyX7_xbZDb8a5WZwvVg9808iEZVAcqpI-rbsg4dLY9Q9SF3A-xEY6z5wVieyXMiRLsIoU5YAKk6PraaAekVSJD57ux4WCP85avBnzO5jrXByYWptyLFiIMhlM7_BzmANmDY</id>
-    <title>How Stripe, Bridge, and Privy work together</title>
-    <link href="https://www.google.com/goto?url=CAESegHEIkXXnH_8mHH_QfGp232rgh7u1eZYkHyX7_xbZDb8a5WZwvVg9808iEZVAcqpI-rbsg4dLY9Q9SF3A-xEY6z5wVieyXMiRLsIoU5YAKk6PraaAekVSJD57ux4WCP85avBnzO5jrXByYWptyLFiIMhlM7_BzmANmDY" />
-    <published>2026-11-06T15:43:24Z</published>
-    <updated>2026-11-06T15:43:24Z</updated>
-    <summary>Stripe issues and processes cards, while Bridge verifies cardholders and moves funds from the linked wallets. You can fund cards with a Bridge wallet, a Privy ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESegHEIkXX5QaRPYYpibHu9heuaWpITFGU7y2Qox0s9o1912KETeJ1_4x_VfdsybG3ukouxiNFnBAWlkJVK84yhB1YRkAlftsDZxh2cmrlsHR2r7MxXTxJLh9uOld_ILeZCf_rzGyMse0akIZXm9Yq38V-3eYDlqtFG_eb</id>
-    <title>Set up future GoPay payments</title>
-    <link href="https://www.google.com/goto?url=CAESegHEIkXX5QaRPYYpibHu9heuaWpITFGU7y2Qox0s9o1912KETeJ1_4x_VfdsybG3ukouxiNFnBAWlkJVK84yhB1YRkAlftsDZxh2cmrlsHR2r7MxXTxJLh9uOld_ILeZCf_rzGyMse0akIZXm9Yq38V-3eYDlqtFG_eb" />
-    <published>2026-11-06T15:43:24Z</published>
-    <updated>2026-11-06T15:43:24Z</updated>
-    <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
   </entry>
 </feed>
