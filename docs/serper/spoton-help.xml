@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-14T15:42:38Z</updated>
+  <updated>2026-11-14T20:42:37Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/4666982442/Paid+In+%26+Paid+Out%3A+Managing+Cash+In+and+Out+of+Your+Register+%7C+SpotOn+Restaurant+FOH</id>
+    <title>Paid In &amp; Paid Out: Managing Cash In and Out of Your ...</title>
+    <link href="https://help.spoton.com/space/SK/4666982442/Paid+In+%26+Paid+Out%3A+Managing+Cash+In+and+Out+of+Your+Register+%7C+SpotOn+Restaurant+FOH" />
+    <published>2026-11-14T20:42:37Z</published>
+    <updated>2026-11-14T20:42:37Z</updated>
+    <summary>To manually select reasons during Paid In or Paid Out transactions, those reasons must first be created in the Back of House (BOH) under Adjustment Reasons.</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/4616290379/Reporting%7C+SpotOn+Restaurant</id>
     <title>Reporting| SpotOn Restaurant</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T04:43:04Z</published>
     <updated>2026-10-31T04:43:04Z</updated>
     <summary>Overview. Order Types determine how orders are processed within SpotOn Restaurant (RPOS). They can be configured with unique pricing, customer requirements, ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVM0gZRDwDtFhk0opzrO8IGfv99yc57S3yTRT_kyMXlD07iquMr-0_14zMJIiX6rNPDj8X7GogfoNFXZgCekKQNpMJ-6NQOGIiFrBXBCfpTMMihsXtnTmN8Id6ToRD5uS19A</id>
-    <title>Deposits Setup &amp; Management | SpotOn Reserve Web Portal</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVM0gZRDwDtFhk0opzrO8IGfv99yc57S3yTRT_kyMXlD07iquMr-0_14zMJIiX6rNPDj8X7GogfoNFXZgCekKQNpMJ-6NQOGIiFrBXBCfpTMMihsXtnTmN8Id6ToRD5uS19A" />
-    <published>2026-10-31T04:43:04Z</published>
-    <updated>2026-10-31T04:43:04Z</updated>
-    <summary>The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,</summary>
   </entry>
 </feed>
