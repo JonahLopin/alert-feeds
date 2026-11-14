@@ -2,8 +2,128 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-13T20:06:38Z</updated>
+  <updated>2026-11-14T16:06:17Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8357886982859832540</id>
+    <title>Savings financial accounts | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/treasury/connect/savings-financial-accounts" />
+    <published>2026-11-14T16:06:17Z</published>
+    <updated>2026-11-14T16:06:17Z</updated>
+    <summary>You can allow your eligible connected accounts to earn interest in a savings financial account. Request access. Having Treasury for platforms enabled ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:7782481668965790516</id>
+    <title>Build a subscriptions integration - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/billing/subscriptions/build-subscriptions?payment-ui=checkout&amp;ui=embedded-page&amp;platform=web" />
+    <published>2026-11-14T16:06:17Z</published>
+    <updated>2026-11-14T16:06:17Z</updated>
+    <summary>Build subscriptions integrations using Checkout or custom payment flows with Elements for fixed-price, per-seat, and usage-based billing models.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:7474262212824202004</id>
+    <title>Provision and deploy apps with AI agents - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/projects/mcp" />
+    <published>2026-11-14T16:06:17Z</published>
+    <updated>2026-11-14T16:06:17Z</updated>
+    <summary>Connect an AI agent to Stripe MCP to provision services from the Stripe Projects catalog, deploy an app to Vercel, and attach a custom domain ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:2126024361365769354</id>
+    <title>Customize card brands | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/checkout/customization/card-brands?ui=elements" />
+    <published>2026-11-14T16:06:17Z</published>
+    <updated>2026-11-14T16:06:17Z</updated>
+    <summary>For Elements with Checkout Sessions, you can customize the card brands and funding types you want to restrict when you create a Checkout Session.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:17328251818832626122</id>
+    <title>Migrate to the Express Checkout Element with Checkout Sessions - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/checkout/express-checkout-element/migration" />
+    <published>2026-11-14T16:06:17Z</published>
+    <updated>2026-11-14T16:06:17Z</updated>
+    <summary>With the payment request button element, you create a paymentRequest object in your client-side code and provide the total, currency, and customer- ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:15907664093028520986</id>
+    <title>Accept a payment with the Express Checkout Element - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/checkout/express-checkout-element" />
+    <published>2026-11-14T16:06:17Z</published>
+    <updated>2026-11-14T16:06:17Z</updated>
+    <summary>Use the Express Checkout Element with the Checkout Sessions API to accept payments through one-click payment buttons.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:15501407454019075167</id>
+    <title>Collect tax in Africa - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/tax/supported-countries/africa/collect-tax?tax-jurisdiction-africa=mauritius" />
+    <published>2026-11-14T16:06:17Z</published>
+    <updated>2026-11-14T16:06:17Z</updated>
+    <summary>You can see key properties and registration guidelines for each supported country, including: The thresholds that trigger registration obligations.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:15021397842860863317</id>
+    <title>Dynamically update line items | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/checkout/dynamically-update-line-items?ui=checkout-form" />
+    <published>2026-11-14T16:06:17Z</published>
+    <updated>2026-11-14T16:06:17Z</updated>
+    <summary>This guide demonstrates how to update line items to upsell a subscription, but you can also: Check inventory: Run inventory checks and holds when ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14853643204165586495</id>
+    <title>Account farming prevention | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/radar/account-farming" />
+    <published>2026-11-14T16:06:17Z</published>
+    <updated>2026-11-14T16:06:17Z</updated>
+    <summary>Use Stripe Radar's account farming signals to identify coordinated account abuse and write rules to block associated card payments.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14384147587860008124</id>
+    <title>Add custom payment methods with Elements - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/checkout/custom-payment-methods" />
+    <published>2026-11-14T16:06:17Z</published>
+    <updated>2026-11-14T16:06:17Z</updated>
+    <summary>Learn how to add custom payment methods to Elements with the Checkout Sessions API.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14241624212914863860</id>
+    <title>Collect tax IDs with the Tax ID Element - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/checkout/tax-id-element" />
+    <published>2026-11-14T16:06:17Z</published>
+    <updated>2026-11-14T16:06:17Z</updated>
+    <summary>Use the Tax ID Element in your Elements integration with the Checkout Sessions API to collect your customer's business tax ID.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:13499143453814559793</id>
+    <title>Save and retrieve customer payment methods | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/checkout/save-customer-payment-methods" />
+    <published>2026-11-14T16:06:17Z</published>
+    <updated>2026-11-14T16:06:17Z</updated>
+    <summary>Learn about saved payment methods in the Payment Element with the Checkout Sessions API.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12667060304223673388</id>
+    <title>Returns - Stripe JS Reference</title>
+    <link href="https://docs.stripe.com/js/custom_checkout/get_contact_details_element?__=&amp;__hsfp=1811981423&amp;__hssc=45788219.1.1688417328121&amp;__hstc=45788219.0b30c006033f700583a64b312f758497.1688417328121.1688417328121.1688417328121.1&amp;__previewId=&amp;__s=pipu7t2sfttzvnmqsxqp" />
+    <published>2026-11-14T16:06:17Z</published>
+    <updated>2026-11-14T16:06:17Z</updated>
+    <summary>Setting up · The Elements object · The Element · Embedded Checkout · Checkout · React Stripe.js · Payment Intents · Setup Intents.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:10645526226300559061</id>
+    <title>Dynamically update payment amounts with Elements | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/checkout/dynamically-update-amounts" />
+    <published>2026-11-14T16:06:17Z</published>
+    <updated>2026-11-14T16:06:17Z</updated>
+    <summary>Update Checkout Session amounts in your Elements integration when customers change quantities, shipping, or discounts.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:10240469843606056627</id>
+    <title>Update a trial offer | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/product-catalog/trial-offer/update" />
+    <published>2026-11-14T16:06:17Z</published>
+    <updated>2026-11-14T16:06:17Z</updated>
+    <summary>Updates the specified trial offer by setting the values of the parameters passed. Any parameters not provided are left unchanged. Parameters ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:17806366736642007197</id>
     <title>Supported metrics | Stripe Documentation</title>
@@ -683,125 +803,5 @@
     <published>2026-10-23T22:44:13Z</published>
     <updated>2026-10-23T22:44:13Z</updated>
     <summary>customer_details.address.line1nullable string. Address line 1, such as the street, PO Box, or company name.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:4365805185404618254</id>
-    <title>The Tax form object | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/tax_reporting/forms/object" />
-    <published>2026-10-22T10:47:14Z</published>
-    <updated>2026-10-22T10:47:14Z</updated>
-    <summary>NZ-MRDP statements are used to report payment transactions for New Zealand sellers. us_1099_k. 1099-K forms are typically used to report payment ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:4204707729561775986</id>
-    <title>Customer risk - Stripe Documentation</title>
-    <link href="https://docs.stripe.com/radar/customer-risk" />
-    <published>2026-10-22T10:47:14Z</published>
-    <updated>2026-10-22T10:47:14Z</updated>
-    <summary>Radar assigns a fraud and abuse risk level to a Stripe Customer object. The assessment considers fraudulent and abusive activity throughout the ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:2967307062386745037</id>
-    <title>List all tax forms | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/tax_reporting/forms/list" />
-    <published>2026-10-22T10:47:14Z</published>
-    <updated>2026-10-22T10:47:14Z</updated>
-    <summary>Specifies the payee type. Possible enum values. account. A Stripe connected account. external_reference. A payee not associated ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:15469719450204992676</id>
-    <title>Download tax form PDF | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/tax_reporting/forms/pdf" />
-    <published>2026-10-22T10:47:14Z</published>
-    <updated>2026-10-22T10:47:14Z</updated>
-    <summary>Download the PDF for a tax form. Parameters. No parameters. Returns. The PDF file for the tax form.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:1542134788171224504</id>
-    <title>Retrieve a tax form | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/tax_reporting/forms/retrieve" />
-    <published>2026-10-22T10:47:14Z</published>
-    <updated>2026-10-22T10:47:14Z</updated>
-    <summary>Retrieves the details of a tax form that has previously been created. Supply the unique tax form ID that was returned from your previous request, and ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:14608277971951863919</id>
-    <title>Stripe Payments handler for UCP</title>
-    <link href="https://docs.stripe.com/agentic-commerce/protocols/ucp/stripe-payments-handler" />
-    <published>2026-10-22T10:47:14Z</published>
-    <updated>2026-10-22T10:47:14Z</updated>
-    <summary>How it works. The following card flow shows a checkout served by the seller. The agent sends a shared payment token (SPT) in the Complete Checkout ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:8445983965687604615</id>
-    <title>Manage connected account payouts - Stripe Documentation</title>
-    <link href="https://docs.stripe.com/connect/manage-connected-account-payouts" />
-    <published>2026-10-21T23:09:53Z</published>
-    <updated>2026-10-21T23:09:53Z</updated>
-    <summary>For connected accounts with access to the full Stripe Dashboard or Express Dashboard, the account holder manages their external payout accounts (bank ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:914212263924450625</id>
-    <title>Financial Accounts v2 - Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/v2/money-management/financial-accounts?api-version=2026-09-30.preview" />
-    <published>2026-10-21T11:47:05Z</published>
-    <updated>2026-10-21T11:47:05Z</updated>
-    <summary>Financial Accounts v2 ... A FinancialAccount represents a balance and can be used as the source or destination for the money management ( /v2/ ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:8795633782096771871</id>
-    <title>Tax Forms | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/tax_reporting/forms" />
-    <published>2026-10-21T11:47:05Z</published>
-    <updated>2026-10-21T11:47:05Z</updated>
-    <summary>Tax forms are legal documents which are delivered to one or more tax authorities for information reporting purposes. Related guide: US tax reporting ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:7878525142762493498</id>
-    <title>Connection Tokens | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/terminal/connection_tokens?api-version=2026-09-30.preview" />
-    <published>2026-10-21T11:47:05Z</published>
-    <updated>2026-10-21T11:47:05Z</updated>
-    <summary>A Connection Token is used by the Stripe Terminal SDK to connect to a reader. Related guide: Fleet management. Was this section helpful?YesNo.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:9904860476252276244</id>
-    <title>Subscription Items | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/subscription_items?api-version=2026-08-26.preview" />
-    <published>2026-10-20T22:44:24Z</published>
-    <updated>2026-10-20T22:44:24Z</updated>
-    <summary>Subscription items allow you to create customer subscriptions with more than one plan, making it easy to represent complex billing relationships.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:9850902256530377436</id>
-    <title>The Transaction object | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/issuing/transactions/object?api-version=2026-09-30.preview" />
-    <published>2026-10-20T22:44:24Z</published>
-    <updated>2026-10-20T22:44:24Z</updated>
-    <summary>network_data.transaction_idnullable string. Unique identifier for the authorization assigned by the card network used to match subsequent messages, ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:941256059425004100</id>
-    <title>Country Specs | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/country_specs?api-version=2026-07-29.preview" />
-    <published>2026-10-20T22:44:24Z</published>
-    <updated>2026-10-20T22:44:24Z</updated>
-    <summary>Stripe needs to collect certain pieces of information about each account created. These requirements can differ depending on the account's country.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:7098977794028413137</id>
-    <title>Prices | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/prices?api-version=2026-09-30.preview" />
-    <published>2026-10-20T22:44:24Z</published>
-    <updated>2026-10-20T22:44:24Z</updated>
-    <summary>Prices define the unit cost, currency, and (optional) billing cycle for both recurring and one-time purchases of products. Products help you track ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:6471659853664775720</id>
-    <title>The Report Run object | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/reporting/report_run/object?api-version=2026-08-26.preview" />
-    <published>2026-10-20T22:44:24Z</published>
-    <updated>2026-10-20T22:44:24Z</updated>
-    <summary>parameters.interval_endnullable timestamp. Ending timestamp of data to be included in the report run. Can be any UTC timestamp between 1 second after ...</summary>
   </entry>
 </feed>

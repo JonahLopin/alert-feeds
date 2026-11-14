@@ -7137,6 +7137,18 @@
    "summary": "A FundingIntent represents the lifecycle of adding funds to a FinancialAccount. Learn more about calling API v2 endpoints. Was this section helpful?",
    "title": "Funding Intents | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:10240469843606056627": {
+   "first_seen": "2026-11-14T16:06:17Z",
+   "link": "https://docs.stripe.com/api/product-catalog/trial-offer/update",
+   "summary": "Updates the specified trial offer by setting the values of the parameters passed. Any parameters not provided are left unchanged. Parameters ...",
+   "title": "Update a trial offer | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:10645526226300559061": {
+   "first_seen": "2026-11-14T16:06:17Z",
+   "link": "https://docs.stripe.com/payments/checkout/dynamically-update-amounts",
+   "summary": "Update Checkout Session amounts in your Elements integration when customers change quantities, shipping, or discounts.",
+   "title": "Dynamically update payment amounts with Elements | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:11181571382661186532": {
    "first_seen": "2026-10-15T10:47:01Z",
    "link": "https://docs.stripe.com/tax/use-stripe-to-register/united-states",
@@ -7221,6 +7233,12 @@
    "summary": "ReserveReleases represent the release of funds from a ReserveHold. Was this section helpful?YesNo. EndpointsEvents. More.",
    "title": "Reserve Releases | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:12667060304223673388": {
+   "first_seen": "2026-11-14T16:06:17Z",
+   "link": "https://docs.stripe.com/js/custom_checkout/get_contact_details_element?__=&__hsfp=1811981423&__hssc=45788219.1.1688417328121&__hstc=45788219.0b30c006033f700583a64b312f758497.1688417328121.1688417328121.1688417328121.1&__previewId=&__s=pipu7t2sfttzvnmqsxqp",
+   "summary": "Setting up \u00b7 The Elements object \u00b7 The Element \u00b7 Embedded Checkout \u00b7 Checkout \u00b7 React Stripe.js \u00b7 Payment Intents \u00b7 Setup Intents.",
+   "title": "Returns - Stripe JS Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:12702875758723858066": {
    "first_seen": "2026-10-26T16:50:44Z",
    "link": "https://docs.stripe.com/global-payouts/send-money/paper-checks",
@@ -7256,6 +7274,12 @@
    "link": "https://docs.stripe.com/payments/checkout/custom-shipping-options?ui=elements",
    "summary": "Customize shipping options. Server-side \u00b7 Retrieve the Checkout Session using the checkoutSessionId from the request body. \u00b7 Validate the customer's ...",
    "title": "Dynamically customize shipping options - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:13499143453814559793": {
+   "first_seen": "2026-11-14T16:06:17Z",
+   "link": "https://docs.stripe.com/payments/checkout/save-customer-payment-methods",
+   "summary": "Learn about saved payment methods in the Payment Element with the Checkout Sessions API.",
+   "title": "Save and retrieve customer payment methods | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:13688216295203785807": {
    "first_seen": "2026-10-19T22:44:10Z",
@@ -7305,6 +7329,12 @@
    "summary": "Use the subscriptions Tax integration configuration default for subscription schedules and inspect tax enablement for each phase.",
    "title": "Enable tax by default for subscription schedules - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:14241624212914863860": {
+   "first_seen": "2026-11-14T16:06:17Z",
+   "link": "https://docs.stripe.com/payments/checkout/tax-id-element",
+   "summary": "Use the Tax ID Element in your Elements integration with the Checkout Sessions API to collect your customer's business tax ID.",
+   "title": "Collect tax IDs with the Tax ID Element - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:14259614668874529400": {
    "first_seen": "2026-11-04T18:43:24Z",
    "link": "https://docs.stripe.com/issuing/stablecoin-cards/authorizations",
@@ -7322,6 +7352,12 @@
    "link": "https://docs.stripe.com/workload-identity-federation/google-cloud",
    "summary": "Create a Google Cloud service account with the Google Cloud console, the gcloud CLI, or Terraform, create a matching service principal in Stripe, ...",
    "title": "Workload Identity Federation with Google Cloud | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:14384147587860008124": {
+   "first_seen": "2026-11-14T16:06:17Z",
+   "link": "https://docs.stripe.com/payments/checkout/custom-payment-methods",
+   "summary": "Learn how to add custom payment methods to Elements with the Checkout Sessions API.",
+   "title": "Add custom payment methods with Elements - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:14457789205863563794": {
    "first_seen": "2026-10-16T22:44:10Z",
@@ -7365,6 +7401,12 @@
    "summary": "Save payment methods to a wallet to streamline future purchases; Collect surcharges after fulfilling a service. To collect payment method details and ...",
    "title": "Set up future GoPay payments | Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:14853643204165586495": {
+   "first_seen": "2026-11-14T16:06:17Z",
+   "link": "https://docs.stripe.com/radar/account-farming",
+   "summary": "Use Stripe Radar's account farming signals to identify coordinated account abuse and write rules to block associated card payments.",
+   "title": "Account farming prevention | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:14970350843857164666": {
    "first_seen": "2026-10-16T22:44:10Z",
    "link": "https://docs.stripe.com/terminal/features/apps-on-devices/changelog",
@@ -7376,6 +7418,12 @@
    "link": "https://docs.stripe.com/js/react_stripe_js/checkout/use_checkout?client_id=1937835283.1772150402&session_id=1772150402",
    "summary": "The ID of the Checkout Session. billingAddress nullable object. Billing details of the Customer.",
    "title": "useCheckout - Stripe JS Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:15021397842860863317": {
+   "first_seen": "2026-11-14T16:06:17Z",
+   "link": "https://docs.stripe.com/payments/checkout/dynamically-update-line-items?ui=checkout-form",
+   "summary": "This guide demonstrates how to update line items to upsell a subscription, but you can also: Check inventory: Run inventory checks and holds when ...",
+   "title": "Dynamically update line items | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:15029214710669861825": {
    "first_seen": "2026-10-20T22:44:24Z",
@@ -7413,6 +7461,12 @@
    "summary": "Download the PDF for a tax form. Parameters. No parameters. Returns. The PDF file for the tax form.",
    "title": "Download tax form PDF | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:15501407454019075167": {
+   "first_seen": "2026-11-14T16:06:17Z",
+   "link": "https://docs.stripe.com/tax/supported-countries/africa/collect-tax?tax-jurisdiction-africa=mauritius",
+   "summary": "You can see key properties and registration guidelines for each supported country, including: The thresholds that trigger registration obligations.",
+   "title": "Collect tax in Africa - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:15731290668881411009": {
    "first_seen": "2026-11-04T18:43:24Z",
    "link": "https://docs.stripe.com/payments/payment-methods/migrate-from-legacy-cards-sources",
@@ -7424,6 +7478,12 @@
    "link": "https://docs.stripe.com/api/v2/signals/account-activities?api-version=2026-09-30.preview",
    "summary": "Account Activities v2 ... Account Activity resource for the Signals API. ... Need help? Contact Support. Chat with Stripe developers on Discord. Check out ...",
    "title": "Account Activities | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:15907664093028520986": {
+   "first_seen": "2026-11-14T16:06:17Z",
+   "link": "https://docs.stripe.com/payments/checkout/express-checkout-element",
+   "summary": "Use the Express Checkout Element with the Checkout Sessions API to accept payments through one-click payment buttons.",
+   "title": "Accept a payment with the Express Checkout Element - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:1605661075300857468": {
    "first_seen": "2026-11-04T18:43:24Z",
@@ -7509,6 +7569,12 @@
    "summary": "You can programmatically execute SQL queries against your Stripe data using the QueryRun endpoints of the Reports API v2.",
    "title": "Run a Sigma query programmatically - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:17328251818832626122": {
+   "first_seen": "2026-11-14T16:06:17Z",
+   "link": "https://docs.stripe.com/payments/checkout/express-checkout-element/migration",
+   "summary": "With the payment request button element, you create a paymentRequest object in your client-side code and provide the total, currency, and customer- ...",
+   "title": "Migrate to the Express Checkout Element with Checkout Sessions - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:17624767214187221706": {
    "first_seen": "2026-10-12T11:36:05Z",
    "link": "https://docs.stripe.com/use-stripe-apps/netsuite/customer-payment-page-setup",
@@ -7592,6 +7658,12 @@
    "link": "https://docs.stripe.com/api/v2/money-management/inbound-fundings",
    "summary": "An InboundFunding represents an other-to-me pull movement into a FinancialAccount. Learn more about calling API v2 endpoints. Was this section helpful ...",
    "title": "Inbound Fundings v2 - Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:2126024361365769354": {
+   "first_seen": "2026-11-14T16:06:17Z",
+   "link": "https://docs.stripe.com/payments/checkout/customization/card-brands?ui=elements",
+   "summary": "For Elements with Checkout Sessions, you can customize the card brands and funding types you want to restrict when you create a Checkout Session.",
+   "title": "Customize card brands | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:2144877956246236942": {
    "first_seen": "2026-10-27T22:42:43Z",
@@ -7875,11 +7947,23 @@
    "summary": "A billing alert is a resource that notifies you when a certain usage threshold on a meter is crossed. For example, you might create a billing alert to ...",
    "title": "Alerts | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:7474262212824202004": {
+   "first_seen": "2026-11-14T16:06:17Z",
+   "link": "https://docs.stripe.com/projects/mcp",
+   "summary": "Connect an AI agent to Stripe MCP to provision services from the Stripe Projects catalog, deploy an app to Vercel, and attach a custom domain ...",
+   "title": "Provision and deploy apps with AI agents - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:7494452052391164506": {
    "first_seen": "2026-11-02T16:44:12Z",
    "link": "https://docs.stripe.com/payments/gopay/accept-a-payment",
    "summary": "GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the ...",
    "title": "GoPay Payments | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:7782481668965790516": {
+   "first_seen": "2026-11-14T16:06:17Z",
+   "link": "https://docs.stripe.com/billing/subscriptions/build-subscriptions?payment-ui=checkout&ui=embedded-page&platform=web",
+   "summary": "Build subscriptions integrations using Checkout or custom payment flows with Elements for fixed-price, per-seat, and usage-based billing models.",
+   "title": "Build a subscriptions integration - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:7878525142762493498": {
    "first_seen": "2026-10-21T11:47:05Z",
@@ -7904,6 +7988,12 @@
    "link": "https://docs.stripe.com/event-destinations/overview",
    "summary": "Learn how Stripe events work, set up event destinations, and manage your integration. Direct events to webhook endpoints, Amazon EventBridge, ...",
    "title": "Events | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:8357886982859832540": {
+   "first_seen": "2026-11-14T16:06:17Z",
+   "link": "https://docs.stripe.com/treasury/connect/savings-financial-accounts",
+   "summary": "You can allow your eligible connected accounts to earn interest in a savings financial account. Request access. Having Treasury for platforms enabled ...",
+   "title": "Savings financial accounts | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:8368935378441874260": {
    "first_seen": "2026-11-04T18:43:24Z",
