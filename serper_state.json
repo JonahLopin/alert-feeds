@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 42569,
+  "credits_used": 42621,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-14T08:42:54Z",
+  "last_run": "2026-11-14T09:42:40Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 828
+  "runs": 829
  },
  "feeds": {
   "adp-help": {
@@ -43716,6 +43716,15 @@
     "summary": "No information is available for this page.",
     "title": "this article - Shift4 Knowledge - Zendesk"
    },
+   "shift4.zendesk.com/hc/en-us/articles/360036523754": {
+    "baseline": false,
+    "date_hint": "",
+    "first_seen": "2026-11-14T09:42:40Z",
+    "link": "https://shift4.zendesk.com/hc/en-us/articles/360036523754",
+    "page": 1,
+    "summary": "No information is available for this page.",
+    "title": "https://shift4.zendesk.com/hc/en-us/articles/36003..."
+   },
    "shift4.zendesk.com/hc/en-us/articles/360038455334": {
     "baseline": false,
     "date_hint": "",
@@ -55550,6 +55559,15 @@
     "page": 3,
     "summary": "If you're passionate about health and looking to start a small wellness business, supplement dropshipping might be for you. With the right suppliers and ...",
     "title": "Supplement Dropshipping: Best Suppliers, Products & Tips ..."
+   },
+   "shopify.com/blog/supplier-diversity": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-14T09:42:40Z",
+    "link": "https://www.shopify.com/blog/supplier-diversity",
+    "page": 1,
+    "summary": "A type of procurement practice, supplier diversity gives businesses owned by underrepresented groups a fair opportunity to compete for contracts. It establishes ...",
+    "title": "What Is Supplier Diversity? Benefits and Tips (2027)"
    },
    "shopify.com/blog/swot-analysis": {
     "baseline": false,
