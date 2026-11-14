@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-14T16:42:34Z</updated>
+  <updated>2026-11-14T18:42:59Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/homeland-secretary-mullin-to-testify-in-first-post-election-test</id>
+    <title>Homeland Secretary Mullin to Testify in First Post-Election ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/homeland-secretary-mullin-to-testify-in-first-post-election-test" />
+    <published>2026-11-14T18:42:59Z</published>
+    <updated>2026-11-14T18:42:59Z</updated>
+    <summary>The House Homeland Security Committee will question Mullin and FBI Deputy Director Christopher Raia on Nov. 18 during its annual hearing on worldwide threats.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/tech-giants-face-more-grid-cost-pressure-on-democratic-sweep</id>
     <title>Tech Giants Face More Grid Cost Pressure on Democratic ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-11T00:41:59Z</published>
     <updated>2026-11-11T00:41:59Z</updated>
     <summary>The Trump administration argues that Germany has consistently been underpaying for drugs and needs to contribute more to pharmaceutical research and development ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/trump-pulls-112-million-from-minnesota-in-medicaid-funds-fight</id>
-    <title>Trump Pulls $112 Million From Minnesota in Medicaid ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/trump-pulls-112-million-from-minnesota-in-medicaid-funds-fight" />
-    <published>2026-11-11T00:41:59Z</published>
-    <updated>2026-11-11T00:41:59Z</updated>
-    <summary>The Trump administration has formally denied over $112 million in Medicaid funding to Minnesota, escalating a fight with the the state over concerns of ...</summary>
   </entry>
 </feed>

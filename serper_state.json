@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 43047,
+  "credits_used": 43102,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-14T17:42:46Z",
+  "last_run": "2026-11-14T18:42:59Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 837
+  "runs": 838
  },
  "feeds": {
   "adp-help": {
@@ -13187,6 +13187,15 @@
     "page": 1,
     "summary": "Julie Cress joined Hogan Lovells Cadwalader as a partner in its environment & natural resources practice in San Francisco, the firm announced Wednesday.",
     "title": "Hogan Lovells Hires Baker Botts California Environmental ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/homeland-secretary-mullin-to-testify-in-first-post-election-test": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-14T18:42:59Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/homeland-secretary-mullin-to-testify-in-first-post-election-test",
+    "page": 2,
+    "summary": "The House Homeland Security Committee will question Mullin and FBI Deputy Director Christopher Raia on Nov. 18 during its annual hearing on worldwide threats.",
+    "title": "Homeland Secretary Mullin to Testify in First Post-Election ..."
    },
    "news.bloomberglaw.com/business-and-practice/hong-kong-passes-crypto-asset-reporting-crs-amendment-bill": {
     "baseline": false,
