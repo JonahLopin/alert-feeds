@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 42131,
+  "credits_used": 42187,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-14T00:40:33Z",
+  "last_run": "2026-11-14T01:42:33Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 820
+  "runs": 821
  },
  "feeds": {
   "adp-help": {
@@ -24837,6 +24837,15 @@
     "summary": "Giving Dashers more flexibility to connect DoorDash Crimson to the financial apps and services they already use.",
     "title": "DoorDash Crimson Expands Financial Connectivity With ..."
    },
+   "about.doordash.com/en-us/news/doordash-dot-begins-deliveries-in-fremont": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-14T01:42:33Z",
+    "link": "https://about.doordash.com/en-us/news/doordash-dot-begins-deliveries-in-fremont",
+    "page": 1,
+    "summary": "DoorDash's autonomous delivery device, Dot, is officially making deliveries in the City of Fremont. Nov 13, 2026. Dot in Fremont.",
+    "title": "DoorDash Begins Dot Deliveries in City of Fremont"
+   },
    "about.doordash.com/en-us/news/doordash-earns-aam-incrementality-certification": {
     "baseline": true,
     "date_hint": "5 days ago",
@@ -35172,6 +35181,15 @@
     "page": 1,
     "summary": "Learn how to set up inventory after converting from QuickBooks Desktop to QuickBooks Online \u2014 and avoid common mistakes. Clear, step-by-step instructions.",
     "title": "Set up inventory after you move from QuickBooks Desktop to ..."
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/set-inventory-lists/set-products-bill-materials/L3Kao5E9m_US_en_US": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-14T01:42:33Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/set-inventory-lists/set-products-bill-materials/L3Kao5E9m_US_en_US",
+    "page": 2,
+    "summary": "Create a bill of materials in QuickBooks to track the parts and items you use to build a product. You can use an inventory assembly item to organize the ...",
+    "title": "Set up your product's bill of materials - QuickBooks"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/state-taxes/faq-filing-taxes/L7id93G7F_US_en_US": {
     "baseline": false,
