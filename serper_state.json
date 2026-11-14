@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 42356,
+  "credits_used": 42410,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-14T04:42:57Z",
+  "last_run": "2026-11-14T05:42:40Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 824
+  "runs": 825
  },
  "feeds": {
   "adp-help": {
@@ -71292,6 +71292,15 @@
     "page": 1,
     "summary": "Busy doesn't always mean productive. Learn how better audit workflows, targeted training, and technology can reduce rework and support audit quality.",
     "title": "Your audit team is busy. But is it productive?"
+   },
+   "tax.thomsonreuters.com/blog/how-to-reduce-tax-return-review-time": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-14T05:42:40Z",
+    "link": "https://tax.thomsonreuters.com/blog/how-to-reduce-tax-return-review-time/",
+    "page": 1,
+    "summary": "Faster tax prep doesn't always mean faster review. Learn what causes review bottlenecks and how to keep returns moving.",
+    "title": "How to reduce tax return review time"
    },
    "tax.thomsonreuters.com/blog/how-to-use-ai-in-audit-without-creating-inspection-risk": {
     "baseline": false,
