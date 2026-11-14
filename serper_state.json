@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 42466,
+  "credits_used": 42519,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-14T06:42:36Z",
+  "last_run": "2026-11-14T07:42:33Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 826
+  "runs": 827
  },
  "feeds": {
   "adp-help": {
@@ -24646,6 +24646,15 @@
     "summary": "See how DoorDash retail delivery and retail pickup work, from order to handoff, plus tips to make in-store pickup easy for your store and customers.",
     "title": "How Does Retail Delivery and Pickup Work on DoorDash?"
    },
+   "merchants.doordash.com/en-us/blog/retail-delivery-launch-checklist": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-14T07:42:33Z",
+    "link": "https://merchants.doordash.com/en-us/blog/retail-delivery-launch-checklist",
+    "page": 1,
+    "summary": "Is your store ready for same-day delivery? Download our free retail delivery launch checklist: catalog, Shopify setup, and what to expect at launch.",
+    "title": "Retail delivery launch checklist (free download)"
+   },
    "merchants.doordash.com/en-us/blog/saas-for-restaurants": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -24672,6 +24681,15 @@
     "page": 3,
     "summary": "Secret Menu is a magazine for the restaurant community with stories that aim to inspire, inform, and connect. From first-hand interviews to features and photo ...",
     "title": "Secret Menu, a Magazine for and by the Restaurant Industry"
+   },
+   "merchants.doordash.com/en-us/blog/shopify-local-delivery-app": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-14T07:42:33Z",
+    "link": "https://merchants.doordash.com/en-us/blog/shopify-local-delivery-app",
+    "page": 1,
+    "summary": "A Shopify local delivery app is a tool that helps a retailer bring online orders from its store locations to nearby customers.",
+    "title": "5 Best Shopify Local Delivery Apps for Retailers"
    },
    "merchants.doordash.com/en-us/blog/social-media-marketing-for-restaurants": {
     "baseline": false,
@@ -54284,6 +54302,15 @@
     "summary": "A home business idea is for any company you run from your house, garage, or spare room instead of an established place of business like an office or ...",
     "title": "23 Home Business Ideas for 2026 (+ How To Start)"
    },
+   "shopify.com/blog/how-agentic-commerce-works": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-14T07:42:33Z",
+    "link": "https://www.shopify.com/blog/how-agentic-commerce-works",
+    "page": 3,
+    "summary": "Agentic commerce is the next evolution of online shopping, where AI agents help consumers browse and shop. Learn how Shopify merchants sell through ChatGPT, AI Mode in Google Search, and Copilot.",
+    "title": "Agentic Commerce on Shopify: How It Works (2027) - Shopify"
+   },
    "shopify.com/blog/how-to-buy-a-domain": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -54796,6 +54823,15 @@
     "page": 1,
     "summary": "Needs-based selling involves learning about your customers' requirements and providing a tailored solution. Learn how to implement this sales strategy.",
     "title": "Needs-Based Selling: Sales Guide for Small Businesses (2026)"
+   },
+   "shopify.com/blog/net-30-payment-terms": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-14T07:42:33Z",
+    "link": "https://www.shopify.com/blog/net-30-payment-terms",
+    "page": 3,
+    "summary": "Net 30 gives buyers 30 days from the invoice date to pay in full. Learn how the terms work, what they cost you, and when offering them pays off.",
+    "title": "Net 30 Payment Terms: How They Work (2027) - Shopify"
    },
    "shopify.com/blog/neuro-from-reddit-to-retail": {
     "baseline": true,
@@ -55631,6 +55667,15 @@
     "page": 5,
     "summary": "More and more ecommerce businesses are seeing the value of incorporating video marketing trends into their strategies. Video marketing continues to be a ...",
     "title": "Video Marketing Trends: 10 Ecommerce Essentials (2026)"
+   },
+   "shopify.com/blog/walmart-dropshipping": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-14T07:42:33Z",
+    "link": "https://www.shopify.com/blog/walmart-dropshipping",
+    "page": 3,
+    "summary": "Learn how to get approved for Walmart dropshipping so you can start selling to the retail giant\u2019s millions of online shoppers.",
+    "title": "Walmart Dropshipping Guide: How to Dropship on Walmart"
    },
    "shopify.com/blog/warehouse-shipping": {
     "baseline": false,
