@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-13T11:42:44Z</updated>
+  <updated>2026-11-14T06:42:36Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/radar/account-farming</id>
+    <title>Account farming prevention</title>
+    <link href="https://docs.stripe.com/radar/account-farming" />
+    <published>2026-11-14T06:42:36Z</published>
+    <updated>2026-11-14T06:42:36Z</updated>
+    <summary>Account farming occurs when someone creates or operates multiple accounts in a coordinated way to violate your policies, such as repeatedly claiming ...</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/js/custom_checkout/get_contact_details_element?__=&amp;__hsfp=1811981423&amp;__hssc=45788219.1.1688417328121&amp;__hstc=45788219.0b30c006033f700583a64b312f758497.1688417328121.1688417328121.1688417328121.1&amp;__previewId=&amp;__s=pipu7t2sfttzvnmqsxqp</id>
+    <title>Get the Contact Details Element</title>
+    <link href="https://docs.stripe.com/js/custom_checkout/get_contact_details_element?__=&amp;__hsfp=1811981423&amp;__hssc=45788219.1.1688417328121&amp;__hstc=45788219.0b30c006033f700583a64b312f758497.1688417328121.1688417328121.1688417328121.1&amp;__previewId=&amp;__s=pipu7t2sfttzvnmqsxqp" />
+    <published>2026-11-14T06:42:36Z</published>
+    <updated>2026-11-14T06:42:36Z</updated>
+    <summary>Checkout · Create a Payment Element · Create a Billing Address Element · Create a Shipping Address Element · Create an Express Checkout Element · Create a Currency ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payments/checkout/custom-shipping-options?ui=elements&amp;locale=fr-FR</id>
     <title>Personnaliser dynamiquement les options d'expédition</title>
@@ -787,21 +803,5 @@
     <published>2026-11-06T15:43:24Z</published>
     <updated>2026-11-06T15:43:24Z</updated>
     <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdQHEIkXXHEo8jA4CZe-rokdqztEG-EbQAHUUvSmWARQT6i5U6M3cA4uw35Nfc_vdRB-rHLPlBaKXke-NuOn228HW9wQBlzIN2Ae8Ffq8RyLOtchbYMTpLYZZRl2j283dgySAFJoi80JIR2VtPhNRma9r38p3iw</id>
-    <title>Test stablecoin-backed cards</title>
-    <link href="https://www.google.com/goto?url=CAESdQHEIkXXHEo8jA4CZe-rokdqztEG-EbQAHUUvSmWARQT6i5U6M3cA4uw35Nfc_vdRB-rHLPlBaKXke-NuOn228HW9wQBlzIN2Ae8Ffq8RyLOtchbYMTpLYZZRl2j283dgySAFJoi80JIR2VtPhNRma9r38p3iw" />
-    <published>2026-11-06T15:43:24Z</published>
-    <updated>2026-11-06T15:43:24Z</updated>
-    <summary>Set up connected Stripe and Bridge sandboxes, fund test wallets on testnets, and simulate authorizations for stablecoin-backed cards.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdAHEIkXXcFK5_WMOK7-WfN06rdx1Ml_C-VdgHSRH-89ro-n0zIFadEBJd33-DbdZs7R_UO5eaHekwe105AfMREKuMrq1IYCt6jAD7MHoAbj8JE-JhDB2s_Z8WrbxhXnE5I_xWJohvCTx9llWvqkWxs2uTMKn</id>
-    <title>Manage your stablecoin-backed card program</title>
-    <link href="https://www.google.com/goto?url=CAESdAHEIkXXcFK5_WMOK7-WfN06rdx1Ml_C-VdgHSRH-89ro-n0zIFadEBJd33-DbdZs7R_UO5eaHekwe105AfMREKuMrq1IYCt6jAD7MHoAbj8JE-JhDB2s_Z8WrbxhXnE5I_xWJohvCTx9llWvqkWxs2uTMKn" />
-    <published>2026-11-06T15:43:24Z</published>
-    <updated>2026-11-06T15:43:24Z</updated>
-    <summary>Manage your stablecoin-backed card program by providing cardholder support, generating monthly statements, and handling complaints. Use the Stripe and Bridge ...</summary>
   </entry>
 </feed>

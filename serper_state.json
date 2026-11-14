@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 42410,
+  "credits_used": 42466,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-14T05:42:40Z",
+  "last_run": "2026-11-14T06:42:36Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 825
+  "runs": 826
  },
  "feeds": {
   "adp-help": {
@@ -53853,6 +53853,15 @@
     "summary": "Producing digital products lets entrepreneurs sell and distribute books, videos, online courses, music, templates, and other digital items online.",
     "title": "11 Best Digital Products to Sell Online in 2026"
    },
+   "shopify.com/blog/digital-virtual-showroom": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-14T06:42:36Z",
+    "link": "https://www.shopify.com/blog/digital-virtual-showroom",
+    "page": 4,
+    "summary": "Virtual showrooms let shoppers explore products in 3D or AR before buying. See how B2B and B2C brands use them to cut costs, speed launches, and boost ...",
+    "title": "What Is a Virtual Showroom? A Guide for B2B & B2C ..."
+   },
    "shopify.com/blog/digital-wallets": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -61245,6 +61254,15 @@
     "summary": "The layout of the embedded form. The 'expanded' layout is a single-step embedded form, while the 'compact' layout is a multi-step embedded form.",
     "title": "Embedded form methods"
    },
+   "docs.stripe.com/js/custom_checkout/get_contact_details_element?__=&__hsfp=1811981423&__hssc=45788219.1.1688417328121&__hstc=45788219.0b30c006033f700583a64b312f758497.1688417328121.1688417328121.1688417328121.1&__previewId=&__s=pipu7t2sfttzvnmqsxqp": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-14T06:42:36Z",
+    "link": "https://docs.stripe.com/js/custom_checkout/get_contact_details_element?__=&__hsfp=1811981423&__hssc=45788219.1.1688417328121&__hstc=45788219.0b30c006033f700583a64b312f758497.1688417328121.1688417328121.1688417328121.1&__previewId=&__s=pipu7t2sfttzvnmqsxqp",
+    "page": 2,
+    "summary": "Checkout \u00b7 Create a Payment Element \u00b7 Create a Billing Address Element \u00b7 Create a Shipping Address Element \u00b7 Create an Express Checkout Element \u00b7 Create a Currency ...",
+    "title": "Get the Contact Details Element"
+   },
    "docs.stripe.com/js/custom_checkout/get_form?%E0%A4%AA%E0%A4%B0=": {
     "baseline": false,
     "date_hint": "12 hours ago",
@@ -61612,6 +61630,15 @@
     "page": 1,
     "summary": "Stripe \u4ee5\u63d0\u73b0\u7684\u5f62\u5f0f\u5c06\u8d44\u91d1\u4ece\u60a8\u7684\u53ef\u7528\u4f59\u989d\u53d1\u9001\u5230\u60a8\u7684\u94f6\u884c\u8d26\u6237\uff1a. **\u9996\u6b21\u63d0\u73b0\uff1a**\u5728\u60a8\u6210\u529f\u63a5\u6536\u7b2c\u4e00\u7b14\u771f\u5b9e\u4ed8\u6b3e\u540e\uff0cStripe \u901a\u5e38\u4f1a\u5b89\u6392\u60a8\u7684\u521d\u59cb\u63d0\u73b0\u57287 \u2013 14 \u5929\u5185\u5b8c\u6210\uff0c ...",
     "title": "\u63a5\u6536\u63d0\u73b0\u6b3e\u9879"
+   },
+   "docs.stripe.com/radar/account-farming": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-14T06:42:36Z",
+    "link": "https://docs.stripe.com/radar/account-farming",
+    "page": 1,
+    "summary": "Account farming occurs when someone creates or operates multiple accounts in a coordinated way to violate your policies, such as repeatedly claiming ...",
+    "title": "Account farming prevention"
    },
    "docs.stripe.com/radar/account-security-events": {
     "baseline": false,

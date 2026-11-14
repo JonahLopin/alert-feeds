@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-13T20:43:13Z</updated>
+  <updated>2026-11-14T06:42:36Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/digital-virtual-showroom</id>
+    <title>What Is a Virtual Showroom? A Guide for B2B &amp; B2C ...</title>
+    <link href="https://www.shopify.com/blog/digital-virtual-showroom" />
+    <published>2026-11-14T06:42:36Z</published>
+    <updated>2026-11-14T06:42:36Z</updated>
+    <summary>Virtual showrooms let shoppers explore products in 3D or AR before buying. See how B2B and B2C brands use them to cut costs, speed launches, and boost ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/ghost-commerce</id>
     <title>Ghost Commerce: What It Is and How It Works (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-08T16:42:51Z</published>
     <updated>2026-11-08T16:42:51Z</updated>
     <summary>Automated dropshipping tools handle sourcing, fulfillment, and tracking so you can focus on growth. See the 15 best apps for Shopify stores in 2026.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/ecommerce-accounting</id>
-    <title>Ecommerce Accounting: A Beginner's Guide (2026)</title>
-    <link href="https://www.shopify.com/blog/ecommerce-accounting" />
-    <published>2026-11-08T15:42:36Z</published>
-    <updated>2026-11-08T15:42:36Z</updated>
-    <summary>Ecommerce accounting records and reviews the money moving through an online business. It tracks transactions like sales, payment processing fees, ...</summary>
   </entry>
 </feed>
