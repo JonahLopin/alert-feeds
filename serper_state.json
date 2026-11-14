@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 42992,
+  "credits_used": 43047,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-14T16:42:34Z",
+  "last_run": "2026-11-14T17:42:46Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 836
+  "runs": 837
  },
  "feeds": {
   "adp-help": {
@@ -56661,6 +56661,15 @@
     "page": 1,
     "summary": "You can find upcoming report deadlines by state in the Important dates section of the Dashboard page. Look up report due dates for each state in the Filing ...",
     "title": "Create and submit reports - Sovos Docs"
+   },
+   "docs.sovos.com/en/unclaimed-property/reportmyup/manage-properties": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-14T17:42:46Z",
+    "link": "https://docs.sovos.com/en/unclaimed-property/reportmyup/manage-properties",
+    "page": 1,
+    "summary": "Click Properties on the menu. Click Add properties, then select Add a property from the dropdown. Enter the property details. Enter data in your custom fields.",
+    "title": "Add properties | Product Documentation Documentation"
    },
    "docs.sovos.com/unclaimed-property/reportmyup/manage-properties/property-and-owner-details/property-codes-reportmyup": {
     "baseline": false,

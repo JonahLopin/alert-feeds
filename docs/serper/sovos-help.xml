@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-14T15:42:38Z</updated>
+  <updated>2026-11-14T17:42:46Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/unclaimed-property/reportmyup/manage-properties</id>
+    <title>Add properties | Product Documentation Documentation</title>
+    <link href="https://docs.sovos.com/en/unclaimed-property/reportmyup/manage-properties" />
+    <published>2026-11-14T17:42:46Z</published>
+    <updated>2026-11-14T17:42:46Z</updated>
+    <summary>Click Properties on the menu. Click Add properties, then select Add a property from the dropdown. Enter the property details. Enter data in your custom fields.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/unclaimed-property/reportmyup/manage-properties/property-and-owner-details/property-codes-reportmyup</id>
     <title>Property codes (ReportMyUP) - Sovos Docs</title>
@@ -795,13 +803,5 @@
     <published>2026-10-29T12:11:47Z</published>
     <updated>2026-10-29T12:11:47Z</updated>
     <summary>View whether your transmittals were accepted or need action directly in Sovos's Tax Information Reporting software.</summary>
-  </entry>
-  <entry>
-    <id>https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/transmit/transmit-to-the-irs/fix-xml-schema-validation-errors</id>
-    <title>Fix XML schema validation errors - Sovos Docs</title>
-    <link href="https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/transmit/transmit-to-the-irs/fix-xml-schema-validation-errors" />
-    <published>2026-10-29T05:08:16Z</published>
-    <updated>2026-10-29T05:08:16Z</updated>
-    <summary>Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.</summary>
   </entry>
 </feed>
