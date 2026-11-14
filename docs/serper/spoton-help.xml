@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-13T17:42:35Z</updated>
+  <updated>2026-11-14T13:42:32Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/4616290379</id>
+    <title>Reporting| SpotOn Restaurant</title>
+    <link href="https://help.spoton.com/space/SK/4616290379" />
+    <published>2026-11-14T13:42:32Z</published>
+    <updated>2026-11-14T13:42:32Z</updated>
+    <summary>SpotOn Restaurant POS provides a robust reporting system with over 70 pre-built reports and automation features. Go to https://restaurantreports.spoton.com/</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/2666627916/Paying+for+an+Order+with+an+eCard+Systems+Gift+Card+%7C+SpotOn+Restaurant</id>
     <title>Paying for an Order with an eCard Systems Gift Card</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T03:43:22Z</published>
     <updated>2026-10-31T03:43:22Z</updated>
     <summary>The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVrwikEIKPieZ49qmtCHKmp-QSWhk_FBRLkU9YX5kzRgfisrL1pDVPjCZ9RwzvzhELW6-3KRP4W2FvhESWz_Y0w1hLJKqr14UN-mi4OhL86Eknduyc0P76t4n0t-nKbAMhaQ</id>
-    <title>Tip Adjustments | SpotOn Express</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVrwikEIKPieZ49qmtCHKmp-QSWhk_FBRLkU9YX5kzRgfisrL1pDVPjCZ9RwzvzhELW6-3KRP4W2FvhESWz_Y0w1hLJKqr14UN-mi4OhL86Eknduyc0P76t4n0t-nKbAMhaQ" />
-    <published>2026-10-31T03:43:22Z</published>
-    <updated>2026-10-31T03:43:22Z</updated>
-    <summary>Adjust tips after payment for paid orders in receipt-based tipping workflows. You can adjust the tip within 10 minutes of the initial change. SpotOn Customer ...</summary>
   </entry>
 </feed>
