@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 42674,
+  "credits_used": 42727,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-14T10:42:50Z",
+  "last_run": "2026-11-14T11:42:56Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 830
+  "runs": 831
  },
  "feeds": {
   "adp-help": {
@@ -15579,6 +15579,15 @@
     "page": 1,
     "summary": "Kagan represents clients in complex trademark, false advertising and commercial disputes, helping companies protect their brands and navigate matters",
     "title": "Polsinelli Snares Trademark Litigation Lawyer Kagan in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/posner-fearsome-on-the-bench-showed-us-the-fun-in-inquiry": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-14T11:42:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/posner-fearsome-on-the-bench-showed-us-the-fun-in-inquiry",
+    "page": 3,
+    "summary": "Judge Richard A. Posner, who died Nov. 10, was the most cited judge in history, famously iconoclastic and prolific, and could be both \u201cthe most delightful ...",
+    "title": "Posner, Fearsome on the Bench, Showed Us the 'Fun' in ..."
    },
    "news.bloomberglaw.com/business-and-practice/powerschool-fails-to-toss-claim-in-suit-over-massive-data-breach": {
     "baseline": false,
@@ -54473,6 +54482,15 @@
     "summary": "Learn how to ship clothes in three easy steps and compare USPS and UPS rates by weight so apparel shipping costs stay predictable.",
     "title": "How To Ship Clothes: 3 Steps + What It Costs (2026)"
    },
+   "shopify.com/blog/how-to-start-a-blog": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-14T11:42:56Z",
+    "link": "https://www.shopify.com/blog/how-to-start-a-blog",
+    "page": 4,
+    "summary": "Learn how to start a blog, step by step. Pick a niche, set up your platform and domain, write your first post, and start making money.",
+    "title": "How To Start a Blog in 2027 for Beginners"
+   },
    "shopify.com/blog/how-to-start-a-business-in-oregon": {
     "baseline": false,
     "date_hint": "1 day ago",
@@ -61533,6 +61551,15 @@
     "summary": "Use as op\u00e7\u00f5es sem c\u00f3digo da Stripe ou os aplicativos dos nossos parceiros para come\u00e7ar a fazer mais com sua conta Stripe, sem precisar de c\u00f3digo.",
     "title": "Aceitar um pagamento | Documenta\u00e7\u00e3o da Stripe"
    },
+   "docs.stripe.com/payments/checkout/custom-payment-methods": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-14T11:42:56Z",
+    "link": "https://docs.stripe.com/payments/checkout/custom-payment-methods",
+    "page": 1,
+    "summary": "Learn how to add custom payment methods to Elements with the Checkout Sessions API. Use the Payment Element with the Checkout Sessions API to display custom ...",
+    "title": "Add custom payment methods with Elements"
+   },
    "docs.stripe.com/payments/checkout/custom-shipping-options?ui=elements&locale=fr-FR": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -61551,6 +61578,15 @@
     "summary": "Para Elements con Checkout Sessions, puedes personalizar las marcas de tarjetas y los tipos de financiaci\u00f3n que quieres restringir cuando creas una sesi\u00f3n ...",
     "title": "Personalizar marcas de tarjetas | Documentaci\u00f3n de Stripe"
    },
+   "docs.stripe.com/payments/checkout/dynamically-update-amounts": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-14T11:42:56Z",
+    "link": "https://docs.stripe.com/payments/checkout/dynamically-update-amounts",
+    "page": 1,
+    "summary": "Update the amount of a Checkout Session in your Elements integration when customers change what they're buying or how much they pay.",
+    "title": "Dynamically update payment amounts with Elements"
+   },
    "docs.stripe.com/payments/checkout/express-checkout-element": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -61559,6 +61595,24 @@
     "page": 1,
     "summary": "The Express Checkout Element is an integration for accepting payments through one-click payment method buttons. PayPal, Klarna, and Amazon Pay.",
     "title": "Accept a payment with the Express Checkout Element"
+   },
+   "docs.stripe.com/payments/checkout/express-checkout-element/migration": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-14T11:42:56Z",
+    "link": "https://docs.stripe.com/payments/checkout/express-checkout-element/migration",
+    "page": 1,
+    "summary": "Migrate your existing payment request button element integration to the Express Checkout Element and the Checkout Sessions API.",
+    "title": "Migrate to the Express Checkout Element with Checkout"
+   },
+   "docs.stripe.com/payments/checkout/save-customer-payment-methods": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-14T11:42:56Z",
+    "link": "https://docs.stripe.com/payments/checkout/save-customer-payment-methods",
+    "page": 1,
+    "summary": "Customers who have both a saved Link payment method and a saved business payment method see their business saved payment method displayed after the page loads.",
+    "title": "Save and retrieve customer payment methods"
    },
    "docs.stripe.com/payments/checkout/tax-id-element": {
     "baseline": false,

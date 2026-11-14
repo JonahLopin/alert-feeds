@@ -2,8 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-14T10:42:50Z</updated>
+  <updated>2026-11-14T11:42:56Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/payments/checkout/save-customer-payment-methods</id>
+    <title>Save and retrieve customer payment methods</title>
+    <link href="https://docs.stripe.com/payments/checkout/save-customer-payment-methods" />
+    <published>2026-11-14T11:42:56Z</published>
+    <updated>2026-11-14T11:42:56Z</updated>
+    <summary>Customers who have both a saved Link payment method and a saved business payment method see their business saved payment method displayed after the page loads.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/payments/checkout/express-checkout-element/migration</id>
+    <title>Migrate to the Express Checkout Element with Checkout</title>
+    <link href="https://docs.stripe.com/payments/checkout/express-checkout-element/migration" />
+    <published>2026-11-14T11:42:56Z</published>
+    <updated>2026-11-14T11:42:56Z</updated>
+    <summary>Migrate your existing payment request button element integration to the Express Checkout Element and the Checkout Sessions API.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/payments/checkout/dynamically-update-amounts</id>
+    <title>Dynamically update payment amounts with Elements</title>
+    <link href="https://docs.stripe.com/payments/checkout/dynamically-update-amounts" />
+    <published>2026-11-14T11:42:56Z</published>
+    <updated>2026-11-14T11:42:56Z</updated>
+    <summary>Update the amount of a Checkout Session in your Elements integration when customers change what they're buying or how much they pay.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/payments/checkout/custom-payment-methods</id>
+    <title>Add custom payment methods with Elements</title>
+    <link href="https://docs.stripe.com/payments/checkout/custom-payment-methods" />
+    <published>2026-11-14T11:42:56Z</published>
+    <updated>2026-11-14T11:42:56Z</updated>
+    <summary>Learn how to add custom payment methods to Elements with the Checkout Sessions API. Use the Payment Element with the Checkout Sessions API to display custom ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/projects/mcp</id>
     <title>Provision and deploy apps with AI agents</title>
@@ -771,37 +803,5 @@
     <published>2026-11-06T15:43:24Z</published>
     <updated>2026-11-06T15:43:24Z</updated>
     <summary>Learn how to migrate from using the Charges, Tokens, and Cards or Sources APIs to using the Payment Methods and Payment Intents APIs.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEShwEBxCJF14mTe2pNLjNQIe3EV1sNUTXxXczTfD1-5n2cQO5hjdfxJH8xSgpw3hDTP8AiVyDOLEy_AM-vuDU59BLKN90ikg08jIPcFq-4ObUsmBEErXlBBUP5IEJjyL6u4DZ8B066h3lA7aF7qHbBBPM9tf4f9ms_4tjgF6ARA39WZ3zhCTJSv0M</id>
-    <title>Zukünftige GoPay-Zahlungen einrichten</title>
-    <link href="https://www.google.com/goto?url=CAEShwEBxCJF14mTe2pNLjNQIe3EV1sNUTXxXczTfD1-5n2cQO5hjdfxJH8xSgpw3hDTP8AiVyDOLEy_AM-vuDU59BLKN90ikg08jIPcFq-4ObUsmBEErXlBBUP5IEJjyL6u4DZ8B066h3lA7aF7qHbBBPM9tf4f9ms_4tjgF6ARA39WZ3zhCTJSv0M" />
-    <published>2026-11-06T15:43:24Z</published>
-    <updated>2026-11-06T15:43:24Z</updated>
-    <summary>Sie können eine GoPay-Verknüpfung einrichten, um zukünftige wiederkehrende Zahlungen einzuziehen, ohne dass eine erneute Kundenautorisierung erforderlich ist.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEShgEBxCJF10CX4-CwBnKMn6RPMBKV-sZlJYUs3aUxLB8xIYkAe-tHfMsX2ewtISh8hYXuyqVWwcL7x5hV_vgBGhP5GJgeSQb3yCeGwODHs_icym7Mi1dptzGY48cj5_tQUeoxWNFUJayHy76iU28wtGGVgpmLsK-yK6NKh_nInv9SfteQV_x7Zw</id>
-    <title>Card contract architecture and security</title>
-    <link href="https://www.google.com/goto?url=CAEShgEBxCJF10CX4-CwBnKMn6RPMBKV-sZlJYUs3aUxLB8xIYkAe-tHfMsX2ewtISh8hYXuyqVWwcL7x5hV_vgBGhP5GJgeSQb3yCeGwODHs_icym7Mi1dptzGY48cj5_tQUeoxWNFUJayHy76iU28wtGGVgpmLsK-yK6NKh_nInv9SfteQV_x7Zw" />
-    <published>2026-11-06T15:43:24Z</published>
-    <updated>2026-11-06T15:43:24Z</updated>
-    <summary>Learn how Stripe card contracts pull funds from non-custodial wallets and keep customer funds secure. Ask about this page.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESgwEBxCJF17Jkyer27glU6pWjdOzayPY7fmtZYhZGzWYQUw2I7kwYseZxfwSUs0uMACkfuHPBYSPXsIwSrMX6EZsVmDyCNX2l9wSCOPnTaK8U0SPQb6XaqKPayN2czQ-3A17r_TPxkNIVLW8igRh0yCPm4KMbxPhG6vKWxQ8lakqvHVLfuQ</id>
-    <title>Spending restrictions and limits for stablecoin-backed cards</title>
-    <link href="https://www.google.com/goto?url=CAESgwEBxCJF17Jkyer27glU6pWjdOzayPY7fmtZYhZGzWYQUw2I7kwYseZxfwSUs0uMACkfuHPBYSPXsIwSrMX6EZsVmDyCNX2l9wSCOPnTaK8U0SPQb6XaqKPayN2czQ-3A17r_TPxkNIVLW8igRh0yCPm4KMbxPhG6vKWxQ8lakqvHVLfuQ" />
-    <published>2026-11-06T15:43:24Z</published>
-    <updated>2026-11-06T15:43:24Z</updated>
-    <summary>Review the blocked and limited merchant categories, default spending limits, and velocity controls that apply to every stablecoin-backed card program.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESfwHEIkXXMQOKH7LAlZ7It-LyYcgeFXJAr6aOMgRh87LgaSVWXkSVpFnSm9J3pA5HtKJruhXdoPov8i0-2Ht39kODc4X2KK7811Qeh_96fvn1V5iGtyfcoXI-FIXUgdvnl4ZokLosj-pMwe3meWYSRu9F4wTJBRFo43l3G8ysnKY</id>
-    <title>How connected accounts submit W-8 and W-9 forms</title>
-    <link href="https://www.google.com/goto?url=CAESfwHEIkXXMQOKH7LAlZ7It-LyYcgeFXJAr6aOMgRh87LgaSVWXkSVpFnSm9J3pA5HtKJruhXdoPov8i0-2Ht39kODc4X2KK7811Qeh_96fvn1V5iGtyfcoXI-FIXUgdvnl4ZokLosj-pMwe3meWYSRu9F4wTJBRFo43l3G8ysnKY" />
-    <published>2026-11-06T15:43:24Z</published>
-    <updated>2026-11-06T15:43:24Z</updated>
-    <summary>When you request W-8 or W-9 forms from your connected accounts, be prepared to help them submit the correct form successfully.</summary>
   </entry>
 </feed>
