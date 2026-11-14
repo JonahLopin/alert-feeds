@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 42832,
+  "credits_used": 42884,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-14T13:42:32Z",
+  "last_run": "2026-11-14T14:42:51Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 833
+  "runs": 834
  },
  "feeds": {
   "adp-help": {
@@ -54042,6 +54042,15 @@
     "summary": "Compare EBITDA and net income with formulas, a worked retail example, and industry margin benchmarks to see when to use each metric.",
     "title": "EBITDA vs. Net Income: Key Differences (2026)"
    },
+   "shopify.com/blog/eco-friendly-products": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-14T14:42:51Z",
+    "link": "https://www.shopify.com/blog/eco-friendly-products",
+    "page": 3,
+    "summary": "Discover the best eco-friendly products to sell online, plus how to source, certify, and market sustainable goods. Start your eco business today.",
+    "title": "22 Eco-Friendly Products to Sell Online (2027)"
+   },
    "shopify.com/blog/ecommerce-accounting": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -61668,6 +61677,15 @@
     "summary": "Para Elements con Checkout Sessions, puedes personalizar las marcas de tarjetas y los tipos de financiaci\u00f3n que quieres restringir cuando creas una sesi\u00f3n ...",
     "title": "Personalizar marcas de tarjetas | Documentaci\u00f3n de Stripe"
    },
+   "docs.stripe.com/payments/checkout/customization/card-brands?ui=elements": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-14T14:42:51Z",
+    "link": "https://docs.stripe.com/payments/checkout/customization/card-brands?ui=elements",
+    "page": 1,
+    "summary": "For Elements with Checkout Sessions, you can customize the card brands and funding types you want to restrict when you create a Checkout Session.",
+    "title": "Customize card brands"
+   },
    "docs.stripe.com/payments/checkout/dynamically-update-amounts": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -62079,6 +62097,15 @@
     "page": 1,
     "summary": "Use the Tax integration configuration API to enable automatic tax on subscriptions and understand how later updates affect tax collection.",
     "title": "Enable tax by default for subscriptions"
+   },
+   "docs.stripe.com/tax/supported-countries/africa/collect-tax?tax-jurisdiction-africa=mauritius": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-14T14:42:51Z",
+    "link": "https://docs.stripe.com/tax/supported-countries/africa/collect-tax?tax-jurisdiction-africa=mauritius",
+    "page": 2,
+    "summary": "Use Stripe Tax to calculate, collect, and report tax in Africa.",
+    "title": "Collect tax in Africa"
    },
    "docs.stripe.com/tax/third-party-apps/agentic-commerce?locale=ja-JP": {
     "baseline": false,
@@ -76543,6 +76570,15 @@
     "page": 2,
     "summary": "Introducing UpToDate Expert AI, evidence-based GenAI in clinical decision support. Speed, evidence, and trust\u2014the AI tool you've been waiting for.",
     "title": "Wolters Kluwer adds UpToDate Lexidrug to GenAI ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-advances-ai-and-cloud-software-for-achieving-faster-organic-growth": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-11-14T14:42:51Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-advances-ai-and-cloud-software-for-achieving-faster-organic-growth",
+    "page": 2,
+    "summary": "Wolters Kluwer announces it has signed an agreement to sell its German consumer tax business for \u20ac40 million. Read More ...",
+    "title": "Nine Months Trading Update \u2013 CFO interview"
    },
    "wolterskluwer.com/en/news/wolters-kluwer-ai-school-management-germany": {
     "baseline": false,

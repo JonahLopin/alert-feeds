@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-14T11:42:56Z</updated>
+  <updated>2026-11-14T14:42:51Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/tax/supported-countries/africa/collect-tax?tax-jurisdiction-africa=mauritius</id>
+    <title>Collect tax in Africa</title>
+    <link href="https://docs.stripe.com/tax/supported-countries/africa/collect-tax?tax-jurisdiction-africa=mauritius" />
+    <published>2026-11-14T14:42:51Z</published>
+    <updated>2026-11-14T14:42:51Z</updated>
+    <summary>Use Stripe Tax to calculate, collect, and report tax in Africa.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/payments/checkout/customization/card-brands?ui=elements</id>
+    <title>Customize card brands</title>
+    <link href="https://docs.stripe.com/payments/checkout/customization/card-brands?ui=elements" />
+    <published>2026-11-14T14:42:51Z</published>
+    <updated>2026-11-14T14:42:51Z</updated>
+    <summary>For Elements with Checkout Sessions, you can customize the card brands and funding types you want to restrict when you create a Checkout Session.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payments/checkout/save-customer-payment-methods</id>
     <title>Save and retrieve customer payment methods</title>
@@ -787,21 +803,5 @@
     <published>2026-11-06T16:43:02Z</published>
     <updated>2026-11-06T16:43:02Z</updated>
     <summary>Manage your stablecoin-backed card program by providing cardholder support, generating monthly statements, and handling complaints. Use the Stripe and Bridge ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESjwEBxCJF154Y6Eim1NdN2RHrM2c4-WIjWYmK1XJQjZ32Cb2UY5ewcDc8w3KqLwq36jmLnB41kMkQukLgxytRL4nn5qWMCQ2l-HrQ-GK5EXGwWTikTNDRBfvA6WaUucHq0xc03RzwNGSldGENiFg_2CgWFN1Njc-lPemfBm_KMkYhNA0A-9F9in6DSgp6xelP7Q</id>
-    <title>Recommandations d'assistance et modèles de FAQ</title>
-    <link href="https://www.google.com/goto?url=CAESjwEBxCJF154Y6Eim1NdN2RHrM2c4-WIjWYmK1XJQjZ32Cb2UY5ewcDc8w3KqLwq36jmLnB41kMkQukLgxytRL4nn5qWMCQ2l-HrQ-GK5EXGwWTikTNDRBfvA6WaUucHq0xc03RzwNGSldGENiFg_2CgWFN1Njc-lPemfBm_KMkYhNA0A-9F9in6DSgp6xelP7Q" />
-    <published>2026-11-06T15:43:24Z</published>
-    <updated>2026-11-06T15:43:24Z</updated>
-    <summary>Modèles de FAQ destinés aux plateformes utilisant Stripe Express pour la confirmation préalable à la déclaration et l'envoi électronique des formulaires fiscaux ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESjwEBxCJF1-x8G4FFx0n79pURxfxFXkKoY5On0wFeW0Rur18joXCdTPQohmASZ6KJn6_JkC_WPBA4DCOItYj9YWHk3UjAiwZSbHIgH7vLpGgYPjF3ljV5y3JmdfXPkRz0MqyZeNxx5ajuAIKAnCxag1XDivuA5Xccvxs1xM_EqYhZUQNrfHOqL4FZF4qVz8Knxw</id>
-    <title>Migrate a card payments integration from the legacy ...</title>
-    <link href="https://www.google.com/goto?url=CAESjwEBxCJF1-x8G4FFx0n79pURxfxFXkKoY5On0wFeW0Rur18joXCdTPQohmASZ6KJn6_JkC_WPBA4DCOItYj9YWHk3UjAiwZSbHIgH7vLpGgYPjF3ljV5y3JmdfXPkRz0MqyZeNxx5ajuAIKAnCxag1XDivuA5Xccvxs1xM_EqYhZUQNrfHOqL4FZF4qVz8Knxw" />
-    <published>2026-11-06T15:43:24Z</published>
-    <updated>2026-11-06T15:43:24Z</updated>
-    <summary>Learn how to migrate from using the Charges, Tokens, and Cards or Sources APIs to using the Payment Methods and Payment Intents APIs.</summary>
   </entry>
 </feed>
