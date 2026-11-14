@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-13T23:43:06Z</updated>
+  <updated>2026-11-14T02:42:31Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/netchoice-sues-new-york-over-social-media-warning-label-law</id>
+    <title>NetChoice Sues New York Over Social Media Warning ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/netchoice-sues-new-york-over-social-media-warning-label-law" />
+    <published>2026-11-14T02:42:31Z</published>
+    <updated>2026-11-14T02:42:31Z</updated>
+    <summary>The lawsuit filed Friday in Manhattan federal court alleges New York's SB 4505 violates the First Amendment by forcing companies like Meta Platforms Inc. , ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/nvidia-says-speculation-on-new-ceo-candidates-is-premature</id>
     <title>Nvidia Says Speculation on New CEO Candidates Is ' ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-11T00:41:59Z</published>
     <updated>2026-11-11T00:41:59Z</updated>
     <summary>Texas Supreme Court Justice Debra Lehrmann (R) said she hasn't ruled out retiring before her term expires, following a blue wave in the state that cut the ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/judge-hauls-prosecutors-to-stand-after-broadview-six-implosion</id>
-    <title>Judge Hauls Prosecutors to Stand After 'Broadview Six' ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/judge-hauls-prosecutors-to-stand-after-broadview-six-implosion" />
-    <published>2026-11-11T00:41:59Z</published>
-    <updated>2026-11-11T00:41:59Z</updated>
-    <summary>Chicago's top federal prosecutor is set to testify publicly as early as next week in a judge's probe of whether prosecutors deceived her about a case ...</summary>
   </entry>
 </feed>

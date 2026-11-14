@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 42187,
+  "credits_used": 42243,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-14T01:42:33Z",
+  "last_run": "2026-11-14T02:42:31Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 821
+  "runs": 822
  },
  "feeds": {
   "adp-help": {
@@ -14913,6 +14913,15 @@
     "page": 2,
     "summary": "His practice encompasses venture capital equity and debt financings, mergers and acquisitions, fintech, securities regulation, and general corporate law, the ...",
     "title": "Nelson Mullins Snares Venture Capital Lawyer Edwards in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/netchoice-sues-new-york-over-social-media-warning-label-law": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-14T02:42:31Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/netchoice-sues-new-york-over-social-media-warning-label-law",
+    "page": 3,
+    "summary": "The lawsuit filed Friday in Manhattan federal court alleges New York's SB 4505 violates the First Amendment by forcing companies like Meta Platforms Inc. , ...",
+    "title": "NetChoice Sues New York Over Social Media Warning ..."
    },
    "news.bloomberglaw.com/business-and-practice/netflix-film-chief-dan-lin-is-latest-executive-departure-1": {
     "baseline": false,
@@ -35154,6 +35163,15 @@
     "page": 1,
     "summary": "Use this feature to monitor real-time data, identify trends, and track progress against goals to make informed business decisions.",
     "title": "View key performance indicators for your business - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/sales-orders/create-manage-sales-orders-quickbooks-online/L1K2AQ1Lx_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-14T02:42:31Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/sales-orders/create-manage-sales-orders-quickbooks-online/L1K2AQ1Lx_US_en_US",
+    "page": 3,
+    "summary": "Use sales orders to track products customers want to buy before you send an invoice. A sales order is a non-posting transaction, so it reserves items from ...",
+    "title": "Create and manage sales orders - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/sales-orders/learn-manufacturing-orders-assemblies/L7ffspckB_US_en_US": {
     "baseline": false,

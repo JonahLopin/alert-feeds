@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-11-14T01:42:33Z</updated>
+  <updated>2026-11-14T02:42:31Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/sales-orders/create-manage-sales-orders-quickbooks-online/L1K2AQ1Lx_US_en_US</id>
+    <title>Create and manage sales orders - QuickBooks - Intuit</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/sales-orders/create-manage-sales-orders-quickbooks-online/L1K2AQ1Lx_US_en_US" />
+    <published>2026-11-14T02:42:31Z</published>
+    <updated>2026-11-14T02:42:31Z</updated>
+    <summary>Use sales orders to track products customers want to buy before you send an invoice. A sales order is a non-posting transaction, so it reserves items from ...</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/set-inventory-lists/set-products-bill-materials/L3Kao5E9m_US_en_US</id>
     <title>Set up your product's bill of materials - QuickBooks</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T19:42:36Z</published>
     <updated>2026-11-06T19:42:36Z</updated>
     <summary>Faster search, simpler setup, and better visibility Find accounts instantly by. You can now right-click to duplicate accounts, customers, vendors, and jobs.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESwwEBxCJF19V_D5sLYKYZs_BTefYXThzjx_4eN04g52Ss_bfdPTE24CYB11s4GGOiygaobl-bPjLyv8yRiWC_se6vSG62DsxVcQEflZI-dXjqIFnBohmfeDwoSvsmBGlzGiRaBQL4Ll6WVh8DkwIoAKKw7oO7S-2lkbuZOuJmxsDu-oFoPg7GHdhQ2yq3iS_ujmzswDuukqB9r7wlndKs9boNvmTPkPctpE6FQbYF27R1jjEhTcHr2x3pa08sqkN_f1E65A0</id>
-    <title>Get started with QuickBooks Online Payroll - Intuit</title>
-    <link href="https://www.google.com/goto?url=CAESwwEBxCJF19V_D5sLYKYZs_BTefYXThzjx_4eN04g52Ss_bfdPTE24CYB11s4GGOiygaobl-bPjLyv8yRiWC_se6vSG62DsxVcQEflZI-dXjqIFnBohmfeDwoSvsmBGlzGiRaBQL4Ll6WVh8DkwIoAKKw7oO7S-2lkbuZOuJmxsDu-oFoPg7GHdhQ2yq3iS_ujmzswDuukqB9r7wlndKs9boNvmTPkPctpE6FQbYF27R1jjEhTcHr2x3pa08sqkN_f1E65A0" />
-    <published>2026-11-06T19:42:36Z</published>
-    <updated>2026-11-06T19:42:36Z</updated>
-    <summary>Welcome to QuickBooks Online Payroll. Here, you can pay your employees and have QuickBooks automatically pay and file your payroll taxes on your behalf.</summary>
   </entry>
 </feed>
