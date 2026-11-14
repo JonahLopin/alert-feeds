@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 43102,
+  "credits_used": 43157,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-14T18:42:59Z",
+  "last_run": "2026-11-14T19:42:44Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 838
+  "runs": 839
  },
  "feeds": {
   "adp-help": {
@@ -35740,6 +35740,15 @@
     "page": 1,
     "summary": "5 Trends Shaping The Running Event (And How Retailers Are Preparing) \u00b7 1. The shoe wall is getting more strategic \u00b7 2. Accessories and apparel are back in focus.",
     "title": "5 Trends Shaping The Running Event (And How Retailers ..."
+   },
+   "lightspeedhq.com/blog/how-to-buy-wholesale": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-14T19:42:44Z",
+    "link": "https://www.lightspeedhq.com/blog/how-to-buy-wholesale/",
+    "page": 1,
+    "summary": "The general process for buying bulk items for wholesale is: Find a wholesaler. Check out your local commerce center, wholesaler sites online and B2B ...",
+    "title": "Everything you Need to Know About how to Buy Wholesale"
    },
    "lightspeedhq.com/blog/lightspeeds-champ-libre-event-at-the-heart-of-quebecs-culinary-future": {
     "baseline": false,
