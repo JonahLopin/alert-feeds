@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 42938,
+  "credits_used": 42992,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-14T15:42:38Z",
+  "last_run": "2026-11-14T16:42:34Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 835
+  "runs": 836
  },
  "feeds": {
   "adp-help": {
@@ -16441,6 +16441,15 @@
     "page": 1,
     "summary": "Tech Earnings Loom Large for Funds Packed Into Dispersion Trade Oct. 11, 2026, tech company earnings collide with a Federal Reserve meeting and US midterm ...",
     "title": "Tech Earnings Loom Large for Funds Packed Into ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/tech-giants-face-more-grid-cost-pressure-on-democratic-sweep": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-14T16:42:34Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/tech-giants-face-more-grid-cost-pressure-on-democratic-sweep",
+    "page": 2,
+    "summary": "Tech giants chasing the infinite promise of AI are finding themselves increasingly on the hook for something far earthier \u2014 the electrical grid.",
+    "title": "Tech Giants Face More Grid Cost Pressure on Democratic ..."
    },
    "news.bloomberglaw.com/business-and-practice/ted-cruz-probes-glass-lewis-iss-after-they-opposed-texas-moves": {
     "baseline": false,
