@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 44427,
+  "credits_used": 44480,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-15T19:42:39Z",
+  "last_run": "2026-11-15T20:42:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 863
+  "runs": 864
  },
  "feeds": {
   "adp-help": {
@@ -16002,6 +16002,15 @@
     "page": 1,
     "summary": "A key Senate Democrat is defending his authority to probe White House dealings and accused the administration of intimidation after one of President Donald Trump\u2019s US attorneys threatened him with a Justice Department investigation.",
     "title": "Senate Democrat Defends Oversight After US Attorney Probe Threat"
+   },
+   "news.bloomberglaw.com/business-and-practice/senate-republicans-seek-lutnick-testimony-on-nvidia-enforcement": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-15T20:42:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/senate-republicans-seek-lutnick-testimony-on-nvidia-enforcement",
+    "page": 1,
+    "summary": "Republicans are pressing US Commerce Secretary Howard Lutnick to testify before Congress over allegations that his department failed to prevent Nvidia Corp.",
+    "title": "Senate Republicans Seek Lutnick Testimony on Nvidia ..."
    },
    "news.bloomberglaw.com/business-and-practice/seventh-circuit-probes-supervalu-whistleblowers-penalties-ask": {
     "baseline": false,
@@ -33453,6 +33462,15 @@
     "page": 3,
     "summary": "Here's how to add and manage custom roles in QuickBooks Online \u2014 the right way, the first time. A quick, simple walkthrough.",
     "title": "Add and manage custom roles in QuickBooks Online ... - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/access-permissions/merge-duplicate-clients-quickbooks-online/L5y9TwG5m_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-15T20:42:53Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/access-permissions/merge-duplicate-clients-quickbooks-online/L5y9TwG5m_US_en_US",
+    "page": 2,
+    "summary": "Learn how to combine duplicate clients on your Intuit Accountant Suite client list. This tool is only available for accountant users.",
+    "title": "Merge duplicate clients - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/access-permissions/user-roles-access-rights-quickbooks-online/L66POfRrI_US_en_US": {
     "baseline": true,
