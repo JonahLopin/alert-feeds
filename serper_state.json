@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 44218,
+  "credits_used": 44270,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-15T15:42:38Z",
+  "last_run": "2026-11-15T16:42:50Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 859
+  "runs": 860
  },
  "feeds": {
   "adp-help": {
@@ -25719,6 +25719,15 @@
     "page": 1,
     "summary": "A digital invoice is an electronic document that replaces the traditional paper invoice, a manual invoice.",
     "title": "Digital Invoicing in Venezuela (SENIAT)"
+   },
+   "edicomgroup.com/blog/ireland-electronic-invoicing-vat-reporting": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-15T16:42:50Z",
+    "link": "https://edicomgroup.com/blog/ireland-electronic-invoicing-vat-reporting",
+    "page": 1,
+    "summary": "Ireland will introduce electronic invoicing and real-time VAT reporting in three phases: Phase 1 November 2028",
+    "title": "Ireland Prepares for Electronic Invoicing and VAT ..."
    },
    "edicomgroup.com/blog/united-kingdom-electronic-invoicing-b2b-b2g": {
     "baseline": false,
