@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 43529,
+  "credits_used": 43582,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-15T02:42:46Z",
+  "last_run": "2026-11-15T03:42:39Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 846
+  "runs": 847
  },
  "feeds": {
   "adp-help": {
@@ -13645,6 +13645,15 @@
     "page": 2,
     "summary": "A Washington federal judge pressed the Justice Department to explain claims that President Donald Trump's proposed triumphal arch in the capital would ...",
     "title": "Judge Appears Skeptical of Triumphal Arch's National ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/judge-blocks-plans-to-close-dc-golf-course-targeted-by-trump": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-15T03:42:39Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/judge-blocks-plans-to-close-dc-golf-course-targeted-by-trump",
+    "page": 1,
+    "summary": "The Trump administration can't close a Washington community golf course as planned, a federal judge held in the latest setback to President Donald Trump's ...",
+    "title": "Judge Blocks Plans to Close DC Golf Course Targeted by ..."
    },
    "news.bloomberglaw.com/business-and-practice/judge-charles-breyer-death-threat-trial-offers-look-at-security": {
     "baseline": false,
@@ -61757,6 +61766,15 @@
     "page": 5,
     "summary": "Use as op\u00e7\u00f5es sem c\u00f3digo da Stripe ou os aplicativos dos nossos parceiros para come\u00e7ar a fazer mais com sua conta Stripe, sem precisar de c\u00f3digo.",
     "title": "Aceitar um pagamento | Documenta\u00e7\u00e3o da Stripe"
+   },
+   "docs.stripe.com/payments/advanced/tax?api-integration=checkout&__cf_chl_captcha_tk__=pmd_xWp7ZY2ij_8dkek_sxYFkalc5H8iDipDsrY0VXwc3TQ-1632481623-0-gqNtZGzNAxCjcnBszQ0l": {
+    "baseline": false,
+    "date_hint": "15 hours ago",
+    "first_seen": "2026-11-15T03:42:39Z",
+    "link": "https://docs.stripe.com/payments/advanced/tax?api-integration=checkout&__cf_chl_captcha_tk__=pmd_xWp7ZY2ij_8dkek_sxYFkalc5H8iDipDsrY0VXwc3TQ-1632481623-0-gqNtZGzNAxCjcnBszQ0l",
+    "page": 2,
+    "summary": "Stripe Tax only collects tax in jurisdictions where you have an active registration. Create a registration for each country or state where you're required ...",
+    "title": "Collect taxes"
    },
    "docs.stripe.com/payments/checkout/custom-payment-methods": {
     "baseline": false,

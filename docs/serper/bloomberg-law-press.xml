@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-15T02:42:46Z</updated>
+  <updated>2026-11-15T03:42:39Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/judge-blocks-plans-to-close-dc-golf-course-targeted-by-trump</id>
+    <title>Judge Blocks Plans to Close DC Golf Course Targeted by ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/judge-blocks-plans-to-close-dc-golf-course-targeted-by-trump" />
+    <published>2026-11-15T03:42:39Z</published>
+    <updated>2026-11-15T03:42:39Z</updated>
+    <summary>The Trump administration can't close a Washington community golf course as planned, a federal judge held in the latest setback to President Donald Trump's ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/trumps-white-house-lawyer-on-subpoena-compliance-it-depends</id>
     <title>Trump's White House Lawyer on Subpoena Compliance: 'It Depends'</title>
@@ -795,13 +803,5 @@
     <published>2026-11-11T01:42:44Z</published>
     <updated>2026-11-11T01:42:44Z</updated>
     <summary>A federal appeals panel rejected any contention that the class attorneys committed fraud on the trial judge to persuade her to approve the settlement.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/what-to-know-about-the-anthropic-ipo-explainer</id>
-    <title>What to Know About the Anthropic IPO: Explainer</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/what-to-know-about-the-anthropic-ipo-explainer" />
-    <published>2026-11-11T00:41:59Z</published>
-    <updated>2026-11-11T00:41:59Z</updated>
-    <summary>Anthropic is aiming to raise as much as $90.4 billion through its IPO and a private share sale, a target that would value the company at roughly $1.4 trillion.</summary>
   </entry>
 </feed>

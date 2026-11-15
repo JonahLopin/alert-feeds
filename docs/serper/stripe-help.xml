@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-14T14:42:51Z</updated>
+  <updated>2026-11-15T03:42:39Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/payments/advanced/tax?api-integration=checkout&amp;__cf_chl_captcha_tk__=pmd_xWp7ZY2ij_8dkek_sxYFkalc5H8iDipDsrY0VXwc3TQ-1632481623-0-gqNtZGzNAxCjcnBszQ0l</id>
+    <title>Collect taxes</title>
+    <link href="https://docs.stripe.com/payments/advanced/tax?api-integration=checkout&amp;__cf_chl_captcha_tk__=pmd_xWp7ZY2ij_8dkek_sxYFkalc5H8iDipDsrY0VXwc3TQ-1632481623-0-gqNtZGzNAxCjcnBszQ0l" />
+    <published>2026-11-15T03:42:39Z</published>
+    <updated>2026-11-15T03:42:39Z</updated>
+    <summary>Stripe Tax only collects tax in jurisdictions where you have an active registration. Create a registration for each country or state where you're required ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/tax/supported-countries/africa/collect-tax?tax-jurisdiction-africa=mauritius</id>
     <title>Collect tax in Africa</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T16:43:02Z</published>
     <updated>2026-11-06T16:43:02Z</updated>
     <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdAHEIkXXAcI4yuGRGd8RMZ81cgpsUFElHcCwjm61DqeY5NMDmdYNwFlq2gtBzbfrhVMY_BpYsBogsxPMDEfqHkZzBQyCQYWyUQ8MIJ-2S-7PrxBRB2qKm2peFBESGvIu5esTUjES6TiRUVLjtbIGRWmKkYC9</id>
-    <title>Manage your stablecoin-backed card program</title>
-    <link href="https://www.google.com/goto?url=CAESdAHEIkXXAcI4yuGRGd8RMZ81cgpsUFElHcCwjm61DqeY5NMDmdYNwFlq2gtBzbfrhVMY_BpYsBogsxPMDEfqHkZzBQyCQYWyUQ8MIJ-2S-7PrxBRB2qKm2peFBESGvIu5esTUjES6TiRUVLjtbIGRWmKkYC9" />
-    <published>2026-11-06T16:43:02Z</published>
-    <updated>2026-11-06T16:43:02Z</updated>
-    <summary>Manage your stablecoin-backed card program by providing cardholder support, generating monthly statements, and handling complaints. Use the Stripe and Bridge ...</summary>
   </entry>
 </feed>
