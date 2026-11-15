@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 43900,
+  "credits_used": 43953,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-15T09:42:45Z",
+  "last_run": "2026-11-15T10:42:55Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 853
+  "runs": 854
  },
  "feeds": {
   "adp-help": {
@@ -61358,6 +61358,15 @@
     "page": 1,
     "summary": "In the customer portal, you can let your customers pause their subscriptions for a duration you choose, and resume them automatically at the end of that ...",
     "title": "Let customers pause subscriptions in the customer portal"
+   },
+   "docs.stripe.com/data/access-data-in-warehouse?locale=en-GB": {
+    "baseline": false,
+    "date_hint": "11 hours ago",
+    "first_seen": "2026-11-15T10:42:55Z",
+    "link": "https://docs.stripe.com/data/access-data-in-warehouse?locale=en-GB",
+    "page": 2,
+    "summary": "Learn what you can do with Data Pipeline. \u00b7 Automatically export your complete Stripe data in a fast and reliable manner. \u00b7 Stop relying on third-party extract, ...",
+    "title": "How Data Pipeline works"
    },
    "docs.stripe.com/data/data-freshness": {
     "baseline": false,

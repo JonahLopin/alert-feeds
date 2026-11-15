@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-15T03:42:39Z</updated>
+  <updated>2026-11-15T10:42:55Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/data/access-data-in-warehouse?locale=en-GB</id>
+    <title>How Data Pipeline works</title>
+    <link href="https://docs.stripe.com/data/access-data-in-warehouse?locale=en-GB" />
+    <published>2026-11-15T10:42:55Z</published>
+    <updated>2026-11-15T10:42:55Z</updated>
+    <summary>Learn what you can do with Data Pipeline. · Automatically export your complete Stripe data in a fast and reliable manner. · Stop relying on third-party extract, ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payments/advanced/tax?api-integration=checkout&amp;__cf_chl_captcha_tk__=pmd_xWp7ZY2ij_8dkek_sxYFkalc5H8iDipDsrY0VXwc3TQ-1632481623-0-gqNtZGzNAxCjcnBszQ0l</id>
     <title>Collect taxes</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T16:43:02Z</published>
     <updated>2026-11-06T16:43:02Z</updated>
     <summary>Set up connected Stripe and Bridge sandboxes, fund test wallets on testnets, and simulate authorizations for stablecoin-backed cards.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdAHEIkXXNVMXnn5l0S5ULJKPArYBr5FWeyrMzCfBFW_6E17pHlWjMaYPq6aGZOaeKMOSBewqqkh_0ugw8tjPYtQ22HIAvszszwkNpDU75DgpUEE-C9orL9u7xa_eV9TiXiiWgBM252sW4GS1goORaNiEiRMG</id>
-    <title>GoPay Payments</title>
-    <link href="https://www.google.com/goto?url=CAESdAHEIkXXNVMXnn5l0S5ULJKPArYBr5FWeyrMzCfBFW_6E17pHlWjMaYPq6aGZOaeKMOSBewqqkh_0ugw8tjPYtQ22HIAvszszwkNpDU75DgpUEE-C9orL9u7xa_eV9TiXiiWgBM252sW4GS1goORaNiEiRMG" />
-    <published>2026-11-06T16:43:02Z</published>
-    <updated>2026-11-06T16:43:02Z</updated>
-    <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
   </entry>
 </feed>
