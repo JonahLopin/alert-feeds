@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 43370,
+  "credits_used": 43423,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-14T23:42:35Z",
+  "last_run": "2026-11-15T00:45:54Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 843
+  "runs": 844
  },
  "feeds": {
   "adp-help": {
@@ -54616,6 +54616,15 @@
     "page": 5,
     "summary": "Thinking about starting a business in Oregon? Here's how to get a new company going in the Beaver State in 8 simple steps.",
     "title": "Starting a Business in Oregon: 8 Steps (2026)"
+   },
+   "shopify.com/blog/how-to-start-a-business-in-virginia": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-15T00:45:54Z",
+    "link": "https://www.shopify.com/blog/how-to-start-a-business-in-virginia",
+    "page": 4,
+    "summary": "How to start a business in Virginia \u00b7 1. Choose a business idea \u00b7 2. Name your business \u00b7 3. Create a business plan \u00b7 4. Choose a business structure \u00b7 5. Get an ...",
+    "title": "Starting a Business in Virginia: Steps and Costs (2027)"
    },
    "shopify.com/blog/how-to-start-a-landscaping-business": {
     "baseline": false,
