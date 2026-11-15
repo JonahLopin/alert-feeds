@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-15T03:42:39Z</updated>
+  <updated>2026-11-15T18:43:11Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster</id>
+    <title>Bessent Says Nvidia Needs 'Dramatic Shakeup' After ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster" />
+    <published>2026-11-15T18:43:11Z</published>
+    <updated>2026-11-15T18:43:11Z</updated>
+    <summary>Treasury Secretary Scott Bessent said that Nvidia Corp. needs a “dramatic shakeup” in leadership after the ouster of chief executive Jensen Huang.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/judge-blocks-plans-to-close-dc-golf-course-targeted-by-trump</id>
     <title>Judge Blocks Plans to Close DC Golf Course Targeted by ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-11T01:42:44Z</published>
     <updated>2026-11-11T01:42:44Z</updated>
     <summary>The White House withdrew its nomination of Lee Rudofsky to the US Court of Appeals for the Eighth Circuit amid opposition from Arkansas' senators, ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/ohio-derailment-deal-objectors-remain-barred-from-injury-suits</id>
-    <title>Ohio Derailment Deal Objectors Remain Barred From ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/ohio-derailment-deal-objectors-remain-barred-from-injury-suits" />
-    <published>2026-11-11T01:42:44Z</published>
-    <updated>2026-11-11T01:42:44Z</updated>
-    <summary>A federal appeals panel rejected any contention that the class attorneys committed fraud on the trial judge to persuade her to approve the settlement.</summary>
   </entry>
 </feed>

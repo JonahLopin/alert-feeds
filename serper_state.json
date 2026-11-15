@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 44323,
+  "credits_used": 44376,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-15T17:42:37Z",
+  "last_run": "2026-11-15T18:43:11Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 861
+  "runs": 862
  },
  "feeds": {
   "adp-help": {
@@ -10456,6 +10456,15 @@
     "page": 3,
     "summary": "In a significant departure from Warren Buffett 's famous reservations about technology stocks, the new CEO started cutting checks soon after he took on the ...",
     "title": "Berkshire's Pivot to AI Bets Gets an Immediate Reality Check"
+   },
+   "news.bloomberglaw.com/business-and-practice/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-15T18:43:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster",
+    "page": 1,
+    "summary": "Treasury Secretary Scott Bessent said that Nvidia Corp. needs a \u201cdramatic shakeup\u201d in leadership after the ouster of chief executive Jensen Huang.",
+    "title": "Bessent Says Nvidia Needs 'Dramatic Shakeup' After ..."
    },
    "news.bloomberglaw.com/business-and-practice/bgov-onpoint-trump-court-prospects-hinge-on-tight-senate-races": {
     "baseline": false,
@@ -54032,6 +54041,15 @@
     "page": 2,
     "summary": "Discover how customer acquisition works, from channels and funnel stages to 8 proven strategies, CAC benchmarks, metrics, and tools.",
     "title": "Customer Acquisition: Strategy, Funnel, and CAC (2026)"
+   },
+   "shopify.com/blog/customer-acquisition-cost": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-15T18:43:11Z",
+    "link": "https://www.shopify.com/blog/customer-acquisition-cost",
+    "page": 3,
+    "summary": "Understand customer acquisition cost (CAC), including how to calculate it, which expenses to include, what a good CAC looks like, and how to lower it.",
+    "title": "Customer Acquisition Cost: How To Reduce It (2026)"
    },
    "shopify.com/blog/customer-connection": {
     "baseline": false,

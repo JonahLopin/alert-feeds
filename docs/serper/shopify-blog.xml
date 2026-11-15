@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-15T17:42:37Z</updated>
+  <updated>2026-11-15T18:43:11Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/customer-acquisition-cost</id>
+    <title>Customer Acquisition Cost: How To Reduce It (2026)</title>
+    <link href="https://www.shopify.com/blog/customer-acquisition-cost" />
+    <published>2026-11-15T18:43:11Z</published>
+    <updated>2026-11-15T18:43:11Z</updated>
+    <summary>Understand customer acquisition cost (CAC), including how to calculate it, which expenses to include, what a good CAC looks like, and how to lower it.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/low-investment-business-ideas</id>
     <title>72 Small Business Ideas to Start in 2027</title>
@@ -795,13 +803,5 @@
     <published>2026-11-08T20:43:03Z</published>
     <updated>2026-11-08T20:43:03Z</updated>
     <summary>Compare top AI tools for ecommerce by use case, pricing, and Shopify integration. Find the right AI for content, service, and personalization.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/user-generated-content</id>
-    <title>User Generated Content: What It Is and Examples (2026)</title>
-    <link href="https://www.shopify.com/blog/user-generated-content" />
-    <published>2026-11-08T19:42:37Z</published>
-    <updated>2026-11-08T19:42:37Z</updated>
-    <summary>User-generated content (UGC) is any content created by your customers rather than your brand. According to Emplifi's Q3 2025 Social Media Benchmarks report, ...</summary>
   </entry>
 </feed>
