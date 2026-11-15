@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:doordash-blog</id>
   <title>DoorDash blog (site:merchants.doordash.com/en-us/blog/) via Serper</title>
-  <updated>2026-11-14T07:42:33Z</updated>
+  <updated>2026-11-15T21:42:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/doordash-blog.xml" />
+  <entry>
+    <id>https://merchants.doordash.com/en-us/blog/how-self-delivery-works</id>
+    <title>How Flexible Fulfillment Works for Self-Delivery Merchants</title>
+    <link href="https://merchants.doordash.com/en-us/blog/how-self-delivery-works" />
+    <published>2026-11-15T21:42:53Z</published>
+    <updated>2026-11-15T21:42:53Z</updated>
+    <summary>What is Flexible Fulfillment? Flexible Fulfillment allows Self-Delivery merchants to automatically assign delivery orders to either their own drivers or ...</summary>
+  </entry>
   <entry>
     <id>https://merchants.doordash.com/en-us/blog/shopify-local-delivery-app</id>
     <title>5 Best Shopify Local Delivery Apps for Retailers</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T09:43:28Z</published>
     <updated>2026-11-06T09:43:28Z</updated>
     <summary>Struggling to build a fair, efficient restaurant schedule? Get a step-by-step guide to staff scheduling that cuts costs and reduces turnover.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESgQEBxCJF1zUI2S04jhz4fMCFsc0SlGxgMDTSlOonljQz8OnSZNHkLSvPPhwMDextLDfWVC37MSJGoaiupHrKo_mMHHVYdCJ-TQRbhlAscl3GMadQJ33hosylHMFjkUp9RNVhS7sPfuw9qxnYWo3J6qe0RvcuoW3cCUTCk7UF14eBpJY&amp;gsessionid=HWFmnXRUcCjyTKyHjLdHGvU1QPJoWwgXxaJ2RLRPz_4Df4QWM0oRcQ</id>
-    <title>Best Restaurant Marketing Tools to Boost Sales in 2026</title>
-    <link href="https://www.google.com/goto?url=CAESgQEBxCJF1zUI2S04jhz4fMCFsc0SlGxgMDTSlOonljQz8OnSZNHkLSvPPhwMDextLDfWVC37MSJGoaiupHrKo_mMHHVYdCJ-TQRbhlAscl3GMadQJ33hosylHMFjkUp9RNVhS7sPfuw9qxnYWo3J6qe0RvcuoW3cCUTCk7UF14eBpJY&amp;gsessionid=HWFmnXRUcCjyTKyHjLdHGvU1QPJoWwgXxaJ2RLRPz_4Df4QWM0oRcQ" />
-    <published>2026-11-06T09:43:28Z</published>
-    <updated>2026-11-06T09:43:28Z</updated>
-    <summary>This guide breaks down the restaurant marketing tools that matter most in 2026 and shows you how to put them to work without adding another full-time job to ...</summary>
   </entry>
 </feed>

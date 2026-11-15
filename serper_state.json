@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 44480,
+  "credits_used": 44532,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-15T20:42:53Z",
+  "last_run": "2026-11-15T21:42:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 864
+  "runs": 865
  },
  "feeds": {
   "adp-help": {
@@ -24259,6 +24259,15 @@
     "page": 3,
     "summary": "See real coffee shop startup costs \u2014 equipment, buildout, licenses, and working capital \u2014 plus tips to open on a leaner budget.",
     "title": "How Much Does It Cost to Open a Coffee Shop in 2026?"
+   },
+   "merchants.doordash.com/en-us/blog/how-self-delivery-works": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-15T21:42:53Z",
+    "link": "https://merchants.doordash.com/en-us/blog/how-self-delivery-works",
+    "page": 2,
+    "summary": "What is Flexible Fulfillment? Flexible Fulfillment allows Self-Delivery merchants to automatically assign delivery orders to either their own drivers or ...",
+    "title": "How Flexible Fulfillment Works for Self-Delivery Merchants"
    },
    "merchants.doordash.com/en-us/blog/how-to-create-online-ordering-for-restaurants": {
     "baseline": false,
@@ -53359,6 +53368,15 @@
     "page": 4,
     "summary": "A product description is the written copy on a product page that explains what it is, what it's made of, how it works, and who it's for.",
     "title": "How To Write a Product Description That Sells (2027)"
+   },
+   "shopify.com/blog/9-dropshipping-coffee-suppliers": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-15T21:42:53Z",
+    "link": "https://www.shopify.com/blog/9-dropshipping-coffee-suppliers",
+    "page": 4,
+    "summary": "A dropshipping coffee supplier stores, packs, and ships coffee to your customers when they order from your online business. You handle the storefront and ...",
+    "title": "8 Dropshipping Coffee Suppliers and Roasters for 2027"
    },
    "shopify.com/blog/abandoned-cart-emails": {
     "baseline": false,

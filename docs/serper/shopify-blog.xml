@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-15T18:43:11Z</updated>
+  <updated>2026-11-15T21:42:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/9-dropshipping-coffee-suppliers</id>
+    <title>8 Dropshipping Coffee Suppliers and Roasters for 2027</title>
+    <link href="https://www.shopify.com/blog/9-dropshipping-coffee-suppliers" />
+    <published>2026-11-15T21:42:53Z</published>
+    <updated>2026-11-15T21:42:53Z</updated>
+    <summary>A dropshipping coffee supplier stores, packs, and ships coffee to your customers when they order from your online business. You handle the storefront and ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/customer-acquisition-cost</id>
     <title>Customer Acquisition Cost: How To Reduce It (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-08T21:42:54Z</published>
     <updated>2026-11-08T21:42:54Z</updated>
     <summary>Learn how to conduct a competitive analysis step by step. Get a free template, frameworks, and AI tools to find market gaps and beat rivals.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/ai-tools-for-ecommerce</id>
-    <title>AI Tools for Ecommerce: 11 Best Options (2026) - Shopify</title>
-    <link href="https://www.shopify.com/blog/ai-tools-for-ecommerce" />
-    <published>2026-11-08T20:43:03Z</published>
-    <updated>2026-11-08T20:43:03Z</updated>
-    <summary>Compare top AI tools for ecommerce by use case, pricing, and Shopify integration. Find the right AI for content, service, and personalization.</summary>
   </entry>
 </feed>
