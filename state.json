@@ -8109,6 +8109,12 @@
    "summary": "Financial Accounts v2 ... A FinancialAccount represents a balance and can be used as the source or destination for the money management ( /v2/ ...",
    "title": "Financial Accounts v2 - Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:9145580658437833372": {
+   "first_seen": "2026-11-15T08:08:19Z",
+   "link": "https://docs.stripe.com/payments/advanced/tax?api-integration=checkout&__cf_chl_captcha_tk__=pmd_xWp7ZY2ij_8dkek_sxYFkalc5H8iDipDsrY0VXwc3TQ-1632481623-0-gqNtZGzNAxCjcnBszQ0l",
+   "summary": "Configure your Checkout Session to collect tax ... To start collecting tax: ... This code enables automatic tax calculation using Stripe Tax, a tax code, ...",
+   "title": "Collect taxes | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:9248615612230296782": {
    "first_seen": "2026-10-11T11:29:08Z",
    "link": "https://docs.stripe.com/api/v2/money-management/adjustments/list?api-version=2026-09-30.preview",

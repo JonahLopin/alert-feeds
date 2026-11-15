@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-14T21:05:40Z</updated>
+  <updated>2026-11-15T08:08:19Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:9145580658437833372</id>
+    <title>Collect taxes | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/advanced/tax?api-integration=checkout&amp;__cf_chl_captcha_tk__=pmd_xWp7ZY2ij_8dkek_sxYFkalc5H8iDipDsrY0VXwc3TQ-1632481623-0-gqNtZGzNAxCjcnBszQ0l" />
+    <published>2026-11-15T08:08:19Z</published>
+    <updated>2026-11-15T08:08:19Z</updated>
+    <summary>Configure your Checkout Session to collect tax ... To start collecting tax: ... This code enables automatic tax calculation using Stripe Tax, a tax code, ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:18370535762810399770</id>
     <title>Notifications réglementées Issuing destinées aux clients | Documentation Stripe</title>
@@ -795,13 +803,5 @@
     <published>2026-10-26T16:50:44Z</published>
     <updated>2026-10-26T16:50:44Z</updated>
     <summary>Send a USD payout from your financial account to a recipient as a paper check. You can customize the check with a signature, a memo, ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:1579658284861607203</id>
-    <title>Account Activities | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/v2/signals/account-activities?api-version=2026-09-30.preview" />
-    <published>2026-10-24T16:45:23Z</published>
-    <updated>2026-10-24T16:45:23Z</updated>
-    <summary>Account Activities v2 ... Account Activity resource for the Signals API. ... Need help? Contact Support. Chat with Stripe developers on Discord. Check out ...</summary>
   </entry>
 </feed>
