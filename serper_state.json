@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 43635,
+  "credits_used": 43688,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-15T04:42:38Z",
+  "last_run": "2026-11-15T05:43:12Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 848
+  "runs": 849
  },
  "feeds": {
   "adp-help": {
@@ -33901,6 +33901,15 @@
     "page": 1,
     "summary": "Use the Transaction review section of Books Close to find and fix uncategorized transactions, unapplied payments, and undeposited funds in your clients' books.",
     "title": "Review client transactions using Books Close - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/close-books/review-files-closes-intuit-accountant-suite/L8scTyoGO_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-15T05:43:12Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/close-books/review-files-closes-intuit-accountant-suite/L8scTyoGO_US_en_US",
+    "page": 4,
+    "summary": "Here's how to manage file reviews in Books Close \u2014 the right way, the first time. A quick, simple walkthrough.",
+    "title": "Use Books Close manual to manage month-end close"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/close-books/review-payees-entities-books-close/L4duDkkIq_US_en_US": {
     "baseline": false,

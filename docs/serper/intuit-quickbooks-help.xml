@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:intuit-quickbooks-help</id>
   <title>Intuit QuickBooks help (site:quickbooks.intuit.com/learn-support/en-us/help-article/) via Serper</title>
-  <updated>2026-11-14T12:42:36Z</updated>
+  <updated>2026-11-15T05:43:12Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/intuit-quickbooks-help.xml" />
+  <entry>
+    <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/close-books/review-files-closes-intuit-accountant-suite/L8scTyoGO_US_en_US</id>
+    <title>Use Books Close manual to manage month-end close</title>
+    <link href="https://quickbooks.intuit.com/learn-support/en-us/help-article/close-books/review-files-closes-intuit-accountant-suite/L8scTyoGO_US_en_US" />
+    <published>2026-11-15T05:43:12Z</published>
+    <updated>2026-11-15T05:43:12Z</updated>
+    <summary>Here's how to manage file reviews in Books Close — the right way, the first time. A quick, simple walkthrough.</summary>
+  </entry>
   <entry>
     <id>https://quickbooks.intuit.com/learn-support/en-us/help-article/close-books/review-payees-entities-books-close/L4duDkkIq_US_en_US</id>
     <title>Review payees and entities in Books Close - QuickBooks - Intuit</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T19:42:36Z</published>
     <updated>2026-11-06T19:42:36Z</updated>
     <summary>Manage custom roles in QuickBooks Online — so your books stay accurate. Easier than you'd expect.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESxgEBxCJF1-khaNyQ9zNJ-6w5zFf1hxroq0d9CZr6XFoyKKB99NWPV5MN1uL8kWFFaGX5shmZ95IPutK7znyFjoITo_eoz3cWO-VrfJYydHvw5tUxE0kEiQDCS1C4I9Acgjd-T-UFmg9C66x2pQslkE1NcsBAhyj3PtXDmGh0u4ucb1zvdC1_SxX1TYlouR9ZUhBUBHpc2_p4IiC26sg8-rFxDrJtP13kyKBihWiyUHw6-b5WcUB5SW6ZQqqBvIjs3NM9jateC4k</id>
-    <title>What's new in QuickBooks Desktop 2024 - Intuit</title>
-    <link href="https://www.google.com/goto?url=CAESxgEBxCJF1-khaNyQ9zNJ-6w5zFf1hxroq0d9CZr6XFoyKKB99NWPV5MN1uL8kWFFaGX5shmZ95IPutK7znyFjoITo_eoz3cWO-VrfJYydHvw5tUxE0kEiQDCS1C4I9Acgjd-T-UFmg9C66x2pQslkE1NcsBAhyj3PtXDmGh0u4ucb1zvdC1_SxX1TYlouR9ZUhBUBHpc2_p4IiC26sg8-rFxDrJtP13kyKBihWiyUHw6-b5WcUB5SW6ZQqqBvIjs3NM9jateC4k" />
-    <published>2026-11-06T19:42:36Z</published>
-    <updated>2026-11-06T19:42:36Z</updated>
-    <summary>Custom field improvements (QuickBooks Desktop Enterprise only). You can now filter reports using text or dropdown lists. We've also improved the error handling ...</summary>
   </entry>
 </feed>
