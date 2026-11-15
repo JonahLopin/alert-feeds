@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 44112,
+  "credits_used": 44165,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-15T13:43:00Z",
+  "last_run": "2026-11-15T14:43:00Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 857
+  "runs": 858
  },
  "feeds": {
   "adp-help": {
@@ -42648,6 +42648,15 @@
     "summary": "Wed\u0142ug raportu \u201eE-commerce w Polsce 2026\u201d, przygotowanego przez Gemius, strony i aplikacje zakupowe odwiedza przynajmniej raz w miesi\u0105cu 93 proc. polskich ...",
     "title": "AI zmienia regu\u0142y walki o klient\u00f3w. Co to oznacza dla e- ..."
    },
+   "news.sap.com/poland/2026/11/ai-zmienia-reguly-walki-o-klientow-co-to-oznacza-dla-e-commerce/i-found-what-i-wanted-for-much-cheaper-online": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-15T14:43:00Z",
+    "link": "https://news.sap.com/poland/2026/11/ai-zmienia-reguly-walki-o-klientow-co-to-oznacza-dla-e-commerce/i-found-what-i-wanted-for-much-cheaper-online/",
+    "page": 1,
+    "summary": "I found what I wanted for much cheaper online. SAP. Polska 00 800 491 1525. Lub wy\u015bwietl pe\u0142n\u0105 list\u0119 numer\u00f3w dla poszczeg\u00f3lnych kraj\u00f3w.",
+    "title": "I found what I wanted for much cheaper online"
+   },
    "news.sap.com/poland/2026/11/ai-zmienia-reguly-walki-o-klientow-co-to-oznacza-dla-e-commerce?amp=1": {
     "baseline": false,
     "date_hint": "6 hours ago",
@@ -71805,6 +71814,15 @@
     "page": 1,
     "summary": "Staying on a legacy trade compliance platform can cost 3% to 8% in overpaid duties and leave free trade agreement savings unclaimed. See the hidden costs, and how to switch.",
     "title": "How to switch from legacy trade compliance software"
+   },
+   "tax.thomsonreuters.com/blog/how-agentic-ai-is-transforming-corporate-tax-departments": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-15T14:43:00Z",
+    "link": "https://tax.thomsonreuters.com/blog/how-agentic-ai-is-transforming-corporate-tax-departments/",
+    "page": 1,
+    "summary": "The transformation of tax departments through AI reimagines how tax functions operate, deliver value, and position themselves as strategic business partners.",
+    "title": "How agentic AI is transforming corporate tax departments"
    },
    "tax.thomsonreuters.com/blog/how-do-you-measure-ai-roi-in-indirect-tax": {
     "baseline": false,
