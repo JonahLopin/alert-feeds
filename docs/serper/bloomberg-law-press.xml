@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-14T18:42:59Z</updated>
+  <updated>2026-11-15T02:42:46Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/trumps-white-house-lawyer-on-subpoena-compliance-it-depends</id>
+    <title>Trump's White House Lawyer on Subpoena Compliance: 'It Depends'</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/trumps-white-house-lawyer-on-subpoena-compliance-it-depends" />
+    <published>2026-11-15T02:42:46Z</published>
+    <updated>2026-11-15T02:42:46Z</updated>
+    <summary>The White House won't commit to complying with potential subpoenas from a Democratic-led Congress and believes company executives who've had contact with ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/homeland-secretary-mullin-to-testify-in-first-post-election-test</id>
     <title>Homeland Secretary Mullin to Testify in First Post-Election ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-11T00:41:59Z</published>
     <updated>2026-11-11T00:41:59Z</updated>
     <summary>Anthropic is aiming to raise as much as $90.4 billion through its IPO and a private share sale, a target that would value the company at roughly $1.4 trillion.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/us-push-for-higher-german-drug-prices-would-backfire-study-says</id>
-    <title>US Push for Higher German Drug Prices Would Backfire, ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/us-push-for-higher-german-drug-prices-would-backfire-study-says" />
-    <published>2026-11-11T00:41:59Z</published>
-    <updated>2026-11-11T00:41:59Z</updated>
-    <summary>The Trump administration argues that Germany has consistently been underpaying for drugs and needs to contribute more to pharmaceutical research and development ...</summary>
   </entry>
 </feed>

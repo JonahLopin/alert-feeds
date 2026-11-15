@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 43476,
+  "credits_used": 43529,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-15T01:42:48Z",
+  "last_run": "2026-11-15T02:42:46Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 845
+  "runs": 846
  },
  "feeds": {
   "adp-help": {
@@ -17197,6 +17197,15 @@
     "page": 1,
     "summary": "The county of Arlington, Va., has sued the Trump administration over its proposed \u201cTriumphal Arch.\u201d The 250-foot arch that would be located on the District ...",
     "title": "Trump's Proposed 'Triumphal Arch' Draws Suit by Virginia ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trumps-white-house-lawyer-on-subpoena-compliance-it-depends": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-15T02:42:46Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trumps-white-house-lawyer-on-subpoena-compliance-it-depends",
+    "page": 1,
+    "summary": "The White House won't commit to complying with potential subpoenas from a Democratic-led Congress and believes company executives who've had contact with ...",
+    "title": "Trump's White House Lawyer on Subpoena Compliance: 'It Depends'"
    },
    "news.bloomberglaw.com/business-and-practice/tva-secures-court-ok-to-continue-natural-gas-plant-construction": {
     "baseline": false,
