@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 43423,
+  "credits_used": 43476,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-15T00:45:54Z",
+  "last_run": "2026-11-15T01:42:48Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 844
+  "runs": 845
  },
  "feeds": {
   "adp-help": {
@@ -24890,6 +24890,15 @@
     "page": 1,
     "summary": "Dashers in the Golden State are seeing higher earnings, guaranteed flexibility and access to unprecedented benefits thanks to the landmark law.",
     "title": "Thanks to California's Prop 22 Dashers are Doing Better ..."
+   },
+   "about.doordash.com/en-us/news/dashroots-making-our-voices-heard": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-15T01:42:48Z",
+    "link": "https://about.doordash.com/en-us/news/dashroots-making-our-voices-heard",
+    "page": 1,
+    "summary": "DashRoots, a global grassroots advocacy network composed of Dashers, merchants, and delivery customers, surpassed 120,000 members. May 2, 2025.",
+    "title": "Making Our Voices Heard: DashRoots Surpasses ..."
    },
    "about.doordash.com/en-us/news/dol-final-rule-statement": {
     "baseline": false,
