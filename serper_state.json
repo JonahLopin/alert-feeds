@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 44059,
+  "credits_used": 44112,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-15T12:42:51Z",
+  "last_run": "2026-11-15T13:43:00Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 856
+  "runs": 857
  },
  "feeds": {
   "adp-help": {
@@ -35226,6 +35226,15 @@
     "page": 2,
     "summary": "Here's how to create and edit custom fields in QuickBooks Online \u2014 the right way, the first time. See exactly how below.",
     "title": "Create and edit custom fields - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/receive-payments/record-returned-bounced-check-using-expense/L4O144llZ_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-15T13:43:00Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/receive-payments/record-returned-bounced-check-using-expense/L4O144llZ_US_en_US",
+    "page": 3,
+    "summary": "If a customer's check bounces in QuickBooks Online, you can record an expense to balance your accounts. Then you attach the bounced check to the original ...",
+    "title": "Record a returned payment or bounced check - QuickBooks"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/reclassify-transactions/categorize-bank-transactions-quickbooks/L7mBx12na_US_en_US": {
     "baseline": false,
