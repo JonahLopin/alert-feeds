@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 45371,
+  "credits_used": 45422,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T15:07:31Z",
+  "last_run": "2026-11-16T16:07:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 881
+  "runs": 882
  },
  "feeds": {
   "adp-help": {
@@ -25132,6 +25132,24 @@
     "page": 1,
     "summary": "The combined company will offer grocers and retailers of every size DoorDash's delivery network and Instacart's grocery and fulfillment technology, in both apps ...",
     "title": "DoorDash to Acquire Instacart to Help Local Stores Win"
+   },
+   "about.doordash.com/en-us/news/doordash-top-local-liquor-stores": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T16:07:43Z",
+    "link": "https://about.doordash.com/en-us/news/doordash-top-local-liquor-stores",
+    "page": 1,
+    "summary": "Today, DoorDash is unveiling its first-ever list of Top 50 Local Liquor Stores for the Holidays*, recognizing standout small and medium-sized liquor stores ...",
+    "title": "DoorDash Reveals Its Top 50 Local Liquor Stores for the ..."
+   },
+   "about.doordash.com/en-us/news/holiday-hunger-campaign-2026": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T16:07:43Z",
+    "link": "https://about.doordash.com/en-us/news/holiday-hunger-campaign-2026",
+    "page": 1,
+    "summary": "Delivering 2 million+ meals for free by waiving delivery fees for more than 300 Project DASH food bank and pantry partners from November 16 through December 25.",
+    "title": "Helping Families Put Food On The Table This Holiday ..."
    },
    "about.doordash.com/en-us/news/meal-boxes-and-catering": {
     "baseline": false,
@@ -77029,6 +77047,15 @@
     "page": 4,
     "summary": "Wolters Kluwer digital technology and expert solutions also support the VHA in its role as the nation's largest provider of graduate medical education and as a ...",
     "title": "VHA Turns to Wolters Kluwer to Harmonize Veterans ..."
+   },
+   "wolterskluwer.com/en/news/viz-ai-wolters-kluwer-uptodate-partnership": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T16:07:43Z",
+    "link": "https://www.wolterskluwer.com/en/news/viz-ai-wolters-kluwer-uptodate-partnership",
+    "page": 1,
+    "summary": "Discover how Viz.ai and UpToDate bring AI-powered clinical intelligence into specialist workflows, connecting trusted evidence to patient care.",
+    "title": "Viz.ai and UpToDate Integration for Clinical Decision Support"
    },
    "wolterskluwer.com/en/news/with-batwing-mastopexy-more-women-can-undergo-nipple-sparing-mastectomy": {
     "baseline": false,
