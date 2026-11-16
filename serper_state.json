@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 45111,
+  "credits_used": 45163,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T09:34:39Z",
+  "last_run": "2026-11-16T10:47:04Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 876
+  "runs": 877
  },
  "feeds": {
   "adp-help": {
@@ -13323,6 +13323,15 @@
     "summary": "Widespread voter concern about data centers and artificial intelligence was one of several factors that powered Democrats to control of the House and Senate ...",
     "title": "How the AI Backlash Helped Fuel Democrats' Midterm ..."
    },
+   "news.bloomberglaw.com/business-and-practice/how-to-enforce-trademark-when-counterfeiting-crosses-state-lines": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-16T10:47:04Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/how-to-enforce-trademark-when-counterfeiting-crosses-state-lines",
+    "page": 1,
+    "summary": "If you are in-house counsel for a popular brand, you already know the uncomfortable truth: Anything that can be counterfeited will be counterfeited.",
+    "title": "How to Enforce Trademark When Counterfeiting Crosses ..."
+   },
    "news.bloomberglaw.com/business-and-practice/hsbc-plans-srts-tied-to-7-billion-of-us-asian-corporate-loans": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -25764,6 +25773,15 @@
     "page": 1,
     "summary": "A digital invoice is an electronic document that replaces the traditional paper invoice, a manual invoice.",
     "title": "Digital Invoicing in Venezuela (SENIAT)"
+   },
+   "edicomgroup.com/blog/fiji-electronic-fiscal-device-vat": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T10:47:04Z",
+    "link": "https://edicomgroup.com/blog/fiji-electronic-fiscal-device-vat",
+    "page": 1,
+    "summary": "Fiji's VAT Monitoring System (VMS) is the platform used by the Fiji Revenue and Customs Service (FRCS) to collect and monitor fiscal transaction data.",
+    "title": "Fiji EFD & VMS Requirements | VAT Compliance Guide"
    },
    "edicomgroup.com/blog/ireland-electronic-invoicing-vat-reporting": {
     "baseline": false,
@@ -56306,6 +56324,15 @@
     "page": 5,
     "summary": "Wholesale7 is a fashion wholesaler of boutique clothing for men and women. Narrow down choices by trends, categories (like co-ords, dresses, and rompers), and ...",
     "title": "13 Best Wholesale Boutique Clothing Suppliers (2027)"
+   },
+   "shopify.com/blog/wholesale-clothing-vendors": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-16T10:47:04Z",
+    "link": "https://www.shopify.com/blog/wholesale-clothing-vendors",
+    "page": 2,
+    "summary": "Compare the best wholesale clothing vendors by minimums, returns, and shipping to find the right fit for your boutique or kids' store.",
+    "title": "Best Wholesale Clothing Vendors: 19 Suppliers (2027)"
    },
    "shopify.com/blog/xero-vs-quickbooks": {
     "baseline": false,
