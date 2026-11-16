@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-16T08:29:32Z</updated>
+  <updated>2026-11-16T20:07:21Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/4671406081</id>
+    <title>How to Create Promo Codes for Online Orders in SpotOn</title>
+    <link href="https://help.spoton.com/space/SK/4671406081" />
+    <published>2026-11-16T20:07:21Z</published>
+    <updated>2026-11-16T20:07:21Z</updated>
+    <summary>Promo codes allow customers to apply discounts when placing orders online through SpotOn Order. These promo codes are created and managed in the Back of House ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/4571693057/Product+Mix+%7C+SpotOn+Dashboard</id>
     <title>Product Mix | SpotOn Dashboard</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T05:42:34Z</published>
     <updated>2026-10-31T05:42:34Z</updated>
     <summary>The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAV8LnBQxOrSlU7uE54oYpithOw3JdAY1Wqtd_RbO5LmQZvQk4wuxyCmL729pcRqNuciN4YxSjVqOHgJKUogZISZOxyU3G0P01pHNp69msGw0G1dQ9-74wqzWPOOtbvR-Z2TQ&amp;gsessionid=uoTIfNjCiuVmS6rQelOBc9kXAEbar2qVifzns45tEgozlSQCKL0A2A</id>
-    <title>Create Order Type | SpotOn Restaurant (RPOS)</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAV8LnBQxOrSlU7uE54oYpithOw3JdAY1Wqtd_RbO5LmQZvQk4wuxyCmL729pcRqNuciN4YxSjVqOHgJKUogZISZOxyU3G0P01pHNp69msGw0G1dQ9-74wqzWPOOtbvR-Z2TQ&amp;gsessionid=uoTIfNjCiuVmS6rQelOBc9kXAEbar2qVifzns45tEgozlSQCKL0A2A" />
-    <published>2026-10-31T05:42:34Z</published>
-    <updated>2026-10-31T05:42:34Z</updated>
-    <summary>Overview. Order Types determine how orders are processed within SpotOn Restaurant (RPOS). They can be configured with unique pricing, customer requirements, ...</summary>
   </entry>
 </feed>

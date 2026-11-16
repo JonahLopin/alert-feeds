@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:doordash-blog</id>
   <title>DoorDash blog (site:merchants.doordash.com/en-us/blog/) via Serper</title>
-  <updated>2026-11-16T02:10:39Z</updated>
+  <updated>2026-11-16T20:07:21Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/doordash-blog.xml" />
+  <entry>
+    <id>https://merchants.doordash.com/en-us/blog/what-is-kds</id>
+    <title>What Is a KDS? How Kitchen Display Systems Work</title>
+    <link href="https://merchants.doordash.com/en-us/blog/what-is-kds" />
+    <published>2026-11-16T20:07:21Z</published>
+    <updated>2026-11-16T20:07:21Z</updated>
+    <summary>A kitchen display system is software that shows orders on kitchen screens in place of paper tickets or kitchen printers.</summary>
+  </entry>
   <entry>
     <id>https://merchants.doordash.com/en-us/blog/building-restaurant-website</id>
     <title>How to Build a Restaurant Website That Gets Orders</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T09:43:28Z</published>
     <updated>2026-11-06T09:43:28Z</updated>
     <summary>This guide hands you the tools to read your numbers, track what counts, build a budget, control costs, and weigh delivery revenue.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESgwEBxCJF1_2Y3Q4w1_qyH917ILkaUWn0fUQTP4wf2fUbfkR6qrIlS-Yh8tA9kq1pebyEWBh0GcUCyADt7np27QXvr3Wpom5usAMfAmmSZ_Jsybn0CzxmKyUytrBNLbWY3i8IBThX-7jL-6Z14nficPCXX5B0UBDVhwLYskNXKiftl0FFow&amp;gsessionid=HWFmnXRUcCjyTKyHjLdHGvU1QPJoWwgXxaJ2RLRPz_4Df4QWM0oRcQ</id>
-    <title>What Is a Commissary Kitchen? Types, Costs &amp; Uses</title>
-    <link href="https://www.google.com/goto?url=CAESgwEBxCJF1_2Y3Q4w1_qyH917ILkaUWn0fUQTP4wf2fUbfkR6qrIlS-Yh8tA9kq1pebyEWBh0GcUCyADt7np27QXvr3Wpom5usAMfAmmSZ_Jsybn0CzxmKyUytrBNLbWY3i8IBThX-7jL-6Z14nficPCXX5B0UBDVhwLYskNXKiftl0FFow&amp;gsessionid=HWFmnXRUcCjyTKyHjLdHGvU1QPJoWwgXxaJ2RLRPz_4Df4QWM0oRcQ" />
-    <published>2026-11-06T09:43:28Z</published>
-    <updated>2026-11-06T09:43:28Z</updated>
-    <summary>A commissary kitchen is a licensed, commercial-grade kitchen that food businesses rent. They use it to prep, cook, and store food they sell somewhere else. Food ...</summary>
   </entry>
 </feed>
