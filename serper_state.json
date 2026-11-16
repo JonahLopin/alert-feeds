@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 45637,
+  "credits_used": 45692,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T20:07:21Z",
+  "last_run": "2026-11-16T21:06:12Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 886
+  "runs": 887
  },
  "feeds": {
   "adp-help": {
@@ -15841,6 +15841,15 @@
     "summary": "Weil Gotshal & Manges litigator Adam Fee is joining Quinn Emanuel Urquhart & Sullivan as the storied New York law firm winds down its operations.",
     "title": "Quinn Emanuel Nabs Top Weil Litigator Fee as NY Firm ..."
    },
+   "news.bloomberglaw.com/business-and-practice/quinn-emanuel-taps-spera-for-newly-created-pro-bono-counsel-role": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-16T21:06:12Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/quinn-emanuel-taps-spera-for-newly-created-pro-bono-counsel-role",
+    "page": 2,
+    "summary": "Clara Spera joined Quinn Emanuel Urquhart & Sullivan in the newly-created role of pro bono counsel, the firm announced Nov. 12.",
+    "title": "Quinn Emanuel Taps Spera for Newly Created Pro Bono ..."
+   },
    "news.bloomberglaw.com/business-and-practice/rainmaker-mousavi-heads-to-paul-weiss-for-silicon-valley-debut": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -16407,6 +16416,15 @@
     "page": 2,
     "summary": "SS&C Technologies Holdings Inc. convinced the Second Circuit to revive its trade secrets claims against financial technology competitor Arcesium LLC that ...",
     "title": "SS&C Wins New Chance at Arcesium in FinTech Trade ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/stablecoin-market-shrinks-most-since-terra-lunas-2022-crash": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-16T21:06:12Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/stablecoin-market-shrinks-most-since-terra-lunas-2022-crash",
+    "page": 1,
+    "summary": "Over the past 30 days, the sector's market value has shrunk by around $12 billion while bellwether Bitcoin tumbled to a roughly four-month low, according to ...",
+    "title": "Stablecoin Market Shrinks Most Since Terra-Luna's 2022 ..."
    },
    "news.bloomberglaw.com/business-and-practice/starbucks-china-will-require-purchases-to-sit-in-its-cafes": {
     "baseline": false,
@@ -43178,6 +43196,15 @@
     "page": 2,
     "summary": "Lisboa \u2013 A capacidade de integrar dados, simplificar processos e aplicar Intelig\u00eancia Artificial (IA) a problemas concretos do neg\u00f3cio ser\u00e1 determinante para as ...",
     "title": "SAP aponta integra\u00e7\u00e3o de dados, processos e IA como ..."
+   },
+   "news.sap.com/portugal/2026/11/vanguard-properties-escolhe-sap-para-modernizar-gestao-financeira-nas-empresas-do-grupo-em-portugal/gleaming-glass-skyscrapers-towering-into-sky-city-of-london-panorama": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T21:06:12Z",
+    "link": "https://news.sap.com/portugal/2026/11/vanguard-properties-escolhe-sap-para-modernizar-gestao-financeira-nas-empresas-do-grupo-em-portugal/gleaming-glass-skyscrapers-towering-into-sky-city-of-london-panorama/",
+    "page": 2,
+    "summary": "Gleaming glass skyscrapers towering into sky City of London panorama. SAP. Portugal 800 849 186. Ou veja a nossa lista completa de n\u00fameros locais de pa\u00edses.",
+    "title": "Gleaming glass skyscrapers towering into sky City of ..."
    },
    "news.sap.com/press-room/sap-teched-2026-media-analyst-program": {
     "baseline": false,
@@ -77042,6 +77069,15 @@
     "page": 1,
     "summary": "Stacey Caywood, Chief Executive Officer for the Health division of Wolters Kluwer, was recognized with a Bronze Stevie Award in the category of Female ...",
     "title": "Healthcare technology CEO Stacey Caywood earns 2021 ..."
+   },
+   "wolterskluwer.com/en/news/how-ai-is-changing-the-audit-workflow": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-16T21:06:12Z",
+    "link": "https://www.wolterskluwer.com/en/news/how-ai-is-changing-the-audit-workflow",
+    "page": 1,
+    "summary": "AI can let auditors review far more, far faster. It supports broader transaction coverage, anomaly detection, continuous monitoring, document analysis, and ...",
+    "title": "How is artificial intelligence changing the audit workflow"
    },
    "wolterskluwer.com/en/news/how-cloud-innovation-is-advancing-connected-operational-risk-management": {
     "baseline": false,

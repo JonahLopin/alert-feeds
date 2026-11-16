@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:wolters-kluwer-tax-press</id>
   <title>Wolters Kluwer Tax press (site:wolterskluwer.com/en/news/) via Serper</title>
-  <updated>2026-11-16T16:07:43Z</updated>
+  <updated>2026-11-16T21:06:12Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/wolters-kluwer-tax-press.xml" />
+  <entry>
+    <id>https://www.wolterskluwer.com/en/news/how-ai-is-changing-the-audit-workflow</id>
+    <title>How is artificial intelligence changing the audit workflow</title>
+    <link href="https://www.wolterskluwer.com/en/news/how-ai-is-changing-the-audit-workflow" />
+    <published>2026-11-16T21:06:12Z</published>
+    <updated>2026-11-16T21:06:12Z</updated>
+    <summary>AI can let auditors review far more, far faster. It supports broader transaction coverage, anomaly detection, continuous monitoring, document analysis, and ...</summary>
+  </entry>
   <entry>
     <id>https://www.wolterskluwer.com/en/news/viz-ai-wolters-kluwer-uptodate-partnership</id>
     <title>Viz.ai and UpToDate Integration for Clinical Decision Support</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T18:43:21Z</published>
     <updated>2026-11-06T18:43:21Z</updated>
     <summary>Wolters Kluwer today announces the appointment of Maria Montenegro as CEO of its Corporate Performance &amp; ESG (CP &amp; ESG) division, succeeding Karen Abramson who ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESpAEBxCJF14WaGIuN0gyCGePNluxVOLvI8MmJbwsd_MTUPH97xUzoKbeaxCIgAq7u6IJTzmc0d-g5vG1_4Kuv3tNcgcQA6KkVH4dnrCCz1J9g-wjiLkyh4Iay6IB29rqRhpO446C-DNlGnAAu32BuMywua1hhC69iuhKDpBcjj_l1Mcr1e4gDgDx4z8ZOkXyIEnpe6Io-kRZAlOlh6jtBW-6HGR5_2A&amp;gsessionid=HfyQKKGTtzrCo2ZzSoZxFiND4SGaiIeXgZGUM8Lsj41-V8EldS1Kyg</id>
-    <title>Wolters Kluwer launches agentic tax preparation ...</title>
-    <link href="https://www.google.com/goto?url=CAESpAEBxCJF14WaGIuN0gyCGePNluxVOLvI8MmJbwsd_MTUPH97xUzoKbeaxCIgAq7u6IJTzmc0d-g5vG1_4Kuv3tNcgcQA6KkVH4dnrCCz1J9g-wjiLkyh4Iay6IB29rqRhpO446C-DNlGnAAu32BuMywua1hhC69iuhKDpBcjj_l1Mcr1e4gDgDx4z8ZOkXyIEnpe6Io-kRZAlOlh6jtBW-6HGR5_2A&amp;gsessionid=HfyQKKGTtzrCo2ZzSoZxFiND4SGaiIeXgZGUM8Lsj41-V8EldS1Kyg" />
-    <published>2026-11-06T18:43:21Z</published>
-    <updated>2026-11-06T18:43:21Z</updated>
-    <summary>New capabilities automate client intake, document organization, and data extraction while keeping tax professionals in control.</summary>
   </entry>
 </feed>
