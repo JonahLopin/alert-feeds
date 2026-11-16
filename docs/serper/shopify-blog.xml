@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-16T13:58:17Z</updated>
+  <updated>2026-11-16T23:06:05Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/ai-seo</id>
+    <title>AI SEO: How AI Is Changing SEO (2027)</title>
+    <link href="https://www.shopify.com/blog/ai-seo" />
+    <published>2026-11-16T23:06:05Z</published>
+    <updated>2026-11-16T23:06:05Z</updated>
+    <summary>AI SEO means using AI to do SEO work and getting cited by AI answers. Learn how AI SEO and AI search engines work, which tools help, and where to start.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/is-dropshipping-legal</id>
     <title>Is Dropshipping Legal? Rules and Risks (2027)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-09T08:43:02Z</published>
     <updated>2026-11-09T08:43:02Z</updated>
     <summary>Affiliate marketing allows you to connect with your audience via channels they trust, and a few new industry developments can work in your favor.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/instagram-checkout</id>
-    <title>Instagram Checkout: What It Is and How to Set It Up (2026)</title>
-    <link href="https://www.shopify.com/blog/instagram-checkout" />
-    <published>2026-11-09T06:41:20Z</published>
-    <updated>2026-11-09T06:41:20Z</updated>
-    <summary>Instagram Checkout was a feature within Instagram Shop that let users make a direct purchase from your business. It enabled a seamless shopping experience where ...</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 45747,
+  "credits_used": 45803,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T22:06:11Z",
+  "last_run": "2026-11-16T23:06:05Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 888
+  "runs": 889
  },
  "feeds": {
   "adp-help": {
@@ -14249,6 +14249,15 @@
     "summary": "Chris Henry rejoined Latham & Watkins as a partner in its intellectual property litigation practice in Boston, the firm announced Monday.",
     "title": "Latham Rehires Weil Gotshal IP Litigator Chris Henry in ..."
    },
+   "news.bloomberglaw.com/business-and-practice/latham-vinson-elkins-assist-diamondback-double-eagle-deal": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T23:06:05Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/latham-vinson-elkins-assist-diamondback-double-eagle-deal",
+    "page": 1,
+    "summary": "Latham & Watkins and Vinson & Elkins steered Diamondback Energy Inc. in its agreement to buy additional assets in the Permian Basin from oil driller Double ...",
+    "title": "Latham, Vinson & Elkins Assist Diamondback-Double ..."
+   },
    "news.bloomberglaw.com/business-and-practice/latham-watkins-builds-capital-firepower-with-trio-from-cahill": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -14877,6 +14886,15 @@
     "page": 2,
     "summary": "Minnesota's felony tax evasion law requires the state to show the person willfully attempted to deceive the government when they failed to file a return or ...",
     "title": "Minnesota Justices Say Felony Tax Charge Needs Intent to ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/mit-brothers-acquitted-in-25-million-crypto-case-avoid-retrial": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T23:06:05Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/mit-brothers-acquitted-in-25-million-crypto-case-avoid-retrial",
+    "page": 2,
+    "summary": "Two brothers who graduated from Massachusetts Institute of Technology were cleared of charges that they stole $25 million in cryptocurrency, avoiding a new ...",
+    "title": "MIT Brothers Acquitted in $25 Million Crypto Case, Avoid ..."
    },
    "news.bloomberglaw.com/business-and-practice/moderna-sheds-investor-lawsuit-over-rsv-vaccine-efficacy-figure": {
     "baseline": true,
@@ -16218,6 +16236,15 @@
     "page": 1,
     "summary": "Sheppard is raising its base pay for associates, matching Milbank's boosted offerings, with salaries at the firm ranging from $235,000 to $455,000.",
     "title": "Sheppard Follows Milbank, McDermott in Associate Salary ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/sheppard-gets-foley-lardner-sports-partners-mcfall-mcdonald": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T23:06:05Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/sheppard-gets-foley-lardner-sports-partners-mcfall-mcdonald",
+    "page": 1,
+    "summary": "James Carlos McFall and William (Trey) McDonald III joined Sheppard as partners in its sports industry team and entertainment, technology and advertising ...",
+    "title": "Sheppard Gets Foley & Lardner Sports Partners McFall, ..."
    },
    "news.bloomberglaw.com/business-and-practice/sidelined-tariff-refunds-get-class-action-status-explained": {
     "baseline": false,
@@ -54008,6 +54035,15 @@
     "summary": "Learn how an AI recommendation system works and which type fits your store. Compare built-in, app, and custom options, then start with one placement.",
     "title": "AI Recommendation Systems: How They Work + Types ..."
    },
+   "shopify.com/blog/ai-seo": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-16T23:06:05Z",
+    "link": "https://www.shopify.com/blog/ai-seo",
+    "page": 1,
+    "summary": "AI SEO means using AI to do SEO work and getting cited by AI answers. Learn how AI SEO and AI search engines work, which tools help, and where to start.",
+    "title": "AI SEO: How AI Is Changing SEO (2027)"
+   },
    "shopify.com/blog/ai-statistics": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -62181,6 +62217,15 @@
     "page": 1,
     "summary": "\u521b\u5efa\u4e00\u4e2a\u7ec4\u7ec7,\u5728Stripe \u7ba1\u7406\u5e73\u53f0\u4e2d\u4e00\u7ad9\u5f0f\u96c6\u4e2d\u7ba1\u7406\u8d26\u6237\u3002\u521b\u5efa\u7ec4\u7ec7\u540e,\u60a8\u53ef\u4ee5\u5728\u56e2\u961f\u548c\u5b89\u5168\u8bbe\u7f6e\u4e2d\u9080\u8bf7\u66f4\u591a\u56e2\u961f\u6210\u5458\u8bbf\u95ee\u7ec4\u7ec7\u3002",
     "title": "\u6784\u5efa\u7ec4\u7ec7"
+   },
+   "docs.stripe.com/get-started/account/orgs/sharing/customers-payment-methods?locale=zh-CN": {
+    "baseline": false,
+    "date_hint": "16 hours ago",
+    "first_seen": "2026-11-16T23:06:05Z",
+    "link": "https://docs.stripe.com/get-started/account/orgs/sharing/customers-payment-methods?locale=zh-CN",
+    "page": 2,
+    "summary": "Stripe \u4e0a\u7684Organizations \u53ef\u4ee5\u5728\u591a\u4e2a\u8d26\u6237\u4e4b\u95f4\u5171\u4eab\u5ba2\u6237\u548c\u652f\u4ed8\u65b9\u5f0f\u3002\u5728\u542f\u7528\u5171\u4eab\u4e4b\u524d\uff0c\u8bf7\u67e5\u770b\u5ba2\u6237\u548c\u652f\u4ed8\u65b9\u5f0f\u5171\u4eab\u7684\u8fd0\u4f5c\u673a\u5236\uff0c\u4ee5\u4e86\u89e3\u652f\u6301\u7684\u652f\u4ed8\u65b9\u5f0f\u3001\u9650\u5236\u548c\u4e8b\u4ef6\u884c\u4e3a\u7b49 ...",
+    "title": "\u5728\u7ec4\u7ec7\u8d26\u6237\u4e4b\u95f4\u5171\u4eab\u5ba2\u6237\u548c\u652f\u4ed8\u65b9\u5f0f"
    },
    "docs.stripe.com/global-payouts/recipient-countries": {
     "baseline": false,
@@ -72739,6 +72784,15 @@
     "page": 1,
     "summary": "Tax & Accounting Blog Posts by Thomson Reuters | Tax Preparation Newest Oldest",
     "title": "Tax & Accounting Blog Posts by Thomson Reuters"
+   },
+   "tax.thomsonreuters.com/blog/what-ai-ready-actually-means-for-a-corporate-tax-department": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T23:06:05Z",
+    "link": "https://tax.thomsonreuters.com/blog/what-ai-ready-actually-means-for-a-corporate-tax-department/",
+    "page": 1,
+    "summary": "AI-ready means four conditions: connected data, defensible outputs, a strategy people can follow, and measures that show results.",
+    "title": "AI-ready corporate tax department: what it really means"
    },
    "tax.thomsonreuters.com/blog/what-are-clients-getting-wrong-about-tax-changes-obbba-compliance-updates-for-2027": {
     "baseline": false,
