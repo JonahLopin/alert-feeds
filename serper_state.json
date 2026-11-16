@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 45422,
+  "credits_used": 45475,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T16:07:43Z",
+  "last_run": "2026-11-16T17:06:11Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 882
+  "runs": 883
  },
  "feeds": {
   "adp-help": {
@@ -11634,6 +11634,15 @@
     "summary": "President Donald Trump will face a Congress solidly under Democratic control in January and that could lead to two years of grinding policy gridlock ...",
     "title": "Debt Limit, Tariffs Top List of Likely Deals in Trump's New Era"
    },
+   "news.bloomberglaw.com/business-and-practice/dechert-adds-complex-m-a-and-takeover-partner-lombers-in-london": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-16T17:06:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/dechert-adds-complex-m-a-and-takeover-partner-lombers-in-london",
+    "page": 2,
+    "summary": "Malcolm Lombers joined Dechert LLP as a partner in its corporate and securities practice group in London, the firm announced Monday.",
+    "title": "Dechert Adds Complex M&A and Takeover Partner ..."
+   },
    "news.bloomberglaw.com/business-and-practice/dechert-adds-doj-attorney-whitaker-for-securities-litigation": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -12398,6 +12407,15 @@
     "summary": "The European Parliament adopted a report Tuesday urging better information sharing and coordination among tax administrations, EU law enforcement agency Europol ...",
     "title": "EU Parliament Pushes for Stronger Cooperation to Fight ..."
    },
+   "news.bloomberglaw.com/business-and-practice/eu-proposal-to-soften-esg-rules-for-non-eu-firms-faces-pushback": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T17:06:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/eu-proposal-to-soften-esg-rules-for-non-eu-firms-faces-pushback",
+    "page": 2,
+    "summary": "A European proposal to let non-EU companies dodge some ESG reporting rules, backed by US lobbies, is now encountering pushback in the EU.",
+    "title": "EU Proposal to Soften ESG Rules for Non-EU Firms Faces ..."
+   },
    "news.bloomberglaw.com/business-and-practice/ex-arkansas-court-official-accused-of-changing-bar-exam-scores": {
     "baseline": false,
     "date_hint": "10 hours ago",
@@ -12989,6 +13007,15 @@
     "page": 1,
     "summary": "based in San Francisco, advises shopping center developers, owner-operators, landlords, and tenants on leasing, development, and operational matters.",
     "title": "Greenberg Traurig Adds San Francisco, Denver Real ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/greenberg-traurig-nabs-alston-bird-lawyer-aldys-london-in-dc": {
+    "baseline": false,
+    "date_hint": "56 minutes ago",
+    "first_seen": "2026-11-16T17:06:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/greenberg-traurig-nabs-alston-bird-lawyer-aldys-london-in-dc",
+    "page": 1,
+    "summary": "Aldys London joined Greenberg Traurig as a shareholder in its financial regulatory & compliance practice in Washington, D.C., the firm announced Monday.",
+    "title": "Greenberg Traurig Nabs Alston & Bird Lawyer Aldys ..."
    },
    "news.bloomberglaw.com/business-and-practice/greenberg-traurig-nabs-sidley-private-funds-lawyer-in-chicago": {
     "baseline": false,
@@ -14851,6 +14878,15 @@
     "summary": "Jacob Harper rejoined Morgan Lewis as a partner in its FDA & healthcare practice in Washington, the firm announced Tuesday.",
     "title": "Morgan Lewis Healthcare Partner Harper Returns to Firm ..."
    },
+   "news.bloomberglaw.com/business-and-practice/most-federal-judges-financial-disclosures-made-public-on-time": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T17:06:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/most-federal-judges-financial-disclosures-made-public-on-time",
+    "page": 1,
+    "summary": "Nearly all federal judges' financial disclosure reports for 2025 were publicly posted by a deadline last week, an improvement over last year, ...",
+    "title": "Most Federal Judges' Financial Disclosures Made Public ..."
+   },
    "news.bloomberglaw.com/business-and-practice/motorola-settles-lawsuit-over-data-sharing-with-google-tiktok": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -15525,6 +15561,15 @@
     "page": 1,
     "summary": "Paul Hastings hired Craig Cardon, Abby Meyer and Jay Ramsey from Sheppard Mullin as partners in its complex litigation practice in California, ...",
     "title": "Paul Hastings Nabs Sheppard Mullin California Litigation ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/paul-weiss-hires-goodwin-partner-masella-for-life-sciences-m-a": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T17:06:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/paul-weiss-hires-goodwin-partner-masella-for-life-sciences-m-a",
+    "page": 2,
+    "summary": "Robert F. Masella joined Paul, Weiss, Rifkind, Wharton & Garrison as a partner in its M&A group in New York, the firm announced Monday.",
+    "title": "Paul Weiss Hires Goodwin Partner Masella for Life ..."
    },
    "news.bloomberglaw.com/business-and-practice/paul-weiss-simpson-race-to-hire-weil-lawyers-after-collapse": {
     "baseline": false,
@@ -16219,6 +16264,15 @@
     "summary": "Skadden steered GE Vernova Inc. in its $9 billion agreement to buy Trench Group from buyout firm Triton Partners, which was advised by Latham & Watkins.",
     "title": "Skadden, Latham Guide GE Vernova's $9 Billion Grid ..."
    },
+   "news.bloomberglaw.com/business-and-practice/skadden-recruits-three-weil-litigation-lawyers-in-new-york": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T17:06:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/skadden-recruits-three-weil-litigation-lawyers-in-new-york",
+    "page": 1,
+    "summary": "David Lender, Luna Barrington, and Jennifer Brooks Crozier joined Skadden as partners in its litigation practice in New York, the firm announced Monday.",
+    "title": "Skadden Recruits Three Weil Litigation Lawyers in New York"
+   },
    "news.bloomberglaw.com/business-and-practice/skydance-asks-staff-to-take-voluntary-buyouts-before-wider-cuts": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -16397,6 +16451,15 @@
     "summary": "Sullivan & Cromwell is bringing on a pair of litigators to lead its Supreme Court and appellate practice. The firm is one of the most profitable in the nation ...",
     "title": "Sullivan & Cromwell Nabs Ashurst, McGuireWoods ..."
    },
+   "news.bloomberglaw.com/business-and-practice/supervalu-whistleblowers-urged-to-weigh-mediation-in-fraud-suit": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-16T17:06:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/supervalu-whistleblowers-urged-to-weigh-mediation-in-fraud-suit",
+    "page": 1,
+    "summary": "A federal appeals court told SuperValu Inc. and two whistleblowers they should consider mediation before it reopens a False Claims Act suit alleging drug ...",
+    "title": "SuperValu, Whistleblowers Urged to Weigh Mediation in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/supreme-court-affirms-foreign-rights-ruling-after-lacking-quorum": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -16423,6 +16486,15 @@
     "page": 2,
     "summary": "The US Supreme Court on Monday denied Louisiana's bid for the high court to scrap a Fifth Circuit order pausing one of its suits against an oil and gas ...",
     "title": "Supreme Court Passes on Louisiana's Fight Over Coastal ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/supreme-court-rejects-challenge-to-gun-bans-in-public-spaces": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T17:06:11Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/supreme-court-rejects-challenge-to-gun-bans-in-public-spaces",
+    "page": 1,
+    "summary": "The US Supreme Court refused to second-guess state laws that ban firearms in widely used public spaces including parks and public transportation.",
+    "title": "Supreme Court Rejects Challenge to Gun Bans in Public ..."
    },
    "news.bloomberglaw.com/business-and-practice/supreme-court-to-hear-claim-of-bias-in-school-admissions-policy": {
     "baseline": false,
@@ -41434,6 +41506,24 @@
     "summary": "Entdecken Sie SAP Business One, eine kosteng\u00fcnstige ERP-L\u00f6sung f\u00fcr kleine und mittlere Unternehmen mit \u00fcber 30 Jahren Erfolg.",
     "title": "SAP Business One: 30 Jahre gemeinsames Wachstum"
    },
+   "news.sap.com/germany/2026/11/industry-ai-branchenwissen": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T17:06:11Z",
+    "link": "https://news.sap.com/germany/2026/11/industry-ai-branchenwissen/",
+    "page": 1,
+    "summary": "Industry AI im Einsatz: Verstehen Sie, wie ma\u00dfgeschneiderte L\u00f6sungen branchenspezifische Herausforderungen bew\u00e4ltigen k\u00f6nnen.",
+    "title": "Industry AI im Einsatz: L\u00f6sungen f\u00fcr Branchen"
+   },
+   "news.sap.com/germany/2026/11/industry-ai-branchenwissen?amp=1": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-11-16T17:06:11Z",
+    "link": "https://news.sap.com/germany/2026/11/industry-ai-branchenwissen/?amp=1",
+    "page": 1,
+    "summary": "Industry AI im Einsatz: Verstehen Sie, wie ma\u00dfgeschneiderte L\u00f6sungen branchenspezifische Herausforderungen bew\u00e4ltigen k\u00f6nnen.",
+    "title": "Industry AI im Einsatz: L\u00f6sungen f\u00fcr Branchen"
+   },
    "news.sap.com/germany/2026/11/ki-zukunft-servicebereitstellung": {
     "baseline": false,
     "date_hint": "15 hours ago",
@@ -41505,6 +41595,15 @@
     "page": 1,
     "summary": "Physische KI von SAP unterst\u00fctzt Unternehmen dabei, zu handeln. SAP verkn\u00fcpft Roboter und physische Systeme direkt mit den Gesch\u00e4ftsprozessen von Unternehmen.",
     "title": "Der n\u00e4chste Schritt f\u00fcr Autonome Unternehmen: Physical AI"
+   },
+   "news.sap.com/germany/2026/11/sap-schliesst-uebernahme-von-techwolf-ab?amp=1": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T17:06:11Z",
+    "link": "https://news.sap.com/germany/2026/11/sap-schliesst-uebernahme-von-techwolf-ab/?amp=1",
+    "page": 1,
+    "summary": "\u00dcbernahme von TechWolf, dem Anbieter einer f\u00fchrenden KI-basierten Work-Intelligence-Plattform, abgeschlossen hat.",
+    "title": "SAP schlie\u00dft \u00dcbernahme von TechWolf ab"
    },
    "news.sap.com/germany/2026/11/sap-und-astrazeneca-vertiefen-zusammenarbeit-mit-rise-with-sap-und-business-ai": {
     "baseline": false,
@@ -42719,6 +42818,15 @@
     "page": 2,
     "summary": "SAP wil zijn AI-model SAP-RPT uiterlijk begin 2027 inzetten aan boord van het internationale ruimtestation ISS. Het model gaat draaien op de Spaceborne ...",
     "title": "Van ruimtestation naar bedrijfsleven: SAP en HPE testen AI ..."
+   },
+   "news.sap.com/netherlands/2026/11/ai-gaat-van-adviseren-naar-handelen-sap-mikt-op-400-gespecialiseerde-ai-agents": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-16T17:06:11Z",
+    "link": "https://news.sap.com/netherlands/2026/11/ai-gaat-van-adviseren-naar-handelen-sap-mikt-op-400-gespecialiseerde-ai-agents/",
+    "page": 1,
+    "summary": "SAP beschikt volgens Spinelli over meer dan 200 gespecialiseerde AI-agents en wil dat aantal tegen het einde van 2026 uitbreiden tot 400. Ze ondersteunen ...",
+    "title": "AI gaat van adviseren naar handelen: SAP mikt op 400 ..."
    },
    "news.sap.com/netherlands/2026/11/van-slimme-assistent-tot-digitale-collega-hoe-ai-het-bedrijfsleven-ingrijpend-verandert": {
     "baseline": false,
