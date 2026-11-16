@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 44850,
+  "credits_used": 44901,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T04:08:35Z",
+  "last_run": "2026-11-16T05:08:10Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 871
+  "runs": 872
  },
  "feeds": {
   "adp-help": {
@@ -10852,6 +10852,15 @@
     "page": 3,
     "summary": "Carlyle Group Inc. posted third-quarter earnings that topped Wall Street estimates as profits from asset sales helped offset a decline in fee-related ...",
     "title": "Carlyle Beats as Deal Exits Mitigate Dip in Fee-Related ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/carney-eyes-auto-partners-beyond-us-as-xi-meeting-looms": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T05:08:10Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/carney-eyes-auto-partners-beyond-us-as-xi-meeting-looms",
+    "page": 1,
+    "summary": "Canada has other partners for auto manufacturing if the Trump administration doesn't want an integrated North American supply chain.",
+    "title": "Carney Eyes Auto Partners Beyond US as Xi Meeting Looms"
    },
    "news.bloomberglaw.com/business-and-practice/carney-to-raise-chinese-auto-manufacturing-in-talks-with-xi": {
     "baseline": false,
@@ -59480,6 +59489,15 @@
     "page": 1,
     "summary": "SpotOn Reserve is a comprehensive front-of-house management platform designed for restaurant merchants. It provides tools for managing reservations, waitlists, ...",
     "title": "FAQs | SpotOn Reserve"
+   },
+   "help.spoton.com/space/SK/1237221698/Payment+Settings+(BOH)+%7C+SpotOn+Counter+(RPOS)": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-16T05:08:10Z",
+    "link": "https://help.spoton.com/space/SK/1237221698/Payment+Settings+(BOH)+%7C+SpotOn+Counter+(RPOS)",
+    "page": 1,
+    "summary": "This article explains how to configure tip and signature settings for SpotOn Counter in the Back of House (BOH). Use this guide when merchants need to enable, ...",
+    "title": "Payment Settings (BOH) | SpotOn Counter (RPOS)"
    },
    "help.spoton.com/space/SK/1874428146": {
     "baseline": false,
