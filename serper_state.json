@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 45267,
+  "credits_used": 45319,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T12:57:43Z",
+  "last_run": "2026-11-16T13:58:17Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 879
+  "runs": 880
  },
  "feeds": {
   "adp-help": {
@@ -25810,6 +25810,15 @@
     "summary": "A digital invoice is an electronic document that replaces the traditional paper invoice, a manual invoice.",
     "title": "Digital Invoicing in Venezuela (SENIAT)"
    },
+   "edicomgroup.com/blog/electronic-declaration-standardized-invoice-democratic-republic-of-congo": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-16T13:58:17Z",
+    "link": "https://edicomgroup.com/blog/electronic-declaration-standardized-invoice-democratic-republic-of-congo",
+    "page": 1,
+    "summary": "Electronic reporting of standardized invoices is mandatory in the Democratic Republic of the Congo. Learn about e-DEF, requirements, and penalties.",
+    "title": "Electronic Invoicing in the Democratic Republic of the Congo"
+   },
    "edicomgroup.com/blog/fiji-electronic-fiscal-device-vat": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -40255,6 +40264,15 @@
     "summary": "Discover the legacy of Oliva, a renowned cigar brand transitioning to SAP S/4HANA Cloud for innovative growth. Read to learn more.",
     "title": "Oliva Cigar: Crafting a Digital Legacy for the Next Century"
    },
+   "news.sap.com/2026/11/order-management-built-straight-into-sap-dataxstream": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T13:58:17Z",
+    "link": "https://news.sap.com/2026/11/order-management-built-straight-into-sap-dataxstream/",
+    "page": 1,
+    "summary": "DataXstream's OMS Plus runs natively on SAP BTP\u2014no integration overhead, no separate database, and AI embedded where teams already work.",
+    "title": "Order Management Built Straight into SAP"
+   },
    "news.sap.com/2026/11/sap-a-leader-2026-gartner-magic-quadrant-cloud-erp-product-centric-enterprises": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -40704,6 +40722,24 @@
     "page": 1,
     "summary": "SAP wil zijn AI-model SAP-RPT uiterlijk begin 2027 inzetten aan boord van het internationale ruimtestation ISS. Het model gaat draaien op de Spaceborne ...",
     "title": "Van ruimtestation naar bedrijfsleven: SAP en HPE testen AI ..."
+   },
+   "news.sap.com/belgie/2026/11/ai-gaat-van-adviseren-naar-handelen-sap-mikt-op-400-gespecialiseerde-ai-agents": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T13:58:17Z",
+    "link": "https://news.sap.com/belgie/2026/11/ai-gaat-van-adviseren-naar-handelen-sap-mikt-op-400-gespecialiseerde-ai-agents/",
+    "page": 1,
+    "summary": "SAP beschikt volgens Spinelli over meer dan 200 gespecialiseerde AI-agents en wil dat aantal tegen het einde van 2026 uitbreiden tot 400. Ze ondersteunen ...",
+    "title": "AI gaat van adviseren naar handelen: SAP mikt op 400 ..."
+   },
+   "news.sap.com/belgie/2026/11/ai-gaat-van-adviseren-naar-handelen-sap-mikt-op-400-gespecialiseerde-ai-agents?amp=1": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-11-16T13:58:17Z",
+    "link": "https://news.sap.com/belgie/2026/11/ai-gaat-van-adviseren-naar-handelen-sap-mikt-op-400-gespecialiseerde-ai-agents/?amp=1",
+    "page": 1,
+    "summary": "SAP wil tegen het einde van 2026 beschikken over 400 van die agents. SAP beschikt volgens Spinelli over meer dan 200 gespecialiseerde AI-agents en",
+    "title": "AI gaat van adviseren naar handelen: SAP mikt op 400 ..."
    },
    "news.sap.com/belgie/2026/11/van-slimme-assistent-tot-digitale-collega-hoe-ai-het-bedrijfsleven-ingrijpend-verandert": {
     "baseline": false,
@@ -55039,6 +55075,15 @@
     "page": 3,
     "summary": "Accumulated depreciation is the cumulative total of depreciation recorded against an asset's cost, and it's recorded as a contra-asset on the balance sheet.",
     "title": "Is Accumulated Depreciation an Asset on Your Balance Sheet? (2026)"
+   },
+   "shopify.com/blog/is-dropshipping-legal": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-16T13:58:17Z",
+    "link": "https://www.shopify.com/blog/is-dropshipping-legal",
+    "page": 2,
+    "summary": "Dropshipping is legal in most places. It can become risky or illegal when sellers mislead customers, sell counterfeit or unsafe products, and ignore tax rules.",
+    "title": "Is Dropshipping Legal? Rules and Risks (2027)"
    },
    "shopify.com/blog/lead-scoring-template": {
     "baseline": false,
