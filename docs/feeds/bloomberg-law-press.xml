@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-15T18:44:32Z</updated>
+  <updated>2026-11-16T06:18:28Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14872536245447933080</id>
+    <title>Carney Eyes Auto Partners Beyond US as Xi Meeting Looms - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/carney-eyes-auto-partners-beyond-us-as-xi-meeting-looms" />
+    <published>2026-11-16T06:18:28Z</published>
+    <updated>2026-11-16T06:18:28Z</updated>
+    <summary>Prime Minister Mark Carney, who will meet with Chinese President Xi Jinping on Tuesday, said Canada has other partners for auto manufacturing if ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:3962323264422144856</id>
     <title>Senate Republicans Seek Lutnick Testimony on Nvidia Enforcement - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-11-11T02:24:07Z</published>
     <updated>2026-11-11T02:24:07Z</updated>
     <summary>A federal judge in Florida ruled that President Donald Trump's $10 billion lawsuit against British Broadcasting Corp. can proceed, giving a boost ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:3833737224127110740</id>
-    <title>US Audit Board Targets AI Misuse With Specialty Enforcement Unit - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/us-audit-board-targets-ai-misuse-with-specialty-enforcement-unit" />
-    <published>2026-11-11T00:43:50Z</published>
-    <updated>2026-11-11T00:43:50Z</updated>
-    <summary>The US audit regulator has launched a specialized AI unit focused on investigating auditor misconduct involving the emerging technology.</summary>
   </entry>
 </feed>
