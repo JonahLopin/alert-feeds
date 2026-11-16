@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 44691,
+  "credits_used": 44744,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T00:56:53Z",
+  "last_run": "2026-11-16T02:10:39Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 868
+  "runs": 869
  },
  "feeds": {
   "adp-help": {
@@ -24088,6 +24088,15 @@
     "page": 1,
     "summary": "Get your store ready with this Black Friday checklist for small retailers: inventory, delivery and pickup, promotions, and staffing. Free download.",
     "title": "Black Friday Checklist: Free Guide for Small Retailers"
+   },
+   "merchants.doordash.com/en-us/blog/building-restaurant-website": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-16T02:10:39Z",
+    "link": "https://merchants.doordash.com/en-us/blog/building-restaurant-website",
+    "page": 1,
+    "summary": "Step 1: Pick a domain name that's. Match your restaurant name. A website builder lets you build your site by dragging and clicking, no coding skills needed. ...",
+    "title": "How to Build a Restaurant Website That Gets Orders"
    },
    "merchants.doordash.com/en-us/blog/coffee-shop-business-plan": {
     "baseline": false,
