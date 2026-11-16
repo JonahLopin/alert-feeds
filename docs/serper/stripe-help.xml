@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-15T10:42:55Z</updated>
+  <updated>2026-11-16T04:08:35Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/js/react_stripe_js/checkout/confirm?__=&amp;__cf_chl_jschl_tk__=pmd_f6969fc42a4f39e3af2950c0e26100501dd9e9b3-1629084041-0-gqNtZGzNAiKjcnBszQiO</id>
+    <title>Stripe JS Reference</title>
+    <link href="https://docs.stripe.com/js/react_stripe_js/checkout/confirm?__=&amp;__cf_chl_jschl_tk__=pmd_f6969fc42a4f39e3af2950c0e26100501dd9e9b3-1629084041-0-gqNtZGzNAiKjcnBszQiO" />
+    <published>2026-11-16T04:08:35Z</published>
+    <updated>2026-11-16T04:08:35Z</updated>
+    <summary>The URL to redirect your customer to after they authenticate or cancel their payment on the payment method's app or site. This parameter is only required if you ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/data/access-data-in-warehouse?locale=en-GB</id>
     <title>How Data Pipeline works</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T16:43:02Z</published>
     <updated>2026-11-06T16:43:02Z</updated>
     <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdQHEIkXXtIF7t6QiJFjWtjDxv_Km9tWsGDnNCyg9K7_8bpNLazLl-cbFT6XwhfUcwyuQgGq5g5KeSVa476X7Xqu6CQzPGtp-W60WpQ4Y_IbKos1AL0DU03XCIjfyhBrrJMtpLARmhwYvODKAyjXWQiRH0TWviQ</id>
-    <title>Test stablecoin-backed cards</title>
-    <link href="https://www.google.com/goto?url=CAESdQHEIkXXtIF7t6QiJFjWtjDxv_Km9tWsGDnNCyg9K7_8bpNLazLl-cbFT6XwhfUcwyuQgGq5g5KeSVa476X7Xqu6CQzPGtp-W60WpQ4Y_IbKos1AL0DU03XCIjfyhBrrJMtpLARmhwYvODKAyjXWQiRH0TWviQ" />
-    <published>2026-11-06T16:43:02Z</published>
-    <updated>2026-11-06T16:43:02Z</updated>
-    <summary>Set up connected Stripe and Bridge sandboxes, fund test wallets on testnets, and simulate authorizations for stablecoin-backed cards.</summary>
   </entry>
 </feed>

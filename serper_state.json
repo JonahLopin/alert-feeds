@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 44797,
+  "credits_used": 44850,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T03:08:56Z",
+  "last_run": "2026-11-16T04:08:35Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 870
+  "runs": 871
  },
  "feeds": {
   "adp-help": {
@@ -61847,6 +61847,15 @@
     "page": 2,
     "summary": "checkout.loadFonts(fonts). Load an additional array of custom fonts into Elements after it loads.",
     "title": "Load additional custom fonts into Elements"
+   },
+   "docs.stripe.com/js/react_stripe_js/checkout/confirm?__=&__cf_chl_jschl_tk__=pmd_f6969fc42a4f39e3af2950c0e26100501dd9e9b3-1629084041-0-gqNtZGzNAiKjcnBszQiO": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-16T04:08:35Z",
+    "link": "https://docs.stripe.com/js/react_stripe_js/checkout/confirm?__=&__cf_chl_jschl_tk__=pmd_f6969fc42a4f39e3af2950c0e26100501dd9e9b3-1629084041-0-gqNtZGzNAiKjcnBszQiO",
+    "page": 3,
+    "summary": "The URL to redirect your customer to after they authenticate or cancel their payment on the payment method's app or site. This parameter is only required if you ...",
+    "title": "Stripe JS Reference"
    },
    "docs.stripe.com/js/react_stripe_js/checkout_form/checkout_form?type=payment": {
     "baseline": false,
