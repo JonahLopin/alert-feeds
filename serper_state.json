@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 45527,
+  "credits_used": 45582,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T18:08:18Z",
+  "last_run": "2026-11-16T19:05:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 884
+  "runs": 885
  },
  "feeds": {
   "adp-help": {
@@ -11428,6 +11428,15 @@
     "summary": "Crowell & Moring partners rejected President Donald Trump's ex-top air regulator Aaron Szabo for a job because they took issue with his tenure in the ...",
     "title": "Crowell Partners Rejected Szabo for Job Before Pillsbury ..."
    },
+   "news.bloomberglaw.com/business-and-practice/crypto-bank-rejected-by-supreme-court-over-fed-payment-access": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-16T19:05:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/crypto-bank-rejected-by-supreme-court-over-fed-payment-access",
+    "page": 2,
+    "summary": "The US Supreme Court refused to hear an appeal from Custodia Bank Inc., ending a lawsuit the cryptocurrency bank filed to gain access to the Federal Reserve ...",
+    "title": "Crypto Bank Rejected by Supreme Court Over Fed ..."
+   },
    "news.bloomberglaw.com/business-and-practice/crypto-braces-for-hostile-climate-as-democrats-vie-for-top-posts": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -14464,6 +14473,15 @@
     "summary": "Louisiana and Cameron Parish on Wednesday urged the US Supreme Court to get rid of a Fifth Circuit order pausing one of the several cases launched against ...",
     "title": "Louisiana Asks Supreme Court to Take on Fossil Fuel ..."
    },
+   "news.bloomberglaw.com/business-and-practice/louisiana-gets-trump-epas-approval-to-manage-its-own-coal-waste": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-16T19:05:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/louisiana-gets-trump-epas-approval-to-manage-its-own-coal-waste",
+    "page": 2,
+    "summary": "The EPA on Monday announced it approved Louisiana's bid to run its own coal ash permitting program.",
+    "title": "Louisiana Gets Trump EPA's Approval to Manage its Own ..."
+   },
    "news.bloomberglaw.com/business-and-practice/louisiana-inches-toward-state-data-center-property-tax-valuation": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -14670,6 +14688,15 @@
     "page": 2,
     "summary": "McDermott Will & Schulte slashed new partner promotions by more than half in its first full year since the merger that created the law firm.",
     "title": "McDermott Partner Promotions Dip in Year After Schulte ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/mcdermott-will-schulte-lands-restructuring-partner-in-london": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-16T19:05:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/mcdermott-will-schulte-lands-restructuring-partner-in-london",
+    "page": 1,
+    "summary": "Potts advises creditors, lenders, investment funds and other stakeholders on high-value financial restructurings, refinancings and rescue financings.",
+    "title": "McDermott Will & Schulte Lands Restructuring Partner in ..."
    },
    "news.bloomberglaw.com/business-and-practice/mckinsey-partner-quits-ngo-as-fallout-from-online-posts-widens": {
     "baseline": false,
@@ -15309,6 +15336,15 @@
     "page": 5,
     "summary": "New York budget officials are bracing for potential new AI regulations to slow the growth of tax collections that have surged in recent months due to record ...",
     "title": "NY Budget Head Warns of AI Rules' Impact on Tax Collections"
+   },
+   "news.bloomberglaw.com/business-and-practice/nyc-congestion-pricing-plan-suit-rejected-by-judge-in-new-jersey": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T19:05:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/nyc-congestion-pricing-plan-suit-rejected-by-judge-in-new-jersey",
+    "page": 2,
+    "summary": "A US judge dismissed the proposed class action brought by two New Jerseyans and one Virginian who sought a refund of all the MTA tolls they had paid since the ...",
+    "title": "NYC Congestion Pricing Plan Suit Rejected by Judge in ..."
    },
    "news.bloomberglaw.com/business-and-practice/ogletree-deakins-lands-two-california-employment-shareholders": {
     "baseline": false,
@@ -17593,6 +17629,15 @@
     "page": 2,
     "summary": "The Trump administration barred civilian US government agencies from using products or services from Chinese artificial intelligence startup DeepSeek, ...",
     "title": "US Moves to Bar DeepSeek From Federal Agencies and ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/us-moves-to-tighten-rules-for-firms-sponsoring-foreign-workers": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-16T19:05:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-moves-to-tighten-rules-for-firms-sponsoring-foreign-workers",
+    "page": 2,
+    "summary": "The US Department of Labor proposed tightening rules for employers seeking to hire foreign workers for certain roles in the US.",
+    "title": "US Moves to Tighten Rules for Firms Sponsoring Foreign ..."
    },
    "news.bloomberglaw.com/business-and-practice/us-plan-to-rehabilitate-dark-fleet-tankers-may-find-few-takers": {
     "baseline": false,
@@ -36118,6 +36163,15 @@
     "page": 1,
     "summary": "While small towns might not have the same foot traffic as big cities, they can still be bustling with activity and can be the ideal starting point for a ...",
     "title": "40 Most Successful Small Town Business Ideas"
+   },
+   "lightspeedhq.com/blog/top-retail-marketing-tips": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-16T19:05:53Z",
+    "link": "https://www.lightspeedhq.com/blog/top-retail-marketing-tips/",
+    "page": 1,
+    "summary": "Retail marketing helps your business expand its reach, connect with customers, nurture relationships and tell your brand story. It can also be used to ...",
+    "title": "16 Retail Marketing and Advertising Ideas"
    },
    "lightspeedhq.com/blog/what-is-a-lot-number": {
     "baseline": false,
