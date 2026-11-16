@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 45163,
+  "credits_used": 45215,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T10:47:04Z",
+  "last_run": "2026-11-16T11:44:34Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 877
+  "runs": 878
  },
  "feeds": {
   "adp-help": {
@@ -10889,6 +10889,15 @@
     "summary": "Commercial beef production will be a top priority on federal lands, including in national parks and wildlife refuges, under an order Interior Secretary Doug ...",
     "title": "Cattle Grazing Now a Primary Public Lands Use to Boost ..."
    },
+   "news.bloomberglaw.com/business-and-practice/ceo-worker-pay-gaps-spark-corporate-tax-hike-plans-in-oregon": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T11:44:34Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ceo-worker-pay-gaps-spark-corporate-tax-hike-plans-in-oregon",
+    "page": 1,
+    "summary": "The cash-strapped city of Portland, Ore., is weighing a nearly fivefold effective tax increase on companies like Starbucks Corp. and Wells Fargo & Co. that ...",
+    "title": "CEO-Worker Pay Gaps Spark Corporate Tax Hike Plans in ..."
+   },
    "news.bloomberglaw.com/business-and-practice/cftc-relief-opens-prediction-market-floodgates-for-app-makers": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -12702,6 +12711,15 @@
     "page": 2,
     "summary": "Jonathan Lasken joined Foley & Lardner as a partner in its antitrust and competition practice group in Washington, D.C., the firm announced.",
     "title": "Foley & Lardner Taps DOJ Antitrust Division Lawyer ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/food-groups-question-legality-of-trumps-soda-candy-ban-in-snap": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T11:44:34Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/food-groups-question-legality-of-trumps-soda-candy-ban-in-snap",
+    "page": 1,
+    "summary": "Beverage companies question the legality of keeping SNAP recipients from using their benefits to buy their products. Photographer David Paul Morris/Bloomberg.",
+    "title": "Food Groups Question Legality of Trump's Soda, Candy ..."
    },
    "news.bloomberglaw.com/business-and-practice/former-wwe-ring-workers-advance-child-sexual-abuse-lawsuit": {
     "baseline": false,
@@ -16298,6 +16316,15 @@
     "page": 4,
     "summary": "A quarter of attorneys now fear losing their jobs to artificial intelligence, according to Bloomberg Law's new State of Practice survey. For early-career ...",
     "title": "State of Practice: Attorneys Rely on AI but Fear Losing Jobs"
+   },
+   "news.bloomberglaw.com/business-and-practice/state-property-tax-changes-to-worsen-existing-racial-disparities": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T11:44:34Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/state-property-tax-changes-to-worsen-existing-racial-disparities",
+    "page": 1,
+    "summary": "Property tax law cuts in multiple states could exacerbate racial disparities in the system, such as those stemming from unequal property assessments, ...",
+    "title": "State Property Tax Changes to Worsen Existing Racial ..."
    },
    "news.bloomberglaw.com/business-and-practice/steptoe-role-in-hughes-bankruptcy-challenged-over-echostar-ties": {
     "baseline": false,
