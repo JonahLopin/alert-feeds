@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-16T05:08:10Z</updated>
+  <updated>2026-11-16T07:14:54Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2319286787/Online+Ordering+Integrations+%7C+SpotOn+Restaurant</id>
+    <title>Online Ordering Integrations | SpotOn Restaurant</title>
+    <link href="https://help.spoton.com/space/SK/2319286787/Online+Ordering+Integrations+%7C+SpotOn+Restaurant" />
+    <published>2026-11-16T07:14:54Z</published>
+    <updated>2026-11-16T07:14:54Z</updated>
+    <summary>This page provides a centralized overview of SpotOn Restaurant online ordering integrations, serving as a quick reference point for locating partner-specific ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/1237221698/Payment+Settings+(BOH)+%7C+SpotOn+Counter+(RPOS)</id>
     <title>Payment Settings (BOH) | SpotOn Counter (RPOS)</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T04:43:04Z</published>
     <updated>2026-10-31T04:43:04Z</updated>
     <summary>Adjust tips after payment for paid orders in receipt-based tipping workflows. You can adjust the tip within 10 minutes of the initial change. SpotOn Customer ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVjjMqW9r95qTY_UETcJWmLuA_2nndfo4TcewUS8e4MWguK3Q0zOxYL3jEhAvBHzker6dG8U3hPGzQJutyh1dtM_9IdI3xcY1V9n2w7oeMx1u6FXXok39J0SlcwckW4tCEKQ</id>
-    <title>Open Items and Market Price | SpotOn Restaurant BOH</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVjjMqW9r95qTY_UETcJWmLuA_2nndfo4TcewUS8e4MWguK3Q0zOxYL3jEhAvBHzker6dG8U3hPGzQJutyh1dtM_9IdI3xcY1V9n2w7oeMx1u6FXXok39J0SlcwckW4tCEKQ" />
-    <published>2026-10-31T04:43:04Z</published>
-    <updated>2026-10-31T04:43:04Z</updated>
-    <summary>Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu price.</summary>
   </entry>
 </feed>

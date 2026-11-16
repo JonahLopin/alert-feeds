@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 44954,
+  "credits_used": 45007,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T06:17:07Z",
+  "last_run": "2026-11-16T07:14:54Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 873
+  "runs": 874
  },
  "feeds": {
   "adp-help": {
@@ -40165,6 +40165,15 @@
     "summary": "New SAP research reveals there's a structural shift that's changing how businesses get chosen\u2014and what brands can do about it.",
     "title": "The Customer Journey Is Fractured, and That's Progress"
    },
+   "news.sap.com/2026/11/india-promise-to-platform-global-growth": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T07:14:54Z",
+    "link": "https://news.sap.com/2026/11/india-promise-to-platform-global-growth/",
+    "page": 1,
+    "summary": "India is already one of the fastest-growing major economies, with annual GDP growth of roughly 6.5% to 7% and an economy of about US$4.15 trillion today. At its ...",
+    "title": "India's Rise: From Promise to Platform for Global Growth"
+   },
    "news.sap.com/2026/11/interview-with-manish-prasad-sap-india": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -59570,6 +59579,15 @@
     "page": 1,
     "summary": "When Quantity on Hand is enabled, the current inventory count will display directly on the FOH menu item button. Each time the item is ordered, the quantity ...",
     "title": "Enable / Edit Quantity on Hand | SpotOn Restaurant FOH"
+   },
+   "help.spoton.com/space/SK/2319286787/Online+Ordering+Integrations+%7C+SpotOn+Restaurant": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-16T07:14:54Z",
+    "link": "https://help.spoton.com/space/SK/2319286787/Online+Ordering+Integrations+%7C+SpotOn+Restaurant",
+    "page": 1,
+    "summary": "This page provides a centralized overview of SpotOn Restaurant online ordering integrations, serving as a quick reference point for locating partner-specific ...",
+    "title": "Online Ordering Integrations | SpotOn Restaurant"
    },
    "help.spoton.com/space/SK/2361492065": {
     "baseline": false,
