@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-16T11:44:34Z</updated>
+  <updated>2026-11-16T12:57:43Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/nvidias-outside-investigator-matches-seriousness-of-allegations</id>
+    <title>Nvidia's Outside Investigator Matches Seriousness of ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/nvidias-outside-investigator-matches-seriousness-of-allegations" />
+    <published>2026-11-16T12:57:43Z</published>
+    <updated>2026-11-16T12:57:43Z</updated>
+    <summary>Nvidia Corp.'s investigation broadcasts how serious the company's board is in addressing national security risks posed by the ousted CEO's tryst with a ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/state-property-tax-changes-to-worsen-existing-racial-disparities</id>
     <title>State Property Tax Changes to Worsen Existing Racial ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-11T17:43:19Z</published>
     <updated>2026-11-11T17:43:19Z</updated>
     <summary>Amazon.com Inc. couldn't convince a federal judge to deny class certification for users of Amazon Photos whose faces were scanned in photographs in alleged ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/sidley-adds-weil-private-equity-partner-stott-in-san-francisco</id>
-    <title>Sidley Adds Weil Private Equity Partner Stott in San ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/sidley-adds-weil-private-equity-partner-stott-in-san-francisco" />
-    <published>2026-11-11T16:43:26Z</published>
-    <updated>2026-11-11T16:43:26Z</updated>
-    <summary>Sidley Austin is continuing its private equity expansion with the addition of Jonathan Stott from Weil Gotshal &amp; Manges, which has commenced its wind-down ...</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 45215,
+  "credits_used": 45267,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T11:44:34Z",
+  "last_run": "2026-11-16T12:57:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 878
+  "runs": 879
  },
  "feeds": {
   "adp-help": {
@@ -15237,6 +15237,15 @@
     "page": 3,
     "summary": "While Nvidia Corp. spent decades becoming one of the world's most influential technology companies, its board failed to keep pace.",
     "title": "Nvidia's No-Stars Board Takes On Tech's Most Important ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/nvidias-outside-investigator-matches-seriousness-of-allegations": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-16T12:57:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/nvidias-outside-investigator-matches-seriousness-of-allegations",
+    "page": 1,
+    "summary": "Nvidia Corp.'s investigation broadcasts how serious the company's board is in addressing national security risks posed by the ousted CEO's tryst with a ...",
+    "title": "Nvidia's Outside Investigator Matches Seriousness of ..."
    },
    "news.bloomberglaw.com/business-and-practice/ny-budget-head-warns-of-ai-rules-impact-on-tax-collections": {
     "baseline": false,
