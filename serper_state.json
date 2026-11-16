@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 44744,
+  "credits_used": 44797,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T02:10:39Z",
+  "last_run": "2026-11-16T03:08:56Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 869
+  "runs": 870
  },
  "feeds": {
   "adp-help": {
@@ -55415,6 +55415,15 @@
     "page": 1,
     "summary": "Podcast advertising is when a business pays to promote its product or service during a podcast, either through a produced commercial or a mention read out ...",
     "title": "Podcast Advertising: Costs and How To Buy (2026)"
+   },
+   "shopify.com/blog/point-of-sale-terminal": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-16T03:08:56Z",
+    "link": "https://www.shopify.com/blog/point-of-sale-terminal",
+    "page": 4,
+    "summary": "A point-of-sale (POS) terminal is where a retail business processes payments, builds customer relationships, and gathers the sales insights that help the ...",
+    "title": "What Is a POS Terminal? 11 Top Picks for 2027"
    },
    "shopify.com/blog/pop-up-shop-display-ideas": {
     "baseline": false,
