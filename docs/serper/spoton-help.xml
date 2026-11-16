@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-16T07:14:54Z</updated>
+  <updated>2026-11-16T08:29:32Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/4571693057/Product+Mix+%7C+SpotOn+Dashboard</id>
+    <title>Product Mix | SpotOn Dashboard</title>
+    <link href="https://help.spoton.com/space/SK/4571693057/Product+Mix+%7C+SpotOn+Dashboard" />
+    <published>2026-11-16T08:29:32Z</published>
+    <updated>2026-11-16T08:29:32Z</updated>
+    <summary>The SpotOn Dashboard Product Mix report gives you a complete view of how each menu item performs. It helps you quickly identify best sellers, understand when ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/2319286787/Online+Ordering+Integrations+%7C+SpotOn+Restaurant</id>
     <title>Online Ordering Integrations | SpotOn Restaurant</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T05:42:34Z</published>
     <updated>2026-10-31T05:42:34Z</updated>
     <summary>Overview. Order Types determine how orders are processed within SpotOn Restaurant (RPOS). They can be configured with unique pricing, customer requirements, ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVugkxgzN3R8SZcLdDB8amZrXFz4kNKK2s2un8kqiOe5qiL2Oapkhivw4csv2t8Ngt-HddLwtZuyGLS952x7k0bRbCUwvuHgnVW7MxXzSie_ciZ2owsxrC1RJidfVABGjQPQ</id>
-    <title>Tip Adjustments | SpotOn Express</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVugkxgzN3R8SZcLdDB8amZrXFz4kNKK2s2un8kqiOe5qiL2Oapkhivw4csv2t8Ngt-HddLwtZuyGLS952x7k0bRbCUwvuHgnVW7MxXzSie_ciZ2owsxrC1RJidfVABGjQPQ" />
-    <published>2026-10-31T04:43:04Z</published>
-    <updated>2026-10-31T04:43:04Z</updated>
-    <summary>Adjust tips after payment for paid orders in receipt-based tipping workflows. You can adjust the tip within 10 minutes of the initial change. SpotOn Customer ...</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 45007,
+  "credits_used": 45059,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T07:14:54Z",
+  "last_run": "2026-11-16T08:29:32Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 874
+  "runs": 875
  },
  "feeds": {
   "adp-help": {
@@ -53818,6 +53818,15 @@
     "summary": "Compare the best T-shirt fonts by design style, from bold sans serifs to scripts. See which print methods and pairings work for each.",
     "title": "Best T-Shirt Fonts: A 2026 Guide To Style, Fit, and Printing"
    },
+   "shopify.com/blog/best-website-fonts": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-16T08:29:32Z",
+    "link": "https://www.shopify.com/blog/best-website-fonts",
+    "page": 2,
+    "summary": "See 8 of the best fonts for websites, from free Google Fonts to licensed typefaces, and learn how to choose and add fonts to your Shopify store.",
+    "title": "Best Font for Websites: Top 8 for Shopify (2027)"
+   },
    "shopify.com/blog/bfcm-checklist": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -60159,6 +60168,15 @@
     "page": 1,
     "summary": "Create an Item-Level Discount \u00b7 Log in to the SpotOn Dashboard. \u00b7 Navigate to Menu & Tables > Discounts. \u00b7 Select Add Discount in the upper-right corner.",
     "title": "Create and Manage Discounts | Dashboard | SpotOn Express"
+   },
+   "help.spoton.com/space/SK/4571693057/Product+Mix+%7C+SpotOn+Dashboard": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-16T08:29:32Z",
+    "link": "https://help.spoton.com/space/SK/4571693057/Product+Mix+%7C+SpotOn+Dashboard",
+    "page": 1,
+    "summary": "The SpotOn Dashboard Product Mix report gives you a complete view of how each menu item performs. It helps you quickly identify best sellers, understand when ...",
+    "title": "Product Mix | SpotOn Dashboard"
    },
    "help.spoton.com/space/SK/4616290379": {
     "baseline": false,

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-16T03:08:56Z</updated>
+  <updated>2026-11-16T08:29:32Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/best-website-fonts</id>
+    <title>Best Font for Websites: Top 8 for Shopify (2027)</title>
+    <link href="https://www.shopify.com/blog/best-website-fonts" />
+    <published>2026-11-16T08:29:32Z</published>
+    <updated>2026-11-16T08:29:32Z</updated>
+    <summary>See 8 of the best fonts for websites, from free Google Fonts to licensed typefaces, and learn how to choose and add fonts to your Shopify store.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/point-of-sale-terminal</id>
     <title>What Is a POS Terminal? 11 Top Picks for 2027</title>
@@ -795,13 +803,5 @@
     <published>2026-11-09T01:42:55Z</published>
     <updated>2026-11-09T01:42:55Z</updated>
     <summary>How to create Instagram ads with Ads Manager · 1. Link your Instagram to your Facebook · 2. Create an Instagram ad campaign · 3. Choose your campaign objective.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/ai-models</id>
-    <title>AI Models: Types, How They Work, and Key Uses (2026)</title>
-    <link href="https://www.shopify.com/blog/ai-models" />
-    <published>2026-11-08T22:42:37Z</published>
-    <updated>2026-11-08T22:42:37Z</updated>
-    <summary>AI models are the engines already powering the artificial intelligence tools you use to run your business. It's the software trained to generate content, ...</summary>
   </entry>
 </feed>
