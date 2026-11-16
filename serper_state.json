@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 45319,
+  "credits_used": 45371,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T13:58:17Z",
+  "last_run": "2026-11-16T15:07:31Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 880
+  "runs": 881
  },
  "feeds": {
   "adp-help": {
@@ -14195,6 +14195,15 @@
     "summary": "Three Big Law firms guided delivery-app DoorDash Inc.'s $17 billion plan to purchase grocery-focused rival Instacart.",
     "title": "Latham, Cravath, Cooley Aid $17 Billion DoorDash- ..."
    },
+   "news.bloomberglaw.com/business-and-practice/latham-watkins-builds-capital-firepower-with-trio-from-cahill": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-16T15:07:31Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/latham-watkins-builds-capital-firepower-with-trio-from-cahill",
+    "page": 1,
+    "summary": "Latham & Watkins on Monday announced a three-partner hire from Cahill Gordon & Reindel, extending a multiyear push to bring its banking, private credit and ...",
+    "title": "Latham & Watkins Builds Capital Firepower With Trio From ..."
+   },
    "news.bloomberglaw.com/business-and-practice/latham-watkins-hires-doj-tax-lawyer-steven-johnson-as-partner": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -17692,6 +17701,15 @@
     "page": 5,
     "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
     "title": "Wake Up Call: AI-Native Firm Bets on Tech to Avoid Weil's ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-baker-mckenzie-nods-to-ai-in-hourly-billing-shift": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-16T15:07:31Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-baker-mckenzie-nods-to-ai-in-hourly-billing-shift",
+    "page": 1,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
+    "title": "Wake Up Call: Baker McKenzie Nods to AI in Hourly Billing ..."
    },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-biden-antitrust-chiefs-start-legal-ai-company": {
     "baseline": false,
