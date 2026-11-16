@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-16T17:07:41Z</updated>
+  <updated>2026-11-16T18:10:39Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:7700844140709456839</id>
+    <title>US Moves to Tighten Rules for Firms Sponsoring Foreign Workers - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/us-moves-to-tighten-rules-for-firms-sponsoring-foreign-workers" />
+    <published>2026-11-16T18:10:39Z</published>
+    <updated>2026-11-16T18:10:39Z</updated>
+    <summary>The US Department of Labor proposed tightening rules for employers seeking to hire foreign workers for certain roles in the US.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:7810060720245521584</id>
     <title>EU Proposal to Soften ESG Rules for Non-EU Firms Faces Pushback - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-11-11T19:05:47Z</published>
     <updated>2026-11-11T19:05:47Z</updated>
     <summary>The US Patent and Trademark Office said Tuesday it will restore the authority of the Patent Trial and Appeal Board to institute Inter Partes ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:9418722713450633547</id>
-    <title>Harley-Davidson Hit With Proposed Class Action After Data Breach - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/harley-davidson-hit-with-proposed-class-action-after-data-breach" />
-    <published>2026-11-11T18:07:12Z</published>
-    <updated>2026-11-11T18:07:12Z</updated>
-    <summary>A former Harley-Davidson Inc. employee sued the motorcycle maker over a September ransomware attack in which a criminal hacking group stole ...</summary>
   </entry>
 </feed>

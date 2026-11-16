@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-16T17:06:11Z</updated>
+  <updated>2026-11-16T18:08:18Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/baker-mckenzie-snags-corporate-transactions-partner-in-toronto</id>
+    <title>Baker McKenzie Snags Corporate Transactions Partner in ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/baker-mckenzie-snags-corporate-transactions-partner-in-toronto" />
+    <published>2026-11-16T18:08:18Z</published>
+    <updated>2026-11-16T18:08:18Z</updated>
+    <summary>Ranjeev Dhillon joined Baker McKenzie as a partner in its transactional practice in Toronto, the firm announced Monday.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/supreme-court-rejects-challenge-to-gun-bans-in-public-spaces</id>
     <title>Supreme Court Rejects Challenge to Gun Bans in Public ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-12T03:25:43Z</published>
     <updated>2026-11-12T03:25:43Z</updated>
     <summary>Mississippi has elected a Democratic prosecutor whose federal judicial nomination was blocked three years ago by the senator he ran against.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/house-passes-bill-to-broaden-nonprofit-retirement-investments</id>
-    <title>House Passes Bill to Broaden Nonprofit Retirement Investments</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/house-passes-bill-to-broaden-nonprofit-retirement-investments" />
-    <published>2026-11-11T23:05:56Z</published>
-    <updated>2026-11-11T23:05:56Z</updated>
-    <summary>Teachers, healthcare workers and nonprofit employees would have expanded investment options available under their retirement plans under a bill passed by ...</summary>
   </entry>
 </feed>

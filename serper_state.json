@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 45475,
+  "credits_used": 45527,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-16T17:06:11Z",
+  "last_run": "2026-11-16T18:08:18Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 883
+  "runs": 884
  },
  "feeds": {
   "adp-help": {
@@ -10312,6 +10312,15 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/baker-mckenzie-hire-formalizes-congressional-investigations-work",
     "summary": "Kirkland & Ellis partner Allison Murphy is joining Baker McKenzie to co-head the congressional investigations practice, weeks before the midterm elections ...",
     "title": "Baker McKenzie Hire Formalizes Congressional ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/baker-mckenzie-snags-corporate-transactions-partner-in-toronto": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-16T18:08:18Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/baker-mckenzie-snags-corporate-transactions-partner-in-toronto",
+    "page": 1,
+    "summary": "Ranjeev Dhillon joined Baker McKenzie as a partner in its transactional practice in Toronto, the firm announced Monday.",
+    "title": "Baker McKenzie Snags Corporate Transactions Partner in ..."
    },
    "news.bloomberglaw.com/business-and-practice/bankrupt-liv-golf-adds-former-taylormade-ceo-as-senior-adviser": {
     "baseline": false,
@@ -35362,6 +35371,15 @@
     "summary": "Learn how to assign access levels to team members in Books Close \u2014 so everything reconciles cleanly. Follow our step-by-step guide.",
     "title": "Assign access levels to team members in Books Close"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/printers-printing/print-1099-forms/L2aynlbIc_US_en_US": {
+    "baseline": false,
+    "date_hint": "47 minutes ago",
+    "first_seen": "2026-11-16T18:08:18Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/printers-printing/print-1099-forms/L2aynlbIc_US_en_US",
+    "page": 1,
+    "summary": "Learn print 1099 form \u2014 without the usual headaches. Do it in just a few clicks.",
+    "title": "Print your 1099 and 1096 forms - QuickBooks - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/printers-printing/quickbooks-file-deliver-w-2s/L8zwjjzQf_US_en_US": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -40435,6 +40453,15 @@
     "summary": "It enables organizations to create AI agents and workflow automations to streamline operations across finance, sales, HR, IT, and customer support. Use cases ...",
     "title": "Cohere North Generally Available on SAP Business AI ..."
    },
+   "news.sap.com/2026/11/sap-completes-acquisition-of-techwolf": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-16T18:08:18Z",
+    "link": "https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf/",
+    "page": 1,
+    "summary": "WALLDORF \u2014 SAP SE (NYSE: SAP) today announced it has completed the acquisition of TechWolf, provider of a leading AI work intelligence platform.",
+    "title": "SAP Completes Acquisition of TechWolf"
+   },
    "news.sap.com/2026/11/sap-expands-collaboration-astrazeneca-rise-with-sap-business-ai": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -41595,6 +41622,15 @@
     "page": 1,
     "summary": "Physische KI von SAP unterst\u00fctzt Unternehmen dabei, zu handeln. SAP verkn\u00fcpft Roboter und physische Systeme direkt mit den Gesch\u00e4ftsprozessen von Unternehmen.",
     "title": "Der n\u00e4chste Schritt f\u00fcr Autonome Unternehmen: Physical AI"
+   },
+   "news.sap.com/germany/2026/11/sap-schliesst-uebernahme-von-techwolf-ab": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-16T18:08:18Z",
+    "link": "https://news.sap.com/germany/2026/11/sap-schliesst-uebernahme-von-techwolf-ab/",
+    "page": 1,
+    "summary": "\u00dcbernahme von TechWolf, dem Anbieter einer f\u00fchrenden KI-basierten Work-Intelligence-Plattform, abgeschlossen hat.",
+    "title": "SAP schlie\u00dft \u00dcbernahme von TechWolf ab"
    },
    "news.sap.com/germany/2026/11/sap-schliesst-uebernahme-von-techwolf-ab?amp=1": {
     "baseline": false,
