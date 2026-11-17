@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-17T02:26:39Z</updated>
+  <updated>2026-11-17T06:33:02Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/japan/2026/11/1117_eagle-industry-establishes-company-wide-procurement-platform-with-sap/</id>
+    <title>イーグル工業、直接材・間接材の調達購買をSAPソリューション ...</title>
+    <link href="https://news.sap.com/japan/2026/11/1117_eagle-industry-establishes-company-wide-procurement-platform-with-sap/" />
+    <published>2026-11-17T06:33:02Z</published>
+    <updated>2026-11-17T06:33:02Z</updated>
+    <summary>イーグル工業の直接材・間接材の調達購買業務を、SAP S/4HANA®と連携する全社共通の基盤へ統合する取り組みは、ソフテスが支援しました。2025年11月に直接材向け、2026年8 ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/japan/2026/11/1117_sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/?amp=1</id>
     <title>Gartner® Magic Quadrant™ エンタープライズ・アーキテクチャ ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-09T15:43:13Z</published>
     <updated>2026-11-09T15:43:13Z</updated>
     <summary>Discover the legacy of Oliva, a renowned cigar brand transitioning to SAP S/4HANA Cloud for innovative growth. Read to learn more.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/japan/2026/11/1109_next-chapter-spend-management-ai-innovations-sap-ariba-sap-fieldglass-sap-concur/?amp=1</id>
-    <title>支出管理の次章：SAP Ariba®、SAP Fieldglass</title>
-    <link href="https://news.sap.com/japan/2026/11/1109_next-chapter-spend-management-ai-innovations-sap-ariba-sap-fieldglass-sap-concur/?amp=1" />
-    <published>2026-11-09T14:43:09Z</published>
-    <updated>2026-11-09T14:43:09Z</updated>
-    <summary>SAP はこうした課題への対応を支援するため、SAP Ariba、SAP Fieldglass、SAP Concur のポートフォリオ全体にわたる一連のイノベーションを SAP Connect で発表しました。</summary>
   </entry>
 </feed>

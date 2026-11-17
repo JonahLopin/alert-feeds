@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 46149,
+  "credits_used": 46207,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-17T05:23:53Z",
+  "last_run": "2026-11-17T06:33:02Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 895
+  "runs": 896
  },
  "feeds": {
   "adp-help": {
@@ -18908,6 +18908,15 @@
     "summary": "A restaurant can serve dine-in guests, accept website pickup orders, receive marketplace deliveries, and redeem loyalty rewards during the same dinner rush.",
     "title": "How Restaurants Prevent Order Errors During the Friday ..."
    },
+   "chowbus.com/blog/integrated-payment-processing-end-of-day-close": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-17T06:33:02Z",
+    "link": "https://www.chowbus.com/blog/integrated-payment-processing-end-of-day-close",
+    "page": 1,
+    "summary": "With a standalone card terminal, every card payment is entered twice: once in the POS to close the check, and once on the terminal to charge the card. Each ...",
+    "title": "Integrated Payment Processing and the End-of-Day Close"
+   },
    "chowbus.com/blog/ipad-pos-software-hot-pot-ayce": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -35668,6 +35677,15 @@
     "summary": "Learn how to assign access levels to team members in Books Close \u2014 so everything reconciles cleanly. Follow our step-by-step guide.",
     "title": "Assign access levels to team members in Books Close"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/primary-administrator/change-primary-admin-user-quickbooks-online/L9TU91iOk_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-17T06:33:02Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/primary-administrator/change-primary-admin-user-quickbooks-online/L9TU91iOk_US_en_US",
+    "page": 4,
+    "summary": "How to change to administrator made easy in QuickBooks Online \u2014 the right way, the first time. Get it done in minutes.",
+    "title": "Change the primary admin role in QuickBooks Online and ... - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/print-file/print-w-2-forms/L76UaJUti_US_en_US": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -42576,6 +42594,15 @@
     "page": 2,
     "summary": "\u30d3\u30b8\u30e7\u30f3\u304b\u3089\u73fe\u5b9f\u3078\u2015\u20152026 \u5e74\u306e SAP TechEd \u306b\u304a\u3044\u3066\u3001SAP \u306e\u7d4c\u55b6\u9663\u306f\u3001\u958b\u767a\u8005\u3001\u5c0e\u5165\u4f01\u696d\u3001\u30d1\u30fc\u30c8\u30ca\u30fc\u304c Autonomous Enterprise\uff08\u81ea\u5f8b\u578b\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba\uff09\u3092\u3044\u304b\u306b\u69cb\u7bc9 ...",
     "title": "\u958b\u767a\u8005\u306b\u5411\u3051\u3066\u300cAutonomous Enterprise \u306f\u69cb\u7bc9\u3067\u304d\u308b\u300d\u3068\u767a\u4fe1"
+   },
+   "news.sap.com/japan/2026/11/1117_eagle-industry-establishes-company-wide-procurement-platform-with-sap": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-17T06:33:02Z",
+    "link": "https://news.sap.com/japan/2026/11/1117_eagle-industry-establishes-company-wide-procurement-platform-with-sap/",
+    "page": 2,
+    "summary": "\u30a4\u30fc\u30b0\u30eb\u5de5\u696d\u306e\u76f4\u63a5\u6750\u30fb\u9593\u63a5\u6750\u306e\u8abf\u9054\u8cfc\u8cb7\u696d\u52d9\u3092\u3001SAP S/4HANA\u00ae\u3068\u9023\u643a\u3059\u308b\u5168\u793e\u5171\u901a\u306e\u57fa\u76e4\u3078\u7d71\u5408\u3059\u308b\u53d6\u308a\u7d44\u307f\u306f\u3001\u30bd\u30d5\u30c6\u30b9\u304c\u652f\u63f4\u3057\u307e\u3057\u305f\u30022025\u5e7411\u6708\u306b\u76f4\u63a5\u6750\u5411\u3051\u30012026\u5e748 ...",
+    "title": "\u30a4\u30fc\u30b0\u30eb\u5de5\u696d\u3001\u76f4\u63a5\u6750\u30fb\u9593\u63a5\u6750\u306e\u8abf\u9054\u8cfc\u8cb7\u3092SAP\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3 ..."
    },
    "news.sap.com/japan/2026/11/1117_sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools": {
     "baseline": false,
@@ -55291,6 +55318,15 @@
     "page": 4,
     "summary": "Gaining followers on TikTok can bring more opportunities for your brand. Learn 11 tactics to get more followers from creators and founders.",
     "title": "How To Get More Followers on TikTok (2027)"
+   },
+   "shopify.com/blog/get-your-marketing-holiday-ready-with-campaign-autopilot": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-11-17T06:33:02Z",
+    "link": "https://www.shopify.com/blog/get-your-marketing-holiday-ready-with-campaign-autopilot",
+    "page": 4,
+    "summary": "Autopilot runs AI-powered campaigns from your Shopify admin. Set your budget, approve what goes live, and learn from what's happening as it works.",
+    "title": "Get Your Marketing Holiday Ready with Campaign Autopilot"
    },
    "shopify.com/blog/ghost-commerce": {
     "baseline": false,

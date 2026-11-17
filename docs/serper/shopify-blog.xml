@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-16T23:06:05Z</updated>
+  <updated>2026-11-17T06:33:02Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/get-your-marketing-holiday-ready-with-campaign-autopilot</id>
+    <title>Get Your Marketing Holiday Ready with Campaign Autopilot</title>
+    <link href="https://www.shopify.com/blog/get-your-marketing-holiday-ready-with-campaign-autopilot" />
+    <published>2026-11-17T06:33:02Z</published>
+    <updated>2026-11-17T06:33:02Z</updated>
+    <summary>Autopilot runs AI-powered campaigns from your Shopify admin. Set your budget, approve what goes live, and learn from what's happening as it works.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/ai-seo</id>
     <title>AI SEO: How AI Is Changing SEO (2027)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-09T08:43:02Z</published>
     <updated>2026-11-09T08:43:02Z</updated>
     <summary>Find the best logo fonts for your brand: compare serif, sans-serif, script, and display types, then learn how to choose, test, and pair them.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/affiliate-marketing-trends</id>
-    <title>Affiliate Marketing Trends: 8 Key Shifts (2026)</title>
-    <link href="https://www.shopify.com/blog/affiliate-marketing-trends" />
-    <published>2026-11-09T08:43:02Z</published>
-    <updated>2026-11-09T08:43:02Z</updated>
-    <summary>Affiliate marketing allows you to connect with your audience via channels they trust, and a few new industry developments can work in your favor.</summary>
   </entry>
 </feed>
