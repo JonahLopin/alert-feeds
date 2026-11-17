@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-17T12:42:56Z</updated>
+  <updated>2026-11-17T13:42:57Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/germany/2026/11/ki-ericsson-definiert-b2b-handel-neu/?amp=1</id>
+    <title>Wie KI den B2B Handel neu definiert</title>
+    <link href="https://news.sap.com/germany/2026/11/ki-ericsson-definiert-b2b-handel-neu/?amp=1" />
+    <published>2026-11-17T13:42:57Z</published>
+    <updated>2026-11-17T13:42:57Z</updated>
+    <summary>Steigern Sie die Effizienz im B2B Handel. Entdecken Sie neue Ansätze zur Automatisierung von Kundenangeboten.</summary>
+  </entry>
+  <entry>
+    <id>https://news.sap.com/2026/11/gxp-compliance-life-sciences-sap-raising-standard/</id>
+    <title>GxP Compliance in Life Sciences: SAP Raises the Standard</title>
+    <link href="https://news.sap.com/2026/11/gxp-compliance-life-sciences-sap-raising-standard/" />
+    <published>2026-11-17T13:42:57Z</published>
+    <updated>2026-11-17T13:42:57Z</updated>
+    <summary>A GxP-ready public cloud ERP solution from SAP supports life sciences and regulated industries customers as modern, cloud-based enterprises.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/belgie/2026/11/electrolux-schaalt-verkoop-via-marketplaces-op-met-sap-commerce-cloud-en-channelengine/</id>
     <title>Electrolux schaalt verkoop via marketplaces op met ...</title>
@@ -787,21 +803,5 @@
     <published>2026-11-10T14:42:56Z</published>
     <updated>2026-11-10T14:42:56Z</updated>
     <summary>By early 2025, most phishing emails being detected were AI-generated, a dramatic rise from a low base just a year earlier. AI-automated spear-phishing campaigns ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/2026/11/supply-chain-ai-must-do-more-than-inform-it-must-help-businesses-act/</id>
-    <title>Supply Chain AI Must Help Businesses Act</title>
-    <link href="https://news.sap.com/2026/11/supply-chain-ai-must-do-more-than-inform-it-must-help-businesses-act/" />
-    <published>2026-11-10T14:42:56Z</published>
-    <updated>2026-11-10T14:42:56Z</updated>
-    <summary>As AI moves from providing insights to enabling action, supply chain leaders have an opportunity to create greater business value.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/taiwan/2026/11/realtek-implements-sap-hcm-to-transform-payroll-management/</id>
-    <title>瑞昱半導體宣布導入SAP HCM 重塑薪資管理模式打造支持 ...</title>
-    <link href="https://news.sap.com/taiwan/2026/11/realtek-implements-sap-hcm-to-transform-payroll-management/" />
-    <published>2026-11-10T13:43:03Z</published>
-    <updated>2026-11-10T13:43:03Z</updated>
-    <summary>隨跨國規模擴大，既有IT 架構已難以支撐複雜的財務與人資流程，因此瑞昱啟動統一薪酬管理平台建置，以提升薪資、考勤與員工資料管理效率，改善各地流程不一致問題，並強化 ...</summary>
   </entry>
 </feed>
