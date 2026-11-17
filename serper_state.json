@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 46601,
+  "credits_used": 46657,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-17T13:42:57Z",
+  "last_run": "2026-11-17T14:42:52Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 903
+  "runs": 904
  },
  "feeds": {
   "adp-help": {
@@ -41404,6 +41404,15 @@
     "first_seen": "2026-11-17T12:42:56Z",
     "link": "https://news.sap.com/belgie/2026/11/electrolux-schaalt-verkoop-via-marketplaces-op-met-sap-commerce-cloud-en-channelengine/",
     "page": 2,
+    "summary": "De fabrikant verkoopt huishoudelijke apparaten in meer dan 130 landen, onder merken als Electrolux, AEG en Frigidaire. Die schaal biedt veel kansen, maar vraagt ...",
+    "title": "Electrolux schaalt verkoop via marketplaces op met ..."
+   },
+   "news.sap.com/belgie/2026/11/electrolux-schaalt-verkoop-via-marketplaces-op-met-sap-commerce-cloud-en-channelengine?amp=1": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-17T14:42:52Z",
+    "link": "https://news.sap.com/belgie/2026/11/electrolux-schaalt-verkoop-via-marketplaces-op-met-sap-commerce-cloud-en-channelengine/?amp=1",
+    "page": 3,
     "summary": "De fabrikant verkoopt huishoudelijke apparaten in meer dan 130 landen, onder merken als Electrolux, AEG en Frigidaire. Die schaal biedt veel kansen, maar vraagt ...",
     "title": "Electrolux schaalt verkoop via marketplaces op met ..."
    },
