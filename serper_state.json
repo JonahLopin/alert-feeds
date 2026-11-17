@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 46938,
+  "credits_used": 46995,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-17T19:42:43Z",
+  "last_run": "2026-11-17T20:43:01Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 909
+  "runs": 910
  },
  "feeds": {
   "adp-help": {
@@ -11959,6 +11959,15 @@
     "summary": "Davis Polk & Wardwell lawyers including restructuring partner Brian Rensick and chair Neil Barr are advising Weil Gotshal & Manges as it assesses its future,",
     "title": "Davis Polk Team Advising Weil Includes Restructuring Pro ..."
    },
+   "news.bloomberglaw.com/business-and-practice/davis-wright-tremaine-moves-to-miami-atlanta-in-boutique-tie-up": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T20:43:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/davis-wright-tremaine-moves-to-miami-atlanta-in-boutique-tie-up",
+    "page": 4,
+    "summary": "Seattle-founded Davis Wright Tremaine announced Tuesday a merger with boutique firm Wargo French Singer.",
+    "title": "Davis Wright Tremaine Moves to Miami, Atlanta in Boutique Tie-Up"
+   },
    "news.bloomberglaw.com/business-and-practice/dayone-is-said-to-weigh-options-for-us-ipo-amid-data-center-rout": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -13062,6 +13071,15 @@
     "page": 4,
     "summary": "The Trump administration may not legally proceed with auctioning over 31 million acres of seabed off American Samoa's coast for deep-sea mining activity, ...",
     "title": "First US Deep-Sea Mining Lease Sale Succumbs to Legal ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/fishermen-sue-over-us-drone-attack-on-boat-off-coast-of-ecuador": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-17T20:43:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/fishermen-sue-over-us-drone-attack-on-boat-off-coast-of-ecuador",
+    "page": 5,
+    "summary": "A group of nearly 20 Ecuadorian fishermen are suing the Trump administration over claims that the Defense Department illegally fired armed drones against ...",
+    "title": "Fishermen Sue Over US Drone Attack on Boat Off Coast of Ecuador"
    },
    "news.bloomberglaw.com/business-and-practice/flock-safety-increases-lobbying-spend-amid-bipartisan-backlash": {
     "baseline": false,
@@ -16066,6 +16084,15 @@
     "summary": "A former sales representative for Oracle America Inc. failed to establish a racial bias claim related to her termination because she didn't show any ...",
     "title": "Oracle Beats Fired Sales Rep's Race Bias Claim at Fifth ..."
    },
+   "news.bloomberglaw.com/business-and-practice/oregon-slams-openai-with-new-chatbot-harm-kids-safety-suit": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T20:43:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/oregon-slams-openai-with-new-chatbot-harm-kids-safety-suit",
+    "page": 3,
+    "summary": "Oregon Attorney General Dan Rayfield (D) sued OpenAI Foundation Tuesday alleging ChatGPT was deliberately engineered to win users' trust through ...",
+    "title": "Oregon Slams OpenAI With New Chatbot Harm, Kids' Safety Suit"
+   },
    "news.bloomberglaw.com/business-and-practice/orrick-adds-kirkland-data-center-real-estate-partner-in-chicago": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -16119,6 +16146,15 @@
     "page": 2,
     "summary": "The US Patent and Trademark Office said Tuesday it will restore the authority of the Patent Trial and Appeal Board to institute Inter Partes Review and ...",
     "title": "Patent Office Director Loosens Grip on Patent Challenge ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/patient-drops-data-disclosure-lawsuit-against-illinois-hospital": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-17T20:43:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/patient-drops-data-disclosure-lawsuit-against-illinois-hospital",
+    "page": 1,
+    "summary": "An Illinois woman dropped her proposed class action alleging Sarah D. Culbertson Memorial Hospital illegally shared the personal information of patients ...",
+    "title": "Patient Drops Data Disclosure Lawsuit Against Illinois Hospital"
    },
    "news.bloomberglaw.com/business-and-practice/paul-hastings-hires-dla-pipers-omran-for-brussels-and-london": {
     "baseline": false,
@@ -16254,6 +16290,15 @@
     "page": 1,
     "summary": "The intense reaction from the energy and environment community to the bipartisan Senate proposal to overhaul permitting foreshadows a fierce legislative battle",
     "title": "Permitting Messaging Battle Goes Full Throttle Ahead of ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/perrigo-says-irs-transfer-pricing-appeal-rehashes-rejected-facts": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-17T20:43:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/perrigo-says-irs-transfer-pricing-appeal-rehashes-rejected-facts",
+    "page": 2,
+    "summary": "Pharmaceutical manufacturer Perrigo Co. is urging the Sixth Circuit to uphold a lower court's favorable ruling in its dispute over tax treatment of an ...",
+    "title": "Perrigo Says IRS Transfer Pricing Appeal Rehashes Rejected Facts"
    },
    "news.bloomberglaw.com/business-and-practice/phillips-66-gc-vanessa-sutherland-executes-her-vision-of-success": {
     "baseline": false,
@@ -17215,6 +17260,15 @@
     "page": 1,
     "summary": "Bloomberg Law provides trusted coverage of current events enhanced with legal analysis.",
     "title": "Supreme Court Today, Nov. 12, 2026"
+   },
+   "news.bloomberglaw.com/business-and-practice/supreme-court-today-nov-19-2026": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T20:43:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/supreme-court-today-nov-19-2026",
+    "page": 1,
+    "summary": "Bloomberg Law provides trusted coverage of current events enhanced with legal analysis.",
+    "title": "Supreme Court Today, Nov. 19, 2026"
    },
    "news.bloomberglaw.com/business-and-practice/supreme-court-today-oct-15-2026": {
     "baseline": false,
@@ -20817,6 +20871,15 @@
     "page": 1,
     "summary": "ChowNow has saved independent restaurants $1.36 billion in commissions since 2011. charge 15 to 30% per order. In 2022 it was $470 million.",
     "title": "How ChowNow Saved Independent Restaurants $1.36 ..."
+   },
+   "get.chownow.com/blog/independent-restaurant-statistics": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-17T20:43:01Z",
+    "link": "https://get.chownow.com/blog/independent-restaurant-statistics/",
+    "page": 1,
+    "summary": "412K independent restaurants remained in the US after a loss of 9500 in 2025. Here is the 2026 data on closures, commissions, and margins.",
+    "title": "Independent Restaurant Statistics 2026: Closures & Margins"
    },
    "get.chownow.com/blog/real-mediterranean-kitchen-catering-case-study": {
     "baseline": false,
@@ -37423,6 +37486,15 @@
     "page": 1,
     "summary": "The general process for buying bulk items for wholesale is: Find a wholesaler. Check out your local commerce center, wholesaler sites online and B2B ...",
     "title": "Everything you Need to Know About how to Buy Wholesale"
+   },
+   "lightspeedhq.com/blog/how-to-start-consignment-shop": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-17T20:43:01Z",
+    "link": "https://www.lightspeedhq.com/blog/how-to-start-consignment-shop/",
+    "page": 1,
+    "summary": "This guide explains how to start a consignment shop, from choosing a niche and writing a business plan to sourcing inventory and setting up daily operations.",
+    "title": "How to Start a Consignment Shop: Step-by-Step Guide"
    },
    "lightspeedhq.com/blog/lightspeeds-champ-libre-event-at-the-heart-of-quebecs-culinary-future": {
     "baseline": false,
@@ -80617,6 +80689,16 @@
     "title": "Wolters Kluwer's innovative solutions and leadership ..."
    }
   },
-  "zamp-help": {}
+  "zamp-help": {
+   "m.youtube.com/shorts/1nnAo3MkXz0": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-17T20:43:01Z",
+    "link": "https://m.youtube.com/shorts/1nnAo3MkXz0",
+    "page": 1,
+    "summary": "Share your videos with friends, family, and the world.",
+    "title": "Video unavailable"
+   }
+  }
  }
 }
