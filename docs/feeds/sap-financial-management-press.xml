@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com)</title>
-  <updated>2026-11-17T01:07:54Z</updated>
+  <updated>2026-11-17T09:44:51Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sap-financial-management-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:4330691043115153447</id>
+    <title>Predictive Analytics - SAP News</title>
+    <link href="https://news.sap.com/australia/tag/predictive-analytics/" />
+    <published>2026-11-17T09:44:51Z</published>
+    <updated>2026-11-17T09:44:51Z</updated>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:5631083309491859277</id>
     <title>SAP Completes Acquisition of TechWolf</title>
@@ -787,13 +794,5 @@
     <published>2026-10-08T20:49:50Z</published>
     <updated>2026-10-08T20:49:50Z</updated>
     <summary>And they are adding more automation to help them meet growing demand amid skilled labor shortages. Reinhausen's expertise in AI innovation is among ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:12645417607380990543</id>
-    <title>London Fire Brigade Launches New Finance and Procurement Platform with SAP and excelerated</title>
-    <link href="https://news.sap.com/uk/2026/10/london-fire-brigade-new-finance-and-procurement-platform-with-sap-and-excelerated/" />
-    <published>2026-10-08T20:49:50Z</published>
-    <updated>2026-10-08T20:49:50Z</updated>
-    <summary>SAP was selected in close collaboration with excelerated, a global finance, procurement and supply chain transformation consultancy, who are providing ...</summary>
   </entry>
 </feed>
