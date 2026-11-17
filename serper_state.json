@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 46092,
+  "credits_used": 46149,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-17T04:25:13Z",
+  "last_run": "2026-11-17T05:23:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 894
+  "runs": 895
  },
  "feeds": {
   "adp-help": {
@@ -9953,6 +9953,15 @@
     "page": 2,
     "summary": "Huang Le, also known as Alice Huang, has been identified in a series of reports as a spy who was recruited by Beijing to target Nvidia's Chief Executive Officer ...",
     "title": "Alice Huang, Suspected China Spy, Spent Years in ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/alito-says-legal-fight-over-college-affirmative-action-not-over": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-17T05:23:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/alito-says-legal-fight-over-college-affirmative-action-not-over",
+    "page": 4,
+    "summary": "Justice Samuel Alito says the Supreme Court may have to continue enforcing its blockbuster decision ending race-based admissions on college campuses.",
+    "title": "Alito Says Legal Fight Over College Affirmative Action Not ..."
    },
    "news.bloomberglaw.com/business-and-practice/alleged-chinese-spy-at-heart-of-nvidia-scandal-is-in-beijing-1": {
     "baseline": false,

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-17T03:25:57Z</updated>
+  <updated>2026-11-17T05:23:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/alito-says-legal-fight-over-college-affirmative-action-not-over</id>
+    <title>Alito Says Legal Fight Over College Affirmative Action Not ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/alito-says-legal-fight-over-college-affirmative-action-not-over" />
+    <published>2026-11-17T05:23:53Z</published>
+    <updated>2026-11-17T05:23:53Z</updated>
+    <summary>Justice Samuel Alito says the Supreme Court may have to continue enforcing its blockbuster decision ending race-based admissions on college campuses.</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/chinas-top-ai-firms-limit-cyber-capabilities-in-latest-models</id>
     <title>China's Top AI Firms Limit Cyber Capabilities in Latest Models</title>
@@ -795,13 +803,5 @@
     <published>2026-11-12T20:42:49Z</published>
     <updated>2026-11-12T20:42:49Z</updated>
     <summary>NFL Properties LLC rightly thwarted an attorneys' bid to challenge trademark law's modern application to team merchandise because he admittedly never ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/hugo-boss-ceo-to-leave-brand-as-frasers-cements-control-1</id>
-    <title>Hugo Boss CEO to Leave Brand as Frasers Cements ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/hugo-boss-ceo-to-leave-brand-as-frasers-cements-control-1" />
-    <published>2026-11-12T20:42:49Z</published>
-    <updated>2026-11-12T20:42:49Z</updated>
-    <summary>Hugo Boss AG Chief Executive Officer Daniel Grieder is stepping down and will be replaced by an executive from Frasers Group Plc, leaving the British ...</summary>
   </entry>
 </feed>
