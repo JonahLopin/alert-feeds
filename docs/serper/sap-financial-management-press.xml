@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-17T06:33:02Z</updated>
+  <updated>2026-11-17T07:43:22Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/netherlands/2026/11/ai-gaat-van-adviseren-naar-handelen-sap-mikt-op-400-gespecialiseerde-ai-agents/two-managers-talking-in-a-small-business-2/</id>
+    <title>Two managers talking in a small business</title>
+    <link href="https://news.sap.com/netherlands/2026/11/ai-gaat-van-adviseren-naar-handelen-sap-mikt-op-400-gespecialiseerde-ai-agents/two-managers-talking-in-a-small-business-2/" />
+    <published>2026-11-17T07:43:22Z</published>
+    <updated>2026-11-17T07:43:22Z</updated>
+    <summary>Two managers talking in a small business. SAP. Nederland 0800 020 0009. Voor technische support zijn we bereikbaar op 0800 0220683.</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/japan/2026/11/1117_eagle-industry-establishes-company-wide-procurement-platform-with-sap/</id>
     <title>イーグル工業、直接材・間接材の調達購買をSAPソリューション ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-09T15:43:13Z</published>
     <updated>2026-11-09T15:43:13Z</updated>
     <summary>SAP is a Leader in the 2026 Gartner Magic Quadrant for Cloud ERP for Service-Centric Enterprises, marking five consecutive years.</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/2026/11/oliva-cigar-crafting-digital-legacy-for-next-century/</id>
-    <title>Oliva Cigar: Crafting a Digital Legacy for the Next Century</title>
-    <link href="https://news.sap.com/2026/11/oliva-cigar-crafting-digital-legacy-for-next-century/" />
-    <published>2026-11-09T15:43:13Z</published>
-    <updated>2026-11-09T15:43:13Z</updated>
-    <summary>Discover the legacy of Oliva, a renowned cigar brand transitioning to SAP S/4HANA Cloud for innovative growth. Read to learn more.</summary>
   </entry>
 </feed>
