@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-17T18:42:40Z</updated>
+  <updated>2026-11-17T22:43:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/js/custom_checkout/get_currency_selector_element?__=&amp;__debug=&amp;__hsfp=3972014050&amp;__hssc=176515898.1.1449187200073&amp;__hstc=176515898.16af0c9bbef9b878146d67524a3d18a3.1449187200070.1449187200071.1449187200072.1&amp;__previewId=legalqa74924&amp;__readwiseLocation=</id>
+    <title>Get the Currency Selector Element</title>
+    <link href="https://docs.stripe.com/js/custom_checkout/get_currency_selector_element?__=&amp;__debug=&amp;__hsfp=3972014050&amp;__hssc=176515898.1.1449187200073&amp;__hstc=176515898.16af0c9bbef9b878146d67524a3d18a3.1449187200070.1449187200071.1449187200072.1&amp;__previewId=legalqa74924&amp;__readwiseLocation=" />
+    <published>2026-11-17T22:43:04Z</published>
+    <updated>2026-11-17T22:43:04Z</updated>
+    <summary>This method gets the previously created Currency Selector Element instance, if it exists. Returns. getCurrencySelectorElement() returns one of the following:.</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESvQIBxCJF1_VukkGFtoxkvhqqvSeePCOJljiW5k6utrrA37X_CNx5K-YsDqvWdqrABQqFGGXAQVKU57eB9xzgM0CaDGFf93uWTgOZhNj1nR77GnfSZaZvqVZbpoo6arCOk7DgScRophWvJFs0rU0H0lkmtFZydZh_rb4kYWBA9MGPZS-cJur-z9kBDpWZtfd0MXKwfSLdEM1pYBF2p00rI-fnUW9X2Nsj4XaU61-iiNXWmmtB6-BUSHbVYuhi2Que0tpJDhl-2oQidXgpQfR4J96bGB4FDVMr7mTM2WgI93bGC3AbvEpv_AsztV11GhJtD4hEiMIl__9EugJXJKC9NAm7cAGFJuDXEzTNli8M8ociJKdtldmnLvpsOl-pAlC4TlmU2o40SkozrJC0kqn2xZ3tjn6PGCvsR7jtECg5rQ&amp;gsessionid=i1OPI_7-hTF2q69FELL5MJUoM6KgZEUDtlX-agPwPPa1UAqMe2u9wQ</id>
     <title>Get the Contact Details Element</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T18:43:21Z</published>
     <updated>2026-11-06T18:43:21Z</updated>
     <summary>Learn how Stripe card contracts pull funds from non-custodial wallets and keep customer funds secure. Ask about this page.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESgwEBxCJF1xdQMqXspr7H03lal4dkn7qopVsH4OKMiYI-j0VHsAYmCIPTKk-GnkBLf8zM6m4stXX7tMXsiOpi_DxLpfyHJpZrLuoO3ltNMHk6ZW-FEtFDe3cZ2d8ciyuz4N14wNYsV6lZC2rAP5grEzdVgIt0RzClKULIMWZvTd0_Tyvj6w</id>
-    <title>Spending restrictions and limits for stablecoin-backed cards</title>
-    <link href="https://www.google.com/goto?url=CAESgwEBxCJF1xdQMqXspr7H03lal4dkn7qopVsH4OKMiYI-j0VHsAYmCIPTKk-GnkBLf8zM6m4stXX7tMXsiOpi_DxLpfyHJpZrLuoO3ltNMHk6ZW-FEtFDe3cZ2d8ciyuz4N14wNYsV6lZC2rAP5grEzdVgIt0RzClKULIMWZvTd0_Tyvj6w" />
-    <published>2026-11-06T18:43:21Z</published>
-    <updated>2026-11-06T18:43:21Z</updated>
-    <summary>Review the blocked and limited merchant categories, default spending limits, and velocity controls that apply to every stablecoin-backed card program.</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 47051,
+  "credits_used": 47108,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-17T21:42:56Z",
+  "last_run": "2026-11-17T22:43:04Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 911
+  "runs": 912
  },
  "feeds": {
   "adp-help": {
@@ -16183,6 +16183,15 @@
     "summary": "An Illinois woman dropped her proposed class action alleging Sarah D. Culbertson Memorial Hospital illegally shared the personal information of patients ...",
     "title": "Patient Drops Data Disclosure Lawsuit Against Illinois Hospital"
    },
+   "news.bloomberglaw.com/business-and-practice/paul-hastings-adds-weil-pe-chief-in-germany-with-six-partner-team": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T22:43:04Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/paul-hastings-adds-weil-pe-chief-in-germany-with-six-partner-team",
+    "page": 5,
+    "summary": "Kamyar Abrar, Britta Grauke, Gero Pogrzeba, Matthias Eiden, Christian Tappeiner, Andreas Fogel, and Tobias Geerling joined Paul Hastings LLP as partners, ...",
+    "title": "Paul Hastings Adds Weil PE Chief in Germany with Six-Partner Team"
+   },
    "news.bloomberglaw.com/business-and-practice/paul-hastings-hires-dla-pipers-omran-for-brussels-and-london": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -16857,6 +16866,15 @@
     "page": 1,
     "summary": "A panel of Seventh Circuit judges Tuesday questioned two whistleblowers' argument that the False Claims Act requires a penalty for each false claim ...",
     "title": "Seventh Circuit Probes SuperValu Whistleblowers ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/sheppard-continues-chicago-expansion-with-two-new-partners": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T22:43:04Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/sheppard-continues-chicago-expansion-with-two-new-partners",
+    "page": 1,
+    "summary": "Alex Righi and Ryan Scarcella joined Sheppard as partners in Chicago, the firm announced Tuesday.",
+    "title": "Sheppard Continues Chicago Expansion with Two New Partners"
    },
    "news.bloomberglaw.com/business-and-practice/sheppard-follows-milbank-mcdermott-in-associate-salary-boost": {
     "baseline": false,
@@ -64512,6 +64530,15 @@
     "summary": "Checkout \u00b7 Create a Payment Element \u00b7 Create a Billing Address Element \u00b7 Create a Shipping Address Element \u00b7 Create an Express Checkout Element \u00b7 Create a Currency ...",
     "title": "Get the Contact Details Element"
    },
+   "docs.stripe.com/js/custom_checkout/get_currency_selector_element?__=&__debug=&__hsfp=3972014050&__hssc=176515898.1.1449187200073&__hstc=176515898.16af0c9bbef9b878146d67524a3d18a3.1449187200070.1449187200071.1449187200072.1&__previewId=legalqa74924&__readwiseLocation=": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-11-17T22:43:04Z",
+    "link": "https://docs.stripe.com/js/custom_checkout/get_currency_selector_element?__=&__debug=&__hsfp=3972014050&__hssc=176515898.1.1449187200073&__hstc=176515898.16af0c9bbef9b878146d67524a3d18a3.1449187200070.1449187200071.1449187200072.1&__previewId=legalqa74924&__readwiseLocation=",
+    "page": 3,
+    "summary": "This method gets the previously created Currency Selector Element instance, if it exists. Returns. getCurrencySelectorElement() returns one of the following:.",
+    "title": "Get the Currency Selector Element"
+   },
    "docs.stripe.com/js/custom_checkout/get_form?%E0%A4%AA%E0%A4%B0=": {
     "baseline": false,
     "date_hint": "12 hours ago",
@@ -75118,6 +75145,15 @@
     "summary": "AI streamlines tax planning by analyzing data and identifying opportunities for advisors to \u2026",
     "title": "How to use AI in tax planning for clients"
    },
+   "tax.thomsonreuters.com/blog/indirect-tax-strategic-value-how-to-close-the-gap": {
+    "baseline": false,
+    "date_hint": "55 minutes ago",
+    "first_seen": "2026-11-17T22:43:04Z",
+    "link": "https://tax.thomsonreuters.com/blog/indirect-tax-strategic-value-how-to-close-the-gap/",
+    "page": 1,
+    "summary": "Indirect tax strategic value is hard to prove. Hear what experts advise, then watch the webinar on demand.",
+    "title": "How indirect tax teams can show their strategic value to the C-suite"
+   },
    "tax.thomsonreuters.com/blog/irs-circular-230-ai-guidance-explained": {
     "baseline": false,
     "date_hint": "Jul 8, 2026",
@@ -79610,6 +79646,15 @@
     "page": 2,
     "summary": "With the introduction of Ovid Guidelines AI, Wolters Kluwer is developing an agentic Generative AI (GenAI) workflow solution to accelerate this process and ...",
     "title": "Wolters Kluwer introduces Ovid Guidelines AI"
+   },
+   "wolterskluwer.com/en/news/acquires-open-access-publisher-expands-breadth-of-lippincott-journal-portfolio": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-17T22:43:04Z",
+    "link": "https://www.wolterskluwer.com/en/news/acquires-open-access-publisher-expands-breadth-of-lippincott-journal-portfolio",
+    "page": 2,
+    "summary": "We are excited by Wolters Kluwer's leadership in technology-driven research publishing. Its track record of results growing its Lippincott journal portfolio ...",
+    "title": "expands breadth of Lippincott Journal Portfolio"
    },
    "wolterskluwer.com/en/news/agrial-finance-transformation-journey-with-tagetik": {
     "baseline": true,
