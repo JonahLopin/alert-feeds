@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-17T09:43:09Z</updated>
+  <updated>2026-11-17T10:42:46Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/ai-prompts</id>
+    <title>AI Prompts for Ecommerce: 14 Examples (2027)</title>
+    <link href="https://www.shopify.com/blog/ai-prompts" />
+    <published>2026-11-17T10:42:46Z</published>
+    <updated>2026-11-17T10:42:46Z</updated>
+    <summary>You can use generative AI to create content and analyze information, but the quality of a tool's output depends on the directions you give it.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/contest-social-media</id>
     <title>Social Media Contest Guide: Types, Tips, and Real Examples</title>
@@ -795,13 +803,5 @@
     <published>2026-11-09T08:43:02Z</published>
     <updated>2026-11-09T08:43:02Z</updated>
     <summary>Funding is one of the most important financial choices you'll make in your business. Learn about your small business financing options, plus essential small ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/retail-operations</id>
-    <title>Retail Operations: Definition &amp; Examples (2026)</title>
-    <link href="https://www.shopify.com/blog/retail-operations" />
-    <published>2026-11-09T08:43:02Z</published>
-    <updated>2026-11-09T08:43:02Z</updated>
-    <summary>Retail operations refer to the daily activities, systems, and processes that allow online and brick-and-mortar stores to function efficiently and effectively.</summary>
   </entry>
 </feed>

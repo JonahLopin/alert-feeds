@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 46379,
+  "credits_used": 46434,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-17T09:43:09Z",
+  "last_run": "2026-11-17T10:42:46Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 899
+  "runs": 900
  },
  "feeds": {
   "adp-help": {
@@ -26224,6 +26224,15 @@
     "summary": "The Bulgarian Ministry of Finance has published a draft bill to amend the VAT Act and introduce a national structured electronic invoicing and digital ...",
     "title": "Bulgaria Makes Progress in Tax Digitization with SAF-T ..."
    },
+   "edicomgroup.com/blog/delivery-notes-chile-sii": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T10:42:46Z",
+    "link": "https://edicomgroup.com/blog/delivery-notes-chile-sii",
+    "page": 1,
+    "summary": "Delivery notes in Chile are part of the electronic invoicing system and serve as supporting documentation for the transportation of goods,",
+    "title": "Delivery Notes in Chile | SII Requirements"
+   },
    "edicomgroup.com/blog/digital-invoicing-venezuela": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -40894,6 +40903,15 @@
     "summary": "As AI moves from providing insights to enabling action, supply chain leaders have an opportunity to create greater business value.",
     "title": "Supply Chain AI Must Help Businesses Act"
    },
+   "news.sap.com/2026/11/thomas-saueressig-to-leave-sap-executive-board": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-17T10:42:46Z",
+    "link": "https://news.sap.com/2026/11/thomas-saueressig-to-leave-sap-executive-board/",
+    "page": 1,
+    "summary": "SAP Executive Board Member Thomas Saueressig will depart SAP to pursue a new opportunity outside the company. Read the news.",
+    "title": "Thomas Saueressig to Leave SAP Executive Board"
+   },
    "news.sap.com/2026/11/three-skills-define-entry-level-job-ai-era": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -43885,6 +43903,15 @@
     "date_hint": "2 hours ago",
     "first_seen": "2026-11-17T09:43:09Z",
     "link": "https://news.sap.com/sweden/2026/11/atlas-copco-group-synliggor-kompetens-och-oppnar-nya-karriarvagar/",
+    "page": 2,
+    "summary": "Utforska hur Atlas Copco Group anv\u00e4nder AI f\u00f6r att synligg\u00f6ra kompetenser och skapa nya karri\u00e4rv\u00e4gar f\u00f6r anst\u00e4llda.",
+    "title": "Atlas Copco Group synligg\u00f6r kompetens med AI"
+   },
+   "news.sap.com/sweden/2026/11/atlas-copco-group-synliggor-kompetens-och-oppnar-nya-karriarvagar?amp=1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-17T10:42:46Z",
+    "link": "https://news.sap.com/sweden/2026/11/atlas-copco-group-synliggor-kompetens-och-oppnar-nya-karriarvagar/?amp=1",
     "page": 2,
     "summary": "Utforska hur Atlas Copco Group anv\u00e4nder AI f\u00f6r att synligg\u00f6ra kompetenser och skapa nya karri\u00e4rv\u00e4gar f\u00f6r anst\u00e4llda.",
     "title": "Atlas Copco Group synligg\u00f6r kompetens med AI"
@@ -54367,6 +54394,15 @@
     "page": 3,
     "summary": "AI models are the engines already powering the artificial intelligence tools you use to run your business. It's the software trained to generate content, ...",
     "title": "AI Models: Types, How They Work, and Key Uses (2026)"
+   },
+   "shopify.com/blog/ai-prompts": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-17T10:42:46Z",
+    "link": "https://www.shopify.com/blog/ai-prompts",
+    "page": 1,
+    "summary": "You can use generative AI to create content and analyze information, but the quality of a tool's output depends on the directions you give it.",
+    "title": "AI Prompts for Ecommerce: 14 Examples (2027)"
    },
    "shopify.com/blog/ai-recommendation-system": {
     "baseline": false,
