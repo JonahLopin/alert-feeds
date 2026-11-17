@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-17T10:42:46Z</updated>
+  <updated>2026-11-17T12:42:56Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/belgie/2026/11/electrolux-schaalt-verkoop-via-marketplaces-op-met-sap-commerce-cloud-en-channelengine/</id>
+    <title>Electrolux schaalt verkoop via marketplaces op met ...</title>
+    <link href="https://news.sap.com/belgie/2026/11/electrolux-schaalt-verkoop-via-marketplaces-op-met-sap-commerce-cloud-en-channelengine/" />
+    <published>2026-11-17T12:42:56Z</published>
+    <updated>2026-11-17T12:42:56Z</updated>
+    <summary>De fabrikant verkoopt huishoudelijke apparaten in meer dan 130 landen, onder merken als Electrolux, AEG en Frigidaire. Die schaal biedt veel kansen, maar vraagt ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/sweden/2026/11/atlas-copco-group-synliggor-kompetens-och-oppnar-nya-karriarvagar/?amp=1</id>
     <title>Atlas Copco Group synliggör kompetens med AI</title>
@@ -795,13 +803,5 @@
     <published>2026-11-10T13:43:03Z</published>
     <updated>2026-11-10T13:43:03Z</updated>
     <summary>隨跨國規模擴大，既有IT 架構已難以支撐複雜的財務與人資流程，因此瑞昱啟動統一薪酬管理平台建置，以提升薪資、考勤與員工資料管理效率，改善各地流程不一致問題，並強化 ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/germany/2026/11/planung-fuer-zeit-nach-2030/?amp=1</id>
-    <title>Planung für die SAP Business Suite 7 bis 2030</title>
-    <link href="https://news.sap.com/germany/2026/11/planung-fuer-zeit-nach-2030/?amp=1" />
-    <published>2026-11-10T13:43:03Z</published>
-    <updated>2026-11-10T13:43:03Z</updated>
-    <summary>Entdecken Sie die Bedeutung der Planung für SAP Business Suite 7 und was Sie bis Ende 2030 beachten sollten.</summary>
   </entry>
 </feed>

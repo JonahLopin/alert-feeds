@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 46490,
+  "credits_used": 46546,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-17T11:42:52Z",
+  "last_run": "2026-11-17T12:42:56Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 901
+  "runs": 902
  },
  "feeds": {
   "adp-help": {
@@ -10988,6 +10988,15 @@
     "summary": "The Department of Justice and EPA have asked a federal appeals court to let them withdraw a lawsuit challenging an EPA order requiring chemical ...",
     "title": "Chemical Companies, DOJ Seek to Withdraw Test Order ..."
    },
+   "news.bloomberglaw.com/business-and-practice/china-and-canada-expand-tariff-relief-as-xi-meets-carney-1": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-11-17T12:42:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/china-and-canada-expand-tariff-relief-as-xi-meets-carney-1",
+    "page": 4,
+    "summary": "China and Canada agreed to further tariff relief on agriculture and steel exports as President Xi Jinping and Prime Minister Mark Carney met in Shenzhen on ...",
+    "title": "China and Canada Expand Tariff Relief as Xi Meets ..."
+   },
    "news.bloomberglaw.com/business-and-practice/china-buys-spot-lng-shipments-to-refill-storage-ahead-of-winter": {
     "baseline": false,
     "date_hint": "5 hours ago",
@@ -11095,6 +11104,15 @@
     "page": 4,
     "summary": "The proposed class action plaintiff sued the auto dealerships in 2025, seeking damages for alleged violations of the Illinois Biometric Information Privacy Act.",
     "title": "Clear Blue Is Off the Hook for Auto Dealers' Privacy Litigation"
+   },
+   "news.bloomberglaw.com/business-and-practice/cleary-gottlieb-adds-four-weil-partners-launches-miami-office": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T12:42:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cleary-gottlieb-adds-four-weil-partners-launches-miami-office",
+    "page": 1,
+    "summary": "Cleary Gottlieb continues to execute its growth strategy by picking up four partners from Weil Gotshal & Manges as the latter winds down its operations.",
+    "title": "Cleary Gottlieb Adds Four Weil Partners, Launches Miami ..."
    },
    "news.bloomberglaw.com/business-and-practice/cleary-snags-simpson-thacher-private-equity-partner-pflug": {
     "baseline": false,
@@ -41334,6 +41352,15 @@
     "page": 1,
     "summary": "SAP wil tegen het einde van 2026 beschikken over 400 van die agents. SAP beschikt volgens Spinelli over meer dan 200 gespecialiseerde AI-agents en",
     "title": "AI gaat van adviseren naar handelen: SAP mikt op 400 ..."
+   },
+   "news.sap.com/belgie/2026/11/electrolux-schaalt-verkoop-via-marketplaces-op-met-sap-commerce-cloud-en-channelengine": {
+    "baseline": false,
+    "date_hint": "60 minutes ago",
+    "first_seen": "2026-11-17T12:42:56Z",
+    "link": "https://news.sap.com/belgie/2026/11/electrolux-schaalt-verkoop-via-marketplaces-op-met-sap-commerce-cloud-en-channelengine/",
+    "page": 2,
+    "summary": "De fabrikant verkoopt huishoudelijke apparaten in meer dan 130 landen, onder merken als Electrolux, AEG en Frigidaire. Die schaal biedt veel kansen, maar vraagt ...",
+    "title": "Electrolux schaalt verkoop via marketplaces op met ..."
    },
    "news.sap.com/belgie/2026/11/van-slimme-assistent-tot-digitale-collega-hoe-ai-het-bedrijfsleven-ingrijpend-verandert": {
     "baseline": false,
