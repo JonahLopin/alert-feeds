@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 46657,
+  "credits_used": 46711,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-17T14:42:52Z",
+  "last_run": "2026-11-17T15:42:37Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 904
+  "runs": 905
  },
  "feeds": {
   "adp-help": {
@@ -12255,6 +12255,15 @@
     "summary": "The Trump administration is suing to preemptively stop Alaska election officials from certifying the results of next month's US Senate contest if the ...",
     "title": "DOJ Sues to Block Alaska Senate Race Certification If GOP ..."
    },
+   "news.bloomberglaw.com/business-and-practice/doj-taps-new-top-immigration-judge-to-manage-deportation-agenda": {
+    "baseline": false,
+    "date_hint": "41 minutes ago",
+    "first_seen": "2026-11-17T15:42:37Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/doj-taps-new-top-immigration-judge-to-manage-deportation-agenda",
+    "page": 3,
+    "summary": "The Trump administration's new chief immigration judge previously ordered the deportation of former Columbia University student and pro-Palestinian activist ...",
+    "title": "DOJ Taps New Top Immigration Judge to Manage ..."
+   },
    "news.bloomberglaw.com/business-and-practice/doj-watchdog-probing-alleged-grand-jury-misconduct-in-chicago": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -13843,6 +13852,15 @@
     "page": 2,
     "summary": "A Washington federal judge pressed the Justice Department to explain claims that President Donald Trump's proposed triumphal arch in the capital would ...",
     "title": "Judge Appears Skeptical of Triumphal Arch's National ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/judge-approves-key-aba-records-request-in-suit-over-firm-attacks": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T15:42:37Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/judge-approves-key-aba-records-request-in-suit-over-firm-attacks",
+    "page": 4,
+    "summary": "A federal judge ordered the government to hand over agreements struck last year between the Trump administration and nine law firms that pledged free legal ...",
+    "title": "Judge Approves Key ABA Records Request in Suit Over ..."
    },
    "news.bloomberglaw.com/business-and-practice/judge-blocks-plans-to-close-dc-golf-course-targeted-by-trump": {
     "baseline": false,
@@ -40957,6 +40975,15 @@
     "summary": "SAP is named a Leader in 2026 IDC MarketScape assessments for warehouse management in manufacturing and retail. Read to learn more.",
     "title": "IDC Names SAP a Leader in Warehouse Management"
    },
+   "news.sap.com/2026/11/sap-named-leader-idc-marketscape-supply-chain-assessments": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T15:42:37Z",
+    "link": "https://news.sap.com/2026/11/sap-named-leader-idc-marketscape-supply-chain-assessments/",
+    "page": 1,
+    "summary": "SAP was named a Leader in multiple 2026 IDC MarketScape assessments for supply chain planning across key industries. Read to learn more.",
+    "title": "SAP a Leader in IDC MarketScape Supply Chain ..."
+   },
    "news.sap.com/2026/11/sap-product-level-cloud-emissions-energy-data-customers": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -42108,6 +42135,15 @@
     "page": 1,
     "summary": "Industry AI im Einsatz: Verstehen Sie, wie ma\u00dfgeschneiderte L\u00f6sungen branchenspezifische Herausforderungen bew\u00e4ltigen k\u00f6nnen.",
     "title": "Industry AI im Einsatz: L\u00f6sungen f\u00fcr Branchen"
+   },
+   "news.sap.com/germany/2026/11/ki-ericsson-definiert-b2b-handel-neu": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-17T15:42:37Z",
+    "link": "https://news.sap.com/germany/2026/11/ki-ericsson-definiert-b2b-handel-neu/",
+    "page": 1,
+    "summary": "Steigern Sie die Effizienz im B2B Handel. Entdecken Sie neue Ans\u00e4tze zur Automatisierung von Kundenangeboten.",
+    "title": "Wie KI den B2B Handel neu definiert"
    },
    "news.sap.com/germany/2026/11/ki-ericsson-definiert-b2b-handel-neu?amp=1": {
     "baseline": false,
@@ -43970,6 +44006,15 @@
     "page": 2,
     "summary": "El acuerdo refleja la ambici\u00f3n compartida de SAP y NTT de impulsar una transformaci\u00f3n digital segura, resiliente y soberana para los sectores regulados.",
     "title": "SAP y NTT colaborar\u00e1n para ofrecer capacidades de nube ..."
+   },
+   "news.sap.com/spain/2026/11/democratizacion-de-datos-que-es-beneficios-y-aplicaciones-en-las-empresas?amp=1": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-17T15:42:37Z",
+    "link": "https://news.sap.com/spain/2026/11/democratizacion-de-datos-que-es-beneficios-y-aplicaciones-en-las-empresas/?amp=1",
+    "page": 3,
+    "summary": "La democratizaci\u00f3n de datos es el proceso mediante el cual una organizaci\u00f3n facilita que sus empleados puedan acceder, comprender...",
+    "title": "Democratizaci\u00f3n de datos: qu\u00e9 es, beneficios y ..."
    },
    "news.sap.com/sweden": {
     "baseline": true,
