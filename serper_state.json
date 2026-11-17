@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 45858,
+  "credits_used": 45916,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-17T00:17:27Z",
+  "last_run": "2026-11-17T01:24:03Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 890
+  "runs": 891
  },
  "feeds": {
   "adp-help": {
@@ -10080,6 +10080,15 @@
     "summary": "Anthropic PBC could spend $750 billion on additional computing power in the coming years, according to a Wall Street Journal report, as the company prepares ...",
     "title": "Anthropic Could Spend $750 Billion on Computing Costs ..."
    },
+   "news.bloomberglaw.com/business-and-practice/anthropic-faces-a-longer-wait-than-spacex-to-join-stock-indexes": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T01:24:03Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/anthropic-faces-a-longer-wait-than-spacex-to-join-stock-indexes",
+    "page": 5,
+    "summary": "Anthropic's planned initial public offering could generate billions of dollars in demand from index-tracking funds, though the artificial intelligence ...",
+    "title": "Anthropic Faces a Longer Wait Than SpaceX to Join Stock ..."
+   },
    "news.bloomberglaw.com/business-and-practice/anthropic-ipo-filing-cites-reliance-on-google-amazon-microsoft": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -12936,6 +12945,15 @@
     "summary": "A global forum on transparency affiliated with the Organization for Economic Cooperation and Development released new information and cybersecurity guidance ...",
     "title": "Global Forum Releases Cybersecurity Guidance for Tax ..."
    },
+   "news.bloomberglaw.com/business-and-practice/gol-bankruptcys-opt-out-releases-get-second-circuit-scrutiny": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T01:24:03Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/gol-bankruptcys-opt-out-releases-get-second-circuit-scrutiny",
+    "page": 2,
+    "summary": "The Second Circuit is being tasked with answering a lingering question following the US Supreme Court's 2024 rejection of Purdue Pharma LP's bankruptcy plan and ...",
+    "title": "Gol Bankruptcy's 'Opt-Out' Releases Get Second Circuit ..."
+   },
    "news.bloomberglaw.com/business-and-practice/goldman-goes-quiet-on-women-partner-promotions-as-progress-slows": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -13421,6 +13439,15 @@
     "page": 3,
     "summary": "HSBC Holdings Plc is working on two significant risk transfer deals to hedge around $7 billion of large corporate loans in the US and Asia.",
     "title": "HSBC Plans SRTs Tied to $7 Billion of US, Asian ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/huckabee-meta-end-use-of-likeness-suit-over-facebook-cbd-ads": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-17T01:24:03Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/huckabee-meta-end-use-of-likeness-suit-over-facebook-cbd-ads",
+    "page": 4,
+    "summary": "Huckabee sued Meta in July 2024 over Facebook ads he claimed falsely characterized him as a CBD consumer and identified him as the CEO of ... Learn more about ...",
+    "title": "Huckabee, Meta End Use of Likeness Suit Over Facebook ..."
    },
    "news.bloomberglaw.com/business-and-practice/hugo-boss-ceo-to-leave-brand-as-frasers-cements-control-1": {
     "baseline": false,
@@ -17603,6 +17630,15 @@
     "summary": "The case is before the three-judge appellate panel on a DoorDash appeal of a ruling in favor of Uber, allowing its tortious interference case to stay in court.",
     "title": "Uber Asks Appeals Court to Keep DoorDash Case Out of ..."
    },
+   "news.bloomberglaw.com/business-and-practice/ubers-thousands-of-sexual-assault-cases-will-begin-wind-down": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-17T01:24:03Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ubers-thousands-of-sexual-assault-cases-will-begin-wind-down",
+    "page": 4,
+    "summary": "A California judge overseeing thousands of passenger sexual assault lawsuits against Uber Technologies Inc. said at a hearing Monday that he will begin to ...",
+    "title": "Uber's Thousands of Sexual Assault Cases Will Begin ..."
+   },
    "news.bloomberglaw.com/business-and-practice/ubs-defeats-ex-credit-suisse-managing-directors-back-pay-claims": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -17746,6 +17782,15 @@
     "page": 2,
     "summary": "Production at manufacturers rose 0.3% after a revised 0.2% August decrease, according to Federal Reserve data out Friday. The September increase matched the ...",
     "title": "US Factory Production Rebounds on Pickup in Output of ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/us-justice-department-charges-foreign-extortion-for-first-time": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-17T01:24:03Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-justice-department-charges-foreign-extortion-for-first-time",
+    "page": 2,
+    "summary": "FEPA, passed in 2023, makes it a crime for foreign officials to seek out bribes from US companies. It was meant to fill a perceived gap left by the Foreign ...",
+    "title": "US Justice Department Charges Foreign Extortion for First ..."
    },
    "news.bloomberglaw.com/business-and-practice/us-law-week-oct-2026-circuit-split-review-immigration-status": {
     "baseline": false,
@@ -20170,6 +20215,15 @@
    }
   },
   "chownow-blog": {
+   "get.chownow.com/blog/chownow-commission-savings": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-17T01:24:03Z",
+    "link": "https://get.chownow.com/blog/chownow-commission-savings/",
+    "page": 1,
+    "summary": "ChowNow has saved independent restaurants $1.36 billion in commissions since 2011. charge 15 to 30% per order. In 2022 it was $470 million.",
+    "title": "How ChowNow Saved Independent Restaurants $1.36 ..."
+   },
    "get.chownow.com/blog/real-mediterranean-kitchen-catering-case-study": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -34953,6 +35007,15 @@
     "summary": "Custom field improvements (QuickBooks Desktop Enterprise only). You can now filter reports using text or dropdown lists. We've also improved the error handling ...",
     "title": "What's new in QuickBooks Desktop 2024 - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/inventory-quantity/adjust-inventory-quantity-hand-quickbooks-online/L6O3QhOEZ_US_en_US": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-17T01:24:03Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/inventory-quantity/adjust-inventory-quantity-hand-quickbooks-online/L6O3QhOEZ_US_en_US",
+    "page": 4,
+    "summary": "Inventory adjustment made easy in QuickBooks Online \u2014 and save hours on bookkeeping. Do it in just a few clicks.",
+    "title": "Adjust inventory in QuickBooks Online - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/invoicing/enter-billable-time-job-quickbooks-online/L7Rliz6dh_US_en_US": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -40876,6 +40939,33 @@
     "summary": "By early 2025, most phishing emails being detected were AI-generated, a dramatic rise from a low base just a year earlier. AI-automated spear-phishing campaigns ...",
     "title": "AI Raises the Cyber Stakes for African Enterprises"
    },
+   "news.sap.com/africa/2026/11/navigating-the-complex-risk-landscape-of-erp-transformation": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T01:24:03Z",
+    "link": "https://news.sap.com/africa/2026/11/navigating-the-complex-risk-landscape-of-erp-transformation/",
+    "page": 1,
+    "summary": "Independent assurance supports a safe, predictable and reliable delivery of ERP programmes and that no-regret decisions are supported by evidence and ...",
+    "title": "Navigating the Complex Risk Landscape of ERP ..."
+   },
+   "news.sap.com/africa/2026/11/navigating-the-complex-risk-landscape-of-erp-transformation?amp=1": {
+    "baseline": false,
+    "date_hint": "16 hours ago",
+    "first_seen": "2026-11-17T01:24:03Z",
+    "link": "https://news.sap.com/africa/2026/11/navigating-the-complex-risk-landscape-of-erp-transformation/?amp=1",
+    "page": 2,
+    "summary": "Independent assurance supports a safe, predictable and reliable delivery of ERP programmes and that no-regret decisions are supported by evidence and ...",
+    "title": "Navigating the Complex Risk Landscape of ERP ..."
+   },
+   "news.sap.com/africa/2026/11/sap-a-new-generation-of-supply-chain-collaboration-for-pirellis-vmi-processes?amp=1": {
+    "baseline": false,
+    "date_hint": "16 hours ago",
+    "first_seen": "2026-11-17T01:24:03Z",
+    "link": "https://news.sap.com/africa/2026/11/sap-a-new-generation-of-supply-chain-collaboration-for-pirellis-vmi-processes/?amp=1",
+    "page": 2,
+    "summary": "The project introduces a new technology that enables a structured collaboration model and allows the organisation to move beyond a predominantly transactional ...",
+    "title": "SAP: A New Generation of Supply Chain Collaboration for ..."
+   },
    "news.sap.com/africa/2026/11/sap-beefs-up-business-ai-platform-and-joule-to-drive-agentic-ai-adoption": {
     "baseline": false,
     "date_hint": "48 minutes ago",
@@ -42432,6 +42522,15 @@
     "page": 2,
     "summary": "\u30d3\u30b8\u30e7\u30f3\u304b\u3089\u73fe\u5b9f\u3078\u2015\u20152026 \u5e74\u306e SAP TechEd \u306b\u304a\u3044\u3066\u3001SAP \u306e\u7d4c\u55b6\u9663\u306f\u3001\u958b\u767a\u8005\u3001\u5c0e\u5165\u4f01\u696d\u3001\u30d1\u30fc\u30c8\u30ca\u30fc\u304c Autonomous Enterprise\uff08\u81ea\u5f8b\u578b\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba\uff09\u3092\u3044\u304b\u306b\u69cb\u7bc9 ...",
     "title": "\u958b\u767a\u8005\u306b\u5411\u3051\u3066\u300cAutonomous Enterprise \u306f\u69cb\u7bc9\u3067\u304d\u308b\u300d\u3068\u767a\u4fe1"
+   },
+   "news.sap.com/japan/2026/11/1117_sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T01:24:03Z",
+    "link": "https://news.sap.com/japan/2026/11/1117_sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/",
+    "page": 2,
+    "summary": "\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba\u30a2\u30fc\u30ad\u30c6\u30af\u30c1\u30e3\u30c4\u30fc\u30eb\u306f\u3001\u4f01\u696d\u306e\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u30dd\u30fc\u30c8\u30d5\u30a9\u30ea\u30aa\u3084\u6280\u8853\u30b9\u30bf\u30c3\u30af\u306b\u95a2\u3059\u308b\u6700\u65b0\u60c5\u5831\u3092\u6587\u66f8\u5316\u3057\u307e\u3059\u3002\u3053\u3046\u3057\u305f\u60c5\u5831\u3092\u53ef\u8996\u5316\u3059\u308b\u3053\u3068\u306f\u3001 ...",
+    "title": "Gartner\u00ae Magic Quadrant\u2122 \u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba\u30fb\u30a2\u30fc\u30ad\u30c6\u30af\u30c1\u30e3 ..."
    },
    "news.sap.com/japan/2026/11/sap%E3%80%812026%E5%B9%B4%E7%89%88gartner-emerging-market-quadrant%E3%81%AE%E7%B5%B1%E5%90%88%E5%9E%8B%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3ai%E3%82%A8%E3%83%BC/male-manager-hand-holding-tablet-with-ar-application-for-check-order-pick-time-in-smart-factory-warehouse-technology-interface-global-partner-connection-for-logistic-import-export-background-2": {
     "baseline": false,
