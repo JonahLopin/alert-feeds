@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-16T23:06:05Z</updated>
+  <updated>2026-11-17T16:43:23Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/js/payment_request/show?client_id=1847728353.1786233602&amp;session_id=1786233602</id>
+    <title>Stripe JS Reference</title>
+    <link href="https://docs.stripe.com/js/payment_request/show?client_id=1847728353.1786233602&amp;session_id=1786233602" />
+    <published>2026-11-17T16:43:23Z</published>
+    <updated>2026-11-17T16:43:23Z</updated>
+    <summary>Create a Payment Element · Get a Payment Element · Update a Payment Element · Fetch Elements Updates · Collapse a Payment Element · Available payment methods change ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/get-started/account/orgs/sharing/customers-payment-methods?locale=zh-CN</id>
     <title>在组织账户之间共享客户和支付方式</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T16:43:02Z</published>
     <updated>2026-11-06T16:43:02Z</updated>
     <summary>Stripe issues and processes cards, while Bridge verifies cardholders and moves funds from the linked wallets. You can fund cards with a Bridge wallet, a Privy ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESegHEIkXX4eI9TXTZPeXY-SuqV0yP57DNXLW3A942UM9hmheroCFjPKynJALMNoULEGGq1G2U2t-37USJjRiaQ1v0rYEc5D2bBrRgp_-6Je6gOuHeiJqKgkZoKF7AW3tNpqjeTiUa_v-nfPFII0bdzf0Nt0VylSPE1jZe</id>
-    <title>Set up future GoPay payments</title>
-    <link href="https://www.google.com/goto?url=CAESegHEIkXX4eI9TXTZPeXY-SuqV0yP57DNXLW3A942UM9hmheroCFjPKynJALMNoULEGGq1G2U2t-37USJjRiaQ1v0rYEc5D2bBrRgp_-6Je6gOuHeiJqKgkZoKF7AW3tNpqjeTiUa_v-nfPFII0bdzf0Nt0VylSPE1jZe" />
-    <published>2026-11-06T16:43:02Z</published>
-    <updated>2026-11-06T16:43:02Z</updated>
-    <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
   </entry>
 </feed>
