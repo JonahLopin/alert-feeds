@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-17T01:24:03Z</updated>
+  <updated>2026-11-17T02:26:39Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/paxton-whistleblower-assisting-successor-johnsons-transition</id>
+    <title>Paxton Whistleblower Assisting Successor Johnson's ...</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/paxton-whistleblower-assisting-successor-johnsons-transition" />
+    <published>2026-11-17T02:26:39Z</published>
+    <updated>2026-11-17T02:26:39Z</updated>
+    <summary>A former aide to Texas Attorney General Ken Paxton (R) who testified against him at an impeachment trial will advise Paxton's successor, Democrat Nathan ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/us-justice-department-charges-foreign-extortion-for-first-time</id>
     <title>US Justice Department Charges Foreign Extortion for First ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-12T20:42:49Z</published>
     <updated>2026-11-12T20:42:49Z</updated>
     <summary>Binance said it has covered all of the $6.3 billion in cryptoassets pilfered from customers, marking a capstone to the largest cybertheft in history.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/at-hyperliquid-traders-bid-for-edge-in-cryptos-high-speed-race</id>
-    <title>At Hyperliquid, Traders Bid for Edge in Crypto's High- ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/at-hyperliquid-traders-bid-for-edge-in-cryptos-high-speed-race" />
-    <published>2026-11-12T20:42:49Z</published>
-    <updated>2026-11-12T20:42:49Z</updated>
-    <summary>The system allows traders to bid for an early look at incoming buy and sell orders before they are processed by the exchange, potentially giving their ...</summary>
   </entry>
 </feed>
