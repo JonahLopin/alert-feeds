@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-16T18:10:39Z</updated>
+  <updated>2026-11-17T15:07:11Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:6607998940637392025</id>
+    <title>Crypto Onramp Transaction Limits | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/crypto/onramp_transaction_limits?api-version=2026-08-26.preview" />
+    <published>2026-11-17T15:07:11Z</published>
+    <updated>2026-11-17T15:07:11Z</updated>
+    <summary>This object represents the limit for the remaining amount that the crypto customer can onramp. Was this section helpful?YesNo. Retrieve Onramp ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:11200741938482354025</id>
     <title>Confirm the session - Stripe JS Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-27T22:42:43Z</published>
     <updated>2026-10-27T22:42:43Z</updated>
     <summary>Connect an AI agent to Stripe MCP to create Issuing cardholders and physical or virtual cards with the permissions you choose.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:15270659600566303246</id>
-    <title>Send payouts with crypto - stablecoin - Stripe Documentation</title>
-    <link href="https://docs.stripe.com/global-payouts/send-money/crypto-wallets" />
-    <published>2026-10-26T16:50:44Z</published>
-    <updated>2026-10-26T16:50:44Z</updated>
-    <summary>Learn how to use Global Payouts to send USDC and OUSD stablecoin payouts from your financial account to recipients' crypto wallets in more than ...</summary>
   </entry>
 </feed>
