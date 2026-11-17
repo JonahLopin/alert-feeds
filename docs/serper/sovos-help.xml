@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-17T17:42:52Z</updated>
+  <updated>2026-11-17T19:42:43Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/e-invoicing/compliance-network-implementation-guide/response-handling/sovos-application-responses-and-status-codes</id>
+    <title>Sovos application responses and status codes</title>
+    <link href="https://docs.sovos.com/e-invoicing/compliance-network-implementation-guide/response-handling/sovos-application-responses-and-status-codes" />
+    <published>2026-11-17T19:42:43Z</published>
+    <updated>2026-11-17T19:42:43Z</updated>
+    <summary>Each application response contains one Sovos response code and several status reason codes that provide document status and help determine when further action ...</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESxwEBxCJF1yGRAR9S-8aerPzE2OIi6SKVK3By_fqpbnMKLIJg420qTHF_o7P_ZQYc6mhrI5-pR5sp-hDN-l-mRiJ4CZyksu4Qt2za30ZYNBcRwfC06f2RLRQ9fHMAdSGTSPR7UmmVShc4JHnD1n2N2i3Gi0vySDsA1Ui9jbMnpXHIeYZ2WVKAeFMFjMBIEjdsyTUGd0DjxYj0DMThph1L_UitAjjiTWWfvob19ikOJeHenLPnvvJJ1Ib8IGBbVAZSj8mpkaIPl6Cj&amp;gsessionid=IryLHATSrdxyAycbc_tkTTIIgyHeIUECdnOR9Ed3YxYopdxGNns7Kw</id>
     <title>Sovos application responses and status codes</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T04:27:34Z</published>
     <updated>2026-10-30T04:27:34Z</updated>
     <summary>Missing required fields are the most common cause of errors. The error message shows empty single quotes ('') to indicate the value is missing: The value '' of ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESxAEB6zswFXt-hUUu0bUf7a8eG1Ya47S1dM7mu7kbqjwEkQCFEr3veK5uqnPtEaFppuVevoWR2TmFS-CcG8hFsz7wJO5LI8OeG3GanBaeHC3GWzUyWn3QAhosoaQt79dTxoGINFHNt1PbpkChsOeOd3dEo7t6U96kGiTFFLFtbxQgJGILuQ63NQiGSYj_wC4m26Ty0bhw74_3KX9F_H7OSsOvoAf9NdU2zs_eZFnFQhTcsdQePF_MhhPqTqbvgaz74xjWnnth</id>
-    <title>Check the status of IRS transmittals - Sovos Docs</title>
-    <link href="https://www.google.com/goto?url=CAESxAEB6zswFXt-hUUu0bUf7a8eG1Ya47S1dM7mu7kbqjwEkQCFEr3veK5uqnPtEaFppuVevoWR2TmFS-CcG8hFsz7wJO5LI8OeG3GanBaeHC3GWzUyWn3QAhosoaQt79dTxoGINFHNt1PbpkChsOeOd3dEo7t6U96kGiTFFLFtbxQgJGILuQ63NQiGSYj_wC4m26Ty0bhw74_3KX9F_H7OSsOvoAf9NdU2zs_eZFnFQhTcsdQePF_MhhPqTqbvgaz74xjWnnth" />
-    <published>2026-10-30T03:28:16Z</published>
-    <updated>2026-10-30T03:28:16Z</updated>
-    <summary>View whether your transmittals were accepted or need action directly in Sovos's Tax Information Reporting software.</summary>
   </entry>
 </feed>

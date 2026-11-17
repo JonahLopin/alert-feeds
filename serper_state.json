@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 46881,
+  "credits_used": 46938,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-17T18:42:40Z",
+  "last_run": "2026-11-17T19:42:43Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 908
+  "runs": 909
  },
  "feeds": {
   "adp-help": {
@@ -653,6 +653,15 @@
     "page": 1,
     "summary": "The board of directors of ADP (Nasdaq: ADP) approved a $0.20 increase in the quarterly cash dividend to an annual rate of $7.60 per share,",
     "title": "ADP Increases Cash Dividend; Marks 52nd Consecutive ..."
+   },
+   "mediacenter.adp.com/2026-11-17-ADP-National-Employment-Report-Preliminary-Estimate-for-October-31,-2026,1": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-11-17T19:42:43Z",
+    "link": "https://mediacenter.adp.com/2026-11-17-ADP-National-Employment-Report-Preliminary-Estimate-for-October-31,-2026,1",
+    "page": 1,
+    "summary": "For the four weeks ending October 31, 2026, U.S. private employers added an average of 23,750 jobs per week, according to the NER Pulse, a weekly update of the ...",
+    "title": "ADP National Employment Report Preliminary Estimate for October 31 ..."
    },
    "mediacenter.adp.com/adp-and-campfire-announce-strategic-partnership-to-expand-access-to-hcm-capabilities-across-the-erp-experience": {
     "baseline": false,
@@ -11240,6 +11249,15 @@
     "summary": "The effected rules restrict people from carrying more than one handgun at a time and from registering more than two handguns on a carry license, and they ...",
     "title": "Challenge to NYC's Concealed-Carry Gun Limits Revived ..."
    },
+   "news.bloomberglaw.com/business-and-practice/character-ai-platform-sale-offer-comes-from-29-year-old-gamer": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T19:42:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/character-ai-platform-sale-offer-comes-from-29-year-old-gamer",
+    "page": 4,
+    "summary": "An artificial intelligence gaming developer is behind a $10 million offer to purchase Character Technologies Inc.'s controversial AI chatbot platform.",
+    "title": "Character.ai Platform Sale Offer Comes From 29-Year-Old Gamer"
+   },
    "news.bloomberglaw.com/business-and-practice/chemical-companies-doj-seek-to-withdraw-test-order-lawsuit": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -11500,6 +11518,15 @@
     "page": 1,
     "summary": "The Colorado Supreme Court on Friday ordered that votes shall be counted on a proposed constitutional amendment establishing a graduated income tax, ...",
     "title": "Colorado Justices Preserve Ballot Initiative on Graduated Tax"
+   },
+   "news.bloomberglaw.com/business-and-practice/columbia-north-face-shed-waterproofing-patent-claims-on-appeal": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T19:42:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/columbia-north-face-shed-waterproofing-patent-claims-on-appeal",
+    "page": 2,
+    "summary": "Columbia Sportswear and The North Face secured their win against infringement allegations Tuesday after the Federal Circuit found that a Colorado materials ...",
+    "title": "Columbia, North Face Shed Waterproofing Patent Claims on ..."
    },
    "news.bloomberglaw.com/business-and-practice/columbus-gun-control-injunction-upheld-by-ohio-appeals-court": {
     "baseline": false,
@@ -12649,6 +12676,15 @@
     "page": 2,
     "summary": "Home to Cincinnati, Hamilton is the third-largest county in a key state that this year had bitterly competitive and widely watched races for governor and US ...",
     "title": "Election Workers in One County Prepped for Chaos, Then ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/eleventh-circuit-probes-cdc-authority-to-limit-puppy-imports": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-17T19:42:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/eleventh-circuit-probes-cdc-authority-to-limit-puppy-imports",
+    "page": 1,
+    "summary": "The CDC finalized rules in May 2024 that require dogs be at least six months old and microchipped in order to enter the United States.",
+    "title": "Eleventh Circuit Probes CDC Authority to Limit Puppy Imports"
    },
    "news.bloomberglaw.com/business-and-practice/eli-lilly-toughens-legal-game-plan-over-next-weight-loss-drug": {
     "baseline": false,
@@ -18224,6 +18260,15 @@
     "summary": "The consumer price index rose 0.6% from a month earlier, driven by a surge in fuel costs, according to Bureau of Labor Statistics data out Wednesday. A key ...",
     "title": "US Consumer Prices Rise by Most Since April in Broad ..."
    },
+   "news.bloomberglaw.com/business-and-practice/us-electronic-spy-agency-suffers-outage-of-classified-network": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T19:42:43Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/us-electronic-spy-agency-suffers-outage-of-classified-network",
+    "page": 3,
+    "summary": "The network, known as NSA Net, has been down since at least early Tuesday morning and some staff of the electronic spying agency have been unable to access ...",
+    "title": "US Electronic Spy Agency Suffers Outage of Classified Network"
+   },
    "news.bloomberglaw.com/business-and-practice/us-envoy-to-china-says-relations-are-bumpy-after-nvidia-affair": {
     "baseline": false,
     "date_hint": "11 hours ago",
@@ -20781,6 +20826,24 @@
     "page": 1,
     "summary": "With ChowNow Catering, Real Mediterranean Kitchen turned its biggest orders into a high-margin revenue stream it controls.",
     "title": "How One Restaurant Grew Direct Catering Sales to $73K ..."
+   },
+   "get.chownow.com/blog/restaurant-menu-grader": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T19:42:43Z",
+    "link": "https://get.chownow.com/blog/restaurant-menu-grader/",
+    "page": 1,
+    "summary": "ChowNow's Menu Grader is a free tool that reviews your restaurant's menu in about 90 seconds. You get a grade across five areas and a list of what to fix ...",
+    "title": "Restaurant Menu Grader: Check and Fix Your Menu"
+   },
+   "get.chownow.com/blog/what-to-order-after-thanksgiving": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-17T19:42:43Z",
+    "link": "https://get.chownow.com/blog/what-to-order-after-thanksgiving/",
+    "page": 1,
+    "summary": "1What to order the weekend after Thanksgiving, by craving \u00b7 1. Something with broth: pho, ramen, hot pot \u00b7 2. Pizza for a crowd \u00b7 3. Tacos, and anything but turkey.",
+    "title": "What to Order the Weekend After Thanksgiving, by Craving"
    }
   },
   "csc-blog": {
@@ -37370,6 +37433,15 @@
     "summary": "A summary of our Champ libre event, a dedicated space to explore major sector trends in Quebec's restaurant business.",
     "title": "Lightspeed's Champ libre Event: At the Heart of Quebec's ..."
    },
+   "lightspeedhq.com/blog/markup-vs-margin": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-17T19:42:43Z",
+    "link": "https://www.lightspeedhq.com/blog/markup-vs-margin/",
+    "page": 1,
+    "summary": "Markup is the percentage added to the cost of a product to determine its selling price, while margin is the percentage of the selling price that is profit.",
+    "title": "Markup vs Margin: Key Differences, Formula & Examples"
+   },
    "lightspeedhq.com/blog/online-boutique-inventory": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -45158,6 +45230,15 @@
     "page": 2,
     "summary": "El acuerdo refleja la ambici\u00f3n compartida de SAP y NTT de impulsar una transformaci\u00f3n digital segura, resiliente y soberana para los sectores regulados.",
     "title": "SAP y NTT colaborar\u00e1n para ofrecer capacidades de nube ..."
+   },
+   "news.sap.com/spain/2026/11/democratizacion-de-datos-que-es-beneficios-y-aplicaciones-en-las-empresas": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-17T19:42:43Z",
+    "link": "https://news.sap.com/spain/2026/11/democratizacion-de-datos-que-es-beneficios-y-aplicaciones-en-las-empresas/",
+    "page": 2,
+    "summary": "La democratizaci\u00f3n de datos es el proceso mediante el cual una organizaci\u00f3n facilita que sus empleados puedan acceder, comprender...",
+    "title": "Democratizaci\u00f3n de datos: qu\u00e9 es, beneficios y aplicaciones en las ..."
    },
    "news.sap.com/spain/2026/11/democratizacion-de-datos-que-es-beneficios-y-aplicaciones-en-las-empresas?amp=1": {
     "baseline": false,
@@ -58884,6 +58965,15 @@
     "page": 1,
     "summary": "View whether your transmittals were accepted or need action directly in Sovos's Tax Information Reporting software.",
     "title": "Check the status of IRS transmittals - Sovos Docs"
+   },
+   "docs.sovos.com/e-invoicing/compliance-network-implementation-guide/response-handling/sovos-application-responses-and-status-codes": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-17T19:42:43Z",
+    "link": "https://docs.sovos.com/e-invoicing/compliance-network-implementation-guide/response-handling/sovos-application-responses-and-status-codes",
+    "page": 1,
+    "summary": "Each application response contains one Sovos response code and several status reason codes that provide document status and help determine when further action ...",
+    "title": "Sovos application responses and status codes"
    },
    "docs.sovos.com/e-invoicing/compliance-network-implementation-guide/working-with-sovos-canonical-invoice/about-compliance-tools-hub": {
     "baseline": false,
