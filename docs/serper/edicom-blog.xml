@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:edicom-blog</id>
   <title>EDICOM blog (site:edicomgroup.com/blog/) via Serper</title>
-  <updated>2026-11-18T20:43:04Z</updated>
+  <updated>2026-11-18T23:42:43Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/edicom-blog.xml" />
+  <entry>
+    <id>https://edicomgroup.com/blog/online-electronic-invoice-system-works-fel-de-guatemala</id>
+    <title>Electronic Invoicing in Guatemala: FEL System, Requirements ...</title>
+    <link href="https://edicomgroup.com/blog/online-electronic-invoice-system-works-fel-de-guatemala" />
+    <published>2026-11-18T23:42:43Z</published>
+    <updated>2026-11-18T23:42:43Z</updated>
+    <summary>Learn how electronic invoicing works in Guatemala, what you need to comply with the FEL System, and how to issue Electronic Tax Documents (DTE).</summary>
+  </entry>
   <entry>
     <id>https://edicomgroup.com/blog/malaysia-electronic-invoicing-implementation</id>
     <title>Mandatory CTC Electronic Invoicing model in Malaysia</title>
