@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-17T19:42:43Z</updated>
+  <updated>2026-11-18T00:44:18Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/e-invoicing/indirect-tax-api/how-indirect-tax-api-works/http-status-codes</id>
+    <title>HTTP status codes | Product Documentation Documentation</title>
+    <link href="https://docs.sovos.com/en/e-invoicing/indirect-tax-api/how-indirect-tax-api-works/http-status-codes" />
+    <published>2026-11-18T00:44:18Z</published>
+    <updated>2026-11-18T00:44:18Z</updated>
+    <summary>Sovos uses standard HTTP response codes to indicate the outcome of API requests, ranging from successful operations to client-side and server-side errors.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.sovos.com/en/e-invoicing/compliance-network-implementation-guide/getting-started/create-a-document/sovos-canonical-invoice-format/about-sovos-canonical-invoice</id>
+    <title>About Sovos Canonical Invoice | Product Documentation ...</title>
+    <link href="https://docs.sovos.com/en/e-invoicing/compliance-network-implementation-guide/getting-started/create-a-document/sovos-canonical-invoice-format/about-sovos-canonical-invoice" />
+    <published>2026-11-18T00:44:18Z</published>
+    <updated>2026-11-18T00:44:18Z</updated>
+    <summary>Sovos Canonical Invoice (SCI) is a format Sovos developed to specifically support global customers with their e-invoicing and reporting needs.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/e-invoicing/compliance-network-implementation-guide/response-handling/sovos-application-responses-and-status-codes</id>
     <title>Sovos application responses and status codes</title>
@@ -787,21 +803,5 @@
     <published>2026-10-30T05:25:18Z</published>
     <updated>2026-10-30T05:25:18Z</updated>
     <summary>Open the XML file in a text editor, such as Notepad, Notepad++, or VS Code, and use the line number from the error messages to find the records with errors.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESxAEB6zswFb4kV5DlzY97dTCJdLWUfWaXHGn4ujM6Sn34OhDYw3Gwopdr_3RozX7pX8HYxgh-8MQuAusCimohvSrE7Yi18Ajijg_jtskqX8Hg-AphBDArWKbQRoalJ5Uc4P_DKW_KBUxKf5CRDpnhTIM3alxf_H2vgKK9ltZ_7CfG3oU85qODV9-ipP0QR2LoF0VXd99gz-iVW_GqPMHDW2N6BxNQddLnt2VIfabXrLsxZJJPi8B-kBQNDjQ9SeKvisGdBZnf</id>
-    <title>Check the status of IRS transmittals - Sovos Docs</title>
-    <link href="https://www.google.com/goto?url=CAESxAEB6zswFb4kV5DlzY97dTCJdLWUfWaXHGn4ujM6Sn34OhDYw3Gwopdr_3RozX7pX8HYxgh-8MQuAusCimohvSrE7Yi18Ajijg_jtskqX8Hg-AphBDArWKbQRoalJ5Uc4P_DKW_KBUxKf5CRDpnhTIM3alxf_H2vgKK9ltZ_7CfG3oU85qODV9-ipP0QR2LoF0VXd99gz-iVW_GqPMHDW2N6BxNQddLnt2VIfabXrLsxZJJPi8B-kBQNDjQ9SeKvisGdBZnf" />
-    <published>2026-10-30T04:27:34Z</published>
-    <updated>2026-10-30T04:27:34Z</updated>
-    <summary>Usually caused by file formatting issues, such as special characters in records. Review the error details from step 3, fix the records, then regenerate and ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESwwEB6zswFaaq2h58gNZdoYSuUPO-mGx2PY7zVywOBiK3baba9CJ9xnZabasqMBlRh9M0EKuStbjmmtD3z6pv-m8WOunf3tPl7ArdUt-IzC5UP5l_LR7bnt7ck_fHoI6TnStVESzq4AfccmqU9LQp7NJsSUeDm19350AHu3Noddb5jfAqociSSGnrCeaQNIj7ZCaJtZwmEGcGVn3QezLkyjXtAYzjjzZy6wVemLFR1zfJqJH7hKC7UEtKGJo4GzauOW1AoFE</id>
-    <title>Fix XML schema validation errors - Sovos Docs</title>
-    <link href="https://www.google.com/goto?url=CAESwwEB6zswFaaq2h58gNZdoYSuUPO-mGx2PY7zVywOBiK3baba9CJ9xnZabasqMBlRh9M0EKuStbjmmtD3z6pv-m8WOunf3tPl7ArdUt-IzC5UP5l_LR7bnt7ck_fHoI6TnStVESzq4AfccmqU9LQp7NJsSUeDm19350AHu3Noddb5jfAqociSSGnrCeaQNIj7ZCaJtZwmEGcGVn3QezLkyjXtAYzjjzZy6wVemLFR1zfJqJH7hKC7UEtKGJo4GzauOW1AoFE" />
-    <published>2026-10-30T04:27:34Z</published>
-    <updated>2026-10-30T04:27:34Z</updated>
-    <summary>Missing required fields are the most common cause of errors. The error message shows empty single quotes ('') to indicate the value is missing: The value '' of ...</summary>
   </entry>
 </feed>

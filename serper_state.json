@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 47164,
+  "credits_used": 47221,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-17T23:43:04Z",
+  "last_run": "2026-11-18T00:44:18Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 913
+  "runs": 914
  },
  "feeds": {
   "adp-help": {
@@ -12857,6 +12857,15 @@
     "summary": "Ex-Fourth Circuit Judge Thomas D. Wilson was required to retire on Feb. 28 and not seek another job as a judge either by election or appointment, according to ...",
     "title": "Ex-Michigan Judge Who Showed Up Drunk to Work ..."
    },
+   "news.bloomberglaw.com/business-and-practice/ex-ohio-state-graduate-student-denied-retrial-in-harassment-case": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T00:44:18Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ex-ohio-state-graduate-student-denied-retrial-in-harassment-case",
+    "page": 3,
+    "summary": "A federal appeals court rejected a former Ohio State University graduate student's request for a new trial in her sexual harassment case, ruling that her ...",
+    "title": "Ex-Ohio State Graduate Student Denied Retrial in Harassment Case"
+   },
    "news.bloomberglaw.com/business-and-practice/ex-white-house-pfizer-execs-squelch-vaccine-skeptics-appeal": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -16453,6 +16462,15 @@
     "summary": "Australia's corporate regulator has not received a single application from a prediction market provider such platforms would likely face gambling rather than ...",
     "title": "Prediction Markets Avoid Australia's Tough Line on Gambling"
    },
+   "news.bloomberglaw.com/business-and-practice/private-equity-ai-spark-fresh-ethics-rule-questions-for-sec": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T00:44:18Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/private-equity-ai-spark-fresh-ethics-rule-questions-for-sec",
+    "page": 3,
+    "summary": "The SEC is addressing questions from accounting firms on how strict US conflict of interest rules apply to emerging business relationships that stem from ...",
+    "title": "Private Equity, AI Spark Fresh Ethics Rule Questions for SEC"
+   },
    "news.bloomberglaw.com/business-and-practice/private-schools-sweat-out-new-irs-rules-on-race-based-programs": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -17136,6 +17154,15 @@
     "page": 3,
     "summary": "The Southwest Airlines Pilots Association joined growing pushback over Spirit Aviation Holdings Inc.'s proposed bankruptcy sale of a trove of deindentified ...",
     "title": "Southwest Pilots Union Objects to Spirit's Data Sale to ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/spirit-approved-to-sell-business-data-to-google-for-ai-training": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-18T00:44:18Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/spirit-approved-to-sell-business-data-to-google-for-ai-training",
+    "page": 4,
+    "summary": "Spirit Aviation Holdings Inc. won bankruptcy court approval to sell a large swath of deindentified business data to Google LLC for artificial intelligence ...",
+    "title": "Spirit Approved to Sell Business Data to Google for AI Training"
    },
    "news.bloomberglaw.com/business-and-practice/split-massachusetts-high-court-upholds-handgun-permit-age-limit": {
     "baseline": false,
@@ -45141,6 +45168,24 @@
     "summary": "A handsome young man standing at night in the street. Illuminated signboards, neon, lights.",
     "title": "A handsome young man standing at night in the street. ..."
    },
+   "news.sap.com/portugal/2026/11/empresa-do-setor-automovel-utiliza-robos-humanoides-com-tecnologia-sap-para-automatizar-operacoes-industriais": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T00:44:18Z",
+    "link": "https://news.sap.com/portugal/2026/11/empresa-do-setor-automovel-utiliza-robos-humanoides-com-tecnologia-sap-para-automatizar-operacoes-industriais/",
+    "page": 3,
+    "summary": "O novo modelo aut\u00f3nomo de intralog\u00edstica j\u00e1 assegura 400 abastecimentos di\u00e1rios \u00e0s linhas de produ\u00e7\u00e3o e liga dados operacionais a rob\u00f4s humanoides e m\u00f3veis ...",
+    "title": "Empresa do setor autom\u00f3vel utiliza rob\u00f4s humanoides com tecnologia ..."
+   },
+   "news.sap.com/portugal/2026/11/empresa-do-setor-automovel-utiliza-robos-humanoides-com-tecnologia-sap-para-automatizar-operacoes-industriais?amp=1": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-11-18T00:44:18Z",
+    "link": "https://news.sap.com/portugal/2026/11/empresa-do-setor-automovel-utiliza-robos-humanoides-com-tecnologia-sap-para-automatizar-operacoes-industriais/?amp=1",
+    "page": 4,
+    "summary": "O novo modelo aut\u00f3nomo de intralog\u00edstica j\u00e1 assegura 400 abastecimentos di\u00e1rios \u00e0s linhas de produ\u00e7\u00e3o e liga dados operacionais a rob\u00f4s humanoides e m\u00f3veis ...",
+    "title": "Empresa do setor autom\u00f3vel utiliza rob\u00f4s humanoides com tecnologia ..."
+   },
    "news.sap.com/portugal/2026/11/sap-aponta-integracao-de-dados-processos-e-ia-como-chave-para-o-crescimento-sustentavel": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -59326,6 +59371,15 @@
     "summary": "Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.",
     "title": "Fix XML schema validation errors - Sovos Docs"
    },
+   "docs.sovos.com/en/e-invoicing/compliance-network-implementation-guide/getting-started/create-a-document/sovos-canonical-invoice-format/about-sovos-canonical-invoice": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-18T00:44:18Z",
+    "link": "https://docs.sovos.com/en/e-invoicing/compliance-network-implementation-guide/getting-started/create-a-document/sovos-canonical-invoice-format/about-sovos-canonical-invoice",
+    "page": 1,
+    "summary": "Sovos Canonical Invoice (SCI) is a format Sovos developed to specifically support global customers with their e-invoicing and reporting needs.",
+    "title": "About Sovos Canonical Invoice | Product Documentation ..."
+   },
    "docs.sovos.com/en/e-invoicing/indirect-tax-api/configuration": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -59352,6 +59406,15 @@
     "page": 1,
     "summary": "Use the Documents endpoints to send new documents, retrieve documents, or perform actions on previously sent documents.",
     "title": "Documents endpoints - Sovos Docs"
+   },
+   "docs.sovos.com/en/e-invoicing/indirect-tax-api/how-indirect-tax-api-works/http-status-codes": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-18T00:44:18Z",
+    "link": "https://docs.sovos.com/en/e-invoicing/indirect-tax-api/how-indirect-tax-api-works/http-status-codes",
+    "page": 1,
+    "summary": "Sovos uses standard HTTP response codes to indicate the outcome of API requests, ranging from successful operations to client-side and server-side errors.",
+    "title": "HTTP status codes | Product Documentation Documentation"
    },
    "docs.sovos.com/en/filing/sales-tax-filing-services/upload-data/troubleshooting": {
     "baseline": false,
