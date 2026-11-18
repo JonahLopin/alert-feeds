@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 47893,
+  "credits_used": 47948,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-18T12:42:33Z",
+  "last_run": "2026-11-18T13:42:55Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 926
+  "runs": 927
  },
  "feeds": {
   "adp-help": {
@@ -15148,6 +15148,15 @@
     "summary": "Massumi + Consoli is hiring a Weil Gotshal private equity partner, the deals boutique said Monday.",
     "title": "Massumi + Consoli Heads to Silicon Valley With M&A Weil ..."
    },
+   "news.bloomberglaw.com/business-and-practice/massumi-consoli-lures-second-partner-from-winding-down-weil": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T13:42:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/massumi-consoli-lures-second-partner-from-winding-down-weil",
+    "page": 1,
+    "summary": "Massumi + Consoli is landing a former Weil, Gotshal & Manges partner, as the boutique deals firm builds its transactional capabilities in New York.",
+    "title": "Massumi + Consoli Lures Second Partner From Winding-Down Weil"
+   },
    "news.bloomberglaw.com/business-and-practice/mastercard-ceo-sees-cross-border-payments-as-top-stablecoin-use": {
     "baseline": false,
     "date_hint": "12 hours ago",
@@ -18907,6 +18916,15 @@
     "page": 1,
     "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
     "title": "Wake Up Call: Plaintiffs' Firm Rosen Files Nvidia Investor Suit"
+   },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-san-franciscos-keker-pushes-back-on-early-hiring": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T13:42:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-san-franciscos-keker-pushes-back-on-early-hiring",
+    "page": 5,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel. San Francisco law firm Keker, ...",
+    "title": "Wake Up Call: San Francisco's Keker Pushes Back on Early Hiring"
    },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-sidley-doubles-london-pe-deals-team-with-weil-adds": {
     "baseline": false,
@@ -35318,6 +35336,15 @@
     "summary": "Here's how to request a rate review of QuickBooks Payments discount fees \u2014 and save hours on bookkeeping. A quick, simple walkthrough.",
     "title": "Request a rate review of QuickBooks Payments discount fees"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/transfer-primary-admin-role-quickbooks-desktop/L7N2JHKLw_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-18T13:42:55Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/account-management/transfer-primary-admin-role-quickbooks-desktop/L7N2JHKLw_US_en_US",
+    "page": 2,
+    "summary": "Here's how to transfer the primary admin role in QuickBooks Desktop \u2014 so your books stay accurate. Do it in just a few clicks.",
+    "title": "Transfer the primary admin role in \u200bQuickBooks Desktop\u200b - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/use-ready-post-quickbooks-online/L9jzjf8Xe_US_en_US": {
     "baseline": true,
     "date_hint": "2 days ago",
@@ -43621,6 +43648,15 @@
     "page": 2,
     "summary": "Entdecken Sie SAP Business One, eine kosteng\u00fcnstige ERP-L\u00f6sung f\u00fcr kleine und mittlere Unternehmen mit \u00fcber 30 Jahren Erfolg.",
     "title": "SAP Business One: 30 Jahre gemeinsames Wachstum"
+   },
+   "news.sap.com/germany/2026/11/hamburg-energiewende-mit-standardisierung": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-18T13:42:55Z",
+    "link": "https://news.sap.com/germany/2026/11/hamburg-energiewende-mit-standardisierung/",
+    "page": 1,
+    "summary": "Die Hamburger Energienetze meistern IT-Herausforderungen der Energiewende mit SAP-L\u00f6sung, die Flexibilit\u00e4t und Automatisierung optimal verbindet.",
+    "title": "SAP S/4HANA Utilities | Messkonzeptverwaltung"
    },
    "news.sap.com/germany/2026/11/hamburg-energiewende-mit-standardisierung?amp=1": {
     "baseline": false,
@@ -62909,6 +62945,15 @@
     "page": 1,
     "summary": "Find answers to common questions about SpotOn Marketing Assist, managing your campaigns, and updating your preferences. If you have additional questions, ...",
     "title": "SpotOn Marketing Assist | Frequently Asked Questions (FAQ)"
+   },
+   "help.spoton.com/space/SK/3189932037/Settings+%26+FAQ+%7C+SpotOn+Lite": {
+    "baseline": false,
+    "date_hint": "7 days ago",
+    "first_seen": "2026-11-18T13:42:55Z",
+    "link": "https://help.spoton.com/space/SK/3189932037/Settings+%26+FAQ+%7C+SpotOn+Lite",
+    "page": 1,
+    "summary": "This SpotOn Lite screen shows all available device settings. You can configure settings from taxes, tipping, offline mode, to auto batch from the settings menu,",
+    "title": "Settings & FAQ | SpotOn Lite"
    },
    "help.spoton.com/space/SK/3213820100": {
     "baseline": true,
