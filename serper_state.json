@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 48112,
+  "credits_used": 48168,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-18T16:43:06Z",
+  "last_run": "2026-11-18T17:42:54Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 930
+  "runs": 931
  },
  "feeds": {
   "adp-help": {
@@ -653,6 +653,15 @@
     "page": 1,
     "summary": "The board of directors of ADP (Nasdaq: ADP) approved a $0.20 increase in the quarterly cash dividend to an annual rate of $7.60 per share,",
     "title": "ADP Increases Cash Dividend; Marks 52nd Consecutive ..."
+   },
+   "mediacenter.adp.com/2026-11-17-ADP-National-Employment-Report-Preliminary-Estimate-for-October-31,-2026": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-18T17:42:54Z",
+    "link": "https://mediacenter.adp.com/2026-11-17-ADP-National-Employment-Report-Preliminary-Estimate-for-October-31,-2026",
+    "page": 1,
+    "summary": "Hiring strengthened this week. These numbers are preliminary and could change as new data is added. Week ending. Change. (Four-week moving average, seasonally",
+    "title": "ADP National Employment Report Preliminary Estimate for October 31 ..."
    },
    "mediacenter.adp.com/2026-11-17-ADP-National-Employment-Report-Preliminary-Estimate-for-October-31,-2026,1": {
     "baseline": false,
@@ -10008,6 +10017,15 @@
     "summary": "A&O Shearman will commit $1.1 billion to developing artificial intelligence tools and services over the next five years, the firm announced Thursday, ...",
     "title": "A&O Shearman's $1.1 Billion AI Bet Tops Kirkland ..."
    },
+   "news.bloomberglaw.com/business-and-practice/aba-confirms-lawyer-duty-to-provide-information-to-fraud-victims": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T17:42:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/aba-confirms-lawyer-duty-to-provide-information-to-fraud-victims",
+    "page": 2,
+    "summary": "When lawyers know that a client is engaged in a crime or fraud, they must disclose as much information to victimized third parties as permitted by ...",
+    "title": "ABA Confirms Lawyer Duty to Provide Information to Fraud Victims"
+   },
    "news.bloomberglaw.com/business-and-practice/abbott-gets-pause-of-elon-musk-communications-order-on-appeal": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -15427,6 +15445,15 @@
     "summary": "Steel imports from mostly Asian countries that lack free-trade deals with Mexico fell more than 27% in the first nine months of this year, Deputy Economy ...",
     "title": "Mexico Steel Imports from Asia Fall as More US Supplies ..."
    },
+   "news.bloomberglaw.com/business-and-practice/michigan-abortion-laws-struck-due-to-state-constitution-change": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T17:42:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/michigan-abortion-laws-struck-due-to-state-constitution-change",
+    "page": 2,
+    "summary": "Several abortion-related Michigan laws can't stand in light of a 2022 state constitutional amendment enshrining reproductive rights, the state appeals court ...",
+    "title": "Michigan Abortion Laws Struck Due to State Constitution Change"
+   },
    "news.bloomberglaw.com/business-and-practice/microsoft-and-alphabet-earnings-put-focus-on-ai-cash-flow-drain": {
     "baseline": false,
     "date_hint": "4 hours ago",
@@ -17118,6 +17145,15 @@
     "page": 2,
     "summary": "Pruitt's practice focuses on representing pharmaceutical and medical device companies, as well as other companies in consumer class actions and toxic tort ...",
     "title": "Skadden Brings On Four Mass Tort and Product Liability ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/skadden-extends-weil-haul-bringing-on-ip-litigation-group": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T17:42:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/skadden-extends-weil-haul-bringing-on-ip-litigation-group",
+    "page": 1,
+    "summary": "Skadden is adding to a growing list of hires from Weil Gotshal & Manges, hiring a seven-partner intellectual property litigation group led by Doug Lumish ...",
+    "title": "Skadden Extends Weil Haul, Bringing On IP Litigation Group"
    },
    "news.bloomberglaw.com/business-and-practice/skadden-hires-weil-private-equity-sports-ip-deals-partners": {
     "baseline": false,
@@ -19429,6 +19465,15 @@
     "page": 1,
     "summary": "Brian Anderson joined Willkie as a partner in its corporate and financial services department and sports transactions practice in San Francisco, ...",
     "title": "Willkie Adds Sheppard Mullin Sports Transactions Partner in SF"
+   },
+   "news.bloomberglaw.com/business-and-practice/willkie-rehires-structured-finance-partner-ispass-in-new-york": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-18T17:42:54Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/willkie-rehires-structured-finance-partner-ispass-in-new-york",
+    "page": 1,
+    "summary": "Ispass's practice focuses on structured credit, asset-backed transactions and litigation finance. He oversaw the sourcing, underwriting, structuring, and ...",
+    "title": "Willkie Rehires Structured Finance Partner Ispass in New York"
    },
    "news.bloomberglaw.com/business-and-practice/willkie-taps-westinghouse-nuclear-lawyer-kuyler-in-washington": {
     "baseline": false,
@@ -27846,6 +27891,15 @@
    }
   },
   "igen-blog": {
+   "gradients.me/symbol/U%2B002A": {
+    "baseline": false,
+    "date_hint": "19 hours ago",
+    "first_seen": "2026-11-18T17:42:54Z",
+    "link": "https://gradients.me/symbol/U%2B002A",
+    "page": 1,
+    "summary": "Asterisk (U+002A) is a symbol used for multiplication, footnotes, or emphasis in text and mathematics. It is a visible character used in writing, programming, ...",
+    "title": "* Asterisk Symbol - Meaning, Copy & Paste - Discord Emojis"
+   },
    "igentax.com/blog/how-fuel-companies-manage-fuel-tax-compliance-across-multiple-jurisdictions": {
     "baseline": false,
     "date_hint": "1 day ago",
@@ -27854,6 +27908,15 @@
     "page": 1,
     "summary": "Learn how fuel companies manage tax compliance across multiple jurisdictions by standardizing data, tracking requirements, and reducing filing risk.",
     "title": "How to Manage Fuel Tax Compliance Across Jurisdictions | IGEN ["
+   },
+   "rejoiceenglish.com/words/asterisk": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-18T17:42:54Z",
+    "link": "https://rejoiceenglish.com/words/asterisk",
+    "page": 1,
+    "summary": "\u6a19\u8a18. An asterisk is the little star mark *. Writers put it next to a word to say 'look down: there is a note about this', or to mark something as special ...",
+    "title": "asterisk \u661f\u865f\uff08*\uff09\uff5c\u5b57\u8108 - \u559c\u6a02\u7f8e\u8a9eRejoice English"
    }
   },
   "intuit-quickbooks-help": {
@@ -56896,6 +56959,15 @@
     "summary": "Cultivating a business mindset allows you to see challenges as opportunities for growth and learn valuable lessons from setbacks.",
     "title": "How To Cultivate a Business Mindset: Tips and Benefits"
    },
+   "shopify.com/blog/business-partnership-examples": {
+    "baseline": false,
+    "date_hint": "21 hours ago",
+    "first_seen": "2026-11-18T17:42:54Z",
+    "link": "https://www.shopify.com/blog/business-partnership-examples",
+    "page": 1,
+    "summary": "Business partnerships span legal structures, cofounder relationships, and strategic alliances. Here's what makes them work.",
+    "title": "Successful Business Partnership Examples & Why They Work (2026)"
+   },
    "shopify.com/blog/business-plan-examples": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -58818,6 +58890,15 @@
     "page": 3,
     "summary": "Learn how to create gift cards for your business with Shopify. Set denominations, design branded cards, track sales, and manage costs.",
     "title": "How To Create Gift Cards for Your Business (2026) - Shopify"
+   },
+   "shopify.com/blog/sell-on-etsy": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-18T17:42:54Z",
+    "link": "https://www.shopify.com/blog/sell-on-etsy",
+    "page": 3,
+    "summary": "How To Sell on Etsy in 6 Easy Steps (2027) \u00b7 1. Create an Etsy account \u00b7 2. Open your Etsy shop \u00b7 3. Upload products \u00b7 4. Choose how you'll get paid \u00b7 5. Set up ...",
+    "title": "How To Sell on Etsy in 6 Easy Steps (2027)"
    },
    "shopify.com/blog/seo-checklist-online-store": {
     "baseline": false,
@@ -65376,6 +65457,15 @@
     "page": 1,
     "summary": "Customers who have both a saved Link payment method and a saved business payment method see their business saved payment method displayed after the page loads.",
     "title": "Save and retrieve customer payment methods"
+   },
+   "docs.stripe.com/payments/checkout/save-customer-payment-methods?locale=ja-JP": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-11-18T17:42:54Z",
+    "link": "https://docs.stripe.com/payments/checkout/save-customer-payment-methods?locale=ja-JP",
+    "page": 2,
+    "summary": "Payment Element \u3068 Checkout Sessions API \u3092\u7d44\u307f\u5408\u308f\u305b\u308b\u3068\u3001\u6b21\u56de\u4ee5\u964d\u306b\u4f7f\u3048\u308b\u3088\u3046\u9867\u5ba2\u306e\u6c7a\u6e08\u624b\u6bb5\u3092\u4fdd\u5b58\u3067\u304d\u307e\u3059\u3002\u6b21\u306e\u64cd\u4f5c\u304c\u53ef\u80fd\u3067\u3059\u3002",
+    "title": "\u9867\u5ba2\u306e\u6c7a\u6e08\u624b\u6bb5\u3092\u4fdd\u5b58\u30fb\u53d6\u5f97\u3059\u308b"
    },
    "docs.stripe.com/payments/checkout/tax-id-element": {
     "baseline": false,
@@ -80881,6 +80971,15 @@
     "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-and-suki-to-integrate-uptodates-trusted-physicianauthored-content-into-suki-assistant",
     "summary": "Wolters Kluwer Health and Suki\u00ae are partnering to streamline administrative tasks for clinicians by making UpToDate\u00ae, a market-leading clinical decision support ...",
     "title": "Wolters Kluwer and Suki to integrate UpToDate's physician ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-announces-2026-community-impact-and-excellence-in-data-analytics-award-winners": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-18T17:42:54Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-announces-2026-community-impact-and-excellence-in-data-analytics-award-winners",
+    "page": 2,
+    "summary": "Wolters Kluwer Financial & Corporate Compliance today announced that Citi has won the 2026 Community Impact Award, and Glenn Marigliano of Santander Bank is the ...",
+    "title": "Wolters Kluwer announces 2026 Community Impact and Excellence ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-announces-dupont-as-winner-of-2026-legal-innovator-award": {
     "baseline": false,

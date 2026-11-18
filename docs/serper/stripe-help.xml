@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-17T22:43:04Z</updated>
+  <updated>2026-11-18T17:42:54Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/payments/checkout/save-customer-payment-methods?locale=ja-JP</id>
+    <title>顧客の決済手段を保存・取得する</title>
+    <link href="https://docs.stripe.com/payments/checkout/save-customer-payment-methods?locale=ja-JP" />
+    <published>2026-11-18T17:42:54Z</published>
+    <updated>2026-11-18T17:42:54Z</updated>
+    <summary>Payment Element と Checkout Sessions API を組み合わせると、次回以降に使えるよう顧客の決済手段を保存できます。次の操作が可能です。</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/js/custom_checkout/get_currency_selector_element?__=&amp;__debug=&amp;__hsfp=3972014050&amp;__hssc=176515898.1.1449187200073&amp;__hstc=176515898.16af0c9bbef9b878146d67524a3d18a3.1449187200070.1449187200071.1449187200072.1&amp;__previewId=legalqa74924&amp;__readwiseLocation=</id>
     <title>Get the Currency Selector Element</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T18:43:21Z</published>
     <updated>2026-11-06T18:43:21Z</updated>
     <summary>Sie können eine GoPay-Verknüpfung einrichten, um zukünftige wiederkehrende Zahlungen einzuziehen, ohne dass eine erneute Kundenautorisierung erforderlich ist.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEShgEBxCJF123XqSQYFzSUk5YzAbfyVl2yEvOC9pAazJW6u7DXTp-o7Vdt0kXSlA1gzJLl3h1C_X8EY8FMwAv2W9D2_txPrxSc_panharsjU9aGknQ_crLFPShTx8XLkUzyWFlbxru59s5f-q5lq59v-tdFYh3tpXJz95JYs10xjlBzOU3sjbx0g</id>
-    <title>Card contract architecture and security</title>
-    <link href="https://www.google.com/goto?url=CAEShgEBxCJF123XqSQYFzSUk5YzAbfyVl2yEvOC9pAazJW6u7DXTp-o7Vdt0kXSlA1gzJLl3h1C_X8EY8FMwAv2W9D2_txPrxSc_panharsjU9aGknQ_crLFPShTx8XLkUzyWFlbxru59s5f-q5lq59v-tdFYh3tpXJz95JYs10xjlBzOU3sjbx0g" />
-    <published>2026-11-06T18:43:21Z</published>
-    <updated>2026-11-06T18:43:21Z</updated>
-    <summary>Learn how Stripe card contracts pull funds from non-custodial wallets and keep customer funds secure. Ask about this page.</summary>
   </entry>
 </feed>
