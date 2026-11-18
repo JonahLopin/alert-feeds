@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-18T11:42:41Z</updated>
+  <updated>2026-11-18T12:42:33Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/social-security-cant-be-the-only-priority-allison-schrager</id>
+    <title>Social Security Can't Be the Only Priority: Allison Schrager</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/social-security-cant-be-the-only-priority-allison-schrager" />
+    <published>2026-11-18T12:42:33Z</published>
+    <updated>2026-11-18T12:42:33Z</updated>
+    <summary>Social Security is known as the third rail in politics because it's the primary source of income for many retirees. Neither party wants to admit that restoring ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/kids-online-safety-bills-prospects-fade-in-lame-duck-session</id>
     <title>Kids Online Safety Bill's Prospects Fade in Lame-Duck Session</title>
@@ -795,13 +803,5 @@
     <published>2026-11-16T23:06:05Z</published>
     <updated>2026-11-16T23:06:05Z</updated>
     <summary>Two brothers who graduated from Massachusetts Institute of Technology were cleared of charges that they stole $25 million in cryptocurrency, avoiding a new ...</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/latham-vinson-elkins-assist-diamondback-double-eagle-deal</id>
-    <title>Latham, Vinson &amp; Elkins Assist Diamondback-Double ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/latham-vinson-elkins-assist-diamondback-double-eagle-deal" />
-    <published>2026-11-16T23:06:05Z</published>
-    <updated>2026-11-16T23:06:05Z</updated>
-    <summary>Latham &amp; Watkins and Vinson &amp; Elkins steered Diamondback Energy Inc. in its agreement to buy additional assets in the Permian Basin from oil driller Double ...</summary>
   </entry>
 </feed>
