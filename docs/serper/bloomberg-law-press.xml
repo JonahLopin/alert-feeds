@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-18T04:43:05Z</updated>
+  <updated>2026-11-18T06:44:55Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/anthropic-crypto-bets-imply-1-7-trillion-value-despite-ai-rout</id>
+    <title>Anthropic Crypto Bets Imply $1.7 Trillion Value Despite AI Rout</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/anthropic-crypto-bets-imply-1-7-trillion-value-despite-ai-rout" />
+    <published>2026-11-18T06:44:55Z</published>
+    <updated>2026-11-18T06:44:55Z</updated>
+    <summary>Crypto futures tied to Anthropic's stock market debut have fallen alongside artificial intelligence stocks, but they still imply a blockbuster valuation of ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/xi-warns-against-rampant-protectionism-ahead-of-trump-talks</id>
     <title>Xi Warns Against 'Rampant' Protectionism Ahead of Trump Talks</title>
@@ -795,13 +803,5 @@
     <published>2026-11-16T22:06:11Z</published>
     <updated>2026-11-16T22:06:11Z</updated>
     <summary>Webtoon Entertainment Inc. signage during the initial public offering event outside the Nasdaq MarketSite in New York, US, on Thursday, June 27, 2024.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/repackaged-pentagon-press-limits-hit-dubious-appeals-judges</id>
-    <title>'Repackaged' Pentagon Press Limits Hit Dubious Appeals ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/repackaged-pentagon-press-limits-hit-dubious-appeals-judges" />
-    <published>2026-11-16T22:06:11Z</published>
-    <updated>2026-11-16T22:06:11Z</updated>
-    <summary>Federal appellate judges appeared skeptical of the Defense Department's decision to revamp press restrictions after an earlier version of a policy limiting ...</summary>
   </entry>
 </feed>

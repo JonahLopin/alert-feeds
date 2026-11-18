@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 47508,
+  "credits_used": 47566,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-18T05:42:47Z",
+  "last_run": "2026-11-18T06:44:55Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 919
+  "runs": 920
  },
  "feeds": {
   "adp-help": {
@@ -10367,6 +10367,15 @@
     "page": 2,
     "summary": "Anthropic PBC could spend $750 billion on additional computing power in the coming years, according to a Wall Street Journal report, as the company prepares ...",
     "title": "Anthropic Could Spend $750 Billion on Computing Costs ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/anthropic-crypto-bets-imply-1-7-trillion-value-despite-ai-rout": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-18T06:44:55Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/anthropic-crypto-bets-imply-1-7-trillion-value-despite-ai-rout",
+    "page": 4,
+    "summary": "Crypto futures tied to Anthropic's stock market debut have fallen alongside artificial intelligence stocks, but they still imply a blockbuster valuation of ...",
+    "title": "Anthropic Crypto Bets Imply $1.7 Trillion Value Despite AI Rout"
    },
    "news.bloomberglaw.com/business-and-practice/anthropic-faces-a-longer-wait-than-spacex-to-join-stock-indexes": {
     "baseline": false,
@@ -56132,6 +56141,15 @@
     "summary": "Find out whether ADA rules apply to your store, what an ADA compliant website requires, and how to audit your site with this 10-point checklist.",
     "title": "ADA Compliant Website: 10-Point Checklist (2027)"
    },
+   "shopify.com/blog/aeo-vs-seo": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-11-18T06:44:55Z",
+    "link": "https://www.shopify.com/blog/aeo-vs-seo",
+    "page": 1,
+    "summary": "Learn how AEO and SEO differ in terms of tactics, metrics, and outcomes, along with the best practices they share, so you can succeed at both.",
+    "title": "AEO vs. SEO: Differences & How to Win at Both (2026)"
+   },
    "shopify.com/blog/affiliate-marketing": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -56167,6 +56185,15 @@
     "page": 5,
     "summary": "Affiliate marketing allows you to connect with your audience via channels they trust, and a few new industry developments can work in your favor.",
     "title": "Affiliate Marketing Trends: 8 Key Shifts (2026)"
+   },
+   "shopify.com/blog/affiliate-strategy": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-11-18T06:44:55Z",
+    "link": "https://www.shopify.com/blog/affiliate-strategy",
+    "page": 1,
+    "summary": "To make affiliate marketing work for your business, start with an affiliate strategy that identifies quality partners and incentivizes promotion.",
+    "title": "Affiliate Strategy Types and Tips for Building Your Own (2026)"
    },
    "shopify.com/blog/agentic-ai-tools": {
     "baseline": false,
