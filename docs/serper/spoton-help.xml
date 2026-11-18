@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-18T13:42:55Z</updated>
+  <updated>2026-11-18T16:43:06Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/1194557666/Device+&amp;+Connectivity+FAQs+%7C+SpotOn+Serve</id>
+    <title>Device &amp; Connectivity FAQs | SpotOn Serve</title>
+    <link href="https://help.spoton.com/space/SK/1194557666/Device+&amp;+Connectivity+FAQs+%7C+SpotOn+Serve" />
+    <published>2026-11-18T16:43:06Z</published>
+    <updated>2026-11-18T16:43:06Z</updated>
+    <summary>Yes, it's like an Android cell phone. SpotOn Serve A920/A77 handheld devices equipped with a 4G SIM card can use cellular connectivity as a failover when Wi-Fi ...</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/3189932037/Settings+%26+FAQ+%7C+SpotOn+Lite</id>
     <title>Settings &amp; FAQ | SpotOn Lite</title>
@@ -794,14 +802,6 @@
     <link href="https://www.google.com/goto?url=CAESZgHrOzAV06BV6itZQNLA27uhujacj8JUw5yHYgzeRmocnNP0dGa7mzYlXjTfPFt1Lc9T2Dver7O_pLD7FlsE-zdSQ5PuyITDiRMe8Kzr7aVV07O4PE3zjULN6b9gbgv6BfoxiUteUw" />
     <published>2026-10-31T06:43:16Z</published>
     <updated>2026-10-31T06:43:16Z</updated>
-    <summary>Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu price.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVq6GQZV5PVhZLzhANqTCEOqp9uFHAVCqYO7VQXutbuJyqyGU2f3kIFO8WikrC0V9w_FaAQDhHwt9eCARWdiri7Js_F5H8IZEBpGga7h7XC-y4ZobzNvHtbuBBe-KbHayjMw&amp;gsessionid=uoTIfNjCiuVmS6rQelOBc9kXAEbar2qVifzns45tEgozlSQCKL0A2A</id>
-    <title>Open Items and Market Price | SpotOn Restaurant BOH</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVq6GQZV5PVhZLzhANqTCEOqp9uFHAVCqYO7VQXutbuJyqyGU2f3kIFO8WikrC0V9w_FaAQDhHwt9eCARWdiri7Js_F5H8IZEBpGga7h7XC-y4ZobzNvHtbuBBe-KbHayjMw&amp;gsessionid=uoTIfNjCiuVmS6rQelOBc9kXAEbar2qVifzns45tEgozlSQCKL0A2A" />
-    <published>2026-10-31T05:42:34Z</published>
-    <updated>2026-10-31T05:42:34Z</updated>
     <summary>Open Items and Market Price items allow restaurants to manually enter a price at checkout for items or services that do not have a fixed menu price.</summary>
   </entry>
 </feed>
