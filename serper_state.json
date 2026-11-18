@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 47948,
+  "credits_used": 48002,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-18T13:42:55Z",
+  "last_run": "2026-11-18T14:43:24Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 927
+  "runs": 928
  },
  "feeds": {
   "adp-help": {
@@ -27387,6 +27387,15 @@
    }
   },
   "edicom-press": {
+   "m.youtube.com/shorts/1nnAo3MkXz0": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-18T14:43:24Z",
+    "link": "https://m.youtube.com/shorts/1nnAo3MkXz0",
+    "page": 1,
+    "summary": "Share your videos with friends, family, and the world.",
+    "title": "Video unavailable"
+   },
    "m.youtube.com/shorts/vHhA5wONQG4": {
     "baseline": false,
     "date_hint": "7 days ago",
@@ -27608,6 +27617,15 @@
     "page": 1,
     "summary": "\u2042 is a traditional book ornament called an asterism, made of three asterisks arranged in a triangle. In fiction and long-form prose, it marks a scene break or ...",
     "title": "Asterism"
+   },
+   "m.youtube.com/shorts/1nnAo3MkXz0": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-18T14:43:24Z",
+    "link": "https://m.youtube.com/shorts/1nnAo3MkXz0",
+    "page": 1,
+    "summary": "Share your videos with friends, family, and the world.",
+    "title": "Video unavailable"
    },
    "minipedia.me/en/pedia/asterisk": {
     "baseline": false,
@@ -36788,6 +36806,15 @@
     "summary": "Step-by-step: pay bills with the vendor direct payment method \u2014 and save hours on bookkeeping. A quick, simple walkthrough.",
     "title": "Pay bills with the vendor direct payment method - QuickBooks"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/pay-bills/whats-new-quickbooks-desktop-2023/L9j39JEbk_US_en_US": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-18T14:43:24Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/pay-bills/whats-new-quickbooks-desktop-2023/L9j39JEbk_US_en_US",
+    "page": 1,
+    "summary": "QuickBooks Desktop 2023 introduces several features to help automate and streamline your daily accounting tasks. Here's what features are included in the ...",
+    "title": "What's new in QuickBooks Desktop 2023 - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/pay-commissions/pay-employees-commission/L4Sz47WWY_US_en_US": {
     "baseline": true,
     "date_hint": "3 days ago",
@@ -37439,6 +37466,15 @@
     "page": 1,
     "summary": "Searching wa workers compensation fund tax? Follow this quick guide \u2014 the right way, the first time. Clear, step-by-step instructions.",
     "title": "Set up and manage Washington (WA) workers' compensation"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/write-checks/create-record-checks-quickbooks-online/L2JKk4Xgn_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T14:43:24Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/write-checks/create-record-checks-quickbooks-online/L2JKk4Xgn_US_en_US",
+    "page": 2,
+    "summary": "We'll show you how to record a check and how to print it out right from QuickBooks. If you want to order checks from QuickBooks, there is a link in the ...",
+    "title": "Create and record cheques - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/year-end-payroll/quickbooks-accountant-year-end-checklist/L4xljRtlp_US_en_US": {
     "baseline": false,
@@ -42523,6 +42559,15 @@
     "page": 1,
     "summary": "SAP gives customers product-level cloud emissions and energy data based on infrastructure activity, helping identify reduction opportunities.",
     "title": "SAP Puts Product-Level Cloud Emissions and Energy Data ..."
+   },
+   "news.sap.com/2026/11/sap-recognized-gartner-peer-insights-talent-acquisition": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-18T14:43:24Z",
+    "link": "https://news.sap.com/2026/11/sap-recognized-gartner-peer-insights-talent-acquisition/",
+    "page": 1,
+    "summary": "SAP SuccessFactors earned Gartner's Customers' Choice for talent acquisition in 2026, recognized across 293 verified customer reviews.",
+    "title": "SAP in Gartner Peer Insights for Talent Acquisition Suites"
    },
    "news.sap.com/2026/11/successful-sap-transformation-business-processes": {
     "baseline": false,
