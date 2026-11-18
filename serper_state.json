@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 47624,
+  "credits_used": 47678,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-18T07:42:39Z",
+  "last_run": "2026-11-18T08:42:58Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 921
+  "runs": 922
  },
  "feeds": {
   "adp-help": {
@@ -57048,6 +57048,15 @@
     "summary": "If you want to run an online store without the stress of managing inventory, dropshipping is an attractive online business model. But you'll need to find ...",
     "title": "The 13 Best Dropshipping Sites to Use in 2026"
    },
+   "shopify.com/blog/dtc-vs-retail": {
+    "baseline": false,
+    "date_hint": "12 hours ago",
+    "first_seen": "2026-11-18T08:42:58Z",
+    "link": "https://www.shopify.com/blog/dtc-vs-retail",
+    "page": 1,
+    "summary": "Learn how DTC and retail models work, the key differences between them, and how to use both strategies to scale your business.",
+    "title": "Direct to consumer (DTC) vs. Retail: Key Differences (2026)"
+   },
    "shopify.com/blog/ebitda-vs-net-income": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -80165,6 +80174,15 @@
     "link": "https://www.wolterskluwer.com/en/news/ftwilliamcom-new-form-update",
     "summary": "Wolters Kluwer has introduced powerful new functionality that allows businesses to electronically file Form 5330 with the Internal Revenue Service (IRS) ...",
     "title": "Wolters Kluwer's ftwilliam.com launches new Form 5330 e- ..."
+   },
+   "wolterskluwer.com/en/news/future-ready-accountant-redesigning-work-around-ai": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T08:42:58Z",
+    "link": "https://www.wolterskluwer.com/en/news/future-ready-accountant-redesigning-work-around-ai",
+    "page": 1,
+    "summary": "Based on responses from more than 2,600 accounting professionals worldwide, the report finds firms are growing, confident, and widely adopting AI. However, few ...",
+    "title": "Future Ready Accountant report Redesigning work around AI"
    },
    "wolterskluwer.com/en/news/healthcare-technology-ceo": {
     "baseline": false,

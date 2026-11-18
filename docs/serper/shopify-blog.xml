@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-18T06:44:55Z</updated>
+  <updated>2026-11-18T08:42:58Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/dtc-vs-retail</id>
+    <title>Direct to consumer (DTC) vs. Retail: Key Differences (2026)</title>
+    <link href="https://www.shopify.com/blog/dtc-vs-retail" />
+    <published>2026-11-18T08:42:58Z</published>
+    <updated>2026-11-18T08:42:58Z</updated>
+    <summary>Learn how DTC and retail models work, the key differences between them, and how to use both strategies to scale your business.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/affiliate-strategy</id>
     <title>Affiliate Strategy Types and Tips for Building Your Own (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-11T20:57:16Z</published>
     <updated>2026-11-11T20:57:16Z</updated>
     <summary>Effective SEO strategies allow small businesses to reach their target audiences via search engines, whether that's local shoppers or a niche market.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/split-order</id>
-    <title>Split Order (Split Shipment): Causes &amp; Fixes (2027)</title>
-    <link href="https://www.shopify.com/blog/split-order" />
-    <published>2026-11-11T19:43:05Z</published>
-    <updated>2026-11-11T19:43:05Z</updated>
-    <summary>A split order ships one purchase in several packages. Learn why it happens, what it costs, and how to split or prevent one in Shopify.</summary>
   </entry>
 </feed>
