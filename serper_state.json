@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 48168,
+  "credits_used": 48222,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-18T17:42:54Z",
+  "last_run": "2026-11-18T18:42:51Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 931
+  "runs": 932
  },
  "feeds": {
   "adp-help": {
@@ -10548,6 +10548,15 @@
     "summary": "Concerns over CoreWeave Inc. 's high borrowing costs are common for young companies raising money when interest rates are elevated, but investing in the AI ...",
     "title": "ARK's Wood Says CoreWeave Will Overcome Debt Fears ..."
    },
+   "news.bloomberglaw.com/business-and-practice/arnold-porter-recruits-ex-odni-general-counsel-fonzone-in-dc": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T18:42:51Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/arnold-porter-recruits-ex-odni-general-counsel-fonzone-in-dc",
+    "page": 2,
+    "summary": "Fonzone advises companies on issues related to national security and public policy, including artificial intelligence, cybersecurity, data privacy and security, ...",
+    "title": "Arnold & Porter Recruits Ex-ODNI General Counsel Fonzone in DC"
+   },
    "news.bloomberglaw.com/business-and-practice/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -10987,6 +10996,15 @@
     "page": 1,
     "summary": "Blackstone Real Estate Seeks Rebound From Shock Exits and Losses ... Steve Schwarzman was concerned. It had been a rough stretch for Blackstone's real estate ...",
     "title": "Blackstone Real Estate Seeks Rebound From Shock Exits ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/blackstones-jon-gray-calls-concerns-about-ai-bubble-overblown": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-18T18:42:51Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/blackstones-jon-gray-calls-concerns-about-ai-bubble-overblown",
+    "page": 1,
+    "summary": "President Jon Gray reiterated his view that fears of a bubble in artificial intelligence are overblown and that AI infrastructure supply still lags far behind ...",
+    "title": "Blackstone's Jon Gray Calls Concerns About AI Bubble Overblown"
    },
    "news.bloomberglaw.com/business-and-practice/blanche-says-more-states-could-face-doj-suits-over-elections": {
     "baseline": false,
@@ -14798,6 +14816,15 @@
     "summary": "Kyverna Therapeutics Inc. and architects of its 2024 market debut must contend with investor allegations they omitted clinical trial data about a ...",
     "title": "Kyverna Therapeutics Investor Advances Kidney Drug ..."
    },
+   "news.bloomberglaw.com/business-and-practice/labor-board-joint-employer-case-entangled-in-jurisdictional-snag": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T18:42:51Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/labor-board-joint-employer-case-entangled-in-jurisdictional-snag",
+    "page": 1,
+    "summary": "A federal appeals court wants more information on whether it has the authority to rule on a union's request to strike down the National Labor Relations ...",
+    "title": "Labor Board Joint Employer Case Entangled in Jurisdictional Snag"
+   },
    "news.bloomberglaw.com/business-and-practice/labor-groups-latest-to-sue-doj-over-election-worker-threats": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -15480,6 +15507,15 @@
     "page": 1,
     "summary": "Keisha Lance Bottoms won the Georgia governorship in the 2026 midterm elections, a major victory for the Democratic Party. Statehouse election wins by Democrats ...",
     "title": "Midterm State Democratic Wins Invite Labor-Friendly ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/milbank-adds-haselberger-to-new-york-office-as-tax-partner": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T18:42:51Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/milbank-adds-haselberger-to-new-york-office-as-tax-partner",
+    "page": 3,
+    "summary": "Lorenz Haselberger joined Milbank as a partner in its tax group in New York, the firm announced Wednesday.",
+    "title": "Milbank Adds Haselberger to New York Office as Tax Partner"
    },
    "news.bloomberglaw.com/business-and-practice/milbank-hires-white-cases-doe-for-project-finance-in-chicago": {
     "baseline": false,
@@ -16974,6 +17010,15 @@
     "page": 1,
     "summary": "A key Senate Democrat is defending his authority to probe White House dealings and accused the administration of intimidation after one of President Donald Trump\u2019s US attorneys threatened him with a Justice Department investigation.",
     "title": "Senate Democrat Defends Oversight After US Attorney Probe Threat"
+   },
+   "news.bloomberglaw.com/business-and-practice/senate-gop-advances-trumps-fcc-pick-as-democrats-boycott-vote": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T18:42:51Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/senate-gop-advances-trumps-fcc-pick-as-democrats-boycott-vote",
+    "page": 2,
+    "summary": "The Senate Commerce Committee advanced President Donald Trump's nominee for the Federal Communications Commission despite a boycott from all of the ...",
+    "title": "Senate GOP Advances Trump's FCC Pick as Democrats Boycott Vote"
    },
    "news.bloomberglaw.com/business-and-practice/senate-republicans-seek-lutnick-testimony-on-nvidia-enforcement": {
     "baseline": false,
@@ -19537,6 +19582,15 @@
     "page": 1,
     "summary": "The firm is boosting salaries based on seniority ranging from $235,000 up to $455,000, according to a memo viewed by Bloomberg Law. The increases go into effect ...",
     "title": "Winston Taylor Matches Milbank Salary Offerings for ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/winston-taylor-nabs-three-ip-partners-to-expand-paris-practice": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T18:42:51Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/winston-taylor-nabs-three-ip-partners-to-expand-paris-practice",
+    "page": 2,
+    "summary": "Fran\u00e7ois Pochart, Gr\u00e9goire Desrousseaux and Lionel Martin joined Winston Taylor as partners in its intellectual property practice in Paris, ...",
+    "title": "Winston Taylor Nabs Three IP Partners to Expand Paris Practice"
    },
    "news.bloomberglaw.com/business-and-practice/womble-adds-three-k-l-gates-finance-litigation-lawyers-in-boston": {
     "baseline": false,
@@ -27698,6 +27752,15 @@
     "page": 1,
     "summary": "\u2042 is a traditional book ornament called an asterism, made of three asterisks arranged in a triangle. In fiction and long-form prose, it marks a scene break or ...",
     "title": "Asterism"
+   },
+   "gradients.me/symbol/U%2B002A": {
+    "baseline": false,
+    "date_hint": "20 hours ago",
+    "first_seen": "2026-11-18T18:42:51Z",
+    "link": "https://gradients.me/symbol/U%2B002A",
+    "page": 1,
+    "summary": "Asterisk (U+002A) is a symbol used for multiplication, footnotes, or emphasis in text and mathematics. It is a visible character used in writing, programming, ...",
+    "title": "* Asterisk Symbol - Meaning, Copy & Paste - Discord Emojis"
    },
    "m.youtube.com/shorts/1nnAo3MkXz0": {
     "baseline": false,
