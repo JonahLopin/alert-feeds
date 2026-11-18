@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 47785,
+  "credits_used": 47839,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-18T10:43:03Z",
+  "last_run": "2026-11-18T11:42:41Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 924
+  "runs": 925
  },
  "feeds": {
   "adp-help": {
@@ -14644,6 +14644,15 @@
     "page": 3,
     "summary": "Democrats' strong midterm showing could give a bill seeking to strengthen online safety and privacy for minors another chance, but with the House and Senate ...",
     "title": "Kids Online Safety Bill Caught in Limbo as Democrats Take Over"
+   },
+   "news.bloomberglaw.com/business-and-practice/kids-online-safety-bills-prospects-fade-in-lame-duck-session": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T11:42:41Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kids-online-safety-bills-prospects-fade-in-lame-duck-session",
+    "page": 3,
+    "summary": "Prospects are dimming for an effort to pass bipartisan social media legislation in Congress by the end of the year.",
+    "title": "Kids Online Safety Bill's Prospects Fade in Lame-Duck Session"
    },
    "news.bloomberglaw.com/business-and-practice/kimberly-clark-offers-bonds-to-help-fund-tylenol-maker-takeover": {
     "baseline": false,
