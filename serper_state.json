@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 47731,
+  "credits_used": 47785,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-18T09:42:56Z",
+  "last_run": "2026-11-18T10:43:03Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 923
+  "runs": 924
  },
  "feeds": {
   "adp-help": {
@@ -36429,6 +36429,15 @@
     "summary": "You can move clients between Intuit Accountant Suite (IAS) accounts. All their info, client numbers, and team access move with them.",
     "title": "Transfer clients in Intuit Accountant Suite (IAS)"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/manage-client/transfer-primary-admin-access-back-quickbooks/L4vCcWCAw_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-18T10:43:03Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-client/transfer-primary-admin-access-back-quickbooks/L4vCcWCAw_US_en_US",
+    "page": 3,
+    "summary": "Here's how to transfer primary admin access back to your QuickBooks Online client \u2014 without the usual headaches. Clear, step-by-step instructions.",
+    "title": "Transfer primary admin access back to your QuickBooks Online client - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/manage-customers/assign-leads-customers-opportunities-quickbooks-online/L0qZpPTat_US_en_US": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -36482,6 +36491,15 @@
     "page": 2,
     "summary": "Add new user in QuickBooks Online: here's how, step by step \u2014 without the usual headaches. Easier than you'd expect.",
     "title": "Add and manage users - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/manage-users/create-manage-roles-quickbooks-desktop-enterprise/L9z3XdBcQ_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T10:43:03Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-users/create-manage-roles-quickbooks-desktop-enterprise/L9z3XdBcQ_US_en_US",
+    "page": 2,
+    "summary": "Create and manage users and roles in QuickBooks Enterprise \u2014 and avoid common mistakes. Clear, step-by-step instructions.",
+    "title": "Create and manage users and roles in QuickBooks Desktop Enterprise"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/manage-users/manage-credly-account-proadvisor-academy/L1aquRcXu_US_en_US": {
     "baseline": false,
