@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:edicom-blog</id>
   <title>EDICOM blog (site:edicomgroup.com/blog/) via Serper</title>
-  <updated>2026-11-17T10:42:46Z</updated>
+  <updated>2026-11-18T20:43:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/edicom-blog.xml" />
+  <entry>
+    <id>https://edicomgroup.com/blog/malaysia-electronic-invoicing-implementation</id>
+    <title>Mandatory CTC Electronic Invoicing model in Malaysia</title>
+    <link href="https://edicomgroup.com/blog/malaysia-electronic-invoicing-implementation" />
+    <published>2026-11-18T20:43:04Z</published>
+    <updated>2026-11-18T20:43:04Z</updated>
+    <summary>Electronic invoicing is mandatory in Malaysia as part of the government's strategy to modernize the tax system and strengthen tax compliance</summary>
+  </entry>
   <entry>
     <id>https://edicomgroup.com/blog/delivery-notes-chile-sii</id>
     <title>Delivery Notes in Chile | SII Requirements</title>
