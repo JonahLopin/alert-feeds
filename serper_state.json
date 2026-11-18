@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 48222,
+  "credits_used": 48280,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-18T18:42:51Z",
+  "last_run": "2026-11-18T19:42:56Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 932
+  "runs": 933
  },
  "feeds": {
   "adp-help": {
@@ -10476,6 +10476,15 @@
     "summary": "The full Third Circuit heard argument on whether it has jurisdiction to review reinstatements of past removal orders. Photographer: Issouf Sanogo/AFP via Getty ...",
     "title": "Appeals Court Debates Its Ability to Hear Immigration ..."
    },
+   "news.bloomberglaw.com/business-and-practice/appeals-court-revives-anti-dei-challenge-to-illinois-nonprofit-law": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T19:42:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/appeals-court-revives-anti-dei-challenge-to-illinois-nonprofit-law",
+    "page": 3,
+    "summary": "A Chicago federal judge must consider the merits of the Trump administration's challenge to an Illinois demographic disclosure law covering nonprofits, ...",
+    "title": "Appeals Court Revives Anti-DEI Challenge to Illinois Nonprofit Law"
+   },
    "news.bloomberglaw.com/business-and-practice/appeals-court-vacates-manatee-harm-decision-after-rule-change": {
     "baseline": true,
     "date_hint": "18 hours ago",
@@ -11994,6 +12003,15 @@
     "page": 4,
     "summary": "Data broker People Data Labs Inc. will pay $6.36 million to settle a proposed class action alleging it posted the cell phone numbers of Colorado residents ...",
     "title": "Data Broker Settles Web Phone-Directory Lawsuit for $6.3 ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/data-center-firms-tread-carefully-through-post-election-backlash": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T19:42:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/data-center-firms-tread-carefully-through-post-election-backlash",
+    "page": 1,
+    "summary": "Analysts on earnings calls have been pressing executives on how voters' sweeping rejection of data centers could affect companies' long-term health.",
+    "title": "Data Center Firms Tread Carefully Through Post-Election Backlash"
    },
    "news.bloomberglaw.com/business-and-practice/data-center-operator-airtrunk-is-said-to-delay-1-5-billion-ipo": {
     "baseline": false,
@@ -15832,6 +15850,15 @@
     "summary": "New York's law prohibiting residents from buying body armor for self-defense is unconstitutional, a federal judge ruled, enjoining the state from enforcing ...",
     "title": "New York's First-in-Nation Body Armor Ban Nixed by ..."
    },
+   "news.bloomberglaw.com/business-and-practice/new-yorks-for-hire-car-reporting-rules-upheld-by-second-circuit": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-18T19:42:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/new-yorks-for-hire-car-reporting-rules-upheld-by-second-circuit",
+    "page": 4,
+    "summary": "New York City's rules requiring for-hire luxury car drivers to report every pickup and drop-off location don't violate the US Constitution, ...",
+    "title": "New York's For-Hire Car Reporting Rules Upheld by Second Circuit"
+   },
    "news.bloomberglaw.com/business-and-practice/newsom-commutes-sentences-of-all-california-death-row-inmates": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -16588,6 +16615,15 @@
     "summary": "The SEC is addressing questions from accounting firms on how strict US conflict of interest rules apply to emerging business relationships that stem from ...",
     "title": "Private Equity, AI Spark Fresh Ethics Rule Questions for SEC"
    },
+   "news.bloomberglaw.com/business-and-practice/private-equity-firms-seek-to-undo-trust-imposed-on-enhabit-rival": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T19:42:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/private-equity-firms-seek-to-undo-trust-imposed-on-enhabit-rival",
+    "page": 4,
+    "summary": "Private equity firms asked the Delaware Supreme Court on Wednesday to undo a constructive trust set up for hospice company Enhabit Inc. to resolve a dispute ...",
+    "title": "Private Equity Firms Seek to Undo Trust Imposed on Enhabit Rival"
+   },
    "news.bloomberglaw.com/business-and-practice/private-schools-sweat-out-new-irs-rules-on-race-based-programs": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -17226,6 +17262,15 @@
     "page": 1,
     "summary": "David Lender, Luna Barrington, and Jennifer Brooks Crozier joined Skadden as partners in its litigation practice in New York, the firm announced Monday.",
     "title": "Skadden Recruits Three Weil Litigation Lawyers in New York"
+   },
+   "news.bloomberglaw.com/business-and-practice/skincare-company-resurfaces-patent-lawsuit-axed-before-trial": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T19:42:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/skincare-company-resurfaces-patent-lawsuit-axed-before-trial",
+    "page": 1,
+    "summary": "Skincare technology company Edge Systems LLC convinced the Federal Circuit to revive its patent suit over a facial machine after a district judge dismissed ...",
+    "title": "Skincare Company Resurfaces Patent Lawsuit Axed Before Trial"
    },
    "news.bloomberglaw.com/business-and-practice/skydance-asks-staff-to-take-voluntary-buyouts-before-wider-cuts": {
     "baseline": false,
@@ -18412,6 +18457,15 @@
     "page": 1,
     "summary": "The county of Arlington, Va., has sued the Trump administration over its proposed \u201cTriumphal Arch.\u201d The 250-foot arch that would be located on the District ...",
     "title": "Trump's Proposed 'Triumphal Arch' Draws Suit by Virginia ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/trumps-texas-judge-pick-doesnt-appear-at-confirmation-hearing": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-18T19:42:56Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/trumps-texas-judge-pick-doesnt-appear-at-confirmation-hearing",
+    "page": 2,
+    "summary": "Under the Senate's blue-slip custom, home-state senators must sign off on district court nominees before they can proceed through the Senate vetting process.",
+    "title": "Trump's Texas Judge Pick Doesn't Appear at Confirmation Hearing"
    },
    "news.bloomberglaw.com/business-and-practice/trumps-white-house-lawyer-on-subpoena-compliance-it-depends": {
     "baseline": false,
@@ -35891,6 +35945,15 @@
     "page": 5,
     "summary": "Learn how to use the Chart of Accounts Cleanup tool to find and fix duplicate, misnamed, and unused accounts. QuickBooks works best when your transactions ...",
     "title": "Clean up your chart of accounts in QuickBooks Online - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/class-list/create-user-defined-classes/L3rVkxIuy_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-18T19:42:56Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/class-list/create-user-defined-classes/L3rVkxIuy_US_en_US",
+    "page": 1,
+    "summary": "Learn how to use dimensions to track income, expense, or profitability by business segment. You can do this in Intuit Enterprise Suite. Select Create Dimension ...",
+    "title": "Create and manage dimensions in Intuit Enterprise Suite - QuickBooks"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/client-relationships/create-send-proposals/L6nlEXigC_US_en_US": {
     "baseline": false,
@@ -57696,6 +57759,15 @@
     "summary": "No top-level domain is permanently free. Here's how to get a domain name for free, what each really costs, and which fits a store.",
     "title": "How To Get a Domain Name for Free (2026)"
    },
+   "shopify.com/blog/free-shopify-apps": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-18T19:42:56Z",
+    "link": "https://www.shopify.com/blog/free-shopify-apps",
+    "page": 4,
+    "summary": "Free Shopify apps are available in categories that include marketing and email, conversion optimization, customer experience, operations and fulfillment, ...",
+    "title": "The 17 Best Free Shopify Apps in 2027"
+   },
    "shopify.com/blog/generative-ai-for-business": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -65107,6 +65179,15 @@
     "page": 1,
     "summary": "\u521b\u5efa\u4e00\u4e2a\u7ec4\u7ec7,\u5728Stripe \u7ba1\u7406\u5e73\u53f0\u4e2d\u4e00\u7ad9\u5f0f\u96c6\u4e2d\u7ba1\u7406\u8d26\u6237\u3002\u521b\u5efa\u7ec4\u7ec7\u540e,\u60a8\u53ef\u4ee5\u5728\u56e2\u961f\u548c\u5b89\u5168\u8bbe\u7f6e\u4e2d\u9080\u8bf7\u66f4\u591a\u56e2\u961f\u6210\u5458\u8bbf\u95ee\u7ec4\u7ec7\u3002",
     "title": "\u6784\u5efa\u7ec4\u7ec7"
+   },
+   "docs.stripe.com/get-started/account/orgs/sharing/customers-payment-methods?locale=es-419": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-18T19:42:56Z",
+    "link": "https://docs.stripe.com/get-started/account/orgs/sharing/customers-payment-methods?locale=es-419",
+    "page": 2,
+    "summary": "Stripe permite a las organizaciones compartir clientes y m\u00e9todos de pago entre cuentas, con el fin de reutilizar la informaci\u00f3n de pago y minimizar la ...",
+    "title": "Comparte clientes y m\u00e9todos de pago entre cuentas de una organizaci\u00f3n"
    },
    "docs.stripe.com/get-started/account/orgs/sharing/customers-payment-methods?locale=zh-CN": {
     "baseline": false,
@@ -81080,6 +81161,15 @@
     "summary": "Wolters Kluwer today announces the appointment of Maria Montenegro as CEO of its Corporate Performance & ESG (CP & ESG) division, succeeding Karen Abramson who ...",
     "title": "Wolters Kluwer appoints Maria Montenegro as CEO of ..."
    },
+   "wolterskluwer.com/en/news/wolters-kluwer-appoints-tejas-shah-as-executive-vice-president-chief-strategy-and-innovation-officer": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-18T19:42:56Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-appoints-tejas-shah-as-executive-vice-president-chief-strategy-and-innovation-officer",
+    "page": 2,
+    "summary": "Wolters Kluwer has a long\u2011standing reputation for innovation, expertise, and delivering meaningful value to its customers when it matters most. I look forward ...",
+    "title": "Wolters Kluwer appoints Tejas Shah as Executive Vice President, Chief ..."
+   },
    "wolterskluwer.com/en/news/wolters-kluwer-brings-ai-powered-drafting-directly-into-the-libra-legal-workspace": {
     "baseline": true,
     "date_hint": "1 day ago",
@@ -81499,6 +81589,15 @@
     "page": 1,
     "summary": "Wolters Kluwer reaffirms its position as a trusted leader in innovation and digital transformation for the notarial profession in Italy.",
     "title": "Wolters Kluwer shows its ecosystem in Italy at this year's ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-successfully-prices-500-million-7-year-eurobond": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-18T19:42:56Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-successfully-prices-500-million-7-year-eurobond",
+    "page": 2,
+    "summary": "Wolters Kluwer (EURONEXT: WKL) is a global leader in information solutions, software, and services for professionals in healthcare; tax and accounting; ...",
+    "title": "Wolters Kluwer successfully prices \u20ac500 million 7-year Eurobond"
    },
    "wolterskluwer.com/en/news/wolters-kluwer-survey-nursing-schools-to-more-than-double-genai-use-in-2-3-years": {
     "baseline": false,

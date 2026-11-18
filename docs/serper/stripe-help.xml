@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-18T17:42:54Z</updated>
+  <updated>2026-11-18T19:42:56Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/get-started/account/orgs/sharing/customers-payment-methods?locale=es-419</id>
+    <title>Comparte clientes y métodos de pago entre cuentas de una organización</title>
+    <link href="https://docs.stripe.com/get-started/account/orgs/sharing/customers-payment-methods?locale=es-419" />
+    <published>2026-11-18T19:42:56Z</published>
+    <updated>2026-11-18T19:42:56Z</updated>
+    <summary>Stripe permite a las organizaciones compartir clientes y métodos de pago entre cuentas, con el fin de reutilizar la información de pago y minimizar la ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/payments/checkout/save-customer-payment-methods?locale=ja-JP</id>
     <title>顧客の決済手段を保存・取得する</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T18:43:21Z</published>
     <updated>2026-11-06T18:43:21Z</updated>
     <summary>Learn how to migrate from using the Charges, Tokens, and Cards or Sources APIs to using the Payment Methods and Payment Intents APIs.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEShwEBxCJF1_obp6QakDy59hkhx76xnS0vIpnt1wtejxmlGseC4kFSsdWgwEAxw9ucsMuWZC_9ipcavpqTu1aOeU0xA8zDx2JkI82BEvwcRFkyMQ9kqOqP3VH5sioVt6fMEugMc9Hq40IlnHOo84pk1gsYrxXNjn2Etpo9an-BA6MWJmAM0agpMFc</id>
-    <title>Zukünftige GoPay-Zahlungen einrichten</title>
-    <link href="https://www.google.com/goto?url=CAEShwEBxCJF1_obp6QakDy59hkhx76xnS0vIpnt1wtejxmlGseC4kFSsdWgwEAxw9ucsMuWZC_9ipcavpqTu1aOeU0xA8zDx2JkI82BEvwcRFkyMQ9kqOqP3VH5sioVt6fMEugMc9Hq40IlnHOo84pk1gsYrxXNjn2Etpo9an-BA6MWJmAM0agpMFc" />
-    <published>2026-11-06T18:43:21Z</published>
-    <updated>2026-11-06T18:43:21Z</updated>
-    <summary>Sie können eine GoPay-Verknüpfung einrichten, um zukünftige wiederkehrende Zahlungen einzuziehen, ohne dass eine erneute Kundenautorisierung erforderlich ist.</summary>
   </entry>
 </feed>

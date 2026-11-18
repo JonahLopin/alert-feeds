@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-18T17:42:54Z</updated>
+  <updated>2026-11-18T19:42:56Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/free-shopify-apps</id>
+    <title>The 17 Best Free Shopify Apps in 2027</title>
+    <link href="https://www.shopify.com/blog/free-shopify-apps" />
+    <published>2026-11-18T19:42:56Z</published>
+    <updated>2026-11-18T19:42:56Z</updated>
+    <summary>Free Shopify apps are available in categories that include marketing and email, conversion optimization, customer experience, operations and fulfillment, ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/sell-on-etsy</id>
     <title>How To Sell on Etsy in 6 Easy Steps (2027)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-12T22:42:31Z</published>
     <updated>2026-11-12T22:42:31Z</updated>
     <summary>Learn how to create gift cards for your business with Shopify. Set denominations, design branded cards, track sales, and manage costs.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/retail-technology</id>
-    <title>8 Retail Technology Trends for 2026 - Shopify</title>
-    <link href="https://www.shopify.com/blog/retail-technology" />
-    <published>2026-11-12T22:42:31Z</published>
-    <updated>2026-11-12T22:42:31Z</updated>
-    <summary>What retail technology trends are assisting retail brands to offer seamless customer experiences at scale? This guide shares the answer.</summary>
   </entry>
 </feed>
