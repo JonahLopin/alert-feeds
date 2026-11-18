@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-18T09:42:56Z</updated>
+  <updated>2026-11-18T15:42:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/factors-influencing-branding</id>
+    <title>8 Key Factors Influencing Branding: 2027 Guide</title>
+    <link href="https://www.shopify.com/blog/factors-influencing-branding" />
+    <published>2026-11-18T15:42:49Z</published>
+    <updated>2026-11-18T15:42:49Z</updated>
+    <summary>Learn about the internal and external factors that shape brand perception—including messaging, company values, market conditions, and reviews.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/subsidiary-company-definition</id>
     <title>Subsidiary Company Definition &amp; How They Work (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-12T20:42:49Z</published>
     <updated>2026-11-12T20:42:49Z</updated>
     <summary>ROAS, or return on ad spend, measures how well your ads perform. Learn how to measure and boost ROAS.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/featured-products</id>
-    <title>Featured Products: How To Add Them on Shopify (2027)</title>
-    <link href="https://www.shopify.com/blog/featured-products" />
-    <published>2026-11-12T20:42:49Z</published>
-    <updated>2026-11-12T20:42:49Z</updated>
-    <summary>Featured products are items you spotlight to guide shoppers to what you most want to sell. See where to place them and how to set them up in Shopify.</summary>
   </entry>
 </feed>
