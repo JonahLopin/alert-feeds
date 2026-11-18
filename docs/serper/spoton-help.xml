@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-16T20:07:21Z</updated>
+  <updated>2026-11-18T03:42:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2055471759/Show+Commands+Menu++%7C+SpotOn+Restaurant+FOH</id>
+    <title>Show Commands Menu | SpotOn Restaurant FOH</title>
+    <link href="https://help.spoton.com/space/SK/2055471759/Show+Commands+Menu++%7C+SpotOn+Restaurant+FOH" />
+    <published>2026-11-18T03:42:49Z</published>
+    <updated>2026-11-18T03:42:49Z</updated>
+    <summary>The Show Commands menu provides quick access to operational functions in SpotOn … users can perform tasks such as adjusting tips, managing cash drawers Action</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/4671406081</id>
     <title>How to Create Promo Codes for Online Orders in SpotOn</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T05:42:34Z</published>
     <updated>2026-10-31T05:42:34Z</updated>
     <summary>Adjust tips after payment for paid orders in receipt-based tipping workflows. You can adjust the tip within 10 minutes of the initial change. SpotOn Customer ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVCs8qRT3lVyfHOh50ECyj5aCCi6NLBTTOsiVSYWw0mZIPKYZ9cYec1u1_4bs4o1ubIJgk2_p4aMuXaW57FIONLyI4BAsyqVIHG7UntdT8cRm7JIkaslXlk4jFDnuu1rPXAA&amp;gsessionid=uoTIfNjCiuVmS6rQelOBc9kXAEbar2qVifzns45tEgozlSQCKL0A2A</id>
-    <title>Deposits Setup &amp; Management | SpotOn Reserve Web Portal</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVCs8qRT3lVyfHOh50ECyj5aCCi6NLBTTOsiVSYWw0mZIPKYZ9cYec1u1_4bs4o1ubIJgk2_p4aMuXaW57FIONLyI4BAsyqVIHG7UntdT8cRm7JIkaslXlk4jFDnuu1rPXAA&amp;gsessionid=uoTIfNjCiuVmS6rQelOBc9kXAEbar2qVifzns45tEgozlSQCKL0A2A" />
-    <published>2026-10-31T05:42:34Z</published>
-    <updated>2026-10-31T05:42:34Z</updated>
-    <summary>The Deposits feature in the SpotOn Reserve Web Portal allows restaurants to collect payment in advance for reservations. Deposits can help reduce no-shows,</summary>
   </entry>
 </feed>

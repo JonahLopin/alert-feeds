@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/) via Serper</title>
-  <updated>2026-11-18T01:43:19Z</updated>
+  <updated>2026-11-18T03:42:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/bloomberg-law-press.xml" />
+  <entry>
+    <id>https://news.bloomberglaw.com/business-and-practice/ny-high-court-weighs-implications-of-state-paid-attorneys-fees</id>
+    <title>NY High Court Weighs Implications of State-Paid Attorneys' Fees</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/ny-high-court-weighs-implications-of-state-paid-attorneys-fees" />
+    <published>2026-11-18T03:42:49Z</published>
+    <updated>2026-11-18T03:42:49Z</updated>
+    <summary>Attorney General Letitia James' (D) office is appealing a lower court ruling ordering the state to pay attorney fees to a woman who sued the Office of Temporary ...</summary>
+  </entry>
   <entry>
     <id>https://news.bloomberglaw.com/business-and-practice/white-house-pulls-fda-chief-nominee-before-hearing-axios-says</id>
     <title>White House Pulls FDA Chief Nominee Before Hearing, Axios Says</title>
@@ -795,13 +803,5 @@
     <published>2026-11-16T22:06:11Z</published>
     <updated>2026-11-16T22:06:11Z</updated>
     <summary>Chris Henry rejoined Latham &amp; Watkins as a partner in its intellectual property litigation practice in Boston, the firm announced Monday.</summary>
-  </entry>
-  <entry>
-    <id>https://news.bloomberglaw.com/business-and-practice/stablecoin-market-shrinks-most-since-terra-lunas-2022-crash</id>
-    <title>Stablecoin Market Shrinks Most Since Terra-Luna's 2022 ...</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/stablecoin-market-shrinks-most-since-terra-lunas-2022-crash" />
-    <published>2026-11-16T21:06:12Z</published>
-    <updated>2026-11-16T21:06:12Z</updated>
-    <summary>Over the past 30 days, the sector's market value has shrunk by around $12 billion while bellwether Bitcoin tumbled to a roughly four-month low, according to ...</summary>
   </entry>
 </feed>

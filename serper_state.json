@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 47335,
+  "credits_used": 47392,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-18T02:43:04Z",
+  "last_run": "2026-11-18T03:42:49Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 916
+  "runs": 917
  },
  "feeds": {
   "adp-help": {
@@ -15948,6 +15948,15 @@
     "page": 5,
     "summary": "New York budget officials are bracing for potential new AI regulations to slow the growth of tax collections that have surged in recent months due to record ...",
     "title": "NY Budget Head Warns of AI Rules' Impact on Tax Collections"
+   },
+   "news.bloomberglaw.com/business-and-practice/ny-high-court-weighs-implications-of-state-paid-attorneys-fees": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-18T03:42:49Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ny-high-court-weighs-implications-of-state-paid-attorneys-fees",
+    "page": 3,
+    "summary": "Attorney General Letitia James' (D) office is appealing a lower court ruling ordering the state to pay attorney fees to a woman who sued the Office of Temporary ...",
+    "title": "NY High Court Weighs Implications of State-Paid Attorneys' Fees"
    },
    "news.bloomberglaw.com/business-and-practice/nyc-congestion-pricing-plan-suit-rejected-by-judge-in-new-jersey": {
     "baseline": false,
@@ -62324,6 +62333,15 @@
     "page": 1,
     "summary": "Overview. This page provides a quick overview of the key contents and related child pages, making it easy to navigate to more detailed information.",
     "title": "Opening & Closing Procedures | SpotOn Restaurant FOH"
+   },
+   "help.spoton.com/space/SK/2055471759/Show+Commands+Menu++%7C+SpotOn+Restaurant+FOH": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-18T03:42:49Z",
+    "link": "https://help.spoton.com/space/SK/2055471759/Show+Commands+Menu++%7C+SpotOn+Restaurant+FOH",
+    "page": 1,
+    "summary": "The Show Commands menu provides quick access to operational functions in SpotOn \u2026 users can perform tasks such as adjusting tips, managing cash drawers Action",
+    "title": "Show Commands Menu | SpotOn Restaurant FOH"
    },
    "help.spoton.com/space/SK/2055536951": {
     "baseline": false,
