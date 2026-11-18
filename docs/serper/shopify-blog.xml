@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-18T19:42:56Z</updated>
+  <updated>2026-11-18T21:43:01Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/migrate-products-from-lightspeed-to-shopify</id>
+    <title>How to Migrate Products from Lightspeed to Shopify (2027)</title>
+    <link href="https://www.shopify.com/blog/migrate-products-from-lightspeed-to-shopify" />
+    <published>2026-11-18T21:43:01Z</published>
+    <updated>2026-11-18T21:43:01Z</updated>
+    <summary>Migrate product catalog data from Lightspeed to Shopify with steps for export, field mapping, import QA, and go-live planning.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/free-shopify-apps</id>
     <title>The 17 Best Free Shopify Apps in 2027</title>
@@ -795,13 +803,5 @@
     <published>2026-11-13T00:43:17Z</published>
     <updated>2026-11-13T00:43:17Z</updated>
     <summary>Anchor links send shoppers to a specific section of a page. Learn how to create one in HTML and add it to your Shopify store.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/sell-gift-cards</id>
-    <title>How To Create Gift Cards for Your Business (2026) - Shopify</title>
-    <link href="https://www.shopify.com/blog/sell-gift-cards" />
-    <published>2026-11-12T22:42:31Z</published>
-    <updated>2026-11-12T22:42:31Z</updated>
-    <summary>Learn how to create gift cards for your business with Shopify. Set denominations, design branded cards, track sales, and manage costs.</summary>
   </entry>
 </feed>

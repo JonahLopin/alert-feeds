@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 48336,
+  "credits_used": 48393,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-18T20:43:04Z",
+  "last_run": "2026-11-18T21:43:01Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 934
+  "runs": 935
  },
  "feeds": {
   "adp-help": {
@@ -14366,6 +14366,15 @@
     "summary": "Dettmar advises financial sponsors, including private equity funds and their portfolio companies, as well as debt funds, banks, and strategic investors,",
     "title": "Jones Day Nabs Willkie Leveraged Finance Lawyer in ..."
    },
+   "news.bloomberglaw.com/business-and-practice/jones-day-secures-itc-section-337-litigation-partner-from-latham": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-18T21:43:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/jones-day-secures-itc-section-337-litigation-partner-from-latham",
+    "page": 3,
+    "summary": "Jamie Underwood joined Jones Day as a partner in its intellectual property practice in Washington, the firm announced Wednesday.",
+    "title": "Jones Day Secures ITC Section 337 Litigation Partner From Latham"
+   },
    "news.bloomberglaw.com/business-and-practice/jpmorgans-new-cfo-lands-in-c-suite-after-rapid-rise-up-ranks": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -15930,6 +15939,24 @@
     "page": 2,
     "summary": "California Governor Gavin Newsom commuted the sentences of all 548 prisoners on the state's death row, calling the punishment \u201cmorally objectionable.\u201d",
     "title": "Newsom Commutes Sentences of All California Death Row ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/ninth-circuit-backs-chauffeur-service-workers-in-wage-suit": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-18T21:43:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ninth-circuit-backs-chauffeur-service-workers-in-wage-suit",
+    "page": 1,
+    "summary": "The Ninth Circuit vacated the dismissal of wage claims against an Arizona-based chauffeured transportation company, ruling that the workers' allegations ...",
+    "title": "Ninth Circuit Backs Chauffeur Service Workers in Wage Suit"
+   },
+   "news.bloomberglaw.com/business-and-practice/ninth-circuit-doubts-x-ai-appeal-of-california-ai-training-law": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T21:43:01Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/ninth-circuit-doubts-x-ai-appeal-of-california-ai-training-law",
+    "page": 5,
+    "summary": "Elon Musk's X.AI LLC received a cold reception from the Ninth Circuit Wednesday in its bid to temporarily block a landmark California law that requires AI ...",
+    "title": "Ninth Circuit Doubts X.AI Appeal of California AI Training Law"
    },
    "news.bloomberglaw.com/business-and-practice/ninth-circuit-pauses-order-restoring-tps-relief-for-venezuelans-34": {
     "baseline": false,
@@ -37343,6 +37370,15 @@
     "summary": "How to change to administrator made easy in QuickBooks Online \u2014 the right way, the first time. Get it done in minutes.",
     "title": "Change the primary admin role in QuickBooks Online and ... - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/primary-administrator/request-primary-admin-contact/L2P0XAUIT_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-18T21:43:01Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/primary-administrator/request-primary-admin-contact/L2P0XAUIT_US_en_US",
+    "page": 1,
+    "summary": "Learn how to request to be the primary admin or contact for a QuickBooks Desktop or QuickBooks Online account.",
+    "title": "Request to be the primary admin or contact in QuickBooks Desktop or ..."
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/print-file/print-w-2-forms/L76UaJUti_US_en_US": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -58514,6 +58550,15 @@
     "page": 3,
     "summary": "What are the marketing trends? The top marketing trends are influencer marketing, mobile optimization, blogging, visual storytelling, push notifications, social ...",
     "title": "Marketing Trends: 10 Key Examples (2026)"
+   },
+   "shopify.com/blog/migrate-products-from-lightspeed-to-shopify": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-18T21:43:01Z",
+    "link": "https://www.shopify.com/blog/migrate-products-from-lightspeed-to-shopify",
+    "page": 4,
+    "summary": "Migrate product catalog data from Lightspeed to Shopify with steps for export, field mapping, import QA, and go-live planning.",
+    "title": "How to Migrate Products from Lightspeed to Shopify (2027)"
    },
    "shopify.com/blog/mija-books-community-over-volume": {
     "baseline": false,
