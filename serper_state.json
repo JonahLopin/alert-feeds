@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 48924,
+  "credits_used": 48971,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-19T09:42:44Z",
+  "last_run": "2026-11-19T10:42:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 947
+  "runs": 948
  },
  "feeds": {
   "adp-help": {
@@ -19898,6 +19898,15 @@
     "summary": "The Women's Pro Baseball League ended its inaugural season last month with a championship title for the Los Angeles Queens, who prevailed over the San Francisco ...",
     "title": "Women's Baseball Infighting Sets Up Sour Finish to First ..."
    },
+   "news.bloomberglaw.com/business-and-practice/xi-hosts-groundbreaking-trilateral-meeting-with-trump-putin": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-19T10:42:53Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/xi-hosts-groundbreaking-trilateral-meeting-with-trump-putin",
+    "page": 1,
+    "summary": "President Xi Jinping hosted what he called a \u201cgroundbreaking\u201d trilateral meeting with his counterparts from the US and Russia, warning that major-power ...",
+    "title": "Xi Hosts 'Groundbreaking' Trilateral Meeting With Trump, Putin"
+   },
    "news.bloomberglaw.com/business-and-practice/xi-warns-against-rampant-protectionism-ahead-of-trump-talks": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -35803,6 +35812,15 @@
     "page": 4,
     "summary": "Assign roles to people on your QuickBooks Online plan roles to define what they can see and do with to your company data. Each email address on your plan is ...",
     "title": "User roles and access rights - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/add-edit-remove-authorized-user-account-camps/L9Th41wVj_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-19T10:42:53Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/account-management/add-edit-remove-authorized-user-account-camps/L9Th41wVj_US_en_US",
+    "page": 3,
+    "summary": "Everything you need on add, edit, and remove authorized users \u2014 without the usual headaches. Set it up with confidence.",
+    "title": "Add, edit, and remove authorized users - QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/connect-email-quickbooks-desktop/L00d2EZek_US_en_US": {
     "baseline": true,
