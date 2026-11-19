@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 48835,
+  "credits_used": 48881,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-19T07:42:45Z",
+  "last_run": "2026-11-19T08:42:47Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 945
+  "runs": 946
  },
  "feeds": {
   "adp-help": {
@@ -36978,6 +36978,15 @@
     "page": 5,
     "summary": "Intuit deactivates accounts when security checks detect unusual activity. This helps protect your business and financial data. You'll know your account is ...",
     "title": "Reactivate your Intuit Account - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/login-password/resolve-sign-issues/L6tVgogoa_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-19T08:42:47Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/login-password/resolve-sign-issues/L6tVgogoa_US_en_US",
+    "page": 1,
+    "summary": "Resolve sign-in issues in QuickBooks \u00b7 Use an incognito browser or private browser. \u00b7 Use a different web browser (Chrome, Firefox, Edge, Safari). \u00b7 Use a ...",
+    "title": "Resolve sign-in issues in QuickBooks - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/manage-appointments/schedule-appointments-quickbooks-online/L7pZhPDEP_US_en_US": {
     "baseline": false,
