@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-19T05:43:06Z</updated>
+  <updated>2026-11-19T06:45:38Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/billing/metronome-invoice-payment-reference</id>
+    <title>Metronome invoice and payment reference</title>
+    <link href="https://docs.stripe.com/billing/metronome-invoice-payment-reference" />
+    <published>2026-11-19T06:45:38Z</published>
+    <updated>2026-11-19T06:45:38Z</updated>
+    <summary>Review the invoice lifecycle, invoice attributes, payment collection, and post-invoice operations for Metronome invoices in Stripe.</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/billing/metronome-invoice-payment-reference?locale=ja-JP</id>
     <title>Metronome invoice and payment reference</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T19:42:36Z</published>
     <updated>2026-11-06T19:42:36Z</updated>
     <summary>Manage your stablecoin-backed card program by providing cardholder support, generating monthly statements, and handling complaints. Use the Stripe and Bridge ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESjwEBxCJF1yFVAsblzVg-tlYQA0XUSqszaiwZV6f60bJs9UAa1OBYSSv9M3EiN4l__V6F9kcZh5dKAyN5VDX0aM-gI3FiZZgt2LtOxAUA1zqCmflcNYzap0N_QaLWJX22ZcED6rC_6JnM5pH-ucZTrJa6NfNlj5Bcobx_xdoNI4wazageTxkG5m7BeKEYlb-67g</id>
-    <title>Recommandations d'assistance et modèles de FAQ</title>
-    <link href="https://www.google.com/goto?url=CAESjwEBxCJF1yFVAsblzVg-tlYQA0XUSqszaiwZV6f60bJs9UAa1OBYSSv9M3EiN4l__V6F9kcZh5dKAyN5VDX0aM-gI3FiZZgt2LtOxAUA1zqCmflcNYzap0N_QaLWJX22ZcED6rC_6JnM5pH-ucZTrJa6NfNlj5Bcobx_xdoNI4wazageTxkG5m7BeKEYlb-67g" />
-    <published>2026-11-06T18:43:21Z</published>
-    <updated>2026-11-06T18:43:21Z</updated>
-    <summary>Modèles de FAQ destinés aux plateformes utilisant Stripe Express pour la confirmation préalable à la déclaration et l'envoi électronique des formulaires fiscaux ...</summary>
   </entry>
 </feed>

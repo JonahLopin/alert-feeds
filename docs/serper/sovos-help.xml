@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-19T04:42:53Z</updated>
+  <updated>2026-11-19T06:45:38Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/manage-forms/tax-year-2026-form-status</id>
+    <title>Tax year 2026 form status | Product Documentation Documentation</title>
+    <link href="https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/manage-forms/tax-year-2026-form-status" />
+    <published>2026-11-19T06:45:38Z</published>
+    <updated>2026-11-19T06:45:38Z</updated>
+    <summary>Check the compliance status and availability of 2026 tax forms for data entry, printing, and transmitting.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/add-data/import-data/import-templates</id>
     <title>Import templates | Product Documentation ... - Sovos Docs</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T06:36:39Z</published>
     <updated>2026-10-30T06:36:39Z</updated>
     <summary>Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESxAEB6zswFWA3KkuMxy-h4lzPTs8Jz4x5B5G35r-wSmtBO4DZ62cIjAQ4OY1c3cHU_dC_2i79MXbKvGUCZiRNUG2UsY9rel1TQrGG0kBzvJeTOqL-bTdXdL00IB5Kcu1VW6fJ05cGGlGe_yGFGIPAqgDHP3emwFNCJk33M4E6-xm1YGr-XaOQ_INjuc01ht0AX_bAZo5McYx4GSiYvcS51t0PuBgBTbjyvRRy2bhlFZADDCuQ2h8D3q4Oe-Uu0sLgGBGtirap</id>
-    <title>Check the status of IRS transmittals - Sovos Docs</title>
-    <link href="https://www.google.com/goto?url=CAESxAEB6zswFWA3KkuMxy-h4lzPTs8Jz4x5B5G35r-wSmtBO4DZ62cIjAQ4OY1c3cHU_dC_2i79MXbKvGUCZiRNUG2UsY9rel1TQrGG0kBzvJeTOqL-bTdXdL00IB5Kcu1VW6fJ05cGGlGe_yGFGIPAqgDHP3emwFNCJk33M4E6-xm1YGr-XaOQ_INjuc01ht0AX_bAZo5McYx4GSiYvcS51t0PuBgBTbjyvRRy2bhlFZADDCuQ2h8D3q4Oe-Uu0sLgGBGtirap" />
-    <published>2026-10-30T05:25:18Z</published>
-    <updated>2026-10-30T05:25:18Z</updated>
-    <summary>Usually caused by file formatting issues, such as special characters in records. Review the error details from step 3, fix the records, then regenerate and ...</summary>
   </entry>
 </feed>

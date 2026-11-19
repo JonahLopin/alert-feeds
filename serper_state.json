@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 48751,
+  "credits_used": 48794,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-19T05:43:06Z",
+  "last_run": "2026-11-19T06:45:38Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 943
+  "runs": 944
  },
  "feeds": {
   "adp-help": {
@@ -38334,6 +38334,15 @@
     "summary": "As a general rule, you should balance a cash register at the end of every shift and at least once a day. Set a standard opening float. Sort it, stack it, count ...",
     "title": "How to Balance a Cash Register Drawer Like a Pro"
    },
+   "lightspeedhq.com/blog/cat/restaurant": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-19T06:45:38Z",
+    "link": "https://www.lightspeedhq.com/blog/cat/restaurant/",
+    "page": 1,
+    "summary": "During a packed service, small delays multiply and can quickly impact the guest experience. Between servers hunting down free payment...",
+    "title": "Restaurant - Lightspeed"
+   },
    "lightspeedhq.com/blog/how-to-buy-wholesale": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -38378,6 +38387,15 @@
     "page": 1,
     "summary": "Running an online clothing boutique is both a high-potential standalone business and a powerful digital extension for an existing storefront.",
     "title": "How to Get Inventory for an Online Boutique: Complete Guide"
+   },
+   "lightspeedhq.com/blog/open-a-cafe-a-business-plan": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-19T06:45:38Z",
+    "link": "https://www.lightspeedhq.com/blog/open-a-cafe-a-business-plan/",
+    "page": 1,
+    "summary": "Learn how to write a cafe business plan with this complete guide covering your concept, market research, costs, operations, marketing and financial projections.",
+    "title": "How to Write a Business Plan for Opening a Cafe - Lightspeed"
    },
    "lightspeedhq.com/blog/pga-merchandise-show": {
     "baseline": false,
@@ -60434,6 +60452,15 @@
     "summary": "Learn how to request corrected information from recipients with mismatched names and TINs.",
     "title": "Print W-9 solicitations | Product Documentation Documentation"
    },
+   "docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/manage-forms/tax-year-2026-form-status": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-19T06:45:38Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/manage-forms/tax-year-2026-form-status",
+    "page": 1,
+    "summary": "Check the compliance status and availability of 2026 tax forms for data entry, printing, and transmitting.",
+    "title": "Tax year 2026 form status | Product Documentation Documentation"
+   },
    "docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/manage-your-account/manage-login": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -65229,6 +65256,15 @@
     "page": 1,
     "summary": "Use an AI assistant or the Stripe CLI to prepare a Stripe Atlas application for a Delaware C corporation or limited liability company (LLC).",
     "title": "Prepare an Atlas application with an agent or CLI"
+   },
+   "docs.stripe.com/billing/metronome-invoice-payment-reference": {
+    "baseline": false,
+    "date_hint": "7 hours ago",
+    "first_seen": "2026-11-19T06:45:38Z",
+    "link": "https://docs.stripe.com/billing/metronome-invoice-payment-reference",
+    "page": 1,
+    "summary": "Review the invoice lifecycle, invoice attributes, payment collection, and post-invoice operations for Metronome invoices in Stripe.",
+    "title": "Metronome invoice and payment reference"
    },
    "docs.stripe.com/billing/metronome-invoice-payment-reference?locale=ja-JP": {
     "baseline": false,
