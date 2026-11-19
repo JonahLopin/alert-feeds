@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 49202,
+  "credits_used": 49246,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-19T15:42:50Z",
+  "last_run": "2026-11-19T16:42:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 953
+  "runs": 954
  },
  "feeds": {
   "adp-help": {
@@ -58730,6 +58730,15 @@
     "page": 4,
     "summary": "Learn how to price a product with step-by-step formulas, smart pricing strategies, mistakes, and tips to set profitable prices without overthinking it.",
     "title": "How to Price a Product in 2026 (+ Pricing Calculator)"
+   },
+   "shopify.com/blog/how-to-sell-on-instagram": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-19T16:42:53Z",
+    "link": "https://www.shopify.com/blog/how-to-sell-on-instagram",
+    "page": 1,
+    "summary": "Learn how to sell on Instagram. Set up a shop, use product tags, and implement established strategies to boost your social commerce success.",
+    "title": "How To Sell on Instagram: 8 Strategies for 2027 - Shopify"
    },
    "shopify.com/blog/how-to-sell-on-twitter": {
     "baseline": false,

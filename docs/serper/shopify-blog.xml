@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-19T12:42:35Z</updated>
+  <updated>2026-11-19T16:42:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/how-to-sell-on-instagram</id>
+    <title>How To Sell on Instagram: 8 Strategies for 2027 - Shopify</title>
+    <link href="https://www.shopify.com/blog/how-to-sell-on-instagram" />
+    <published>2026-11-19T16:42:53Z</published>
+    <updated>2026-11-19T16:42:53Z</updated>
+    <summary>Learn how to sell on Instagram. Set up a shop, use product tags, and implement established strategies to boost your social commerce success.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/franchise-email-marketing</id>
     <title>Franchise Email Marketing: How It Works + Practical Tips (2026)</title>
@@ -795,13 +803,5 @@
     <published>2026-11-13T08:42:37Z</published>
     <updated>2026-11-13T08:42:37Z</updated>
     <summary>Find the best small business wholesale suppliers. Compare top wholesale marketplaces, evaluate pricing, and choose the right partner.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/small-business-tips</id>
-    <title>22 Small Business Tips To Grow Your Business (2027)</title>
-    <link href="https://www.shopify.com/blog/small-business-tips" />
-    <published>2026-11-13T08:42:37Z</published>
-    <updated>2026-11-13T08:42:37Z</updated>
-    <summary>You already run the business—now grow it. 22 small business tips on marketing, money, customers, and time from founders who sell.</summary>
   </entry>
 </feed>
