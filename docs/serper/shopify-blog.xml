@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-18T21:43:01Z</updated>
+  <updated>2026-11-19T00:44:09Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/sell-on-facebook</id>
+    <title>How To Sell on Facebook: A Beginner’s Guide for 2027 - Shopify</title>
+    <link href="https://www.shopify.com/blog/sell-on-facebook" />
+    <published>2026-11-19T00:44:09Z</published>
+    <updated>2026-11-19T00:44:09Z</updated>
+    <summary>Learn how to sell products on Facebook Marketplace, Shops, and groups, and get tips on how to promote more sales.</summary>
+  </entry>
+  <entry>
+    <id>https://www.shopify.com/blog/linkedin-company-page-examples</id>
+    <title>LinkedIn Company Page Examples: How Brands Use LinkedIn</title>
+    <link href="https://www.shopify.com/blog/linkedin-company-page-examples" />
+    <published>2026-11-19T00:44:09Z</published>
+    <updated>2026-11-19T00:44:09Z</updated>
+    <summary>LinkedIn was designed to help professionals share digital résumés and form new connections. The social media network originally focused on individual use, but now LinkedIn does more than support networking and job hunting. According to HubSpot’s 2026 State of Marketing report, 42% of companies use LinkedIn for marketing purposes. A successful company LinkedIn page can help businesses ...</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/migrate-products-from-lightspeed-to-shopify</id>
     <title>How to Migrate Products from Lightspeed to Shopify (2027)</title>
@@ -787,21 +803,5 @@
     <published>2026-11-13T08:42:37Z</published>
     <updated>2026-11-13T08:42:37Z</updated>
     <summary>AI website builders use artificial intelligence to generate a site's layout, copy, and design elements from a short prompt or questionnaire, reducing manual ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/ada-compliant-website</id>
-    <title>ADA Compliant Website: 10-Point Checklist (2027)</title>
-    <link href="https://www.shopify.com/blog/ada-compliant-website" />
-    <published>2026-11-13T08:42:37Z</published>
-    <updated>2026-11-13T08:42:37Z</updated>
-    <summary>Find out whether ADA rules apply to your store, what an ADA compliant website requires, and how to audit your site with this 10-point checklist.</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/anchor-link</id>
-    <title>Anchor Link: How To Create One in HTML (2027)</title>
-    <link href="https://www.shopify.com/blog/anchor-link" />
-    <published>2026-11-13T00:43:17Z</published>
-    <updated>2026-11-13T00:43:17Z</updated>
-    <summary>Anchor links send shoppers to a specific section of a page. Learn how to create one in HTML and add it to your Shopify store.</summary>
   </entry>
 </feed>

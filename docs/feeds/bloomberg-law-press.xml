@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-18T23:44:14Z</updated>
+  <updated>2026-11-19T00:45:32Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12360037886797076874</id>
+    <title>Meta Pauses Zuckerberg Share Plan During Investor Legal Fight - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/meta-pauses-zuckerberg-share-plan-during-investor-legal-fight" />
+    <published>2026-11-19T00:45:32Z</published>
+    <updated>2026-11-19T00:45:32Z</updated>
+    <summary>Meta Platforms Inc. said it will hold off on distributing a new class of shares while a legal fight plays out with investors who oppose the tech ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:7238763647245588207</id>
     <title>Mark Walter Probe Spotlights Gaps in Regulatory Patchwork (1) - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-11-17T03:08:17Z</published>
     <updated>2026-11-17T03:08:17Z</updated>
     <summary>Justice Samuel Alito says the Supreme Court may have to continue enforcing its blockbuster decision ending race-based admissions on college ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:18349938244024569365</id>
-    <title>Anthropic Faces a Longer Wait Than SpaceX to Join Stock Indexes - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/anthropic-faces-a-longer-wait-than-spacex-to-join-stock-indexes" />
-    <published>2026-11-17T03:08:17Z</published>
-    <updated>2026-11-17T03:08:17Z</updated>
-    <summary>Anthropic's planned initial public offering could generate billions of dollars in demand from index-tracking funds, though the artificial ...</summary>
   </entry>
 </feed>
