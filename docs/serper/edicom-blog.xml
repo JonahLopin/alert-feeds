@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:edicom-blog</id>
   <title>EDICOM blog (site:edicomgroup.com/blog/) via Serper</title>
-  <updated>2026-11-18T23:42:43Z</updated>
+  <updated>2026-11-19T03:42:48Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/edicom-blog.xml" />
+  <entry>
+    <id>https://edicomgroup.com/blog/electronic-invoicing-brazil</id>
+    <title>e-Invoicing in Brazil: NF-e, NFS-e, NFCom, CT-e, and BP-e| EDICOM</title>
+    <link href="https://edicomgroup.com/blog/electronic-invoicing-brazil" />
+    <published>2026-11-19T03:42:48Z</published>
+    <updated>2026-11-19T03:42:48Z</updated>
+    <summary>Brazil’s e-Invoicing system is a well-established system that has streamlined tax management and commercial transactions throughout the country. Its use is mandatory and includes various types of electronic tax documents depending on the type of transaction. Among the main ones are the Electronic Invoice (NF-e) for the sale of goods, the Electronic Service Invoice (NFS-e) used for service ...</summary>
+  </entry>
+  <entry>
+    <id>https://edicomgroup.com/blog/brazil-tax-reform</id>
+    <title>Tax Reform in Brazil: Impact on Electronic Invoicing | EDICOM</title>
+    <link href="https://edicomgroup.com/blog/brazil-tax-reform" />
+    <published>2026-11-19T03:42:48Z</published>
+    <updated>2026-11-19T03:42:48Z</updated>
+    <summary>Prepare for Brazil’s upcoming tax changes and adapt your invoicing and compliance processes to the new dual VAT model based on CBS and IBS.</summary>
+  </entry>
   <entry>
     <id>https://edicomgroup.com/blog/online-electronic-invoice-system-works-fel-de-guatemala</id>
     <title>Electronic Invoicing in Guatemala: FEL System, Requirements ...</title>
