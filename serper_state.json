@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 48659,
+  "credits_used": 48704,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-19T03:42:48Z",
+  "last_run": "2026-11-19T04:42:53Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 941
+  "runs": 942
  },
  "feeds": {
   "adp-help": {
@@ -21531,6 +21531,15 @@
    }
   },
   "csc-blog": {
+   "blog.cscglobal.com/delaware-franchise-tax-filing-preparation": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-19T04:42:53Z",
+    "link": "https://blog.cscglobal.com/delaware-franchise-tax-filing-preparation/",
+    "page": 1,
+    "summary": "Delaware franchise tax filing is an annual compliance obligation for most entities registered in the state. But preparing for filing season involves more Preparing for Delaware franchise tax filing season? Learn why early planning matters and download CSC's guide to key filing considerations.",
+    "title": "Preparing for Delaware Franchise Tax Filing Season: What ..."
+   },
    "blog.cscglobal.com/how-to-change-your-registered-agent-with-confidence": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -21539,6 +21548,15 @@
     "page": 1,
     "summary": "Changing your registered agent involves selecting a new provider, confirming that the new agent will accept the appointment, identifying and filing the ...",
     "title": "How to Change Your Registered Agent with Confidence | CSC"
+   },
+   "blog.cscglobal.com/spvs-hidden-operating-system-capital-markets": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-19T04:42:53Z",
+    "link": "https://blog.cscglobal.com/spvs-hidden-operating-system-capital-markets/",
+    "page": 1,
+    "summary": "Explore how special purpose vehicles (SPVs) support capital markets transactions, balancing structural flexibility, governance and ongoing compliance.",
+    "title": "The Hidden Operating System of Capital Markets | CSC"
    },
    "google.com/goto?url=CAESVgHrOzAVCuCs_5n7DU-X5JCBW6NIwwqfbUQy2xGtjHE2OyMZoReHGXdeyhfJW2lnT3Q8ZDFBu2eSrMj3bNLI2k_SiivVFByDvxwufXtXe1NGSagmdBR7&gsessionid=XqFhbDTuV2erOTn2s6SpX35Mr_lFy_v5SNQYUFa_zxxaOurNyfgI5A": {
     "baseline": false,
@@ -35848,6 +35866,15 @@
     "page": 2,
     "summary": "Here's how to request a rate review of QuickBooks Payments discount fees \u2014 and save hours on bookkeeping. A quick, simple walkthrough.",
     "title": "Request a rate review of QuickBooks Payments discount fees"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/resolve-issues-account-login/L2sXUc0A6_US_en_US": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-19T04:42:53Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/account-management/resolve-issues-account-login/L2sXUc0A6_US_en_US",
+    "page": 1,
+    "summary": "Hit a snag? Here's how to fix issues with My Account login \u2014 without the guesswork. Clear the blocker for good.",
+    "title": "Resolve My Account sign-in issues for \u200bQuickBooks Desktop Payroll\u200b"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/transfer-primary-admin-role-quickbooks-desktop/L7N2JHKLw_US_en_US": {
     "baseline": false,
@@ -59944,6 +59971,15 @@
     "summary": "Ecommerce, short for \u201celectronic commerce,\u201d is the buying and selling of goods and services over the internet. It involves a transaction between two parties, ...",
     "title": "What is Ecommerce? Types and How It Works (2026)"
    },
+   "shopify.com/blog/what-is-faire-wholesale": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-19T04:42:53Z",
+    "link": "https://www.shopify.com/blog/what-is-faire-wholesale",
+    "page": 1,
+    "summary": "Learn how to sell your products on the Faire Wholesale marketplace and reach the right wholesale buyers.",
+    "title": "What Is Faire Wholesale? Best Practices for Sellers (2027)"
+   },
    "shopify.com/blog/what-is-giclee-print": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -60370,6 +60406,15 @@
     "page": 1,
     "summary": "Delete users Permanently remove a user's access to your account. Note: Only Admin users can delete users. Caution: This action permanently deletes the user and ...",
     "title": "Delete users | Product Documentation Documentation - Sovos Docs"
+   },
+   "docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/add-data/import-data/import-templates": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-19T04:42:53Z",
+    "link": "https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/add-data/import-data/import-templates",
+    "page": 1,
+    "summary": "Learn how to use the import templates to add payer, recipient, and form data. Each import template has three tabs: Template Enter your data in the appropriate ...",
+    "title": "Import templates | Product Documentation ... - Sovos Docs"
    },
    "docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/identity-management-forms/print-w-9-solicitations": {
     "baseline": false,

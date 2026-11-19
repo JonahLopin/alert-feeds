@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-19T00:44:09Z</updated>
+  <updated>2026-11-19T04:42:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/what-is-faire-wholesale</id>
+    <title>What Is Faire Wholesale? Best Practices for Sellers (2027)</title>
+    <link href="https://www.shopify.com/blog/what-is-faire-wholesale" />
+    <published>2026-11-19T04:42:53Z</published>
+    <updated>2026-11-19T04:42:53Z</updated>
+    <summary>Learn how to sell your products on the Faire Wholesale marketplace and reach the right wholesale buyers.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/sell-on-facebook</id>
     <title>How To Sell on Facebook: A Beginner’s Guide for 2027 - Shopify</title>
@@ -795,13 +803,5 @@
     <published>2026-11-13T08:42:37Z</published>
     <updated>2026-11-13T08:42:37Z</updated>
     <summary>Customer service statistics suggest that every interaction between consumers and CS representatives or chatbots shapes brand perception, for better or ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/ai-website-builder</id>
-    <title>12 Best AI Website Builders to Design Your Site in 2026</title>
-    <link href="https://www.shopify.com/blog/ai-website-builder" />
-    <published>2026-11-13T08:42:37Z</published>
-    <updated>2026-11-13T08:42:37Z</updated>
-    <summary>AI website builders use artificial intelligence to generate a site's layout, copy, and design elements from a short prompt or questionnaire, reducing manual ...</summary>
   </entry>
 </feed>

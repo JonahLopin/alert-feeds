@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-18T00:44:18Z</updated>
+  <updated>2026-11-19T04:42:53Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/add-data/import-data/import-templates</id>
+    <title>Import templates | Product Documentation ... - Sovos Docs</title>
+    <link href="https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/add-data/import-data/import-templates" />
+    <published>2026-11-19T04:42:53Z</published>
+    <updated>2026-11-19T04:42:53Z</updated>
+    <summary>Learn how to use the import templates to add payer, recipient, and form data. Each import template has three tabs: Template Enter your data in the appropriate ...</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/e-invoicing/indirect-tax-api/how-indirect-tax-api-works/http-status-codes</id>
     <title>HTTP status codes | Product Documentation Documentation</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T05:25:18Z</published>
     <updated>2026-10-30T05:25:18Z</updated>
     <summary>Usually caused by file formatting issues, such as special characters in records. Review the error details from step 3, fix the records, then regenerate and ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESwwEB6zswFVWnvnnfN3rRMUvOj5qYf4kZAgUZp1PCHu8k-yqND9X8KvMLH5-_xliqBWBKvtO_UjnOgQGUHWfMgv84Y1dnBS5NU2WtxL4fwQ3QlfYfPa9QOYl4p9txnELWD7gEjQSZT1HyG0BYWVNzOyOVIie4q2aLHYi2tPx6tWuudQeoVzv_AcQX9IzqCvPICRXS1vS0ZqKa1ANPE8Uq29rkA957gd8VEiZ-3TVBD6s7rNedysnwk1cnT-uh3XjsM5T8SSo</id>
-    <title>Fix XML schema validation errors - Sovos Docs</title>
-    <link href="https://www.google.com/goto?url=CAESwwEB6zswFVWnvnnfN3rRMUvOj5qYf4kZAgUZp1PCHu8k-yqND9X8KvMLH5-_xliqBWBKvtO_UjnOgQGUHWfMgv84Y1dnBS5NU2WtxL4fwQ3QlfYfPa9QOYl4p9txnELWD7gEjQSZT1HyG0BYWVNzOyOVIie4q2aLHYi2tPx6tWuudQeoVzv_AcQX9IzqCvPICRXS1vS0ZqKa1ANPE8Uq29rkA957gd8VEiZ-3TVBD6s7rNedysnwk1cnT-uh3XjsM5T8SSo" />
-    <published>2026-10-30T05:25:18Z</published>
-    <updated>2026-10-30T05:25:18Z</updated>
-    <summary>Open the XML file in a text editor, such as Notepad, Notepad++, or VS Code, and use the line number from the error messages to find the records with errors.</summary>
   </entry>
 </feed>
