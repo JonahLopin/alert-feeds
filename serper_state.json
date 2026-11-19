@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 48571,
+  "credits_used": 48615,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-19T01:43:53Z",
+  "last_run": "2026-11-19T02:42:52Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 939
+  "runs": 940
  },
  "feeds": {
   "adp-help": {
@@ -37006,6 +37006,15 @@
     "summary": "A lead is a person or business you hope to sell to. An opportunity is a specific deal you're working on. One lead can have more than one opportunity open at ...",
     "title": "Manually add leads in the Customer Hub - QuickBooks - Intuit"
    },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/manage-passwords/reset-password-quickbooks-desktop/L063UZc12_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-19T02:42:52Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-passwords/reset-password-quickbooks-desktop/L063UZc12_US_en_US",
+    "page": 1,
+    "summary": "Reset your password in QuickBooks Desktop: step-by-step help \u2014 so your books stay accurate. Easier than you'd expect.",
+    "title": "Reset your password for QuickBooks Desktop - Intuit"
+   },
    "quickbooks.intuit.com/learn-support/en-us/help-article/manage-projects/set-create-projects-quickbooks-online/L9GAdLMyT_US_en_US": {
     "baseline": false,
     "date_hint": "7 hours ago",
@@ -38333,6 +38342,15 @@
     "page": 1,
     "summary": "Who doesn't love the feeling of a good pop-up shop purchase? There's something exciting about nabbing a rare product from a pop-up shop.",
     "title": "What Are Pop-Up Shops? Meaning, Types, Benefits, Tips & ..."
+   },
+   "lightspeedhq.com/blog/reduce-payment-bottlenecks": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-19T02:42:52Z",
+    "link": "https://www.lightspeedhq.com/blog/reduce-payment-bottlenecks/",
+    "page": 1,
+    "summary": "Learn how to spot checkout delays, prepare your team and devices, and make restaurant payments easier during busy service periods.",
+    "title": "How to Reduce Restaurant Payment Bottlenecks - Lightspeed"
    },
    "lightspeedhq.com/blog/retail-store-daily-checklist": {
     "baseline": false,
