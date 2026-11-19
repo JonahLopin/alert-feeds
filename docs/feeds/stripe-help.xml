@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-19T17:06:05Z</updated>
+  <updated>2026-11-19T21:06:00Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:13567293934307759911</id>
+    <title>Download financial account statements - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/treasury/statements" />
+    <published>2026-11-19T21:06:00Z</published>
+    <updated>2026-11-19T21:06:00Z</updated>
+    <summary>Learn how to download monthly PDF statements for your financial accounts in the Stripe Dashboard, what each statement includes, and how corrected ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:1166781619552248045</id>
     <title>Metronome invoice and payment reference - Stripe Documentation</title>
@@ -795,13 +803,5 @@
     <published>2026-10-27T22:42:43Z</published>
     <updated>2026-10-27T22:42:43Z</updated>
     <summary>If you use Stripe Issuing, you can create a card PaymentMethod from an Issuing card in the same Stripe account without retrieving the card number or ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:2144877956246236942</id>
-    <title>Search data resources - Stripe Documentation</title>
-    <link href="https://docs.stripe.com/data/api/search" />
-    <published>2026-10-27T22:42:43Z</published>
-    <updated>2026-10-27T22:42:43Z</updated>
-    <summary>The Data Search API returns ranked resource metadata, not query results. It doesn't execute SQL or reports. Request to join the preview for the Data ...</summary>
   </entry>
 </feed>
