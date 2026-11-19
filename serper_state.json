@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 48881,
+  "credits_used": 48924,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-19T08:42:47Z",
+  "last_run": "2026-11-19T09:42:44Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 946
+  "runs": 947
  },
  "feeds": {
   "adp-help": {
@@ -59117,6 +59117,15 @@
     "summary": "Performance marketing is a type of digital marketing focused on generating measurable actions, like someone clicking through to a product page or completing a ...",
     "title": "Performance Marketing: A Beginner's Guide (2026)"
    },
+   "shopify.com/blog/personal-portfolio-templates": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-19T09:42:44Z",
+    "link": "https://www.shopify.com/blog/personal-portfolio-templates",
+    "page": 1,
+    "summary": "Learn what to include in a personal portfolio, and use this downloadable template to get you started.",
+    "title": "How To Create a Personal Portfolio: Template + Tips"
+   },
    "shopify.com/blog/pinterest-ads": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -81451,6 +81460,15 @@
     "summary": "Wolters Kluwer, a global leader in information solutions, software and services, announces today that it has completed the reduction in share capital approved ...",
     "title": "Share Buyback Transaction Details August 27 - September 2, 2026"
    },
+   "wolterskluwer.com/en/news/share-buyback-transaction-details-november-12-18-2026": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-11-19T09:42:44Z",
+    "link": "https://www.wolterskluwer.com/en/news/share-buyback-transaction-details-november-12-18-2026",
+    "page": 1,
+    "summary": "Wolters Kluwer today reports that it has repurchased 552 of its own ordinary shares in the period from November 12, 2026, up to and including November 18, 2026, for \u20ac0.05 million and at an average share price of \u20ac87.76.",
+    "title": "Share buyback transaction details November 12-18, 2026"
+   },
    "wolterskluwer.com/en/news/share-buyback-transaction-details-october-29-november-4-2026": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -81922,6 +81940,15 @@
     "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-launches-ai-enhanced-uptodate-enterprise-edition-in-apac",
     "summary": "Revolutionizing Clinical Decision Support for healthcare systems with AI for search, usage analytics, and more.",
     "title": "Wolters Kluwer launches AI-enhanced UpToDate ..."
+   },
+   "wolterskluwer.com/en/news/wolters-kluwer-launches-blue-chip-iq-bringing-ai-to-decades-of-trusted-economic-intelligence": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-19T09:42:44Z",
+    "link": "https://www.wolterskluwer.com/en/news/wolters-kluwer-launches-blue-chip-iq-bringing-ai-to-decades-of-trusted-economic-intelligence",
+    "page": 1,
+    "summary": "New AI-powered experience enables decision-makers to explore historical forecasts and uncover economic insights faster Wolters Kluwer\u2019s Legal & Regulatory U.S. business today announced the launch of Blue Chip IQ, a new AI-powered economic intelligence experience. Economists and decision-makers can leverage the power of AI to engage directly with the authoritative consensus forecasts ...",
+    "title": "Wolters Kluwer launches Blue Chip IQ bringing AI to decades ..."
    },
    "wolterskluwer.com/en/news/wolters-kluwer-launches-capego-practice-management": {
     "baseline": false,
