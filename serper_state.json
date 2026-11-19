@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 49292,
+  "credits_used": 49339,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-19T17:42:40Z",
+  "last_run": "2026-11-19T18:43:10Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 955
+  "runs": 956
  },
  "feeds": {
   "adp-help": {
@@ -18286,6 +18286,15 @@
     "page": 2,
     "summary": "Under the law, the ban \u2014 which prohibits investors with more than 350 houses from purchasing additional single-family homes \u2013 goes into effect Jan. 7, a short ...",
     "title": "Treasury Unveils Rule to Ban Large Investors From ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/tribes-ask-court-to-void-trumps-utah-monument-dismantling": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-19T18:43:10Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/tribes-ask-court-to-void-trumps-utah-monument-dismantling",
+    "page": 1,
+    "summary": "President Donald Trump's sweeping reductions of Utah's Bears Ears and Grand Staircase-Escalante national monuments are unconstitutional and violate the ...",
+    "title": "Tribes Ask Court to Void Trump's Utah Monument Dismantling"
    },
    "news.bloomberglaw.com/business-and-practice/troutman-pepper-locke-employs-three-insurance-litigation-lawyers": {
     "baseline": false,
@@ -37810,6 +37819,15 @@
     "page": 4,
     "summary": "Intuit Accountant Suite (IAS) brings your firm, clients, and team together in one AI-powered platform designed to improve efficiency, streamline workflows, and ...",
     "title": "Learn about Intuit Accountant Suite - QuickBooks"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/product-setup/record-print-checks/L4E156UQ5_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-19T18:43:10Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/product-setup/record-print-checks/L4E156UQ5_US_en_US",
+    "page": 1,
+    "summary": "Get personalized help recording and printing checks with QuickBooks Live. We'll show you how to record a check and how to print it out right from QuickBooks. ...",
+    "title": "Record and print cheques in QuickBooks Online - Intuit"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/product-setup/use-reports-center-categories-insights-information/L2KcVzxB7_US_en_US": {
     "baseline": false,
@@ -59872,6 +59890,15 @@
     "summary": "Shopify CLI is a tool you install on your own machine and run from a terminal. It's the officially supported way to build Shopify apps, themes, and storefronts",
     "title": "Shopify CLI Commands: What They Are and How To Use ..."
    },
+   "shopify.com/blog/shopify-ebay-integration": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-19T18:43:10Z",
+    "link": "https://www.shopify.com/blog/shopify-ebay-integration",
+    "page": 3,
+    "summary": "Learn how to integrate your Shopify store and eBay account to sync inventory across platforms and manage eBay orders more efficiently through Shopify.",
+    "title": "Shopify eBay Integration: How To Connect Your Store (2027)"
+   },
    "shopify.com/blog/shopify-retail-roundup-september-2026-v11-15-11-16": {
     "baseline": false,
     "date_hint": "12 hours ago",
@@ -60558,6 +60585,15 @@
     "summary": "Support for expanded DtC spirits shipping among regular craft spirits drinkers has stayed in a 79%-82% range for five years (81% in 2026). Among all Americans ...",
     "title": "DtC Spirits Shipping 2026: 5 Years of Data | Sovos"
    },
+   "sovos.com/blog/ship/non-alcoholic-not-unregulated-what-beverage-suppliers-need-to-know": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-11-19T18:43:10Z",
+    "link": "https://sovos.com/blog/ship/non-alcoholic-not-unregulated-what-beverage-suppliers-need-to-know/",
+    "page": 1,
+    "summary": "Learn what beverage suppliers need to know about non-alcoholic beverage regulations, including federal and state compliance requirements.",
+    "title": "Non-Alcoholic: What Beverage Suppliers Need to Know | Sovos"
+   },
    "sovos.com/blog/sut/delaware-sales-tax-guide": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -60602,6 +60638,15 @@
     "page": 1,
     "summary": "South Carolina sales tax rates, nexus thresholds, taxable sales, exemptions, filing requirements, and retail license registration.",
     "title": "South Carolina Sales Tax Guide - Sovos"
+   },
+   "sovos.com/blog/trr/the-end-of-an-era-fire-closes-and-iris-takes-the-lead": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-11-19T18:43:10Z",
+    "link": "https://sovos.com/blog/trr/the-end-of-an-era-fire-closes-and-iris-takes-the-lead/",
+    "page": 1,
+    "summary": "IRS FIRE system closes November 19, 2026. IRIS takes over with real-time validation, modern security, and A2A filing capabilities.",
+    "title": "FIRE System Closes: IRIS Takes Over Information Filing"
    },
    "sovos.com/blog/trr/unclaimed-property-what-are-relationship-codes": {
     "baseline": false,

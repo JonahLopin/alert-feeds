@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:shopify-blog</id>
   <title>Shopify blog (site:shopify.com/blog/) via Serper</title>
-  <updated>2026-11-19T16:42:53Z</updated>
+  <updated>2026-11-19T18:43:10Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/shopify-blog.xml" />
+  <entry>
+    <id>https://www.shopify.com/blog/shopify-ebay-integration</id>
+    <title>Shopify eBay Integration: How To Connect Your Store (2027)</title>
+    <link href="https://www.shopify.com/blog/shopify-ebay-integration" />
+    <published>2026-11-19T18:43:10Z</published>
+    <updated>2026-11-19T18:43:10Z</updated>
+    <summary>Learn how to integrate your Shopify store and eBay account to sync inventory across platforms and manage eBay orders more efficiently through Shopify.</summary>
+  </entry>
   <entry>
     <id>https://www.shopify.com/blog/how-to-sell-on-instagram</id>
     <title>How To Sell on Instagram: 8 Strategies for 2027 - Shopify</title>
@@ -795,13 +803,5 @@
     <published>2026-11-13T08:42:37Z</published>
     <updated>2026-11-13T08:42:37Z</updated>
     <summary>Wholesale7 is a fashion wholesaler of boutique clothing for men and women. Narrow down choices by trends, categories (like co-ords, dresses, and rompers), and ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.shopify.com/blog/small-business-wholesale-suppliers</id>
-    <title>Best Small Business Wholesale Suppliers (2026)</title>
-    <link href="https://www.shopify.com/blog/small-business-wholesale-suppliers" />
-    <published>2026-11-13T08:42:37Z</published>
-    <updated>2026-11-13T08:42:37Z</updated>
-    <summary>Find the best small business wholesale suppliers. Compare top wholesale marketplaces, evaluate pricing, and choose the right partner.</summary>
   </entry>
 </feed>
