@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 49061,
+  "credits_used": 49107,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-19T12:42:35Z",
+  "last_run": "2026-11-19T13:43:13Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 950
+  "runs": 951
  },
  "feeds": {
   "adp-help": {
@@ -19547,6 +19547,15 @@
     "summary": "For restructuring lawyers at Weil Gotshal & Manges, a golf and tennis outing in New Jersey last month was meant to be celebratory.",
     "title": "Weil Gotshal's 95-Year History Careened to a Close in Just ..."
    },
+   "news.bloomberglaw.com/business-and-practice/weil-gotshals-bold-outsider-roots-withered-before-firms-demise": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-19T13:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/weil-gotshals-bold-outsider-roots-withered-before-firms-demise",
+    "page": 1,
+    "summary": "As a group of relative outsiders stunted by corporate anti-Semitism, Weil's lawyers went where the establishment law firms wouldn't.",
+    "title": "Weil Gotshal's Bold Outsider Roots Withered Before Firm's Demise"
+   },
    "news.bloomberglaw.com/business-and-practice/weil-gotshals-closest-relationship-cost-the-firm-everything": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -20096,6 +20105,15 @@
     "summary": "A restaurant can serve dine-in guests, accept website pickup orders, receive marketplace deliveries, and redeem loyalty rewards during the same dinner rush.",
     "title": "How Restaurants Prevent Order Errors During the Friday ..."
    },
+   "chowbus.com/blog/how-to-start-a-poke-bowl-business": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-19T13:43:13Z",
+    "link": "https://www.chowbus.com/blog/how-to-start-a-poke-bowl-business",
+    "page": 1,
+    "summary": "Follow a poke bowl from rice to payment and see the startup decision at each station: raw fish rules, rice holding, portions, allergens, ordering and cost ...",
+    "title": "How to Start a Poke Bowl Business: Every Station on the Line Is a Cost and ..."
+   },
    "chowbus.com/blog/integrated-payment-processing-end-of-day-close": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -20104,6 +20122,15 @@
     "page": 1,
     "summary": "With a standalone card terminal, every card payment is entered twice: once in the POS to close the check, and once on the terminal to charge the card. Each ...",
     "title": "Integrated Payment Processing and the End-of-Day Close"
+   },
+   "chowbus.com/blog/integrated-pos-system-vs-add-ons-delivery-refunds": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-19T13:43:13Z",
+    "link": "https://www.chowbus.com/blog/integrated-pos-system-vs-add-ons-delivery-refunds",
+    "page": 1,
+    "summary": "Follow one delivery order and one refund through an add-on POS stack and an integrated POS system to see where menus, refunds, reports, 86'd items and tips ...",
+    "title": "Where Add-On Stacks Lose Data on Delivery Orders and Refunds"
    },
    "chowbus.com/blog/ipad-pos-software-hot-pot-ayce": {
     "baseline": false,
@@ -20122,6 +20149,15 @@
     "page": 1,
     "summary": "How to choose and install iPad POS stands and mounts for each station, with tips on security, power, cable runs, and printer pairing.",
     "title": "iPad POS Stand Setup: The Small Details That Prevent ..."
+   },
+   "chowbus.com/blog/lightspeed-pos-reviews-pricing-asian-restaurants": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-19T13:43:13Z",
+    "link": "https://www.chowbus.com/blog/lightspeed-pos-reviews-pricing-asian-restaurants",
+    "page": 1,
+    "summary": "A sit-down Chinese, Japanese or Korean dining room fits the way Lightspeed is built. Hot pot and all-you-can-eat service, boba counters that print cup labels, ...",
+    "title": "Fits Dining Rooms, Less Proven for Hot Pot, AYCE and Boba"
    },
    "chowbus.com/blog/loyalty-program-for-small-business": {
     "baseline": false,
@@ -20176,6 +20212,24 @@
     "page": 1,
     "summary": "The most common opening-night POS problem has nothing to do with the software itself. It's a terminal that's still running the demo menu \u2014 eight sample ...",
     "title": "A Realistic Timeline for Getting Your POS Ready Before Opening Night"
+   },
+   "chowbus.com/blog/pos-system-for-sale-used-refurbished-terminal-checks": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-19T13:43:13Z",
+    "link": "https://www.chowbus.com/blog/pos-system-for-sale-used-refurbished-terminal-checks",
+    "page": 1,
+    "summary": "A step-by-step inspection for any POS listing: payment approval, processor locks, security updates, software fit, tampering signs, warranty and red flags.",
+    "title": "Why a Cheap Used Terminal Can Cost More Than New, and What to Check"
+   },
+   "chowbus.com/blog/restaurant-employee-handbook": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-19T13:43:13Z",
+    "link": "https://www.chowbus.com/blog/restaurant-employee-handbook",
+    "page": 1,
+    "summary": "An office template has nothing to say about tip pools, split shifts, cash drawers or shared POS logins, which are exactly the topics that turn into wage claims ...",
+    "title": "Restaurant Employee Handbook: Why Office Templates Fail on Tips ..."
    },
    "chowbus.com/blog/restaurant-labor-cost-percentage-calculate-benchmarks": {
     "baseline": false,
