@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:doordash-blog</id>
   <title>DoorDash blog (site:merchants.doordash.com/en-us/blog/) via Serper</title>
-  <updated>2026-11-18T23:42:43Z</updated>
+  <updated>2026-11-19T11:42:42Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/doordash-blog.xml" />
+  <entry>
+    <id>https://merchants.doordash.com/en-us/blog/restaurant-management-system</id>
+    <title>Restaurant Management System Guide: 10 Features to Look For</title>
+    <link href="https://merchants.doordash.com/en-us/blog/restaurant-management-system" />
+    <published>2026-11-19T11:42:42Z</published>
+    <updated>2026-11-19T11:42:42Z</updated>
+    <summary>Learn what a restaurant management system is, the 10 features that matter most, and how to build a tech stack that grows your restaurant.</summary>
+  </entry>
   <entry>
     <id>https://merchants.doordash.com/en-us/blog/topic/delivery</id>
     <title>Delivery | Merchant Blog</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T12:42:49Z</published>
     <updated>2026-11-06T12:42:49Z</updated>
     <summary>See real coffee shop startup costs — equipment, buildout, licenses, and working capital — plus tips to open on a leaner budget.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEShgEBxCJF17HcDJKQiO91ydxM0pdiQjJMweDFf3klSi_dRdGdmZlTNAPxFbIQImo05x_5-qmqedGOR_lry2QhwZADU65EdAYR4f_HhhaUv8C8hAySw9yxpdoyQQqKZ2jCbzFfhIrZhZJCIU3YsY6G_G8MeEpyMAL1aT45gkON9NQTnetCAMfFaA</id>
-    <title>How to Manage Your Restaurant Finances: A Guide for ...</title>
-    <link href="https://www.google.com/goto?url=CAEShgEBxCJF17HcDJKQiO91ydxM0pdiQjJMweDFf3klSi_dRdGdmZlTNAPxFbIQImo05x_5-qmqedGOR_lry2QhwZADU65EdAYR4f_HhhaUv8C8hAySw9yxpdoyQQqKZ2jCbzFfhIrZhZJCIU3YsY6G_G8MeEpyMAL1aT45gkON9NQTnetCAMfFaA" />
-    <published>2026-11-06T12:42:49Z</published>
-    <updated>2026-11-06T12:42:49Z</updated>
-    <summary>This guide hands you the tools to read your numbers, track what counts, build a budget, control costs, and weigh delivery revenue.</summary>
   </entry>
 </feed>

@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 48971,
+  "credits_used": 49014,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-19T10:42:53Z",
+  "last_run": "2026-11-19T11:42:42Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 948
+  "runs": 949
  },
  "feeds": {
   "adp-help": {
@@ -26491,6 +26491,15 @@
     "summary": "66% of consumers order more often from restaurants where they're loyalty members. This guide covers the loyalty program types that work, the reward math ...",
     "title": "Restaurant loyalty programs: how to start one in 2026"
    },
+   "merchants.doordash.com/en-us/blog/restaurant-management-system": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-19T11:42:42Z",
+    "link": "https://merchants.doordash.com/en-us/blog/restaurant-management-system",
+    "page": 1,
+    "summary": "Learn what a restaurant management system is, the 10 features that matter most, and how to build a tech stack that grows your restaurant.",
+    "title": "Restaurant Management System Guide: 10 Features to Look For"
+   },
    "merchants.doordash.com/en-us/blog/restaurant-marketing-automation": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -43379,6 +43388,24 @@
     "summary": "Independent assurance supports a safe, predictable and reliable delivery of ERP programmes and that no-regret decisions are supported by evidence and ...",
     "title": "Navigating the Complex Risk Landscape of ERP ..."
    },
+   "news.sap.com/africa/2026/11/opinion-sa-steps-forward-as-a-confident-co-creator-of-the-ai-future": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-19T11:42:42Z",
+    "link": "https://news.sap.com/africa/2026/11/opinion-sa-steps-forward-as-a-confident-co-creator-of-the-ai-future/",
+    "page": 2,
+    "summary": "Applying artificial intelligence across healthcare, education, agriculture, mine safety, logistics, and public services offers what President Ramaphosa rightly ...",
+    "title": "OPINION| SA Steps Forward as a Confident Co-creator of the AI Future"
+   },
+   "news.sap.com/africa/2026/11/opinion-sa-steps-forward-as-a-confident-co-creator-of-the-ai-future?amp=1": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-19T11:42:42Z",
+    "link": "https://news.sap.com/africa/2026/11/opinion-sa-steps-forward-as-a-confident-co-creator-of-the-ai-future/?amp=1",
+    "page": 2,
+    "summary": "From the Semafor stage in Menlo Park to campuses, start-ups, and emerging smart cities back home, South Africa is demonstrating that an African democracy can ...",
+    "title": "OPINION| SA Steps Forward as a Confident Co-creator of the AI Future"
+   },
    "news.sap.com/africa/2026/11/prasa-puts-people-at-the-centre-of-its-digital-transformation-strategy": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -43441,6 +43468,33 @@
     "page": 1,
     "summary": "New specialised team aims to support asset-intensive industries to modernise operations, reduce costs and accelerate returns.",
     "title": "SAP launches Supply Chain Centre of Excellence in ANZ"
+   },
+   "news.sap.com/australia/2026/11/19/7974": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-19T11:42:42Z",
+    "link": "https://news.sap.com/australia/2026/11/19/7974/",
+    "page": 1,
+    "summary": "The SAP ANZ Partner Sales Rally brought together more than 40 SAP and partner executives from 18 partner organisations in Australia to align on growth ...",
+    "title": "SAP ANZ Brings Partner Ecosystem Together for Inaugural Partner Week"
+   },
+   "news.sap.com/australia/2026/11/19/7974?amp=1": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-19T11:42:42Z",
+    "link": "https://news.sap.com/australia/2026/11/19/7974/?amp=1",
+    "page": 1,
+    "summary": "The SAP ANZ Partner Sales Rally brought together more than 40 SAP and partner executives from 18 partner organisations in Australia to align on growth ...",
+    "title": "SAP ANZ Brings Partner Ecosystem Together for Inaugural Partner Week"
+   },
+   "news.sap.com/australia/2026/11/19/7990": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-19T11:42:42Z",
+    "link": "https://news.sap.com/australia/2026/11/19/7990/",
+    "page": 1,
+    "summary": "From Emergency Services to Global Supply Chains, SAP supports ANZ Organisations. SAP-powered AI and cloud transformation",
+    "title": "From Emergency Services to Global Supply Chains, SAP supports ANZ ..."
    },
    "news.sap.com/belgie/2026/09/sap-en-nvidia-openshell-werken-samen-aan-governance-en-beveiliging-voor-controleerbare-ai-agents-in-bedrijfssystemen/computer-and-network-data-connection": {
     "baseline": false,
@@ -45142,6 +45196,24 @@
     "page": 1,
     "summary": "\u672c\u7a3f\u3067\u306f\u3001SAP Cloud Application Services (CAS) \u3068 SAP Enterprise Cloud Services (ECS) \u3092\u6d3b\u7528\u3057\u3001\u5b89\u5b9a\u904b\u7528\u3092\u8d77\u70b9\u3068\u3057\u3066 IT \u90e8\u9580\u306e\u5f79\u5272\u305d\u306e\u3082\u306e\u3092\u5909\u9769\u3057\u3066\u3044\u308b\u3001 ...",
     "title": "\u201c\u5c0e\u5165\u201d\u3092\u30b4\u30fc\u30eb\u306b\u3057\u306a\u3044\u3002\u904b\u7528\u306f\u5916\u3078\u3001\u4fa1\u5024\u5275\u51fa\u306f\u5185\u3078\u3002\u6226\u7565\u7684\u5f79\u5272\u306e\u5909\u9769"
+   },
+   "news.sap.com/japan/2026/11/30974": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-19T11:42:42Z",
+    "link": "https://news.sap.com/japan/2026/11/30974/",
+    "page": 1,
+    "summary": "\u7570\u696d\u7a2e\u304b\u3089 SAP \u306b\u5165\u793e\u3057\u305f\u5927\u5800\u3055\u3093\u306b\u3001SAP CS \u30a2\u30ab\u30c7\u30df\u30fc\u3067\u5f97\u305f\u5b66\u3073\u3084\u7d4c\u9a13\u3001\u305d\u308c\u3089\u304c\u73fe\u5728\u306e\u4ed5\u4e8b\u306b\u3069\u306e\u3088\u3046\u306b\u751f\u304b\u3055\u308c\u3066\u3044\u308b\u306e\u304b\u306b\u3064\u3044\u3066\u304a\u4f3a\u3044\u3057\u307e\u3059\u3002",
+    "title": "IT\u696d\u754c\u672a\u7d4c\u9a13\u304b\u3089SAP\u3078\u6311\u6226\uff01SAP\u30a2\u30ab\u30c7\u30df\u30fc\u3067\u5f97\u305f\u3001\u65b0\u3057\u3044\u30ad\u30e3\u30ea\u30a2\u3078 ..."
+   },
+   "news.sap.com/japan/2026/11/30974?amp=1": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-11-19T11:42:42Z",
+    "link": "https://news.sap.com/japan/2026/11/30974/?amp=1",
+    "page": 1,
+    "summary": "SAP \u30b8\u30e3\u30d1\u30f3 Talent Discovery \u30c1\u30fc\u30e0\u306b\u3088\u308b\u672c\u4f01\u753b\u3067\u306f\u3001SAP \u3067\u306e\u4ed5\u4e8b\u5185\u5bb9\u3084\u5370\u8c61\u6df1\u3044\u30a8\u30d4\u30bd\u30fc\u30c9\u306a\u3069\u3092\u5e45\u5e83\u304f\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002\u6d3b\u8e8d\u3059\u308b\u793e\u5185\u30e1\u30f3\u30d0\u30fc\u306e\u8a71\u304b\u3089\u3001SAP \u3067\u50cd\u304f ...",
+    "title": "IT\u696d\u754c\u672a\u7d4c\u9a13\u304b\u3089SAP\u3078\u6311\u6226\uff01SAP\u30a2\u30ab\u30c7\u30df\u30fc\u3067\u5f97\u305f\u3001\u65b0\u3057\u3044\u30ad\u30e3\u30ea\u30a2\u3078 ..."
    },
    "news.sap.com/japan/2026/11/sap%E3%80%812026%E5%B9%B4%E7%89%88gartner-emerging-market-quadrant%E3%81%AE%E7%B5%B1%E5%90%88%E5%9E%8B%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3ai%E3%82%A8%E3%83%BC/male-manager-hand-holding-tablet-with-ar-application-for-check-order-pick-time-in-smart-factory-warehouse-technology-interface-global-partner-connection-for-logistic-import-export-background-2": {
     "baseline": false,
@@ -60361,6 +60433,15 @@
     "page": 1,
     "summary": "Find out how to add a payment method to your account. Go to your profile, click your name, and select Billing and payments from the dropdown. Click Add New. ...",
     "title": "Add a payment method - Sovos Docs"
+   },
+   "docs.sovos.com/1099-reporting/tir-corporate--1099-professional/transmit/iris/about-the-new-iris-filing-system": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-19T11:42:42Z",
+    "link": "https://docs.sovos.com/1099-reporting/tir-corporate--1099-professional/transmit/iris/about-the-new-iris-filing-system",
+    "page": 1,
+    "summary": "The Information Returns Intake System (IRIS) is the IRS's new platform for submitting 1099 information returns previously reported through their FIRE portal.",
+    "title": "About the new IRIS filing system - Sovos Docs"
    },
    "docs.sovos.com/1099-reporting/tir-corporate--1099-professional/transmit/transmit-to-the-irs/check-the-status-of-irs-transmittals": {
     "baseline": false,

@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-19T06:45:38Z</updated>
+  <updated>2026-11-19T11:42:42Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://docs.sovos.com/1099-reporting/tir-corporate--1099-professional/transmit/iris/about-the-new-iris-filing-system</id>
+    <title>About the new IRIS filing system - Sovos Docs</title>
+    <link href="https://docs.sovos.com/1099-reporting/tir-corporate--1099-professional/transmit/iris/about-the-new-iris-filing-system" />
+    <published>2026-11-19T11:42:42Z</published>
+    <updated>2026-11-19T11:42:42Z</updated>
+    <summary>The Information Returns Intake System (IRIS) is the IRS's new platform for submitting 1099 information returns previously reported through their FIRE portal.</summary>
+  </entry>
   <entry>
     <id>https://docs.sovos.com/en/1099-reporting/tir-corporate--1099-professional/manage-forms/tax-year-2026-form-status</id>
     <title>Tax year 2026 form status | Product Documentation Documentation</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T06:36:39Z</published>
     <updated>2026-10-30T06:36:39Z</updated>
     <summary>View whether your transmittals were accepted or need action directly in Sovos's Tax Information Reporting software.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESwwEB6zswFc4DM8oTZGhpc_UjUyspBtyT8LV3Nei42QNJZzKQ6_jscPfWFgnTLXyHWrflRMlKzZgsptBDIUbm4-69eXpKl6XppNOmyiLlpZ4qh5F2DWtW8WO3Mr9QVnhUC1SPWQiPRvUiY5oJpCuX0ajNgVCTBUuZ8JNs2A2Bd2WmJuCKaLQ6UrZGifBwNF0AekLUQNXUX1WYdPuED72xHlmTmAwPGngHO6mh4WXvHfJF5xSkM9Tw4L_ZNPFd0kFrmiJ9TZo</id>
-    <title>Fix XML schema validation errors - Sovos Docs</title>
-    <link href="https://www.google.com/goto?url=CAESwwEB6zswFc4DM8oTZGhpc_UjUyspBtyT8LV3Nei42QNJZzKQ6_jscPfWFgnTLXyHWrflRMlKzZgsptBDIUbm4-69eXpKl6XppNOmyiLlpZ4qh5F2DWtW8WO3Mr9QVnhUC1SPWQiPRvUiY5oJpCuX0ajNgVCTBUuZ8JNs2A2Bd2WmJuCKaLQ6UrZGifBwNF0AekLUQNXUX1WYdPuED72xHlmTmAwPGngHO6mh4WXvHfJF5xSkM9Tw4L_ZNPFd0kFrmiJ9TZo" />
-    <published>2026-10-30T06:36:39Z</published>
-    <updated>2026-10-30T06:36:39Z</updated>
-    <summary>Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.</summary>
   </entry>
 </feed>
