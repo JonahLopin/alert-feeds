@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 48704,
+  "credits_used": 48751,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-19T04:42:53Z",
+  "last_run": "2026-11-19T05:43:06Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 942
+  "runs": 943
  },
  "feeds": {
   "adp-help": {
@@ -57266,6 +57266,15 @@
     "summary": "Learn how to calculate average basket size (ABS) and discover retail strategies to increase units per transaction and boost your store's growth.",
     "title": "Basket Size: How to Calculate and Increase It (2026)"
    },
+   "shopify.com/blog/benefits-trademarking-logo": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-19T05:43:06Z",
+    "link": "https://www.shopify.com/blog/benefits-trademarking-logo",
+    "page": 1,
+    "summary": "The benefits of trademarking a logo include protecting one of your business's most valuable assets while putting competitors on notice of your exclusive rights.",
+    "title": "Benefits of Trademarking a Logo and How to Trademark (2026)"
+   },
    "shopify.com/blog/best-barcode-scanners": {
     "baseline": false,
     "date_hint": "6 days ago",
@@ -65220,6 +65229,15 @@
     "page": 1,
     "summary": "Use an AI assistant or the Stripe CLI to prepare a Stripe Atlas application for a Delaware C corporation or limited liability company (LLC).",
     "title": "Prepare an Atlas application with an agent or CLI"
+   },
+   "docs.stripe.com/billing/metronome-invoice-payment-reference?locale=ja-JP": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-19T05:43:06Z",
+    "link": "https://docs.stripe.com/billing/metronome-invoice-payment-reference?locale=ja-JP",
+    "page": 1,
+    "summary": "Review the invoice lifecycle, invoice attributes, payment collection, and post-invoice operations for Metronome invoices in Stripe.",
+    "title": "Metronome invoice and payment reference"
    },
    "docs.stripe.com/billing/retention/migrate-from-managed-operations": {
     "baseline": false,
