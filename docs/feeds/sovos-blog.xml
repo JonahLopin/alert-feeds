@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sovos-blog</id>
   <title>Sovos blog (site:sovos.com/blog/)</title>
-  <updated>2026-11-08T10:44:19Z</updated>
+  <updated>2026-11-19T18:26:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sovos-blog.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:7637645649927520672</id>
+    <title>FIRE System Closes: IRIS Takes Over Information Filing - Sovos</title>
+    <link href="https://sovos.com/blog/trr/the-end-of-an-era-fire-closes-and-iris-takes-the-lead/" />
+    <published>2026-11-19T18:26:49Z</published>
+    <updated>2026-11-19T18:26:49Z</updated>
+    <summary>IRS FIRE system closes November 19, 2026. IRIS takes over with real-time validation, modern security, and A2A filing capabilities.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:6208522728215655426</id>
     <title>The Next Frontier of Aviation Tax Compliance: From Documents to Data | Sovos</title>
