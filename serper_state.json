@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 49156,
+  "credits_used": 49202,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-19T14:43:09Z",
+  "last_run": "2026-11-19T15:42:50Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 952
+  "runs": 953
  },
  "feeds": {
   "adp-help": {
@@ -14861,6 +14861,15 @@
     "summary": "Cravath, Swaine & Moore and Kirkland & Ellis guided the $7.6 billion all-cash deal for an offshoot of Joshua Kushner's Thrive Capital Management to buy home ...",
     "title": "Kirkland, Cravath Guide $7.6 Billion Thrive Holdings' ADT ..."
    },
+   "news.bloomberglaw.com/business-and-practice/kirkland-did-millions-in-work-for-trump-agencies-lawmakers-say": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-19T15:42:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/kirkland-did-millions-in-work-for-trump-agencies-lawmakers-say",
+    "page": 1,
+    "summary": "Kirkland & Ellis, one of the nine Big Law firms that struck deals with the White House last year, provided at least $11.8 million in free legal services to federal agencies and entities \u201cengaged in questionable activities,\u201d Democratic lawmakers said in a series of letters.",
+    "title": "Kirkland Did Millions in Work for Trump Agencies, Lawmakers ..."
+   },
    "news.bloomberglaw.com/business-and-practice/kirkland-ellis-adds-weil-partner-lauren-gorsche-to-tax-group": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -15085,6 +15094,15 @@
     "page": 1,
     "summary": "Perfectionism is often quietly recognized as an asset, and even when legal organizations know better, it's often treated as a \u201cwellness issue.",
     "title": "Law Firms Must Quash Perfectionism, Not Treat Its Toxic ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/law-firms-queried-by-democrats-on-dealings-with-trump-admin": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-19T15:42:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/law-firms-queried-by-democrats-on-dealings-with-trump-admin",
+    "page": 1,
+    "summary": "Rep Jamie Raskin, Sens. Richard Blumenthal and Adam Schiff are demand records from nine law firms, including Latham & Watkins and Skadden Arps, as part of an investigation into free legal services provided to the Trump administration.",
+    "title": "Law Firms Queried by Democrats on Dealings With Trump Admin."
    },
    "news.bloomberglaw.com/business-and-practice/lawmakers-introduce-bipartisan-bill-to-block-russia-diesel-deal": {
     "baseline": false,
@@ -17701,6 +17719,24 @@
     "link": "https://news.bloomberglaw.com/business-and-practice/sullivan-cromwell-nabs-ashurst-mcguirewoods-appellate-chairs",
     "summary": "Sullivan & Cromwell is bringing on a pair of litigators to lead its Supreme Court and appellate practice. The firm is one of the most profitable in the nation ...",
     "title": "Sullivan & Cromwell Nabs Ashurst, McGuireWoods ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/sullivan-cromwell-names-co-chairs-in-new-phase-at-storied-firm": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-19T15:42:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/sullivan-cromwell-names-co-chairs-in-new-phase-at-storied-firm",
+    "page": 1,
+    "summary": "Sullivan & Cromwell\u2019s Robert Giuffra Jr. and Scott Miller will step down as co-chairs at the end of next year, making way for the first new leaders since 2022, the firm announced on Thursday.",
+    "title": "Sullivan & Cromwell Names Co-Chairs in New Phase at Storied ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/sullivan-cromwell-picks-up-top-bankruptcy-team-from-weil": {
+    "baseline": false,
+    "date_hint": "43 minutes ago",
+    "first_seen": "2026-11-19T15:42:50Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/sullivan-cromwell-picks-up-top-bankruptcy-team-from-weil",
+    "page": 1,
+    "summary": "Sullivan & Cromwell is expanding its restructuring credentials with the addition of a top bankruptcy team from Weil Gotshal & Manges.",
+    "title": "Sullivan & Cromwell Picks Up Top Bankruptcy Team from ..."
    },
    "news.bloomberglaw.com/business-and-practice/supervalu-whistleblowers-urged-to-weigh-mediation-in-fraud-suit": {
     "baseline": false,
