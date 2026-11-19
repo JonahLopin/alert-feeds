@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 49426,
+  "credits_used": 49468,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-19T20:42:38Z",
+  "last_run": "2026-11-19T21:42:49Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 958
+  "runs": 959
  },
  "feeds": {
   "adp-help": {
@@ -699,6 +699,15 @@
     "summary": "The NER Pulse is an estimate of the week-over-week change in employment based on a four-week moving average. These estimates are based on ADP's finely tuned, high-frequency data. The data is seasonally adjusted and have a two-week lag to allow for more complete and accurate estimates of real-time employment trends.",
     "title": "ADP National Employment Report Preliminary Estimate for ..."
    },
+   "mediacenter.adp.com/2026-11-19-ADP-Acquires-ZenBusiness": {
+    "baseline": false,
+    "date_hint": "21 hours ago",
+    "first_seen": "2026-11-19T21:42:49Z",
+    "link": "https://mediacenter.adp.com/2026-11-19-ADP-Acquires-ZenBusiness",
+    "page": 1,
+    "summary": "Transaction extends ADP\u2019s offerings to include formation solutions and added compliance capabilities; expands ability to serve entrepreneurs and small businesses from startup through scale...",
+    "title": "ADP Acquires ZenBusiness"
+   },
    "mediacenter.adp.com/adp-and-campfire-announce-strategic-partnership-to-expand-access-to-hcm-capabilities-across-the-erp-experience": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -743,6 +752,15 @@
     "page": 1,
     "summary": "Learn how encouraging workers to use AI more often, both at work and home, may be the best thing leaders can do to build that trust.",
     "title": "Building trust with AI tools"
+   },
+   "mediacenter.adp.com/creating-a-foundation-for-ai-data?dc_campid=34230861": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-19T21:42:49Z",
+    "link": "https://mediacenter.adp.com/creating-a-foundation-for-ai-data?dc_campid=34230861",
+    "page": 1,
+    "summary": "Journalist Patricia Stark asks 3 ADP experts one important question: How can tools like AI help attract and retain top talent? Chief Product and Data Officer Amin Venjara shares how good data insights on everything from seasonal trends to recent turnover can help organizations make more informed decisions. Chief Product Owner Naomi Lariviere dives deeper into how recruiters can spend more time ...",
+    "title": "ADP Media Center - Video Insights"
    },
    "mediacenter.adp.com/nelsonhall-and-everest-group-recognize-adp-as-a-leader-in-workforce-management": {
     "baseline": false,
@@ -39039,6 +39057,15 @@
     "page": 1,
     "summary": "Ryan, an award-winning global tax services and software provider, is the largest Firm in the world dedicated exclusively to business taxes. With global ...",
     "title": "Ryan Named to the 2026 Fortune Best Workplaces in ..."
+   },
+   "ryan.com/insights/press-room/ryan-2026-fortune-best-workplaces-for-parents": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-19T21:42:49Z",
+    "link": "https://ryan.com/insights/press-room/ryan-2026-fortune-best-workplaces-for-parents",
+    "page": 1,
+    "summary": "Ryan's people-first culture continues to set the standard for supporting working parents through flexibility and meaningful work-life success.",
+    "title": "Ryan Named One of the Best Workplaces for Parents\u2122 for Ninth ..."
    },
    "ryan.com/insights/press-room/ryan-2026-fortune-best-workplaces-for-women": {
     "baseline": false,
