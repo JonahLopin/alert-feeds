@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:doordash-press</id>
   <title>DoorDash press (site:about.doordash.com/en-us/news/) via Serper</title>
-  <updated>2026-11-17T18:42:40Z</updated>
+  <updated>2026-11-19T19:43:13Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/doordash-press.xml" />
+  <entry>
+    <id>https://about.doordash.com/en-us/news/dol-rule-win-for-dashers</id>
+    <title>New DOL Rule is a Win for Dashers</title>
+    <link href="https://about.doordash.com/en-us/news/dol-rule-win-for-dashers" />
+    <published>2026-11-19T19:43:13Z</published>
+    <updated>2026-11-19T19:43:13Z</updated>
+    <summary>A new independent contractor rule issued by the US Dept. of Labor recognizes the importance of independent work. Nov 19, 2026.</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESnwEBxCJF1xPD6i8Siwv0Zxb2PTE5zRok36sD6ZoOBaa4ahEI3-ZO61OiwCvwfmeRsa7tysbMDbvEoM_de4NWaKUN2E1O9Ne3fW7OI9gm3OypS7gs4SXyku0y9FbBTb-cam5J0GlFag5Gdj1L_bfFl0cycD9yxwkP6kxQebDlVn4TPOKnGNUqLOlJjKvs61TI4Snwv2toD622MQxrlHPT7Uw&amp;gsessionid=V4Q_6RqpHJbeP_I3laD9J_sjSjXmVNwkjqBSA8Y1eDRpZ5MRWghP_A</id>
     <title>Starbucks and DoorDash Launch Delivery Partnership in ...</title>
@@ -795,13 +803,5 @@
     <published>2026-10-22T19:07:55Z</published>
     <updated>2026-10-22T19:07:55Z</updated>
     <summary>DoorDash, the local commerce platform, today announced multiple new grocery partners, continuing its swift acceleration in the category. From the largest ...</summary>
-  </entry>
-  <entry>
-    <id>https://about.doordash.com/en-us/news/doordash-crash-out-corners-data</id>
-    <title>DoorDash Launches "Crash Out Corners,” Backed by Data ...</title>
-    <link href="https://about.doordash.com/en-us/news/doordash-crash-out-corners-data" />
-    <published>2026-10-22T15:11:02Z</published>
-    <updated>2026-10-22T15:11:02Z</updated>
-    <summary>DoorDash is launching Crash Out Corners to help people reset, including a pop-up in one of New York City's top cry spots.</summary>
   </entry>
 </feed>

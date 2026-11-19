@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 49339,
+  "credits_used": 49386,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-19T18:43:10Z",
+  "last_run": "2026-11-19T19:43:13Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 956
+  "runs": 957
  },
  "feeds": {
   "adp-help": {
@@ -11330,6 +11330,15 @@
     "summary": "The cash-strapped city of Portland, Ore., is weighing a nearly fivefold effective tax increase on companies like Starbucks Corp. and Wells Fargo & Co. that ...",
     "title": "CEO-Worker Pay Gaps Spark Corporate Tax Hike Plans in ..."
    },
+   "news.bloomberglaw.com/business-and-practice/cerence-says-elevenlabs-infringes-speech-voice-ai-tech-patents": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-19T19:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/cerence-says-elevenlabs-infringes-speech-voice-ai-tech-patents",
+    "page": 1,
+    "summary": "Cerence Operating Co. alleged Thursday that ElevenLabs infringed five patents by creating and selling products that incorporate speech and voice AI ...",
+    "title": "Cerence Says ElevenLabs Infringes Speech, Voice AI Tech Patents"
+   },
    "news.bloomberglaw.com/business-and-practice/cftc-orders-kalshi-to-take-down-markets-on-trumps-speeches": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -11374,6 +11383,15 @@
     "page": 1,
     "summary": "The effected rules restrict people from carrying more than one handgun at a time and from registering more than two handguns on a carry license, and they ...",
     "title": "Challenge to NYC's Concealed-Carry Gun Limits Revived ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/chamber-backs-fedex-kellanova-pension-math-in-high-court-brief": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-19T19:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/chamber-backs-fedex-kellanova-pension-math-in-high-court-brief",
+    "page": 2,
+    "summary": "Employers have flexibility over the actuarial data they use to calculate married workers' pensions, the US Chamber of Commerce said in a brief advising the ...",
+    "title": "Chamber Backs FedEx, Kellanova Pension Math in High Court Brief"
    },
    "news.bloomberglaw.com/business-and-practice/character-ai-platform-sale-offer-comes-from-29-year-old-gamer": {
     "baseline": false,
@@ -11967,6 +11985,15 @@
     "page": 2,
     "summary": "Crypto hardware maker Ledger SAS said it's investigating reports that a number of users had seen a \u201closs of funds\u201d from their wallets, knocking the industry ...",
     "title": "Crypto Hardware Wallets Hit in Estimated $70 Million Attack"
+   },
+   "news.bloomberglaw.com/business-and-practice/crypto-payments-firm-moonpay-applies-for-bank-charter": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-19T19:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/crypto-payments-firm-moonpay-applies-for-bank-charter",
+    "page": 1,
+    "summary": "Crypto payments firm MoonPay Inc. has applied for a US national bank charter, joining a growing number of digital asset companies seeking banking licenses ...",
+    "title": "Crypto Payments Firm MoonPay Applies for Bank Charter"
    },
    "news.bloomberglaw.com/business-and-practice/crypto-tax-lobbying-grows-even-after-market-structure-fails": {
     "baseline": false,
@@ -12732,6 +12759,15 @@
     "summary": "The Justice Department's Office of Professional Responsibility is actively investigating attorneys' conduct in the \u201cBroadview Six\u201d scandal, ...",
     "title": "DOJ Watchdog Probing Alleged Grand Jury Misconduct in ..."
    },
+   "news.bloomberglaw.com/business-and-practice/dojs-bankruptcy-watchdog-turns-to-private-practice-for-chief": {
+    "baseline": false,
+    "date_hint": "10 hours ago",
+    "first_seen": "2026-11-19T19:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/dojs-bankruptcy-watchdog-turns-to-private-practice-for-chief",
+    "page": 2,
+    "summary": "For the first time in decades, the Justice Department's bankruptcy oversight division will be led by an attorney coming directly out of private practice.",
+    "title": "DOJ's Bankruptcy Watchdog Turns to Private Practice for Chief"
+   },
    "news.bloomberglaw.com/business-and-practice/dojs-khojasteh-joins-boies-schillers-growing-white-collar-team": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -12964,6 +13000,15 @@
     "page": 2,
     "summary": "The European Parliament adopted a report Tuesday urging better information sharing and coordination among tax administrations, EU law enforcement agency Europol ...",
     "title": "EU Parliament Pushes for Stronger Cooperation to Fight ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/eu-presses-czech-republic-spain-on-crypto-tax-reporting": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-19T19:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/eu-presses-czech-republic-spain-on-crypto-tax-reporting",
+    "page": 2,
+    "summary": "The Czech Republic and Spain have yet to fully incorporate the EU's crypto-asset tax reporting and information exchange rules into national law, ...",
+    "title": "EU Presses Czech Republic, Spain on Crypto Tax Reporting"
    },
    "news.bloomberglaw.com/business-and-practice/eu-proposal-to-soften-esg-rules-for-non-eu-firms-faces-pushback": {
     "baseline": false,
@@ -15562,6 +15607,15 @@
     "summary": "Merck KGaA agreed to acquire Silence Therapeutics Plc for about $1.1 billion in a cash transaction as the German science company looks to beef up in rare ...",
     "title": "Merck KGaA to Buy Silence Therapeutics for $1.1 Billion"
    },
+   "news.bloomberglaw.com/business-and-practice/merkley-backs-tsca-fees-stronger-toxic-chemical-protections": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-19T19:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/merkley-backs-tsca-fees-stronger-toxic-chemical-protections",
+    "page": 1,
+    "summary": "Sen. Jeff Merkley (D-Ore.) expressed support for extending the EPA's authority to levy fees on chemical manufacturers. Eric Lee/Bloomberg.",
+    "title": "Merkley Backs TSCA Fees, Stronger Toxic Chemical Protections"
+   },
    "news.bloomberglaw.com/business-and-practice/meta-glasses-accused-of-secretly-recording-private-conversations": {
     "baseline": false,
     "date_hint": "2 hours ago",
@@ -17199,6 +17253,15 @@
     "page": 1,
     "summary": "The US Supreme Court won't hear a case by former Ruby Tuesday Inc. executives asking what remedies courts can order in Employee Retirement Income Security Act ...",
     "title": "SCOTUS Passes on Ruby Tuesday Benefits Suit, ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/seagates-175-million-investor-deal-over-huawei-gets-court-nod": {
+    "baseline": false,
+    "date_hint": "23 hours ago",
+    "first_seen": "2026-11-19T19:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/seagates-175-million-investor-deal-over-huawei-gets-court-nod",
+    "page": 2,
+    "summary": "Seagate Technology Holdings Plc's $175 million settlement earned final approval to resolve investor allegations it concealed that hard disk drive sales to ...",
+    "title": "Seagate's $175 Million Investor Deal Over Huawei Gets Court Nod"
    },
    "news.bloomberglaw.com/business-and-practice/seatgeek-defeats-privacy-lawsuit-over-data-sharing-with-tiktok": {
     "baseline": false,
@@ -19294,6 +19357,15 @@
     "page": 2,
     "summary": "Wake Up Call: Foley Hoag to Defend Gov. Moore in Defamation Case \u00b7 The Maryland Board of Public Works approved a $50,000 contract to hire Foley Hoag to defend ...",
     "title": "Foley Hoag to Defend Gov. Moore in Defamation Case"
+   },
+   "news.bloomberglaw.com/business-and-practice/wake-up-call-inexperienced-lawyers-fill-doj-prosecutor-roles": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-19T19:43:13Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/wake-up-call-inexperienced-lawyers-fill-doj-prosecutor-roles",
+    "page": 2,
+    "summary": "Welcome to Bloomberg Law's Wake Up Call, a daily rundown of the top news for lawyers, law firms, and in-house counsel.",
+    "title": "Wake Up Call: Inexperienced Lawyers Fill DOJ Prosecutor Roles"
    },
    "news.bloomberglaw.com/business-and-practice/wake-up-call-la-attorney-race-pits-underdog-against-progressive": {
     "baseline": false,
@@ -27014,6 +27086,15 @@
     "page": 1,
     "summary": "DoorDash is confident that Dashers are properly classified as independent contractors under the FLSA, and we do not anticipate this rule causing changes to ...",
     "title": "DoorDash Statement on the Department of Labor's Final ..."
+   },
+   "about.doordash.com/en-us/news/dol-rule-win-for-dashers": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-19T19:43:13Z",
+    "link": "https://about.doordash.com/en-us/news/dol-rule-win-for-dashers",
+    "page": 1,
+    "summary": "A new independent contractor rule issued by the US Dept. of Labor recognizes the importance of independent work. Nov 19, 2026.",
+    "title": "New DOL Rule is a Win for Dashers"
    },
    "about.doordash.com/en-us/news/doordash-adds-new-grocery-partners": {
     "baseline": false,
@@ -35947,6 +36028,15 @@
     "page": 3,
     "summary": "Everything you need on add, edit, and remove authorized users \u2014 without the usual headaches. Set it up with confidence.",
     "title": "Add, edit, and remove authorized users - QuickBooks - Intuit"
+   },
+   "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/change-manage-update-intuit-account-camps/L9JzypgMF_US_en_US": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-19T19:43:13Z",
+    "link": "https://quickbooks.intuit.com/learn-support/en-us/help-article/account-management/change-manage-update-intuit-account-camps/L9JzypgMF_US_en_US",
+    "page": 3,
+    "summary": "The Customer Account Management Portal (CAMPs) allows you to manage your Intuit accounts and subscriptions for QuickBooks Desktop. You can update payment ...",
+    "title": "Manage your Intuit account with CAMPs - QuickBooks"
    },
    "quickbooks.intuit.com/learn-support/en-us/help-article/account-management/connect-email-quickbooks-desktop/L00d2EZek_US_en_US": {
     "baseline": true,
@@ -60920,6 +61010,24 @@
     "summary": "Sovos Canonical Invoice (SCI) is a format Sovos developed to specifically support global customers with their e-invoicing and reporting needs.",
     "title": "About Sovos Canonical Invoice | Product Documentation ..."
    },
+   "docs.sovos.com/en/e-invoicing/escritorio-acepta/set-up-your-company/before-your-company-can-issue-documents": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-19T19:43:13Z",
+    "link": "https://docs.sovos.com/en/e-invoicing/escritorio-acepta/set-up-your-company/before-your-company-can-issue-documents",
+    "page": 1,
+    "summary": "Before your company can issue documents Complete these tasks before anyone in your company issues a document.",
+    "title": "Before your company can issue documents | Product ..."
+   },
+   "docs.sovos.com/en/e-invoicing/escritorio-acepta/track-issued-documents/find-and-manage-a-document/about-trace-history": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-19T19:43:13Z",
+    "link": "https://docs.sovos.com/en/e-invoicing/escritorio-acepta/track-issued-documents/find-and-manage-a-document/about-trace-history",
+    "page": 1,
+    "summary": "About trace history A trace (Traza) is the event history of a document, recording what happened, when it happened, and any observations returned during processing.",
+    "title": "About trace history | Product Documentation Documentation"
+   },
    "docs.sovos.com/en/e-invoicing/indirect-tax-api/configuration": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -66913,6 +67021,15 @@
     "page": 1,
     "summary": "Send money instantly between financial accounts on Stripe. The money transfers instantly. s Each instant transfer has a minimum and maximum amount",
     "title": "Instant transfers"
+   },
+   "docs.stripe.com/treasury/statements": {
+    "baseline": false,
+    "date_hint": "1 hour ago",
+    "first_seen": "2026-11-19T19:43:13Z",
+    "link": "https://docs.stripe.com/treasury/statements",
+    "page": 1,
+    "summary": "Download monthly PDF statements for your financial accounts in the United States and United Kingdom. A statement shows your opening and closing balances and ...",
+    "title": "Download financial account statements"
    },
    "docs.stripe.com/treasury/transfer": {
     "baseline": false,

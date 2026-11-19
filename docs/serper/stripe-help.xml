@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-19T17:42:40Z</updated>
+  <updated>2026-11-19T19:43:13Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/treasury/statements</id>
+    <title>Download financial account statements</title>
+    <link href="https://docs.stripe.com/treasury/statements" />
+    <published>2026-11-19T19:43:13Z</published>
+    <updated>2026-11-19T19:43:13Z</updated>
+    <summary>Download monthly PDF statements for your financial accounts in the United States and United Kingdom. A statement shows your opening and closing balances and ...</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/data/access-data-in-warehouse</id>
     <title>How Data Pipeline works</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T19:42:36Z</published>
     <updated>2026-11-06T19:42:36Z</updated>
     <summary>Set up connected Stripe and Bridge sandboxes, fund test wallets on testnets, and simulate authorizations for stablecoin-backed cards.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdAHEIkXXzZSEqihN-EP4QBJuEkGYdmf9C7N1ZMWxOHXOqLkGIdwYA9114klwQ7vRJyVEURyfxmr5ERBtAf1aW2t3xGsy0Zvc6x81Ay9YSK7rnIhqCwZCGHN-89LkSuxJDWFzaZP-gbPiLknD3FZfECzFRRFL</id>
-    <title>GoPay Payments</title>
-    <link href="https://www.google.com/goto?url=CAESdAHEIkXXzZSEqihN-EP4QBJuEkGYdmf9C7N1ZMWxOHXOqLkGIdwYA9114klwQ7vRJyVEURyfxmr5ERBtAf1aW2t3xGsy0Zvc6x81Ay9YSK7rnIhqCwZCGHN-89LkSuxJDWFzaZP-gbPiLknD3FZfECzFRRFL" />
-    <published>2026-11-06T19:42:36Z</published>
-    <updated>2026-11-06T19:42:36Z</updated>
-    <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
   </entry>
 </feed>
