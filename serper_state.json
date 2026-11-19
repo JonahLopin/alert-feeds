@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 49107,
+  "credits_used": 49156,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-19T13:43:13Z",
+  "last_run": "2026-11-19T14:43:09Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 951
+  "runs": 952
  },
  "feeds": {
   "adp-help": {
@@ -43064,6 +43064,15 @@
     "summary": "Dutch Ministry of Defense is working with SAP to develop a sovereign cloud, strengthening control over its data and cloud environment.",
     "title": "Dutch Ministry of Defense Chooses SAP Sovereign Cloud"
    },
+   "news.sap.com/2026/11/five-rules-creating-supply-chains-that-can-take-a-hit": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-19T14:43:09Z",
+    "link": "https://news.sap.com/2026/11/five-rules-creating-supply-chains-that-can-take-a-hit/",
+    "page": 2,
+    "summary": "Discover five rules for building resilient supply chains that adapt fast to disruption from AI-powered sensing to organizational readiness.",
+    "title": "Five Rules for Creating Supply Chains that Can Take a Hit"
+   },
    "news.sap.com/2026/11/gxp-compliance-life-sciences-sap-raising-standard": {
     "baseline": false,
     "date_hint": "1 hour ago",
@@ -43550,6 +43559,15 @@
     "summary": "From Emergency Services to Global Supply Chains, SAP supports ANZ Organisations. SAP-powered AI and cloud transformation",
     "title": "From Emergency Services to Global Supply Chains, SAP supports ANZ ..."
    },
+   "news.sap.com/australia/2026/11/19/7990?amp=1": {
+    "baseline": false,
+    "date_hint": "6 hours ago",
+    "first_seen": "2026-11-19T14:43:09Z",
+    "link": "https://news.sap.com/australia/2026/11/19/7990/?amp=1",
+    "page": 2,
+    "summary": "From Emergency Services to Global Supply Chains, SAP supports ANZ Organisations To Deliver Measurable Business Transformation.",
+    "title": "From Emergency Services to Global Supply Chains, SAP supports ANZ ..."
+   },
    "news.sap.com/belgie/2026/09/sap-en-nvidia-openshell-werken-samen-aan-governance-en-beveiliging-voor-controleerbare-ai-agents-in-bedrijfssystemen/computer-and-network-data-connection": {
     "baseline": false,
     "date_hint": "9 hours ago",
@@ -43792,6 +43810,24 @@
     "page": 3,
     "summary": "Van slimme assistent tot digitale collega: hoe AI het bedrijfsleven ingrijpend verandert \u00b7 1. AI-assistent Joule: van dagen voorbereiding naar enkele minuten \u00b7 2.",
     "title": "Van slimme assistent tot digitale collega: hoe AI het ..."
+   },
+   "news.sap.com/belgie/2026/11/zo-maak-je-ai-werkbaar-vijf-lessen-van-team-liquid-en-sap": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-19T14:43:09Z",
+    "link": "https://news.sap.com/belgie/2026/11/zo-maak-je-ai-werkbaar-vijf-lessen-van-team-liquid-en-sap/",
+    "page": 2,
+    "summary": "Om ook op het hoogste niveau te blijven winnen, werkt de organisatie samen met SAP aan AI-toepassingen die spelers en coaches nieuwe inzichten geven. Wat kunnen ...",
+    "title": "Zo maak je AI werkbaar: vijf lessen van Team Liquid en SAP"
+   },
+   "news.sap.com/belgie/2026/11/zo-ontdekt-team-liquid-met-ai-wat-coaches-over-het-hoofd-zien": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-19T14:43:09Z",
+    "link": "https://news.sap.com/belgie/2026/11/zo-ontdekt-team-liquid-met-ai-wat-coaches-over-het-hoofd-zien/",
+    "page": 2,
+    "summary": "Esports is big business. Neem Team Liquid, een internationale esportsorganisatie met meer dan twintig teams en zo'n 150 professionele gamers.",
+    "title": "Zo ontdekt Team Liquid met AI wat coaches over het hoofd zien"
    },
    "news.sap.com/brazil/2026/10/bemol-acelera-acesso-a-dados-em-tempo-real-e-fortalece-estrategia-de-ia-com-sap-business-data-cloud": {
     "baseline": false,
@@ -44486,6 +44522,24 @@
     "summary": "Industry AI im Einsatz: Verstehen Sie, wie ma\u00dfgeschneiderte L\u00f6sungen branchenspezifische Herausforderungen bew\u00e4ltigen k\u00f6nnen.",
     "title": "Industry AI im Einsatz: L\u00f6sungen f\u00fcr Branchen"
    },
+   "news.sap.com/germany/2026/11/ki-cloud-loesungen-fuer-mittelstaendler": {
+    "baseline": false,
+    "date_hint": "2 hours ago",
+    "first_seen": "2026-11-19T14:43:09Z",
+    "link": "https://news.sap.com/germany/2026/11/ki-cloud-loesungen-fuer-mittelstaendler/",
+    "page": 2,
+    "summary": "SAP Cloud ERP: Wie Mittelst\u00e4ndler die M\u00f6glichkeiten optimal nutzen. Webinar-Serie zeigt Beispiele aus der Praxis von unterschiedlichen Branchen.",
+    "title": "Erfolgreich mit Hilfe von KI-Cloud-L\u00f6sungen"
+   },
+   "news.sap.com/germany/2026/11/ki-cloud-loesungen-fuer-mittelstaendler?amp=1": {
+    "baseline": false,
+    "date_hint": "8 hours ago",
+    "first_seen": "2026-11-19T14:43:09Z",
+    "link": "https://news.sap.com/germany/2026/11/ki-cloud-loesungen-fuer-mittelstaendler/?amp=1",
+    "page": 2,
+    "summary": "SAP Cloud ERP: Wie Mittelst\u00e4ndler die M\u00f6glichkeiten optimal nutzen. Webinar-Serie zeigt Beispiele aus der Praxis von unterschiedlichen Branchen.",
+    "title": "Erfolgreich mit Hilfe von KI-Cloud-L\u00f6sungen"
+   },
    "news.sap.com/germany/2026/11/ki-ericsson-definiert-b2b-handel-neu": {
     "baseline": false,
     "date_hint": "3 hours ago",
@@ -44746,6 +44800,15 @@
     "page": 3,
     "summary": "By expanding existing learning and community initiatives, SAP's pledge to help 12 million people gain AI-ready skills by 2030 is underway.",
     "title": "SAP India Doubles Down on AI Skilling to Prepare Two ..."
+   },
+   "news.sap.com/india/2026/11/sap-ace-awards-2026-celebrate-20-years-of-business-transformation-and-innovation": {
+    "baseline": false,
+    "date_hint": "22 hours ago",
+    "first_seen": "2026-11-19T14:43:09Z",
+    "link": "https://news.sap.com/india/2026/11/sap-ace-awards-2026-celebrate-20-years-of-business-transformation-and-innovation/",
+    "page": 2,
+    "summary": "This year's edition honoured 17 organisations with 18 awards for their achievements in enterprise-wide transformation, business AI, platform innovation, and ...",
+    "title": "SAP ACE Awards 2026 Celebrate 20 Years of Business Transformation ..."
    },
    "news.sap.com/italy/2026/10/angelini-technologies-fameccanica-sceglie-rise-with-sap-per-accelerare-la-trasformazione-digitale-e-sostenere-la-crescita-futura": {
     "baseline": false,
