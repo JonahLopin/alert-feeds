@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com) via Serper</title>
-  <updated>2026-11-19T14:43:09Z</updated>
+  <updated>2026-11-19T17:42:40Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sap-financial-management-press.xml" />
+  <entry>
+    <id>https://news.sap.com/australia/press-room/</id>
+    <title>Press Room - SAP Australia &amp; New Zealand News Center</title>
+    <link href="https://news.sap.com/australia/press-room/" />
+    <published>2026-11-19T17:42:40Z</published>
+    <updated>2026-11-19T17:42:40Z</updated>
+    <summary>SAP launches Supply Chain Centre of Excellence in ANZ · TabPFN-3.5 Plus Now Available in SAP AI Core · AI Success Goes to Those Who Build the Foundations, Not ...</summary>
+  </entry>
   <entry>
     <id>https://news.sap.com/india/2026/11/sap-ace-awards-2026-celebrate-20-years-of-business-transformation-and-innovation/</id>
     <title>SAP ACE Awards 2026 Celebrate 20 Years of Business Transformation ...</title>
@@ -795,13 +803,5 @@
     <published>2026-11-16T13:58:17Z</published>
     <updated>2026-11-16T13:58:17Z</updated>
     <summary>SAP wil tegen het einde van 2026 beschikken over 400 van die agents. SAP beschikt volgens Spinelli over meer dan 200 gespecialiseerde AI-agents en</summary>
-  </entry>
-  <entry>
-    <id>https://news.sap.com/belgie/2026/11/ai-gaat-van-adviseren-naar-handelen-sap-mikt-op-400-gespecialiseerde-ai-agents/</id>
-    <title>AI gaat van adviseren naar handelen: SAP mikt op 400 ...</title>
-    <link href="https://news.sap.com/belgie/2026/11/ai-gaat-van-adviseren-naar-handelen-sap-mikt-op-400-gespecialiseerde-ai-agents/" />
-    <published>2026-11-16T13:58:17Z</published>
-    <updated>2026-11-16T13:58:17Z</updated>
-    <summary>SAP beschikt volgens Spinelli over meer dan 200 gespecialiseerde AI-agents en wil dat aantal tegen het einde van 2026 uitbreiden tot 400. Ze ondersteunen ...</summary>
   </entry>
 </feed>

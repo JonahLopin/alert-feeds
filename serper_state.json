@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 49246,
+  "credits_used": 49292,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -85,7 +85,7 @@
   },
   "first_run": "2026-10-09T14:37:09Z",
   "last_error": "",
-  "last_run": "2026-11-19T16:42:53Z",
+  "last_run": "2026-11-19T17:42:40Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 954
+  "runs": 955
  },
  "feeds": {
   "adp-help": {
@@ -10458,6 +10458,15 @@
     "summary": "Anthropic PBC is relying more and more on Alphabet Inc.'s Google, Amazon.com Inc. and Microsoft Corp. to sell its artificial intelligence technology to ...",
     "title": "Anthropic IPO Filing Cites Reliance on Google, Amazon ..."
    },
+   "news.bloomberglaw.com/business-and-practice/anthropic-ipo-puts-public-benefit-structure-under-microscope": {
+    "baseline": false,
+    "date_hint": "5 hours ago",
+    "first_seen": "2026-11-19T17:42:40Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/anthropic-ipo-puts-public-benefit-structure-under-microscope",
+    "page": 1,
+    "summary": "Anthropic PBC's market debut is a coming-out moment for a corporate structure that's so far remained niche: the public benefit corporation, or PBC.",
+    "title": "Anthropic IPO Puts Public Benefit Structure Under Microscope"
+   },
    "news.bloomberglaw.com/business-and-practice/anthropic-ipos-moment-of-truth-nears-as-waiting-period-expires": {
     "baseline": false,
     "date_hint": "23 hours ago",
@@ -16740,6 +16749,15 @@
     "page": 1,
     "summary": "Politicians on both sides of the aisle criticized Defense Secretary Pete Hegseth for his plan to livestream the execution of a former Army major who killed ...",
     "title": "Plan to Broadcast Fort Hood Killer's Execution Spurs ..."
+   },
+   "news.bloomberglaw.com/business-and-practice/polaris-gets-california-minnesota-privacy-fines-over-opt-outs": {
+    "baseline": false,
+    "date_hint": "3 hours ago",
+    "first_seen": "2026-11-19T17:42:40Z",
+    "link": "https://news.bloomberglaw.com/business-and-practice/polaris-gets-california-minnesota-privacy-fines-over-opt-outs",
+    "page": 1,
+    "summary": "Polaris was said to have placed tracking technologies on its sites which collected information about users' browsing habits to target ads to them. Photographer: ...",
+    "title": "Polaris Gets California, Minnesota Privacy Fines Over Opt-Outs"
    },
    "news.bloomberglaw.com/business-and-practice/politico-reaches-deal-in-privacy-suit-over-google-data-sharing": {
     "baseline": false,
@@ -43604,6 +43622,15 @@
     "summary": "From Emergency Services to Global Supply Chains, SAP supports ANZ Organisations To Deliver Measurable Business Transformation.",
     "title": "From Emergency Services to Global Supply Chains, SAP supports ANZ ..."
    },
+   "news.sap.com/australia/press-room": {
+    "baseline": false,
+    "date_hint": "4 hours ago",
+    "first_seen": "2026-11-19T17:42:40Z",
+    "link": "https://news.sap.com/australia/press-room/",
+    "page": 1,
+    "summary": "SAP launches Supply Chain Centre of Excellence in ANZ \u00b7 TabPFN-3.5 Plus Now Available in SAP AI Core \u00b7 AI Success Goes to Those Who Build the Foundations, Not ...",
+    "title": "Press Room - SAP Australia & New Zealand News Center"
+   },
    "news.sap.com/belgie/2026/09/sap-en-nvidia-openshell-werken-samen-aan-governance-en-beveiliging-voor-controleerbare-ai-agents-in-bedrijfssystemen/computer-and-network-data-connection": {
     "baseline": false,
     "date_hint": "9 hours ago",
@@ -65850,6 +65877,15 @@
     "page": 1,
     "summary": "In the customer portal, you can let your customers pause their subscriptions for a duration you choose, and resume them automatically at the end of that ...",
     "title": "Let customers pause subscriptions in the customer portal"
+   },
+   "docs.stripe.com/data/access-data-in-warehouse": {
+    "baseline": false,
+    "date_hint": "18 hours ago",
+    "first_seen": "2026-11-19T17:42:40Z",
+    "link": "https://docs.stripe.com/data/access-data-in-warehouse",
+    "page": 1,
+    "summary": "Data Pipeline syncs Stripe data to Postgres, a data warehouse, or cloud storage without writing code. Use it to query API-resource data for your application",
+    "title": "How Data Pipeline works"
    },
    "docs.stripe.com/data/access-data-in-warehouse?locale=en-GB": {
     "baseline": false,

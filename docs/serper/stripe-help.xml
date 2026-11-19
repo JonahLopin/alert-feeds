@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-19T06:45:38Z</updated>
+  <updated>2026-11-19T17:42:40Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://docs.stripe.com/data/access-data-in-warehouse</id>
+    <title>How Data Pipeline works</title>
+    <link href="https://docs.stripe.com/data/access-data-in-warehouse" />
+    <published>2026-11-19T17:42:40Z</published>
+    <updated>2026-11-19T17:42:40Z</updated>
+    <summary>Data Pipeline syncs Stripe data to Postgres, a data warehouse, or cloud storage without writing code. Use it to query API-resource data for your application</summary>
+  </entry>
   <entry>
     <id>https://docs.stripe.com/billing/metronome-invoice-payment-reference</id>
     <title>Metronome invoice and payment reference</title>
@@ -795,13 +803,5 @@
     <published>2026-11-06T19:42:36Z</published>
     <updated>2026-11-06T19:42:36Z</updated>
     <summary>GoPay is a digital wallet payment method in Indonesia. When paying with GoPay, customers authenticate and approve payments using the GoPay or the Gojek app.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdAHEIkXX5l12XFemnZwTIDErgSP1u7Z2mKmsBpCc5ypsNVzaoD1J7DTQ3pMQhnYzVRWBqwzPEIUQ_058wBjPod2miVPWTwlS72XB6TVJJNjAIrUJXUwgMUiIwvQpzO7qpDDMtjRaDnD9g35O_FXq9lAvE7A0</id>
-    <title>Manage your stablecoin-backed card program</title>
-    <link href="https://www.google.com/goto?url=CAESdAHEIkXX5l12XFemnZwTIDErgSP1u7Z2mKmsBpCc5ypsNVzaoD1J7DTQ3pMQhnYzVRWBqwzPEIUQ_058wBjPod2miVPWTwlS72XB6TVJJNjAIrUJXUwgMUiIwvQpzO7qpDDMtjRaDnD9g35O_FXq9lAvE7A0" />
-    <published>2026-11-06T19:42:36Z</published>
-    <updated>2026-11-06T19:42:36Z</updated>
-    <summary>Manage your stablecoin-backed card program by providing cardholder support, generating monthly statements, and handling complaints. Use the Stripe and Bridge ...</summary>
   </entry>
 </feed>
