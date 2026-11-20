@@ -8860,6 +8860,12 @@
    "summary": "The ID of a previously collected PaymentMethod to use for confirmation. When this option is provided, Custom Checkout will ignore the payment method ...",
    "title": "Confirm the session - Stripe JS Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:1146964016917686488": {
+   "first_seen": "2026-11-20T11:06:32Z",
+   "link": "https://docs.stripe.com/api/tax/form-corrections",
+   "summary": "Corrections to filed tax forms. Was this section helpful?YesNo. Need ...",
+   "title": "Tax Form Corrections | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:11501438840455152343": {
    "first_seen": "2026-11-12T09:07:53Z",
    "link": "https://docs.stripe.com/api/v2/money-management/received-debit-mandates",
@@ -9831,6 +9837,12 @@
    "link": "https://docs.stripe.com/api/subscription_items?api-version=2026-08-26.preview",
    "summary": "Subscription items allow you to create customer subscriptions with more than one plan, making it easy to represent complex billing relationships.",
    "title": "Subscription Items | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:9927258246175795157": {
+   "first_seen": "2026-11-20T11:06:32Z",
+   "link": "https://docs.stripe.com/api/v2/core/claimable-sandboxes",
+   "summary": "A claimable sandbox is a Stripe sandbox that a user can claim into a new or existing Stripe account through an onboarding link. You can prefill it ...",
+   "title": "Claimable Sandboxes | Stripe API Reference"
   }
  },
  "taxcloud-blog": {

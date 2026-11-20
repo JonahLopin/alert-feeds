@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-19T21:06:00Z</updated>
+  <updated>2026-11-20T11:06:32Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:9927258246175795157</id>
+    <title>Claimable Sandboxes | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/core/claimable-sandboxes" />
+    <published>2026-11-20T11:06:32Z</published>
+    <updated>2026-11-20T11:06:32Z</updated>
+    <summary>A claimable sandbox is a Stripe sandbox that a user can claim into a new or existing Stripe account through an onboarding link. You can prefill it ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:1146964016917686488</id>
+    <title>Tax Form Corrections | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/tax/form-corrections" />
+    <published>2026-11-20T11:06:32Z</published>
+    <updated>2026-11-20T11:06:32Z</updated>
+    <summary>Corrections to filed tax forms. Was this section helpful?YesNo. Need ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:13567293934307759911</id>
     <title>Download financial account statements - Stripe Documentation</title>
@@ -787,21 +803,5 @@
     <published>2026-10-29T19:42:55Z</published>
     <updated>2026-10-29T19:42:55Z</updated>
     <summary>Enable outbound identity federation and configure an IAM role with the AWS Management Console, the AWS CLI, or Terraform, create a matching ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:7966775261228888181</id>
-    <title>Connect cross-border payouts | Stripe Documentation</title>
-    <link href="https://docs.stripe.com/connect/connect-cross-border-payouts" />
-    <published>2026-10-28T04:42:53Z</published>
-    <updated>2026-10-28T04:42:53Z</updated>
-    <summary>Use cross-border payouts to transfer funds to connected accounts in their local currencies when your platform and connected accounts are in ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:27652468315077744</id>
-    <title>Create a PaymentMethod from an Issuing card - Stripe Documentation</title>
-    <link href="https://docs.stripe.com/issuing/cards/create-payment-method" />
-    <published>2026-10-27T22:42:43Z</published>
-    <updated>2026-10-27T22:42:43Z</updated>
-    <summary>If you use Stripe Issuing, you can create a card PaymentMethod from an Issuing card in the same Stripe account without retrieving the card number or ...</summary>
   </entry>
 </feed>
