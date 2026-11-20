@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-20T11:06:32Z</updated>
+  <updated>2026-11-20T15:06:50Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8912534622722914632</id>
+    <title>Save a customer's payment method when they use it for a - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/advanced/save-during-payment?payment-ui=elements" />
+    <published>2026-11-20T15:06:50Z</published>
+    <updated>2026-11-20T15:06:50Z</updated>
+    <summary>You can specify setup_future_usage on a PaymentIntent or Checkout Session to override the default behavior for saving payment methods. This ensures ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:9927258246175795157</id>
     <title>Claimable Sandboxes | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-10-29T19:42:55Z</published>
     <updated>2026-10-29T19:42:55Z</updated>
     <summary>Global Payouts: Send payouts directly from your platform's financial account to recipients' external bank accounts, debit cards, or crypto wallets.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:11910439289380234198</id>
-    <title>Workload Identity Federation with AWS | Stripe Documentation</title>
-    <link href="https://docs.stripe.com/workload-identity-federation/aws" />
-    <published>2026-10-29T19:42:55Z</published>
-    <updated>2026-10-29T19:42:55Z</updated>
-    <summary>Enable outbound identity federation and configure an IAM role with the AWS Management Console, the AWS CLI, or Terraform, create a matching ...</summary>
   </entry>
 </feed>

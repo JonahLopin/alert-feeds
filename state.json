@@ -9784,6 +9784,12 @@
    "summary": "Stripe, with our financial partner, uses a combination of factors, including overall processing volume and history on Stripe to determine eligibility ...",
    "title": "How Stripe Capital works"
   },
+  "tag:google.com,2013:googlealerts/feed:8912534622722914632": {
+   "first_seen": "2026-11-20T15:06:50Z",
+   "link": "https://docs.stripe.com/payments/advanced/save-during-payment?payment-ui=elements",
+   "summary": "You can specify setup_future_usage on a PaymentIntent or Checkout Session to override the default behavior for saving payment methods. This ensures ...",
+   "title": "Save a customer's payment method when they use it for a - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:9047186606943768044": {
    "first_seen": "2026-11-12T09:07:53Z",
    "link": "https://docs.stripe.com/api/v2/billing/rate-card-custom-unit-overage-rates",
