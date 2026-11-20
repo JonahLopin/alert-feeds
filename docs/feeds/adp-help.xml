@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:adp-help</id>
   <title>ADP help (site:adp.com/about-adp/data-security/alerts/)</title>
-  <updated>2026-10-23T09:34:10Z</updated>
+  <updated>2026-11-20T04:44:40Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/adp-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:9010347098673763189</id>
+    <title>Java4Shell vulnerability - ADP</title>
+    <link href="https://www.adp.com/about-adp/data-security/alerts/java4shell-vulnerability" />
+    <published>2026-11-20T04:44:40Z</published>
+    <updated>2026-11-20T04:44:40Z</updated>
+    <summary>ADP is aware of recent reports regarding Java4Shell, a vulnerability in the Java programming language. Upon receiving reports regarding this ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:9300742343806107616</id>
     <title>PHP vulnerability - ADP</title>
