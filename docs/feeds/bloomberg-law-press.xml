@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-20T22:06:05Z</updated>
+  <updated>2026-11-20T23:05:58Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:7430084335354038589</id>
+    <title>DOJ Tells Staff to Stop Citing American Bar Association Rules - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/doj-tells-staff-to-stop-citing-american-bar-association-rules" />
+    <published>2026-11-20T23:05:58Z</published>
+    <updated>2026-11-20T23:05:58Z</updated>
+    <summary>A top Justice Department official has advised employees against citing American Bar Association materials, the latest front in the Trump ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:5801139645985782969</id>
     <title>Kornit's $19.5 Million Investor Accord Gets Final Court Assent - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-11-18T20:07:14Z</published>
     <updated>2026-11-18T20:07:14Z</updated>
     <summary>Zach Pekelis rejoined Ashurst Perkins Coie as a partner in its complex litigation practice in Seattle, the firm announced Wednesday.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:12773730778836159500</id>
-    <title>Solar for All Funding Decision Gets Appealed to First Circuit - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/solar-for-all-funding-decision-gets-appealed-to-first-circuit" />
-    <published>2026-11-18T20:07:14Z</published>
-    <updated>2026-11-18T20:07:14Z</updated>
-    <summary>The EPA is appealing a September ruling that found it unlawfully axed a $7 billion solar energy grant program.</summary>
   </entry>
 </feed>
