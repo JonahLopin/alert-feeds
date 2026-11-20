@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:square-help</id>
   <title>Square help (site:squareup.com/help/us/en/article/)</title>
-  <updated>2026-11-14T02:09:13Z</updated>
+  <updated>2026-11-20T19:23:59Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/square-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8263688139977341647</id>
+    <title>Route modifiers to Square KDS and kitchen printers</title>
+    <link href="https://squareup.com/help/us/en/article/8720" />
+    <published>2026-11-20T19:23:59Z</published>
+    <updated>2026-11-20T19:23:59Z</updated>
+    <summary>Routing by modifier lets you send order items to a Square KDS screen or kitchen printer based on the modifiers ordered with th.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:6754512894401889578</id>
     <title>Integrate Rippling With Square | Square Support Center - United States</title>
