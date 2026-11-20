@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com) via Serper</title>
-  <updated>2026-11-20T01:43:48Z</updated>
+  <updated>2026-11-20T05:43:02Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/spoton-help.xml" />
+  <entry>
+    <id>https://help.spoton.com/space/SK/2659287469/How+to+Add+or+Customize+Taxes+on+Menu+Items+%7C+SpotOn+Restaurant</id>
+    <title>How to Add or Customize Taxes on Menu Items</title>
+    <link href="https://help.spoton.com/space/SK/2659287469/How+to+Add+or+Customize+Taxes+on+Menu+Items+%7C+SpotOn+Restaurant" />
+    <published>2026-11-20T05:43:02Z</published>
+    <updated>2026-11-20T05:43:02Z</updated>
+    <summary>To configure a menu item so that tax is not charged, assign the item a tax configured with a 0% tax rate. Do not leave the item's Taxes section empty.</summary>
+  </entry>
   <entry>
     <id>https://help.spoton.com/space/SK/5631180809/Sam%3A+Your+Conversational+AI+Assistant+%7C+SpotOn+Dashboard</id>
     <title>Sam: Your Conversational AI Assistant | SpotOn Dashboard</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T06:43:16Z</published>
     <updated>2026-10-31T06:43:16Z</updated>
     <summary>Overview. Order Types determine how orders are processed within SpotOn Restaurant (RPOS). They can be configured with unique pricing, customer requirements, ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHrOzAVL7dbXWWsWjTfraqwM-EXCvAfj5tOGPeOTgrzrSZE4BAy_inEgDbsQLnDnwQUWtRVTpMy1TQ6_nC0dpKljkwHzp0cugVNGGySnflEH8DpGmjq1oadi5Nuwd8Gn-Y5jImPeg</id>
-    <title>Tip Adjustments | SpotOn Express</title>
-    <link href="https://www.google.com/goto?url=CAESZgHrOzAVL7dbXWWsWjTfraqwM-EXCvAfj5tOGPeOTgrzrSZE4BAy_inEgDbsQLnDnwQUWtRVTpMy1TQ6_nC0dpKljkwHzp0cugVNGGySnflEH8DpGmjq1oadi5Nuwd8Gn-Y5jImPeg" />
-    <published>2026-10-31T06:43:16Z</published>
-    <updated>2026-10-31T06:43:16Z</updated>
-    <summary>Adjust tips after payment for paid orders in receipt-based tipping workflows. You can adjust the tip within 10 minutes of the initial change. SpotOn Customer ...</summary>
   </entry>
 </feed>
