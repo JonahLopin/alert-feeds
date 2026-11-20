@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-20T00:41:32Z</updated>
+  <updated>2026-11-20T01:43:48Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://www.google.com/goto?url=CAESwQEBxCJF1-I1iJWzOD31L-wzBdXXUVQcXLngH51d8PXClzI_sdPXz42lRR0yGWjjCLV_cQFYK27ErkD_EEjT-MGDzjnH9xnwtjNn64GTxDMdGIQEyLwsUbvVFP3U1JS0jbxlCGb7dSZxOPBEsDgq1SClA1SbSnH5AFjE4VwyoECAi8RiAFNW0Nil0cEYfXapESb4MnpFiyFTI91OPzVn2c5--kc5DobTIk1A60sy5fD3ona2jhhnbO7aBYjm25ZJFGuA&amp;gsessionid=UH4fcHWvEyk5HFE07-obst9kNVXQkejQss1Ymieb1dbCaoIfssuD6g</id>
+    <title>Exemptions in Tax Determination are now managed in ...</title>
+    <link href="https://www.google.com/goto?url=CAESwQEBxCJF1-I1iJWzOD31L-wzBdXXUVQcXLngH51d8PXClzI_sdPXz42lRR0yGWjjCLV_cQFYK27ErkD_EEjT-MGDzjnH9xnwtjNn64GTxDMdGIQEyLwsUbvVFP3U1JS0jbxlCGb7dSZxOPBEsDgq1SClA1SbSnH5AFjE4VwyoECAi8RiAFNW0Nil0cEYfXapESb4MnpFiyFTI91OPzVn2c5--kc5DobTIk1A60sy5fD3ona2jhhnbO7aBYjm25ZJFGuA&amp;gsessionid=UH4fcHWvEyk5HFE07-obst9kNVXQkejQss1Ymieb1dbCaoIfssuD6g" />
+    <published>2026-11-20T01:43:48Z</published>
+    <updated>2026-11-20T01:43:48Z</updated>
+    <summary>You can manage your exemptions entirely in CertManager. When you save a complete exemption, CertManager sends it to Tax Determination automatically.</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESxQEBxCJF13mzXN4RFF8akk5emG4wio-3yzNJ4Vz1lLVwsuYHpyOqp7FotUvrsbEuzLL84pLHA5MOliNNiilrbBe1PzMlqo-CLh0iBPx89lpNy7Aw_vDmsAvuegA4oXLelZIykPPHofoT-gYhsab5JzX5DtHl9EuItQ50b6cgCHa61tlI4tXYyVLsTQYWZKrVdfu-poA0mTm6FRM54Ydj9VK8-AtE1fmgtyi72G-CZ1erBw82Brr-oN2GQq9TuB897VO5UbOLHw&amp;gsessionid=2_cNoszgkCn8sR9CIa2yCYSaWTPOi45A1jXheTKl8KrN2IMEiShrGQ</id>
     <title>Fix XML schema validation errors - Sovos Docs</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T11:42:59Z</published>
     <updated>2026-10-30T11:42:59Z</updated>
     <summary>Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESxAEB6zswFbfoYy-Be58b_1rVpdPaMBfs_Yc4TiJL-9-fNRWXJsHWO238Wn712Ra1jYdsZuAUyY_mNKkpQ3RdbbH4b7e-evhILNWq14y20Ie1E9c0m-gW56griqf8MYSSa_nVLnU-6LUtjbT7wZxO06M37W5yEevd0RuZ04TFjA56IRCBdzl0dMFf5vgFm3hlig_nNfQwEf9Aub33EKBP0mVUCz7fJ7Dho8J5vVoXD_O7OTUP3quhIefzgdFbqoTFdR30e_tB</id>
-    <title>Check the status of IRS transmittals - Sovos Docs</title>
-    <link href="https://www.google.com/goto?url=CAESxAEB6zswFbfoYy-Be58b_1rVpdPaMBfs_Yc4TiJL-9-fNRWXJsHWO238Wn712Ra1jYdsZuAUyY_mNKkpQ3RdbbH4b7e-evhILNWq14y20Ie1E9c0m-gW56griqf8MYSSa_nVLnU-6LUtjbT7wZxO06M37W5yEevd0RuZ04TFjA56IRCBdzl0dMFf5vgFm3hlig_nNfQwEf9Aub33EKBP0mVUCz7fJ7Dho8J5vVoXD_O7OTUP3quhIefzgdFbqoTFdR30e_tB" />
-    <published>2026-10-30T10:42:48Z</published>
-    <updated>2026-10-30T10:42:48Z</updated>
-    <summary>View whether your transmittals were accepted or need action directly in Sovos's Tax Information Reporting software.</summary>
   </entry>
 </feed>
