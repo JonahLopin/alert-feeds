@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com)</title>
-  <updated>2026-11-20T19:05:44Z</updated>
+  <updated>2026-11-21T17:23:02Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sap-financial-management-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8286737002004264997</id>
+    <title>Successful entrepreneur standing in his company, using digital tablet - SAP Japan プレスルーム</title>
+    <link href="https://news.sap.com/japan/2026/11/1117_sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/successful-entrepreneur-standing-in-his-company-using-digital-tablet-2/" />
+    <published>2026-11-21T17:23:02Z</published>
+    <updated>2026-11-21T17:23:02Z</updated>
+    <summary>Successful entrepreneur standing in his company, using digital tablet ... You may choose to consent to our use of these technologies, or manage your own ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:7796672972749306081</id>
     <title>Why Enterprise Architecture Is Becoming Key to Successful AI - SAP News</title>
@@ -786,13 +794,5 @@
     <published>2026-10-16T17:45:56Z</published>
     <updated>2026-10-16T17:45:56Z</updated>
     <summary>AI, connected processes, and SAP Sovereign Cloud can transform public administration. Get practical examples from S.Public in Berlin.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:12598276883326289544</id>
-    <title>Bloody agents - SAP Africa News Center</title>
-    <link href="https://news.sap.com/africa/2026/10/bloody-agents/" />
-    <published>2026-10-16T17:45:56Z</published>
-    <updated>2026-10-16T17:45:56Z</updated>
-    <summary>Deploying agents turns out to be the easy part. Proving what they are worth is where projects are coming undone.</summary>
   </entry>
 </feed>
