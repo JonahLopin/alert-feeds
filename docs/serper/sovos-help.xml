@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-21T19:43:10Z</updated>
+  <updated>2026-11-21T20:42:41Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://www.google.com/goto?url=CAESsgEBxCJF15wvgAK0ta4aeR9Xqp6-AN90lbfI0G73iVxj5RkFib2lGfKp5TpiOyQCcv_v8YFbGMTvsQMd32_yF3TaoGN-wZzMRjgFIvJp43LGfg1rYlFCmqjMeg1CZ7oX6n8oX5zd_TD-OicghNr5ntb4PuGPB8Jhxn16K3qe4Pg-yKlGA7OUComajDc8AshLYrm_vca7_9e7aRw1TW666kSQiKo4xnnZE31gkAlQffQn9Ri4&amp;gsessionid=TrYDiW561nbeF1JaCS2wytelns9FVRhb4dysxx1hNsFSxMD13N0UWg</id>
+    <title>About the new IRIS filing system - Sovos Docs</title>
+    <link href="https://www.google.com/goto?url=CAESsgEBxCJF15wvgAK0ta4aeR9Xqp6-AN90lbfI0G73iVxj5RkFib2lGfKp5TpiOyQCcv_v8YFbGMTvsQMd32_yF3TaoGN-wZzMRjgFIvJp43LGfg1rYlFCmqjMeg1CZ7oX6n8oX5zd_TD-OicghNr5ntb4PuGPB8Jhxn16K3qe4Pg-yKlGA7OUComajDc8AshLYrm_vca7_9e7aRw1TW666kSQiKo4xnnZE31gkAlQffQn9Ri4&amp;gsessionid=TrYDiW561nbeF1JaCS2wytelns9FVRhb4dysxx1hNsFSxMD13N0UWg" />
+    <published>2026-11-21T20:42:41Z</published>
+    <updated>2026-11-21T20:42:41Z</updated>
+    <summary>Learn about the IRS's new IRIS filing system and how it's different from the old FIRE system.</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESsgEBxCJF10M0j1Wn6gLESEJgE-sa6EggTwYtqEtA-sD2daJZ_zR0MhWeJk2XW_kFMI3Kej76BMjjRgLALH71mqvIcCF7jlx0E8a2dC-bU3DVYZpKfEdDYah7g-b_pG4wRsSOeUlIwsGCgHzE8sNjDBLFD3j2bfLnluwFd0HmGxIgSSkmJ8SuneHXk5nCWw3dQM7Pt1Qu23UO5u-RpV2nKyECoCmLbrjvCeHurJsjE73mijSS&amp;gsessionid=nS1dFZ_1eyqw1NGDJfr10wydCNnhM9wDLlPetc0LbfWDXyPtCh-ZfA</id>
     <title>About the new IRIS filing system - Sovos Docs</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T23:42:38Z</published>
     <updated>2026-10-30T23:42:38Z</updated>
     <summary>Usually caused by file formatting issues, such as special characters in records. Review the error details from step 3, fix the records, then regenerate and ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESwwEB6zswFeNZ9hqg_EHgv3VPgK6g1hWbQ-yQwGDNNnmd1IO4uDmZ2GeUEQLD-7_LEgSMNOLcxDrxyQ7o7ZAuaPRqMACdZtZltWmtSu5-rFNuIymjPJLk4H0nabsJZ-Ncbq5XsxoggqQuSvdBQcG6Q84maRKC7nrjSXlhxz39BLWySS48yVNe9kxGleH7A40J_y2kqfrPWC1f8Nkx0d57f377PdnTvguFYRMwHiCr5FQa52ZtPC30QXICGg2KTWJVBUz0CAk</id>
-    <title>Fix XML schema validation errors - Sovos Docs</title>
-    <link href="https://www.google.com/goto?url=CAESwwEB6zswFeNZ9hqg_EHgv3VPgK6g1hWbQ-yQwGDNNnmd1IO4uDmZ2GeUEQLD-7_LEgSMNOLcxDrxyQ7o7ZAuaPRqMACdZtZltWmtSu5-rFNuIymjPJLk4H0nabsJZ-Ncbq5XsxoggqQuSvdBQcG6Q84maRKC7nrjSXlhxz39BLWySS48yVNe9kxGleH7A40J_y2kqfrPWC1f8Nkx0d57f377PdnTvguFYRMwHiCr5FQa52ZtPC30QXICGg2KTWJVBUz0CAk" />
-    <published>2026-10-30T23:42:38Z</published>
-    <updated>2026-10-30T23:42:38Z</updated>
-    <summary>Open the XML file in a text editor, such as Notepad, Notepad++, or VS Code, and use the line number from the error messages to find the records with errors.</summary>
   </entry>
 </feed>
