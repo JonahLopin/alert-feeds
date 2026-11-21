@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-20T15:06:50Z</updated>
+  <updated>2026-11-21T16:06:46Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:5549223231104398598</id>
+    <title>Available payment methods change event - Stripe JS Reference</title>
+    <link href="https://docs.stripe.com/js/custom_checkout/element_events/on_availablepaymentmethodschange?type=payment" />
+    <published>2026-11-21T16:06:46Z</published>
+    <updated>2026-11-21T16:06:46Z</updated>
+    <summary>Triggered when the set of available payment methods changes. Also fires on initial render. Supported by paymentElement and expressCheckoutElement .</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8912534622722914632</id>
     <title>Save a customer's payment method when they use it for a - Stripe Documentation</title>
@@ -795,13 +803,5 @@
     <published>2026-10-29T19:42:55Z</published>
     <updated>2026-10-29T19:42:55Z</updated>
     <summary>Use the subscriptions Tax integration configuration default for subscription schedules and inspect tax enablement for each phase.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:12067086366711148850</id>
-    <title>Understand differences between Global Payouts and Connect cross-border</title>
-    <link href="https://docs.stripe.com/connect/cross-border-payouts-to-recipients/compare-global-payouts" />
-    <published>2026-10-29T19:42:55Z</published>
-    <updated>2026-10-29T19:42:55Z</updated>
-    <summary>Global Payouts: Send payouts directly from your platform's financial account to recipients' external bank accounts, debit cards, or crypto wallets.</summary>
   </entry>
 </feed>
