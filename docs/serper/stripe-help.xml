@@ -2,8 +2,240 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com) via Serper</title>
-  <updated>2026-11-21T15:42:38Z</updated>
+  <updated>2026-11-21T16:42:40Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/stripe-help.xml" />
+  <entry>
+    <id>https://www.google.com/goto?url=CAESpAEBxCJF16qNUk7eiyDemRRivUs3THdovBdWKBfuynAgRODbCufOu4rTiRGC2PPAHf2n2aX6v5B9grqScW3ZKmqofCyKcn8Z0u_1tc9J0-WfmHVmgYN0kvrJzjR2vLGl8ax8DWJHMDyt3m3XLpUOFe4adBeMuD4BFiNoHLlk-CDjE224IkjO1xRqITuoNas4dvZK-eDPDwVQE-K2215HiHiWPjcQXw&amp;gsessionid=BdgyvN16V9ZJXQgVuWm-rA4o-AEiBLgGtH_xqeLe-X3gCBKykMGklQ</id>
+    <title>Available payment methods change event</title>
+    <link href="https://www.google.com/goto?url=CAESpAEBxCJF16qNUk7eiyDemRRivUs3THdovBdWKBfuynAgRODbCufOu4rTiRGC2PPAHf2n2aX6v5B9grqScW3ZKmqofCyKcn8Z0u_1tc9J0-WfmHVmgYN0kvrJzjR2vLGl8ax8DWJHMDyt3m3XLpUOFe4adBeMuD4BFiNoHLlk-CDjE224IkjO1xRqITuoNas4dvZK-eDPDwVQE-K2215HiHiWPjcQXw&amp;gsessionid=BdgyvN16V9ZJXQgVuWm-rA4o-AEiBLgGtH_xqeLe-X3gCBKykMGklQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Triggered when the set of available payment methods changes. Also fires on initial render. Supported by paymentElement and expressCheckoutElement . Method ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESkQEBxCJF12wwR8WVTXO_TGpl8rEoLofrHn7XlOQlrE_IETeGBPiaQnFO3Z_peK2P0P9--Ii4OGWucUyQrC8XKOfAzPQ01YC_DcVHlZ_wuQKcNq5KHdoOXqs_4MJdf6wDGuLXKfz64CqPg5Rtcy8Z4IgsafP6gGFDyC4rXZRPpvV9g2kNRmHyTIX7AYp5-7Huri1J&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ</id>
+    <title>顧客の決済手段を保存・取得する</title>
+    <link href="https://www.google.com/goto?url=CAESkQEBxCJF12wwR8WVTXO_TGpl8rEoLofrHn7XlOQlrE_IETeGBPiaQnFO3Z_peK2P0P9--Ii4OGWucUyQrC8XKOfAzPQ01YC_DcVHlZ_wuQKcNq5KHdoOXqs_4MJdf6wDGuLXKfz64CqPg5Rtcy8Z4IgsafP6gGFDyC4rXZRPpvV9g2kNRmHyTIX7AYp5-7Huri1J&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Payment Element と Checkout Sessions API を組み合わせると、次回以降に使えるよう顧客の決済手段を保存できます。次の操作が可能です。</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESjwEBxCJF12TUlIb3h0EcTtGlT1Gp1DuuCV6vOLrQc_yPAtMvU3KmxBXI-lB16UHpst_JiLV5bYqNf_rHQnUj5-T-2EVD2OK9GKO4L85tqCXB64Rr2vKw9Ud4h9C0Fk0JUrOpOaJrxLG7Or5NMz0WxywKsHi8bOkwLKRvpQeWueBN8cOZgDhA-iskdTQC5WW84A&amp;gsessionid=BdgyvN16V9ZJXQgVuWm-rA4o-AEiBLgGtH_xqeLe-X3gCBKykMGklQ</id>
+    <title>The Tax Calculation object | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESjwEBxCJF12TUlIb3h0EcTtGlT1Gp1DuuCV6vOLrQc_yPAtMvU3KmxBXI-lB16UHpst_JiLV5bYqNf_rHQnUj5-T-2EVD2OK9GKO4L85tqCXB64Rr2vKw9Ud4h9C0Fk0JUrOpOaJrxLG7Or5NMz0WxywKsHi8bOkwLKRvpQeWueBN8cOZgDhA-iskdTQC5WW84A&amp;gsessionid=BdgyvN16V9ZJXQgVuWm-rA4o-AEiBLgGtH_xqeLe-X3gCBKykMGklQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Unique identifier for the calculation. objectstring, value is "tax.calculation".</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESjQEBxCJF1_Ao8ZA0QSjV1o4OqQa7aXMqlrTzKshXLs6xQuleKB5WhRz07vS6rrQ559m8NoKKk68Ww1jrl0y8bBnslGG8pSDV2RG2HGpYY8Ol1dtpQRMvnnSx9hwjSDb-Xr2_uIX1mmWHTDgBDObW73c8Opj3zU7b63cgwozuqzXc24cdyT9awDUXHyqA5nI&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg</id>
+    <title>Metronome invoice and payment reference</title>
+    <link href="https://www.google.com/goto?url=CAESjQEBxCJF1_Ao8ZA0QSjV1o4OqQa7aXMqlrTzKshXLs6xQuleKB5WhRz07vS6rrQ559m8NoKKk68Ww1jrl0y8bBnslGG8pSDV2RG2HGpYY8Ol1dtpQRMvnnSx9hwjSDb-Xr2_uIX1mmWHTDgBDObW73c8Opj3zU7b63cgwozuqzXc24cdyT9awDUXHyqA5nI&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>このページはまだ日本語ではご利用いただけません。より多くの言語で文書が閲覧できるように現在取り組んでいます。準備が整い次第、翻訳版を提供いたしますので、 ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAEShwEBxCJF1-6l7w_xacgs_gY9AQuZiOyvsKHhogp3cka_RNApYGbvI4d4-NVxyJhmlBNdAiPfFCu8himJoe_cZypVhJw5RT2y2hRRWhq27GhZb-y82bK46GQUXdh6sJ2JauSWZChX-DcpYTl-q1Cs9g5gJef8ixkp9YQxgK4dE1FUNvEaI0xPL3s&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg</id>
+    <title>Save payment details during payment</title>
+    <link href="https://www.google.com/goto?url=CAEShwEBxCJF1-6l7w_xacgs_gY9AQuZiOyvsKHhogp3cka_RNApYGbvI4d4-NVxyJhmlBNdAiPfFCu8himJoe_cZypVhJw5RT2y2hRRWhq27GhZb-y82bK46GQUXdh6sJ2JauSWZChX-DcpYTl-q1Cs9g5gJef8ixkp9YQxgK4dE1FUNvEaI0xPL3s&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Learn how to accept a payment and save your customer's payment details for future purchases.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESgAEBxCJF1_p0veApLPOi5KhSD-BB9jY8FgpAWSQLlhrtLmCz78wksufKoXmFL1a_udh152mN4H28KyCg-WKJztXlsyrfJ9Q7Z9Dg1JS2-n1swShkBvUK8dSXeIKS1k7tckLSPiOsJkTc8AiIb-kNyi6Zd1rbWEuth4tyjJMMQWO7Cg&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ</id>
+    <title>Simulate presenting a payment method</title>
+    <link href="https://www.google.com/goto?url=CAESgAEBxCJF1_p0veApLPOi5KhSD-BB9jY8FgpAWSQLlhrtLmCz78wksufKoXmFL1a_udh152mN4H28KyCg-WKJztXlsyrfJ9Q7Z9Dg1JS2-n1swShkBvUK8dSXeIKS1k7tckLSPiOsJkTc8AiIb-kNyi6Zd1rbWEuth4tyjJMMQWO7Cg&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Presents a payment method on a simulated reader. Can be used to simulate accepting a payment, saving a card or refunding a transaction. Parameters. idstring ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESgAEBxCJF19X1yj9JHy_xXhMVbne5xdlAjrgh_7by2SF0aHyS2zvNHr2vHNc55_G7jvptrZhybiuEUfFUJHXS8gt82WrPV0BTOcI5s6a9tVEvXCLPAbHRMNNjVibX1vwjtgbXzHRaC-WxXwb404gMEfjhcjYXi_DjdDc-8Drh4nRCtQ&amp;gsessionid=24idf0Uj9Ime5HWuhT0jy5T9D3hZ3mTiVzbdY78CszjRF8038eSlYQ</id>
+    <title>Metronome invoice and payment reference</title>
+    <link href="https://www.google.com/goto?url=CAESgAEBxCJF19X1yj9JHy_xXhMVbne5xdlAjrgh_7by2SF0aHyS2zvNHr2vHNc55_G7jvptrZhybiuEUfFUJHXS8gt82WrPV0BTOcI5s6a9tVEvXCLPAbHRMNNjVibX1vwjtgbXzHRaC-WxXwb404gMEfjhcjYXi_DjdDc-8Drh4nRCtQ&amp;gsessionid=24idf0Uj9Ime5HWuhT0jy5T9D3hZ3mTiVzbdY78CszjRF8038eSlYQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Review the invoice lifecycle, invoice attributes, payment collection, and post-invoice operations for Metronome invoices in Stripe.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESfwHEIkXXzl1QazkajUH6N2RPU7zbzm4h05xzU4UgTNaV6WioQChnvMw6KcjJ9PuZeTKnUnmLkZMX8kiyGsUAqNOJ7BgJpqJ5QoZpLPvJVi-vzkkHnuRFVT7zBMsvNApxaid5_BAQAUu22JpGBrogIz8LL0V6LePL5FYikntiPCg&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ</id>
+    <title>How Data Pipeline works</title>
+    <link href="https://www.google.com/goto?url=CAESfwHEIkXXzl1QazkajUH6N2RPU7zbzm4h05xzU4UgTNaV6WioQChnvMw6KcjJ9PuZeTKnUnmLkZMX8kiyGsUAqNOJ7BgJpqJ5QoZpLPvJVi-vzkkHnuRFVT7zBMsvNApxaid5_BAQAUu22JpGBrogIz8LL0V6LePL5FYikntiPCg&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Learn what you can do with Data Pipeline. · Automatically export your complete Stripe data in a fast and reliable manner. · Stop relying on third-party extract, ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESfgHEIkXX3kJ8W6AtjoHFIbu5IbQ9VUJBNfDlehpiA21GksqyRYrTuNo8em8RhWnc7kcQH3AsaYpSQ0WhQqNAtKQa3Ht5wuOtKcC9k9bj6SiIkMPKTSErcbsYajAo40b3loHBTbx1Fun0uWG9BWBEhxoeeIR27H9CHz8fWWWvrQ&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ</id>
+    <title>Redact a VerificationSession | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESfgHEIkXX3kJ8W6AtjoHFIbu5IbQ9VUJBNfDlehpiA21GksqyRYrTuNo8em8RhWnc7kcQH3AsaYpSQ0WhQqNAtKQa3Ht5wuOtKcC9k9bj6SiIkMPKTSErcbsYajAo40b3loHBTbx1Fun0uWG9BWBEhxoeeIR27H9CHz8fWWWvrQ&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Returns ... Need help? Contact Support. Chat with Stripe developers on Discord. Check out our changelog. Questions? Contact Sales. LLM? Read llms.txt.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESewHEIkXXcixMR9A9CvgJRQslIgWoEE7HYTvGKPQyo-hj5HqBodOweNoZkOBKZeSuYvN0oObUzSgR0NLLuQgPgEFzKDBPmtVXbuFnqDsAFuGbOVfRCBJyMW-tz6qMaFuO3w1pQo93nK4G55kV4hr9wB3YoQXkDFN1VBDJFA&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg</id>
+    <title>Stripe-hosted onboarding</title>
+    <link href="https://www.google.com/goto?url=CAESewHEIkXXcixMR9A9CvgJRQslIgWoEE7HYTvGKPQyo-hj5HqBodOweNoZkOBKZeSuYvN0oObUzSgR0NLLuQgPgEFzKDBPmtVXbuFnqDsAFuGbOVfRCBJyMW-tz6qMaFuO3w1pQo93nK4G55kV4hr9wB3YoQXkDFN1VBDJFA&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Onboard connected accounts by redirecting them to a Stripe-hosted onboarding flow.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESeAHEIkXXmPcIPGyTb5TeoDP0Ezm338oFzChNCY10QEdqwmREwTObFxjfrfFe6mFlTrMHdj1ZFN9WVJRutrw78vnuDTObcPrIWY-LSOqtIk3ZNWL8rByI11Z-1VBmGThKSd_kDEjaCZ8563GIl0iR7FH9kK4jwfaLoQ&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg</id>
+    <title>Send payouts to Apple Pay</title>
+    <link href="https://www.google.com/goto?url=CAESeAHEIkXXmPcIPGyTb5TeoDP0Ezm338oFzChNCY10QEdqwmREwTObFxjfrfFe6mFlTrMHdj1ZFN9WVJRutrw78vnuDTObcPrIWY-LSOqtIk3ZNWL8rByI11Z-1VBmGThKSd_kDEjaCZ8563GIl0iR7FH9kK4jwfaLoQ&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>After the Apple Pay payout method exists, send payouts to it the same way you send payouts to any other payout method: set to.payout_method on your PayoutIntent ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESdgHEIkXXs5l6ejEiEcg6GDbnjjJiAhnR2N234oHQ3zX0hAO67QaK3cGZ50lDFhV52EopguMklg7V8cLqa-5lmow2D2kqC3TLBuAIJsxZkGVQqg82zRpEi1GZO8fkA6THTn5d0H9aG4RCzsGb8ZGrWLQxItuLQZM&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg</id>
+    <title>Delete a card | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESdgHEIkXXs5l6ejEiEcg6GDbnjjJiAhnR2N234oHQ3zX0hAO67QaK3cGZ50lDFhV52EopguMklg7V8cLqa-5lmow2D2kqC3TLBuAIJsxZkGVQqg82zRpEi1GZO8fkA6THTn5d0H9aG4RCzsGb8ZGrWLQxItuLQZM&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>You can delete cards from a connected account where controller.requirement_collection is application (includes Custom accounts).</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESdQHEIkXXec1Eq4lFs16vCLLU5pnbUDI5Yi9mQoFWGGtyaR02C9PVjF0rvWbURqm_1HFC0qYrijinyE_ryLZFGWApV9pfPV7_AYGwSn0njWY7Daxjlz6GjYeznnLU4ZILkSDVsWOgsmKipAdQWj9X3l-HcjQ9jw&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ</id>
+    <title>Create a redaction job | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESdQHEIkXXec1Eq4lFs16vCLLU5pnbUDI5Yi9mQoFWGGtyaR02C9PVjF0rvWbURqm_1HFC0qYrijinyE_ryLZFGWApV9pfPV7_AYGwSn0njWY7Daxjlz6GjYeznnLU4ZILkSDVsWOgsmKipAdQWj9X3l-HcjQ9jw&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Creates a redaction job. When a job is created, it will start to validate. Parameters. objectsobjectRequired. The objects to redact. These root objects and ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESdAHEIkXXKutlsiFolwUd9E-gbIcrlRb-kNSWCotYoFLtoTty_7HvIuSHUPgntPUsuX0UVyYpZa5tnDiu27q6gje0qupblFb_XiLNPJg_VqTNZiJCIoPLXVyctUZ9qt5j4BVf6RNbRpl_B1KY6_3zv1D-Mq8a&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ</id>
+    <title>Claimable Sandboxes | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESdAHEIkXXKutlsiFolwUd9E-gbIcrlRb-kNSWCotYoFLtoTty_7HvIuSHUPgntPUsuX0UVyYpZa5tnDiu27q6gje0qupblFb_XiLNPJg_VqTNZiJCIoPLXVyctUZ9qt5j4BVf6RNbRpl_B1KY6_3zv1D-Mq8a&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>A claimable sandbox is a Stripe sandbox that a user can claim into a new or existing Stripe account through an onboarding link. You can prefill it with an email ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAEScgHEIkXXmQzcXxZvpMW5uG-dAq2OKNNjIcdbl_S7P3K9cwH2gdIRpnsUpUQgf1QIH_RI1QrxsNzZQZQd5wutYYOyDYV0ljrGorPs776qr8HWPjuot13o9DewaYsR25pu0VoyZUFQ4GquXNQ8Lp5f4Ha_0A&amp;gsessionid=24idf0Uj9Ime5HWuhT0jy5T9D3hZ3mTiVzbdY78CszjRF8038eSlYQ</id>
+    <title>How Data Pipeline works</title>
+    <link href="https://www.google.com/goto?url=CAEScgHEIkXXmQzcXxZvpMW5uG-dAq2OKNNjIcdbl_S7P3K9cwH2gdIRpnsUpUQgf1QIH_RI1QrxsNzZQZQd5wutYYOyDYV0ljrGorPs776qr8HWPjuot13o9DewaYsR25pu0VoyZUFQ4GquXNQ8Lp5f4Ha_0A&amp;gsessionid=24idf0Uj9Ime5HWuhT0jy5T9D3hZ3mTiVzbdY78CszjRF8038eSlYQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Learn what you can do with Data Pipeline. · Automatically export your complete Stripe data in a fast and reliable manner. · Stop relying on third-party extract, ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAEScQHEIkXXqdQeFwK2R7TayhlgTAuueD7HuS8PcynBFLfW4Tu4QcPpoijkh5UCLppjK3NMjLdolFsXH8KNgwI45q_QNwuoG5nMJLNGp-uq1zyVsKdwuSfJr5iAsdnrowvn2-kSJTyoguQqZB4HUy0bPnvY&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ</id>
+    <title>Delete a Secret | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAEScQHEIkXXqdQeFwK2R7TayhlgTAuueD7HuS8PcynBFLfW4Tu4QcPpoijkh5UCLppjK3NMjLdolFsXH8KNgwI45q_QNwuoG5nMJLNGp-uq1zyVsKdwuSfJr5iAsdnrowvn2-kSJTyoguQqZB4HUy0bPnvY&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>A secret scoped to a specific user. Use this for oauth tokens or other per-user secrets. If this is set, scope.user must also be set.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESbwHEIkXXyJxG11pogSwIe2wkUutetfDCAd6VmvH8xJn93y7wGDk1U3icwkFWJaQkCLfjIsUhGI6Qn9cqZSj4SFQIsJtIA4PMEA-mZ-Ei4G7PSJkp-TwrkGtG6m4uVM5cKGrne3APymrGrl-KtFQVhw&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ</id>
+    <title>List secrets | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESbwHEIkXXyJxG11pogSwIe2wkUutetfDCAd6VmvH8xJn93y7wGDk1U3icwkFWJaQkCLfjIsUhGI6Qn9cqZSj4SFQIsJtIA4PMEA-mZ-Ei4G7PSJkp-TwrkGtG6m4uVM5cKGrne3APymrGrl-KtFQVhw&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>A secret scoped to an account. Use this for API keys or other secrets that should be accessible by all UI Extension contexts. user. A secret scoped to ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESbwHEIkXXxcKndQ5OzJHPIHWsN3dUwRDC30_K1qe518NfZdSFw6ek2AFtBwBcoOaM9BK_ZjZlQFs420sqPjev67lriiBS77vcgYXJJsbTYSjGuva4Oz0Lo0a_Ag3mfV3KSuoQ2gxVdF14Hw5xWKAsyA&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg</id>
+    <title>The PaymentIntent object | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESbwHEIkXXxcKndQ5OzJHPIHWsN3dUwRDC30_K1qe518NfZdSFw6ek2AFtBwBcoOaM9BK_ZjZlQFs420sqPjev67lriiBS77vcgYXJJsbTYSjGuva4Oz0Lo0a_Ag3mfV3KSuoQ2gxVdF14Hw5xWKAsyA&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>This field indicates whether this payment method can be shown again to its customer in a checkout flow. Stripe products such as Checkout and Elements use this ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESbwHEIkXXYYC4z7st5HoKXAA0CdyE_BduRj0yENJCekZi7_jHiqReEXQ5p0c_qN0ikJxdLIJKOMxwawxFyZCgIPHD75WpQJpK-hkyMxOlb-B7CBV8okPemuIJ9iNYQyY0bqG5E7HsWCllD3G_AKRRYA&amp;gsessionid=24idf0Uj9Ime5HWuhT0jy5T9D3hZ3mTiVzbdY78CszjRF8038eSlYQ</id>
+    <title>Onboard your connected account</title>
+    <link href="https://www.google.com/goto?url=CAESbwHEIkXXYYC4z7st5HoKXAA0CdyE_BduRj0yENJCekZi7_jHiqReEXQ5p0c_qN0ikJxdLIJKOMxwawxFyZCgIPHD75WpQJpK-hkyMxOlb-B7CBV8okPemuIJ9iNYQyY0bqG5E7HsWCllD3G_AKRRYA&amp;gsessionid=24idf0Uj9Ime5HWuhT0jy5T9D3hZ3mTiVzbdY78CszjRF8038eSlYQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>After you create a connected account on your platform, you must provide a way for the account to complete onboarding requirements. You can use Stripe-hosted ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESbwHEIkXXJoeItrGEmWjeovaXKghWah-0VD25_fe658g71GMpeLMimeinKqleDUuC33dGorLLkYDhfz5iifQ2VTsfAErddDZA0wC5YHJ9p1srOWjtAXyZJHtXR7pKzMntZFc0tt4J1kkW_laabWEpSQ&amp;gsessionid=24idf0Uj9Ime5HWuhT0jy5T9D3hZ3mTiVzbdY78CszjRF8038eSlYQ</id>
+    <title>Stripe Reader M2</title>
+    <link href="https://www.google.com/goto?url=CAESbwHEIkXXJoeItrGEmWjeovaXKghWah-0VD25_fe658g71GMpeLMimeinKqleDUuC33dGorLLkYDhfz5iifQ2VTsfAErddDZA0wC5YHJ9p1srOWjtAXyZJHtXR7pKzMntZFc0tt4J1kkW_laabWEpSQ&amp;gsessionid=24idf0Uj9Ime5HWuhT0jy5T9D3hZ3mTiVzbdY78CszjRF8038eSlYQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>The Stripe Reader M2 is a small, robust reader for use with mobile applications. It uses Bluetooth Low Energy (LE) or USB (Android only) to connect to the ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESbgHEIkXXkwxAjTjRZDbVaOy9fVL5RoXGnyNjWVipCIbz0MgQVDCfYufAzwiesiEOeLcTtRpMfsz-FlIik_UByKOHWy72pe-vrbHsDiZgwg5tHZSr6Nv6C0JswJ1G728Sh4fn8OblfyjpAekzrUgI&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg</id>
+    <title>Retrieve a credit note v1</title>
+    <link href="https://www.google.com/goto?url=CAESbgHEIkXXkwxAjTjRZDbVaOy9fVL5RoXGnyNjWVipCIbz0MgQVDCfYufAzwiesiEOeLcTtRpMfsz-FlIik_UByKOHWy72pe-vrbHsDiZgwg5tHZSr6Nv6C0JswJ1G728Sh4fn8OblfyjpAekzrUgI&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Returns · Need help? Contact Support. · Chat with Stripe developers on Discord. · Check out our changelog. · Questions? Contact Sales. · LLM? Read llms.txt.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESbQHEIkXXpufLNJcE2OgxqDJaxZP4PAWmFM20ESJdKUGImZHf2_N5IB3awd2n1OxursabOzjmUUwOzgWDkHBF1_5fFanXWxgN-yOzWi_Z8ePvpG6hlsvGsx74WqyCMWyr2PWyX-OCJvfUrjkNQic&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ</id>
+    <title>Tax Form Corrections | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESbQHEIkXXpufLNJcE2OgxqDJaxZP4PAWmFM20ESJdKUGImZHf2_N5IB3awd2n1OxursabOzjmUUwOzgWDkHBF1_5fFanXWxgN-yOzWi_Z8ePvpG6hlsvGsx74WqyCMWyr2PWyX-OCJvfUrjkNQic&amp;gsessionid=LcIS24gk54WbhaqbFE1yZfmuXHjXqlr1s0bMWBaCos5XuoTYsh0kpQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Need help? Contact Support. Chat with Stripe developers on Discord. Check out our changelog.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESawHEIkXXasEoY9rg_p7rWYmONb0JOQsZHlk2ekcGWp7wOjHWRVD294fxQPO4mBj7UI_96wQfK6lhxIMkSgdxrtBjQk4nwpw_JPVvUEbLpBpEWSZkBV3wEcf049RXnke5LPKzgWqd-n3ZQ_d2&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg</id>
+    <title>Retrieve a tax code | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESawHEIkXXasEoY9rg_p7rWYmONb0JOQsZHlk2ekcGWp7wOjHWRVD294fxQPO4mBj7UI_96wQfK6lhxIMkSgdxrtBjQk4nwpw_JPVvUEbLpBpEWSZkBV3wEcf049RXnke5LPKzgWqd-n3ZQ_d2&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Need help? Contact Support. Chat with Stripe developers on Discord. Check out our changelog. Questions? Contact Sales. LLM? Read llms.txt.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESZwHEIkXXGJ8RHwp8wBiLS-qcuKgxwp5L5gADMtsyW_xMDYHMDbKwFoz2XsW8-7d6jIno2tTLWYdf-aGk1XxXoQAxC_zaIL3_5v60Tv8YetyLtwtJnm6rvRl0tmCvafyQslg0n4ToilY&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg</id>
+    <title>Create a source | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESZwHEIkXXGJ8RHwp8wBiLS-qcuKgxwp5L5gADMtsyW_xMDYHMDbKwFoz2XsW8-7d6jIno2tTLWYdf-aGk1XxXoQAxC_zaIL3_5v60Tv8YetyLtwtJnm6rvRl0tmCvafyQslg0n4ToilY&amp;gsessionid=9TdL5VRVXpYLa2YgDSIuhRlVOWoUWkZUzvGGcjSQu0JuwGF168Cwtg" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESZgHEIkXXIv7mdKjj8cxsphB9Iz2EKLEEvgSrCZ-XeMjrcHgohVoVfWXzGxU9hxthZE1dhgo3K17LZusMjLmR9KugBPMIgVN1omFMPHemJxIcIx8HxrrOBJ2_kU9NNMMqxbcLTRZ8cw&amp;gsessionid=24idf0Uj9Ime5HWuhT0jy5T9D3hZ3mTiVzbdY78CszjRF8038eSlYQ</id>
+    <title>Setup Intents | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESZgHEIkXXIv7mdKjj8cxsphB9Iz2EKLEEvgSrCZ-XeMjrcHgohVoVfWXzGxU9hxthZE1dhgo3K17LZusMjLmR9KugBPMIgVN1omFMPHemJxIcIx8HxrrOBJ2_kU9NNMMqxbcLTRZ8cw&amp;gsessionid=24idf0Uj9Ime5HWuhT0jy5T9D3hZ3mTiVzbdY78CszjRF8038eSlYQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>By using SetupIntents, you can reduce friction for your customers, even as regulations change over time. Related guide: Setup Intents API. Was this section ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESZQHEIkXXhphvCivmIvXNVO9Pvd_fh8D3w2qv0SwK7-3axjgsvtUZoAlH0X3zsWK1efhHRw91ih67Ra73dtonZeO-jKkNikyV3t8aqoDp36vgPINsoTKi0_jDyAQlgy-HKkicuGl6&amp;gsessionid=24idf0Uj9Ime5HWuhT0jy5T9D3hZ3mTiVzbdY78CszjRF8038eSlYQ</id>
+    <title>Capabilities | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESZQHEIkXXhphvCivmIvXNVO9Pvd_fh8D3w2qv0SwK7-3axjgsvtUZoAlH0X3zsWK1efhHRw91ih67Ra73dtonZeO-jKkNikyV3t8aqoDp36vgPINsoTKi0_jDyAQlgy-HKkicuGl6&amp;gsessionid=24idf0Uj9Ime5HWuhT0jy5T9D3hZ3mTiVzbdY78CszjRF8038eSlYQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>This is an object representing a capability for a Stripe account. Related guide: Account capabilities. Was this section helpful?YesNo. Update an Account ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESYAHEIkXX5kGinap5M-YKMdy_dNhGZLY9dgvjiw-pNjOBYReLJ5M-25zET2OmVMNdqx4JN4la445Zlenyarh7Vr5Pa2hWKQnscEwIVRWpNBK4VWw1zcBZzmy3Szon6eS4IA&amp;gsessionid=24idf0Uj9Ime5HWuhT0jy5T9D3hZ3mTiVzbdY78CszjRF8038eSlYQ</id>
+    <title>Sources | Stripe API Reference</title>
+    <link href="https://www.google.com/goto?url=CAESYAHEIkXX5kGinap5M-YKMdy_dNhGZLY9dgvjiw-pNjOBYReLJ5M-25zET2OmVMNdqx4JN4la445Zlenyarh7Vr5Pa2hWKQnscEwIVRWpNBK4VWw1zcBZzmy3Szon6eS4IA&amp;gsessionid=24idf0Uj9Ime5HWuhT0jy5T9D3hZ3mTiVzbdY78CszjRF8038eSlYQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Source objects allow you to accept a variety of payment methods. They represent a customer's payment instrument, and can be used with the Stripe API just like a ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAES0QIBxCJF16IB8vMUuBpt_5XZH4x7VlXlP1lMBxMP_baXj1ho3lOX1frmAl35hh7nFcC9ftZwAJPPrpSkV5xhTmJRc-4eNnR5RUeYL2YLG6dk7247iNpJQm30xT-0nsxTofYNZkKdDEODX3OwOgHUBFnDFQ_JhsqMwHMChU4rw66R9FvnEBxhr3BmPh-9R6GsNtuC-xHWlNHE8jrIzNlash7Y_5_m4aOzjGLoR92ZrBEsuWjudCXUO_W5jnqnc0jTF8SpZphp54GewPWU7PB_90HtH1uOmvO6LlYhj1jrWMiemS5AftTrnmTh7hovNhrNR47Rr3R5Mp03K07pVZm9QKFpR9KJiyyIjv0yJhKY7dBodmvyMmBoxDDT0FmUt9D5NPoSlosSPjl46LWuM4rtP4dPyxadQW1mBO3Ig9q3doyxIrBnashz1XVAZ-ksl6Bctq_M&amp;gsessionid=BdgyvN16V9ZJXQgVuWm-rA4o-AEiBLgGtH_xqeLe-X3gCBKykMGklQ</id>
+    <title>Get the Currency Selector Element</title>
+    <link href="https://www.google.com/goto?url=CAES0QIBxCJF16IB8vMUuBpt_5XZH4x7VlXlP1lMBxMP_baXj1ho3lOX1frmAl35hh7nFcC9ftZwAJPPrpSkV5xhTmJRc-4eNnR5RUeYL2YLG6dk7247iNpJQm30xT-0nsxTofYNZkKdDEODX3OwOgHUBFnDFQ_JhsqMwHMChU4rw66R9FvnEBxhr3BmPh-9R6GsNtuC-xHWlNHE8jrIzNlash7Y_5_m4aOzjGLoR92ZrBEsuWjudCXUO_W5jnqnc0jTF8SpZphp54GewPWU7PB_90HtH1uOmvO6LlYhj1jrWMiemS5AftTrnmTh7hovNhrNR47Rr3R5Mp03K07pVZm9QKFpR9KJiyyIjv0yJhKY7dBodmvyMmBoxDDT0FmUt9D5NPoSlosSPjl46LWuM4rtP4dPyxadQW1mBO3Ig9q3doyxIrBnashz1XVAZ-ksl6Bctq_M&amp;gsessionid=BdgyvN16V9ZJXQgVuWm-rA4o-AEiBLgGtH_xqeLe-X3gCBKykMGklQ" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>This method gets the previously created Currency Selector Element instance, if it exists. Returns. getCurrencySelectorElement() returns one of the following:.</summary>
+  </entry>
+  <entry>
+    <id>https://docs.stripe.com/connect/migrate-to-stripe</id>
+    <title>Migrating accounts to Stripe</title>
+    <link href="https://docs.stripe.com/connect/migrate-to-stripe" />
+    <published>2026-11-21T16:42:40Z</published>
+    <updated>2026-11-21T16:42:40Z</updated>
+    <summary>Start processing accounts on Stripe without disrupting payments.</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESpwIBxCJF1z0B7XV7qYvQHwkV-VBV9UtBfk_oSjq7U2g1aFQvTR_Y9vxeWz6awJUHa-ap5ISeO8s_kL8HbXKHd_gZ9SJm1er1p3stpCy74Q2LOLpK0HpQiFuE6SY4w9DBHMMAuB-iUD2mJG-0ohGxiOOt2gRmsvWrcSp1j1du-yO4ae4pCFBkyoSvy2IFrGTG7FETkXTROqD_z4z6zIdOAtQAO0UUCwjdnlFh94uPQe0MexV23kfMbpYkKZ4x42ZAMEBssguT246KTOVRe8svoCBzkqhqBxxvukXdX9m_iuftCYTQHTEjKdOI2AE4kM1LUVVErM5K_DeLGirKA7p9wbBEeBoLlZJXzrIlv-o1VPF2KS_52ySwG2k_52HemLTl0SNCBbvTV9OU&amp;gsessionid=RgRMksRp7yJmzo81j-A8_zweMyHyYjQHcrQHt64qp3uNUnF_eevgAw</id>
     <title>Build a custom checkout page</title>
@@ -571,237 +803,5 @@
     <published>2026-11-21T13:42:53Z</published>
     <updated>2026-11-21T13:42:53Z</updated>
     <summary>Creates a redaction job. When a job is created, it will start to validate. Parameters. objectsobjectRequired. The objects to redact. These root objects and ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdAHEIkXXh90yKSe84g8mm0umqT0opuIzIk1GnIqcjQaTLY69RT7M2g5bhCamd7eBotFkM3jka5vgxWoX6kkgEMp5BjXirpQ4cIlLVrJHJEaQUO4O1e08cn9R9AxPFUO9vxrNJEr_klwsxWJBtBbEjvdkfDNu&amp;gsessionid=LE2F5Eelj6dzz7ke48XGQF4bCHOw631o-J4JVw8BMOgSZfnc-I5R8A</id>
-    <title>Claimable Sandboxes | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESdAHEIkXXh90yKSe84g8mm0umqT0opuIzIk1GnIqcjQaTLY69RT7M2g5bhCamd7eBotFkM3jka5vgxWoX6kkgEMp5BjXirpQ4cIlLVrJHJEaQUO4O1e08cn9R9AxPFUO9vxrNJEr_klwsxWJBtBbEjvdkfDNu&amp;gsessionid=LE2F5Eelj6dzz7ke48XGQF4bCHOw631o-J4JVw8BMOgSZfnc-I5R8A" />
-    <published>2026-11-21T13:42:53Z</published>
-    <updated>2026-11-21T13:42:53Z</updated>
-    <summary>A claimable sandbox is a Stripe sandbox that a user can claim into a new or existing Stripe account through an onboarding link. You can prefill it with an email ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEScgHEIkXXOnomFLjIS3EURBMzwB4YUMhUCszGanNpNJZU-3uSdVKDA8UugTcVHZ-j1NY-ovHnLJA2WgUpq3lbbAQHklbuk4V8QPUL6VjorJeiT_N5a0JYPgo1191RGVFB-DFXi5anyqcQLfeuHNU41V8fag&amp;gsessionid=MSU_uB6kivkTK_43Wkfr_c6YQBDmg5aS-nmM8C1dvIE8R7jHNDYEDQ</id>
-    <title>How Data Pipeline works</title>
-    <link href="https://www.google.com/goto?url=CAEScgHEIkXXOnomFLjIS3EURBMzwB4YUMhUCszGanNpNJZU-3uSdVKDA8UugTcVHZ-j1NY-ovHnLJA2WgUpq3lbbAQHklbuk4V8QPUL6VjorJeiT_N5a0JYPgo1191RGVFB-DFXi5anyqcQLfeuHNU41V8fag&amp;gsessionid=MSU_uB6kivkTK_43Wkfr_c6YQBDmg5aS-nmM8C1dvIE8R7jHNDYEDQ" />
-    <published>2026-11-21T13:42:53Z</published>
-    <updated>2026-11-21T13:42:53Z</updated>
-    <summary>Learn what you can do with Data Pipeline. · Automatically export your complete Stripe data in a fast and reliable manner. · Stop relying on third-party extract, ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEScQHEIkXXNl_y22b-n4ahN9felrzNJjflFa8vUMWn6KMCVQy-A1Ia522Hl1mejnLlsIl050074OCrcAn7y61iQTtozASaUzzLjq06hOOEUuFy5LufObCz8NN1C9FOpEI12rnPuF-mB0gFd8el3W7nIGKU&amp;gsessionid=LE2F5Eelj6dzz7ke48XGQF4bCHOw631o-J4JVw8BMOgSZfnc-I5R8A</id>
-    <title>Delete a Secret | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAEScQHEIkXXNl_y22b-n4ahN9felrzNJjflFa8vUMWn6KMCVQy-A1Ia522Hl1mejnLlsIl050074OCrcAn7y61iQTtozASaUzzLjq06hOOEUuFy5LufObCz8NN1C9FOpEI12rnPuF-mB0gFd8el3W7nIGKU&amp;gsessionid=LE2F5Eelj6dzz7ke48XGQF4bCHOw631o-J4JVw8BMOgSZfnc-I5R8A" />
-    <published>2026-11-21T13:42:53Z</published>
-    <updated>2026-11-21T13:42:53Z</updated>
-    <summary>A secret scoped to a specific user. Use this for oauth tokens or other per-user secrets. If this is set, scope.user must also be set.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbwHEIkXXiOg6z1NXWSxVOXcDxOx9Jg_FW8LhEtLoOJ45GK_0SJpKpgUAWz07BNXV-m0CQKYLXHGfxY1c84b9y1OU31JKAmq_-q2Hsgj6253u2MbV7Yh1KUYQQ733J2CwBJ5jW0_K6qKJv8SuysASxw&amp;gsessionid=MSU_uB6kivkTK_43Wkfr_c6YQBDmg5aS-nmM8C1dvIE8R7jHNDYEDQ</id>
-    <title>Stripe Reader M2</title>
-    <link href="https://www.google.com/goto?url=CAESbwHEIkXXiOg6z1NXWSxVOXcDxOx9Jg_FW8LhEtLoOJ45GK_0SJpKpgUAWz07BNXV-m0CQKYLXHGfxY1c84b9y1OU31JKAmq_-q2Hsgj6253u2MbV7Yh1KUYQQ733J2CwBJ5jW0_K6qKJv8SuysASxw&amp;gsessionid=MSU_uB6kivkTK_43Wkfr_c6YQBDmg5aS-nmM8C1dvIE8R7jHNDYEDQ" />
-    <published>2026-11-21T13:42:53Z</published>
-    <updated>2026-11-21T13:42:53Z</updated>
-    <summary>The Stripe Reader M2 is a small, robust reader for use with mobile applications. compatible with our iOS, Android, and React Native SDKs.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbwHEIkXX_hWvSiqFxPcjYFqN8Sw3K5D3bzmZy0GV_eHT8p6reQuhK1phK1WD2nw-92vy58CsMARUtIXkKaGBVUtodjWyjwYQQHf8zPXa7n2ieoEfjF0tvfi9_vr7-WfRQRi9JzfNypCdNygU70zeYg&amp;gsessionid=MSU_uB6kivkTK_43Wkfr_c6YQBDmg5aS-nmM8C1dvIE8R7jHNDYEDQ</id>
-    <title>Onboard your connected account</title>
-    <link href="https://www.google.com/goto?url=CAESbwHEIkXX_hWvSiqFxPcjYFqN8Sw3K5D3bzmZy0GV_eHT8p6reQuhK1phK1WD2nw-92vy58CsMARUtIXkKaGBVUtodjWyjwYQQHf8zPXa7n2ieoEfjF0tvfi9_vr7-WfRQRi9JzfNypCdNygU70zeYg&amp;gsessionid=MSU_uB6kivkTK_43Wkfr_c6YQBDmg5aS-nmM8C1dvIE8R7jHNDYEDQ" />
-    <published>2026-11-21T13:42:53Z</published>
-    <updated>2026-11-21T13:42:53Z</updated>
-    <summary>Choose between Stripe-hosted or embedded onboarding to collect requirements from your connected accounts.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbwHEIkXXW57GEUThFEshjndVbD7j9f-uVQ1-RisQwmqvWk8_QTC-C9JwbmDrkpOC4en_n3T5jidtnPDhUuHfsudTXbFP-GGJKTZvyCj1DGYC88Rj1XGcmdjkshVxmWnC4hlO8A1udtbShP__C-Gv8g&amp;gsessionid=LE2F5Eelj6dzz7ke48XGQF4bCHOw631o-J4JVw8BMOgSZfnc-I5R8A</id>
-    <title>List secrets | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESbwHEIkXXW57GEUThFEshjndVbD7j9f-uVQ1-RisQwmqvWk8_QTC-C9JwbmDrkpOC4en_n3T5jidtnPDhUuHfsudTXbFP-GGJKTZvyCj1DGYC88Rj1XGcmdjkshVxmWnC4hlO8A1udtbShP__C-Gv8g&amp;gsessionid=LE2F5Eelj6dzz7ke48XGQF4bCHOw631o-J4JVw8BMOgSZfnc-I5R8A" />
-    <published>2026-11-21T13:42:53Z</published>
-    <updated>2026-11-21T13:42:53Z</updated>
-    <summary>A secret scoped to an account. Use this for API keys or other secrets that should be accessible by all UI Extension contexts. user. A secret scoped to ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbgHEIkXXv7tmm1awmvsZi9i9bEZ_ZoibBqLs2lNmss7AJMcMQASH6CFOKMeZA6kMD55hMWKe8hkcMB4ov9yxqEr9krADkAz5M7zkVrK-mL4hm0OXC4_6gh-1Z6jUIzz7U3RHyew8i7YhofcH3cvf&amp;gsessionid=MSU_uB6kivkTK_43Wkfr_c6YQBDmg5aS-nmM8C1dvIE8R7jHNDYEDQ</id>
-    <title>Migrating accounts to Stripe</title>
-    <link href="https://www.google.com/goto?url=CAESbgHEIkXXv7tmm1awmvsZi9i9bEZ_ZoibBqLs2lNmss7AJMcMQASH6CFOKMeZA6kMD55hMWKe8hkcMB4ov9yxqEr9krADkAz5M7zkVrK-mL4hm0OXC4_6gh-1Z6jUIzz7U3RHyew8i7YhofcH3cvf&amp;gsessionid=MSU_uB6kivkTK_43Wkfr_c6YQBDmg5aS-nmM8C1dvIE8R7jHNDYEDQ" />
-    <published>2026-11-21T13:42:53Z</published>
-    <updated>2026-11-21T13:42:53Z</updated>
-    <summary>A successful migration to Stripe includes a migration plan, a timeline, and KYC information for connected accounts, as well as payment and customer data.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbQHEIkXXrTIQAkzG_7bPQeU1-pMV1BLjUhjf6VyNRH2Vkj_zVU1vN9lXqu2bLoluwpB64N1NXj4Ve3LyY87ALpiDE-wVBHMxfap6VMhd_pZQoeltCGIlXKtle1Km3u3xouzHdhcKhbxXuZ1FcuM&amp;gsessionid=LE2F5Eelj6dzz7ke48XGQF4bCHOw631o-J4JVw8BMOgSZfnc-I5R8A</id>
-    <title>Tax Form Corrections | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESbQHEIkXXrTIQAkzG_7bPQeU1-pMV1BLjUhjf6VyNRH2Vkj_zVU1vN9lXqu2bLoluwpB64N1NXj4Ve3LyY87ALpiDE-wVBHMxfap6VMhd_pZQoeltCGIlXKtle1Km3u3xouzHdhcKhbxXuZ1FcuM&amp;gsessionid=LE2F5Eelj6dzz7ke48XGQF4bCHOw631o-J4JVw8BMOgSZfnc-I5R8A" />
-    <published>2026-11-21T13:42:53Z</published>
-    <updated>2026-11-21T13:42:53Z</updated>
-    <summary>Need help? Contact Support. Chat with Stripe developers on Discord. Check out our changelog.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESbQHEIkXXH2krPglUo9b4Bz7nRMcKalzss9f_97boWGLIfMhtN2AXhyYwDwbG_19ruKyfkPjV94F2_uQ47rbRxk0bRFiL1Q4Z124e5ldyQ_43ESFXUibL-ghWi3TFNiwmO_cm69WcDNXamUT01uI&amp;gsessionid=XAtMJzMvdeqfrv6UauKeHKSGBVDQk5f2cf0hGbby4iV-os-FCIXxDw</id>
-    <title>Create an app install | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESbQHEIkXXH2krPglUo9b4Bz7nRMcKalzss9f_97boWGLIfMhtN2AXhyYwDwbG_19ruKyfkPjV94F2_uQ47rbRxk0bRFiL1Q4Z124e5ldyQ_43ESFXUibL-ghWi3TFNiwmO_cm69WcDNXamUT01uI&amp;gsessionid=XAtMJzMvdeqfrv6UauKeHKSGBVDQk5f2cf0hGbby4iV-os-FCIXxDw" />
-    <published>2026-11-21T13:42:53Z</published>
-    <updated>2026-11-21T13:42:53Z</updated>
-    <summary>Creates an app install. An account installs its own private app with its own key; public and testing installs are made from the Dashboard.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESawHEIkXXfirzq7xJvzJBae9Do500XLgDIXIVxqXj64Q-wKLrrEIUySPLtW3FYTS-r5O6hC_LjWg1IQpHntOE4uhu-NkF62rCx-X6BNDc0JD9brQ9HAX8LladhER-hh4RkU3IcMflmxQwwI4c&amp;gsessionid=XAtMJzMvdeqfrv6UauKeHKSGBVDQk5f2cf0hGbby4iV-os-FCIXxDw</id>
-    <title>Retrieve a tax code | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESawHEIkXXfirzq7xJvzJBae9Do500XLgDIXIVxqXj64Q-wKLrrEIUySPLtW3FYTS-r5O6hC_LjWg1IQpHntOE4uhu-NkF62rCx-X6BNDc0JD9brQ9HAX8LladhER-hh4RkU3IcMflmxQwwI4c&amp;gsessionid=XAtMJzMvdeqfrv6UauKeHKSGBVDQk5f2cf0hGbby4iV-os-FCIXxDw" />
-    <published>2026-11-21T13:42:53Z</published>
-    <updated>2026-11-21T13:42:53Z</updated>
-    <summary>Need help? Contact Support. Chat with Stripe developers on Discord. Check out our changelog. Questions? Contact Sales. LLM? Read llms.txt.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESaAHEIkXX_pYGZxi0CrL5hU8DVdesCbGpjFRXkBllOtTT0oi7wCy6DucsVxAdb8g3O0Yxu32sqIb-Xu6RTjtYuXB80L9FfeIkycBaB0tLd2LeLLfhwwp3aKkKyaK--2WaWHgfozBKEbY7&amp;gsessionid=MSU_uB6kivkTK_43Wkfr_c6YQBDmg5aS-nmM8C1dvIE8R7jHNDYEDQ</id>
-    <title>Download financial account statements</title>
-    <link href="https://www.google.com/goto?url=CAESaAHEIkXX_pYGZxi0CrL5hU8DVdesCbGpjFRXkBllOtTT0oi7wCy6DucsVxAdb8g3O0Yxu32sqIb-Xu6RTjtYuXB80L9FfeIkycBaB0tLd2LeLLfhwwp3aKkKyaK--2WaWHgfozBKEbY7&amp;gsessionid=MSU_uB6kivkTK_43Wkfr_c6YQBDmg5aS-nmM8C1dvIE8R7jHNDYEDQ" />
-    <published>2026-11-21T13:42:53Z</published>
-    <updated>2026-11-21T13:42:53Z</updated>
-    <summary>Download monthly PDF statements for your financial accounts in the United States and United Kingdom. A statement shows your opening and closing balances and ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZwHEIkXXaNIjmktFZwpcDX2VMda7yZJovXbGIlLG42osD1gddHOJkJ7LK13nJVnxw1DRVUR8e6ahT3-_WnySWeJMDi5Cu9iTSX_US63Ih2c7RuSQscw9RzCmH14qYFwiIGui1oO6_Gk&amp;gsessionid=XAtMJzMvdeqfrv6UauKeHKSGBVDQk5f2cf0hGbby4iV-os-FCIXxDw</id>
-    <title>Create a source | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESZwHEIkXXaNIjmktFZwpcDX2VMda7yZJovXbGIlLG42osD1gddHOJkJ7LK13nJVnxw1DRVUR8e6ahT3-_WnySWeJMDi5Cu9iTSX_US63Ih2c7RuSQscw9RzCmH14qYFwiIGui1oO6_Gk&amp;gsessionid=XAtMJzMvdeqfrv6UauKeHKSGBVDQk5f2cf0hGbby4iV-os-FCIXxDw" />
-    <published>2026-11-21T13:42:53Z</published>
-    <updated>2026-11-21T13:42:53Z</updated>
-    <summary>Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESZgHEIkXXeMVA98otSfFPMtsXHPxTJanmIhqGFf9cx5vzPFrcbuS2gJdNJPvw19qskIrIvTDGFyOFTzHIEU5Be1l1Xjs18IQ8Rw7W_mP3N0nOx-Sc06engy0M7L6JcAwvLS0YvaFkbA&amp;gsessionid=MSU_uB6kivkTK_43Wkfr_c6YQBDmg5aS-nmM8C1dvIE8R7jHNDYEDQ</id>
-    <title>Setup Intents | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESZgHEIkXXeMVA98otSfFPMtsXHPxTJanmIhqGFf9cx5vzPFrcbuS2gJdNJPvw19qskIrIvTDGFyOFTzHIEU5Be1l1Xjs18IQ8Rw7W_mP3N0nOx-Sc06engy0M7L6JcAwvLS0YvaFkbA&amp;gsessionid=MSU_uB6kivkTK_43Wkfr_c6YQBDmg5aS-nmM8C1dvIE8R7jHNDYEDQ" />
-    <published>2026-11-21T13:42:53Z</published>
-    <updated>2026-11-21T13:42:53Z</updated>
-    <summary>A SetupIntent guides you through the process of setting up and saving a customer's payment credentials for future payments.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESYAHEIkXXU3MYv9Qc8DWqPyVcVKNUGAcieOdK7ySyvTgSLSEFW2lCvdZtNDlzPw8G5uw7DsM5KR9-LtJ3PYs63oemlPSjTB1aOtORBaSQ9vKmaLdGxmxOb5kiXUmS2KCwKA&amp;gsessionid=MSU_uB6kivkTK_43Wkfr_c6YQBDmg5aS-nmM8C1dvIE8R7jHNDYEDQ</id>
-    <title>Sources | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESYAHEIkXXU3MYv9Qc8DWqPyVcVKNUGAcieOdK7ySyvTgSLSEFW2lCvdZtNDlzPw8G5uw7DsM5KR9-LtJ3PYs63oemlPSjTB1aOtORBaSQ9vKmaLdGxmxOb5kiXUmS2KCwKA&amp;gsessionid=MSU_uB6kivkTK_43Wkfr_c6YQBDmg5aS-nmM8C1dvIE8R7jHNDYEDQ" />
-    <published>2026-11-21T13:42:53Z</published>
-    <updated>2026-11-21T13:42:53Z</updated>
-    <summary>Source objects allow you to accept a variety of payment methods. They represent a customer's payment instrument, and can be used with the Stripe API. This API ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAES0QIBxCJF14GyaOjtwYVNSvYsvgaL3q5z117n3wQQ1_dfW3WjB00cGHrrV_fE49zCUsrOEIUmgvcC517h6jwq9cxAZC0IXvYSTfHbZuNIan4tdy53bnZ-tZrigusj1-t8-Ul_GRjMnNPKJbM1WUO3vAHWjbC_y6TM_9vS-mSHGP6FIAcIamL52qrQR0kgcli1iIUqLpqoyy-ipzdcULRfhmL1J98ky35OGSQoDSz8p4MdhUoG2XXZ0xRHprEXDDR7Gcn1AlAriOeX9ODpmQsEfNx6PtlBTroV2apH6gMGENny1EEgB3qn6we4gFvtyBPvGZgeCg3Lg5gDuQ1JcrSbFQB9wElh4GyLZpCfuIOCFkLvoH9rniMu0nWB12-DezxCydknJ_GJ3wC4cEN5cdw_SJwHXc2W_3kyydVWJ2Qbice4o0j8qkZQ97k8mDxOPvq6ZGU4&amp;gsessionid=WkQ2qMGPpQ587JAlkjUkL2Y0u08xv-CurkUPgxdlqR3GGqi6eh-8dA</id>
-    <title>Get the Currency Selector Element</title>
-    <link href="https://www.google.com/goto?url=CAES0QIBxCJF14GyaOjtwYVNSvYsvgaL3q5z117n3wQQ1_dfW3WjB00cGHrrV_fE49zCUsrOEIUmgvcC517h6jwq9cxAZC0IXvYSTfHbZuNIan4tdy53bnZ-tZrigusj1-t8-Ul_GRjMnNPKJbM1WUO3vAHWjbC_y6TM_9vS-mSHGP6FIAcIamL52qrQR0kgcli1iIUqLpqoyy-ipzdcULRfhmL1J98ky35OGSQoDSz8p4MdhUoG2XXZ0xRHprEXDDR7Gcn1AlAriOeX9ODpmQsEfNx6PtlBTroV2apH6gMGENny1EEgB3qn6we4gFvtyBPvGZgeCg3Lg5gDuQ1JcrSbFQB9wElh4GyLZpCfuIOCFkLvoH9rniMu0nWB12-DezxCydknJ_GJ3wC4cEN5cdw_SJwHXc2W_3kyydVWJ2Qbice4o0j8qkZQ97k8mDxOPvq6ZGU4&amp;gsessionid=WkQ2qMGPpQ587JAlkjUkL2Y0u08xv-CurkUPgxdlqR3GGqi6eh-8dA" />
-    <published>2026-11-21T13:42:53Z</published>
-    <updated>2026-11-21T13:42:53Z</updated>
-    <summary>This method gets the previously created Currency Selector Element instance, if it exists. Returns. getCurrencySelectorElement() returns one of the following:.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESpAEBxCJF11K23b1wUozeMRmSTkgoMNcdvzHaNVHOHH_bQDxPXcP0DE-nRbuHBfpwj_uqhYLh2gD9XuflWsecyn-FWMEfNBLZ3HmGGsL0TMjbfXWPbD8YVgQ-ZjIZvHl5H92rqSWL5TqVTCHmsYqscxdVsbDKk9b5EIoFSyLNo-0r19jLUIieugjoyVNRRh61Bwan0BFoVxtUNevCeRdwigdQ0rNjbQ&amp;gsessionid=bFJlfVuXKXahPsut4rqpCEQH1Fx-YCYW-crkbwo2ktXwP8WIL6nsjQ</id>
-    <title>Available payment methods change event</title>
-    <link href="https://www.google.com/goto?url=CAESpAEBxCJF11K23b1wUozeMRmSTkgoMNcdvzHaNVHOHH_bQDxPXcP0DE-nRbuHBfpwj_uqhYLh2gD9XuflWsecyn-FWMEfNBLZ3HmGGsL0TMjbfXWPbD8YVgQ-ZjIZvHl5H92rqSWL5TqVTCHmsYqscxdVsbDKk9b5EIoFSyLNo-0r19jLUIieugjoyVNRRh61Bwan0BFoVxtUNevCeRdwigdQ0rNjbQ&amp;gsessionid=bFJlfVuXKXahPsut4rqpCEQH1Fx-YCYW-crkbwo2ktXwP8WIL6nsjQ" />
-    <published>2026-11-21T12:42:59Z</published>
-    <updated>2026-11-21T12:42:59Z</updated>
-    <summary>Triggered when the set of available payment methods changes. Also fires on initial render. Supported by paymentElement and expressCheckoutElement . Method ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESnAEBxCJF188iHIzq6Q1OZ8rYehbi2X-100nhY8eBFZg6iYgtcyf3zH0b3BAYo7gJZ0uXe0CpMONJ59YcpAj2FqHZW_2PSzI4y-a4IZ4YKXq54f_kps4Xabt-YJxJDXWd5m48MUqUcBSeVGj4vngQ3DOaRitjg55r1qzcDm_NYlAJQYfLeznyBMn0S4m6nr3wApljhVXRapPabyq20b4&amp;gsessionid=3TrPQD1qJzPKtGUreVh02qA0N4ByPtB1Qccimv9cpYm03nMs9aPM_A</id>
-    <title>在组织账户之间共享客户和支付方式</title>
-    <link href="https://www.google.com/goto?url=CAESnAEBxCJF188iHIzq6Q1OZ8rYehbi2X-100nhY8eBFZg6iYgtcyf3zH0b3BAYo7gJZ0uXe0CpMONJ59YcpAj2FqHZW_2PSzI4y-a4IZ4YKXq54f_kps4Xabt-YJxJDXWd5m48MUqUcBSeVGj4vngQ3DOaRitjg55r1qzcDm_NYlAJQYfLeznyBMn0S4m6nr3wApljhVXRapPabyq20b4&amp;gsessionid=3TrPQD1qJzPKtGUreVh02qA0N4ByPtB1Qccimv9cpYm03nMs9aPM_A" />
-    <published>2026-11-21T12:42:59Z</published>
-    <updated>2026-11-21T12:42:59Z</updated>
-    <summary>Stripe 上的Organizations 可以在多个账户之间共享客户和支付方式。在启用共享之前，请查看客户和支付方式共享的运作机制，以了解支持的支付方式、限制和事件行为等 ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESkQEBxCJF1-frszi85kDYkHEIlhewx1EgWvdDOvb75Fkw8k_a05dqACYKDTFJ9zba9bQvYDRsSg_KuV2-_Pw5BeYuP-uHXCsToMIGdZ3CUhIm24tYebOWO7RpJJAzWDuPr_3TYqysGN2Gq2o-q0ljABb7xsivbukZveW9VXj4VN2rStcQbrrPmbsKC21xBOVZA16f&amp;gsessionid=3TrPQD1qJzPKtGUreVh02qA0N4ByPtB1Qccimv9cpYm03nMs9aPM_A</id>
-    <title>顧客の決済手段を保存・取得する</title>
-    <link href="https://www.google.com/goto?url=CAESkQEBxCJF1-frszi85kDYkHEIlhewx1EgWvdDOvb75Fkw8k_a05dqACYKDTFJ9zba9bQvYDRsSg_KuV2-_Pw5BeYuP-uHXCsToMIGdZ3CUhIm24tYebOWO7RpJJAzWDuPr_3TYqysGN2Gq2o-q0ljABb7xsivbukZveW9VXj4VN2rStcQbrrPmbsKC21xBOVZA16f&amp;gsessionid=3TrPQD1qJzPKtGUreVh02qA0N4ByPtB1Qccimv9cpYm03nMs9aPM_A" />
-    <published>2026-11-21T12:42:59Z</published>
-    <updated>2026-11-21T12:42:59Z</updated>
-    <summary>Payment Element と Checkout Sessions API を組み合わせると、次回以降に使えるよう顧客の決済手段を保存できます。次の操作が可能です。</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESjQEBxCJF17al6DBd9YI2b52IDniZSjZ3uxa7XJ69R4_pG4wb6DMsARh02TWfgKkbCKQO-yLCp_GtmhckZZ5SEJxIViJreahTL8Ma6TG2M9qBr2LoFgdOzTCxLb-nLK-pEnQQjVeXG2vviZEExP9y746RZ1QP3EB3Ik-n2Ob7YfCOwQzr0EMzzBTj4oacFfM&amp;gsessionid=3KG8yix5TgIXNoVfrk_4MbxRI25QbcLHVs4F8RhkaJxNWwPYo941gA</id>
-    <title>Metronome invoice and payment reference</title>
-    <link href="https://www.google.com/goto?url=CAESjQEBxCJF17al6DBd9YI2b52IDniZSjZ3uxa7XJ69R4_pG4wb6DMsARh02TWfgKkbCKQO-yLCp_GtmhckZZ5SEJxIViJreahTL8Ma6TG2M9qBr2LoFgdOzTCxLb-nLK-pEnQQjVeXG2vviZEExP9y746RZ1QP3EB3Ik-n2Ob7YfCOwQzr0EMzzBTj4oacFfM&amp;gsessionid=3KG8yix5TgIXNoVfrk_4MbxRI25QbcLHVs4F8RhkaJxNWwPYo941gA" />
-    <published>2026-11-21T12:42:59Z</published>
-    <updated>2026-11-21T12:42:59Z</updated>
-    <summary>このページはまだ日本語ではご利用いただけません。より多くの言語で文書が閲覧できるように現在取り組んでいます。準備が整い次第、翻訳版を提供いたしますので、 ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEShAEBxCJF1xHn_IqfCRnlDGGL4oI4T0RiN_YMicYkZiFzywZVGTAkpyRxNlYqiuJkc4dHzSDAnGk9KvC5qd4-xTHFTBD7khG9ivaDHD8MlGPMgUgNNj0_BTS1Kvfal82lbMog4XR-UMq2tnUdJu064b7DFkAq93BberT_O2DmGmBi-6NEjNE&amp;gsessionid=lhNo6WttBs-8Fq3PViZaG6abLo7YNsn85vqaYMrGLxBm2yVVUvSk4A</id>
-    <title>Add custom payment methods</title>
-    <link href="https://www.google.com/goto?url=CAEShAEBxCJF1xHn_IqfCRnlDGGL4oI4T0RiN_YMicYkZiFzywZVGTAkpyRxNlYqiuJkc4dHzSDAnGk9KvC5qd4-xTHFTBD7khG9ivaDHD8MlGPMgUgNNj0_BTS1Kvfal82lbMog4XR-UMq2tnUdJu064b7DFkAq93BberT_O2DmGmBi-6NEjNE&amp;gsessionid=lhNo6WttBs-8Fq3PViZaG6abLo7YNsn85vqaYMrGLxBm2yVVUvSk4A" />
-    <published>2026-11-21T12:42:59Z</published>
-    <updated>2026-11-21T12:42:59Z</updated>
-    <summary>Learn how to add custom payment methods to Elements.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESgAEBxCJF1xer0CcqZA6Ji8DmhlBw64PDbSJ135bkLOV1HGAzCHb6TYAIbcyPBBusp20dgxwIWjcfUmRyq697i2MXPkr_CqM4Y_g5TM9YcOobOUpuEgYRKn89xf7hNBb5fUltmiiN7qEJ_73VZ2UIQ-u3EI238dgNWqTHLHEe8sAnhw&amp;gsessionid=3TrPQD1qJzPKtGUreVh02qA0N4ByPtB1Qccimv9cpYm03nMs9aPM_A</id>
-    <title>Simulate presenting a payment method</title>
-    <link href="https://www.google.com/goto?url=CAESgAEBxCJF1xer0CcqZA6Ji8DmhlBw64PDbSJ135bkLOV1HGAzCHb6TYAIbcyPBBusp20dgxwIWjcfUmRyq697i2MXPkr_CqM4Y_g5TM9YcOobOUpuEgYRKn89xf7hNBb5fUltmiiN7qEJ_73VZ2UIQ-u3EI238dgNWqTHLHEe8sAnhw&amp;gsessionid=3TrPQD1qJzPKtGUreVh02qA0N4ByPtB1Qccimv9cpYm03nMs9aPM_A" />
-    <published>2026-11-21T12:42:59Z</published>
-    <updated>2026-11-21T12:42:59Z</updated>
-    <summary>Presents a payment method on a simulated reader. Can be used to simulate accepting a payment, saving a card or refunding a transaction. Parameters. idstring ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESgAEBxCJF11TWE94FPeSqB5-oBfdhJy7YshM1Bs3fEbaNoktZt38XHwAT26JpAKA7Fdj25xaFf4zZFJ1r2t3G8u2tf9TB4ZD9h2hIH5RViFZfVvShiMhaEr57uiHDEcqpWFac30-rrCAzU8kSLmiqjSWicblSm_GotQTkk6isVPDcXg&amp;gsessionid=lhNo6WttBs-8Fq3PViZaG6abLo7YNsn85vqaYMrGLxBm2yVVUvSk4A</id>
-    <title>Metronome invoice and payment reference</title>
-    <link href="https://www.google.com/goto?url=CAESgAEBxCJF11TWE94FPeSqB5-oBfdhJy7YshM1Bs3fEbaNoktZt38XHwAT26JpAKA7Fdj25xaFf4zZFJ1r2t3G8u2tf9TB4ZD9h2hIH5RViFZfVvShiMhaEr57uiHDEcqpWFac30-rrCAzU8kSLmiqjSWicblSm_GotQTkk6isVPDcXg&amp;gsessionid=lhNo6WttBs-8Fq3PViZaG6abLo7YNsn85vqaYMrGLxBm2yVVUvSk4A" />
-    <published>2026-11-21T12:42:59Z</published>
-    <updated>2026-11-21T12:42:59Z</updated>
-    <summary>Review the invoice lifecycle, invoice attributes, payment collection, and post-invoice operations for Metronome invoices in Stripe.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESfgHEIkXXem8KYUzgRcFwl_S8uXoSrw_3jwH-zHh_hl5FqBtyd7nugSHiHzxIK337qvS_KFuAehbhS6oSoCrUkM5jbH3-dfZ83iStn2Vg1iU_Gjb-bOMwyWa-f34EyBIeVCnW-k_UC3nOETHwL7gb52NGy6GbK_CwbdNEJO4Dkg&amp;gsessionid=3TrPQD1qJzPKtGUreVh02qA0N4ByPtB1Qccimv9cpYm03nMs9aPM_A</id>
-    <title>Redact a VerificationSession | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESfgHEIkXXem8KYUzgRcFwl_S8uXoSrw_3jwH-zHh_hl5FqBtyd7nugSHiHzxIK337qvS_KFuAehbhS6oSoCrUkM5jbH3-dfZ83iStn2Vg1iU_Gjb-bOMwyWa-f34EyBIeVCnW-k_UC3nOETHwL7gb52NGy6GbK_CwbdNEJO4Dkg&amp;gsessionid=3TrPQD1qJzPKtGUreVh02qA0N4ByPtB1Qccimv9cpYm03nMs9aPM_A" />
-    <published>2026-11-21T12:42:59Z</published>
-    <updated>2026-11-21T12:42:59Z</updated>
-    <summary>Returns ... Need help? Contact Support. Chat with Stripe developers on Discord. Check out our changelog. Questions? Contact Sales. LLM? Read llms.txt.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESewHEIkXXixUe89mNsLuyR9f8aEcU04BEXxJoY29R62fm54-R-Ohy1kDM39RbFVO9brV0tvsSi1rZXVCWdfVBByQVGRdGwd_uEfiTbl_7eM8kvEy2rtKJpjRQfpzZdJQ3kjgIZBPjHQZkh4PxQo202U7l8-wT19Wu_su_sA&amp;gsessionid=3KG8yix5TgIXNoVfrk_4MbxRI25QbcLHVs4F8RhkaJxNWwPYo941gA</id>
-    <title>Create a FinancialAccount | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESewHEIkXXixUe89mNsLuyR9f8aEcU04BEXxJoY29R62fm54-R-Ohy1kDM39RbFVO9brV0tvsSi1rZXVCWdfVBByQVGRdGwd_uEfiTbl_7eM8kvEy2rtKJpjRQfpzZdJQ3kjgIZBPjHQZkh4PxQo202U7l8-wT19Wu_su_sA&amp;gsessionid=3KG8yix5TgIXNoVfrk_4MbxRI25QbcLHVs4F8RhkaJxNWwPYo941gA" />
-    <published>2026-11-21T12:42:59Z</published>
-    <updated>2026-11-21T12:42:59Z</updated>
-    <summary>Set of key-value pairs that you can attach to an object. This can be useful for storing additional information about the object in a structured format.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESewHEIkXXPOXyj3aCa6NHRYSlHJOl1LEVnVHnImXt5i4m08b9t_aO74512P7x4OsuT4LCFexzWo-NTDjm6lhdEHQQPAKkHyzZsy8AzsuAeHtt7itUGEyNvro4CHCQaIzDbhNg-YKQmILgA-MvoIeDm8wGaSKwzUB8uzpneg&amp;gsessionid=3KG8yix5TgIXNoVfrk_4MbxRI25QbcLHVs4F8RhkaJxNWwPYo941gA</id>
-    <title>Stripe-hosted onboarding</title>
-    <link href="https://www.google.com/goto?url=CAESewHEIkXXPOXyj3aCa6NHRYSlHJOl1LEVnVHnImXt5i4m08b9t_aO74512P7x4OsuT4LCFexzWo-NTDjm6lhdEHQQPAKkHyzZsy8AzsuAeHtt7itUGEyNvro4CHCQaIzDbhNg-YKQmILgA-MvoIeDm8wGaSKwzUB8uzpneg&amp;gsessionid=3KG8yix5TgIXNoVfrk_4MbxRI25QbcLHVs4F8RhkaJxNWwPYo941gA" />
-    <published>2026-11-21T12:42:59Z</published>
-    <updated>2026-11-21T12:42:59Z</updated>
-    <summary>Onboard connected accounts by redirecting them to a Stripe-hosted onboarding flow.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdgHEIkXXbKnqQVFA2t0loPnrnUe_kwYE2Hy2zm7EA1qhAL0mq3H4vrzRc4kF7J8YqR6LQVxVkfeIbgFoAo0Cxv8erEvB12BGIV2BaM6MsWbGuIoS-aMO9Dqu5ok3ZOuxE9sgXkprjzAXGGn8eO6Zl58-RBOnwUg&amp;gsessionid=3KG8yix5TgIXNoVfrk_4MbxRI25QbcLHVs4F8RhkaJxNWwPYo941gA</id>
-    <title>Delete a card | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESdgHEIkXXbKnqQVFA2t0loPnrnUe_kwYE2Hy2zm7EA1qhAL0mq3H4vrzRc4kF7J8YqR6LQVxVkfeIbgFoAo0Cxv8erEvB12BGIV2BaM6MsWbGuIoS-aMO9Dqu5ok3ZOuxE9sgXkprjzAXGGn8eO6Zl58-RBOnwUg&amp;gsessionid=3KG8yix5TgIXNoVfrk_4MbxRI25QbcLHVs4F8RhkaJxNWwPYo941gA" />
-    <published>2026-11-21T12:42:59Z</published>
-    <updated>2026-11-21T12:42:59Z</updated>
-    <summary>You can delete cards from a connected account where controller.requirement_collection is application (includes Custom accounts).</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdQHEIkXX5x3dp7TgmAk3jovEFy_XyM-5legjRvLeK5ZNvDYaUfCA5vYkkXCBVm1jfw7r4detl3xM3A4QerU4zoSr7yaiG8RcdyvMlTT2ltvwM8bF0UxWi78hBAv1UY66GgteTkEwgjVCMnGtu4OIsLz48Pgkmw&amp;gsessionid=3TrPQD1qJzPKtGUreVh02qA0N4ByPtB1Qccimv9cpYm03nMs9aPM_A</id>
-    <title>Create a redaction job | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESdQHEIkXX5x3dp7TgmAk3jovEFy_XyM-5legjRvLeK5ZNvDYaUfCA5vYkkXCBVm1jfw7r4detl3xM3A4QerU4zoSr7yaiG8RcdyvMlTT2ltvwM8bF0UxWi78hBAv1UY66GgteTkEwgjVCMnGtu4OIsLz48Pgkmw&amp;gsessionid=3TrPQD1qJzPKtGUreVh02qA0N4ByPtB1Qccimv9cpYm03nMs9aPM_A" />
-    <published>2026-11-21T12:42:59Z</published>
-    <updated>2026-11-21T12:42:59Z</updated>
-    <summary>Creates a redaction job. When a job is created, it will start to validate. Parameters. objectsobjectRequired. The objects to redact. These root objects and ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESdAHEIkXXl8n0PTq3yi2hxZyhgxVfjboQBN7F36aP8Tefpdk6rABScGAL3InsqjwbKODV70lSWkeVeZ6vZekdgx8LWjwXhqC6YaZQYdFighIbYHV54Y9vM16k-Km6u20G_hBbZYqlVIj3IcxzuTSOHtDowOGu&amp;gsessionid=3TrPQD1qJzPKtGUreVh02qA0N4ByPtB1Qccimv9cpYm03nMs9aPM_A</id>
-    <title>Claimable Sandboxes | Stripe API Reference</title>
-    <link href="https://www.google.com/goto?url=CAESdAHEIkXXl8n0PTq3yi2hxZyhgxVfjboQBN7F36aP8Tefpdk6rABScGAL3InsqjwbKODV70lSWkeVeZ6vZekdgx8LWjwXhqC6YaZQYdFighIbYHV54Y9vM16k-Km6u20G_hBbZYqlVIj3IcxzuTSOHtDowOGu&amp;gsessionid=3TrPQD1qJzPKtGUreVh02qA0N4ByPtB1Qccimv9cpYm03nMs9aPM_A" />
-    <published>2026-11-21T12:42:59Z</published>
-    <updated>2026-11-21T12:42:59Z</updated>
-    <summary>A claimable sandbox is a Stripe sandbox that a user can claim into a new or existing Stripe account through an onboarding link. You can prefill it with an email ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAEScgHEIkXXIRrixX5yr6oj-wl4luuUPkCTLG12Ycew9Mjwnr-lhBDVYmTPlMO5iJxbMwmTxfwkLwaz8dZg_g6JE633-TIy-SWMHohxpVdm2G8HP0SmojRo4iMogYFOX3KMT59FauqUzVvJaRGMSyg96YnxsA&amp;gsessionid=lhNo6WttBs-8Fq3PViZaG6abLo7YNsn85vqaYMrGLxBm2yVVUvSk4A</id>
-    <title>How Data Pipeline works</title>
-    <link href="https://www.google.com/goto?url=CAEScgHEIkXXIRrixX5yr6oj-wl4luuUPkCTLG12Ycew9Mjwnr-lhBDVYmTPlMO5iJxbMwmTxfwkLwaz8dZg_g6JE633-TIy-SWMHohxpVdm2G8HP0SmojRo4iMogYFOX3KMT59FauqUzVvJaRGMSyg96YnxsA&amp;gsessionid=lhNo6WttBs-8Fq3PViZaG6abLo7YNsn85vqaYMrGLxBm2yVVUvSk4A" />
-    <published>2026-11-21T12:42:59Z</published>
-    <updated>2026-11-21T12:42:59Z</updated>
-    <summary>Learn what you can do with Data Pipeline. · Automatically export your complete Stripe data in a fast and reliable manner. · Stop relying on third-party extract, ...</summary>
   </entry>
 </feed>
