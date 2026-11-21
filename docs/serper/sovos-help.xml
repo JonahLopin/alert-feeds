@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-21T17:42:35Z</updated>
+  <updated>2026-11-21T19:43:10Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://www.google.com/goto?url=CAESsgEBxCJF10M0j1Wn6gLESEJgE-sa6EggTwYtqEtA-sD2daJZ_zR0MhWeJk2XW_kFMI3Kej76BMjjRgLALH71mqvIcCF7jlx0E8a2dC-bU3DVYZpKfEdDYah7g-b_pG4wRsSOeUlIwsGCgHzE8sNjDBLFD3j2bfLnluwFd0HmGxIgSSkmJ8SuneHXk5nCWw3dQM7Pt1Qu23UO5u-RpV2nKyECoCmLbrjvCeHurJsjE73mijSS&amp;gsessionid=nS1dFZ_1eyqw1NGDJfr10wydCNnhM9wDLlPetc0LbfWDXyPtCh-ZfA</id>
+    <title>About the new IRIS filing system - Sovos Docs</title>
+    <link href="https://www.google.com/goto?url=CAESsgEBxCJF10M0j1Wn6gLESEJgE-sa6EggTwYtqEtA-sD2daJZ_zR0MhWeJk2XW_kFMI3Kej76BMjjRgLALH71mqvIcCF7jlx0E8a2dC-bU3DVYZpKfEdDYah7g-b_pG4wRsSOeUlIwsGCgHzE8sNjDBLFD3j2bfLnluwFd0HmGxIgSSkmJ8SuneHXk5nCWw3dQM7Pt1Qu23UO5u-RpV2nKyECoCmLbrjvCeHurJsjE73mijSS&amp;gsessionid=nS1dFZ_1eyqw1NGDJfr10wydCNnhM9wDLlPetc0LbfWDXyPtCh-ZfA" />
+    <published>2026-11-21T19:43:10Z</published>
+    <updated>2026-11-21T19:43:10Z</updated>
+    <summary>The Information Returns Intake System (IRIS) is the IRS's new platform for submitting 1099 information returns previously reported through their FIRE portal.</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESsgEBxCJF1yKBf8uLHzk8kIHbqnZurgSLic2QyuamdlANDAr07D15AVSJAXVEOyp5_vdwrldZtZOPBq2I-kvO_-HuqyqbbgzYb7NHFXU32mOmrLp70ILHEGo0H2-K5qcplqFcA6tUHO2AgWzbR0tSNnXiTfyJsKQfJekRDhCsAWmG5KJJ4O_6cqc-tJeJH9ES3p3At1RSyU63YzyGJ3_52IvGQD4An1uOjy2lyRSq6geEL7gv&amp;gsessionid=1YI_L4Ylp2yHJj4CyN37cdkUa89B4aZCGqdzWiUY0WGafst4kaQ_4w</id>
     <title>About the new IRIS filing system - Sovos Docs</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T23:42:38Z</published>
     <updated>2026-10-30T23:42:38Z</updated>
     <summary>Open the XML file in a text editor, such as Notepad, Notepad++, or VS Code, and use the line number from the error messages to find the records with errors.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESxAEB6zswFQQh7enYhcAiKtKP-opSJORR10d0pjWJip_OKNO5HCRh5jEfaWW7_HAdA0Zg2eCK6T2KLN0Tbr02Cxl3S9MFbfbqh1MEjWf1x1hsUIytqsn2pu1j7nSKCZoJB_cfZq_uiljRndmTvp0gSflY_za09WyPMnKGv_Oq0Js82SYPW0q3N6jN560tW50bty03Fj5rPTXpv-8YNnHtYpnlFpG8RqGwdLrU3U5RxfoLgizRzgVdhgF2XMadrMJbrQBCltIW</id>
-    <title>Check the status of IRS transmittals - Sovos Docs</title>
-    <link href="https://www.google.com/goto?url=CAESxAEB6zswFQQh7enYhcAiKtKP-opSJORR10d0pjWJip_OKNO5HCRh5jEfaWW7_HAdA0Zg2eCK6T2KLN0Tbr02Cxl3S9MFbfbqh1MEjWf1x1hsUIytqsn2pu1j7nSKCZoJB_cfZq_uiljRndmTvp0gSflY_za09WyPMnKGv_Oq0Js82SYPW0q3N6jN560tW50bty03Fj5rPTXpv-8YNnHtYpnlFpG8RqGwdLrU3U5RxfoLgizRzgVdhgF2XMadrMJbrQBCltIW" />
-    <published>2026-10-30T22:42:59Z</published>
-    <updated>2026-10-30T22:42:59Z</updated>
-    <summary>View whether your transmittals were accepted or need action directly in Sovos's Tax Information Reporting software.</summary>
   </entry>
 </feed>
