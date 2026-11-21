@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-21T20:42:41Z</updated>
+  <updated>2026-11-21T22:42:45Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://www.google.com/goto?url=CAESsgEBxCJF1w3OlNSQbAqNFyu3urSaVFiOkXkQK2J6DPFDKrDTOHH2N9p3MWdzTYuCHEc-vpgGH4rZxMzCuC2hZ5TpnfaiST-78eAwmbsPXC7Fim3G7TI6a6poxum_yVwP0d7Xsh9Bgd3_9JxcvPV0ih-LFoQXeyHyoRPzwTzE1CI8ZKVl1gWEoCB5FmoheQMVGI76MpttwcmG44mZfby8IpllGuhBDALHgOQ6yY2ofdEDMLj0&amp;gsessionid=-B-Iaa-X-qQ66TBDUkT1ZaaIDi_UCW5UdxrCJZMVdCPy1bsMJwpUNw</id>
+    <title>About the new IRIS filing system - Sovos Docs</title>
+    <link href="https://www.google.com/goto?url=CAESsgEBxCJF1w3OlNSQbAqNFyu3urSaVFiOkXkQK2J6DPFDKrDTOHH2N9p3MWdzTYuCHEc-vpgGH4rZxMzCuC2hZ5TpnfaiST-78eAwmbsPXC7Fim3G7TI6a6poxum_yVwP0d7Xsh9Bgd3_9JxcvPV0ih-LFoQXeyHyoRPzwTzE1CI8ZKVl1gWEoCB5FmoheQMVGI76MpttwcmG44mZfby8IpllGuhBDALHgOQ6yY2ofdEDMLj0&amp;gsessionid=-B-Iaa-X-qQ66TBDUkT1ZaaIDi_UCW5UdxrCJZMVdCPy1bsMJwpUNw" />
+    <published>2026-11-21T22:42:45Z</published>
+    <updated>2026-11-21T22:42:45Z</updated>
+    <summary>The Information Returns Intake System (IRIS) is the IRS's new platform for submitting 1099 information returns previously reported through their FIRE portal.</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESsgEBxCJF15wvgAK0ta4aeR9Xqp6-AN90lbfI0G73iVxj5RkFib2lGfKp5TpiOyQCcv_v8YFbGMTvsQMd32_yF3TaoGN-wZzMRjgFIvJp43LGfg1rYlFCmqjMeg1CZ7oX6n8oX5zd_TD-OicghNr5ntb4PuGPB8Jhxn16K3qe4Pg-yKlGA7OUComajDc8AshLYrm_vca7_9e7aRw1TW666kSQiKo4xnnZE31gkAlQffQn9Ri4&amp;gsessionid=TrYDiW561nbeF1JaCS2wytelns9FVRhb4dysxx1hNsFSxMD13N0UWg</id>
     <title>About the new IRIS filing system - Sovos Docs</title>
@@ -795,13 +803,5 @@
     <published>2026-10-31T00:41:09Z</published>
     <updated>2026-10-31T00:41:09Z</updated>
     <summary>Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESxAEB6zswFcpTDnPHAG3baJxEa2BfKBFU-1a0fWQ_jOZY6OORbmPzu5uFuKEWcZHT6sHAAw9DGAYtaTp4h2Ha3CDju_AAUO3avp1jSRBAl8VlhUs39Z408O2Dux3fdSjPuOnxfN4UavQbKOZuFWwm72ihUk3sxS3zSElWS0Fh_FaqX5xD_1UOr3_EcdvXv5xJ7TjJqhyND_ccWuhpjSt7ymu1CwsJ4hX1gekw6qp76K-vG60B8CjKjG-uho5uOSvtSBuoU0FB</id>
-    <title>Check the status of IRS transmittals - Sovos Docs</title>
-    <link href="https://www.google.com/goto?url=CAESxAEB6zswFcpTDnPHAG3baJxEa2BfKBFU-1a0fWQ_jOZY6OORbmPzu5uFuKEWcZHT6sHAAw9DGAYtaTp4h2Ha3CDju_AAUO3avp1jSRBAl8VlhUs39Z408O2Dux3fdSjPuOnxfN4UavQbKOZuFWwm72ihUk3sxS3zSElWS0Fh_FaqX5xD_1UOr3_EcdvXv5xJ7TjJqhyND_ccWuhpjSt7ymu1CwsJ4hX1gekw6qp76K-vG60B8CjKjG-uho5uOSvtSBuoU0FB" />
-    <published>2026-10-30T23:42:38Z</published>
-    <updated>2026-10-30T23:42:38Z</updated>
-    <summary>Usually caused by file formatting issues, such as special characters in records. Review the error details from step 3, fix the records, then regenerate and ...</summary>
   </entry>
 </feed>
