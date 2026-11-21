@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-21T05:43:03Z</updated>
+  <updated>2026-11-21T06:43:21Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://www.google.com/goto?url=CAESxQEBxCJF1_GaZppWoJJbQ38m9lHDKLNJyzrCj2yRucNdJ9_rzRjh5eUOeCsDD2KoLMlMxFnJCnfpxnqH97x4L0RJAqbvYDJY8KAuZXco4iUW2B7ZoMxf2wizJKr68SguT03h1ppjSxvK5IFoWoaYeAgGduDCFGNSDAUraoDnlv0LDxJbRced21TWPzibQRFSxZRRLb4h3pONeDdq23zvXj_0UtojNhlenTsAGlVSAvG1abvaN3vJYo_y8Fu8zK-Zj9jQvNPcQw&amp;gsessionid=zgp17aiLF2yfYk_s10joNaqeUgSpzqzAWBe1GI7FhkeJboP4_qPLjQ</id>
+    <title>Fix XML schema validation errors - Sovos Docs</title>
+    <link href="https://www.google.com/goto?url=CAESxQEBxCJF1_GaZppWoJJbQ38m9lHDKLNJyzrCj2yRucNdJ9_rzRjh5eUOeCsDD2KoLMlMxFnJCnfpxnqH97x4L0RJAqbvYDJY8KAuZXco4iUW2B7ZoMxf2wizJKr68SguT03h1ppjSxvK5IFoWoaYeAgGduDCFGNSDAUraoDnlv0LDxJbRced21TWPzibQRFSxZRRLb4h3pONeDdq23zvXj_0UtojNhlenTsAGlVSAvG1abvaN3vJYo_y8Fu8zK-Zj9jQvNPcQw&amp;gsessionid=zgp17aiLF2yfYk_s10joNaqeUgSpzqzAWBe1GI7FhkeJboP4_qPLjQ" />
+    <published>2026-11-21T06:43:21Z</published>
+    <updated>2026-11-21T06:43:21Z</updated>
+    <summary>Missing required fields are the most common cause of errors. The error message shows empty single quotes ('') to indicate the value is missing: The value '' of ...</summary>
+  </entry>
+  <entry>
+    <id>https://www.google.com/goto?url=CAESkwEBxCJF1woKX5D1jq5ez7-WYUDW4jUbs-wJawHkJ8fciDu4lVDefk1xRGNemnRZ3rSzcOGyxKzU-Xwu5nVFiKRYHwEVkyqgi2SznJhd6fNkB3cbwMZJ4WWaah4toYDN5aHQUGfVaN-XU_WUV_FNw0ZEjHE74tgI-BWkgruHlRpxUJ_COEVoZ5UZCHxTfCcjD4wj2Kg&amp;gsessionid=zgp17aiLF2yfYk_s10joNaqeUgSpzqzAWBe1GI7FhkeJboP4_qPLjQ</id>
+    <title>Documents endpoints - Sovos Docs</title>
+    <link href="https://www.google.com/goto?url=CAESkwEBxCJF1woKX5D1jq5ez7-WYUDW4jUbs-wJawHkJ8fciDu4lVDefk1xRGNemnRZ3rSzcOGyxKzU-Xwu5nVFiKRYHwEVkyqgi2SznJhd6fNkB3cbwMZJ4WWaah4toYDN5aHQUGfVaN-XU_WUV_FNw0ZEjHE74tgI-BWkgruHlRpxUJ_COEVoZ5UZCHxTfCcjD4wj2Kg&amp;gsessionid=zgp17aiLF2yfYk_s10joNaqeUgSpzqzAWBe1GI7FhkeJboP4_qPLjQ" />
+    <published>2026-11-21T06:43:21Z</published>
+    <updated>2026-11-21T06:43:21Z</updated>
+    <summary>Runs an action for documents that were not submitted through Sovos and therefore don't have a Sovos documentId . Provide document identifiers such as accessKey ...</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESkwEBxCJF1zzjD41K-P6Q2wfnKBVHpIWhPHNNF6sRFESXVmTotZhu5gDvC1_mmEUFO77_7S8r-riykxtPim9Cobb6opxvJ3Wdgh1JYMIno4ItV-o7AwkiVqGzYZsm0eJSUHyWp6P6OeYSyq3JKhWy9X__C-KpKeYAffNKW6N3fEOR2KdwrC82beW9YRb89sPi1uGDLZg&amp;gsessionid=Dmk11jdT5RjakaTA63ytREFgRGlEhjnXwRxJOesf0H1LZrQ33LDpww</id>
     <title>Documents endpoints - Sovos Docs</title>
@@ -787,21 +803,5 @@
     <published>2026-10-30T21:43:22Z</published>
     <updated>2026-10-30T21:43:22Z</updated>
     <summary>Usually caused by file formatting issues, such as special characters in records. Review the error details from step 3, fix the records, then regenerate and ...</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESwwEB6zswFcm--ATWhsaDSU658nSSGsUcXbPNGgInj9V-QigympcKMcSyhXSTMvGMbRq-23gGsMgAfqNRukXtyxZs2XNHoMkQvsawpyTXJaVqGYB3HQJq4rZvQ2LPVj94p_zibbsiSqC-QkGirOSVqgckAfC6Tr93jYTpLO1xjvv5pUMnva9Ob4VAe7azRrWZXhMfAbvf_Eydlba8j5VgSKGdS1Jx1GoUxQgyLV03tvIWlfEZPdhgFwNYFkeEPmpYzKyO4UY</id>
-    <title>Fix XML schema validation errors - Sovos Docs</title>
-    <link href="https://www.google.com/goto?url=CAESwwEB6zswFcm--ATWhsaDSU658nSSGsUcXbPNGgInj9V-QigympcKMcSyhXSTMvGMbRq-23gGsMgAfqNRukXtyxZs2XNHoMkQvsawpyTXJaVqGYB3HQJq4rZvQ2LPVj94p_zibbsiSqC-QkGirOSVqgckAfC6Tr93jYTpLO1xjvv5pUMnva9Ob4VAe7azRrWZXhMfAbvf_Eydlba8j5VgSKGdS1Jx1GoUxQgyLV03tvIWlfEZPdhgFwNYFkeEPmpYzKyO4UY" />
-    <published>2026-10-30T21:43:22Z</published>
-    <updated>2026-10-30T21:43:22Z</updated>
-    <summary>Open the XML file in a text editor, such as Notepad, Notepad++, or VS Code, and use the line number from the error messages to find the records with errors.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESxAEB6zswFRSsSq7ztIMvrn-ZdOhzvQnZLeesWPnwmdwpJyynnSZPa2On4XTs2XxvH35vsdAcnpQLm6DTNxduIse-kyzjDTjB6sdl2kzkXYCjg36RXYdoaFek0XY_QPYd0CwVmkudhFHHWHilQl__hO6LN4NOxH7eqk70JrM2OTXzvUdY_qLuZqoNz4IUE-iEKX9wiRVVIwqTC4tlN4ZUhl1ZjSxq4u7xElnYtUQZ9I76yGOP9v7Zy0VrowvLDq98DJZcsG02&amp;gsessionid=TSBoSBq5D2wRkflc1zbJ2P_pmp6mp1AxI9TW_9kyR0ldUZdNR1GLVg</id>
-    <title>Check the status of IRS transmittals - Sovos Docs</title>
-    <link href="https://www.google.com/goto?url=CAESxAEB6zswFRSsSq7ztIMvrn-ZdOhzvQnZLeesWPnwmdwpJyynnSZPa2On4XTs2XxvH35vsdAcnpQLm6DTNxduIse-kyzjDTjB6sdl2kzkXYCjg36RXYdoaFek0XY_QPYd0CwVmkudhFHHWHilQl__hO6LN4NOxH7eqk70JrM2OTXzvUdY_qLuZqoNz4IUE-iEKX9wiRVVIwqTC4tlN4ZUhl1ZjSxq4u7xElnYtUQZ9I76yGOP9v7Zy0VrowvLDq98DJZcsG02&amp;gsessionid=TSBoSBq5D2wRkflc1zbJ2P_pmp6mp1AxI9TW_9kyR0ldUZdNR1GLVg" />
-    <published>2026-10-30T20:43:11Z</published>
-    <updated>2026-10-30T20:43:11Z</updated>
-    <summary>View whether your transmittals were accepted or need action directly in Sovos's Tax Information Reporting software.</summary>
   </entry>
 </feed>
