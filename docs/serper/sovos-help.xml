@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-21T13:42:53Z</updated>
+  <updated>2026-11-21T17:42:35Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://www.google.com/goto?url=CAESsgEBxCJF1yKBf8uLHzk8kIHbqnZurgSLic2QyuamdlANDAr07D15AVSJAXVEOyp5_vdwrldZtZOPBq2I-kvO_-HuqyqbbgzYb7NHFXU32mOmrLp70ILHEGo0H2-K5qcplqFcA6tUHO2AgWzbR0tSNnXiTfyJsKQfJekRDhCsAWmG5KJJ4O_6cqc-tJeJH9ES3p3At1RSyU63YzyGJ3_52IvGQD4An1uOjy2lyRSq6geEL7gv&amp;gsessionid=1YI_L4Ylp2yHJj4CyN37cdkUa89B4aZCGqdzWiUY0WGafst4kaQ_4w</id>
+    <title>About the new IRIS filing system - Sovos Docs</title>
+    <link href="https://www.google.com/goto?url=CAESsgEBxCJF1yKBf8uLHzk8kIHbqnZurgSLic2QyuamdlANDAr07D15AVSJAXVEOyp5_vdwrldZtZOPBq2I-kvO_-HuqyqbbgzYb7NHFXU32mOmrLp70ILHEGo0H2-K5qcplqFcA6tUHO2AgWzbR0tSNnXiTfyJsKQfJekRDhCsAWmG5KJJ4O_6cqc-tJeJH9ES3p3At1RSyU63YzyGJ3_52IvGQD4An1uOjy2lyRSq6geEL7gv&amp;gsessionid=1YI_L4Ylp2yHJj4CyN37cdkUa89B4aZCGqdzWiUY0WGafst4kaQ_4w" />
+    <published>2026-11-21T17:42:35Z</published>
+    <updated>2026-11-21T17:42:35Z</updated>
+    <summary>Learn about the IRS's new IRIS filing system and how it's different from the old FIRE system.</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESkwEBxCJF1_K2_GvQTpbJqRQv5qIxQzqUlBPyF8ktLp60iKKzcbR6ywkcOvmjFPjgAwCu-2CoPQ3073L7gd6J120LZx4v0rQMIWhyvddTOHnEjk6MACZtk38HcntEPwiT6Rn6-CZetwklkqVEktcurhmikB4sAy_59w7bsJKpeFhbSsIIfuRmlmBcN4GnCw1uvCeYnGM&amp;gsessionid=vyb7lRzHmHFH5c9aQXHQ4EgEshUjlMK6CnMxCC-NXnXE6_5LZrbsZQ</id>
     <title>Documents endpoints - Sovos Docs</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T22:42:59Z</published>
     <updated>2026-10-30T22:42:59Z</updated>
     <summary>View whether your transmittals were accepted or need action directly in Sovos's Tax Information Reporting software.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESwwEB6zswFfisPxS_hl4kcRU8vaJE0tq4D2PFdjKvNRp2JVn11zEggkot-duDiJR2xW3EN4r9wPUk8Zz1chcPVfVrwqKntSIh6rntsymLNZP0rUXevIWlVZx3AxDmvVZFz4NcHpcwv9zo35VEXMuIUOacF9NiZWaTRVnKbGaMD6IzWHEJ39Q2aKFWjRqc4_jL3n0gk11EZHG-56vR567we6d3FOrJFj04dmtf1lfzgARWkTUTqJ3pSGhmHeIjXNMk1kkAVlM</id>
-    <title>Fix XML schema validation errors - Sovos Docs</title>
-    <link href="https://www.google.com/goto?url=CAESwwEB6zswFfisPxS_hl4kcRU8vaJE0tq4D2PFdjKvNRp2JVn11zEggkot-duDiJR2xW3EN4r9wPUk8Zz1chcPVfVrwqKntSIh6rntsymLNZP0rUXevIWlVZx3AxDmvVZFz4NcHpcwv9zo35VEXMuIUOacF9NiZWaTRVnKbGaMD6IzWHEJ39Q2aKFWjRqc4_jL3n0gk11EZHG-56vR567we6d3FOrJFj04dmtf1lfzgARWkTUTqJ3pSGhmHeIjXNMk1kkAVlM" />
-    <published>2026-10-30T22:42:59Z</published>
-    <updated>2026-10-30T22:42:59Z</updated>
-    <summary>Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.</summary>
   </entry>
 </feed>
