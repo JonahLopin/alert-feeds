@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:sovos-help</id>
   <title>Sovos help (site:docs.sovos.com) via Serper</title>
-  <updated>2026-11-21T02:42:53Z</updated>
+  <updated>2026-11-21T04:42:44Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/sovos-help.xml" />
+  <entry>
+    <id>https://www.google.com/goto?url=CAESkwEBxCJF14rTabcL4n7Fmfci1j2wGYTVd0s1TjpOpZEkxTFs1rqFZclXl143h1x0Ppnnk4rNoGPs8J_BtvKWmO2-FI0PhrLzFxIzr62bYmv-kMg2TwwjcUyWX2LVH1Si4rEldyyQONNPjS45nIYbPSR2qsj12O5xpZvydipSfS0iZ1RgYwW2-4RYywJnlG7ksgnHxjE&amp;gsessionid=xNobXEt2I_UDdInliztDXKdBe1AbHOBuZGWlV-4CR15lWp0cf4qC6g</id>
+    <title>Documents endpoints - Sovos Docs</title>
+    <link href="https://www.google.com/goto?url=CAESkwEBxCJF14rTabcL4n7Fmfci1j2wGYTVd0s1TjpOpZEkxTFs1rqFZclXl143h1x0Ppnnk4rNoGPs8J_BtvKWmO2-FI0PhrLzFxIzr62bYmv-kMg2TwwjcUyWX2LVH1Si4rEldyyQONNPjS45nIYbPSR2qsj12O5xpZvydipSfS0iZ1RgYwW2-4RYywJnlG7ksgnHxjE&amp;gsessionid=xNobXEt2I_UDdInliztDXKdBe1AbHOBuZGWlV-4CR15lWp0cf4qC6g" />
+    <published>2026-11-21T04:42:44Z</published>
+    <updated>2026-11-21T04:42:44Z</updated>
+    <summary>Use the Documents endpoints to send new documents, retrieve documents, or perform actions on previously sent documents.</summary>
+  </entry>
   <entry>
     <id>https://www.google.com/goto?url=CAESxQEBxCJF12BwWxGBbBILo-RHbEl4rlaT1FGB51L48xtH1csFtRNBocoO5hrysIyNaDe0vU6T8dm1Y0zzEWkFaLEmnQIgre1PxtEBcKV7qIdDmWqrFVd6bdANjtS8L3HpUL6j_rT6IGVPRgwEQIqMvi7PFStOST0k7BPnsk0KlzdNWRSr9fQGihPHREaehsohk62zp8JS-rklDn6hw65u58hrbtcMwl1H8RrUID9FmTuiGN1moFKROzr62hnYGt6zUl3PaCwqTw&amp;gsessionid=jF-_Gpf-5qB0vV_mHvQfkACbxhiBsmkf9BZFTSjSAc1LNpKl8gHCnA</id>
     <title>Fix XML schema validation errors - Sovos Docs</title>
@@ -795,13 +803,5 @@
     <published>2026-10-30T20:43:11Z</published>
     <updated>2026-10-30T20:43:11Z</updated>
     <summary>Learn how to find and resolve XML schema validation errors in your transmittal files before submitting them to the IRS.</summary>
-  </entry>
-  <entry>
-    <id>https://www.google.com/goto?url=CAESxAEB6zswFbKKgnqpoRLqMHwMtwu6FDDVGmm8CTCIFjeaV3NfLBY-ljSJXBXpgkkZ-1AgbZsbPJTerGId6PZw_UWQMfq3EzVhA0MFLQzn3uFYCZg8DxVJYd0p2ICxCyvyQlYl3iTISCZCa6fGYZRdAyVPteDztCBfpH4s3FNDoIgnX_VpL4eu3W4J0rZHeFQzlilpiVlFI180JuyRPDn8t4rfJTF0LgQjvHVVd8tVOTpq1PBcq7bsxIpIbpUkgzSefRRWDSJy</id>
-    <title>Check the status of IRS transmittals - Sovos Docs</title>
-    <link href="https://www.google.com/goto?url=CAESxAEB6zswFbKKgnqpoRLqMHwMtwu6FDDVGmm8CTCIFjeaV3NfLBY-ljSJXBXpgkkZ-1AgbZsbPJTerGId6PZw_UWQMfq3EzVhA0MFLQzn3uFYCZg8DxVJYd0p2ICxCyvyQlYl3iTISCZCa6fGYZRdAyVPteDztCBfpH4s3FNDoIgnX_VpL4eu3W4J0rZHeFQzlilpiVlFI180JuyRPDn8t4rfJTF0LgQjvHVVd8tVOTpq1PBcq7bsxIpIbpUkgzSefRRWDSJy" />
-    <published>2026-10-30T19:42:38Z</published>
-    <updated>2026-10-30T19:42:38Z</updated>
-    <summary>Usually caused by file formatting issues, such as special characters in records. Review the error details from step 3, fix the records, then regenerate and ...</summary>
   </entry>
 </feed>
