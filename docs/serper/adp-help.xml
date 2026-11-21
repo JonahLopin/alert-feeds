@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:serper-feeds:adp-help</id>
   <title>ADP help (site:adp.com/about-adp/data-security/alerts/) via Serper</title>
-  <updated>2026-11-19T23:43:02Z</updated>
+  <updated>2026-11-21T05:43:03Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/serper/adp-help.xml" />
+  <entry>
+    <id>https://www.google.com/goto?url=CAESiAEBxCJF15H-9K79t8wAkwkDcy_ZoK3VrCSawPhOS2yj8TfEgB8_FewJLkn16d_dbS2E508k00Qj8XyUvG6rHgjROZhtit_s1_HAeU_Rz__5D0LGGECmpJq1k1yzUQS18Dfb8dih4XKFxqbBiAtyUL8_lBEny4JOE-GqNfykoWJ4HUP8jg8NU54c&amp;gsessionid=db7qzsCxTZ0OM-2J5HkrYBXEHFIZgW7aB23ZhtsYOkqHW3csQigFSw</id>
+    <title>Java4Shell vulnerability</title>
+    <link href="https://www.google.com/goto?url=CAESiAEBxCJF15H-9K79t8wAkwkDcy_ZoK3VrCSawPhOS2yj8TfEgB8_FewJLkn16d_dbS2E508k00Qj8XyUvG6rHgjROZhtit_s1_HAeU_Rz__5D0LGGECmpJq1k1yzUQS18Dfb8dih4XKFxqbBiAtyUL8_lBEny4JOE-GqNfykoWJ4HUP8jg8NU54c&amp;gsessionid=db7qzsCxTZ0OM-2J5HkrYBXEHFIZgW7aB23ZhtsYOkqHW3csQigFSw" />
+    <published>2026-11-21T05:43:03Z</published>
+    <updated>2026-11-21T05:43:03Z</updated>
+    <summary>ADP is aware of recent reports regarding Java4Shell, a vulnerability in the Java programming language.</summary>
+  </entry>
   <entry>
     <id>https://www.adp.com/about-adp/data-security/alerts/java4shell-vulnerability</id>
     <title>Java4Shell vulnerability</title>
