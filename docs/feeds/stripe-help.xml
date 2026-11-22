@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-21T16:06:46Z</updated>
+  <updated>2026-11-22T15:05:54Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:9094856020348867472</id>
+    <title>Add discounts - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/checkout/discounts?ui=elements" />
+    <published>2026-11-22T15:05:54Z</published>
+    <updated>2026-11-22T15:05:54Z</updated>
+    <summary>To create a promotion code, specify an existing coupon and any restrictions (for example, limiting it to a specific customer or customer_account). If ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:15809884256101718414</id>
+    <title>List all app installs | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/apps/installs/list" />
+    <published>2026-11-22T15:05:54Z</published>
+    <updated>2026-11-22T15:05:54Z</updated>
+    <summary>Only return installs made by this account. Only useful to an app developer filtering by its own app with its own key, whose list spans the accounts ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:5549223231104398598</id>
     <title>Available payment methods change event - Stripe JS Reference</title>
@@ -787,21 +803,5 @@
     <published>2026-10-29T19:42:55Z</published>
     <updated>2026-10-29T19:42:55Z</updated>
     <summary>Allow an analytics or error monitoring service in your app manifest, then track onboarding progress, route transitions, errors, and blocked ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:14371094541780465897</id>
-    <title>Workload Identity Federation with Google Cloud | Stripe Documentation</title>
-    <link href="https://docs.stripe.com/workload-identity-federation/google-cloud" />
-    <published>2026-10-29T19:42:55Z</published>
-    <updated>2026-10-29T19:42:55Z</updated>
-    <summary>Create a Google Cloud service account with the Google Cloud console, the gcloud CLI, or Terraform, create a matching service principal in Stripe, ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:14054889552386650048</id>
-    <title>Enable tax by default for subscription schedules - Stripe Documentation</title>
-    <link href="https://docs.stripe.com/tax/subscription-schedules/automatic-tax-default" />
-    <published>2026-10-29T19:42:55Z</published>
-    <updated>2026-10-29T19:42:55Z</updated>
-    <summary>Use the subscriptions Tax integration configuration default for subscription schedules and inspect tax enablement for each phase.</summary>
   </entry>
 </feed>
