@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:spoton-help</id>
   <title>SpotOn help (site:help.spoton.com)</title>
-  <updated>2026-11-20T09:24:51Z</updated>
+  <updated>2026-11-22T13:05:47Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/spoton-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:316620757051109206</id>
+    <title>Scheduled Orders | SpotOn Restaurant FOH (RPOS)</title>
+    <link href="https://help.spoton.com/space/SK/814088713/Scheduled+Orders+%7C+SpotOn+Restaurant+FOH+(RPOS)" />
+    <published>2026-11-22T13:05:47Z</published>
+    <updated>2026-11-22T13:05:47Z</updated>
+    <summary>Scheduled Orders can also be used to keep an order in the system beyond Auto End of Day (AEOD). By scheduling an open order for the next business day, ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:12817661655267366834</id>
     <title>SpotOn Handheld 1.0 Multi Charger Best Practices Guide</title>
