@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com)</title>
-  <updated>2026-11-21T17:23:02Z</updated>
+  <updated>2026-11-22T18:43:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sap-financial-management-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8352216847804139188</id>
+    <title>Dr. Fahd Nawwab, VP, SAP KSA - SAP MENA Press Room</title>
+    <link href="https://news.sap.com/mena/2026/11/sap-highlights-changing-skills-needs-as-ai-reshapes-jobs-in-ksa/dr-fahd-nawwab-vp-sap-ksa/" />
+    <published>2026-11-22T18:43:04Z</published>
+    <updated>2026-11-22T18:43:04Z</updated>
+    <summary>Dr. Fahd Nawwab, VP, SAP KSA. SAP. United States +1-800-872-1727. Or see our complete list of local country numbers.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8286737002004264997</id>
     <title>Successful entrepreneur standing in his company, using digital tablet - SAP Japan プレスルーム</title>
@@ -786,13 +794,5 @@
     <link href="https://news.sap.com/wp-admin/*" />
     <published>2026-10-18T06:15:49Z</published>
     <updated>2026-10-18T06:15:49Z</updated>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:6089451427635093370</id>
-    <title>The Next Leap in Public Services Starts Behind the Scenes - SAP News Center</title>
-    <link href="https://news.sap.com/2026/10/next-leap-public-services-behind-the-scenes-spublic-berlin/" />
-    <published>2026-10-16T17:45:56Z</published>
-    <updated>2026-10-16T17:45:56Z</updated>
-    <summary>AI, connected processes, and SAP Sovereign Cloud can transform public administration. Get practical examples from S.Public in Berlin.</summary>
   </entry>
 </feed>
