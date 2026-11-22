@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "credits_used": 52289,
+  "credits_used": 52309,
   "feed_query": {
    "adp-help": "site:adp.com/about-adp/data-security/alerts/",
    "adp-press": "site:mediacenter.adp.com",
@@ -84,8 +84,8 @@
    "zamp-help": "qdr:w"
   },
   "first_run": "2026-10-09T14:37:09Z",
-  "last_error": "",
-  "last_run": "2026-11-21T23:42:58Z",
+  "last_error": "Serper 400: {\"message\":\"Not enough credits\",\"statusCode\":400}",
+  "last_run": "2026-11-22T00:46:23Z",
   "paged": [
    "adp-help",
    "adp-press",
@@ -127,7 +127,7 @@
    "wolters-kluwer-tax-press",
    "zamp-help"
   ],
-  "runs": 1009
+  "runs": 1010
  },
  "feeds": {
   "adp-help": {
@@ -934,6 +934,15 @@
     "summary": "ADP was chosen as the best provider of HR software for small businesses in Newsweek's 2026 Readers' Choice Awards. ROSELAND, N.J., November 18, ...",
     "title": "ADP Voted #1 Best Small Business HR Software ..."
    },
+   "google.com/goto?url=CAESqgEBxCJF12gepkZaeVBaIxdid8JKobICxXmVlj3iKT-UylUFwPX1oSeQ92vvmc6LxbgW0cQKOnP9tlH9fxicH-J1yr4hp06LTpl-77CH37kSq6xdsBifZGk8HYVcB9DqL7SEPsYZvztAEgfXns5jygmQi58ssCqDVxWkWbLrPvWHxudYU6NjgWh56QzUQMDE7KsBPyA8KkZsIumIaJhcCpyNn9HkxBFaqkfcnQ&gsessionid=8iT8xQ1Mh_2nXJwo0jLx2DfOpitmZtlo1E1hYYnhZklOpYYQTLydyA": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAESqgEBxCJF12gepkZaeVBaIxdid8JKobICxXmVlj3iKT-UylUFwPX1oSeQ92vvmc6LxbgW0cQKOnP9tlH9fxicH-J1yr4hp06LTpl-77CH37kSq6xdsBifZGk8HYVcB9DqL7SEPsYZvztAEgfXns5jygmQi58ssCqDVxWkWbLrPvWHxudYU6NjgWh56QzUQMDE7KsBPyA8KkZsIumIaJhcCpyNn9HkxBFaqkfcnQ&gsessionid=8iT8xQ1Mh_2nXJwo0jLx2DfOpitmZtlo1E1hYYnhZklOpYYQTLydyA",
+    "page": 1,
+    "summary": "ADP was chosen as the best provider of HR software for small businesses in Newsweek's 2026 Readers' Choice Awards. ROSELAND, N.J., November 18, ...",
+    "title": "ADP Voted #1 Best Small Business HR Software ..."
+   },
    "google.com/goto?url=CAESqgEBxCJF140o3g_zXrZ2GTfzJl-nBQDZZ8WzXL9Rw-KSzs1TQLeQmXio1US6p12ry4l9IJYUu5HBTKiUR2mYEqqFC97KXc7usfw1oG2nMSUnd37dNJq8FzKUeww6iU90Pb7Bc6leKNq3O6z6LoznTWZf5mGdFx4LvryTpVuIXp2TnVBWH1KB-c6rlNqHO6VKIqHrkvbYK7YX0jk9TiJNRoq8yhW2MTAOX88DQA&gsessionid=3nneadd0qygah4vldTy0hPI10fJknZCUdLwJv2DEgRjWuwZKQq6CCw": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -1218,6 +1227,15 @@
     "date_hint": "3 days ago",
     "first_seen": "2026-11-20T02:43:03Z",
     "link": "https://www.google.com/goto?url=CAESrgEBxCJF10JfrK2CaEYh5TgH6yb7jQmjlG0Xfmxmr6940MxdNeu6JbX2ftuc29oG9dDa1jTPQ0lgyibu2aUuD5FjuYVLXZ-yDg21mRvcrDmt6DtQV7Nh3oj8DLoY-DXJcbFuKWhhiZYynXN0pEInRgSVy8odhlyhzImCK-F4wcyd-NJv7RUzsjyIQb0hPpQ6j2mPncvcj6-Nr5941q2e2ADyasLR41TX-53Nt4X4YAo&gsessionid=x4zEIvKnrLebnXVpBJiQJAIQjQ1zbNWVhlMTNrJgReJvHUyfM9q3cQ",
+    "page": 1,
+    "summary": "The NER Pulse is an estimate of the week-over-week change in employment based on a four-week moving average. These estimates are based on ADP's finely tuned, ...",
+    "title": "ADP National Employment Report Preliminary Estimate for ..."
+   },
+   "google.com/goto?url=CAESrgEBxCJF115X-v1Hd4owFwsgiV3c7CrCcRBFXsLY4MGZkPvni1sklxYUwwpa6IdXrp9yPa1jjP2Drv6aXMy4oKXrhGKJtM_w5YJ66M9XZ8Fcj8sipX3-8X1TjbTpoVlWb3PaKHJbRLgNB0qIbLwvMhQqBhCiaDC8LAj79S9XTEVzQNPhiD7f-EcrKGVExiOQ_AoJobFrwRwWzEnx8HyR91fekCevi5inqfNJwTHZNyQ&gsessionid=8iT8xQ1Mh_2nXJwo0jLx2DfOpitmZtlo1E1hYYnhZklOpYYQTLydyA": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAESrgEBxCJF115X-v1Hd4owFwsgiV3c7CrCcRBFXsLY4MGZkPvni1sklxYUwwpa6IdXrp9yPa1jjP2Drv6aXMy4oKXrhGKJtM_w5YJ66M9XZ8Fcj8sipX3-8X1TjbTpoVlWb3PaKHJbRLgNB0qIbLwvMhQqBhCiaDC8LAj79S9XTEVzQNPhiD7f-EcrKGVExiOQ_AoJobFrwRwWzEnx8HyR91fekCevi5inqfNJwTHZNyQ&gsessionid=8iT8xQ1Mh_2nXJwo0jLx2DfOpitmZtlo1E1hYYnhZklOpYYQTLydyA",
     "page": 1,
     "summary": "The NER Pulse is an estimate of the week-over-week change in employment based on a four-week moving average. These estimates are based on ADP's finely tuned, ...",
     "title": "ADP National Employment Report Preliminary Estimate for ..."
@@ -16694,6 +16712,15 @@
     "page": 1,
     "summary": "He works with companies at every stage of growth, from startups to Fortune 100 companies, and represents clients in trademark disputes, domain name disputes, ...",
     "title": "Orrick Onboards Tech Sector Trademark and Brand ..."
+   },
+   "google.com/goto?url=CAESrwEBxCJF11ROz5Oeh_s8eKKkFnet2kMikqoyxuIMdNy89YPr6KpgCmttKctjxDdFV3Bf5hjFb38usS7zGBgLtRjJWMqH4LhvdCKmezz56H0lMWM85p92fvi2Sg3l1f_QJY9cmwQhWGm9IjSqY0XGPfb4dvhPrG_KuYaE7-MSCjzFpR82Y3xjGqcsG5gDO9CtrC-LkqKte4OcKtFu8a3yYviGSNeT5iQZWg7wqSnpM64b&gsessionid=17H20m2E0icX95dhf3Cc7hrystrLCvtFaLRi45jrWUI58w9LHAWf_w": {
+    "baseline": false,
+    "date_hint": "9 hours ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAESrwEBxCJF11ROz5Oeh_s8eKKkFnet2kMikqoyxuIMdNy89YPr6KpgCmttKctjxDdFV3Bf5hjFb38usS7zGBgLtRjJWMqH4LhvdCKmezz56H0lMWM85p92fvi2Sg3l1f_QJY9cmwQhWGm9IjSqY0XGPfb4dvhPrG_KuYaE7-MSCjzFpR82Y3xjGqcsG5gDO9CtrC-LkqKte4OcKtFu8a3yYviGSNeT5iQZWg7wqSnpM64b&gsessionid=17H20m2E0icX95dhf3Cc7hrystrLCvtFaLRi45jrWUI58w9LHAWf_w",
+    "page": 1,
+    "summary": "Goldman Sachs Group Inc. spent more than a year trying to solve one of tech's biggest headaches: how to pay for AI chips without wrecking corporate balance ...",
+    "title": "Goldman's SpaceX Pitch Helps Solve AI Debt Puzzle"
    },
    "google.com/goto?url=CAESrwEBxCJF11W2FqaluZ700JkjXKBKfNIxI9xbATC-tHNrG1k6bOzIrWbveTAew0TUIM9SikpfSmpmySLPAEjJ8T28RZVJWluFMvVxtIPJEwe0b1yavYuvwxGZvOiDQg5x_xfAi4RTwog1X_qyUKyokRYn5mU87GylVw_cxS9S3visgqccM58mZOJdKgrz2TIEte5ts57n8x6HSnyWlLecbrbQ1GjUGOPJIqd19CwdzWMp&gsessionid=8Rzt8URchQy0_6IikM8nl6yX6epBAdkgPcRSWofmiuCFBfgzniTtcQ": {
     "baseline": false,
@@ -34073,6 +34100,15 @@
     "summary": "A kitchen running one concept can get away with a rough inventory system \u2014 a clipboard count on Sunday, a gut-check reorder, a shrug when the numbers don't ...",
     "title": "Best Restaurant Inventory Management Tools for a Multi ..."
    },
+   "google.com/goto?url=CAESuwEBxCJF1_KScq2AKkGVEmU8p6mBQCjriqqOuW5ULURZ5_g0Z68oGi5jNBrjjNjKXxJa8Uh27IHytq1ipKsDKxcqB6-8yNCZuuzgpuYG02CtaOWU6yvX2PxBfCexiyOyO7dX-osD6X2LFGIYyFFWT22--L1pg-nv1XPvSWtllT6-xkTDqHxsvT6bx3mQjx3BWNuvE_H5DBET9JwPuKzBCNe_J5RU0SmZsSJOZxFD-a5DwepkuDt5nuDKRrOJ&gsessionid=kcvvMBpeDpY3yjRCYCYBGN2cBoS9RbZGi7bP_VJRMRkqaUdFsOrAEw": {
+    "baseline": false,
+    "date_hint": "15 hours ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAESuwEBxCJF1_KScq2AKkGVEmU8p6mBQCjriqqOuW5ULURZ5_g0Z68oGi5jNBrjjNjKXxJa8Uh27IHytq1ipKsDKxcqB6-8yNCZuuzgpuYG02CtaOWU6yvX2PxBfCexiyOyO7dX-osD6X2LFGIYyFFWT22--L1pg-nv1XPvSWtllT6-xkTDqHxsvT6bx3mQjx3BWNuvE_H5DBET9JwPuKzBCNe_J5RU0SmZsSJOZxFD-a5DwepkuDt5nuDKRrOJ&gsessionid=kcvvMBpeDpY3yjRCYCYBGN2cBoS9RbZGi7bP_VJRMRkqaUdFsOrAEw",
+    "page": 1,
+    "summary": "The NRA Show 2026 takes place at McCormick Place, located at 2301 S. Lake Shore Drive, Chicago, IL 60616. The venue sits on the western shore of Lake Michigan, ...",
+    "title": "National Restaurant Association Show 2026 Location"
+   },
    "google.com/goto?url=CAESuwEBxCJF1_w3kiEP7a7946BdPDDfaH1qA9S-f9DzwhUn-46zn4cQ62Z1j03AyvzwNkKcKVk2fCBf2ApjSKF_bn2EYDoRqF9bMEqUrTbacDroBFrhapRMMWAjw-1gVmAS7TRE9jg2rrllZFE2sAzoea2SU4DNbpZOG7UfngJsU0QUBHSrTjUvlg2Pfh1lyNUyETM_yH_6rw4KZZiidW6oqFUv6fkgRxiPdDb0a_XON_6vwZwQHpKJQMiBQ4NF&gsessionid=n_wqRCslvqGpuO-ZBtveh5jaLwPdhVDCiq3FgyuujdKYVnPuPxxPlw": {
     "baseline": false,
     "date_hint": "7 hours ago",
@@ -34633,6 +34669,15 @@
     "date_hint": "4 days ago",
     "first_seen": "2026-11-21T21:42:47Z",
     "link": "https://www.google.com/goto?url=CAESdAHEIkXXcFlPKLQgx7BhqHOn-TGSGz3g8o1CfF3M9Bd8vjFzhZ7-eX2wMmARFQwKAn4m_sOQxRHB8fm7_9BwRFenpFj03wo-Q0-eOhvHibjwkV1a51OnY2QgTA5uQMzCSkNwx2yehviJR4dw4PHsWIQCu-Cl&gsessionid=tMY5KDu3anJZSv2LK3qDZyldZH70CDVB_D8XszIEY1MdDPHvpWHLZg",
+    "page": 1,
+    "summary": "Discover how ghost kitchens work and learn about profit margins, business models, and how to launch a successful delivery-only brand with DoorDash.",
+    "title": "Ghost Kitchen 101: How to Start a Delivery-Only Business"
+   },
+   "google.com/goto?url=CAESdAHEIkXXes3Om_gs114T-4CzmTP3ObXGwc8aQaE8LPNJQaeYQ2aK484WAtRirfFIzXqBPpF_mk2McAP_fu0GbzM7honVVOeXlQM41RIXJlfaJXrAdDrrey6hCNilc2q4ecKBAzEqGuhGpoQFUTIZudWSRYLW&gsessionid=NX9R0mI45jwWfqXyu0_hql0aHq2TAEtmLeEI_Tx8HtPyX9gyF7TaDg": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAESdAHEIkXXes3Om_gs114T-4CzmTP3ObXGwc8aQaE8LPNJQaeYQ2aK484WAtRirfFIzXqBPpF_mk2McAP_fu0GbzM7honVVOeXlQM41RIXJlfaJXrAdDrrey6hCNilc2q4ecKBAzEqGuhGpoQFUTIZudWSRYLW&gsessionid=NX9R0mI45jwWfqXyu0_hql0aHq2TAEtmLeEI_Tx8HtPyX9gyF7TaDg",
     "page": 1,
     "summary": "Discover how ghost kitchens work and learn about profit margins, business models, and how to launch a successful delivery-only brand with DoorDash.",
     "title": "Ghost Kitchen 101: How to Start a Delivery-Only Business"
@@ -37445,6 +37490,15 @@
     "summary": "Discover the best restaurant marketing tools, from AI and CRM to loyalty and reviews, powered by DoorDash Direct.",
     "title": "Best Restaurant Marketing Tools to Boost Sales in 2026"
    },
+   "google.com/goto?url=CAESgQEBxCJF11_TNUZxCyG94uP9v13wGTiuVKG1z0-Lkw6dxz6gPKMa2BeSC_4-64WWr0q4WzoJf-oZpgwZlAkAiwnm9Bas9wHHK6N-6uzT1FuiV9vMc6g54W0TUGqVOnrMph178Ir46pC46hCxTnjgnepOQaXSYSvO9hNfZP8EkL9gqt4&gsessionid=NX9R0mI45jwWfqXyu0_hql0aHq2TAEtmLeEI_Tx8HtPyX9gyF7TaDg": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAESgQEBxCJF11_TNUZxCyG94uP9v13wGTiuVKG1z0-Lkw6dxz6gPKMa2BeSC_4-64WWr0q4WzoJf-oZpgwZlAkAiwnm9Bas9wHHK6N-6uzT1FuiV9vMc6g54W0TUGqVOnrMph178Ir46pC46hCxTnjgnepOQaXSYSvO9hNfZP8EkL9gqt4&gsessionid=NX9R0mI45jwWfqXyu0_hql0aHq2TAEtmLeEI_Tx8HtPyX9gyF7TaDg",
+    "page": 1,
+    "summary": "This guide breaks down the restaurant marketing tools that matter most in 2026 and shows you how to put them to work without adding another full-time job to ...",
+    "title": "Best Restaurant Marketing Tools to Boost Sales in 2026"
+   },
    "google.com/goto?url=CAESgQEBxCJF11f868ZP64vgddinPpDDwxRJn8cVBIkJ9ecK8faSmR7zcMSpm6x4vOYtluE155LZycbrP3X6J-ja_HaV75MAr0WLbKDStriOXxj9xX_ENGN5bndnXJdb2Vi3RNb8hrkKbpFJ6GmNZbhbwu2VlcVj97MEkEtfd9Nlit4MNzQ&gsessionid=JYfZmT3bZAzmyA9R34qqZoAXFR9kZ1pAus7RqHZytKa4BClGnLo9Og": {
     "baseline": false,
     "date_hint": "3 days ago",
@@ -38128,6 +38182,15 @@
     "page": 1,
     "summary": "66% of consumers order more often from restaurants where they're loyalty members. This guide covers the loyalty program types that work, the reward math ...",
     "title": "Restaurant loyalty programs: how to start one in 2026"
+   },
+   "google.com/goto?url=CAESgQEBxCJF1zRTX1g34b1gsaG6Pgds4iLtBZDcV9MuwBBs83HSDd-JExQIvkpPU3H7TToWcx44DEY3FX_g_zimcCFNd2t19BLh43Os3LV5FdupVq4_OQEqxNm-q0OuIobh2N_dDG0vFhbB2GGc1tZ6yLDfuQly9uc2rkzDaliAOJEqTfs&gsessionid=NX9R0mI45jwWfqXyu0_hql0aHq2TAEtmLeEI_Tx8HtPyX9gyF7TaDg": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAESgQEBxCJF1zRTX1g34b1gsaG6Pgds4iLtBZDcV9MuwBBs83HSDd-JExQIvkpPU3H7TToWcx44DEY3FX_g_zimcCFNd2t19BLh43Os3LV5FdupVq4_OQEqxNm-q0OuIobh2N_dDG0vFhbB2GGc1tZ6yLDfuQly9uc2rkzDaliAOJEqTfs&gsessionid=NX9R0mI45jwWfqXyu0_hql0aHq2TAEtmLeEI_Tx8HtPyX9gyF7TaDg",
+    "page": 1,
+    "summary": "Invest in local event sponsorships, user-generated content, and social media marketing. Host a monthly themed event, encourage customer photos with a branded ...",
+    "title": "25 Restaurant Marketing Ideas to Increase Sales in 2026"
    },
    "google.com/goto?url=CAESgQEBxCJF1zUI2S04jhz4fMCFsc0SlGxgMDTSlOonljQz8OnSZNHkLSvPPhwMDextLDfWVC37MSJGoaiupHrKo_mMHHVYdCJ-TQRbhlAscl3GMadQJ33hosylHMFjkUp9RNVhS7sPfuw9qxnYWo3J6qe0RvcuoW3cCUTCk7UF14eBpJY&gsessionid=HWFmnXRUcCjyTKyHjLdHGvU1QPJoWwgXxaJ2RLRPz_4Df4QWM0oRcQ": {
     "baseline": false,
@@ -38948,6 +39011,15 @@
     "summary": "A loyalty program (Store Loyalty and Cross-Channel Loyalty are two examples) is a program you run with rewards you set.",
     "title": "Restaurant loyalty programs: how to start one in 2026"
    },
+   "google.com/goto?url=CAESggEBxCJF19TCF0_Suy4yXmIDinEmFtMu1q35WUAlOolgbq0DUU45Fx3xKBzdgxEP954yZ1vARXXO3XDApUC1Tw2bFcF3i8bGNHC3EB5nbxetjUinrhM3VIdX8SDGWz9EpnIyOF85gSW1M96bvMfIljJ6d2BqNwL62VKuZ-tDr2Iymwuu&gsessionid=NX9R0mI45jwWfqXyu0_hql0aHq2TAEtmLeEI_Tx8HtPyX9gyF7TaDg": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAESggEBxCJF19TCF0_Suy4yXmIDinEmFtMu1q35WUAlOolgbq0DUU45Fx3xKBzdgxEP954yZ1vARXXO3XDApUC1Tw2bFcF3i8bGNHC3EB5nbxetjUinrhM3VIdX8SDGWz9EpnIyOF85gSW1M96bvMfIljJ6d2BqNwL62VKuZ-tDr2Iymwuu&gsessionid=NX9R0mI45jwWfqXyu0_hql0aHq2TAEtmLeEI_Tx8HtPyX9gyF7TaDg",
+    "page": 1,
+    "summary": "A loyalty program (Store Loyalty and Cross-Channel Loyalty are two examples) is a program you run with rewards you set.",
+    "title": "Restaurant loyalty programs: how to start one in 2026"
+   },
    "google.com/goto?url=CAESggEBxCJF19aDJGllkhwmlsPX9neOiNPP1dntAD2tSVL8WFhynjWIlEWs-dHc4THHDOVs4tq7TVy2aXr2t2h-l7_lYIfEunSDZTW2T0WCNUJUDOcPtHnQzQK66cmgISn_12HQUQQq-UwyXie2KIuFYTDVIMDEmtLV9GZMou9DcMzfOENk&gsessionid=KTfPQKTHjz_L5z9xMd-Gm3e7h8ErsYbv3tbVw4smYbzrV768RUYdeQ": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -39313,6 +39385,15 @@
     "date_hint": "5 days ago",
     "first_seen": "2026-11-21T05:43:03Z",
     "link": "https://www.google.com/goto?url=CAESggEBxCJF1ylO06WLAIzVWn0noZUXIOQQL47byEGol2fsuI1z6cc8Z6RkcVHFvlig6qJcHb9vfwwQfSMCtrn11OwoG09wqvkt1_1FwCxAuvjUCSsUIbp4J1SWtNKEom1axUTM7T0QRRlAcKaVAWnbP9FMpdcWqRdiEaTfEYYaLJfuEsA4&gsessionid=u3YKGrGR2v1AqnqWHvHZwqK1Q3g73pqU1XL7EU1HWy_GkWJSTD87Og",
+    "page": 1,
+    "summary": "Step 1: Pick a domain name that's. Match your restaurant name. Use .com if you can. Design the pages that drive visits and orders. List your hours, address, ...",
+    "title": "How to Build a Restaurant Website That Gets Orders"
+   },
+   "google.com/goto?url=CAESggEBxCJF1yzwitZnF7fCK0kUbdee98z1TV9u9KLkkcuRqicCdrREP72SC3pyygOnGQjMOH4l2kUGxvw-I7X6LlIuN4Rjvv35Mcx9uNG0m7n5qblcWjvj-pMT_o9VtmiTGQJ3AzVQoPGnMssxGY8AsKriK9B-r7BaawDbKM_NaCRsiPEb&gsessionid=NX9R0mI45jwWfqXyu0_hql0aHq2TAEtmLeEI_Tx8HtPyX9gyF7TaDg": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAESggEBxCJF1yzwitZnF7fCK0kUbdee98z1TV9u9KLkkcuRqicCdrREP72SC3pyygOnGQjMOH4l2kUGxvw-I7X6LlIuN4Rjvv35Mcx9uNG0m7n5qblcWjvj-pMT_o9VtmiTGQJ3AzVQoPGnMssxGY8AsKriK9B-r7BaawDbKM_NaCRsiPEb&gsessionid=NX9R0mI45jwWfqXyu0_hql0aHq2TAEtmLeEI_Tx8HtPyX9gyF7TaDg",
     "page": 1,
     "summary": "Step 1: Pick a domain name that's. Match your restaurant name. Use .com if you can. Design the pages that drive visits and orders. List your hours, address, ...",
     "title": "How to Build a Restaurant Website That Gets Orders"
@@ -40334,6 +40415,15 @@
     "summary": "Build a complete coffee shop marketing strategy: local SEO, reviews, email, loyalty programs, and direct ordering tools that drive repeat customers and ...",
     "title": "Coffee Shop Marketing Strategy: Grow Sales in 2026"
    },
+   "google.com/goto?url=CAEShQEBxCJF1wCMWQQW-A1_PW87dCJdxiyjPbOitlN71osNKSo0jFRtguSdfcS-8C4T0HVZ9YTqoddvy7fp1LtPpgfJQIKm-cuJ0fIjUCol8F4bxTdNFajTPyno7WztPkV6BBGFoZ65Y9UiRhXf72CmSavMtnMDct9RDnNDIgXouu98M66KecJs&gsessionid=NX9R0mI45jwWfqXyu0_hql0aHq2TAEtmLeEI_Tx8HtPyX9gyF7TaDg": {
+    "baseline": false,
+    "date_hint": "4 days ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAEShQEBxCJF1wCMWQQW-A1_PW87dCJdxiyjPbOitlN71osNKSo0jFRtguSdfcS-8C4T0HVZ9YTqoddvy7fp1LtPpgfJQIKm-cuJ0fIjUCol8F4bxTdNFajTPyno7WztPkV6BBGFoZ65Y9UiRhXf72CmSavMtnMDct9RDnNDIgXouu98M66KecJs&gsessionid=NX9R0mI45jwWfqXyu0_hql0aHq2TAEtmLeEI_Tx8HtPyX9gyF7TaDg",
+    "page": 1,
+    "summary": "Build a complete coffee shop marketing strategy: local SEO, reviews, email, loyalty programs, and direct ordering tools that drive repeat customers and ...",
+    "title": "Coffee Shop Marketing Strategy: Grow Sales in 2026"
+   },
    "google.com/goto?url=CAEShQEBxCJF1web8OTB-pJUX08G_-WW8Ld-Sd5svCzRvds7Qh_KT7f0oRt8STfcoEXZ9UqbZOh30c0Q6OPvPsPpSOD-l0H_2GZsOorVKpBH2UhwWSSPnPf8G3Btu63f5IvaXfgXklLLQ1m6oMh2E4rvu2YlZ-GGhlGJt-e8qW6yA4MfJBalQZkA&gsessionid=6WBD-mrnCZAtNTgqUivi51rZMa3CcHO91DF3AeuFS0cd2J7hVhLV2Q": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -40510,6 +40600,15 @@
     "date_hint": "2 days ago",
     "first_seen": "2026-11-21T13:42:53Z",
     "link": "https://www.google.com/goto?url=CAEShgEBxCJF10R3beIjwI8gCVJ6_KqU03dTpnCVZ5oZ1k0sw8qX1z4wVNbJGUy9NIWJOL8YHn2NcSLZuDWX0b1U7I7nNhM5boVn9xsglZCfu9iX0xF6VcmTEEn0cOaGVzv4wInwnk97dCf2giXj69x-BtSRumON-X6fwkkbzTrmtmvwyV1P_2dMpA&gsessionid=WXexRStchT4QsCpvUtWJeTawuHW7yEWJZmoFEb0vrAZMCX3xmnTuRw",
+    "page": 1,
+    "summary": "There's no shortage of restaurant marketing advice. The problem is that most of it doesn't tell you where to start or what actually drives orders.",
+    "title": "Restaurant Marketing Strategies That Actually Work"
+   },
+   "google.com/goto?url=CAEShgEBxCJF10xv2h8WDZ_2mr_qY7Ufuwn5LUjfAJVsl-0lCsPLf-pc-rQdgCsirn0X7RNWLseAc12wDRQL7lepkf6T_LDiQRXPzlJgwvuv__Em6vEYJvWhi1KJlfA0z54eNPOqs1aeMzpK9tGzLliGJHIxC0dco6X3967AAftH3VoVpTREVeLNbw&gsessionid=NX9R0mI45jwWfqXyu0_hql0aHq2TAEtmLeEI_Tx8HtPyX9gyF7TaDg": {
+    "baseline": false,
+    "date_hint": "3 days ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAEShgEBxCJF10xv2h8WDZ_2mr_qY7Ufuwn5LUjfAJVsl-0lCsPLf-pc-rQdgCsirn0X7RNWLseAc12wDRQL7lepkf6T_LDiQRXPzlJgwvuv__Em6vEYJvWhi1KJlfA0z54eNPOqs1aeMzpK9tGzLliGJHIxC0dco6X3967AAftH3VoVpTREVeLNbw&gsessionid=NX9R0mI45jwWfqXyu0_hql0aHq2TAEtmLeEI_Tx8HtPyX9gyF7TaDg",
     "page": 1,
     "summary": "There's no shortage of restaurant marketing advice. The problem is that most of it doesn't tell you where to start or what actually drives orders.",
     "title": "Restaurant Marketing Strategies That Actually Work"
@@ -43916,6 +44015,15 @@
     "summary": "Today, the Supreme Court of California affirmed the will of the overwhelming majority of California voters and Dashers. Prop 22 is here to stay. This ruling ...",
     "title": "California Supreme Court Upholds Prop 22, Protecting ..."
    },
+   "google.com/goto?url=CAEScgHEIkXX8ZC-HRIDZ1askbL0SksMYafEmBZYMcsMFL6VtkjuCjf9kjW9c6OiP9fbqOX8SuPFEbl2z_ckw2Sy0UJGjAZCeUHyLKLnsLzL52uvRUxFmMmHkh0o0sgaEM-kekEJFIm-_B24bZ7YEPvjeV8tQA&gsessionid=uy9rD_xdTumRovgvBEocnnZWkL4TpTca65SbcvDQxcpHvPBJ_WlRig": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAEScgHEIkXX8ZC-HRIDZ1askbL0SksMYafEmBZYMcsMFL6VtkjuCjf9kjW9c6OiP9fbqOX8SuPFEbl2z_ckw2Sy0UJGjAZCeUHyLKLnsLzL52uvRUxFmMmHkh0o0sgaEM-kekEJFIm-_B24bZ7YEPvjeV8tQA&gsessionid=uy9rD_xdTumRovgvBEocnnZWkL4TpTca65SbcvDQxcpHvPBJ_WlRig",
+    "page": 1,
+    "summary": "Prop 22 remains the law of the land in California, and Dashers can continue to set their own hours, earn flexibly, and receive the other benefits and ...",
+    "title": "California Supreme Court Upholds Prop 22, Protecting ..."
+   },
    "google.com/goto?url=CAEScgHEIkXX94djsDFi5D-0oGPHmkLqeO_yAg7cJVYRo4S7iybtiNAxQ-bQuDH8MqTyeKWB3Piq7rPHCKdCyy9rG-T7ERCKIcFix5qLhNcXNUjIDZO-GI4MeSp2r2SzKGgIo_HygB9dUz-N1RxzNRaFL_4q8Q&gsessionid=hMXfj__JLhhaEH999IIxD_-v0l0FO5EVtW0YuVcCm0wCt5k53SLLXw": {
     "baseline": false,
     "date_hint": "4 days ago",
@@ -44897,6 +45005,15 @@
     "summary": "Delivering 2 million+ meals for free by waiving delivery fees for more than 300 Project DASH food bank and pantry partners from November 16 through December 25.",
     "title": "Helping Families Put Food On The Table This Holiday ..."
    },
+   "google.com/goto?url=CAESfgHEIkXXWBJD6NY4zaNmzdeoaMgjswG--MgWYjJ2tKAj3kJnKW41WAH6JnteQ1vUMnpS1W4JVZ1zsAc9PsGbBboHSOQoZAhvcybpdPbhakpjG1LcmuI7kCDOIttptnPdZxyx2XTslknELQyHGYBSLuYea4ncWcGYQbOoZYbn0A&gsessionid=uy9rD_xdTumRovgvBEocnnZWkL4TpTca65SbcvDQxcpHvPBJ_WlRig": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAESfgHEIkXXWBJD6NY4zaNmzdeoaMgjswG--MgWYjJ2tKAj3kJnKW41WAH6JnteQ1vUMnpS1W4JVZ1zsAc9PsGbBboHSOQoZAhvcybpdPbhakpjG1LcmuI7kCDOIttptnPdZxyx2XTslknELQyHGYBSLuYea4ncWcGYQbOoZYbn0A&gsessionid=uy9rD_xdTumRovgvBEocnnZWkL4TpTca65SbcvDQxcpHvPBJ_WlRig",
+    "page": 1,
+    "summary": "Delivering 2 million+ meals for free by waiving delivery fees for more than 300 Project DASH food bank and pantry partners from November 16 through December 25.",
+    "title": "Helping Families Put Food On The Table This Holiday ..."
+   },
    "google.com/goto?url=CAESfgHEIkXX_iKXex4oYH31D5EcCttmE66zWvxQfgTli7mwgSYq1vR3isa4LA_UEA7UNnlARzxvH0t99MK4AYzPipcGgwyTT9yGiUipSUbRSZTagin4hoRUxSqgQdYiPmzO01GNCCR_DrkfY1-lMUPYa1LX7tTuYrnlphYzggRwkg&gsessionid=sozyFSZChkcbQ4Z68gng_JptF7Fb5ZBplNHWS3WsEAyYkVjfyUbElQ": {
     "baseline": false,
     "date_hint": "1 day ago",
@@ -44920,6 +45037,15 @@
     "date_hint": "6 days ago",
     "first_seen": "2026-11-21T23:42:58Z",
     "link": "https://www.google.com/goto?url=CAESfgHEIkXXo1cMuhU2YzGIFTilz5tG391C4_-wHM417b64-sHFmW_A2RdcMVq0S7Jc3xTPiAYAUFBS8oDJ1aR0di0hc0ePqx6m8WS6R3tA7I2r4Dmxix5Q2_FVjih9KgzNxfqjGko9_HwbkWDZRrgJU-LEEpyRRDq1leq4sGqSgw&gsessionid=GMZjB1tzhDaejV8xNa0yoE5ulYpj7S3MJMHlUt-qFSgAFPKXxIRUAA",
+    "page": 1,
+    "summary": "Our second annual State of Local Commerce report draws on DoorDash data from restaurants, grocers, and retailers to tracks affordability, business openings, ...",
+    "title": "State of Local Commerce 2026: The Economy Up Close ..."
+   },
+   "google.com/goto?url=CAESfgHEIkXXoGM5wzkMZPygdaqrrYAfOZ3txjwgl7D5PE1rSI587paR-HG10maQcgZhwixmZ7l8kjSjR22vEpCiOev6Lde1DFlqw1tR0NOUw4PWbGO5R2kHlfnfsm5TVCWR6iQup59ID_0bJYmFKn8V95m_km_95yjxGsfWukghEw&gsessionid=uy9rD_xdTumRovgvBEocnnZWkL4TpTca65SbcvDQxcpHvPBJ_WlRig": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAESfgHEIkXXoGM5wzkMZPygdaqrrYAfOZ3txjwgl7D5PE1rSI587paR-HG10maQcgZhwixmZ7l8kjSjR22vEpCiOev6Lde1DFlqw1tR0NOUw4PWbGO5R2kHlfnfsm5TVCWR6iQup59ID_0bJYmFKn8V95m_km_95yjxGsfWukghEw&gsessionid=uy9rD_xdTumRovgvBEocnnZWkL4TpTca65SbcvDQxcpHvPBJ_WlRig",
     "page": 1,
     "summary": "Our second annual State of Local Commerce report draws on DoorDash data from restaurants, grocers, and retailers to tracks affordability, business openings, ...",
     "title": "State of Local Commerce 2026: The Economy Up Close ..."
@@ -45365,6 +45491,15 @@
     "summary": "State leaders and food bank partners highlight public-private collaboration to address food insecurity and transportation barriers.",
     "title": "Los Angeles Regional Food Bank and ..."
    },
+   "google.com/goto?url=CAESgAEBxCJF1zpBumuXq_awH4GpY7ZBjCh0HGh6oq4o5w9dsGoojA9PGUrbBLIjdDjlVQ5hnE6uNDHmUTy8E1N9Pq5hePPrhXhNDMCMR1N2oWmiOcJUvassNRwLFUOJb71gpTMsNALYdO9UPRZW2qaxYO-eOU0xJprGQj7RRG4dt3QuGg&gsessionid=uy9rD_xdTumRovgvBEocnnZWkL4TpTca65SbcvDQxcpHvPBJ_WlRig": {
+    "baseline": false,
+    "date_hint": "2 days ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAESgAEBxCJF1zpBumuXq_awH4GpY7ZBjCh0HGh6oq4o5w9dsGoojA9PGUrbBLIjdDjlVQ5hnE6uNDHmUTy8E1N9Pq5hePPrhXhNDMCMR1N2oWmiOcJUvassNRwLFUOJb71gpTMsNALYdO9UPRZW2qaxYO-eOU0xJprGQj7RRG4dt3QuGg&gsessionid=uy9rD_xdTumRovgvBEocnnZWkL4TpTca65SbcvDQxcpHvPBJ_WlRig",
+    "page": 1,
+    "summary": "State leaders and food bank partners highlight public-private collaboration to address food insecurity and transportation barriers.",
+    "title": "Los Angeles Regional Food Bank and ..."
+   },
    "google.com/goto?url=CAESgQEBxCJF1-_qj-58rG4X39hhs8ADAVfMXZ3cUNoUOgY5BEhxKEB7AlQg4XXH6bB5XrbO9r9Kt8HsT5X9n6d4RE5p7m7daCDQcuypumBtFnn8sV1WtcxwhXvoqH_DvCGo-s9nA8Ca65IFfCNg0ObY1-PFv-JzHZnPXGnal7dhUOIPbcQ&gsessionid=rnCIwkxjJQ_lpleNtREL2szBXWL43Xjm5mwLqQHpEekSlUZ8Zd4HYg": {
     "baseline": false,
     "date_hint": "2 days ago",
@@ -45642,6 +45777,15 @@
     "link": "https://www.google.com/goto?url=CAESggEBxCJF1x9-yaLCzMrYtxJ7_uG_XBztgWErvYgxRhWkZrnCFEgb67AsSTHu2a6pkCd8jOGdGgLRsnS7Qc4l1Qcm_Fq4fFsoP3ciTae8nbgoeK5ETXuwptFO6vk2DwWShzILQWDpD13WSVSfk2zkZCpwtCRAvRlKmxWmF6Y03sOc_OGD&gsessionid=lPp4LsKCN8OD1hCO3Kz5xaHTdr7SmRBbddlsAkIk9SACFqVz8cScSQ",
     "page": 1,
     "summary": "\u201cWe're excited to introduce our inaugural Top 50 Local Liquor Stores for the Holidays list and spotlight the neighborhood staples that deliver convenience, joy, ...",
+    "title": "DoorDash Reveals Its Top 50 Local Liquor Stores for the ..."
+   },
+   "google.com/goto?url=CAESggEBxCJF1z5UnvRnGE5s33GrFgaC6Jnty1N2aNw3gMuTSbdAd8cG6w-JWtmfykAKOzOD6SVKe6s_c-BBaHY2nODe9kwPO3Ntggm500I_70i5oPM7cc2-Ta_vwBqqOlDL6jW4loWpx3FZho9oC1RxfBzli0fQUTTuW2iPfOGd5i0zwyMV&gsessionid=uy9rD_xdTumRovgvBEocnnZWkL4TpTca65SbcvDQxcpHvPBJ_WlRig": {
+    "baseline": false,
+    "date_hint": "5 days ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAESggEBxCJF1z5UnvRnGE5s33GrFgaC6Jnty1N2aNw3gMuTSbdAd8cG6w-JWtmfykAKOzOD6SVKe6s_c-BBaHY2nODe9kwPO3Ntggm500I_70i5oPM7cc2-Ta_vwBqqOlDL6jW4loWpx3FZho9oC1RxfBzli0fQUTTuW2iPfOGd5i0zwyMV&gsessionid=uy9rD_xdTumRovgvBEocnnZWkL4TpTca65SbcvDQxcpHvPBJ_WlRig",
+    "page": 1,
+    "summary": "DoorDash is unveiling its first-ever list of Top 50 Local Liquor Stores for the Holidays*, recognizing standout small and medium-sized liquor stores across the ...",
     "title": "DoorDash Reveals Its Top 50 Local Liquor Stores for the ..."
    },
    "google.com/goto?url=CAESggEBxCJF1zgA931TSmdbECV_R8gXesMw94Vdt2KMindxFgxat0LHazUMYSEnWghVH80ZAinPsTf5hCFvzpwz6398x7-Nd5BvTVqcvOQjA7z3uS-pWu68JmUK96sBZMn_pUUHsDH4yXonxFlMrNRHUthXRikpNZxCXinhUYs_eyolRAlE&gsessionid=GMZjB1tzhDaejV8xNa0yoE5ulYpj7S3MJMHlUt-qFSgAFPKXxIRUAA": {
@@ -46138,6 +46282,15 @@
     "page": 1,
     "summary": "DashRoots, a global grassroots advocacy network composed of Dashers, merchants, and delivery customers, surpassed 120,000 members. May 2, 2025.",
     "title": "Making Our Voices Heard: DashRoots Surpasses ..."
+   },
+   "google.com/goto?url=CAEShAEBxCJF17NlvB66SAXJrWq5luVS44ZeBCY-iwzmV9eYUqceoQ9nn9pFdyXQkkSsEoeoQ_fSgbGLDb6DJ-HMcGJTtuMfxBzS7mt0S-ikm5xjSwHnfp54QdM2i-PfPUnvM1D6B0jZOHOT6SAJ21NgpRaVbupHB6Mm7l6kHqm38jSha9tRCNw&gsessionid=uy9rD_xdTumRovgvBEocnnZWkL4TpTca65SbcvDQxcpHvPBJ_WlRig": {
+    "baseline": false,
+    "date_hint": "1 day ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAEShAEBxCJF17NlvB66SAXJrWq5luVS44ZeBCY-iwzmV9eYUqceoQ9nn9pFdyXQkkSsEoeoQ_fSgbGLDb6DJ-HMcGJTtuMfxBzS7mt0S-ikm5xjSwHnfp54QdM2i-PfPUnvM1D6B0jZOHOT6SAJ21NgpRaVbupHB6Mm7l6kHqm38jSha9tRCNw&gsessionid=uy9rD_xdTumRovgvBEocnnZWkL4TpTca65SbcvDQxcpHvPBJ_WlRig",
+    "page": 1,
+    "summary": "From new ways to earn and more flexible rewards to tools that help make dashing easier, here's how we improved the Dasher experience this year.",
+    "title": "Year in Review: How We Made Dashing Better in 2026"
    },
    "google.com/goto?url=CAEShAEBxCJF17rYMAibhwEcm6qvnvFSbvMR23xTgTq1gZ2hk6k7kEyQ3oLLWDOsHDAeKH0Uk2ZGVhcPQQEytuMktrt-NP3bORFs5y7Dz1SByfLQjSh6nLqsHTMXL9qvtuBVVFXifwbktG4yIKceHzrEpJVzHZGn1rMCGdPUc0Gxs1jWE8-uoqE&gsessionid=lPp4LsKCN8OD1hCO3Kz5xaHTdr7SmRBbddlsAkIk9SACFqVz8cScSQ": {
     "baseline": false,
@@ -47471,6 +47624,15 @@
     "summary": "Culver's fans can get their favorites delivered with DoorDash wherever they are, from more than 900 participating restaurants nationwide. Culver's,",
     "title": "Culver's Now Available for Delivery on DoorDash"
    },
+   "google.com/goto?url=CAESkAEBxCJF15G-cKmWQ_vohaX2rSR4S2i5NB3ZkJw_MldhID1FG8lPZlGk7n0JB2bUkO5ml4RvujSbRfgPzQ72Dyz5gTtiTuNYyTCQf3326lDvpp1YzNCYxGUJxRHnG9TgCOMvs5RduQFyWSXX2NlcYKYRg50hK-_hRJbyskw9YXXgqqTqmye0cyQfSDw9HJzgHDY&gsessionid=uy9rD_xdTumRovgvBEocnnZWkL4TpTca65SbcvDQxcpHvPBJ_WlRig": {
+    "baseline": false,
+    "date_hint": "20 hours ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAESkAEBxCJF15G-cKmWQ_vohaX2rSR4S2i5NB3ZkJw_MldhID1FG8lPZlGk7n0JB2bUkO5ml4RvujSbRfgPzQ72Dyz5gTtiTuNYyTCQf3326lDvpp1YzNCYxGUJxRHnG9TgCOMvs5RduQFyWSXX2NlcYKYRg50hK-_hRJbyskw9YXXgqqTqmye0cyQfSDw9HJzgHDY&gsessionid=uy9rD_xdTumRovgvBEocnnZWkL4TpTca65SbcvDQxcpHvPBJ_WlRig",
+    "page": 1,
+    "summary": "Culver's fans can get their favorites delivered with DoorDash wherever they are, from more than 900 participating restaurants nationwide. Aug 8, 2024.",
+    "title": "Culver's Now Available for Delivery on DoorDash"
+   },
    "google.com/goto?url=CAESkAEBxCJF162jsUMrff-uqosOS1nJjhhg75Z8kiizvzpoMsPrCOCQ3wiCnOSSlqOU_Hp1ZQPxt4temK5zOlgNwKtri9EHemaNL89h8J3jirBFEosngN-t_bCDFC1AakgSswFjGv8yoHw3G1rwcpIyjCGP_3p7VSP0ppPh8-maoWbt3f3mNtrwhvCrXP_APFAUJG0&gsessionid=GMZjB1tzhDaejV8xNa0yoE5ulYpj7S3MJMHlUt-qFSgAFPKXxIRUAA": {
     "baseline": false,
     "date_hint": "19 hours ago",
@@ -47887,6 +48049,15 @@
     "summary": "Fiji's VAT Monitoring System (VMS) is the platform used by the Fiji Revenue and Customs Service (FRCS) to collect and monitor fiscal transaction data. An ...",
     "title": "Fiji EFD & VMS Requirements | VAT Compliance Guide"
    },
+   "google.com/goto?url=CAESewHEIkXXdRzwe0WEK-L0AnUJhQK8dz1Blewkl8oB9rZm53D7tQrtqWWlRoeLHcXkv3dXccuXZ7iUXquhoFw70k_yH9hvNdK0hVO6CfNMEKlaLjYTtomulvYWKpacnohX9PcpNBXodoei7ZWMsPT7c3zaJ-XKSvjmU1VPVA&gsessionid=oiPTvtBWlCzjehkrzfGIaaL6W7rxUb9YWDeNnwOXzFPsi4KfQcmqTQ": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAESewHEIkXXdRzwe0WEK-L0AnUJhQK8dz1Blewkl8oB9rZm53D7tQrtqWWlRoeLHcXkv3dXccuXZ7iUXquhoFw70k_yH9hvNdK0hVO6CfNMEKlaLjYTtomulvYWKpacnohX9PcpNBXodoei7ZWMsPT7c3zaJ-XKSvjmU1VPVA&gsessionid=oiPTvtBWlCzjehkrzfGIaaL6W7rxUb9YWDeNnwOXzFPsi4KfQcmqTQ",
+    "page": 1,
+    "summary": "Fiji's VAT Monitoring System (VMS) is the platform used by the Fiji Revenue and Customs Service (FRCS) to collect and monitor fiscal transaction data. An ...",
+    "title": "Fiji EFD & VMS Requirements | VAT Compliance Guide"
+   },
    "google.com/goto?url=CAESewHEIkXXivIDTy2A7ff_vlpCGokzJ_e23BxxiV5LKygGQSqAvW2lwBps2pcbWzG9pnlw-p5E13P5nIUx20YhvjqgaNPU14mKdPtvZ8IOxoxD3D1oAdtSpREddi_iS-xosTc6tL0yTTebAb6-IT50Fzxn9Npb8aLPJTEuhg&gsessionid=bXrJ6dj1KeSZXa-uA1q6awR7RR0OFWezvYdRHtWxbww_OTzUy7ERmA": {
     "baseline": false,
     "date_hint": "5 days ago",
@@ -48099,6 +48270,15 @@
     "date_hint": "5 days ago",
     "first_seen": "2026-11-20T22:43:00Z",
     "link": "https://www.google.com/goto?url=CAEShgEBxCJF16C8IDKUgWPOvCr4dwZ_I_84EZFQn4e7EkIigkTCrxLVxeXb2HRYGDiU8u_GxZPSwzFzmPKJUSlAbNZ5QIa0Dkhgso_1hjuhksYko7C9tAXmsH9JkdQphMmtT7ZoKjCrkXqrGVcdsBJiV0adQNp63SQizO6VH4Fb9x2I2JeKMsv1nQ&gsessionid=dVCuFusMt6ksyXuP8madJYDIpZioQg63tnXA8bBx0QvRArVppcme0Q",
+    "page": 1,
+    "summary": "Learn how mandatory electronic invoicing works in Malaysia, including the IRBM implementation timeline, technical requirements, XML/JSON formats, and how to ...",
+    "title": "Mandatory CTC Electronic Invoicing model in Malaysia"
+   },
+   "google.com/goto?url=CAEShgEBxCJF16PagF05UCdNHSnBPezuwEXsJ9aTes1mY61FT1YW4Ttkl6zNykyDs-EMd7bUUCMrKlaMhyblW0B9UywtmH9oLW-f0UIb1GMOdEU1nSwEAJs18XquAtrT982ySZdpD5nTb3sc3mM0GhIDuMhvG0N2IHNkGYmHxDZWceaiOSFxZ2LrmQ&gsessionid=oiPTvtBWlCzjehkrzfGIaaL6W7rxUb9YWDeNnwOXzFPsi4KfQcmqTQ": {
+    "baseline": false,
+    "date_hint": "6 days ago",
+    "first_seen": "2026-11-22T00:46:23Z",
+    "link": "https://www.google.com/goto?url=CAEShgEBxCJF16PagF05UCdNHSnBPezuwEXsJ9aTes1mY61FT1YW4Ttkl6zNykyDs-EMd7bUUCMrKlaMhyblW0B9UywtmH9oLW-f0UIb1GMOdEU1nSwEAJs18XquAtrT982ySZdpD5nTb3sc3mM0GhIDuMhvG0N2IHNkGYmHxDZWceaiOSFxZ2LrmQ&gsessionid=oiPTvtBWlCzjehkrzfGIaaL6W7rxUb9YWDeNnwOXzFPsi4KfQcmqTQ",
     "page": 1,
     "summary": "Learn how mandatory electronic invoicing works in Malaysia, including the IRBM implementation timeline, technical requirements, XML/JSON formats, and how to ...",
     "title": "Mandatory CTC Electronic Invoicing model in Malaysia"
