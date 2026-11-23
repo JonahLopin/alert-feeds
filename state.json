@@ -9688,6 +9688,12 @@
    "summary": "Trigger types \u00b7 Event triggers run the workflow when something happens in your Stripe account, such as a payment succeeding, a subscription renewing, ...",
    "title": "Trigger workflows | Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:2461410179940075402": {
+   "first_seen": "2026-11-23T04:08:44Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/payout-methods?api-version=2026-11-18.preview",
+   "summary": "Payout Methods v2 ... Use the PayoutMethods API to list and interact with PayoutMethod objects. ... Need help? Contact Support. Chat with Stripe ...",
+   "title": "Payout Methods | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:2479957278643182635": {
    "first_seen": "2026-11-04T18:43:24Z",
    "link": "https://docs.stripe.com/issuing/stablecoin-cards/onboarding",
