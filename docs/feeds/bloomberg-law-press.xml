@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-23T19:22:52Z</updated>
+  <updated>2026-11-23T20:23:56Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:17520314529665673943</id>
+    <title>Massachusetts Sues ICE Over Warrantless Arrests in Courthouses - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/massachusetts-sues-ice-over-warrantless-arrests-in-courthouses" />
+    <published>2026-11-23T20:23:56Z</published>
+    <updated>2026-11-23T20:23:56Z</updated>
+    <summary>Civil arrests made by ICE in Massachusetts state courthouses violate the state's sovereign control of its courts and unconstitutionally conscript ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8708902266525456543</id>
     <title>Charles Littlejohn Says Rick Scott Tax Leak Suit Filed Too Late - Daily Tax Report ®</title>
@@ -795,13 +803,5 @@
     <published>2026-11-19T16:07:44Z</published>
     <updated>2026-11-19T16:07:44Z</updated>
     <summary>The Justice Department has deployed top Los Angeles prosecutor Bill Essayli to Miami for a special assignment to try probing the people involved ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:761326338117949655</id>
-    <title>DOJ's Bankruptcy Watchdog Turns to Private Practice for Chief - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/dojs-bankruptcy-watchdog-turns-to-private-practice-for-chief" />
-    <published>2026-11-19T15:07:01Z</published>
-    <updated>2026-11-19T15:07:01Z</updated>
-    <summary>For the first time in decades, the Justice Department's bankruptcy oversight division will be led by an attorney coming directly out of private ...</summary>
   </entry>
 </feed>
