@@ -9400,6 +9400,12 @@
    "summary": "Attributes \u00b7 idstring. Unique identifier for the object. \u00b7 objectstring. String representing the object's type. \u00b7 actionableboolean. An EFW is actionable ...",
    "title": "The Early Fraud Warning object | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:14470356167260800294": {
+   "first_seen": "2026-11-23T16:06:50Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/financial-addresses/generated-microdeposits/object?api-version=2026-08-26.preview",
+   "summary": "Attributes \u00b7 objectstring, value is \"financial_address_generated_microdeposits\". String representing the object's type. \u00b7 amountsarray of objects. The ...",
+   "title": "The Financial Address Generated Microdeposits object | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:14608277971951863919": {
    "first_seen": "2026-10-22T10:47:14Z",
    "link": "https://docs.stripe.com/agentic-commerce/protocols/ucp/stripe-payments-handler",
@@ -9477,6 +9483,12 @@
    "link": "https://docs.stripe.com/workload-identity-federation",
    "summary": "Learn how Workload Identity Federation differs from bearer-token API key authentication, and how to set up a trusted workload identity provider ...",
    "title": "Workload Identity Federation | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:15256528709145487243": {
+   "first_seen": "2026-11-23T16:06:50Z",
+   "link": "https://docs.stripe.com/api/v2/money-management/financial-addresses/credit-simulation/object?api-version=2026-08-26.preview",
+   "summary": "Attributes \u00b7 objectstring, value is \"financial_address_credit_simulation\". String representing the object's type. \u00b7 livemodeboolean. Has the value true ...",
+   "title": "The Financial Address Credit Simulation object | Stripe API Reference"
   },
   "tag:google.com,2013:googlealerts/feed:15270659600566303246": {
    "first_seen": "2026-10-26T16:50:44Z",

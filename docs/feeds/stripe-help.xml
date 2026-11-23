@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-23T04:08:44Z</updated>
+  <updated>2026-11-23T16:06:50Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:15256528709145487243</id>
+    <title>The Financial Address Credit Simulation object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/financial-addresses/credit-simulation/object?api-version=2026-08-26.preview" />
+    <published>2026-11-23T16:06:50Z</published>
+    <updated>2026-11-23T16:06:50Z</updated>
+    <summary>Attributes · objectstring, value is "financial_address_credit_simulation". String representing the object's type. · livemodeboolean. Has the value true ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14470356167260800294</id>
+    <title>The Financial Address Generated Microdeposits object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/v2/money-management/financial-addresses/generated-microdeposits/object?api-version=2026-08-26.preview" />
+    <published>2026-11-23T16:06:50Z</published>
+    <updated>2026-11-23T16:06:50Z</updated>
+    <summary>Attributes · objectstring, value is "financial_address_generated_microdeposits". String representing the object's type. · amountsarray of objects. The ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:2461410179940075402</id>
     <title>Payout Methods | Stripe API Reference</title>
@@ -787,21 +803,5 @@
     <published>2026-10-29T19:42:55Z</published>
     <updated>2026-10-29T19:42:55Z</updated>
     <summary>To pay with QRIS, customers authenticate and approve payments by scanning a QR code in their preferred digital wallet or banking app. Determine ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:18131888084454230377</id>
-    <title>Financial account report type | Stripe Documentation</title>
-    <link href="https://docs.stripe.com/reports/report-types/financial-accounts" />
-    <published>2026-10-29T19:42:55Z</published>
-    <updated>2026-10-29T19:42:55Z</updated>
-    <summary>Use Financial account reports to analyze activity that impacts your financial account balance and view data related to your payments activity.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:16934094586706022970</id>
-    <title>Enable tax by default for invoices | Stripe Documentation</title>
-    <link href="https://docs.stripe.com/tax/invoicing/automatic-tax-default" />
-    <published>2026-10-29T19:42:55Z</published>
-    <updated>2026-10-29T19:42:55Z</updated>
-    <summary>Use the tax integration configuration API to enable automatic tax on standalone invoices and understand when conflicting parameters disable it.</summary>
   </entry>
 </feed>
