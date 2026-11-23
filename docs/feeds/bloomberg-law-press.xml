@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-23T12:44:07Z</updated>
+  <updated>2026-11-23T14:08:04Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:15170078959799756901</id>
+    <title>Boutique Firms Bet Small Size Enables AI Edge to Rival Big Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/boutique-firms-bet-small-size-enables-ai-edge-to-rival-big-law" />
+    <published>2026-11-23T14:08:04Z</published>
+    <updated>2026-11-23T14:08:04Z</updated>
+    <summary>Boutique and specialized firms are trying to use their small size compared with Big Law to rapidly deploy AI tools and gain efficiencies faster ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8024762879147040316</id>
     <title>Trump Hails Crypto at Memecoin Dinner That Drew Lower Demand - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-11-18T23:05:50Z</published>
     <updated>2026-11-18T23:05:50Z</updated>
     <summary>Seagate Technology Holdings Plc's $175 million settlement earned final approval to resolve investor allegations it concealed that hard disk drive ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:14593330225905887276</id>
-    <title>Trump Administration Unveils Project to Combat Cybercrime - Bloomberg Law</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/trump-administration-unveils-project-to-combat-cybercrime" />
-    <published>2026-11-18T23:05:50Z</published>
-    <updated>2026-11-18T23:05:50Z</updated>
-    <summary>The Trump administration is launching a new effort to combat a surge in crypto fraud and other cybercrimes targeting Americans, attacks that ...</summary>
   </entry>
 </feed>
