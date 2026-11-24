@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-23T22:05:50Z</updated>
+  <updated>2026-11-24T00:17:13Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:17916260010714991827</id>
+    <title>Williams Says Fed Should Take Action 'Over Time' on Inflation - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/williams-says-fed-should-take-action-over-time-on-inflation" />
+    <published>2026-11-24T00:17:13Z</published>
+    <updated>2026-11-24T00:17:13Z</updated>
+    <summary>Federal Reserve Bank of New York President John Williams said the central bank still has “work to do” to tame inflation that's continued to run ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:2931141019633263363</id>
     <title>Davis Polk, Wilson Sonsini Aid CrowdStrike's Plan to Buy Zscaler - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-11-19T17:06:05Z</published>
     <updated>2026-11-19T17:06:05Z</updated>
     <summary>Employers have flexibility over the actuarial data they use to calculate married workers' pensions, the US Chamber of Commerce said in a brief ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:6949430649739742891</id>
-    <title>EU Presses Czech Republic, Spain on Crypto Tax Reporting</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/eu-presses-czech-republic-spain-on-crypto-tax-reporting" />
-    <published>2026-11-19T16:07:44Z</published>
-    <updated>2026-11-19T16:07:44Z</updated>
-    <summary>The Czech Republic and Spain have yet to fully incorporate the EU's crypto-asset tax reporting and information exchange rules into national law, ...</summary>
   </entry>
 </feed>
