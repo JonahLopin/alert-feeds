@@ -9382,6 +9382,12 @@
    "summary": "A ReceivedDebitMandate represents an authorization from a third party to debit a financial account on a recurring basis. Learn more about calling API ...",
    "title": "Received Debit Mandates | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:11529865616941110513": {
+   "first_seen": "2026-11-24T15:06:59Z",
+   "link": "https://docs.stripe.com/payments/mobile/checkout-sessions/express-checkout-element",
+   "summary": "Accept payments with Apple Pay, Google Pay, and Link using the mobile Express Checkout Element and Checkout Sessions.",
+   "title": "Express Checkout Element - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:11540242838516143044": {
    "first_seen": "2026-11-12T09:07:53Z",
    "link": "https://docs.stripe.com/api/v2/core/fee-batches",
@@ -9465,6 +9471,12 @@
    "link": "https://docs.stripe.com/global-payouts/send-money/paper-checks",
    "summary": "Send a USD payout from your financial account to a recipient as a paper check. You can customize the check with a signature, a memo, ...",
    "title": "Send payouts by paper check - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:12736087503200193722": {
+   "first_seen": "2026-11-24T15:06:59Z",
+   "link": "https://docs.stripe.com/payments/mobile/checkout-sessions/adaptive-pricing",
+   "summary": "Present localized prices and let eligible customers select their checkout currency in an iOS, Android, or React Native app.",
+   "title": "Let customers pay in their local currency | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:12811545517784578973": {
    "first_seen": "2026-10-30T16:43:50Z",
@@ -9724,6 +9736,12 @@
    "summary": "Only return installs made by this account. Only useful to an app developer filtering by its own app with its own key, whose list spans the accounts ...",
    "title": "List all app installs | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:15819518809448170948": {
+   "first_seen": "2026-11-24T15:06:59Z",
+   "link": "https://docs.stripe.com/payments/mobile/checkout-sessions/fulfillment",
+   "summary": "Perform fulfillment only once per payment. Because of how this integration and the internet work, your fulfill_checkout function might be called ...",
+   "title": "Fulfill orders | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:15907664093028520986": {
    "first_seen": "2026-11-14T16:06:17Z",
    "link": "https://docs.stripe.com/payments/checkout/express-checkout-element",
@@ -9735,6 +9753,12 @@
    "link": "https://docs.stripe.com/issuing/stablecoin-cards/how-it-works",
    "summary": "Stripe issues and processes cards, while Bridge verifies cardholders and moves funds from the linked wallets. You can fund cards with a Bridge wallet, ...",
    "title": "How Stripe, Bridge, and Privy work together"
+  },
+  "tag:google.com,2013:googlealerts/feed:1618088800798599508": {
+   "first_seen": "2026-11-24T15:06:59Z",
+   "link": "https://docs.stripe.com/payments/mobile/checkout-sessions/customize-appearance",
+   "summary": "Customize the Payment, Shipping Address, Express Checkout, and Currency Selector Elements in a mobile Checkout Sessions integration.",
+   "title": "Customize Element appearance to match your iOS, Android, or React Native app"
   },
   "tag:google.com,2013:googlealerts/feed:16183938699034417944": {
    "first_seen": "2026-10-23T22:44:13Z",
@@ -9765,6 +9789,12 @@
    "link": "https://docs.stripe.com/stripe-apps/in-app-analytics",
    "summary": "Allow an analytics or error monitoring service in your app manifest, then track onboarding progress, route transitions, errors, and blocked ...",
    "title": "In-app analytics and error monitoring | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:16555782908492164475": {
+   "first_seen": "2026-11-24T15:06:59Z",
+   "link": "https://docs.stripe.com/payments/mobile/checkout-sessions/build-a-checkout-page?platform=ios",
+   "summary": "Build an iOS, Android, or React Native checkout with the Currency Selector, Express Checkout, Shipping Address, and Payment Elements.",
+   "title": "Build a checkout with Mobile Checkout Elements | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:16613296218614820842": {
    "first_seen": "2026-10-31T20:44:17Z",
@@ -9802,6 +9832,12 @@
    "summary": "Use the tax integration configuration API to enable automatic tax on standalone invoices and understand when conflicting parameters disable it.",
    "title": "Enable tax by default for invoices | Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:17118433551393271666": {
+   "first_seen": "2026-11-24T15:06:59Z",
+   "link": "https://docs.stripe.com/payments/mobile/checkout-sessions/migrate-from-payment-intents",
+   "summary": "Mobile Checkout Elements manages your entire checkout flow, including line items, tax, shipping, and Adaptive Pricing.",
+   "title": "Migrate from Payment Intents to Checkout Sessions | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:17180853429304629238": {
    "first_seen": "2026-11-04T18:43:24Z",
    "link": "https://docs.stripe.com/tax/remittance",
@@ -9819,6 +9855,12 @@
    "link": "https://docs.stripe.com/payments/checkout/express-checkout-element/migration",
    "summary": "With the payment request button element, you create a paymentRequest object in your client-side code and provide the total, currency, and customer- ...",
    "title": "Migrate to the Express Checkout Element with Checkout Sessions - Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:17405169582201715195": {
+   "first_seen": "2026-11-24T15:06:59Z",
+   "link": "https://docs.stripe.com/payments/mobile/checkout-sessions/express-checkout-element/accept-a-payment",
+   "summary": "Accept payments with the mobile Express Checkout Element and Checkout Sessions on iOS, Android, and React Native.",
+   "title": "Accept a payment with the Express Checkout Element | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:17624767214187221706": {
    "first_seen": "2026-10-12T11:36:05Z",
@@ -10024,6 +10066,12 @@
    "summary": "ip_address_location.countrynullable string. Two-letter ISO code representing the country where the payment originated.",
    "title": "The Review object | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:3573119856670494231": {
+   "first_seen": "2026-11-24T15:06:59Z",
+   "link": "https://docs.stripe.com/payments/mobile/checkout-sessions/collect-taxes?platform=android",
+   "summary": "Configure Stripe Tax and display tax totals in an iOS, Android, or React Native checkout.",
+   "title": "Collect taxes - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:364013935007585276": {
    "first_seen": "2026-11-11T17:44:53Z",
    "link": "https://docs.stripe.com/api/v2/network/business-profiles?api-version=2026-10-28.preview",
@@ -10113,6 +10161,12 @@
    "link": "https://docs.stripe.com/tax/file-with-stripe-outside-us",
    "summary": "Canada Simplified GST/HST: Simplified goods and services tax and harmonized sales tax (GST/HST) for eligible non-resident businesses. EU Non-Union OSS ...",
    "title": "File taxes outside the US | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:5095318650204712583": {
+   "first_seen": "2026-11-24T15:06:59Z",
+   "link": "https://docs.stripe.com/connect/test-tax-form-corrections",
+   "summary": "Set up accepted sandbox tax forms, create numerical and payee corrections with the Tax Form Corrections API, and verify the results in the API and ...",
+   "title": "Test the Tax Form Corrections API in a sandbox - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:5231195890762614563": {
    "first_seen": "2026-10-08T13:53:23Z",
@@ -10210,6 +10264,12 @@
    "summary": "Use the Stripe Dashboard to manage W-8 and W-9 tax form collection, choose which connected accounts to collect from, and request forms from your ...",
    "title": "Enable W-8 and W-9 collection | Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:7384575541201072197": {
+   "first_seen": "2026-11-24T15:06:59Z",
+   "link": "https://docs.stripe.com/payments/customer-balance/move-balance",
+   "summary": "Move a bank transfer payment to the correct customer when funds arrive on the wrong cash balance.",
+   "title": "Move funds between customer cash balances | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:7401600488192813850": {
    "first_seen": "2026-10-19T22:44:10Z",
    "link": "https://docs.stripe.com/api/billing/alert?api-version=2026-08-26.preview",
@@ -10257,6 +10317,12 @@
    "link": "https://docs.stripe.com/event-destinations/overview",
    "summary": "Learn how Stripe events work, set up event destinations, and manage your integration. Direct events to webhook endpoints, Amazon EventBridge, ...",
    "title": "Events | Stripe Documentation"
+  },
+  "tag:google.com,2013:googlealerts/feed:8355259570286554489": {
+   "first_seen": "2026-11-24T15:06:59Z",
+   "link": "https://docs.stripe.com/payments/mobile/checkout-sessions/collect-taxes",
+   "summary": "Stripe Tax automatically calculates tax on purchases when you use Mobile Checkout Elements. Add your tax registrations, configure the Checkout ...",
+   "title": "Collect taxes | Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:8357886982859832540": {
    "first_seen": "2026-11-14T16:06:17Z",

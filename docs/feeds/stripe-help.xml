@@ -2,8 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-23T16:06:50Z</updated>
+  <updated>2026-11-24T15:06:59Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:8355259570286554489</id>
+    <title>Collect taxes | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/mobile/checkout-sessions/collect-taxes" />
+    <published>2026-11-24T15:06:59Z</published>
+    <updated>2026-11-24T15:06:59Z</updated>
+    <summary>Stripe Tax automatically calculates tax on purchases when you use Mobile Checkout Elements. Add your tax registrations, configure the Checkout ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:7384575541201072197</id>
+    <title>Move funds between customer cash balances | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/customer-balance/move-balance" />
+    <published>2026-11-24T15:06:59Z</published>
+    <updated>2026-11-24T15:06:59Z</updated>
+    <summary>Move a bank transfer payment to the correct customer when funds arrive on the wrong cash balance.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:5095318650204712583</id>
+    <title>Test the Tax Form Corrections API in a sandbox - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/connect/test-tax-form-corrections" />
+    <published>2026-11-24T15:06:59Z</published>
+    <updated>2026-11-24T15:06:59Z</updated>
+    <summary>Set up accepted sandbox tax forms, create numerical and payee corrections with the Tax Form Corrections API, and verify the results in the API and ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:3573119856670494231</id>
+    <title>Collect taxes - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/mobile/checkout-sessions/collect-taxes?platform=android" />
+    <published>2026-11-24T15:06:59Z</published>
+    <updated>2026-11-24T15:06:59Z</updated>
+    <summary>Configure Stripe Tax and display tax totals in an iOS, Android, or React Native checkout.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:17405169582201715195</id>
+    <title>Accept a payment with the Express Checkout Element | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/mobile/checkout-sessions/express-checkout-element/accept-a-payment" />
+    <published>2026-11-24T15:06:59Z</published>
+    <updated>2026-11-24T15:06:59Z</updated>
+    <summary>Accept payments with the mobile Express Checkout Element and Checkout Sessions on iOS, Android, and React Native.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:17118433551393271666</id>
+    <title>Migrate from Payment Intents to Checkout Sessions | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/mobile/checkout-sessions/migrate-from-payment-intents" />
+    <published>2026-11-24T15:06:59Z</published>
+    <updated>2026-11-24T15:06:59Z</updated>
+    <summary>Mobile Checkout Elements manages your entire checkout flow, including line items, tax, shipping, and Adaptive Pricing.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:16555782908492164475</id>
+    <title>Build a checkout with Mobile Checkout Elements | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/mobile/checkout-sessions/build-a-checkout-page?platform=ios" />
+    <published>2026-11-24T15:06:59Z</published>
+    <updated>2026-11-24T15:06:59Z</updated>
+    <summary>Build an iOS, Android, or React Native checkout with the Currency Selector, Express Checkout, Shipping Address, and Payment Elements.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:1618088800798599508</id>
+    <title>Customize Element appearance to match your iOS, Android, or React Native app</title>
+    <link href="https://docs.stripe.com/payments/mobile/checkout-sessions/customize-appearance" />
+    <published>2026-11-24T15:06:59Z</published>
+    <updated>2026-11-24T15:06:59Z</updated>
+    <summary>Customize the Payment, Shipping Address, Express Checkout, and Currency Selector Elements in a mobile Checkout Sessions integration.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:15819518809448170948</id>
+    <title>Fulfill orders | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/mobile/checkout-sessions/fulfillment" />
+    <published>2026-11-24T15:06:59Z</published>
+    <updated>2026-11-24T15:06:59Z</updated>
+    <summary>Perform fulfillment only once per payment. Because of how this integration and the internet work, your fulfill_checkout function might be called ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12736087503200193722</id>
+    <title>Let customers pay in their local currency | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/mobile/checkout-sessions/adaptive-pricing" />
+    <published>2026-11-24T15:06:59Z</published>
+    <updated>2026-11-24T15:06:59Z</updated>
+    <summary>Present localized prices and let eligible customers select their checkout currency in an iOS, Android, or React Native app.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:11529865616941110513</id>
+    <title>Express Checkout Element - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/mobile/checkout-sessions/express-checkout-element" />
+    <published>2026-11-24T15:06:59Z</published>
+    <updated>2026-11-24T15:06:59Z</updated>
+    <summary>Accept payments with Apple Pay, Google Pay, and Link using the mobile Express Checkout Element and Checkout Sessions.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:15256528709145487243</id>
     <title>The Financial Address Credit Simulation object | Stripe API Reference</title>
@@ -715,93 +803,5 @@
     <published>2026-10-31T20:44:17Z</published>
     <updated>2026-10-31T20:44:17Z</updated>
     <summary>Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:8516076583997237301</id>
-    <title>Supplemental pricing information | Stripe Documentation</title>
-    <link href="https://docs.stripe.com/global-payouts/supplemental-pricing-information" />
-    <published>2026-10-31T20:44:17Z</published>
-    <updated>2026-10-31T20:44:17Z</updated>
-    <summary>Global Payouts pricing includes the following fees: Per-payout fee: A fixed fee for each payout. Depending on your country, you get an allowance ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:2304104750104020949</id>
-    <title>The Tax location object | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/tax/location/object?api-version=2026-09-30.endive" />
-    <published>2026-10-31T20:44:17Z</published>
-    <updated>2026-10-31T20:44:17Z</updated>
-    <summary>Attributes · idstring. Unique identifier for the object. · objectstring, value is "tax.location" · addressobject. An object representing the address of ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:18157486587410126877</id>
-    <title>The Billing Evaluation object | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/radar/billing-evaluation/object?api-version=2026-09-30.preview" />
-    <published>2026-10-31T20:44:17Z</published>
-    <updated>2026-10-31T20:44:17Z</updated>
-    <summary>customer_details.customer_accountnullable string. The ID of the Account representing the customer whose upcoming payment was evaluated.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:16613296218614820842</id>
-    <title>The Billing Alert Notification object | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/billing/alert/notifications/object" />
-    <published>2026-10-31T20:44:17Z</published>
-    <updated>2026-10-31T20:44:17Z</updated>
-    <summary>Start of the aggregation period for which this notification was sent. Only present for usage threshold alerts.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:16245616888216985293</id>
-    <title>The Tax Calculation Line Item object | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/tax/calculations/line_items/object?api-version=2026-09-30.endive" />
-    <published>2026-10-31T20:44:17Z</published>
-    <updated>2026-10-31T20:44:17Z</updated>
-    <summary>idstring. Unique identifier for the object. · objectstring, value is "tax.calculation_line_item" · amountinteger. The line item amount in the smallest ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:10091216470159376916</id>
-    <title>The Financial Address Credit Simulation object | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/v2/money-management/financial-addresses/credit-simulation/object" />
-    <published>2026-10-31T20:44:17Z</published>
-    <updated>2026-10-31T20:44:17Z</updated>
-    <summary>Attributes · objectstring, value is "v2.money_management.financial_address_credit_simulation". String representing the object's type. · livemodeboolean.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:2513473975994533956</id>
-    <title>Recipient Verifications | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/v2/money-management/recipient-verifications" />
-    <published>2026-10-30T16:43:50Z</published>
-    <updated>2026-10-30T16:43:50Z</updated>
-    <summary>RecipientVerification represents a verification of recipient you intend to send funds to. Learn more about calling API v2 endpoints. Was this section ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:12811545517784578973</id>
-    <title>Payout Intents v2 - Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/v2/money-management/payout-intents" />
-    <published>2026-10-30T16:43:50Z</published>
-    <updated>2026-10-30T16:43:50Z</updated>
-    <summary>PayoutIntent represents an intent to send funds from a Financial Account to a payout method. Learn more about calling API v2 endpoints. Was this ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:9873323962846185244</id>
-    <title>Enable tax by default for subscriptions - Stripe Documentation</title>
-    <link href="https://docs.stripe.com/tax/subscriptions/automatic-tax-default" />
-    <published>2026-10-29T19:42:55Z</published>
-    <updated>2026-10-29T19:42:55Z</updated>
-    <summary>Use the Tax integration configuration API to enable automatic tax on subscriptions and understand how later updates affect tax collection.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:9476045716878680636</id>
-    <title>QRIS payments | Stripe Documentation</title>
-    <link href="https://docs.stripe.com/payments/qris" />
-    <published>2026-10-29T19:42:55Z</published>
-    <updated>2026-10-29T19:42:55Z</updated>
-    <summary>Quick Response Code Indonesian Standard (QRIS) is a real-time payment system developed by Bank Indonesia. Customers pay by scanning a QR code and ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:3681600417212081977</id>
-    <title>QRIS Payments | Stripe Documentation</title>
-    <link href="https://docs.stripe.com/payments/qris/accept-a-payment" />
-    <published>2026-10-29T19:42:55Z</published>
-    <updated>2026-10-29T19:42:55Z</updated>
-    <summary>To pay with QRIS, customers authenticate and approve payments by scanning a QR code in their preferred digital wallet or banking app. Determine ...</summary>
   </entry>
 </feed>
