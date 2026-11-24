@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-24T21:06:12Z</updated>
+  <updated>2026-11-24T22:06:17Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:6102666461776138969</id>
+    <title>Weil Gotshal Partners Hire Lawyer to Seek Promised Payments - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/weil-gotshal-partners-hire-lawyer-to-seek-promised-payments" />
+    <published>2026-11-24T22:06:17Z</published>
+    <updated>2026-11-24T22:06:17Z</updated>
+    <summary>Five partners who joined Weil Gotshal &amp; Manges in the months leading up to the firm's dissolution vote have hired a lawyer to seek guaranteed ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:3659276800465952716</id>
     <title>Shareholders Are Bankrolling AI Giants They Can't Control - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-11-19T19:05:36Z</published>
     <updated>2026-11-19T19:05:36Z</updated>
     <summary>Mortgage giant Rocket Cos. agreed to a nearly $7 million settlement with New York regulators over cybersecurity problems at two of its ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:5242536444454203024</id>
-    <title>Crypto Payments Firm MoonPay Applies for Bank Charter</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/crypto-payments-firm-moonpay-applies-for-bank-charter" />
-    <published>2026-11-19T19:05:36Z</published>
-    <updated>2026-11-19T19:05:36Z</updated>
-    <summary>Crypto payments firm MoonPay Inc. has applied for a US national bank charter, joining a growing number of digital asset companies seeking banking ...</summary>
   </entry>
 </feed>

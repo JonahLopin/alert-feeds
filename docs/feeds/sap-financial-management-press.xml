@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com)</title>
-  <updated>2026-11-24T18:42:50Z</updated>
+  <updated>2026-11-24T22:06:17Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sap-financial-management-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14619652090673358186</id>
+    <title>Less Code, More Context: How AI Is Reshaping the Developer Role - SAP News</title>
+    <link href="https://news.sap.com/2026/11/less-code-more-context-how-ai-is-reshaping-developer-role/" />
+    <published>2026-11-24T22:06:17Z</published>
+    <updated>2026-11-24T22:06:17Z</updated>
+    <summary>Software development is not the first profession to be reshaped by a new tool. SAP TechEd in 2026: The Autonomous Enterprise Becomes a Reality. Read ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:1306454180747882941</id>
+    <title>How the Atlas Copco Group Makes Skills Visible Throughout the Organization - SAP News</title>
+    <link href="https://news.sap.com/2026/11/how-atlas-copco-group-makes-skills-visible-throughout-organization/" />
+    <published>2026-11-24T22:06:17Z</published>
+    <updated>2026-11-24T22:06:17Z</updated>
+    <summary>Discover how Atlas Copco Group is working with SAP SuccessFactors and TechWolf to establish a common framework for skills.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:6956394946852277741</id>
     <title>sap research - SAP News</title>
@@ -778,21 +794,5 @@
     <link href="https://news.sap.com/australia/tag/chatgtp/" />
     <published>2026-10-20T06:16:51Z</published>
     <updated>2026-10-20T06:16:51Z</updated>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:5287783623196218769</id>
-    <title>SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Finance</title>
-    <link href="https://news.sap.com/2026/10/sap-recognized-leader-gartner-magic-quadrant-cloud-erp-finance/" />
-    <published>2026-10-19T18:38:06Z</published>
-    <updated>2026-10-19T18:38:06Z</updated>
-    <summary>Today's finance leaders are expected not only to report on business performance, but also to help shape it. They need a foundation that connects ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:13390281578638515286</id>
-    <title>The Gap That No LLMs Can Close | Tabular AI - SAP News Center</title>
-    <link href="https://news.sap.com/2026/10/gap-no-llm-can-close/" />
-    <published>2026-10-19T18:38:06Z</published>
-    <updated>2026-10-19T18:38:06Z</updated>
-    <summary>It is crucial for companies to combine LLMs and tabular AI where they provide the greatest benefit. Learn more about the combination.</summary>
   </entry>
 </feed>
