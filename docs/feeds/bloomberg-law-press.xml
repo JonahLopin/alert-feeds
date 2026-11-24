@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-24T20:23:14Z</updated>
+  <updated>2026-11-24T21:06:12Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:3659276800465952716</id>
+    <title>Shareholders Are Bankrolling AI Giants They Can't Control - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/shareholders-are-bankrolling-ai-giants-they-cant-control-1" />
+    <published>2026-11-24T21:06:12Z</published>
+    <updated>2026-11-24T21:06:12Z</updated>
+    <summary>One of the biggest investment booms in history is being directed by a small group of company founders who cannot be voted out of a job by the ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:7056084423743469722</id>
     <title>New Jackson Walker Cases Belong in Romance Probe, Judge Says - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-11-19T19:05:36Z</published>
     <updated>2026-11-19T19:05:36Z</updated>
     <summary>Crypto payments firm MoonPay Inc. has applied for a US national bank charter, joining a growing number of digital asset companies seeking banking ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:4672530679679063785</id>
-    <title>Ninth Circuit Extends Block on Renewed Venezuelan TPS Relief - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/ninth-circuit-extends-block-on-renewed-venezuelan-tps-relief" />
-    <published>2026-11-19T19:05:36Z</published>
-    <updated>2026-11-19T19:05:36Z</updated>
-    <summary>Temporary Protected Status will remain blocked for several hundred thousand Venezuelan immigrants while an appellate court reviews the lawfulness ...</summary>
   </entry>
 </feed>

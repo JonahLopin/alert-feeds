@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-24T15:06:59Z</updated>
+  <updated>2026-11-24T21:06:12Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:16614672470381657914</id>
+    <title>Encryption - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/terminal/encryption" />
+    <published>2026-11-24T21:06:12Z</published>
+    <updated>2026-11-24T21:06:12Z</updated>
+    <summary>All payments using Terminal are securely encrypted using end-to-end encryption (E2EE) by default. Businesses in certain industries, such as healthcare ...</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:15331568388710036795</id>
+    <title>The Webhook Endpoint object | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/webhook_endpoints/object?api-version=2026-05-27.preview" />
+    <published>2026-11-24T21:06:12Z</published>
+    <updated>2026-11-24T21:06:12Z</updated>
+    <summary>Attributes · idstring. Unique identifier for the object. · api_versionnullable string. The API version events are rendered as for this webhook endpoint.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8355259570286554489</id>
     <title>Collect taxes | Stripe Documentation</title>
@@ -787,21 +803,5 @@
     <published>2026-11-01T18:08:52Z</published>
     <updated>2026-11-01T18:08:52Z</updated>
     <summary>Each customer has a Balance value, which denotes a debit or credit that's automatically applied to their next invoice upon finalization. You may ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:12360306123449350497</id>
-    <title>Set up Stripe Reader T600</title>
-    <link href="https://docs.stripe.com/terminal/payments/setup-reader/stripe-reader-t600" />
-    <published>2026-11-01T18:08:52Z</published>
-    <updated>2026-11-01T18:08:52Z</updated>
-    <summary>Connect the reader to the internet. Because the Stripe Reader T600 is a smart reader, its reader software communicates directly with Stripe. Your ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:9485492197073821934</id>
-    <title>Supported recipient countries - Stripe Documentation</title>
-    <link href="https://docs.stripe.com/global-payouts/recipient-countries" />
-    <published>2026-10-31T20:44:17Z</published>
-    <updated>2026-10-31T20:44:17Z</updated>
-    <summary>Global Payouts supports recipients in the countries and currencies on this page. This list applies to all supported sender countries (US and UK).</summary>
   </entry>
 </feed>

@@ -4421,6 +4421,12 @@
    "summary": "The Trump administration was on track to complete about 660000 deportations last fiscal year, far lower than the goal of 1 million, according to a ...",
    "title": "Deportations Lag Behind Aggressive Trump Targets, Analysis Shows"
   },
+  "tag:google.com,2013:googlealerts/feed:3659276800465952716": {
+   "first_seen": "2026-11-24T21:06:12Z",
+   "link": "https://news.bloomberglaw.com/business-and-practice/shareholders-are-bankrolling-ai-giants-they-cant-control-1",
+   "summary": "One of the biggest investment booms in history is being directed by a small group of company founders who cannot be voted out of a job by the ...",
+   "title": "Shareholders Are Bankrolling AI Giants They Can't Control - Bloomberg Law News"
+  },
   "tag:google.com,2013:googlealerts/feed:367101856627261119": {
    "first_seen": "2026-11-20T02:09:44Z",
    "link": "https://news.bloomberglaw.com/business-and-practice/kirsten-a-davies-to-lead-national-cyber-director-office-axios",
@@ -9808,6 +9814,12 @@
    "summary": "Learn how to use Global Payouts to send USDC and OUSD stablecoin payouts from your financial account to recipients' crypto wallets in more than ...",
    "title": "Send payouts with crypto - stablecoin - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:15331568388710036795": {
+   "first_seen": "2026-11-24T21:06:12Z",
+   "link": "https://docs.stripe.com/api/webhook_endpoints/object?api-version=2026-05-27.preview",
+   "summary": "Attributes \u00b7 idstring. Unique identifier for the object. \u00b7 api_versionnullable string. The API version events are rendered as for this webhook endpoint.",
+   "title": "The Webhook Endpoint object | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:1542134788171224504": {
    "first_seen": "2026-10-22T10:47:14Z",
    "link": "https://docs.stripe.com/api/tax_reporting/forms/retrieve",
@@ -9909,6 +9921,12 @@
    "link": "https://docs.stripe.com/api/billing/alert/notifications/object",
    "summary": "Start of the aggregation period for which this notification was sent. Only present for usage threshold alerts.",
    "title": "The Billing Alert Notification object | Stripe API Reference"
+  },
+  "tag:google.com,2013:googlealerts/feed:16614672470381657914": {
+   "first_seen": "2026-11-24T21:06:12Z",
+   "link": "https://docs.stripe.com/terminal/encryption",
+   "summary": "All payments using Terminal are securely encrypted using end-to-end encryption (E2EE) by default. Businesses in certain industries, such as healthcare ...",
+   "title": "Encryption - Stripe Documentation"
   },
   "tag:google.com,2013:googlealerts/feed:16670148899943601293": {
    "first_seen": "2026-10-19T22:44:10Z",
