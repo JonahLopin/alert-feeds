@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com)</title>
-  <updated>2026-11-24T00:17:13Z</updated>
+  <updated>2026-11-24T18:42:50Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sap-financial-management-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:6956394946852277741</id>
+    <title>sap research - SAP News</title>
+    <link href="https://news.sap.com/australia/tag/sap-research/" />
+    <published>2026-11-24T18:42:50Z</published>
+    <updated>2026-11-24T18:42:50Z</updated>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8738939465580105016</id>
     <title>How SAP Store Certification Turns into Customer Trust for Vertex</title>
@@ -787,13 +794,5 @@
     <published>2026-10-19T18:38:06Z</published>
     <updated>2026-10-19T18:38:06Z</updated>
     <summary>It is crucial for companies to combine LLMs and tabular AI where they provide the greatest benefit. Learn more about the combination.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:1099783500645391086</id>
-    <title>1k AI Agents by SAP TechEd: Accelerating with Partners</title>
-    <link href="https://news.sap.com/2026/10/1k-ai-agents-by-sap-teched-sap-and-partners-accelerate-together/" />
-    <published>2026-10-19T18:38:06Z</published>
-    <updated>2026-10-19T18:38:06Z</updated>
-    <summary>When SAP issued a challenge to its partner ecosystem ahead of SAP Sapphire in 2026, it set an ambitious goal: 100 to 200 partner-built AI agents ...</summary>
   </entry>
 </feed>
