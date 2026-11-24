@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-24T19:43:10Z</updated>
+  <updated>2026-11-24T20:23:14Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:7056084423743469722</id>
+    <title>New Jackson Walker Cases Belong in Romance Probe, Judge Says - Bloomberg Law News</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/new-jackson-walker-cases-belong-in-romance-probe-judge-says" />
+    <published>2026-11-24T20:23:14Z</published>
+    <updated>2026-11-24T20:23:14Z</updated>
+    <summary>Justice Department litigation against Texas law firm Jackson Walker LLP over a romance between one of the firm's former attorneys and a prominent ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:1967464237582590169</id>
     <title>UK Wealth Manager St James's Place Hit by Cyber-Attack - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-11-19T19:05:36Z</published>
     <updated>2026-11-19T19:05:36Z</updated>
     <summary>Temporary Protected Status will remain blocked for several hundred thousand Venezuelan immigrants while an appellate court reviews the lawfulness ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:3109229536182042204</id>
-    <title>Coinbase Eyes In-House Prediction Markets in First Half 2027 - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/coinbase-eyes-in-house-prediction-markets-in-first-half-2027" />
-    <published>2026-11-19T19:05:36Z</published>
-    <updated>2026-11-19T19:05:36Z</updated>
-    <summary>Coinbase Global Inc. is targeting the first half of 2027 to begin offering in-house event contracts in the US, according to a person familiar with ...</summary>
   </entry>
 </feed>
