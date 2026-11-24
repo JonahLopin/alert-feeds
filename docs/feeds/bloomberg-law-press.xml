@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-24T14:07:51Z</updated>
+  <updated>2026-11-24T16:08:10Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:6644183562966703854</id>
+    <title>NetChoice Sues to Block NY's Teen Social Media Restriction Law - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/netchoice-sues-to-block-nys-teen-social-media-restriction-law" />
+    <published>2026-11-24T16:08:10Z</published>
+    <updated>2026-11-24T16:08:10Z</updated>
+    <summary>A New York law restricting social media companies from delivering certain content to users younger than 18 violates those companies' free-speech ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:2797129255162668724</id>
     <title>Trump, Huang Put Themselves Above US Security: Timothy O'Brien - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-11-19T19:05:36Z</published>
     <updated>2026-11-19T19:05:36Z</updated>
     <summary>President Donald Trump's sweeping reductions of Utah's Bears Ears and Grand Staircase-Escalante national monuments are unconstitutional and ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:11189711222940129123</id>
-    <title>Merkley Backs TSCA Fees, Stronger Toxic Chemical Protections - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/merkley-backs-tsca-fees-stronger-toxic-chemical-protections" />
-    <published>2026-11-19T19:05:36Z</published>
-    <updated>2026-11-19T19:05:36Z</updated>
-    <summary>Sen. Jeff Merkley (D-Ore.) supports Congress extending the EPA's authority to levy fees on chemical manufacturers, but there's little time to do ...</summary>
   </entry>
 </feed>
