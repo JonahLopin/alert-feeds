@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-24T13:07:22Z</updated>
+  <updated>2026-11-24T14:07:51Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:2797129255162668724</id>
+    <title>Trump, Huang Put Themselves Above US Security: Timothy O'Brien - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/trump-huang-put-themselves-above-us-security-timothy-obrien" />
+    <published>2026-11-24T14:07:51Z</published>
+    <updated>2026-11-24T14:07:51Z</updated>
+    <summary>It would have been a treat to be a fly on the wall when President Donald Trump contacted Nvidia Corp.'s directors and persuaded them to reinstate ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:2556474454793911889</id>
     <title>Fintech, FDIC Veteran Tapped as First Head of Bank Partner Group - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-11-19T19:05:36Z</published>
     <updated>2026-11-19T19:05:36Z</updated>
     <summary>Sen. Jeff Merkley (D-Ore.) supports Congress extending the EPA's authority to levy fees on chemical manufacturers, but there's little time to do ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:5701735371050271181</id>
-    <title>8 Entities Used Fake Crypto Platforms to Steal Over $37M: SEC - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/8-entities-used-fake-crypto-platforms-to-steal-over-37m-sec" />
-    <published>2026-11-19T18:08:22Z</published>
-    <updated>2026-11-19T18:08:22Z</updated>
-    <summary>The Securities and Exchange Commission charged eight Colorado-based entities, likely operated by individuals located overseas, for defrauding U.S. ...</summary>
   </entry>
 </feed>
