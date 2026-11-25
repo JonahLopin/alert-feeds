@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-25T18:43:00Z</updated>
+  <updated>2026-11-25T19:43:00Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:12075588999322917112</id>
+    <title>Ukraine Adopts Crypto Rules to Boost Revenues for War-Hit Budget - Bloomberg Law</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/ukraine-adopts-crypto-rules-to-boost-revenues-for-war-hit-budget" />
+    <published>2026-11-25T19:43:00Z</published>
+    <updated>2026-11-25T19:43:00Z</updated>
+    <summary>Ukraine's parliament passed legislation regulating virtual assets, in a bid to crack down on tax evasion and raise revenue for the war-strained ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:2784874193771716087</id>
     <title>Sidley Employs Kirkland's Cory for Fund Formation in Los Angeles - Bloomberg Law</title>
@@ -795,13 +803,5 @@
     <published>2026-11-20T02:09:44Z</published>
     <updated>2026-11-20T02:09:44Z</updated>
     <summary>Kirsten A. Davies has been appointed by White House Chief of Staff Stephen Miller to lead the Office of the National Cyber Director, an Axios ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:9741296497436152777</id>
-    <title>Metagenomi Reaches $7.5 Million Settlement in IPO Investor Suit - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/metagenomi-reaches-7-5-million-settlement-in-ipo-investor-suit" />
-    <published>2026-11-20T00:16:46Z</published>
-    <updated>2026-11-20T00:16:46Z</updated>
-    <summary>Metagenomi Therapeutics Inc. agreed to pay $7.5 million to settle investor allegations that the gene editing company failed to disclose a ...</summary>
   </entry>
 </feed>
