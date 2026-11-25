@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-25T04:42:42Z</updated>
+  <updated>2026-11-25T16:09:08Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:3805035154861177325</id>
+    <title>Make line item quantities adjustable - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/payments/checkout/adjustable-quantity?ui=elements" />
+    <published>2026-11-25T16:09:08Z</published>
+    <updated>2026-11-25T16:09:08Z</updated>
+    <summary>You can customize the default settings for the minimum and maximum quantities allowed by setting adjustable_quantity.minimum and adjustable_quantity.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:17546008944592561852</id>
+    <title>Consolidate subscription invoices - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/billing/subscriptions/consolidate-subscription-invoices" />
+    <published>2026-11-25T16:09:08Z</published>
+    <updated>2026-11-25T16:09:08Z</updated>
+    <summary>Use Billing Groups to consolidate charges from multiple subscriptions for the same customer. A group controls the invoice schedule, payment method ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:18308119353620396773</id>
     <title>Plans and fees | Stripe Documentation</title>
@@ -787,21 +803,5 @@
     <published>2026-11-02T16:44:12Z</published>
     <updated>2026-11-02T16:44:12Z</updated>
     <summary>GoPay is a digital wallet popular in Indonesia. Customers use the GoPay or the Gojek app to authorize GoPay payments. On mobile, customers are ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:11632586388865641608</id>
-    <title>Set up future GoPay payments | Stripe Documentation</title>
-    <link href="https://docs.stripe.com/payments/gopay/set-up-future-payments" />
-    <published>2026-11-02T16:44:12Z</published>
-    <updated>2026-11-02T16:44:12Z</updated>
-    <summary>GoPay allows customers in Indonesia link their GoPay account to a specific business for recurring payments. To do this, customers must enter their ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:8857171565754293260</id>
-    <title>How Stripe Capital works</title>
-    <link href="https://docs.stripe.com/capital?capital-country=GB" />
-    <published>2026-11-01T18:08:52Z</published>
-    <updated>2026-11-01T18:08:52Z</updated>
-    <summary>Stripe, with our financial partner, uses a combination of factors, including overall processing volume and history on Stripe to determine eligibility ...</summary>
   </entry>
 </feed>
