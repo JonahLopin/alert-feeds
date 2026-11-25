@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-25T16:09:08Z</updated>
+  <updated>2026-11-25T21:06:24Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:11194437031287616782</id>
+    <title>Billing Evaluations | Stripe API Reference</title>
+    <link href="https://docs.stripe.com/api/radar/billing-evaluation?api-version=2026-11-18.preview" />
+    <published>2026-11-25T21:06:24Z</published>
+    <updated>2026-11-25T21:06:24Z</updated>
+    <summary>Billing Evaluations represent Stripe Radar's assessment of the non-payment abuse risk of an upcoming charge. Unlike a Payment Evaluation, a billing ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:3805035154861177325</id>
     <title>Make line item quantities adjustable - Stripe Documentation</title>
@@ -795,13 +803,5 @@
     <published>2026-11-02T16:44:12Z</published>
     <updated>2026-11-02T16:44:12Z</updated>
     <summary>Obtain board consent and send post-money SAFEs with valuation caps to investors using Y Combinator templates through Docusign.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:13954862664206415903</id>
-    <title>GoPay payments | Stripe Documentation</title>
-    <link href="https://docs.stripe.com/payments/gopay" />
-    <published>2026-11-02T16:44:12Z</published>
-    <updated>2026-11-02T16:44:12Z</updated>
-    <summary>GoPay is a digital wallet popular in Indonesia. Customers use the GoPay or the Gojek app to authorize GoPay payments. On mobile, customers are ...</summary>
   </entry>
 </feed>

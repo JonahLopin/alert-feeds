@@ -9664,6 +9664,12 @@
    "summary": "Start or resume a Stripe Atlas application for a Delaware C corporation or LLC from an AI assistant or terminal, then review and submit it in the ...",
    "title": "Prepare an Atlas application with an agent or CLI - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:11194437031287616782": {
+   "first_seen": "2026-11-25T21:06:24Z",
+   "link": "https://docs.stripe.com/api/radar/billing-evaluation?api-version=2026-11-18.preview",
+   "summary": "Billing Evaluations represent Stripe Radar's assessment of the non-payment abuse risk of an upcoming charge. Unlike a Payment Evaluation, a billing ...",
+   "title": "Billing Evaluations | Stripe API Reference"
+  },
   "tag:google.com,2013:googlealerts/feed:11200741938482354025": {
    "first_seen": "2026-11-16T18:10:39Z",
    "link": "https://docs.stripe.com/js/react_stripe_js/checkout/confirm?__=&__cf_chl_jschl_tk__=pmd_f6969fc42a4f39e3af2950c0e26100501dd9e9b3-1629084041-0-gqNtZGzNAiKjcnBszQiO",
