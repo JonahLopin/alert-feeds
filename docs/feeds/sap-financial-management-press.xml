@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com)</title>
-  <updated>2026-11-24T22:06:17Z</updated>
+  <updated>2026-11-25T12:10:30Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sap-financial-management-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:6475877272261213949</id>
+    <title>AI Is Changing the First Job: Why Youth Employment Belongs on Every Business Agenda</title>
+    <link href="https://news.sap.com/2026/11/ai-changing-first-job-youth-employment-business-agenda/" />
+    <published>2026-11-25T12:10:30Z</published>
+    <updated>2026-11-25T12:10:30Z</updated>
+    <summary>As AI hits entry-level jobs hardest, learn why youth employment is a business priority and what SAP pursued at the UN General Assembly.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:14619652090673358186</id>
     <title>Less Code, More Context: How AI Is Reshaping the Developer Role - SAP News</title>
@@ -787,12 +795,5 @@
     <published>2026-10-20T06:16:51Z</published>
     <updated>2026-10-20T06:16:51Z</updated>
     <summary>Business people, woman and team applause in conference, tradeshow and support feedback of success. Happy employees, audience and clapping in ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:14483229239655102599</id>
-    <title>ChatGTP - SAP News Center</title>
-    <link href="https://news.sap.com/australia/tag/chatgtp/" />
-    <published>2026-10-20T06:16:51Z</published>
-    <updated>2026-10-20T06:16:51Z</updated>
   </entry>
 </feed>
