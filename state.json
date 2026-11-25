@@ -10102,6 +10102,12 @@
    "summary": "customer_details.customer_accountnullable string. The ID of the Account representing the customer whose upcoming payment was evaluated.",
    "title": "The Billing Evaluation object | Stripe API Reference"
   },
+  "tag:google.com,2013:googlealerts/feed:18308119353620396773": {
+   "first_seen": "2026-11-25T04:42:42Z",
+   "link": "https://docs.stripe.com/get-started/account/plans-and-fees",
+   "summary": "Find your pricing plan and the invoices and credit notes that Stripe issues to your account.",
+   "title": "Plans and fees | Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:18370535762810399770": {
    "first_seen": "2026-11-14T21:05:40Z",
    "link": "https://docs.stripe.com/issuing/commercial-compliance/issuing-regulated-customer-notices?issuing-notices-sender=platform&locale=fr-FR",

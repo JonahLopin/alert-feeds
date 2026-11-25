@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-24T21:06:12Z</updated>
+  <updated>2026-11-25T04:42:42Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:18308119353620396773</id>
+    <title>Plans and fees | Stripe Documentation</title>
+    <link href="https://docs.stripe.com/get-started/account/plans-and-fees" />
+    <published>2026-11-25T04:42:42Z</published>
+    <updated>2026-11-25T04:42:42Z</updated>
+    <summary>Find your pricing plan and the invoices and credit notes that Stripe issues to your account.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:16614672470381657914</id>
     <title>Encryption - Stripe Documentation</title>
@@ -795,13 +803,5 @@
     <published>2026-11-01T18:08:52Z</published>
     <updated>2026-11-01T18:08:52Z</updated>
     <summary>Stripe, with our financial partner, uses a combination of factors, including overall processing volume and history on Stripe to determine eligibility ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:17926487655219430336</id>
-    <title>Customer Balance Transactions | Stripe API Reference</title>
-    <link href="https://docs.stripe.com/api/customer_balance_transactions?api-version=2026-09-30.preview" />
-    <published>2026-11-01T18:08:52Z</published>
-    <updated>2026-11-01T18:08:52Z</updated>
-    <summary>Each customer has a Balance value, which denotes a debit or credit that's automatically applied to their next invoice upon finalization. You may ...</summary>
   </entry>
 </feed>
