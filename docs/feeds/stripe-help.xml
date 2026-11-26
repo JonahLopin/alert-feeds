@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:stripe-help</id>
   <title>Stripe help (site:docs.stripe.com)</title>
-  <updated>2026-11-25T21:06:24Z</updated>
+  <updated>2026-11-26T15:07:02Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/stripe-help.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:1063229078087947957</id>
+    <title>Change your app's ID - Stripe Documentation</title>
+    <link href="https://docs.stripe.com/stripe-apps/change-app-id" />
+    <published>2026-11-26T15:07:02Z</published>
+    <updated>2026-11-26T15:07:02Z</updated>
+    <summary>Change your app's ID in the Dashboard or with the Stripe Apps CLI. Prepare links, OAuth redirect URLs, and uploads, understand which settings stay ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:11194437031287616782</id>
     <title>Billing Evaluations | Stripe API Reference</title>
@@ -795,13 +803,5 @@
     <published>2026-11-02T16:44:12Z</published>
     <updated>2026-11-02T16:44:12Z</updated>
     <summary>Setting up a GoPay linking lets you collect future recurring payments without needing customer authorization again. Customers can manage their GoPay ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:18154959387243654720</id>
-    <title>Fundraise with SAFEs | Stripe Documentation</title>
-    <link href="https://docs.stripe.com/fundraising/safes" />
-    <published>2026-11-02T16:44:12Z</published>
-    <updated>2026-11-02T16:44:12Z</updated>
-    <summary>Obtain board consent and send post-money SAFEs with valuation caps to investors using Y Combinator templates through Docusign.</summary>
   </entry>
 </feed>

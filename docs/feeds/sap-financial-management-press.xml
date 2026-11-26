@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com)</title>
-  <updated>2026-11-25T18:25:32Z</updated>
+  <updated>2026-11-26T15:07:02Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sap-financial-management-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:14377046243231459050</id>
+    <title>SAP and planqc Bring Quantum Computing into Business Processes - SAP News</title>
+    <link href="https://news.sap.com/2026/11/sap-planqc-bring-quantum-computing-business-processes/" />
+    <published>2026-11-26T15:07:02Z</published>
+    <updated>2026-11-26T15:07:02Z</updated>
+    <summary>Learn how, with planqc, SAP can develop directly on real quantum hardware and shorten the path to real-world business applications.</summary>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:10690807681399837426</id>
+    <title>Southern African Retailer Achieves Single-weekend SAP Refreshes</title>
+    <link href="https://news.sap.com/africa/2026/11/southern-african-retailer-achieves-single-weekend-sap-refreshes/" />
+    <published>2026-11-26T15:07:02Z</published>
+    <updated>2026-11-26T15:07:02Z</updated>
+    <summary>EPI-USE Labs and K5 Business implement Refresh-as-a-Service using Data Sync Manager™ for a major Southern African retailer to streamline five SAP® ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:455819565502849399</id>
     <title>SAP Survey Highlights Role of Business Systems Ahead of SAP NOW AI Tour Riyadh</title>
@@ -779,21 +795,5 @@
     <published>2026-10-20T22:28:45Z</published>
     <updated>2026-10-20T22:28:45Z</updated>
     <summary>SAP expands Stay Certified with AI-powered roleplays, practical skill validation, and a more flexible certification renewal experience.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:10948679159984859247</id>
-    <title>The Suite Advantage: Why Enterprises Don't Evaluate CRM in Isolation - SAP News Center</title>
-    <link href="https://news.sap.com/2026/10/suite-advantage-why-enterprises-do-not-evaluate-crm-in-isolation/" />
-    <published>2026-10-20T22:28:45Z</published>
-    <updated>2026-10-20T22:28:45Z</updated>
-    <summary>To evaluate and deploy CRM and ERP independently leaves a structural gap in the information available to customer-facing employees.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:55650207167153581</id>
-    <title>SAP TechEd: 2026 Media &amp; Analyst Program</title>
-    <link href="https://news.sap.com/press-room/sap-teched-2026-media-analyst-program/" />
-    <published>2026-10-20T22:10:52Z</published>
-    <updated>2026-10-20T22:10:52Z</updated>
-    <summary>In-person event | October 27-29. Messe Berlin Berlin, Germany. Aerial View of the TV tower, Berlin town hall and Cathedral at dusk ...</summary>
   </entry>
 </feed>
