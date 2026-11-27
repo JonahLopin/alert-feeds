@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-27T12:10:30Z</updated>
+  <updated>2026-11-27T15:23:49Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:2549168077563330127</id>
+    <title>Trump Turns the Tide to Score Early Wins in Defamation Suits</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/trump-turns-the-tide-to-score-early-wins-in-defamation-suits" />
+    <published>2026-11-27T15:23:49Z</published>
+    <updated>2026-11-27T15:23:49Z</updated>
+    <summary>President Donald Trump's poor track record in court in his defamation lawsuits against the press is starting to turn around — at least for now.</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:8721703166712171692</id>
     <title>Hackers Breached US Air Force's Cloud Platform, Reuters Says - Bloomberg Law News</title>
@@ -795,13 +803,5 @@
     <published>2026-11-20T17:05:30Z</published>
     <updated>2026-11-20T17:05:30Z</updated>
     <summary>Perez advises clients on complex domestic and cross-border transactions, including public and private company M&amp;A, joint ventures, divestitures, ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:6170336362151391577</id>
-    <title>Greer Sees US Trade Probe 'Certainly' Concluding by Year End - Bloomberg Law News</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/greer-sees-us-trade-probe-certainly-concluding-by-year-end" />
-    <published>2026-11-20T16:07:07Z</published>
-    <updated>2026-11-20T16:07:07Z</updated>
-    <summary>US Trade Representative Jamieson Greer said he expects to conclude its pending 301 investigation by the end of the year.</summary>
   </entry>
 </feed>
