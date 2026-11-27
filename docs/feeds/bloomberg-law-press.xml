@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:bloomberg-law-press</id>
   <title>Bloomberg Law press (site:news.bloomberglaw.com/business-and-practice/)</title>
-  <updated>2026-11-27T18:08:00Z</updated>
+  <updated>2026-11-27T21:23:32Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/bloomberg-law-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:13458249218428754537</id>
+    <title>Florida County Sues Change Healthcare Over Ransomware Attack</title>
+    <link href="https://news.bloomberglaw.com/business-and-practice/florida-county-sues-change-healthcare-over-ransomware-attack" />
+    <published>2026-11-27T21:23:32Z</published>
+    <updated>2026-11-27T21:23:32Z</updated>
+    <summary>After the attack, CHTES shutdown its platforms and other systems that Brevard County relies on for billing services, according to the complaint filed ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:17750234136873203838</id>
     <title>Binance Steps Up Hunt for Child Abuse Payments With UK Watchdog</title>
@@ -795,13 +803,5 @@
     <published>2026-11-20T18:08:17Z</published>
     <updated>2026-11-20T18:08:17Z</updated>
     <summary>Athora Holding Ltd., which is backed by Apollo Global Management Inc., is considering selling its Belgian unit, according to people familiar with ...</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:629928219514992264</id>
-    <title>Why the US Tech Outages Likely Presage More to Come: Explainer</title>
-    <link href="https://news.bloomberglaw.com/business-and-practice/why-the-us-tech-outages-likely-presage-more-to-come-explainer" />
-    <published>2026-11-20T17:05:30Z</published>
-    <updated>2026-11-20T17:05:30Z</updated>
-    <summary>A series of technology outages that began on Nov. 11 spawned a collective freak-out across the US. Breakdowns that knocked out Microsoft Corp.</summary>
   </entry>
 </feed>
