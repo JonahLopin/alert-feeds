@@ -10576,6 +10576,12 @@
    "summary": "You can customize the default settings for the minimum and maximum quantities allowed by setting adjustable_quantity.minimum and adjustable_quantity.",
    "title": "Make line item quantities adjustable - Stripe Documentation"
   },
+  "tag:google.com,2013:googlealerts/feed:3857605702310735743": {
+   "first_seen": "2026-11-27T16:07:30Z",
+   "link": "https://docs.stripe.com/payments/checkout/name-collection?ui=elements",
+   "summary": "Enable name collection. Server-side. Create a Checkout Session and specify name collection settings. To enable name collection, configure the ...",
+   "title": "Collect customer names - Stripe Documentation"
+  },
   "tag:google.com,2013:googlealerts/feed:3860128045443675112": {
    "first_seen": "2026-10-09T11:10:19Z",
    "link": "https://docs.stripe.com/events/set-up-events",
