@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:alert-feeds:sap-financial-management-press</id>
   <title>SAP Financial Management press (site:news.sap.com)</title>
-  <updated>2026-11-26T15:07:02Z</updated>
+  <updated>2026-11-27T01:43:26Z</updated>
   <link rel="self" href="https://jonahlopin.github.io/alert-feeds/feeds/sap-financial-management-press.xml" />
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:1347041654611589984</id>
+    <title>Almost Half of UAE Consumers Have Used AI Agents to Make Buying Decisions on Their Behalf</title>
+    <link href="https://news.sap.com/mena/2026/11/almost-half-of-uae-consumers-have-used-ai-agents-to-make-buying-decisions-on-their-behalf/" />
+    <published>2026-11-27T01:43:26Z</published>
+    <updated>2026-11-27T01:43:26Z</updated>
+    <summary>New global Customer Loyalty Index finds 60% are more loyal to brands that make them feel personally valued, as rewards-based loyalty falls below ...</summary>
+  </entry>
   <entry>
     <id>tag:google.com,2013:googlealerts/feed:14377046243231459050</id>
     <title>SAP and planqc Bring Quantum Computing into Business Processes - SAP News</title>
@@ -787,13 +795,5 @@
     <published>2026-10-20T22:28:45Z</published>
     <updated>2026-10-20T22:28:45Z</updated>
     <summary>New specialised team aims to support asset-intensive industries to modernise operations, reduce costs and accelerate returns.</summary>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:12860644385954849124</id>
-    <title>SAP Introduces AI-Powered Roleplays to Help Learners Stay Certified</title>
-    <link href="https://news.sap.com/2026/10/sap-introduces-ai-powered-roleplays-learners-stay-certified/" />
-    <published>2026-10-20T22:28:45Z</published>
-    <updated>2026-10-20T22:28:45Z</updated>
-    <summary>SAP expands Stay Certified with AI-powered roleplays, practical skill validation, and a more flexible certification renewal experience.</summary>
   </entry>
 </feed>
